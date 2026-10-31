@@ -1,0 +1,705 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0001.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg0001.tlg001.ai-claude",
+ "source_edition": "tlg0001.tlg001.perseus-grc2",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Argonautica: AI translation (Claude)",
+  "author": "Apollonius Rhodius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0001.tlg001.perseus-grc2, from the Perseus Digital Library (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.527": "νήχυτον ὕδωρ (530) is rendered 'flowing water'; the sense of the adjective ('flowing' or 'abundant') is uncertain.",
+  "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1663": "ἐμέγηρεν (1670), literally 'grudged', is taken as casting the evil eye; ἀίδηλα (1671) may mean 'destructive' or 'unseen'.",
+  "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1027": "ἀδαίετον (1033) may mean 'undivided' or 'unburnt'; 'whole' is chosen.",
+  "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.21": "ὑποφήτορες (22) is rendered 'interpreters'; whether the Muses here prompt the poet or speak through him is disputed.",
+  "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1210": "κευθμῶν ἐξ ὑπάτων (1213): ὕπατος usually means 'highest'; here it is taken as 'utmost', of the deepest recesses.",
+  "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.702": "ἀτρέπτοιο φόνοιο (704), literally 'unturnable murder', is rendered 'inexorable'; it may mean a killing not yet expiated. τιμήορον (709) can mean 'avenger' or 'protector'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.1",
+   "text": "Beginning with you, Phoebus, the glorious deeds of men born long ago"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.2",
+   "text": "I shall recall, who through the mouth of the Pontus and between"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.3",
+   "text": "the Cyanean Rocks, at the command of King Pelias,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.21",
+   "text": "of the heroes, and the paths of the long sea, and all that they did"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.22",
+   "text": "in their wanderings; and may the Muses be the interpreters of my song."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.23",
+   "text": "First, then, let us call to mind Orpheus, whom once she herself,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.24",
+   "text": "Calliope, it is said, having lain with Thracian"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.25",
+   "text": "Oeagrus, bore near the Pimpleian height."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.507",
+   "text": "and they meanwhile ruled over the blessed gods, the Titans,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.508",
+   "text": "while Zeus was still a boy, still with childish thoughts in his mind,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.509",
+   "text": "and dwelt in the Dictaean cave; and not yet had they,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.510",
+   "text": "the earth-born Cyclopes, armed him with the thunderbolt,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.1.511",
+   "text": "with thunder and lightning; for these give Zeus his glory."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.704",
+   "text": "began a clear song to his Bistonian lyre:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.705",
+   "text": "how once beneath the rocky ridge of Parnassus"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.706",
+   "text": "he slew with his arrows the monstrous Delphyne,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.707",
+   "text": "while still a naked boy, still delighting in his locks."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.708",
+   "text": "Be gracious! Always, lord, your hair is unshorn,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1208",
+   "text": "easy: such a serpent guards it round about,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1209",
+   "text": "deathless and sleepless, which Earth herself brought forth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1210",
+   "text": "on the slopes of the Caucasus, where Typhon's Rock is,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1211",
+   "text": "where they say that Typhon, by the thunderbolt of Zeus, son of Cronus,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1212",
+   "text": "struck, when he raised his mighty hands against him,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1213",
+   "text": "dripped hot blood from his head; and in that state he reached"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1214",
+   "text": "the mountains and the plain of Nysa, where even now"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1215",
+   "text": "he lies submerged beneath the waters of the Serbonian lake."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1216",
+   "text": "So he spoke; and pallor seized the cheeks of many"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.2.1217",
+   "text": "at once, when they heard of such a contest. But quickly Peleus"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.527",
+   "text": "is better than to choose an evil doom by not sparing ourselves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.528",
+   "text": "There is a girl brought up in the halls of Aeetes,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.529",
+   "text": "whom the goddess Hecate taught surpassingly to work with"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.530",
+   "text": "drugs, all that the mainland and the flowing water grow;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.531",
+   "text": "by them even the blast of tireless fire is soothed,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.532",
+   "text": "and she stops rivers at once as they flow roaring,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.533",
+   "text": "and binds fast the stars and the paths of the holy moon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.534",
+   "text": "Of her, as we came here along the path from the palace,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.535",
+   "text": "we made mention, in case she, being her sister, might be able"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.852",
+   "text": "the flesh-devouring eagle, on the slopes of the Caucasus,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.853",
+   "text": "the bloody ichor of tormented Prometheus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.854",
+   "text": "Its flower, about a cubit high above [the ground],"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.855",
+   "text": "appeared in colour like the Corycian crocus,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.856",
+   "text": "raised on twin stalks; but in the earth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.857",
+   "text": "the root was like flesh newly cut."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.858",
+   "text": "Its juice, dark like the sap of an oak in the mountains,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.859",
+   "text": "she had gathered in a Caspian shell to make her drug,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.860",
+   "text": "after bathing seven times in ever-flowing waters"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.861",
+   "text": "and seven times calling on Brimo, nurse of the young,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.862",
+   "text": "Brimo the night-wanderer, of the underworld, queen among the dead,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.863",
+   "text": "in the gloom of night, in dark garments."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.864",
+   "text": "And with a bellowing the black earth shook beneath"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.865",
+   "text": "as the Titanian root was cut; and he himself groaned,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.866",
+   "text": "the son of Iapetus, his spirit distraught with pain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.867",
+   "text": "This she had taken out and placed in the fragrant band"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.868",
+   "text": "which was fastened round her ambrosial breast."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1027",
+   "text": "When my father, on your coming to him, puts into your hands"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1028",
+   "text": "the deadly teeth from the serpent's jaws to sow,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1029",
+   "text": "then, watching for the middle of the night, when it is divided in two,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1030",
+   "text": "having bathed in the streams of the tireless river,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1031",
+   "text": "alone, apart from others, in dark garments,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1032",
+   "text": "dig a rounded pit; and in it a female"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1033",
+   "text": "sheep slaughter, and lay it out whole as a raw offering,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1034",
+   "text": "having piled a pyre well over the pit itself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1035",
+   "text": "And propitiate Hecate, the only-begotten daughter of Perses,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1036",
+   "text": "pouring from a cup the hive-stored work of bees."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1037",
+   "text": "Then, when you have called the goddess to mind and propitiated her,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1038",
+   "text": "withdraw back from the pyre; and let neither the thud"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1039",
+   "text": "of feet rouse you to turn around behind you,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1040",
+   "text": "nor the baying of dogs, lest somehow, spoiling everything,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1041",
+   "text": "you yourself do not return in proper order to your comrades."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1042",
+   "text": "At dawn, moisten this drug, and like an ointment,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1043",
+   "text": "stripped bare, rub it over your body; and in it there will be prowess"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1044",
+   "text": "boundless, and great strength, and you would say you were a match not"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1045",
+   "text": "for men but for the immortal gods."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1046",
+   "text": "And besides, let your shield be sprinkled, along with the spear itself,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1047",
+   "text": "and your sword. Then the points would not cut you"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1210",
+   "text": "putting fire beneath, and over it he poured mingled libations,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1211",
+   "text": "calling on Brimo Hecate as helper in his contests."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1212",
+   "text": "And having called on her he went back; and she, hearing,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1213",
+   "text": "the dread goddess, came from the utmost depths to meet"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1214",
+   "text": "the rites of the son of Aeson; and all around her were wreathed"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1215",
+   "text": "terrible serpents among oak boughs."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1216",
+   "text": "And the boundless blaze of torches flashed; and around her"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1217",
+   "text": "the hounds of the underworld howled with shrill barking."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1218",
+   "text": "All the meadows trembled along her path; and they cried aloud,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.3.1219",
+   "text": "the marsh-dwelling river nymphs, who around that"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.49",
+   "text": "her among the guards, and she escaped their notice as she sped."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.50",
+   "text": "From there she resolved to go to the temple; for she was not unacquainted"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.51",
+   "text": "with the roads, having often roamed before around corpses"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.52",
+   "text": "and around the stubborn roots of the earth, as women"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.53",
+   "text": "who are sorceresses do; and her heart quivered with trembling fear."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.54",
+   "text": "And as the Titanian one, newly rising from the far horizon,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.55",
+   "text": "saw her wandering in frenzy, the goddess Mene [the Moon] gloated over her"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.56",
+   "text": "with glee, and spoke such words in her own heart:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.57",
+   "text": "'So I am not the only one to slip away to the Latmian cave,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.58",
+   "text": "nor do I alone burn for handsome Endymion;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.59",
+   "text": "truly, often have I gone away at your guileful incantations,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.60",
+   "text": "thinking of my love, so that in the dark night"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.61",
+   "text": "you might work your sorcery at ease, the deeds that are dear to you."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.62",
+   "text": "But now you yourself, it seems, have your share of a like madness;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.63",
+   "text": "and has given you Jason to be a grievous affliction,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.122",
+   "text": "the chieftains, on the advice of Argus, set ashore."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.123",
+   "text": "And the two came by a footpath to the sacred grove,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.124",
+   "text": "seeking the vast oak on which the fleece"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.125",
+   "text": "was hung, like a cloud that at the rising"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.126",
+   "text": "sun's fiery rays turns red."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.127",
+   "text": "But right opposite, he stretched out his huge long neck,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.154",
+   "text": "raising its terrible head on high, it was eager"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.155",
+   "text": "to enfold both of them in its deadly jaws."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.156",
+   "text": "But she, with a newly cut sprig of juniper"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.157",
+   "text": "dipping pure drugs from the brew, with incantations"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.158",
+   "text": "sprinkled them over its eyes; and all around, the immense scent"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.159",
+   "text": "of the drug cast sleep; and its jaw, in that very place,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.160",
+   "text": "it laid down, resting it; and far behind, those endless"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.161",
+   "text": "coils were stretched out through the thick-trunked wood."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.462",
+   "text": "in case she might contrive some trick against the strangers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.463",
+   "text": "And the two of them were agreeing with each other on every point;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.464",
+   "text": "and at once the son of Aeson sprang out of the close ambush,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.465",
+   "text": "raising his naked sword in his hand; and at once the girl"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.466",
+   "text": "turned her eyes away, veiling herself in linen,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.467",
+   "text": "so as not to see the slaughter of her brother as he was struck."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.468",
+   "text": "And him, as an ox-slaughterer [strikes] a great strong-horned bull,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.469",
+   "text": "he struck, having watched for him, near the temple which once"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.470",
+   "text": "the Brygi who dwell around, on the mainland opposite, built for Artemis."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.702",
+   "text": "she performed the sacrifice by which are cleansed"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.703",
+   "text": "ruthless suppliants when they come to the hearth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.704",
+   "text": "First, as a release from the inexorable murder, she"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.705",
+   "text": "stretched out above [them] the young of a sow whose teats still"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.706",
+   "text": "were brimming from the womb newly delivered, and their hands with blood"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.707",
+   "text": "she wetted, cutting its throat; and again with other"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.708",
+   "text": "libations she made propitiation, invoking as Purifier"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.709",
+   "text": "Zeus, the protector of the supplications of the blood-guilty."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.710",
+   "text": "And all the defilements together they carried out of the house,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.711",
+   "text": "the Naiad attendants, who saw to every task for her."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.890",
+   "text": "they hauled up, stretching it in the straps of the yard."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.891",
+   "text": "A steady wind carried the ship. And soon an island,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.892",
+   "text": "a fair one, Anthemoessa, they beheld, where the clear-voiced"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.893",
+   "text": "Sirens, daughters of Achelous, would destroy, with their sweet"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.894",
+   "text": "songs enchanting him, whoever cast a mooring-rope there."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1394",
+   "text": "they kept searching for a spring; for a parching"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1395",
+   "text": "thirst lay on them, besides their hardship and pains; and not in vain"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1396",
+   "text": "did they wander. They came to the holy plain where Ladon,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1397",
+   "text": "until only yesterday, it seems, guarded the all-golden apples"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1398",
+   "text": "in the land of Atlas, the serpent of the earth; and around him the nymphs,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1399",
+   "text": "the Hesperides, busied themselves, singing their lovely song."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1400",
+   "text": "But by then, at that very time, struck down by Heracles,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1401",
+   "text": "he lay flung against the trunk of the apple tree; only with the tip"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1402",
+   "text": "of his tail was he still writhing; but from his head along his dark"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1636",
+   "text": "Carpathus; and from there they meant to cross over"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1637",
+   "text": "to Crete, which surpasses the other islands in the sea."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1638",
+   "text": "But bronze Talos, from the massive crag"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1639",
+   "text": "breaking off rocks, kept them from tying their cables to the land"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1640",
+   "text": "as they came into the sheltering anchorage of Dicte."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1641",
+   "text": "Him, of the bronze race of men sprung from ash trees"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1642",
+   "text": "the one left over from that stock among the men who were demigods,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1643",
+   "text": "the son of Cronus gave to Europa to be the warden of the island,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1644",
+   "text": "striding three times around Crete on his bronze feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1645",
+   "text": "Now, the rest of his body and his limbs were made"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1663",
+   "text": "she went up onto the deck; and grasping her hand in his hand,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1664",
+   "text": "the son of Aeson guided her as she went between the benches."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1665",
+   "text": "There with songs she sought to appease, and hymned the *Kēres* [spirits of death],"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1666",
+   "text": "heart-devouring, swift hounds of Hades, who, through all"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1667",
+   "text": "the air whirling, are driven against the living."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1668",
+   "text": "Beseeching them, three times she called on them with songs,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1669",
+   "text": "three times with prayers; and, setting her mind to evil, with hostile"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1670",
+   "text": "eyes she cast the evil eye on the eyes of bronze Talos;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1671",
+   "text": "against him she ground out baleful wrath, and sent forth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1672",
+   "text": "destructive phantoms, in vehement fury."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1673",
+   "text": "Father Zeus, truly great wonder stirs in my mind,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0001.tlg001.perseus-grc2.4.1674",
+   "text": "if indeed destruction [comes upon us] not only by diseases and wounds"
+  }
+ ]
+}

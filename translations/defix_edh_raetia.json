@@ -1,0 +1,121 @@
+{
+ "work_urn": "urn:defix:edh:raetia",
+ "edition_urn": "urn:defix:edh:raetia.ai-claude",
+ "source_edition": "urn:defix:edh:raetia:lat",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Curse tablets from Raetia (Epigraphic Database Heidelberg): AI translation (Claude)",
+  "author": "Latin curse tablets",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:defix:edh:raetia:lat, from the Epigraphic Database Heidelberg (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Epigraphic Database Heidelberg and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "17875.2.7": "Fragments of three tablets. 17875: '[ipi]atis' completes the 'cor-' that ends the preceding line, cor[ipi]atis, 'that you (plural) seize'; the next line is lost. 19906: Muta Tacita is the goddess of silence; each later 'Mutae' could be the goddess ('to Muta') rather than plural 'Mute Ones', and the repeated formula is obscure; 'rutus' is doubtful (perhaps for ruptus, 'broken'); the 'golden gates' are unexplained. 57898: AMC is unexplained, perhaps initials; 'ad era(m)' is unclear ('to the Lady', or perhaps 'to the altar'); Ogmius is the Celtic god Ogmios. The edition gives some words in several spellings separated by # (normalised, and as written: IMPLEID, CUR, TALUS); each word is translated once, so 'will fulfil' (implebit) runs over the tablet's first three lines.",
+  "58312.1.5": "'against' completes 'adve-' at the end of the preceding line (adve-rsus). Ogmius is the Celtic god Ogmios. In line 2.3 letters before and after DM are erased on the tablet; DM...O and DIM...O are unexplained. Niger and Valerius (accusative, so among those cursed) are names; the surrounding words are lost."
+ },
+ "nodes": [
+  {
+   "ref": "17875.2.7",
+   "text": "[... that you] se[i]ze [...]"
+  },
+  {
+   "ref": "17875.2.0",
+   "text": "[...]"
+  },
+  {
+   "ref": "19906.1.1",
+   "text": "To Muta Tacita: that he may be mute,"
+  },
+  {
+   "ref": "19906.1.2",
+   "text": "Quartus; harried, may he wander like a mouse"
+  },
+  {
+   "ref": "19906.1.3",
+   "text": "in flight, or a bird facing a basilisk,"
+  },
+  {
+   "ref": "19906.1.4",
+   "text": "that h[i]s mouth may be mute. Mute Ones!"
+  },
+  {
+   "ref": "19906.1.5",
+   "text": "Mute Ones, may they be [d]ire! Mute Ones,"
+  },
+  {
+   "ref": "19906.1.6",
+   "text": "may they be silent! Mute Ones,"
+  },
+  {
+   "ref": "19906.1.7",
+   "text": "that [Qu]a[rt]us may go mad."
+  },
+  {
+   "ref": "19906.2.1",
+   "text": "That he may be cast down (?) to the Erinyes, and"
+  },
+  {
+   "ref": "19906.2.2",
+   "text": "Quartus to Orcus; that the Mute Ones,"
+  },
+  {
+   "ref": "19906.2.3",
+   "text": "silent — that they may [be] mute"
+  },
+  {
+   "ref": "19906.2.4",
+   "text": "at the golden gates."
+  },
+  {
+   "ref": "57898.1.1",
+   "text": "I bind AMC, that thing. [He] will ful-"
+  },
+  {
+   "ref": "57898.1.2",
+   "text": "-fil [it]:"
+  },
+  {
+   "ref": "57898.1.3",
+   "text": "Dis Pater, to the Lady (?), Ogmius:"
+  },
+  {
+   "ref": "57898.1.4",
+   "text": "health, heart, ankles, ki[dneys]"
+  },
+  {
+   "ref": "58312.1.5",
+   "text": "against her speaks — all of them"
+  },
+  {
+   "ref": "58312.1.6",
+   "text": "may you de[str]oy."
+  },
+  {
+   "ref": "58312.2.1",
+   "text": "[I a]sk you all, [w]ho for her"
+  },
+  {
+   "ref": "58312.2.2",
+   "text": "are [pre]paring evil to be given:"
+  },
+  {
+   "ref": "58312.2.3",
+   "text": "[...]DM[...]O to be given to O[g]mius, to be [con]-"
+  },
+  {
+   "ref": "58312.2.4",
+   "text": "sumed by deat[h] [...]T[...]T[...]NTI and Nige[r] [...]"
+  },
+  {
+   "ref": "58312.2.5",
+   "text": "DIM[...]O Valerius"
+  }
+ ]
+}

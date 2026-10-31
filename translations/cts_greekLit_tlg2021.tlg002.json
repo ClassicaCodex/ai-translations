@@ -1,0 +1,37 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2021.tlg002",
+ "edition_urn": "urn:cts:greekLit:tlg2021.tlg002.ai-claude",
+ "source_edition": "tlg2021.tlg002.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Panarion (Adversus Haereses): AI translation (Claude)",
+  "author": "Epiphanius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2021.tlg002.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2021.tlg002.1st1K-grc1.30.8.3.1": "The text repeats words ('ἅμα ἅμα γόητες γόητες'), a dittography. 'τινας' seems to lack its noun, or goes with 'incantations' (ἐπιορκισμούς).",
+  "urn:cts:greekLit:tlg2021.tlg002.1st1K-grc1.24.7.2.1": "'ὑπερ- άνω' is read as ὑπεράνω. 'Ἀβασάξ' is a slip for Abrasax. The 'numerical value' (ψῆφος) is the sum of the letters taken as numbers."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2021.tlg002.1st1K-grc1.24.7.2.1",
+   "text": "And he says that the power and principle above these is Abrasax, because the numerical value of Abrasax holds the number three hundred and sixty-five, so that from this he tries to establish the evidence for his myth-making about the three hundred and sixty-five heavens."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2021.tlg002.1st1K-grc1.26.10.6.1",
+   "text": "Some say that Sabaoth has the form of an ass, others of a pig; and for this reason, he says, he commanded the Jews not to eat pig. And [they say] that he is the maker of heaven and earth, and of the heavens after him, and of his own angels."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2021.tlg002.1st1K-grc1.30.8.3.1",
+   "text": "There the sorcerers together took the aforementioned [young man] and worked upon him certain incantations and practices full of impiety, and in the name of the aforementioned woman."
+  }
+ ]
+}

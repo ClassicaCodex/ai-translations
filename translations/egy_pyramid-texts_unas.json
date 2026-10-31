@@ -1,0 +1,1015 @@
+{
+ "work_urn": "urn:egy:pyramid-texts:unas",
+ "edition_urn": "urn:egy:pyramid-texts:unas.ai-claude",
+ "source_edition": "urn:egy:pyramid-texts:unas:translit",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Pyramid Texts I: Unas: AI translation (Claude)",
+  "author": "Pyramid Texts",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:egy:pyramid-texts:unas:translit, from the UD Egyptian-PC treebank of the Pyramid Texts (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the UD Egyptian-PC treebank of the Pyramid Texts and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "273.402c": "Line 1: ḫśf 'repel, punish'; who sends the messenger is not clear from this line alone. Line 7: kꜣp.(w)t 'fumigation, incense-burning', perhaps here 'fuel'. Line 9: šśr, rendered 'stoked', is uncertain (perhaps 'scraped' or 'stirred'). Line 13: ꜥšm ꜥšm.w wr is obscure; perhaps 'the most sacred of the Great One's images'. Line 14: mk.t taken as 'proper place'; it can also mean 'protection'. Line 18: ꜥw may be 'hand, help' rather than 'warrant'. Line 20: śbn is unclear; 'crowned' is a guess from context. Line 27: fꞽw, rendered 'disgusted', and śbš.w (left as *sebeshu*, some substance in the crown) are both uncertain. Line 28: wꜣḫ 'flourish, endure', uncertain here. Last line: the edition deletes the n of č̣.t{n}.",
+  "219.167d": "Line 1: nhp is uncertain ('mourn'; perhaps 'rise early'). śč̣b, rendered 'revive', is uncertain throughout, and so is ss in lines 8 and 10, rendered 'punish'. Line 15: 'your' in Nut's words is plural (čn); the sense of the saying is unclear. Line 19: nč̣ṭnč̣ṭ … č̣ṭ(ꞽ).t plays on the root 'endure'; č̣ṭ(ꞽ).t may instead be a place name.",
+  "301.447a": "pꜣ.t is a kind of offering-cake. Line 1: nčr(.wꞽ) ⸗śn may be 'their two gods' rather than 'their divinity'. Line 3: č.wt, rendered 'portions', is uncertain. Line 4: ḫśb, taken as 'hinder', is uncertain, as is the negative construction ꞽm ⸗čn. Nḥ and Nḥ-nb-rnp.t are names I could not identify.",
+  "212.133e.2": "Line 2: ḫnč̣ and śꜣšr.t are foods or drinks I could not identify. Line 5: the *aba*, *mekes* and *nehbet* are royal sceptres or insignia; the *mekes* may be a document case. The second 'you may' translates a pronoun supplied by the editors.",
+  "267.365b": "Line 1: ꞽṭ.t 'incense, censing', uncertain. Line 6: ꞽ:ḫm(.w)-ꞽw.t, 'who does not know coming', is obscure; it may name a class of beings, and who is addressed is not stated. Line 8: śč (twice) is taken as a particle introducing the clauses; ꞽwṭ 'separate from', rendered 'push off from'. Line 9: ꞽꜥ, rendered 'ascend', is uncertain.",
+  "217.152a": "Line 1: nb ḫr.wt ś.t wꜣč̣ 4 is uncertain; taken as 'lord of the affairs of the place of the four papyrus-columns', presumably the supports of the sky.",
+  "221.198c-d": "Line 1: Ꞽḫ.t-wt.t and Ꞽḫ.t-wr.t (perhaps 'the Begetting One' and 'the Great One') are names of the crown goddess, left untranslated; ś:škr, restored and rendered 'adorned', is uncertain. Line 4: nšš, restored, rendered 'spittle'.",
+  "236.240": "A snake spell. Apart from 'Recitation' and 'that is your name', the words do not read as Egyptian (probably a foreign incantation) and are given in transliteration; sꜣ may be 'son'. Untranslatable from the text alone.",
+  "254.277b": "fꜣ.t, rendered 'curse', is uncertain.",
+  "272.392d.1": "Line 2: tḫtḫ 'disordered, confused'. Line 3: ꞽḥ.y, rendered 'darkened', is uncertain. Line 4: pč̣.(w)t 'bows', perhaps the vaults of the sky. Lines 4–5: ḳś(.w) is read with ꜣkr.w as 'the bones of the Akeru'; gr(.w) r ⸗śn gnm.w is obscure, and the *genmu* are unidentified beings. Line 6: sꜣb.wt, rendered 'cunning', is uncertain.",
+  "230.230a.2": "A snake spell. Line 1: śpḥ.t(ꞽ) taken as 'ribs'; uncertain. Line 2: śt mw may be an order, 'pour water'. Lines 3–4: the Shemset (š(m)ś.t, with the m supplied) is unidentified, perhaps a goddess or a weapon. Line 5: p{n}<s>ḥ is the editors' correction to psḥ 'bite'; ś:bꜣg, 'the one who weakens', is uncertain.",
+  "252.274c": "Line 2: the first wꜥb.n has no expressed subject, and the editors supply 'I' for the second; perhaps 'He who has bathed has bathed in the Field of Reeds'. Line 6 may be a statement: 'Nut takes his hand'.",
+  "263.338a-339a": "Line 1: nhni̯, rendered 'summons', is a verb I do not know, and sb(.w) r ⸗ś(n), 'those who have gone to them', is uncertain. Line 2: ḥnk.t(ꞽ)w taken as 'sidelock-wearers', and č̣śr.w ('raised, holy') as 'raised upon'; both uncertain. Line 5: nč̣ ꜥḳ, rendered 'the entry … is welcomed', is uncertain. Line 6: Mr-n(.ꞽ)-ḫꜣ is an unidentified waterway ('Lake of Kha', or 'of the Thousand'). Line 9: Ṭwꜣ.t may be the Duat or the morning star. Line 10 names Pepi, not Unas: it belongs to spell 266 in Pepi's version.",
+  "75.51b": "The words after each vertical stroke in the edition name the oil offered. Line 1: šnm.tn ⸗f, rendered 'which he has joined', puns on the oil's name and is uncertain. Line 10: ḥꜣ.tt Čḥn.w is 'first-quality Tjehenu (Libyan) oil', punning on ḥꜣ.t 'brow'. Words the editors supplied (in angle brackets or parentheses) are bracketed here.",
+  "211.132a": "Line 1: ꞽwꞽ(.w) is read as 'conceived', like ꞽwr(.w) in line 3; it could be 'came'. Line 2: ṭp.(ꞽ)w-ꜥw.w(ꞽ) 'those who are before', perhaps 'predecessors'. Line 5: č̣n.w is a plant I could not identify.",
+  "213.135b.1": "Line 4: ꞽꜣ.(w)t 'mounds' (perhaps 'domains'); pẖr n ⸗k, literally 'go round for you', rendered 'serve you'. Line 5: sꜣ(u̯) k(w) šꞽ, rendered 'beware of the lake', is uncertain.",
+  "215.141d": "Line 3: ꞽꜥḥ, rendered 'take hold of', is uncertain. Line 4: which god is 'that one' and which 'this one' is not stated. Line 5: Horus may be addressed, or in apposition to 'you' ('you are born as Horus'). Line 4: mś(.w) ⸗k Ḥr.w read as 'you bear Horus' (Horus the object); 'you are born, Horus' is also possible but leaves Ḥr.w unexplained.",
+  "215.148d.1": "ꞽ:ḫm(.w)-śk(.w) may be an epithet ('the imperishable') rather than an address. Line 7: sꜣ.t(ꞽ) taken as 'twin children'; it may be 'two daughters'.",
+  "222.204a": "ḥtmꞽ, rendered 'equipped', is uncertain. Nbw.t is Nubt (Ombos), Seth's town.",
+  "222.207d.2": "Line 1: ꞽ:fḫ n ⸗k m mꜣr.w, rendered 'loose yourself from misery', is uncertain. Line 2: rpw.t ꞽwn.t is obscure; rpw.t may be a female image or a goddess, and ꞽwn.t may be Dendera; 'the Lady of Iunet' is a guess.",
+  "224.218f": "Line 3: nḥb.t may be 'titulary' rather than a sceptre. Line 4: mṭw ⸗k may be 'your speech' rather than 'your staff'.",
+  "254.287a-b": "Line 1 is obscure: bꜥḥ 'flood, abundance'; perhaps 'they eat when they would drink'. Line 3: Hekenutet is a goddess I could not identify. Line 4: twꜣ.t Šw may instead mean 'whom Shu supports'; Djedu is Busiris and Djedet Mendes, but Djedut is unidentified; ꞽꜣ.t(ꞽ), rendered 'the two standards', may be 'mounds'. Line 5: ẖnn.w(ꞽ) 'the two who cause uproar', rendered 'the two combatants'; Tebi is unidentified.",
+  "260.317a.1": "Line 1: tfn and tfn.t (lower case in the edition) may be the divine pair Tefen and Tefenet or common nouns; uncertain. Line 5: smꜣ may be 'unite with' or 'slay'.",
+  "260.319b": "ꞽr Mꜣꜥ.t may be 'for Maat' rather than 'to Maat', and the tense of pr.ꞽ is uncertain.",
+  "32.23a": "Line 2: m pr-tꞽ n ⸗k ḫrw is uncertain; it echoes the 'coming forth at the voice' (invocation offering). The words after the vertical stroke are the ritual's instructions. Lines 3 and 5: smꞽn seems to be a kind of natron or cleansing substance, left untranslated.",
+  "34.26f": "ḥsmn ⸗k may be 'your natron'. The words after the vertical stroke are the ritual's instructions; Nḫb is Nekheb (el-Kab).",
+  "219.192b.3": "ꞽ:fḫ 'loosen, release' is uncertain here, and 'it' (ś(ꞽ)) is presumably the Eye named in the preceding lines.",
+  "220.194b.1": "N.t is taken as a name of the Red Crown, not the goddess Neith; Nesret ('the Flaming One'), the Great One and Great-of-Magic are further names of the crown goddess.",
+  "245.250b.1": "250b.1: qmꜣ means both 'throw' and 'create'; taken as 'cast'. 250c-d: gmḥś.w is a kind of falcon, species uncertain. 251a: wp, 'open', may also mean 'claim' or 'set apart'.",
+  "246.254b-c": "254b-c: ṭp-rṭ.wꞽ, literally 'upon the feet', rendered 'at the feet of'; it may mean 'at the bidding of'. 255a: qbḥ.w, 'cool waters', is a region of the sky. 256b.1: ꜥḥꜥ ꜥḥꜥ ḥꜣ⸗k could also be read 'Stand, stand behind you!'.",
+  "247.257c": "258a: śꜣꞽ taken as Sia, perception personified. 258d: the Great One (Wr.t) is not named; mśw.t nčr.w, 'the birth of the gods', may stand for the goddess who bore them.",
+  "247.260a": "260c: ꞽr and šśp may be passives (as taken for ꞽr) or imperatives. śḫm is 'power' or the sekhem-sceptre.",
+  "248.262a.1": "263a: ḫr.t ḥr.t taken as 'the needs of the sky'; it may be 'provisions for the road'.",
+  "295.438a": "ꞽn č̣i̯⸗f is unclear; taken as the name of a serpent, Indjef. śčp, 'leaps', may also mean 'cuts up'.",
+  "297.440a": "440b-c: nꜣš.wt is unidentified (perhaps claws). 442a-b: ꜣḫ.t⸗f ṭp⸗f taken as 'his Radiant One (the uraeus) upon his head'; it could be 'his horizon'. 443a: ṭp.ꞽw-rʾ, 'what is on the mouth', perhaps the fangs. 443a-b: śšr, 'drains', is uncertain; fṭ.w rwč̣.w taken as 'four cords'. 443c: hꞽ.w taken as the name of a serpent; kꜣ as 'bull', though it may be the particle 'then'. The bars (|) mark spell divisions and are not translated.",
+  "299.444d.2": "444d.2: ḫt.t is unidentified; it is paired with nh.t (sycomore?) in the line before. 445a-b: Kherty, Nesat and Iqhet taken as names, the last two unidentified; mẖn.tꞽ may be 'ferryman' rather than 'ferry-boat'. 445c: Pedjushe taken as a place name. 445d: mꜣč̣.w is unidentified."
+ },
+ "nodes": [
+  {
+   "ref": "23.16a",
+   "text": "Osiris, take to yourself all who hate Unas, who speak evil against his name."
+  },
+  {
+   "ref": "32.23a",
+   "text": "Take for yourself the fluid that came out of you."
+  },
+  {
+   "ref": "32.23b",
+   "text": "Recitation four times: Take [it], that the voice may come forth for you. — Cool water; natron, 2 pellets."
+  },
+  {
+   "ref": "34.26a",
+   "text": "*Smin*, *smin*, which opens your mouth!"
+  },
+  {
+   "ref": "34.26b",
+   "text": "O Unas, taste its taste in front of the booths of the gods."
+  },
+  {
+   "ref": "34.26c",
+   "text": "The spittle of Horus is *smin*,"
+  },
+  {
+   "ref": "34.26f",
+   "text": "Recitation four times: May you be cleansed with natron among the Followers of Horus. — Upper Egyptian natron, 5 pellets, of Nekheb."
+  },
+  {
+   "ref": "75.51b",
+   "text": "Osiris Unas, take for yourself the Eye of Horus, which he has joined — *neshnem*-oil."
+  },
+  {
+   "ref": "76.51c",
+   "text": "Osiris Unas, take for yourself the Eye of Horus, with which he has brought the gods — *tuawet*-oil."
+  },
+  {
+   "ref": "77.52a.1",
+   "text": "Ointment, ointment, where are you?"
+  },
+  {
+   "ref": "77.52a.2",
+   "text": "You who are on the brow of Horus, where are you?"
+  },
+  {
+   "ref": "77.52b.1",
+   "text": "You were on the [brow] of Horus;"
+  },
+  {
+   "ref": "77.52b.2",
+   "text": "[I] place you [on] the brow of this Unas,"
+  },
+  {
+   "ref": "77.52c.1",
+   "text": "that you may make it pleasant for him who is under you,"
+  },
+  {
+   "ref": "77.52c.2",
+   "text": "that you may make him an *akh* [transfigured spirit] beneath you,"
+  },
+  {
+   "ref": "77.53a",
+   "text": "that you may give him power over his body."
+  },
+  {
+   "ref": "78.54a",
+   "text": "Osiris Unas, [I have] brought you the Eye of Horus, which he took to your brow — finest Libyan oil."
+  },
+  {
+   "ref": "210.130d",
+   "text": "Unas goes round the sky like Ra, Unas crosses the sky like Thoth."
+  },
+  {
+   "ref": "211.132a",
+   "text": "Unas was conceived in the night, Unas was born in the night."
+  },
+  {
+   "ref": "211.132b",
+   "text": "He belongs to those in the following of Ra, who go before the Morning God."
+  },
+  {
+   "ref": "211.132c",
+   "text": "Unas was conceived in Nu, he was born in Nu."
+  },
+  {
+   "ref": "211.132d",
+   "text": "He has come, he has brought you the bread that he found there."
+  },
+  {
+   "ref": "212.133a",
+   "text": "Recitation: The Eye of Horus drips onto the bush of the *djenu*-plant."
+  },
+  {
+   "ref": "212.133e.2",
+   "text": "what he drinks of, he drinks of;"
+  },
+  {
+   "ref": "212.133f",
+   "text": "*khenedj* and *sasheret*: that is his meal."
+  },
+  {
+   "ref": "213.134a.1",
+   "text": "O Unas, you did not go away dead,"
+  },
+  {
+   "ref": "213.134a.2",
+   "text": "you went away alive."
+  },
+  {
+   "ref": "213.134b-c",
+   "text": "Sit on the throne of Osiris, your *aba*-sceptre in your hand, that you may give orders to the living; your *mekes* and your *nehbet*-sceptre in your hand, that you may give orders to those whose places are hidden."
+  },
+  {
+   "ref": "213.135a.1",
+   "text": "Your arms are Atum,"
+  },
+  {
+   "ref": "213.135a.2",
+   "text": "your shoulders are Atum,"
+  },
+  {
+   "ref": "213.135a.3",
+   "text": "your belly is Atum,"
+  },
+  {
+   "ref": "213.135b.1",
+   "text": "your hindquarters are Atum,"
+  },
+  {
+   "ref": "213.135b.2",
+   "text": "your legs are Atum,"
+  },
+  {
+   "ref": "213.135b.3",
+   "text": "your face is Anubis."
+  },
+  {
+   "ref": "213.135c",
+   "text": "The mounds of Horus serve you, the mounds of Seth serve you."
+  },
+  {
+   "ref": "214.136a",
+   "text": "O Unas, beware of the lake! Recitation four times."
+  },
+  {
+   "ref": "215.141d",
+   "text": "May you see those who are in the palace — that is, Horus and Seth."
+  },
+  {
+   "ref": "215.142a",
+   "text": "May you spit on the face of Horus for him, that you may remove the injury that is on him;"
+  },
+  {
+   "ref": "215.142b",
+   "text": "may you take hold of the testicles of Seth, that you may remove his mutilation."
+  },
+  {
+   "ref": "215.142c",
+   "text": "That one was born to you, this one was conceived for you."
+  },
+  {
+   "ref": "215.143a",
+   "text": "You bear Horus in his name of ‘Him at whom the earth quakes and the sky trembles’."
+  },
+  {
+   "ref": "215.148d.1",
+   "text": "Your nose is the Jackal, O imperishable one;"
+  },
+  {
+   "ref": "215.148d.2",
+   "text": "your teeth are Sopdu, O imperishable one;"
+  },
+  {
+   "ref": "215.149a.1",
+   "text": "your arms are Hapy and Duamutef:"
+  },
+  {
+   "ref": "215.149a.2",
+   "text": "you need to go up to the sky, and you go up;"
+  },
+  {
+   "ref": "215.149b.1",
+   "text": "your legs are Imsety and Qebehsenuf:"
+  },
+  {
+   "ref": "215.149b.2",
+   "text": "you need to go down to the lower sky, and you go down;"
+  },
+  {
+   "ref": "215.149c",
+   "text": "your limbs are the two daughters of Atum, O imperishable one."
+  },
+  {
+   "ref": "216.151a",
+   "text": "Orion is encircled by the Duat, pure and living in the horizon."
+  },
+  {
+   "ref": "217.152a",
+   "text": "Recitation: Ra-Atum, this Unas has come to you, an imperishable *akh* [transfigured spirit], lord of the affairs of the place of the four papyrus-columns."
+  },
+  {
+   "ref": "217.152b",
+   "text": "Your son has come to you; this Unas has come to you."
+  },
+  {
+   "ref": "217.152c",
+   "text": "May you cross the sky, united in the darkness;"
+  },
+  {
+   "ref": "217.152d",
+   "text": "may you rise in the horizon, in the place where you became *akh*s."
+  },
+  {
+   "ref": "217.153a",
+   "text": "Seth and Nephthys, go and proclaim to the gods of Upper Egypt and their *akh*s too:"
+  },
+  {
+   "ref": "217.153b",
+   "text": "‘This Unas has indeed come, an imperishable *akh*.’"
+  },
+  {
+   "ref": "219.167a.1",
+   "text": "Recitation: Atum, this one here is your son, Osiris,"
+  },
+  {
+   "ref": "219.167d",
+   "text": "If he mourns, this Unas mourns."
+  },
+  {
+   "ref": "219.168a",
+   "text": "Shu, this one here is your son, Osiris."
+  },
+  {
+   "ref": "219.169a.1",
+   "text": "Tefnut, this one here is your son, Osiris,"
+  },
+  {
+   "ref": "219.169a.2",
+   "text": "whom you have caused to revive, that he may live."
+  },
+  {
+   "ref": "219.170a",
+   "text": "Geb, this one here is your son, Osiris."
+  },
+  {
+   "ref": "219.171a",
+   "text": "Nut, this one here is your son, Osiris."
+  },
+  {
+   "ref": "219.172a",
+   "text": "Isis, this one here is your brother, Osiris."
+  },
+  {
+   "ref": "219.173a",
+   "text": "Seth, this one here is your brother, Osiris, who has been caused to revive and live, that he may punish you."
+  },
+  {
+   "ref": "219.174a",
+   "text": "Nephthys, this one here is your brother, Osiris."
+  },
+  {
+   "ref": "219.175a",
+   "text": "Thoth, this one here is your brother, Osiris, who has been caused to revive and live, that he may punish you."
+  },
+  {
+   "ref": "219.176a",
+   "text": "Horus, this one here is your father, Osiris."
+  },
+  {
+   "ref": "219.177a.1",
+   "text": "Great Ennead, this one here is Osiris,"
+  },
+  {
+   "ref": "219.177a.2",
+   "text": "whom you have caused to revive, that he may live."
+  },
+  {
+   "ref": "219.178a",
+   "text": "Lesser Ennead, this one here is Osiris."
+  },
+  {
+   "ref": "219.179a",
+   "text": "Nut, this one here is your son, Osiris, of whom you said, ‘Your father has been born to me.’"
+  },
+  {
+   "ref": "219.179b.1",
+   "text": "You have wiped his mouth for him,"
+  },
+  {
+   "ref": "219.179b.2",
+   "text": "his mouth having been opened by his son Horus, whom he loves,"
+  },
+  {
+   "ref": "219.179c",
+   "text": "his limbs counted by the gods."
+  },
+  {
+   "ref": "219.181a",
+   "text": "In your name of ‘Him who is in Heliopolis, who abides in his abiding-place’;"
+  },
+  {
+   "ref": "219.182a",
+   "text": "in your name of ‘Him who is in Andjet, chief of his nomes’."
+  },
+  {
+   "ref": "219.192b.3",
+   "text": "Your son Horus releases it for you, that you may live by it."
+  },
+  {
+   "ref": "220.194b.1",
+   "text": "He has come to you, O Net;"
+  },
+  {
+   "ref": "220.194b.2",
+   "text": "he has come to you, O Nesret;"
+  },
+  {
+   "ref": "220.194c",
+   "text": "he has come to you, O Great One;"
+  },
+  {
+   "ref": "220.194c-d",
+   "text": "he has come to you, O Great-of-Magic, pure for you and in awe of you."
+  },
+  {
+   "ref": "220.195a.1",
+   "text": "May you be content with him,"
+  },
+  {
+   "ref": "221.198c-d",
+   "text": "Ikhet[-utet] has borne you, Ikhet-weret [has adorned you], for you are Horus, encircled by the protection of his Eye."
+  },
+  {
+   "ref": "222.199a.1",
+   "text": "Recitation: Stand upon it,"
+  },
+  {
+   "ref": "222.199a.2",
+   "text": "this land [that came forth from Atum],"
+  },
+  {
+   "ref": "222.199a.3",
+   "text": "[the spittle] that came forth from Khepri."
+  },
+  {
+   "ref": "222.199b-c",
+   "text": "Come into being upon it, be high upon it, that your father may see you, that [Ra] may see you."
+  },
+  {
+   "ref": "222.200a",
+   "text": "He has [come] to you, O his father; he has come to you, O Ra."
+  },
+  {
+   "ref": "222.204a",
+   "text": "You have equipped yourself as Great-of-Magic, Seth who is in Nubt, lord of Upper Egypt."
+  },
+  {
+   "ref": "222.207d.2",
+   "text": "Loose yourself from misery;"
+  },
+  {
+   "ref": "222.207e",
+   "text": "your head is for the Lady of Iunet."
+  },
+  {
+   "ref": "222.208a",
+   "text": "May you go forth and open your way through the bones of Shu;"
+  },
+  {
+   "ref": "222.208b",
+   "text": "may the embrace of your mother Nut enfold you."
+  },
+  {
+   "ref": "222.208c.1",
+   "text": "May you be purified in the horizon"
+  },
+  {
+   "ref": "222.208c.2",
+   "text": "and cast off your impurity in the lakes of Shu."
+  },
+  {
+   "ref": "224.218f",
+   "text": "Go, that you may give orders to the mounds of Osiris."
+  },
+  {
+   "ref": "224.219a-220a",
+   "text": "An offering that the king gives, in all your dignities, in all your places:"
+  },
+  {
+   "ref": "224.220b",
+   "text": "your *nehbet*-sceptre at the head of the living,"
+  },
+  {
+   "ref": "224.220b-c",
+   "text": "your staff at the head of the *akh*s [transfigured spirits], like Anubis, Foremost of the Westerners, like Andjety, foremost of the eastern nomes."
+  },
+  {
+   "ref": "224.221a.1",
+   "text": "How content is your condition!"
+  },
+  {
+   "ref": "230.230a.2",
+   "text": "your ribs into the hole!"
+  },
+  {
+   "ref": "230.230b",
+   "text": "Water is poured out; the Two Kites stand up."
+  },
+  {
+   "ref": "230.230c.1",
+   "text": "Your mouth is closed by the Shemset,"
+  },
+  {
+   "ref": "230.230c.2",
+   "text": "the mouth of the Shemset is closed by Mafdet;"
+  },
+  {
+   "ref": "230.230d",
+   "text": "the one who weakens is bitten by the snake."
+  },
+  {
+   "ref": "236.240",
+   "text": "Recitation: *Kebeb hi titi biti shes sa hifget* — that is your name."
+  },
+  {
+   "ref": "245.250b.1",
+   "text": "He has cast his father to the earth,"
+  },
+  {
+   "ref": "245.250b.2",
+   "text": "he has left Horus behind him."
+  },
+  {
+   "ref": "245.250c",
+   "text": "His wings have grown as a falcon's,"
+  },
+  {
+   "ref": "245.250c-d",
+   "text": "the two plumes as a *gemehsu*-falcon's; his ba has brought him, his magic has equipped him."
+  },
+  {
+   "ref": "245.251a-b",
+   "text": "You shall open your place in the sky among the stars of the sky, for you are the Sole Star at the shoulder of Nut."
+  },
+  {
+   "ref": "246.254b-c",
+   "text": "The Ennead have put their hands to their mouths at the feet of this one among you, of whom the god said, “He shall give commands to the fathers of the gods.”"
+  },
+  {
+   "ref": "246.255a-b",
+   "text": "Stand at the doors of the horizon, open the doors of the cool waters; you shall stand at their head like Geb, foremost of his Ennead."
+  },
+  {
+   "ref": "246.255c",
+   "text": "They go in, they drive off harm;"
+  },
+  {
+   "ref": "246.255c-256a",
+   "text": "they come out, they lift their faces, they see you like Min, foremost of the Two Shrines."
+  },
+  {
+   "ref": "246.256b.1",
+   "text": "One who stands stands behind you,"
+  },
+  {
+   "ref": "247.257c",
+   "text": "You come forth from the Duat."
+  },
+  {
+   "ref": "247.258a",
+   "text": "Hail to you, Sia!"
+  },
+  {
+   "ref": "247.258b",
+   "text": "Geb has created you, the Ennead has given birth to you."
+  },
+  {
+   "ref": "247.258c",
+   "text": "Horus is content with his father, Atum is content with his years,"
+  },
+  {
+   "ref": "247.258d",
+   "text": "the gods of the east and the west are content with the Great One who came into being within the embrace of the birth of the gods."
+  },
+  {
+   "ref": "247.260a",
+   "text": "Unas, raise yourself onto your side,"
+  },
+  {
+   "ref": "247.260a-b",
+   "text": "do what I command, you who hate sleep, you who were made limp!"
+  },
+  {
+   "ref": "247.260b",
+   "text": "Stand up, you who are in Nedit!"
+  },
+  {
+   "ref": "247.260c.1",
+   "text": "Your good bread is made in Pe;"
+  },
+  {
+   "ref": "247.260c.2",
+   "text": "receive your power in Heliopolis."
+  },
+  {
+   "ref": "248.262a.1",
+   "text": "Recitation: Unas is a great one."
+  },
+  {
+   "ref": "248.262a.2",
+   "text": "Unas has come forth from between the thighs of the Ennead."
+  },
+  {
+   "ref": "248.262b",
+   "text": "Unas was conceived by Sekhmet;"
+  },
+  {
+   "ref": "248.262b-263a",
+   "text": "it was Shesmetet who bore Unas, a star sharp of brow, wide of stride, who brings the needs of the sky to Ra every day."
+  },
+  {
+   "ref": "248.263b.1",
+   "text": "Unas has come to his throne that is upon the Two Ladies,"
+  },
+  {
+   "ref": "252.274c",
+   "text": "Unas commands what is good, and he does it; Unas is the great god."
+  },
+  {
+   "ref": "253.275a",
+   "text": "Recitation: He has bathed — [I] have bathed in the Field of Reeds."
+  },
+  {
+   "ref": "253.275b",
+   "text": "Ra has bathed in the Field of Reeds."
+  },
+  {
+   "ref": "253.275d",
+   "text": "This Unas has bathed in the Field of Reeds."
+  },
+  {
+   "ref": "253.275e.1",
+   "text": "The hand of Unas is in the hand of Ra;"
+  },
+  {
+   "ref": "253.275e.2",
+   "text": "Nut, take his hand!"
+  },
+  {
+   "ref": "254.277b",
+   "text": "If you do not make a place for Unas, Unas will lay a curse on his father Geb."
+  },
+  {
+   "ref": "254.287a-b",
+   "text": "Now Unas has made them eat at their drinking and drink at their flooding,"
+  },
+  {
+   "ref": "254.287c",
+   "text": "so that Unas may be protected there by those who see him."
+  },
+  {
+   "ref": "254.288a",
+   "text": "Hekenutet is on her *djam*-sceptre."
+  },
+  {
+   "ref": "254.288a-289b",
+   "text": "Unas's Tefnut, she who supports Shu: she widens his seat in Djedu, in Djedet, in Djedut; she sets up the two standards at the head of the Great Ones; she digs a lake for Unas in the Field of Reeds; she establishes his field in the Field of Offerings."
+  },
+  {
+   "ref": "254.289c-290b",
+   "text": "Unas judges cases as Mehet-weret, she who is between the two combatants, while he is powerful with the power of the Eye of Tebi and strong with the strength of the Eye of Tebi."
+  },
+  {
+   "ref": "260.316a",
+   "text": "Recitation: O Geb, bull of Nut, Unas is Horus, the heir of his father."
+  },
+  {
+   "ref": "260.317a.1",
+   "text": "Unas has judged Tefen and Tefenet;"
+  },
+  {
+   "ref": "260.317a.2",
+   "text": "the Two Maats have heard,"
+  },
+  {
+   "ref": "260.317b",
+   "text": "Shu was witness."
+  },
+  {
+   "ref": "260.317b-c",
+   "text": "The Two Maats have decreed that the thrones of Geb pass to him, that he may raise himself to what he desired."
+  },
+  {
+   "ref": "260.318a-b",
+   "text": "His limbs that were in hiding are joined together, and he unites with those who are in Nu."
+  },
+  {
+   "ref": "260.319b",
+   "text": "Unas goes up to Maat, that he may fetch her, and she is with him."
+  },
+  {
+   "ref": "263.337a",
+   "text": "Recitation: The two reed-floats of the sky are set down for Ra, that he may cross on them to the horizon."
+  },
+  {
+   "ref": "263.337b",
+   "text": "The two reed-floats of the sky are set down for Horakhty, that Horakhty may cross on them to Ra."
+  },
+  {
+   "ref": "263.337c",
+   "text": "The two reed-floats of the sky are set down for Unas, that he may cross on them to the horizon, to Ra."
+  },
+  {
+   "ref": "263.338a-339a",
+   "text": "Unas lives with his *ka* [vital force], his *ba* [spirit-manifestation] upon him, his *ames*-sceptre in his arm, his *aba*-sceptre in his hand; he summons to himself those who have gone to them."
+  },
+  {
+   "ref": "263.339b-c",
+   "text": "They bring him those four *akh*s [transfigured spirits], the eldest, foremost of the sidelock-wearers, who stand on the eastern side of the sky, raised upon their *djam*-sceptres,"
+  },
+  {
+   "ref": "263.340a",
+   "text": "that they may tell the good name of this Unas to Ra"
+  },
+  {
+   "ref": "263.340b",
+   "text": "and announce this Unas to Nehebkau."
+  },
+  {
+   "ref": "263.340c",
+   "text": "The entry of this Unas into the north of the Fields of Reeds is welcomed."
+  },
+  {
+   "ref": "263.340d",
+   "text": "Unas crosses on the Lake of Kha."
+  },
+  {
+   "ref": "263.341a-b",
+   "text": "The crossing of this Unas is made to the eastern side of the horizon; the crossing of this Unas is made to the eastern side of the sky."
+  },
+  {
+   "ref": "263.341c.1",
+   "text": "His sister is Sothis,"
+  },
+  {
+   "ref": "263.341c.2",
+   "text": "his offspring is the Duat."
+  },
+  {
+   "ref": "266.358g-h",
+   "text": "The two reed-floats of the sky are set down for this Pepi, that this Pepi may cross on them to the horizon, to Ra."
+  },
+  {
+   "ref": "267.365b",
+   "text": "He goes up on the smoke of the great censing."
+  },
+  {
+   "ref": "267.366a.1",
+   "text": "This Unas flies as a bird,"
+  },
+  {
+   "ref": "267.366a.2",
+   "text": "he alights as a beetle;"
+  },
+  {
+   "ref": "267.366b",
+   "text": "he flies as a bird,"
+  },
+  {
+   "ref": "267.366b-c",
+   "text": "he alights as a beetle on the empty throne that is in your bark, Ra."
+  },
+  {
+   "ref": "267.367a-b",
+   "text": "Stand up, take yourself away, you who know no coming, so that this Unas may sit in your place,"
+  },
+  {
+   "ref": "267.367b",
+   "text": "and he will row in the sky in your bark, Ra."
+  },
+  {
+   "ref": "267.368a-c",
+   "text": "This Unas pushes off from the land in your bark, Ra; when you come up from the horizon, he is [there] with his sceptre in his hand, as the one who pilots your bark, Ra."
+  },
+  {
+   "ref": "267.369.1",
+   "text": "You ascend to the sky"
+  },
+  {
+   "ref": "271.390b",
+   "text": "Horus and Seth take hold of the arm of Unas; they carry him off to the Duat."
+  },
+  {
+   "ref": "272.392d.1",
+   "text": "This Unas is at the head of the followers of Ra;"
+  },
+  {
+   "ref": "272.392d.2",
+   "text": "this Unas is not at the head of the gods who are in disorder."
+  },
+  {
+   "ref": "273.393a",
+   "text": "The sky is overcast, the stars are darkened,"
+  },
+  {
+   "ref": "273.393b",
+   "text": "the bows quake, and there tremble the bones"
+  },
+  {
+   "ref": "273.393b-394b",
+   "text": "of the Akeru [earth-gods]; silent before them are the *genmu*, now that they have seen Unas appear in glory, mighty in *ba* [spirit-manifestation], as a god who lives on his fathers and feeds on his mothers."
+  },
+  {
+   "ref": "273.394c",
+   "text": "Unas is the lord of cunning, whose name his mother does not know."
+  },
+  {
+   "ref": "273.395a",
+   "text": "The nobility of Unas is in the sky,"
+  },
+  {
+   "ref": "273.395a-b",
+   "text": "his power is in the horizon, like Atum his father, who begot him."
+  },
+  {
+   "ref": "273.402c",
+   "text": "He is a messenger whom he sends out to punish."
+  },
+  {
+   "ref": "273.403a-b",
+   "text": "It is Shezmu who butchers them for Unas and cooks for him a meal of them in his evening cooking-pots."
+  },
+  {
+   "ref": "274.403c",
+   "text": "It is Unas who eats their magic and swallows their *akh*s [transfigured spirits]."
+  },
+  {
+   "ref": "274.404a",
+   "text": "Their great ones are for his morning meal,"
+  },
+  {
+   "ref": "274.404b",
+   "text": "their middle ones are for his evening meal,"
+  },
+  {
+   "ref": "274.404c",
+   "text": "their little ones are for his night meal,"
+  },
+  {
+   "ref": "274.404d",
+   "text": "their old men and their old women are for his incense-burning."
+  },
+  {
+   "ref": "274.405a-b",
+   "text": "It is the Great Ones in the north of the sky who set the fire for him to the cauldrons that hold them, with the thighs of their eldest."
+  },
+  {
+   "ref": "274.406a-b",
+   "text": "Those who are in the sky serve Unas; the cooking-pots are stoked for him with the legs of their women."
+  },
+  {
+   "ref": "274.406c.1",
+   "text": "He has gone round the two skies entire,"
+  },
+  {
+   "ref": "274.406c.2",
+   "text": "he has circled the Two Banks."
+  },
+  {
+   "ref": "274.407a",
+   "text": "Unas is the Great Power, mighty among the powers."
+  },
+  {
+   "ref": "274.407b",
+   "text": "Unas is a sacred image, the image of the images of the Great One."
+  },
+  {
+   "ref": "274.407d",
+   "text": "The place of Unas is at the head of all the august ones who are in the horizon."
+  },
+  {
+   "ref": "274.408a",
+   "text": "Unas is a god, older than the eldest."
+  },
+  {
+   "ref": "274.408b.1",
+   "text": "Thousands serve him,"
+  },
+  {
+   "ref": "274.408b.2",
+   "text": "hundreds make offering to him."
+  },
+  {
+   "ref": "274.408c",
+   "text": "A warrant as Great Power has been given to him by Orion, father of the gods."
+  },
+  {
+   "ref": "274.409a.1",
+   "text": "Unas has appeared again in the sky,"
+  },
+  {
+   "ref": "274.409a.2",
+   "text": "he is crowned as Lord of the Horizon."
+  },
+  {
+   "ref": "274.409b",
+   "text": "He has broken the joints of the spines,"
+  },
+  {
+   "ref": "274.409c",
+   "text": "he has taken the hearts of the gods."
+  },
+  {
+   "ref": "274.410a.1",
+   "text": "He has eaten the Red Crown,"
+  },
+  {
+   "ref": "274.410a.2",
+   "text": "he has swallowed the Green One."
+  },
+  {
+   "ref": "274.410b",
+   "text": "Unas feeds on the lungs of the wise;"
+  },
+  {
+   "ref": "274.410c",
+   "text": "he is content to live on hearts, and on their magic too."
+  },
+  {
+   "ref": "274.411a",
+   "text": "Unas is disgusted as he licks the *sebeshu* that are in the Red Crown;"
+  },
+  {
+   "ref": "274.411b.1",
+   "text": "he flourishes,"
+  },
+  {
+   "ref": "274.411b.2",
+   "text": "their magic is in his belly."
+  },
+  {
+   "ref": "274.411c",
+   "text": "The dignities of Unas will not be taken from him,"
+  },
+  {
+   "ref": "274.411d",
+   "text": "for he has swallowed the understanding of every god."
+  },
+  {
+   "ref": "274.412a",
+   "text": "The lifetime of Unas is eternity;"
+  },
+  {
+   "ref": "274.412a-413c",
+   "text": "his limit is everlastingness, in this dignity of his: ‘If he wishes, he does; if he dislikes, he does not do’, he who is within the limits of the horizon for ever and ever. See, their *ba* [spirit-manifestation] is in the belly of Unas, their *akh*s are with Unas, as the surplus of his food beyond the gods, cooked for Unas from their bones. See, their *ba* is with Unas, their shadows taken from those to whom they belong."
+  },
+  {
+   "ref": "295.438a",
+   "text": "Recitation: Mafdet leaps at the neck of Indjef."
+  },
+  {
+   "ref": "297.440a",
+   "text": "The hand of Unas that comes against you,"
+  },
+  {
+   "ref": "297.440b-c",
+   "text": "these *nashut* that come against you, come as Mafdet, foremost of the Mansion of Life."
+  },
+  {
+   "ref": "297.440d",
+   "text": "She strikes you on your face, she scratches you on your eyes."
+  },
+  {
+   "ref": "297.441a",
+   "text": "You fall in your dung and slip in your urine."
+  },
+  {
+   "ref": "297.441b.1",
+   "text": "Fall, lie down, slip away!"
+  },
+  {
+   "ref": "297.441b.2",
+   "text": "Your mother Nut sees you."
+  },
+  {
+   "ref": "298.442a-b",
+   "text": "Recitation: Ra appears, his Radiant One upon his head, against this serpent that came out of the earth, that is under the fingers of Unas."
+  },
+  {
+   "ref": "298.442c-443a",
+   "text": "He cuts off your head with this knife that is in the hand of Mafdet; he pulls out what is on your mouth;"
+  },
+  {
+   "ref": "298.443a-b",
+   "text": "he drains your venom with these four cords that are behind the sandals of Osiris."
+  },
+  {
+   "ref": "298.443c",
+   "text": "Hiu, lie down! Bull, slip away!"
+  },
+  {
+   "ref": "299.444d.2",
+   "text": "The *khetet* of Unas is his *khetet*."
+  },
+  {
+   "ref": "300.445a-b",
+   "text": "Recitation: O Kherty of Nesat, ferryman of the Iqhet which Khnum made, bring this to Unas!"
+  },
+  {
+   "ref": "300.445b",
+   "text": "Unas is Sokar of Rosetjau."
+  },
+  {
+   "ref": "300.445c",
+   "text": "Unas is coming to the place where Sokar is, foremost of Pedjushe."
+  },
+  {
+   "ref": "300.445d",
+   "text": "This is our brother: bring this to these *madju* of the desert."
+  },
+  {
+   "ref": "301.447a",
+   "text": "Your offering-cake is yours, Atum, with the Double Lion, who made their divinity and their bodies themselves:"
+  },
+  {
+   "ref": "301.447b",
+   "text": "that is, Shu and Tefnut, who made the gods, who begot the gods, who established the gods."
+  },
+  {
+   "ref": "301.448a-b",
+   "text": "Tell your father that Unas has given you your offering-cakes, that Unas has satisfied you with your portions."
+  },
+  {
+   "ref": "301.448c",
+   "text": "Do not hinder Unas when he crosses to him at the horizon."
+  },
+  {
+   "ref": "301.449a.1",
+   "text": "Unas knows him, he knows his name:"
+  },
+  {
+   "ref": "301.449a.2",
+   "text": "Neh is his name;"
+  },
+  {
+   "ref": "301.449a.3",
+   "text": "Neh-lord-of-the-year is his name."
+  },
+  {
+   "ref": "302.463a",
+   "text": "Wepwawet has made Unas fly up to the sky among his brothers the gods."
+  },
+  {
+   "ref": "308.489b",
+   "text": "Unas has looked to you two as Nehebkau looks to Selket."
+  }
+ ]
+}

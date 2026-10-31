@@ -1,0 +1,50 @@
+{
+ "work_urn": "urn:egy:tla:sawmedizin:papyrus-leiden-i-343-i-345",
+ "edition_urn": "urn:egy:tla:sawmedizin:papyrus-leiden-i-343-i-345.ai-claude",
+ "source_edition": "urn:egy:tla:sawmedizin:papyrus-leiden-i-343-i-345:translit",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-31",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Papyrus Leiden I 343 + I 345: AI translation (Claude)",
+  "author": "Medical papyri",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:egy:tla:sawmedizin:papyrus-leiden-i-343-i-345:translit, from the Thesaurus Linguae Aegyptiae (2018), in Simon Schweitzer's AED-TEI (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Thesaurus Linguae Aegyptiae (2018), in Simon Schweitzer's AED-TEI and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "1.72": "sꜣmꜥnꜣ (samana) is a disease demon with a foreign name. Mauria, Iratiqana and Qiti are foreign names, vocalised by guess; ⸢m⸣ before Mauria is damaged and its function is unclear. dny is obscure (perhaps 'share' or a foreign word). ꜥntj is taken as the goddess Anat, consort of Seth; ꜥmry is unexplained, perhaps a Semitic word (possibly 'Amorite woman').",
+  "1.13": "kꜣtp is partly damaged and unexplained; evidently a weapon, perhaps a foreign word. sꜣmꜥnꜣ (samana) is a disease demon.",
+  "2.52": "ꜥḫw is a disease demon or affliction, otherwise unidentified. hrp 'submerge, sink' is taken in a passive sense; the line's syntax is uncertain."
+ },
+ "nodes": [
+  {
+   "ref": "1.13",
+   "text": "The scimitar of Seth is against you, O *samana*; the *kꜣtp* of Baal is on your head, O *samana*; the copper of Horus is on your brow."
+  },
+  {
+   "ref": "1.72",
+   "text": "Do you not know me, O *samana*-demon?"
+  },
+  {
+   "ref": "1.73",
+   "text": "See, it is Mauria(?) who knows me, namely:"
+  },
+  {
+   "ref": "1.74",
+   "text": "'I belong to the *dny* of Iratiqana(?), those who speak with the snakes, who slay the snakes, who put an end to the breath of Qiti(?), their mother.'"
+  },
+  {
+   "ref": "1.75",
+   "text": "See, I have sucked at the breasts of Anat, the great *ꜥmry* of Seth."
+  },
+  {
+   "ref": "2.52",
+   "text": "The *ꜥḫw*, the one who is [eating], while he is sunk down, the dog that gnaws bones!"
+  }
+ ]
+}

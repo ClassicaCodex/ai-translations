@@ -1,0 +1,441 @@
+{
+ "work_urn": "urn:defix:edh:germania-superior",
+ "edition_urn": "urn:defix:edh:germania-superior.ai-claude",
+ "source_edition": "urn:defix:edh:germania-superior:lat",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Curse tablets from Germania superior (Epigraphic Database Heidelberg): AI translation (Claude)",
+  "author": "Latin curse tablets",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:defix:edh:germania-superior:lat, from the Epigraphic Database Heidelberg (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Epigraphic Database Heidelberg and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "52181.2.5": "The first two lines end a different tablet (52181). 'aginat' is a rare verb, roughly 'busies himself, contrives'. 'per benedictum tuum' may mean 'by your blessing' or 'by your blessed one'. Restorations of a letter or two inside otherwise legible words are not marked in the English.",
+  "4630.1.1": "Two tablets (4630, 4633). 'M()[a]rius' carries an unexpanded abbreviation; the first part of the name is uncertain. 'Consularem' may be a personal name (Consularis) or a title ('the ex-consul'). 'tanquam nullo' is marked as faulty in both words; the sense ('as if a nobody among the dead'?) is uncertain. Restorations of a letter or two inside otherwise legible words are not marked in the English.",
+  "76472.2.1": "Several tablets (76472, 76474, 76476). 'IA' and 'ICLVM' cannot be read as words. Genitives after names are taken as fathers' names; they could also name owners. 'Ornatus()' and 'Senopatium()' are unexpanded abbreviations, the latter marked as faulty. In the last line 'Valentinus' is marked as an error, probably for 'Valentis' ('[son] of Valens', as in the line before), and the tablet writes 'quomodo' ('just as') as COMDI.",
+  "52180.4": "'[...]EMESMANT()' cannot be read as a word; it ends in an unexpanded abbreviation. 'Atthis' is marked as an error for Attis. 'cistas penetrales' are taken as the sacred chests kept in the inner sanctuary.",
+  "54661.2.19": "The first two lines end another tablet and contain erased letters ([[.]]); only 'mancas' ('maimed', feminine plural) can be read. 'habiatis', 'quit' and 'aget' are irregular spellings, read as habeatis, quid and agit.",
+  "76518.2.2": "Several tablets (76518, 76519, 76521). 'Haeb()' is an unexpanded abbreviation followed by a loss; the name cannot be completed. 76521 holds only damaged names."
+ },
+ "nodes": [
+  {
+   "ref": "4630.1.1",
+   "text": "I ask the *Manes* [spirits of the dead]"
+  },
+  {
+   "ref": "4630.1.2",
+   "text": "below that M[a]rius"
+  },
+  {
+   "ref": "4630.1.3",
+   "text": "Fronto, the adversary"
+  },
+  {
+   "ref": "4630.1.4",
+   "text": "of Sextus,"
+  },
+  {
+   "ref": "4630.1.5",
+   "text": "be ineffectual, and"
+  },
+  {
+   "ref": "4630.1.6",
+   "text": "not be able"
+  },
+  {
+   "ref": "4630.1.7",
+   "text": "to speak against"
+  },
+  {
+   "ref": "4630.1.8",
+   "text": "Sextus; that"
+  },
+  {
+   "ref": "4630.1.9",
+   "text": "Fronto become"
+  },
+  {
+   "ref": "4630.1.10",
+   "text": "mute when"
+  },
+  {
+   "ref": "4630.1.11",
+   "text": "he comes"
+  },
+  {
+   "ref": "4630.1.12",
+   "text": "before"
+  },
+  {
+   "ref": "4630.2.1",
+   "text": "the consular"
+  },
+  {
+   "ref": "4630.2.2",
+   "text": "[governor]; that he be"
+  },
+  {
+   "ref": "4630.2.3",
+   "text": "mute and"
+  },
+  {
+   "ref": "4630.2.4",
+   "text": "not able"
+  },
+  {
+   "ref": "4630.2.5",
+   "text": "to speak, nor"
+  },
+  {
+   "ref": "4630.2.6",
+   "text": "to do"
+  },
+  {
+   "ref": "4630.2.7",
+   "text": "anything,"
+  },
+  {
+   "ref": "4630.2.8",
+   "text": "as if"
+  },
+  {
+   "ref": "4630.2.9",
+   "text": "[he were] a nobody from those"
+  },
+  {
+   "ref": "4630.2.10",
+   "text": "below."
+  },
+  {
+   "ref": "4633.1.1",
+   "text": "The enemies of Sextus: that"
+  },
+  {
+   "ref": "4633.1.2",
+   "text": "here they may have no power [against]"
+  },
+  {
+   "ref": "52180.4",
+   "text": "[I give] to you"
+  },
+  {
+   "ref": "52180.5",
+   "text": "[...]EMESMANT"
+  },
+  {
+   "ref": "52181.1.1",
+   "text": "Good, holy Attis, sovereign,"
+  },
+  {
+   "ref": "52181.1.2",
+   "text": "be present, come to Liberalis"
+  },
+  {
+   "ref": "52181.1.3",
+   "text": "in anger. By all things I ask you,"
+  },
+  {
+   "ref": "52181.1.4",
+   "text": "lord, by your Castor"
+  },
+  {
+   "ref": "52181.1.5",
+   "text": "[and] Pollux, by the innermost"
+  },
+  {
+   "ref": "52181.1.6",
+   "text": "chests, that you give [him] both an evil mind"
+  },
+  {
+   "ref": "52181.1.7",
+   "text": "[and] an evil end, for as long as"
+  },
+  {
+   "ref": "52181.1.8",
+   "text": "he lives his life, so that in his whole"
+  },
+  {
+   "ref": "52181.2.5",
+   "text": "Grant this, I ask you, by your"
+  },
+  {
+   "ref": "52181.2.6",
+   "text": "majesty."
+  },
+  {
+   "ref": "54658.1.1",
+   "text": "I ask you, lady Great Mother,"
+  },
+  {
+   "ref": "54658.1.2",
+   "text": "that you avenge me"
+  },
+  {
+   "ref": "54658.1.3",
+   "text": "concerning the property of Florus, my husband,"
+  },
+  {
+   "ref": "54658.1.4",
+   "text": "[on him] who cheated me, Ulattius"
+  },
+  {
+   "ref": "54658.1.5",
+   "text": "Severus. Just as"
+  },
+  {
+   "ref": "54658.1.6",
+   "text": "I write this backwards, so for him"
+  },
+  {
+   "ref": "54658.2.1",
+   "text": "everything, whatever he does, whatever"
+  },
+  {
+   "ref": "54658.2.2",
+   "text": "he contrives — may everything turn out backwards for him;"
+  },
+  {
+   "ref": "54658.2.3",
+   "text": "may it come to him like salt and water,"
+  },
+  {
+   "ref": "54658.2.4",
+   "text": "whatever he took from me of the property"
+  },
+  {
+   "ref": "54658.2.5",
+   "text": "of Florus, my husband. I ask you,"
+  },
+  {
+   "ref": "54658.2.6",
+   "text": "lady Great Mother, that you"
+  },
+  {
+   "ref": "54658.2.7",
+   "text": "avenge me for this."
+  },
+  {
+   "ref": "54660.1",
+   "text": "Whoever [has committed] fraud [concerning] this money [...]"
+  },
+  {
+   "ref": "54660.2",
+   "text": "he [is] better off and we are worse off [...]"
+  },
+  {
+   "ref": "54660.3",
+   "text": "Mother of the gods, you pursue through lands, through [seas, through places]"
+  },
+  {
+   "ref": "54660.4",
+   "text": "dry and wet, by your blessed one, and [all [...] who concerning this]"
+  },
+  {
+   "ref": "54660.5",
+   "text": "money practise fraud, that you [pursue him [...] just as]"
+  },
+  {
+   "ref": "54661.2.19",
+   "text": "E[[.][.]]I[[.]]LO[[.][.]]AS"
+  },
+  {
+   "ref": "54661.2.20",
+   "text": "OV[[.]]EIS maimed A"
+  },
+  {
+   "ref": "54662.1.1",
+   "text": "Tiberius Claudius Adiutor:"
+  },
+  {
+   "ref": "54662.1.2",
+   "text": "him, in the *megarum* [sacred chamber], I ask you, Great"
+  },
+  {
+   "ref": "54662.1.3",
+   "text": "Mother, that in your *megarum* you"
+  },
+  {
+   "ref": "54662.1.4",
+   "text": "receive [him]; and Attis, lord, you"
+  },
+  {
+   "ref": "54662.1.5",
+   "text": "I pray, that you [both] hold this victim"
+  },
+  {
+   "ref": "54662.1.6",
+   "text": "accepted; and whatever he does, whatever he"
+  },
+  {
+   "ref": "76472.2.1",
+   "text": "[...]IA"
+  },
+  {
+   "ref": "76472.2.2",
+   "text": "[...] are within"
+  },
+  {
+   "ref": "76474.1.1",
+   "text": "Enemies'"
+  },
+  {
+   "ref": "76474.1.2",
+   "text": "names, to those"
+  },
+  {
+   "ref": "76474.1.3",
+   "text": "below."
+  },
+  {
+   "ref": "76474.2.1",
+   "text": "ICLVM"
+  },
+  {
+   "ref": "76474.3.1",
+   "text": "Enemies' names"
+  },
+  {
+   "ref": "76474.4.1",
+   "text": "to those"
+  },
+  {
+   "ref": "76474.4.2",
+   "text": "below."
+  },
+  {
+   "ref": "76474.5.1",
+   "text": "Optatus, [son] of Silo"
+  },
+  {
+   "ref": "76474.5.2",
+   "text": "Faustus Ornatus"
+  },
+  {
+   "ref": "76474.5.3",
+   "text": "Terentius Atisso"
+  },
+  {
+   "ref": "76474.5.4",
+   "text": "Atticinus, [son] of Ammo"
+  },
+  {
+   "ref": "76474.5.5",
+   "text": "Latinus, [son] of Valerius"
+  },
+  {
+   "ref": "76474.5.6",
+   "text": "Adiutor, [son] of Julius"
+  },
+  {
+   "ref": "76474.5.7",
+   "text": "Tertius, [son] of Domitius"
+  },
+  {
+   "ref": "76474.5.8",
+   "text": "Mansuetus Senopatium"
+  },
+  {
+   "ref": "76474.5.9",
+   "text": "Montanus the timber-dealer"
+  },
+  {
+   "ref": "76474.5.10",
+   "text": "Aninius Victor"
+  },
+  {
+   "ref": "76474.5.11",
+   "text": "Quartio, [son] of Severus"
+  },
+  {
+   "ref": "76474.5.12",
+   "text": "Sinto, [son] of Valens"
+  },
+  {
+   "ref": "76474.5.13",
+   "text": "Lutumarus the butcher"
+  },
+  {
+   "ref": "76474.5.14",
+   "text": "Similis, [son] of Crescens"
+  },
+  {
+   "ref": "76474.5.15",
+   "text": "Lucanus, [son] of Silo"
+  },
+  {
+   "ref": "76474.5.16",
+   "text": "Communis, [son] of Mercator"
+  },
+  {
+   "ref": "76474.5.17",
+   "text": "Publius the dyer"
+  },
+  {
+   "ref": "76474.5.18",
+   "text": "Aemilius Silvanus"
+  },
+  {
+   "ref": "76474.6.1",
+   "text": "Cossus, [son] of Matuinus"
+  },
+  {
+   "ref": "76476.1",
+   "text": "Sinto, [son] of Valens, or other enemies"
+  },
+  {
+   "ref": "76476.2",
+   "text": "Valentinus Sinto, the enemy: just as the lead"
+  },
+  {
+   "ref": "76518.2.2",
+   "text": "be able to answer"
+  },
+  {
+   "ref": "76518.2.3",
+   "text": "[questions]."
+  },
+  {
+   "ref": "76519.1.1",
+   "text": "Names given"
+  },
+  {
+   "ref": "76519.1.2",
+   "text": "to the ghosts below."
+  },
+  {
+   "ref": "76519.2.1",
+   "text": "To the divine *Manes* [spirits of the dead] I vow these:"
+  },
+  {
+   "ref": "76519.2.2",
+   "text": "Lucius Caelius, Gaius Haeb[...]"
+  },
+  {
+   "ref": "76519.2.3",
+   "text": "and any other [enemies]"
+  },
+  {
+   "ref": "76519.2.4",
+   "text": "I have."
+  },
+  {
+   "ref": "76519.2.5",
+   "text": "Kill those [names]."
+  },
+  {
+   "ref": "76521.1",
+   "text": "[M]ansu[e]t[us]"
+  },
+  {
+   "ref": "76521.2",
+   "text": "Se[...]ina"
+  }
+ ]
+}

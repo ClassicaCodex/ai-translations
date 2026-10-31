@@ -1,0 +1,44 @@
+{
+ "work_urn": "urn:defix:edh:aquitania",
+ "edition_urn": "urn:defix:edh:aquitania.ai-claude",
+ "source_edition": "urn:defix:edh:aquitania:lat",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-31",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Curse tablets from Aquitania (Epigraphic Database Heidelberg): AI translation (Claude)",
+  "author": "Latin curse tablets",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:defix:edh:aquitania:lat, from the Epigraphic Database Heidelberg (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Epigraphic Database Heidelberg and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "399.2": "Line 399.2 is Latin and comes from a different tablet; 'quis' and 'vae' are hard to construe, and 'who [it is]' is a guess. Lines 46146.1 to 4 are in Gaulish, not Latin, and most of lines 1 to 3 is of disputed meaning, so the rendering is tentative throughout. The senses assumed are uediiumi 'I invoke', diiiuion 'of the gods', andedion and anderon 'of the nether ones', brixtia 'magic', sos 'them', adgarion 'accuser'; risun, artiu, lopites and sniEddic are obscure. Mapon(os) Arueriiatis is a god, with an epithet perhaps meaning 'of the Arverni'. The names in line 4 are Latin names in Gaulish accusative form; Aemili- runs on into the next line."
+ },
+ "nodes": [
+  {
+   "ref": "399.2",
+   "text": "[R]ead, go, look for who [it is]: woe [to you], [to you]."
+  },
+  {
+   "ref": "46146.1",
+   "text": "Of the nether (?) gods (?) I invoke (?), by means of (?)"
+  },
+  {
+   "ref": "46146.2",
+   "text": "the strength (?) [of] Maponos Arveriiatis (?):"
+  },
+  {
+   "ref": "46146.3",
+   "text": "torment (?) and bind (?) them by the magic of the nether ones (?):"
+  },
+  {
+   "ref": "46146.4",
+   "text": "Gaius Lucius Florus Nigrinus the accuser (?), Aemili-"
+  }
+ ]
+}

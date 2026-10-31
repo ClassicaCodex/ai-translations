@@ -1,0 +1,1302 @@
+{
+ "work_urn": "urn:defix:edh:britannia-lat",
+ "edition_urn": "urn:defix:edh:britannia-lat.ai-claude",
+ "source_edition": "urn:defix:edh:britannia-lat:lat",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Curse tablets from Britannia, in Latin (Epigraphic Database Heidelberg): AI translation (Claude)",
+  "author": "Latin curse tablets",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:defix:edh:britannia-lat:lat, from the Epigraphic Database Heidelberg (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Epigraphic Database Heidelberg and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "1027.10": "1027 and 1036 are names from lists, without the rest of their tablets. 1030.1.10: a word is lost before dea Sulis, probably 'him'; maximo letum, 'to the greatest death', is ungrammatical and its construction uncertain. caracella/caracalla is a hooded cloak. 1030.2.2-3: donec 'until' is split across the lines, its second half restored. 1033.5 repeats 'who have sworn' by error; it is not translated twice. 1036.1: the name carries an editorial letter-correction and its form is uncertain.",
+  "7734.8": "7734.8-9 end a curse whose beginning lies outside the unit; destina(t), 'appoints', is unclear in sense. 8086: nisi 'until' is written twice; the petitioner moves from 'he' to 'me'; ipse may be the god or Cenacus. 8089: ⟦Mars Silvanus⟧ is erased on the tablet; ACA (2.4) is unexplained letters; 2.7 ends in a lost verb. 8092 is broken: er[it] 'will be' is partly restored and its construction unclear; fec[it] 'has committed' is completed by the restoration at the start of 8092.5; letters are lost after r in 8092.6. 8098: words of the SATOR-AREPO word square, whose overall sense is disputed.",
+  "66.2.3": "66.2 ends a list of names: the tablet has VALAUNEICUS, corrected by the editor, and Belia() is an unexpanded abbreviation written with a superfluous a. 90.10: redemat and nessi are misspellings of redimat 'buy back' and nisi 'except'. 93.2: qui is taken as 'what' (for quod); the sentence continues beyond the unit.",
+  "53281.1": "53281 ends a list of names. 53285.6: rogaverim (subjunctive) is rendered 'I would ask'; the genius is the guardian spirit of the god's power. 53285.13: concordiam habuerit, 'has my goodwill', may mean 'has made his peace with me'. 55268.2: the stolen object is lost except C[...]LAM, perhaps caracallam 'hooded cloak'.",
+  "1045.4": "1045.4-5: dextrale (written DESTRALE), split with the line before, may be a bracelet or an axe. 1048: the start of 1048.3 is lost, and the tablet breaks off after 1048.5; ex{s}igatur has a superfluous s. 1051.1.5: mantutene is read as a mother's name, 'son of Matutina', which is uncertain. 1051.1.7-8: INDEPREG[.]STUM is unexplained and left as written. 1051.1.9: (r)eputes, 'charge to account', depends on a supplied letter. 1057: a fragment; A may be 'from' or an initial, and Nase[...] and Vroc[...] are incomplete names.",
+  "96.4.2": "96.4 ends a list of names; Seni⟨i⟩la carries an editorial letter-correction and its form is uncertain. 1024.1: a word is lost after donavi, and argentiolos, 'little silver coins', is partly restored. 1024.6: carta picta perscripta, literally 'the painted sheet written out', is obscure; the three names are then listed again. 1027 begins another list of names.",
+  "19330.4": "19330.4-5: exesuerit is unclear, perhaps 'has consumed' or 'has stripped'; dona may be 'gifts' or the command 'give'. 24366: fata is taken as 'words spoken'; SINIT (24366.7) is unexplained; amare 'to love' is split across 24366.7-9 among the edition's alternative spellings, so 24366.8 holds that word alone; the start of 24366.10 is lost. 25425: palleum is for pallium 'cloak', galliculae are Gallic shoes, and sanguinei is for sanguine. 25800.1.2: defic(t)us stands for defixus, 'bound by a curse'.",
+  "69587.1": "69587 is a fragment; only Dad[...] survives. 69604.1.4: dimidiam partem, 'a half share', rendered 'half its value'. 69604.1.7: the editor reads non illis 'not to them' from the tablet's NOLLIS (perhaps nollis 'do not'), with the same sense; inter quibus nomen Seniciani is rendered literally. 69604.2.1: Rediviva, 'come back to life', is written apart on the other face; it may mark the curse as renewed, or be a woman's name.",
+  "79549.4": "79549 is a broken fragment. 79550.3: pax{s}a ba(ln)earis, apparently a bathing garment, is a rare word; [pal]leum 'cloak' is partly restored. 79550.6: se retegens is taken as 'revealing himself'. 79550.8-9 are broken: [li]beri may be 'children' or 'free men', and deg and xe are remnants of lost words.",
+  "1057.13": "1057.13-14 end a list of stolen goods; fascia may be a sash or a band; e carta s(upra) s(cripta) ratio(n)e, perhaps 'according to the sheet written above', is obscure. 1464.1.1-2: exc-on(f)ic[tu]s est, rendered 'is utterly accursed', is a rare and partly restored word. The tablet has PURE for puer 'boy'.",
+  "48868.2": "48868 is broken; the capitals are unreadable remnants, and lamilla is probably a small metal plate. 49547.3: |(solidum) is a gold coin; Muconi is read as 'from Muco', though it could be the genitive of a name Muconius. 49547.8: Niske, vocative of a god Niskus, otherwise unidentified. 49547.11: fueris stands for fuerit; 49547.12: animus seems to stand for animum, 'the mind'.",
+  "9.1": "9.1 is an alphabet written on a tablet. 12.1.1 Primurudem is unexplained. 12.2-3: anilum, liminibus and ob are read as anulum 'ring', luminibus 'eyes' and et 'and'; medius fuerit, 'has been a go-between', means an accomplice; configatur, 'be transfixed', is the language of binding curses.",
+  "79429.1.1": "Fragments: only the name Cunovinna and a dedication to Mars survive; the rest is lost.",
+  "8942.6": "Four separate texts. 8942: only the end survives; 'cias' is the tail of a lost verb, taken as [fa]cias, 'cause'; line 7 keeps only '-um'. 8951 (Biccus): 'm-ascet' is taken as mascel, 'male'; 'ne conscientiam de perferat' is obscure and 'gain awareness of it' is a guess. 12422: Metunus is a name I cannot identify, perhaps a garbled Neptunus; 'numene' is probably nomine, 'name' (possibly numine, 'divine power'). 12425: a list of names; the '#' separates the edition's expanded, corrected and as-written forms of each. Single restored letters inside otherwise legible words are not bracketed in the English.",
+  "12428.1": "'[...]eocorotis' is the end of a name that cannot be identified. laena (restored), pallium and sagum are three kinds of cloak; paxsa is unexplained (perhaps baxea, a sandal). rostrum is literally 'beak' or 'snout', apparently for 'mouth'. caballarem, 'of a horse', is taken as a horse-cloth; uncertain. Single restored letters inside otherwise legible words are not bracketed.",
+  "15967.11": "15967 is the end of a theft curse: 'Digni' (genitive) completes the victim's name begun before this unit. pariat is taken as 'pay (in full)'; esto, 'let it be', is awkward and may go with decima pars. 18602 is a separate tablet whose sentence runs on beyond this unit; sanies is putrid matter or gore.",
+  "44687.3": "44687 ends a list of names ([Satur]ninus, Domitia Attiola); 'et si qui afuere', 'and if any were absent', is obscure here. In 44691 the '#' separates the edition's three forms of Dianae. capitularem (a head-covering?) and fascia (a band or wrapping) are uncertain; 'minus parte tertia' apparently means the gift is made less a third. Single restored letters inside otherwise legible words are not bracketed.",
+  "51573.5": "51573.5 opens mid-word: 'rit' completes fecerit, '(who) has committed (the theft)', from the line before. 'corulo pare(n)tatur' is obscure: corulus is hazel, parentare is to make offerings to the dead. 51574: paganus may mean civilian or villager; dimitte is taken as 'forgive'. 52039: DAVIIS is left as printed (letters not resolved); Senilis and Senni[...] are names. Single restored letters inside otherwise legible words are not bracketed.",
+  "79513.1.1": "Side 1 has only the letter B; 79513.2.1 is isolated letters, left as printed. The verb ending '-revavit' (2.5) has lost its beginning; it must mean something like 'stole'. 'Ter[en]ti' is taken as 'son of Terentius' (it could be 'slave of'). The {a} in conq[u]{a}er[or] is a letter the editors delete. Single restored letters inside otherwise legible words are not bracketed."
+ },
+ "nodes": [
+  {
+   "ref": "9.1",
+   "text": "ABCDEFX"
+  },
+  {
+   "ref": "12.1.1",
+   "text": "Primurudem"
+  },
+  {
+   "ref": "12.2.1",
+   "text": "Basilia gives to the temple of Mars a"
+  },
+  {
+   "ref": "12.2.2",
+   "text": "silver ring, [so that] whether slave or free"
+  },
+  {
+   "ref": "12.2.3",
+   "text": "[whoever] has been a go-between or anything of this"
+  },
+  {
+   "ref": "12.2.4",
+   "text": "has known, that in blood and eyes and"
+  },
+  {
+   "ref": "12.3.1",
+   "text": "all his limbs he be transfixed, or even"
+  },
+  {
+   "ref": "12.3.2",
+   "text": "have all his intestines eaten away."
+  },
+  {
+   "ref": "66.2.3",
+   "text": "Valaunecus"
+  },
+  {
+   "ref": "66.2.4",
+   "text": "Belia(...)"
+  },
+  {
+   "ref": "90.1",
+   "text": "To Minerva,"
+  },
+  {
+   "ref": "90.2",
+   "text": "the goddess Sulis, I have given"
+  },
+  {
+   "ref": "90.3",
+   "text": "the thief who"
+  },
+  {
+   "ref": "90.4",
+   "text": "the hooded cloak"
+  },
+  {
+   "ref": "90.5",
+   "text": "of mine has stolen,"
+  },
+  {
+   "ref": "90.6",
+   "text": "whether slave,"
+  },
+  {
+   "ref": "90.7",
+   "text": "whether free, whether"
+  },
+  {
+   "ref": "90.8",
+   "text": "man, whether woman."
+  },
+  {
+   "ref": "90.9",
+   "text": "This gift he may not"
+  },
+  {
+   "ref": "90.10",
+   "text": "buy back except"
+  },
+  {
+   "ref": "90.11",
+   "text": "with his own blood."
+  },
+  {
+   "ref": "93.1",
+   "text": "I curse [him] who has stolen"
+  },
+  {
+   "ref": "93.2",
+   "text": "what Deomiorix, from his house,"
+  },
+  {
+   "ref": "96.4.2",
+   "text": "Severianus"
+  },
+  {
+   "ref": "96.4.3",
+   "text": "Seni⟨i⟩la"
+  },
+  {
+   "ref": "1024.1",
+   "text": "To the goddess Sulis I have given [...]"
+  },
+  {
+   "ref": "1024.2",
+   "text": "six [silver] coins which I have lost,"
+  },
+  {
+   "ref": "1024.3",
+   "text": "from the names written below;"
+  },
+  {
+   "ref": "1024.4",
+   "text": "the goddess is to exact [them]:"
+  },
+  {
+   "ref": "1024.5",
+   "text": "Senicianus and Saturninus, and"
+  },
+  {
+   "ref": "1024.6",
+   "text": "also Anniola. The painted sheet [is] written out in full."
+  },
+  {
+   "ref": "1024.7",
+   "text": "Anniola"
+  },
+  {
+   "ref": "1024.8",
+   "text": "Senicianus"
+  },
+  {
+   "ref": "1024.9",
+   "text": "Saturninus"
+  },
+  {
+   "ref": "1027.1",
+   "text": "Severa"
+  },
+  {
+   "ref": "1027.2",
+   "text": "Dracontius"
+  },
+  {
+   "ref": "1027.10",
+   "text": "Austus"
+  },
+  {
+   "ref": "1027.11",
+   "text": "Carinianus"
+  },
+  {
+   "ref": "1030.1.1",
+   "text": "Docilianus,"
+  },
+  {
+   "ref": "1030.1.2",
+   "text": "[son] of Brucerus,"
+  },
+  {
+   "ref": "1030.1.3",
+   "text": "to the most holy goddess"
+  },
+  {
+   "ref": "1030.1.4",
+   "text": "Sulis:"
+  },
+  {
+   "ref": "1030.1.5",
+   "text": "I curse him who"
+  },
+  {
+   "ref": "1030.1.6",
+   "text": "my hooded cloak"
+  },
+  {
+   "ref": "1030.1.7",
+   "text": "has stolen, whether"
+  },
+  {
+   "ref": "1030.1.8",
+   "text": "man or woman, whether"
+  },
+  {
+   "ref": "1030.1.9",
+   "text": "slave or free,"
+  },
+  {
+   "ref": "1030.1.10",
+   "text": "that [...] the goddess Sulis"
+  },
+  {
+   "ref": "1030.1.11",
+   "text": "to the greatest death"
+  },
+  {
+   "ref": "1030.1.12",
+   "text": "may drive [him], and may not allow him"
+  },
+  {
+   "ref": "1030.1.13",
+   "text": "sleep"
+  },
+  {
+   "ref": "1030.2.1",
+   "text": "or children now born or"
+  },
+  {
+   "ref": "1030.2.2",
+   "text": "yet to be born, un-"
+  },
+  {
+   "ref": "1030.2.3",
+   "text": "[til] the hooded cloak"
+  },
+  {
+   "ref": "1030.2.4",
+   "text": "of mine to the temple"
+  },
+  {
+   "ref": "1030.2.5",
+   "text": "of her divinity"
+  },
+  {
+   "ref": "1030.2.6",
+   "text": "he has brought."
+  },
+  {
+   "ref": "1033.1",
+   "text": "Uricalus, Docilosa his wife,"
+  },
+  {
+   "ref": "1033.2",
+   "text": "Docilis his son, and Docilina,"
+  },
+  {
+   "ref": "1033.3",
+   "text": "Decentinus his brother, Alogiosa:"
+  },
+  {
+   "ref": "1033.4",
+   "text": "the names of those who have sworn"
+  },
+  {
+   "ref": "1033.5",
+   "text": "at the spring of the goddess Sulis"
+  },
+  {
+   "ref": "1033.6",
+   "text": "on the day before the Ides of April. Whoever there has"
+  },
+  {
+   "ref": "1033.7",
+   "text": "sworn falsely to the goddess Sulis, may you make him"
+  },
+  {
+   "ref": "1033.8",
+   "text": "pay for it with his own blood."
+  },
+  {
+   "ref": "1036.1",
+   "text": "Br⟨p⟩ituenda"
+  },
+  {
+   "ref": "1036.2",
+   "text": "Marinus"
+  },
+  {
+   "ref": "1045.4",
+   "text": "bracelet has"
+  },
+  {
+   "ref": "1045.5",
+   "text": "stolen."
+  },
+  {
+   "ref": "1048.1",
+   "text": "To the goddess Sulis Minerva: [I,] Docca,"
+  },
+  {
+   "ref": "1048.2",
+   "text": "give to your divinity the money which"
+  },
+  {
+   "ref": "1048.3",
+   "text": "[...] I have lost, that is, five denarii; and he who"
+  },
+  {
+   "ref": "1048.4",
+   "text": "[has stolen it], whether slave or [free,]"
+  },
+  {
+   "ref": "1048.5",
+   "text": "[whether man or woman], let him be made to pay [...]"
+  },
+  {
+   "ref": "1048.0",
+   "text": "[...]"
+  },
+  {
+   "ref": "1051.1.1",
+   "text": "Whether pagan or"
+  },
+  {
+   "ref": "1051.1.2",
+   "text": "Christian, whoever, whether man"
+  },
+  {
+   "ref": "1051.1.3",
+   "text": "or woman, whether boy or girl,"
+  },
+  {
+   "ref": "1051.1.4",
+   "text": "whether slave or free, [who] from me, Annianus"
+  },
+  {
+   "ref": "1051.1.5",
+   "text": "[son of] Matutina, from my purse six silver coins"
+  },
+  {
+   "ref": "1051.1.6",
+   "text": "has stolen, you, lady goddess, exact from him"
+  },
+  {
+   "ref": "1051.1.7",
+   "text": "[...] [them]. If through some fraud he has given me INDEP"
+  },
+  {
+   "ref": "1051.1.8",
+   "text": "REG[.]STUM, do not even so pardon him, but that you charge it to his"
+  },
+  {
+   "ref": "1051.1.9",
+   "text": "blood, his who has brought this upon me."
+  },
+  {
+   "ref": "1051.2.1",
+   "text": "Postum[ianu]s, Pisso,"
+  },
+  {
+   "ref": "1051.2.2",
+   "text": "Locinna, Alauna,"
+  },
+  {
+   "ref": "1051.2.3",
+   "text": "Materna, Gunsula,"
+  },
+  {
+   "ref": "1051.2.4",
+   "text": "Candidina, Eutychius,"
+  },
+  {
+   "ref": "1051.2.5",
+   "text": "Peregrinus,"
+  },
+  {
+   "ref": "1051.2.6",
+   "text": "Latinus,"
+  },
+  {
+   "ref": "1051.2.7",
+   "text": "Senicianus,"
+  },
+  {
+   "ref": "1051.2.8",
+   "text": "Avitianus,"
+  },
+  {
+   "ref": "1051.2.9",
+   "text": "Victor,"
+  },
+  {
+   "ref": "1051.2.10",
+   "text": "Scu[tri]us,"
+  },
+  {
+   "ref": "1051.2.11",
+   "text": "Aessicunia,"
+  },
+  {
+   "ref": "1051.2.12",
+   "text": "Paltucca,"
+  },
+  {
+   "ref": "1051.2.13",
+   "text": "Calliopis,"
+  },
+  {
+   "ref": "1051.2.14",
+   "text": "Celerianus."
+  },
+  {
+   "ref": "1057.1",
+   "text": "From Nase[...]"
+  },
+  {
+   "ref": "1057.2",
+   "text": "carries off Vroc[...]"
+  },
+  {
+   "ref": "1057.13",
+   "text": "the thief has the sash; from"
+  },
+  {
+   "ref": "1057.14",
+   "text": "the sheet written above, by account."
+  },
+  {
+   "ref": "1464.1.1",
+   "text": "[My] bronze pot: he who has lifted [it]"
+  },
+  {
+   "ref": "1464.1.2",
+   "text": "is utterly accursed. To the temple of Sulis"
+  },
+  {
+   "ref": "1464.1.3",
+   "text": "I give [him], whether woman or man, whether slave"
+  },
+  {
+   "ref": "1464.1.4",
+   "text": "or free, whether boy or girl."
+  },
+  {
+   "ref": "7734.8",
+   "text": "in the shrine where"
+  },
+  {
+   "ref": "7734.9",
+   "text": "[he] appoints."
+  },
+  {
+   "ref": "8086.1.1",
+   "text": "To the god Mercury:"
+  },
+  {
+   "ref": "8086.1.2",
+   "text": "Cenacus complains"
+  },
+  {
+   "ref": "8086.1.3",
+   "text": "about Vitalinus and Natalinus"
+  },
+  {
+   "ref": "8086.1.4",
+   "text": "his son, concerning"
+  },
+  {
+   "ref": "8086.1.5",
+   "text": "the draught animal which was stolen"
+  },
+  {
+   "ref": "8086.1.6",
+   "text": "from him, and he asks"
+  },
+  {
+   "ref": "8086.1.7",
+   "text": "the god Mercury"
+  },
+  {
+   "ref": "8086.1.8",
+   "text": "that they may not have"
+  },
+  {
+   "ref": "8086.1.9",
+   "text": "health"
+  },
+  {
+   "ref": "8086.2.1",
+   "text": "until they have promptly returned"
+  },
+  {
+   "ref": "8086.2.2",
+   "text": "to me the animal"
+  },
+  {
+   "ref": "8086.2.3",
+   "text": "which they seized, and to the god"
+  },
+  {
+   "ref": "8086.2.4",
+   "text": "the devotion which"
+  },
+  {
+   "ref": "8086.2.5",
+   "text": "he himself has required"
+  },
+  {
+   "ref": "8086.2.6",
+   "text": "of them."
+  },
+  {
+   "ref": "8089.1.1",
+   "text": "A memorandum to the god"
+  },
+  {
+   "ref": "8089.1.2",
+   "text": "Mercury ⟦Mars Silvanus⟧ from Saturnina,"
+  },
+  {
+   "ref": "8089.1.3",
+   "text": "a woman, about the linen cloth"
+  },
+  {
+   "ref": "8089.1.4",
+   "text": "which she has lost: that he"
+  },
+  {
+   "ref": "8089.1.5",
+   "text": "who has cheated [her] of this may not"
+  },
+  {
+   "ref": "8089.1.6",
+   "text": "be released until such time as"
+  },
+  {
+   "ref": "8089.1.7",
+   "text": "the aforesaid things to the aforesaid shrine"
+  },
+  {
+   "ref": "8089.1.8",
+   "text": "he has brought, whether man or"
+  },
+  {
+   "ref": "8089.1.9",
+   "text": "woman, whether slave or free."
+  },
+  {
+   "ref": "8089.2.1",
+   "text": "To the aforesaid god a third"
+  },
+  {
+   "ref": "8089.2.2",
+   "text": "part she gives, on condition that"
+  },
+  {
+   "ref": "8089.2.3",
+   "text": "he exact these things which are written above,"
+  },
+  {
+   "ref": "8089.2.4",
+   "text": "ACA, which she has lost. To the god Silvanus"
+  },
+  {
+   "ref": "8089.2.5",
+   "text": "a third part is given, on condition that"
+  },
+  {
+   "ref": "8089.2.6",
+   "text": "he exact this, whether man or woman, whether slave"
+  },
+  {
+   "ref": "8089.2.7",
+   "text": "or free [...]"
+  },
+  {
+   "ref": "8092.1",
+   "text": "To the god Mars Mercury [...]"
+  },
+  {
+   "ref": "8092.2",
+   "text": "a gold ring from the [lodging] [...]"
+  },
+  {
+   "ref": "8092.3",
+   "text": "will [be], and an iron fetter [...]"
+  },
+  {
+   "ref": "8092.4",
+   "text": "-s who has committed the fraud"
+  },
+  {
+   "ref": "8092.5",
+   "text": "[...]"
+  },
+  {
+   "ref": "8092.6",
+   "text": "r[...] may the god find [him]."
+  },
+  {
+   "ref": "8098.1",
+   "text": "*rotas* [wheels]"
+  },
+  {
+   "ref": "8098.2",
+   "text": "*opera* [works]"
+  },
+  {
+   "ref": "8942.6",
+   "text": "[...] cause the [stolen] thing to be brought back"
+  },
+  {
+   "ref": "8942.7",
+   "text": "[...]"
+  },
+  {
+   "ref": "8951.1",
+   "text": "Biccus gives to Mercury"
+  },
+  {
+   "ref": "8951.2",
+   "text": "whatever"
+  },
+  {
+   "ref": "8951.3",
+   "text": "he has lost: whether man or"
+  },
+  {
+   "ref": "8951.4",
+   "text": "male, may he not piss,"
+  },
+  {
+   "ref": "8951.5",
+   "text": "nor shit, nor speak,"
+  },
+  {
+   "ref": "8951.6",
+   "text": "nor sleep,"
+  },
+  {
+   "ref": "8951.7",
+   "text": "nor stay awake, nor [have] well-being"
+  },
+  {
+   "ref": "8951.8",
+   "text": "nor health,"
+  },
+  {
+   "ref": "8951.9",
+   "text": "unless"
+  },
+  {
+   "ref": "8951.10",
+   "text": "in the temple"
+  },
+  {
+   "ref": "8951.11",
+   "text": "of Mercury he brings [it];"
+  },
+  {
+   "ref": "8951.12",
+   "text": "nor may he"
+  },
+  {
+   "ref": "8951.13",
+   "text": "gain awareness of [it]"
+  },
+  {
+   "ref": "8951.14",
+   "text": "unless"
+  },
+  {
+   "ref": "8951.15",
+   "text": "with me"
+  },
+  {
+   "ref": "8951.16",
+   "text": "interceding."
+  },
+  {
+   "ref": "12422.1",
+   "text": "I ask you, Metunus,"
+  },
+  {
+   "ref": "12422.2",
+   "text": "that you avenge me"
+  },
+  {
+   "ref": "12422.3",
+   "text": "for that name;"
+  },
+  {
+   "ref": "12422.4",
+   "text": "avenge me"
+  },
+  {
+   "ref": "12422.5",
+   "text": "before"
+  },
+  {
+   "ref": "12422.6",
+   "text": "nine days come;"
+  },
+  {
+   "ref": "12422.7",
+   "text": "I ask you,"
+  },
+  {
+   "ref": "12422.8",
+   "text": "Metunus, that you"
+  },
+  {
+   "ref": "12422.9",
+   "text": "avenge me"
+  },
+  {
+   "ref": "12422.10",
+   "text": "before"
+  },
+  {
+   "ref": "12422.11",
+   "text": "nine days"
+  },
+  {
+   "ref": "12422.12",
+   "text": "come."
+  },
+  {
+   "ref": "12425.1",
+   "text": "Exsuperantius"
+  },
+  {
+   "ref": "12425.2",
+   "text": "Silviola, Sattavilla,"
+  },
+  {
+   "ref": "12428.1",
+   "text": "[...]eocorotis: I have lost a [cloak],"
+  },
+  {
+   "ref": "12428.2",
+   "text": "a mantle, a cape, a *paxsa*; [I have given]"
+  },
+  {
+   "ref": "12428.3",
+   "text": "[...] Sulis, that this, before nine days,"
+  },
+  {
+   "ref": "12428.4",
+   "text": "[whether] free or slave, whether free woman or slave woman,"
+  },
+  {
+   "ref": "12428.5",
+   "text": "[whether] boy or girl, in [his own] beak"
+  },
+  {
+   "ref": "12428.6",
+   "text": "may deliver."
+  },
+  {
+   "ref": "12428.7",
+   "text": "the horse-cloth; [whether slave or free, whether]"
+  },
+  {
+   "ref": "12428.8",
+   "text": "slave woman or free woman, whether boy [or girl]"
+  },
+  {
+   "ref": "15967.11",
+   "text": "Dignus, that in his own body"
+  },
+  {
+   "ref": "15967.12",
+   "text": "within a short time"
+  },
+  {
+   "ref": "15967.13",
+   "text": "he may pay. There is given"
+  },
+  {
+   "ref": "15967.14",
+   "text": "to the god — let it be — the tenth part"
+  },
+  {
+   "ref": "15967.15",
+   "text": "of that money which"
+  },
+  {
+   "ref": "15967.16",
+   "text": "he pays."
+  },
+  {
+   "ref": "18602.1",
+   "text": "Old"
+  },
+  {
+   "ref": "18602.2",
+   "text": "as putrid gore"
+  },
+  {
+   "ref": "19330.4",
+   "text": "and of the money which he has made away with,"
+  },
+  {
+   "ref": "19330.5",
+   "text": "gifts to Mercury, and sacred to Virtus."
+  },
+  {
+   "ref": "24366.1",
+   "text": "I bind with a curse Tretia Maria and"
+  },
+  {
+   "ref": "24366.2",
+   "text": "her life and mind"
+  },
+  {
+   "ref": "24366.3",
+   "text": "and memory and liver,"
+  },
+  {
+   "ref": "24366.4",
+   "text": "lungs mixed up together,"
+  },
+  {
+   "ref": "24366.5",
+   "text": "words, thoughts, memory;"
+  },
+  {
+   "ref": "24366.6",
+   "text": "thus may she not be able to speak"
+  },
+  {
+   "ref": "24366.7",
+   "text": "what things are secret, nor SINIT"
+  },
+  {
+   "ref": "24366.8",
+   "text": "love"
+  },
+  {
+   "ref": "24366.9",
+   "text": "may she be able, nor [...]"
+  },
+  {
+   "ref": "24366.10",
+   "text": "[...] I shut up."
+  },
+  {
+   "ref": "25425.1",
+   "text": "Lady Nemesis,"
+  },
+  {
+   "ref": "25425.2",
+   "text": "I give to you"
+  },
+  {
+   "ref": "25425.3",
+   "text": "a cloak"
+  },
+  {
+   "ref": "25425.4",
+   "text": "and shoes;"
+  },
+  {
+   "ref": "25425.5",
+   "text": "let him who took [them] not"
+  },
+  {
+   "ref": "25425.6",
+   "text": "redeem [them] except"
+  },
+  {
+   "ref": "25425.7",
+   "text": "by life, by blood"
+  },
+  {
+   "ref": "25425.8",
+   "text": "of his own."
+  },
+  {
+   "ref": "25800.1.1",
+   "text": "Titus Egnatius"
+  },
+  {
+   "ref": "25800.1.2",
+   "text": "Tyrannus, cursed"
+  },
+  {
+   "ref": "44687.3",
+   "text": "-ninus, Domitia Atti-"
+  },
+  {
+   "ref": "44687.4",
+   "text": "ola, and if any were absent."
+  },
+  {
+   "ref": "44691.1",
+   "text": "To the goddess Diana I give"
+  },
+  {
+   "ref": "44691.2",
+   "text": "a head-covering and a"
+  },
+  {
+   "ref": "44691.3",
+   "text": "band, less one part,"
+  },
+  {
+   "ref": "44691.4",
+   "text": "the third. If anyone has done this,"
+  },
+  {
+   "ref": "44691.5",
+   "text": "whether boy or girl, whether"
+  },
+  {
+   "ref": "44691.6",
+   "text": "[slave] [or free]"
+  },
+  {
+   "ref": "48868.2",
+   "text": "[..]ESUNT; they are suspected among [...]"
+  },
+  {
+   "ref": "48868.3",
+   "text": "[.]LLUS[..]EUSRE[.]UMINVENETET[...] one small plate and four rings [...]"
+  },
+  {
+   "ref": "49547.1",
+   "text": "Lord Neptune,"
+  },
+  {
+   "ref": "49547.2",
+   "text": "I give you the man who"
+  },
+  {
+   "ref": "49547.3",
+   "text": "has stolen the solidus from"
+  },
+  {
+   "ref": "49547.4",
+   "text": "Muco, and silver coins,"
+  },
+  {
+   "ref": "49547.5",
+   "text": "six. Therefore I give the names"
+  },
+  {
+   "ref": "49547.6",
+   "text": "[of him] who deceived, whether male or"
+  },
+  {
+   "ref": "49547.7",
+   "text": "female, whether boy, whether"
+  },
+  {
+   "ref": "49547.8",
+   "text": "girl. Therefore I give to you, Niskus,"
+  },
+  {
+   "ref": "49547.9",
+   "text": "and to Neptune, the life, health,"
+  },
+  {
+   "ref": "49547.10",
+   "text": "blood of him"
+  },
+  {
+   "ref": "49547.11",
+   "text": "who has been privy to that"
+  },
+  {
+   "ref": "49547.12",
+   "text": "deception. The mind which stole this and"
+  },
+  {
+   "ref": "51573.5",
+   "text": "has committed [it], to the lord Neptune"
+  },
+  {
+   "ref": "51573.6",
+   "text": "with hazel he is offered to the dead."
+  },
+  {
+   "ref": "51574.1.1",
+   "text": "Whether slave or free,"
+  },
+  {
+   "ref": "51574.1.2",
+   "text": "who has stolen, has carried"
+  },
+  {
+   "ref": "51574.1.3",
+   "text": "off: [do not] forgive [him]"
+  },
+  {
+   "ref": "51574.1.4",
+   "text": "the [mis]deed until"
+  },
+  {
+   "ref": "51574.1.5",
+   "text": "you take vengeance."
+  },
+  {
+   "ref": "51574.2.1",
+   "text": "Within nine days, whether a"
+  },
+  {
+   "ref": "51574.2.2",
+   "text": "civilian [who]"
+  },
+  {
+   "ref": "51574.2.3",
+   "text": "has carried off"
+  },
+  {
+   "ref": "52039.1.1",
+   "text": "To the god DAVIIS [...] Senilis"
+  },
+  {
+   "ref": "52039.1.2",
+   "text": "Senni[...]"
+  },
+  {
+   "ref": "53281.1",
+   "text": "Martia"
+  },
+  {
+   "ref": "53281.2",
+   "text": "or Martina"
+  },
+  {
+   "ref": "53285.1",
+   "text": "To the holy god Mercury: [I,] Honoratus,"
+  },
+  {
+   "ref": "53285.2",
+   "text": "complain to your divinity that I have lost"
+  },
+  {
+   "ref": "53285.3",
+   "text": "two wheels and four cows"
+  },
+  {
+   "ref": "53285.4",
+   "text": "and very many small belongings from"
+  },
+  {
+   "ref": "53285.5",
+   "text": "my little house."
+  },
+  {
+   "ref": "53285.6",
+   "text": "I would ask the genius of your"
+  },
+  {
+   "ref": "53285.7",
+   "text": "divinity that to whoever has defrauded me"
+  },
+  {
+   "ref": "53285.8",
+   "text": "you do not allow health,"
+  },
+  {
+   "ref": "53285.9",
+   "text": "nor to lie down nor to sit nor"
+  },
+  {
+   "ref": "53285.10",
+   "text": "to drink nor to eat, whether man"
+  },
+  {
+   "ref": "53285.11",
+   "text": "or woman, whether boy or girl, whether slave"
+  },
+  {
+   "ref": "53285.12",
+   "text": "or free, unless he has brought my property back to me"
+  },
+  {
+   "ref": "53285.13",
+   "text": "and has my goodwill."
+  },
+  {
+   "ref": "53285.14",
+   "text": "With repeated prayers I ask"
+  },
+  {
+   "ref": "53285.15",
+   "text": "your divinity that my petition"
+  },
+  {
+   "ref": "53285.16",
+   "text": "may at once make it plain that I"
+  },
+  {
+   "ref": "53285.17",
+   "text": "have been avenged by your majesty."
+  },
+  {
+   "ref": "55268.1",
+   "text": "[It is given] to the god Mercury, [if]"
+  },
+  {
+   "ref": "55268.2",
+   "text": "anyone has stolen C[...]LAM"
+  },
+  {
+   "ref": "69587.1",
+   "text": "[...]"
+  },
+  {
+   "ref": "69587.2",
+   "text": "Dad[...]"
+  },
+  {
+   "ref": "69604.1.1",
+   "text": "To the god"
+  },
+  {
+   "ref": "69604.1.2",
+   "text": "Nodens: Silvianus"
+  },
+  {
+   "ref": "69604.1.3",
+   "text": "has lost a ring;"
+  },
+  {
+   "ref": "69604.1.4",
+   "text": "half its value"
+  },
+  {
+   "ref": "69604.1.5",
+   "text": "he has given to Nodens."
+  },
+  {
+   "ref": "69604.1.6",
+   "text": "Among those [who bear] the name"
+  },
+  {
+   "ref": "69604.1.7",
+   "text": "of Senicianus, do not"
+  },
+  {
+   "ref": "69604.1.8",
+   "text": "permit them health"
+  },
+  {
+   "ref": "69604.1.9",
+   "text": "until he brings [it]"
+  },
+  {
+   "ref": "69604.1.10",
+   "text": "right to the temple of"
+  },
+  {
+   "ref": "69604.1.11",
+   "text": "[No]dens."
+  },
+  {
+   "ref": "69604.2.1",
+   "text": "*Rediviva* [renewed]"
+  },
+  {
+   "ref": "71459.1.1",
+   "text": "Whether boy or girl,"
+  },
+  {
+   "ref": "79429.1.1",
+   "text": "[...] Cunovinna [...]"
+  },
+  {
+   "ref": "79429.1.0-2",
+   "text": "[...]"
+  },
+  {
+   "ref": "79430.1.1",
+   "text": "To the god Mars [...]"
+  },
+  {
+   "ref": "79430.1.0",
+   "text": "[...]"
+  },
+  {
+   "ref": "79430.2.0",
+   "text": "[...]"
+  },
+  {
+   "ref": "79513.1.1",
+   "text": "B"
+  },
+  {
+   "ref": "79513.2.1",
+   "text": "[...]AT[...]AD[...]ITAMO[...]"
+  },
+  {
+   "ref": "79513.2.2",
+   "text": "I, Arminia, complain to you, Sulis:"
+  },
+  {
+   "ref": "79513.2.3",
+   "text": "may you consume Verecundinus, [son] of Terentius,"
+  },
+  {
+   "ref": "79513.2.4",
+   "text": "who two little silver coins from me"
+  },
+  {
+   "ref": "79513.2.5",
+   "text": "[...]revavit: do not allow [him]"
+  },
+  {
+   "ref": "79513.2.6",
+   "text": "to sit or to lie [or]"
+  },
+  {
+   "ref": "79513.2.7",
+   "text": "[...] to walk, [or]"
+  },
+  {
+   "ref": "79513.2.8",
+   "text": "sleep [or] health; [him]"
+  },
+  {
+   "ref": "79513.2.9",
+   "text": "may you consume as quickly as possible, and again"
+  },
+  {
+   "ref": "79513.2.0",
+   "text": "[...]"
+  },
+  {
+   "ref": "79513.2.0-2",
+   "text": "[...]"
+  },
+  {
+   "ref": "79549.4",
+   "text": "[...] unless e[...]"
+  },
+  {
+   "ref": "79549.0",
+   "text": "[...]"
+  },
+  {
+   "ref": "79550.1",
+   "text": "To the goddess Sulis Minerva: [I,] Solinus,"
+  },
+  {
+   "ref": "79550.2",
+   "text": "give to your divinity [and]"
+  },
+  {
+   "ref": "79550.3",
+   "text": "majesty a bathing-tunic and a"
+  },
+  {
+   "ref": "79550.4",
+   "text": "cloak. [Do not] allow sleep"
+  },
+  {
+   "ref": "79550.5",
+   "text": "or health to him who has done me"
+  },
+  {
+   "ref": "79550.6",
+   "text": "wrong, whether man or woman, whether slave or free, unless, revealing himself, he has brought those"
+  },
+  {
+   "ref": "79550.7",
+   "text": "goods to your temple."
+  },
+  {
+   "ref": "79550.8",
+   "text": "[...] his children, his things, [and] who [...]deg[...]"
+  },
+  {
+   "ref": "79550.9",
+   "text": "to him also [...]xe[...]"
+  }
+ ]
+}

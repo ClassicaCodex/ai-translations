@@ -1,0 +1,985 @@
+{
+ "work_urn": "urn:magic:dclp:88396",
+ "edition_urn": "urn:magic:dclp:88396.ai-claude",
+ "source_edition": "urn:magic:dclp:88396:grc",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "PGM I: Magical handbook with recipes, including hymns: AI translation (Claude)",
+  "author": "Papyri Graecae Magicae",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:magic:dclp:88396:grc, from papyri.info's Digital Corpus of Literary Papyri (CC BY 3.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY 4.0: credit papyri.info's Digital Corpus of Literary Papyri (the source's own licence is CC BY 3.0) and this AI translation."
+ },
+ "notes": {
+  "1.1": "'Assistant' renders paredros, an attendant spirit. 1.4-5 kirkaios: a kind of falcon or hawk, not certainly identifiable. 1.5 ἀποθωσον read as ἀποθέωσον, 'deify' (probably drowning the bird). 1.7 ἀχρωτίστῳ, literally 'untouched by skin', i.e. unworn. 1.12 'two slopes' (κλίμα): the vowels are laid out in two sloping columns, as in 1.13-19. 1.24 πτοινοῦ read as πτηνοῦ, 'bird'. 1.32 ἀρεαίστη is doubtful; taken as 'unshakeable'. 1.34 a word after 'breathing fire' is lost. 1.37-40 damaged: the sense of 'being sent ... step back' is uncertain, and ειδικε[...] in 1.40 cannot be construed. 1.42 the scribe's name is damaged; probably Pnouthis, as in 1.43 and 1.52. 1.43 Keryx may be a name or mean 'herald'. 1.45-51 broken and in places ungrammatical (ενπαντννια[...] and εσχομ[...] unread); the sense given is tentative. 1.58 ἀπογιν(...) τῆς ἡλίου ἑλείας is abbreviated and obscure; 'as the sun's glow fades' is a guess. 1.77 'the god' has a feminine article in the Greek, though 'his hand' follows. 2.86 the restored 'recline' and its relation to 'the god' are uncertain. 2.88 πρόπεμπε normally means 'escort' or 'send on'; its sense here is unclear. 2.91 it is unclear whether this line belongs to the speech to the god. 2.99 ousia is the personal material (hair, clothing) normally needed to act on a person. 2.109-10 'these one reckons real, and those only seen' is obscure, perhaps contrasting real things with illusions. 2.120 ῥακας is unclear; taken as 'breakers'. 2.122 σταδίως is unclear; taken as 'on your feet'. 2.123 ἄφρον may be 'foam' (ἀφρός) or 'the fool' (ἄφρων); the next word is lost.",
+  "2.138": "'Assistant' renders paredros, an attendant spirit. 2.144 Helioros is written with the sun sign and -ōros, i.e. Helios-Horus. 2.151-2 'rim' and 'mirphar' may be one name split across the line. 3.163 θν taken as θεόν, 'god'. 3.193 εἰσχινῶι is unexplained; 'own son' is a guess (perhaps for 'legitimate').",
+  "4.294": "4.303 'you watch from the rising toward the setting' is a guess at a compressed phrase (ἐς δύσιν ἀντολίης ἐπισκοπιάζεις). 5.307 κόσμος read as κόσμῳ, 'over the world'.",
+  "5.327": "5.328 ἐποποιίας is literally 'epic composition'; its sense here is unclear. 5.329 ὀνειροτησίας is not a known word; it may be a miswriting of the preceding ὀνειραιτησίας ('asking for dreams').",
+  "4.246": "4.249-50 'it means the rose' (τὸ ῥόδον λέγει) appears to be a gloss on aglaophotis written into the middle of τρί-βων, 'grinding'; in 4.250-1 the word for 'formula' is written twice across the break. 4.251-2 appear to be Egyptian (Old Coptic) words, kept as written: anok 'I am', anoup Anubis, ousire Osiris; anok pe ousire penta sēt tako seems to mean 'I am Osiris, whom Seth destroyed'.",
+  "3.206": "3.206 completes a word begun on the previous line ('who hold fast the root'). 3.212 ὅσσαι taken as ὅσον, 'as much as'. 3.214 the words after 'at a loss' are unread (α̣β̣ο̣υ̣ followed by a gap), apart from 'me'."
+ },
+ "nodes": [
+  {
+   "ref": "1.1",
+   "text": "As an assistant a *[dai]mōn* (spirit) will [come to you], who will reveal everything to you"
+  },
+  {
+   "ref": "1.2",
+   "text": "in plain words, an[d he will be your companion] [and] eat [with] you, and will share your"
+  },
+  {
+   "ref": "1.3",
+   "text": "bed. Take [all t]he nails of your own [hand] and"
+  },
+  {
+   "ref": "1.4",
+   "text": "all your hair[s from your] head, and take a falcon, a *kir*-"
+  },
+  {
+   "ref": "1.5",
+   "text": "*kaios*; deify it in [the milk of a] black [c]ow, mixing into"
+  },
+  {
+   "ref": "1.6",
+   "text": "it Attic honey; and [when you have dei]fied [it], wrap it in a cloth"
+  },
+  {
+   "ref": "1.7",
+   "text": "that has never touched skin, and place [beside] it your nails together with the"
+  },
+  {
+   "ref": "1.8",
+   "text": "hairs; and take [a sheet of royal pa]per and write on it the following"
+  },
+  {
+   "ref": "1.9",
+   "text": "in myrrh, and place it likewise [with the] hairs and the nails, and coat"
+  },
+  {
+   "ref": "1.10",
+   "text": "it over with [unc]ut frankincense and very old wine. This"
+  },
+  {
+   "ref": "1.11",
+   "text": "then is what is written on [the sl]ip: aeeēēēiiiioooooy"
+  },
+  {
+   "ref": "1.12",
+   "text": "yyyy ōōōō[ōōō. And write it, ma]king two slopes:"
+  },
+  {
+   "ref": "1.13",
+   "text": "a ōōōō[ōōō]"
+  },
+  {
+   "ref": "1.14",
+   "text": "ee yyy[yyy]"
+  },
+  {
+   "ref": "1.15",
+   "text": "ēēē ooo[oo]"
+  },
+  {
+   "ref": "1.16",
+   "text": "iiii iii[i]"
+  },
+  {
+   "ref": "1.17",
+   "text": "ooooo ēē[ē]"
+  },
+  {
+   "ref": "1.18",
+   "text": "yyyyyy ee"
+  },
+  {
+   "ref": "1.19",
+   "text": "ōōōōōōō a"
+  },
+  {
+   "ref": "1.20",
+   "text": "And take the milk with the honey and drink it off before sunrise, and there will be"
+  },
+  {
+   "ref": "1.21",
+   "text": "something divine in your heart. And take the falcon and set it up in"
+  },
+  {
+   "ref": "1.22",
+   "text": "a shrine of juniper wood, and after garlanding the shrine itself, make"
+  },
+  {
+   "ref": "1.23",
+   "text": "an offering of lifeless foods, and have very old wine;"
+  },
+  {
+   "ref": "1.24",
+   "text": "and before you recline, speak directly facing the bird itself, having"
+  },
+  {
+   "ref": "1.25",
+   "text": "made a sacrifice to it as is your custom, and say the formula set out here:"
+  },
+  {
+   "ref": "1.26",
+   "text": "aeeēēēiiiioooooyyy[yy]yōōōōōōō. Come to me, good farmer,"
+  },
+  {
+   "ref": "1.27",
+   "text": "Agathos Daimon, arpon [kno]uphi brintatēn oiphri"
+  },
+  {
+   "ref": "1.28",
+   "text": "briskylma arouazar b[amesen] kriphi niptoumichmoumaōph."
+  },
+  {
+   "ref": "1.29",
+   "text": "Come to me, holy Orio[n, who l]ie in the north and who"
+  },
+  {
+   "ref": "1.30",
+   "text": "set rolling [the] streams [of the Ni]le and mingle [them]"
+  },
+  {
+   "ref": "1.31",
+   "text": "with the sea and [mingle them with the ea]rth, as [with] a man's"
+  },
+  {
+   "ref": "1.32",
+   "text": "seed in intercourse; who established the world [on an] unshakeable [foundation],"
+  },
+  {
+   "ref": "1.33",
+   "text": "who are young at dawn and [old at evening], who travel through the"
+  },
+  {
+   "ref": "1.34",
+   "text": "vault beneath the earth and, breathing fire, [...]; who let loose the seas in"
+  },
+  {
+   "ref": "1.35",
+   "text": "month 1; who [send] seed [on]to the [sacred] fig tree of Heliopolis"
+  },
+  {
+   "ref": "1.36",
+   "text": "continually. Th[is is] your au[thentic] name: arthath abaōth bakchabrē."
+  },
+  {
+   "ref": "1.37",
+   "text": "Being sent [...] [...], step back and set yourself"
+  },
+  {
+   "ref": "1.38",
+   "text": "to the enjoyment of the fo[od an]d the dinner and the"
+  },
+  {
+   "ref": "1.39",
+   "text": "offering that has been set out, [...] mouth to mouth, in company"
+  },
+  {
+   "ref": "1.40",
+   "text": "with the god. [...] [...] th[is] rite."
+  },
+  {
+   "ref": "1.41",
+   "text": "Hide, hide the ri[te, and kee]p yourself for 7 da[ys]"
+  },
+  {
+   "ref": "1.42",
+   "text": "from intercourse with a woman. The assistant of P[...]this the sacred scribe:"
+  },
+  {
+   "ref": "1.43",
+   "text": "Pnouthis to Keryx, [who reveres] the god, greetings. As one who knows,"
+  },
+  {
+   "ref": "1.44",
+   "text": "I have prescribed for you this [assistant], so that you do not fail"
+  },
+  {
+   "ref": "1.45",
+   "text": "as you perform this [rit]e. Having set aside all the"
+  },
+  {
+   "ref": "1.46",
+   "text": "treatises lef[t to us in] countless books,"
+  },
+  {
+   "ref": "1.47",
+   "text": "[...] [...] to you, this assistant"
+  },
+  {
+   "ref": "1.48",
+   "text": "I have sent to yo[u], [...] this holy [one], for"
+  },
+  {
+   "ref": "1.49",
+   "text": "you to receive, and [...] alone [...], O friend of the aerial"
+  },
+  {
+   "ref": "1.50",
+   "text": "spirits that hov[er] [...] in what is taught about the gods,"
+  },
+  {
+   "ref": "1.51",
+   "text": "having persuaded [...] [...]. [N]ow I have sent off this"
+  },
+  {
+   "ref": "1.52",
+   "text": "book, so that you may learn it thoroughly; [for] the formula of Pnouthis [has the po]wer to"
+  },
+  {
+   "ref": "1.53",
+   "text": "persuade gods and all the [goddesses. I have written out] for you from it about the"
+  },
+  {
+   "ref": "1.54",
+   "text": "taking of an assistant. [This is the] handing-over [of the as]sistant: having first"
+  },
+  {
+   "ref": "1.55",
+   "text": "purified yourself and abstain[ing from everything ani]mate and from all"
+  },
+  {
+   "ref": "1.56",
+   "text": "impurity, on whatever [night] you wish, having [gone u]p onto a high roof,"
+  },
+  {
+   "ref": "1.57",
+   "text": "dressed in clean clothing, [go through] the first *systasis* (introduction)"
+  },
+  {
+   "ref": "1.58",
+   "text": "as the sun's glow fades [...], [w]earing a"
+  },
+  {
+   "ref": "1.59",
+   "text": "black Isiac band over [your eye]s; and in your right"
+  },
+  {
+   "ref": "1.60",
+   "text": "hand hold a falcon's hea[d, and] [...] as the sun [r]ises, greet"
+  },
+  {
+   "ref": "1.61",
+   "text": "it, shaking the hea[d, and] [...] [reci]ting this"
+  },
+  {
+   "ref": "1.62",
+   "text": "sacred formula, burning [uncut] frankincense and pouring"
+  },
+  {
+   "ref": "1.63",
+   "text": "rose oil as a libation, having made the offering [on an earth]en censer over"
+  },
+  {
+   "ref": "1.64",
+   "text": "coals from the heliotrope [plant]. And as you recite the formula there [will] be for you"
+  },
+  {
+   "ref": "1.65",
+   "text": "this sign: a falcon will [fly do]wn and stand opposite [you],"
+  },
+  {
+   "ref": "1.66",
+   "text": "and, beating its wings, [dropping] in the mid[dle] an oblong stone, it will at once"
+  },
+  {
+   "ref": "1.67",
+   "text": "fly up, [going] into the sky. [You], pick up this stone"
+  },
+  {
+   "ref": "1.68",
+   "text": "and carve it as quickly as possible [...]; once it is engraved, bore through it,"
+  },
+  {
+   "ref": "1.69",
+   "text": "pass a cord through it and fasten it around your [ne]ck. In the evening"
+  },
+  {
+   "ref": "1.70",
+   "text": "go up [again] to [your] upper room, and standing toward the light of the"
+  },
+  {
+   "ref": "1.71",
+   "text": "goddess, directly facing [her], say this hy[mnic formula], again burning"
+  },
+  {
+   "ref": "1.72",
+   "text": "troglitis myrrh in the same man[ner]. Having lit [a fire], hold a myrtle"
+  },
+  {
+   "ref": "1.73",
+   "text": "branch [...] shaking [it, and gr]eet the goddess. And you will have"
+  },
+  {
+   "ref": "1.74",
+   "text": "a sign quickly, like [this]: a [sta]r will come down and stand in the middle"
+  },
+  {
+   "ref": "1.75",
+   "text": "of the roof, and when the star has [dis]solved little by l[ittle], you will behold the one whom"
+  },
+  {
+   "ref": "1.76",
+   "text": "you summoned, an angel se[nt to y]ou; and the counsels of the gods you will shortly"
+  },
+  {
+   "ref": "1.77",
+   "text": "learn. But do not be afraid: [ap]proach the god, and taking his"
+  },
+  {
+   "ref": "2.78",
+   "text": "right hand, [ho]ld it fast, and say these things to the angel,"
+  },
+  {
+   "ref": "2.79",
+   "text": "for he will speak to you [promp]tly about whatever you wish. And you,"
+  },
+  {
+   "ref": "2.80",
+   "text": "adjure him with this [oat]h, so that, being immovable from you,"
+  },
+  {
+   "ref": "2.81",
+   "text": "he stays, and does not [...] nor disobeys at all. And when"
+  },
+  {
+   "ref": "2.82",
+   "text": "he has [giv]en you this oath, holding firmly by the hand the"
+  },
+  {
+   "ref": "2.83",
+   "text": "god, leap down, and, [bring]ing him into the narrow place where"
+  },
+  {
+   "ref": "2.84",
+   "text": "you live, se[at him]. But first, having furnished the house as"
+  },
+  {
+   "ref": "2.85",
+   "text": "is fitting and prep[ared] all kinds of foods, and Mendesian"
+  },
+  {
+   "ref": "2.86",
+   "text": "wine, [recline] beforehand, facing the god, with a boy serving"
+  },
+  {
+   "ref": "2.87",
+   "text": "who is uncorrupted and keeps silen[ce] until the a[ng]el departs."
+  },
+  {
+   "ref": "2.88",
+   "text": "And you, with a speech, escort the god: 'I shall keep you, loving you, as assistant,"
+  },
+  {
+   "ref": "2.89",
+   "text": "[se]rving me, as I say, quickly, by"
+  },
+  {
+   "ref": "2.90",
+   "text": "your power, now on earth; yes, yes, appear to me, god.' And you"
+  },
+  {
+   "ref": "2.91",
+   "text": "yourself, reclining, speak briefly about the things you put forward."
+  },
+  {
+   "ref": "2.92",
+   "text": "Test this adjuration on him, for whatever you want. And when 3 hours"
+  },
+  {
+   "ref": "2.93",
+   "text": "have passed and at once the god leaps up, order the"
+  },
+  {
+   "ref": "2.94",
+   "text": "boy to run to the doors. And say: 'Depart, lord, blessed god,"
+  },
+  {
+   "ref": "2.95",
+   "text": "to where you always are, as you wish,' and the god is no longer seen."
+  },
+  {
+   "ref": "2.96",
+   "text": "This is the sacred taking of the assistant. It is understood that this is"
+  },
+  {
+   "ref": "2.97",
+   "text": "the god; what you saw is an aerial spirit. If you give an order, at once"
+  },
+  {
+   "ref": "2.98",
+   "text": "he performs the task: he sends dreams, he brings women [and] men without"
+  },
+  {
+   "ref": "2.99",
+   "text": "*ousia* (magical material); he kills, he overturns, he stirs up winds from the earth, he carries"
+  },
+  {
+   "ref": "2.100",
+   "text": "gold, silver, bronze, and gives [them] to you whenever there is need."
+  },
+  {
+   "ref": "2.101",
+   "text": "He frees from bonds one guarded with [c]hains, he opens doors,"
+  },
+  {
+   "ref": "2.102",
+   "text": "he makes [you] unseen, so that no one at all may see you; he carries fire; water"
+  },
+  {
+   "ref": "2.103",
+   "text": "he brings, wine, bread, and [whatever] you want of foods: oil,"
+  },
+  {
+   "ref": "2.104",
+   "text": "vinegar, with the sole exception of fish; and vegetables in whatever quantity you want."
+  },
+  {
+   "ref": "2.105",
+   "text": "He will bring meat; but pork, this you must never at all tell him to"
+  },
+  {
+   "ref": "2.106",
+   "text": "bring. And when you want to give a dinner, say [so]. Any room"
+  },
+  {
+   "ref": "2.107",
+   "text": "that you see is suitable, [or]der him to furnish quickly"
+  },
+  {
+   "ref": "2.108",
+   "text": "and promptly. At once he will set up gold-roofed halls; walls"
+  },
+  {
+   "ref": "2.109",
+   "text": "faced with marble you will see in them; and these one reckons real,"
+  },
+  {
+   "ref": "2.110",
+   "text": "and those only seen. And costly wine, as is fitting"
+  },
+  {
+   "ref": "2.111",
+   "text": "to furnish the dinner splendidly. Promptly he will bring *daimones*"
+  },
+  {
+   "ref": "2.112",
+   "text": "and will array those who serve you, girded. These"
+  },
+  {
+   "ref": "2.113",
+   "text": "he makes promptly, an[d] [...] you order [him] to se[rve],"
+  },
+  {
+   "ref": "2.114",
+   "text": "he will do, and you will see him exc[el] others. He stops ships and ag[ain]"
+  },
+  {
+   "ref": "2.115",
+   "text": "releases [them]; he stops very many [evil] *[daim]onia*; he checks wild beasts, and the"
+  },
+  {
+   "ref": "2.116",
+   "text": "teeth of [sav]age reptiles he will promptly break. And dogs"
+  },
+  {
+   "ref": "2.117",
+   "text": "he puts to sleep and [ma]kes voiceless. He transforms [you] into whatever"
+  },
+  {
+   "ref": "2.118",
+   "text": "shape you wish, of a [bea]st, a winged creature, a water creature, a four-footed creature,"
+  },
+  {
+   "ref": "2.119",
+   "text": "a reptile. He will carry y[ou into] the air and again hurl you into the billows"
+  },
+  {
+   "ref": "2.120",
+   "text": "of the sea's rive[rs an]d into the breakers of the seas; he will freeze"
+  },
+  {
+   "ref": "2.121",
+   "text": "rivers and se[a promp]tly, so that you can run about on them"
+  },
+  {
+   "ref": "2.122",
+   "text": "on your feet, as you wish. [Above all], he will hold back, if you ever"
+  },
+  {
+   "ref": "2.123",
+   "text": "wish it, the foam [...], and whenever you wish to bring down"
+  },
+  {
+   "ref": "2.124",
+   "text": "stars, and whenever you wi[sh] to make [hot] things cold and cold things"
+  },
+  {
+   "ref": "2.125",
+   "text": "hot; he will li[ght] lamps [an]d put them out again; walls"
+  },
+  {
+   "ref": "2.126",
+   "text": "he will shake and [ma]ke blaze with fire; he will serve you fully"
+  },
+  {
+   "ref": "2.127",
+   "text": "in whatever you devise, O [bless]ed initiate of the sacred magic, and"
+  },
+  {
+   "ref": "2.128",
+   "text": "this most mighty as[sis]tant will accomplish [it] for you, he who is also sole lord"
+  },
+  {
+   "ref": "2.129",
+   "text": "of the air; and the gods will agree in everything, for without him"
+  },
+  {
+   "ref": "2.130",
+   "text": "nothing exists. Share it with no [one else], but hide, by Helios,"
+  },
+  {
+   "ref": "2.131",
+   "text": "since you have been deemed worthy by the lord [god], this great mystery. This is"
+  },
+  {
+   "ref": "2.138",
+   "text": "auōi ptaucharēbi aōuaōbiau ptabain aaaaaaa;"
+  },
+  {
+   "ref": "2.139",
+   "text": "aeēioyōyōoiēea chachach chachach charcharachach amounēi"
+  },
+  {
+   "ref": "2.140",
+   "text": "iaeōbaphrenemounothilarikriphiaeyeaiphirkiralithon-"
+  },
+  {
+   "ref": "2.141",
+   "text": "uomenerphabōeai chathach phneschēr phichro phnyrō phōchōchoch"
+  },
+  {
+   "ref": "2.142",
+   "text": "iarbatha grammē phibaōchnēmeō. This is the formula that is spoken"
+  },
+  {
+   "ref": "2.143",
+   "text": "to the sun seven times seven. And what is engraved on the"
+  },
+  {
+   "ref": "2.144",
+   "text": "stone is Helioros, a lion-faced figure, holding in his left"
+  },
+  {
+   "ref": "2.145",
+   "text": "hand a celestial sphere and a whip, and around him a serpent"
+  },
+  {
+   "ref": "2.146",
+   "text": "biting its tail; and under the base of the stone hide this name: acha"
+  },
+  {
+   "ref": "2.147",
+   "text": "achacha chach charchara chach. And threading it on an Anubian"
+  },
+  {
+   "ref": "2.148",
+   "text": "cord, wear it around your neck. Formula to the moon: inouthō"
+  },
+  {
+   "ref": "2.149",
+   "text": "ptouaumi; ancharich; charaptoumi; anocha abithrou"
+  },
+  {
+   "ref": "2.150",
+   "text": "acharabaubau barathian ateb douananou; aptyr panor"
+  },
+  {
+   "ref": "2.151",
+   "text": "paurach; soumi phorba; phoriphorbarabau; bōēth; aza; phor; rim"
+  },
+  {
+   "ref": "2.152",
+   "text": "mirphar; zaura; ptauzou chōtharparachthizou; zaith; ōtrau"
+  },
+  {
+   "ref": "3.153",
+   "text": "iaboukatantoumibatharachthibianoch. When you have said this,"
+  },
+  {
+   "ref": "3.154",
+   "text": "you will see a star from the sky dissolving little by little and being"
+  },
+  {
+   "ref": "3.155",
+   "text": "made a god. And you, approaching and taking [him] by the hand,"
+  },
+  {
+   "ref": "3.156",
+   "text": "and k[iss]ing [him], say the same formula: ōptauminaphthaubi"
+  },
+  {
+   "ref": "3.157",
+   "text": "maiouth[...]oumētrobal; rachēptoumi ammōchari"
+  },
+  {
+   "ref": "3.158",
+   "text": "authei; a[...]tamara; chiōbitam; tribōmis; arachthisari"
+  },
+  {
+   "ref": "3.159",
+   "text": "rachi; ia[k]oubi tauraberōmi antabitaubitau. When you have"
+  },
+  {
+   "ref": "3.160",
+   "text": "spoken, he will [a]nswer you, and you say to him: 'What is your divine"
+  },
+  {
+   "ref": "3.161",
+   "text": "na[m]e? Reveal it to me ungrudgingly, so that I may call upon"
+  },
+  {
+   "ref": "3.162",
+   "text": "[it].' [It] has 15 letters: souesolyrphthēmōth."
+  },
+  {
+   "ref": "3.163",
+   "text": "And the following is also to be said: 'Come to me, king, god of gods,"
+  },
+  {
+   "ref": "3.164",
+   "text": "mighty, boundless, undefiled, indescribable, Aion, firmly"
+  },
+  {
+   "ref": "3.165",
+   "text": "established: be immovable from me from this"
+  },
+  {
+   "ref": "3.166",
+   "text": "day on, for the whole time of my life.' Then"
+  },
+  {
+   "ref": "3.167",
+   "text": "question him under the same oaths. If he tells you the name, then"
+  },
+  {
+   "ref": "3.168",
+   "text": "take him by the hand, go down, and have him recline, as"
+  },
+  {
+   "ref": "3.169",
+   "text": "I said before, setting before him some of the foods"
+  },
+  {
+   "ref": "3.170",
+   "text": "and drinks you partake of. And when you release him, after he has"
+  },
+  {
+   "ref": "3.171",
+   "text": "departed, burn as an offering to him the things prescribed and pour wine, and so"
+  },
+  {
+   "ref": "3.172",
+   "text": "you will be a friend of the mighty angel. When you travel he will"
+  },
+  {
+   "ref": "3.173",
+   "text": "travel with you; when you are poor he will give you money; he will tell you what is going"
+  },
+  {
+   "ref": "3.174",
+   "text": "to happen, and when, and at what time of night or day. And if"
+  },
+  {
+   "ref": "3.175",
+   "text": "anyone asks you, 'What do I have in mind?' or 'What has happened to me, or what is going"
+  },
+  {
+   "ref": "3.176",
+   "text": "to happen?', question the angel, and he will tell you in silence; and you"
+  },
+  {
+   "ref": "3.177",
+   "text": "speak to the one asking you as if from yourself. When you die"
+  },
+  {
+   "ref": "3.178",
+   "text": "he will lay out your body, as befits a god, and taking up your spirit"
+  },
+  {
+   "ref": "3.179",
+   "text": "he will lead it into the air with him. For into Hades will not go an aerial"
+  },
+  {
+   "ref": "3.180",
+   "text": "spirit that has been [join]ed to a mighty assistant; for to him all things"
+  },
+  {
+   "ref": "3.181",
+   "text": "are subject. Whenever you want to do something, say into the air the name"
+  },
+  {
+   "ref": "3.182",
+   "text": "only, and '[come] [to me]', [a]nd you will see him standing near you; and say"
+  },
+  {
+   "ref": "3.183",
+   "text": "to him, 'Do this task', and he does it at once, and when he has done it he will say"
+  },
+  {
+   "ref": "3.184",
+   "text": "to you, 'What else do you want? For I am hurrying to heaven.' If you do not have [anything]"
+  },
+  {
+   "ref": "3.185",
+   "text": "to order at once, say to him, 'Go, lord', and he will"
+  },
+  {
+   "ref": "3.186",
+   "text": "depart. In this way the god will be seen by you alone, nor"
+  },
+  {
+   "ref": "3.187",
+   "text": "will anyone ever hear his voice when he speaks, except you"
+  },
+  {
+   "ref": "3.188",
+   "text": "yourself alone. He will tell you about a person lying sick, whether he will live"
+  },
+  {
+   "ref": "3.189",
+   "text": "or [di]e, and on what day and at what hour of the night."
+  },
+  {
+   "ref": "3.190",
+   "text": "He will give [you also] wild herbs and [show] how you will heal, and as"
+  },
+  {
+   "ref": "3.191",
+   "text": "a god you will be worshipped, having the god as a friend. These things will be well accomplished"
+  },
+  {
+   "ref": "3.192",
+   "text": "by the mighty assistant. So hand these things on to no one, except"
+  },
+  {
+   "ref": "3.193",
+   "text": "only to your own son, when he asks for the workings told"
+  },
+  {
+   "ref": "3.194",
+   "text": "by us. Farewell. As for what is said to the sun, nothing"
+  },
+  {
+   "ref": "3.206",
+   "text": "you who hold fast, you who have the mighty name that is hallowed"
+  },
+  {
+   "ref": "3.207",
+   "text": "[b]y all angels: hear me, you who created the"
+  },
+  {
+   "ref": "3.208",
+   "text": "mighty decans and archangels, beside whom stand countless"
+  },
+  {
+   "ref": "3.209",
+   "text": "myriads of angels; they were exalted throughout heaven, and the"
+  },
+  {
+   "ref": "3.210",
+   "text": "lord bore witness to your wisdom and blessed"
+  },
+  {
+   "ref": "3.211",
+   "text": "your power, and said that you are strong in his likeness,"
+  },
+  {
+   "ref": "3.212",
+   "text": "as much as [h]e himself is strong. I call on you, lord of all, in an hour of"
+  },
+  {
+   "ref": "3.213",
+   "text": "need: hear me, for my soul is afflicted and I am at a"
+  },
+  {
+   "ref": "3.214",
+   "text": "loss [...] [...] me, you who are lord of all"
+  },
+  {
+   "ref": "3.215",
+   "text": "angels: shield me against every overmastering"
+  },
+  {
+   "ref": "3.216",
+   "text": "power of an ae[ri]al *daimōn* (spirit) [and of F]ate. Yes, lord, for I invoke"
+  },
+  {
+   "ref": "4.246",
+   "text": "7 feathers of a Hermaic ibis, spring water. Burn these, then"
+  },
+  {
+   "ref": "4.247",
+   "text": "prepare [it] and write. Invisibility, tested. A great work:"
+  },
+  {
+   "ref": "4.248",
+   "text": "take the eye of an ape or of a corpse that died a violent death, and grind"
+  },
+  {
+   "ref": "4.249",
+   "text": "these with lily oil and the herb aglaophotis; and, grind- 'it means the rose' -"
+  },
+  {
+   "ref": "4.250",
+   "text": "ing them from right to left, say the formula"
+  },
+  {
+   "ref": "4.251",
+   "text": "as set out below: anok anoup anok ousirphrē anokō"
+  },
+  {
+   "ref": "4.252",
+   "text": "sōt sōrōnouier anok pe ousire penta sēt tako"
+  },
+  {
+   "ref": "4.253",
+   "text": "Rise up, underworld *daimōn* (spirit), ïōerbēth ïōpharbēth ïō"
+  },
+  {
+   "ref": "4.254",
+   "text": "pakerbēth ïōapomps, [in] whatever I, NN, command you, so that"
+  },
+  {
+   "ref": "4.255",
+   "text": "you may be obedient to me. And if you want to become invisible,"
+  },
+  {
+   "ref": "4.256",
+   "text": "anoint only your forehead with the mixture,"
+  },
+  {
+   "ref": "4.257",
+   "text": "and you will be invisible for as long as you wish. And if you want"
+  },
+  {
+   "ref": "4.258",
+   "text": "to be visible, walking from west to east"
+  },
+  {
+   "ref": "4.259",
+   "text": "say this name, and you will be manifest and visible to all"
+  },
+  {
+   "ref": "4.294",
+   "text": "aberamenthōounerthexanaxethrenlyoō thnemaraibaï;"
+  },
+  {
+   "ref": "4.295",
+   "text": "aeminnaebarōtherrethōbabeanimea. When you have completed all"
+  },
+  {
+   "ref": "4.296",
+   "text": "that has been stated above, call with the incantation: Lord Apollo, come"
+  },
+  {
+   "ref": "4.297",
+   "text": "with Paean; give me oracles about what I ask, lord. Master,"
+  },
+  {
+   "ref": "4.298",
+   "text": "leave Mount Parnassus and Delphic Pytho"
+  },
+  {
+   "ref": "4.299",
+   "text": "while our holy mouths speak things not to be uttered;"
+  },
+  {
+   "ref": "4.300",
+   "text": "first angel of great Zeus, Iaō; and you who hold the heavenly"
+  },
+  {
+   "ref": "4.301",
+   "text": "world, Michael; and you I call, Gabriel, arch-"
+  },
+  {
+   "ref": "4.302",
+   "text": "angel; come here from Olympus, Abrasax, rejoicing in the sunrise;"
+  },
+  {
+   "ref": "4.303",
+   "text": "may you come gracious; you watch from the rising toward the setting, [A]donai;"
+  },
+  {
+   "ref": "5.304",
+   "text": "all nature trembles before you, father of the world, Pakerbēth."
+  },
+  {
+   "ref": "5.305",
+   "text": "I adjure by the head of god, which is Olympus,"
+  },
+  {
+   "ref": "5.306",
+   "text": "I adjure by the seal of god, which is sight,"
+  },
+  {
+   "ref": "5.307",
+   "text": "I adjure by the right hand which you held over the world,"
+  },
+  {
+   "ref": "5.308",
+   "text": "I adjure by the mixing bowl of god, which holds wealth,"
+  },
+  {
+   "ref": "5.309",
+   "text": "I adjure by the eternal god and Aion of all things,"
+  },
+  {
+   "ref": "5.310",
+   "text": "I adjure by self-generated nature, mightiest Adonaios,"
+  },
+  {
+   "ref": "5.311",
+   "text": "I adjure by Eloaios, who sets and rises,"
+  },
+  {
+   "ref": "5.312",
+   "text": "I adjure by these holy and divine names, that"
+  },
+  {
+   "ref": "5.327",
+   "text": "thōthō phiacha. And when he comes in, question him"
+  },
+  {
+   "ref": "5.328",
+   "text": "about whatever you wish: about divination, about epic verse,"
+  },
+  {
+   "ref": "5.329",
+   "text": "about asking for dreams, about dream inquiry, about"
+  },
+  {
+   "ref": "5.330",
+   "text": "dream interpretation, about lying sick, about everything"
+  },
+  {
+   "ref": "5.331",
+   "text": "that belongs to magical skill."
+  },
+  {
+   "ref": "5.332",
+   "text": "And spread a seat and a couch with linen cloths."
+  },
+  {
+   "ref": "5.333",
+   "text": "And you, stand, making an offering with the aforementioned"
+  }
+ ]
+}

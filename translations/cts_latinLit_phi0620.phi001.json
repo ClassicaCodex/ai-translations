@@ -1,0 +1,426 @@
+{
+ "work_urn": "urn:cts:latinLit:phi0620.phi001",
+ "edition_urn": "urn:cts:latinLit:phi0620.phi001.ai-claude",
+ "source_edition": "phi0620.phi001.perseus-lat3",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Elegiae: AI translation (Claude)",
+  "author": "Propertius, Sextus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's phi0620.phi001.perseus-lat3, from the Perseus Digital Library (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "4.1.69": "4.1.109: the text reads ‘it’ (‘goes’), which does not construe with the accusative ships of 110; translated by the evident sense, that Calchas freed the ships held fast at Aulis.",
+  "4.5.3": "4.5.19–20 are corrupt (‘perure’ is not a Latin word) and do not construe; the rendering guesses at the sense, that steady coaxing wears down resistance.",
+  "1.1.17": "‘Cytinaean’ (1.1.24) is an uncertain name; it probably means Colchian, i.e. Medea’s."
+ },
+ "nodes": [
+  {
+   "ref": "1.1.17",
+   "text": "In my case slow Love devises no arts,"
+  },
+  {
+   "ref": "1.1.18",
+   "text": "and does not remember to go by the familiar paths, as before."
+  },
+  {
+   "ref": "1.1.19",
+   "text": "But you, who have the trick of drawing down the moon"
+  },
+  {
+   "ref": "1.1.20",
+   "text": "and the task of performing rites on magic hearths,"
+  },
+  {
+   "ref": "1.1.21",
+   "text": "come now, turn the mind of my mistress,"
+  },
+  {
+   "ref": "1.1.22",
+   "text": "and make her grow paler than my face!"
+  },
+  {
+   "ref": "1.1.23",
+   "text": "Then I would believe that you can lead ghosts and stars"
+  },
+  {
+   "ref": "1.1.24",
+   "text": "with Cytinaean spells."
+  },
+  {
+   "ref": "1.1.25",
+   "text": "Or you, friends, who too late call back one who has fallen,"
+  },
+  {
+   "ref": "1.1.26",
+   "text": "seek aid for a heart that is not sane."
+  },
+  {
+   "ref": "2.4.5",
+   "text": "In vain was perfume poured on my hair,"
+  },
+  {
+   "ref": "2.4.6",
+   "text": "and [in vain] my foot went lingering with measured step."
+  },
+  {
+   "ref": "2.4.7",
+   "text": "Here no herb avails, no Cytaean witch of the night,"
+  },
+  {
+   "ref": "2.4.8",
+   "text": "no grasses cooked by Perimede’s hand;"
+  },
+  {
+   "ref": "2.4.9",
+   "text": "for to what lying seer am I not a source of gain?"
+  },
+  {
+   "ref": "2.4.10",
+   "text": "what old woman does not turn over my dreams ten times?"
+  },
+  {
+   "ref": "2.4.11",
+   "text": "For where we see neither causes nor open blows,"
+  },
+  {
+   "ref": "2.4.12",
+   "text": "the way by which so many ills nevertheless come is hidden;"
+  },
+  {
+   "ref": "2.4.13",
+   "text": "this sick man needs no doctors, no soft beds,"
+  },
+  {
+   "ref": "2.4.14",
+   "text": "no season of the sky or breeze harms him;"
+  },
+  {
+   "ref": "2.4.15",
+   "text": "he walks about — and suddenly his friends marvel at his funeral!"
+  },
+  {
+   "ref": "2.4.16",
+   "text": "So unforeseeable is whatever is called love."
+  },
+  {
+   "ref": "2.28a.33",
+   "text": "Now, as best you can, wounded one, bow to fate:"
+  },
+  {
+   "ref": "2.28a.34",
+   "text": "both god and the hard day itself are turning."
+  },
+  {
+   "ref": "2.28b.1",
+   "text": "The *rhombi* [magic wheels] whirled to the magic chant fail,"
+  },
+  {
+   "ref": "2.28b.2",
+   "text": "and the laurel lies scorched on the dead hearth;"
+  },
+  {
+   "ref": "2.28b.3",
+   "text": "and now the Moon refuses to come down from the sky so often,"
+  },
+  {
+   "ref": "2.28b.4",
+   "text": "and a black bird sings a deadly omen."
+  },
+  {
+   "ref": "2.28b.5",
+   "text": "One boat of fate will carry our loves,"
+  },
+  {
+   "ref": "2.28b.6",
+   "text": "with dusky sail, to the lakes below."
+  },
+  {
+   "ref": "3.6.23",
+   "text": "Does he rejoice that I waste away alone in an empty bed?"
+  },
+  {
+   "ref": "3.6.24",
+   "text": "If he likes, let him trample on my death, Lygdamus."
+  },
+  {
+   "ref": "3.6.25",
+   "text": "Not by her character but by herbs has that wicked woman beaten me:"
+  },
+  {
+   "ref": "3.6.26",
+   "text": "he is drawn along by the threaded wheel of the *rhombus* [magic wheel]."
+  },
+  {
+   "ref": "3.6.27",
+   "text": "Him the monstrous things of the toad swollen with venom"
+  },
+  {
+   "ref": "3.6.28",
+   "text": "and bones gathered from dried-up snakes drag [to her],"
+  },
+  {
+   "ref": "3.6.29",
+   "text": "and screech-owl feathers found among fallen tombs,"
+  },
+  {
+   "ref": "3.6.30",
+   "text": "and a woollen fillet bound round a funeral bed."
+  },
+  {
+   "ref": "3.6.31",
+   "text": "If my dreams do not sing in vain, Lygdamus, I swear it,"
+  },
+  {
+   "ref": "3.6.32",
+   "text": "punishment will lie before my feet, late but full;"
+  },
+  {
+   "ref": "4.1.69",
+   "text": "I shall sing of rites and days and the ancient names of places:"
+  },
+  {
+   "ref": "4.1.70",
+   "text": "towards these turning-posts my horse must sweat."
+  },
+  {
+   "ref": "4.1.71",
+   "text": "Where are you rushing, heedless, to tell fates, wandering Propertius?"
+  },
+  {
+   "ref": "4.1.72",
+   "text": "The threads were not spun from a favourable distaff."
+  },
+  {
+   "ref": "4.1.73",
+   "text": "By singing you summon tears; Apollo is turned away:"
+  },
+  {
+   "ref": "4.1.74",
+   "text": "you demand from an unwilling lyre words you will regret."
+  },
+  {
+   "ref": "4.1.75",
+   "text": "I will bring sure things from sure authorities, or I am a seer"
+  },
+  {
+   "ref": "4.1.76",
+   "text": "who does not know how to move the signs on the bronze sphere."
+  },
+  {
+   "ref": "4.1.77",
+   "text": "Babylonian Orops, offspring of Archytas, begot me,"
+  },
+  {
+   "ref": "4.1.78",
+   "text": "Horos, and my house is descended from my forefather Conon."
+  },
+  {
+   "ref": "4.1.79",
+   "text": "The gods are my witnesses that I have not disgraced my kin,"
+  },
+  {
+   "ref": "4.1.80",
+   "text": "and that in my books nothing comes before good faith."
+  },
+  {
+   "ref": "4.1.81",
+   "text": "Now they have made a profit of the gods, and (by gold is deceived"
+  },
+  {
+   "ref": "4.1.82",
+   "text": "Jupiter) of the repeated signs of the slanting wheel,"
+  },
+  {
+   "ref": "4.1.83",
+   "text": "and the lucky stars of Jupiter and the rapacious ones of Mars,"
+  },
+  {
+   "ref": "4.1.84",
+   "text": "and the star of Saturn, heavy on every head;"
+  },
+  {
+   "ref": "4.1.85",
+   "text": "what the Fishes portend, and the bold sign of the Lion,"
+  },
+  {
+   "ref": "4.1.86",
+   "text": "and Capricorn, bathed in the western water."
+  },
+  {
+   "ref": "4.1.87",
+   "text": "I shall say: “Troy, you will fall, and, Trojan Rome, you will rise again”;"
+  },
+  {
+   "ref": "4.1.88",
+   "text": "and I shall sing of the long graves of sea and land."
+  },
+  {
+   "ref": "4.1.89",
+   "text": "I said, when Arria was sending out her twin sons"
+  },
+  {
+   "ref": "4.1.90",
+   "text": "(she was giving her sons arms, though a god forbade):"
+  },
+  {
+   "ref": "4.1.91",
+   "text": "that they could not bring their spears back to their fathers’ Penates;"
+  },
+  {
+   "ref": "4.1.92",
+   "text": "and indeed two tombs now confirm my credit."
+  },
+  {
+   "ref": "4.1.93",
+   "text": "For Lupercus, while shielding his horse’s wounded face,"
+  },
+  {
+   "ref": "4.1.94",
+   "text": "alas, took poor care of himself when the horse fell;"
+  },
+  {
+   "ref": "4.1.95",
+   "text": "and Gallus, while guarding in camp the standards entrusted to him,"
+  },
+  {
+   "ref": "4.1.96",
+   "text": "fell before the bloody beak of his eagle:"
+  },
+  {
+   "ref": "4.1.97",
+   "text": "fated boys, two deaths for a greedy mother!"
+  },
+  {
+   "ref": "4.1.98",
+   "text": "True, but against my will, that prophecy was borne out."
+  },
+  {
+   "ref": "4.1.99",
+   "text": "I too, when Lucina was drawing out Cinara’s pains,"
+  },
+  {
+   "ref": "4.1.100",
+   "text": "and the slow burden of her womb was causing delay,"
+  },
+  {
+   "ref": "4.1.101",
+   "text": "said: make a vow to Juno that will be granted;"
+  },
+  {
+   "ref": "4.1.102",
+   "text": "she gave birth: the palm was awarded to my books!"
+  },
+  {
+   "ref": "4.1.103",
+   "text": "This neither the sandy cave of Libyan Jove explains,"
+  },
+  {
+   "ref": "4.1.104",
+   "text": "nor the entrail that speaks of the gods entrusted to it,"
+  },
+  {
+   "ref": "4.1.105",
+   "text": "nor anyone who has noted the moving wings of a crow,"
+  },
+  {
+   "ref": "4.1.106",
+   "text": "nor the shade of the dead that rises from magic waters:"
+  },
+  {
+   "ref": "4.1.107",
+   "text": "you must watch the path of the sky, and through the stars the true"
+  },
+  {
+   "ref": "4.1.108",
+   "text": "track, and seek certainty from the five zones."
+  },
+  {
+   "ref": "4.1.109",
+   "text": "Calchas will be a weighty example: for at Aulis he"
+  },
+  {
+   "ref": "4.1.110",
+   "text": "[loosed] the ships that clung so well to the holy rocks;"
+  },
+  {
+   "ref": "4.5.3",
+   "text": "and may your Manes find no rest on your ashes, and may avenging Cerberus"
+  },
+  {
+   "ref": "4.5.4",
+   "text": "terrify your foul bones with hungry howling!"
+  },
+  {
+   "ref": "4.5.5",
+   "text": "She was skilled to soften even Hippolytus as he refused Venus,"
+  },
+  {
+   "ref": "4.5.6",
+   "text": "and was always the worst bird of omen for a harmonious bed;"
+  },
+  {
+   "ref": "4.5.7",
+   "text": "even Penelope, ignoring the report of her husband,"
+  },
+  {
+   "ref": "4.5.8",
+   "text": "she would force to marry lustful Antinous."
+  },
+  {
+   "ref": "4.5.9",
+   "text": "Should she wish it, the magnet will not be able to draw iron,"
+  },
+  {
+   "ref": "4.5.10",
+   "text": "and a bird will be a stepmother to its own nestlings."
+  },
+  {
+   "ref": "4.5.11",
+   "text": "Indeed, if she brought Colline herbs to the trench,"
+  },
+  {
+   "ref": "4.5.12",
+   "text": "solid things would melt away in running water:"
+  },
+  {
+   "ref": "4.5.13",
+   "text": "bold to impose laws on the enchanted moon"
+  },
+  {
+   "ref": "4.5.14",
+   "text": "and to disguise her body as a nocturnal wolf,"
+  },
+  {
+   "ref": "4.5.15",
+   "text": "so that by cunning she might blind watchful husbands,"
+  },
+  {
+   "ref": "4.5.16",
+   "text": "she dug out with her nail the innocent eyes of crows;"
+  },
+  {
+   "ref": "4.5.17",
+   "text": "and she consulted screech owls about my blood, and against me"
+  },
+  {
+   "ref": "4.5.18",
+   "text": "gathered *hippomanes*, the seed of a pregnant mare."
+  },
+  {
+   "ref": "4.5.19",
+   "text": "She would win her task with pleading words, as though coaxing … could burn through,"
+  },
+  {
+   "ref": "4.5.20",
+   "text": "and busy wrongdoing cut a stony road:"
+  }
+ ]
+}

@@ -1,0 +1,979 @@
+{
+ "work_urn": "urn:rem:anonymous:m321",
+ "edition_urn": "urn:rem:anonymous:m321.ai-claude",
+ "source_edition": "urn:rem:anonymous:m321:norm",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Nibelungenlied (Karlsruhe, Landesbibl., Cod. Donaueschingen 63): AI translation (Claude)",
+  "author": "Anonymous",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:rem:anonymous:m321:norm, from the Referenzkorpus Mittelhochdeutsch, ReM 2.1 (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Referenzkorpus Mittelhochdeutsch, ReM 2.1 and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "86.3": "94.4: 'ez streit abin' read as 'won by fighting from them'. 98.4: 'die kameren gewan' read as taking charge of the treasure-chamber. 100.3–4: 'gemeit' (glad, proud) is loosely joined to 'of so hard a skin'; read as the hero's pride in a skin no weapon cuts.",
+  "2425.3": "2425.3: 'verlobet' read as 'forsworn': she had promised not to do what she now does.",
+  "1362.3": "1363.3: 'sine stübe sam iz brünne' read as the dust flying up as if something were burning; the construction is compressed.",
+  "2364.4": "2364.4: 'erbunnen' read as 'robbed us of'; the speaker is not named in these lines."
+ },
+ "nodes": [
+  {
+   "ref": "1",
+   "text": "Adventure of the Nibelungs."
+  },
+  {
+   "ref": "1.1",
+   "text": "To us in old tales many wonders are told"
+  },
+  {
+   "ref": "1.2",
+   "text": "of heroes worthy of praise, of great hardship,"
+  },
+  {
+   "ref": "1.3",
+   "text": "of joys and festivals, of weeping and lamenting;"
+  },
+  {
+   "ref": "1.4",
+   "text": "of bold warriors' fighting you may now hear wonders told."
+  },
+  {
+   "ref": "2.1",
+   "text": "In Burgundy there grew up a very noble maiden,"
+  },
+  {
+   "ref": "2.2",
+   "text": "such that in all lands there could be none more beautiful,"
+  },
+  {
+   "ref": "2.3",
+   "text": "named Kriemhild. She became a beautiful woman;"
+  },
+  {
+   "ref": "2.4",
+   "text": "because of her many warriors had to lose their lives."
+  },
+  {
+   "ref": "3.1",
+   "text": "Three kings had her in their care, noble and mighty,"
+  },
+  {
+   "ref": "3.2",
+   "text": "Gunther and Gernot, warriors worthy of praise,"
+  },
+  {
+   "ref": "3.3",
+   "text": "and young Giselher, a handsome warrior."
+  },
+  {
+   "ref": "3.4",
+   "text": "The lady was their sister; the heroes had her in their care."
+  },
+  {
+   "ref": "4.1",
+   "text": "A mighty queen, Lady Ute, was their mother's name."
+  },
+  {
+   "ref": "4.2",
+   "text": "Their father was called Dankrat, who left them the inheritance"
+  },
+  {
+   "ref": "4.3",
+   "text": "afterwards, at the end of his life, a man rich in courage,"
+  },
+  {
+   "ref": "4.4",
+   "text": "who in his youth too won much great honour."
+  },
+  {
+   "ref": "5.1",
+   "text": "The lords were generous, of high birth by lineage,"
+  },
+  {
+   "ref": "5.2",
+   "text": "immeasurably bold in strength, the chosen warriors."
+  },
+  {
+   "ref": "5.3",
+   "text": "Among the Burgundians: so their land was called."
+  },
+  {
+   "ref": "5.4",
+   "text": "They later did mighty wonders in Etzel's land."
+  },
+  {
+   "ref": "6.1",
+   "text": "At Worms on the Rhine they dwelt in their power."
+  },
+  {
+   "ref": "6.2",
+   "text": "Very proud knights from their lands served them"
+  },
+  {
+   "ref": "6.3",
+   "text": "with praiseworthy honour until the time of their end."
+  },
+  {
+   "ref": "6.4",
+   "text": "They later died wretchedly through the hatred of two women."
+  },
+  {
+   "ref": "7.3",
+   "text": "and also the best warriors that have ever been told of,"
+  },
+  {
+   "ref": "7.4",
+   "text": "strong and very bold, undaunted in fierce battles."
+  },
+  {
+   "ref": "8.1",
+   "text": "That was Hagen of Tronje, and also his brother,"
+  },
+  {
+   "ref": "8.2",
+   "text": "Dankwart the bold; Ortwin of Metz;"
+  },
+  {
+   "ref": "8.3",
+   "text": "the two margraves, Gere and Eckewart;"
+  },
+  {
+   "ref": "11.3",
+   "text": "that the lords kept up with joy all their lives,"
+  },
+  {
+   "ref": "11.4",
+   "text": "of that, in truth, no one could ever tell you the end."
+  },
+  {
+   "ref": "12.1",
+   "text": "Amid this high honour Kriemhild dreamed"
+  },
+  {
+   "ref": "12.2",
+   "text": "that she was raising a falcon, strong, beautiful and wild,"
+  },
+  {
+   "ref": "12.3",
+   "text": "which two eagles tore with their talons. That she had to see it—"
+  },
+  {
+   "ref": "12.4",
+   "text": "nothing more painful could ever have happened to her in this world."
+  },
+  {
+   "ref": "13.1",
+   "text": "She then told the dream to her mother, Ute."
+  },
+  {
+   "ref": "13.2",
+   "text": "She could not interpret it any better for the good girl:"
+  },
+  {
+   "ref": "13.3",
+   "text": "The falcon that you are raising, that is a noble man."
+  },
+  {
+   "ref": "13.4",
+   "text": "Unless God protects him, you must soon have lost him."
+  },
+  {
+   "ref": "14.1",
+   "text": "What are you telling me of a man, my very dear mother?"
+  },
+  {
+   "ref": "14.2",
+   "text": "Without a warrior's love I will always remain."
+  },
+  {
+   "ref": "14.3",
+   "text": "Fair as I am, I will remain so until my death,"
+  },
+  {
+   "ref": "14.4",
+   "text": "so that I shall never come to grief through a warrior's love."
+  },
+  {
+   "ref": "15.1",
+   "text": "Now do not forswear it too firmly, her mother then said."
+  },
+  {
+   "ref": "15.2",
+   "text": "If you are ever to be glad at heart in this world,"
+  },
+  {
+   "ref": "15.3",
+   "text": "that comes from a man's love. You will become a beautiful woman,"
+  },
+  {
+   "ref": "15.4",
+   "text": "if God grants you a truly good knight."
+  },
+  {
+   "ref": "16.1",
+   "text": "Let that talk be, my very dear lady."
+  },
+  {
+   "ref": "16.2",
+   "text": "It has very often been shown in many women"
+  },
+  {
+   "ref": "18.4",
+   "text": "Because of that one man's death many a mother's child died."
+  },
+  {
+   "ref": "19",
+   "text": "Adventure of Siegfried, how he was brought up."
+  },
+  {
+   "ref": "19.1",
+   "text": "There grew up in the Netherlands the child of a noble king,"
+  },
+  {
+   "ref": "19.2",
+   "text": "whose father was called Siegmund, his mother Sieglind,"
+  },
+  {
+   "ref": "19.3",
+   "text": "in a mighty castle, well known far and wide,"
+  },
+  {
+   "ref": "19.4",
+   "text": "down on the Rhine; it was called Xanten."
+  },
+  {
+   "ref": "20.1",
+   "text": "Siegfried was the name of the bold, good warrior."
+  },
+  {
+   "ref": "20.2",
+   "text": "He tried many kingdoms out of a valiant spirit."
+  },
+  {
+   "ref": "20.3",
+   "text": "Because of his bodily strength he sought out foreign lands."
+  },
+  {
+   "ref": "20.4",
+   "text": "Ah, what bold warriors he later found among the Burgundians!"
+  },
+  {
+   "ref": "21.1",
+   "text": "Before the bold warrior had fully grown to manhood,"
+  },
+  {
+   "ref": "21.2",
+   "text": "he had done such wonders with his hand"
+  },
+  {
+   "ref": "43.3",
+   "text": "His valiant hand sought nothing but fighting;"
+  },
+  {
+   "ref": "43.4",
+   "text": "at all times it made him well known in foreign kingdoms."
+  },
+  {
+   "ref": "44",
+   "text": "Adventure: how Siegfried came to Worms."
+  },
+  {
+   "ref": "44.1",
+   "text": "Seldom did any heartache trouble the lord."
+  },
+  {
+   "ref": "44.2",
+   "text": "He heard tidings told of how a beautiful maiden"
+  },
+  {
+   "ref": "51.3",
+   "text": "She feared she would lose him through Gunther's men."
+  },
+  {
+   "ref": "51.4",
+   "text": "Then people began to make the wooing very hateful to the warrior."
+  },
+  {
+   "ref": "52.1",
+   "text": "Then strong Siegfried said: My very dear father,"
+  },
+  {
+   "ref": "52.2",
+   "text": "I would always be without a noble lady's love"
+  },
+  {
+   "ref": "52.3",
+   "text": "unless I wooed where my heart has very great love."
+  },
+  {
+   "ref": "86.3",
+   "text": "I am quite ready to believe, however it may have come about,"
+  },
+  {
+   "ref": "86.4",
+   "text": "that it is the warrior who stands there so splendidly."
+  },
+  {
+   "ref": "87.1",
+   "text": "He is bringing new tidings here into this land."
+  },
+  {
+   "ref": "87.2",
+   "text": "The bold Nibelungs were slain by the hero's hand,"
+  },
+  {
+   "ref": "87.3",
+   "text": "Schilbung and Nibelung, the mighty king's sons."
+  },
+  {
+   "ref": "87.4",
+   "text": "He worked mighty wonders with his great strength thereafter."
+  },
+  {
+   "ref": "88.1",
+   "text": "When the hero rode alone, without any help,"
+  },
+  {
+   "ref": "88.2",
+   "text": "he found before a mountain (this I have been told for certain)"
+  },
+  {
+   "ref": "88.3",
+   "text": "by Nibelung's hoard very many bold men,"
+  },
+  {
+   "ref": "88.4",
+   "text": "who had been strangers to him until he came to know them there."
+  },
+  {
+   "ref": "89.1",
+   "text": "The hoard of Nibelung had all been carried"
+  },
+  {
+   "ref": "89.2",
+   "text": "out of a hollow mountain. Now hear a wonder told:"
+  },
+  {
+   "ref": "89.3",
+   "text": "how the Nibelungs' men meant to divide it."
+  },
+  {
+   "ref": "89.4",
+   "text": "The warrior Siegfried saw this; the hero began to wonder at it."
+  },
+  {
+   "ref": "90.1",
+   "text": "He came so near to them that he saw the warriors,"
+  },
+  {
+   "ref": "90.2",
+   "text": "and the warriors [saw] him too. One of them said:"
+  },
+  {
+   "ref": "90.3",
+   "text": "Here comes the strong Siegfried, the hero from the Netherlands."
+  },
+  {
+   "ref": "90.4",
+   "text": "Very strange things he met with among the Nibelungs."
+  },
+  {
+   "ref": "91.1",
+   "text": "Schilbung and Nibelung received the warrior well."
+  },
+  {
+   "ref": "91.2",
+   "text": "With one accord the noble young princes"
+  },
+  {
+   "ref": "91.3",
+   "text": "asked him, the very bold man, to divide the treasure,"
+  },
+  {
+   "ref": "91.4",
+   "text": "and asked him for so long that he promised them to do it."
+  },
+  {
+   "ref": "92.1",
+   "text": "He saw so many precious stones, as we hear tell,"
+  },
+  {
+   "ref": "92.2",
+   "text": "that a hundred great wagons could not have carried them;"
+  },
+  {
+   "ref": "92.3",
+   "text": "still more of the red gold from the Nibelung land."
+  },
+  {
+   "ref": "92.4",
+   "text": "All this bold Siegfried's hand was to divide for them."
+  },
+  {
+   "ref": "93.1",
+   "text": "Then they gave him Nibelung's sword as payment."
+  },
+  {
+   "ref": "93.2",
+   "text": "They were very ill repaid by the service"
+  },
+  {
+   "ref": "93.3",
+   "text": "that the very bold man was to render them there."
+  },
+  {
+   "ref": "93.4",
+   "text": "He could not bring it to an end; then the hero was attacked by them."
+  },
+  {
+   "ref": "94.1",
+   "text": "He had to leave the treasure undivided."
+  },
+  {
+   "ref": "94.2",
+   "text": "Then the two kings' men began to fight with him."
+  },
+  {
+   "ref": "94.3",
+   "text": "With their father's sword, which was called Balmung,"
+  },
+  {
+   "ref": "94.4",
+   "text": "the bold man won from them by fighting the hoard and the Nibelung land."
+  },
+  {
+   "ref": "95.1",
+   "text": "They had there as their friends twelve bold men,"
+  },
+  {
+   "ref": "95.2",
+   "text": "who were as strong as giants. What could it help them?"
+  },
+  {
+   "ref": "95.3",
+   "text": "Siegfried's hand afterwards slew them in anger,"
+  },
+  {
+   "ref": "95.4",
+   "text": "and seven hundred warriors from the Nibelung land he subdued."
+  },
+  {
+   "ref": "96.1",
+   "text": "Besides this, the mighty kings: he struck them both dead."
+  },
+  {
+   "ref": "96.2",
+   "text": "From Alberich he then came into great danger."
+  },
+  {
+   "ref": "96.3",
+   "text": "He thought to avenge his lords there at once,"
+  },
+  {
+   "ref": "96.4",
+   "text": "until he afterwards found the great strength in Siegfried."
+  },
+  {
+   "ref": "97.1",
+   "text": "Then the strong dwarf could not hold out against him."
+  },
+  {
+   "ref": "97.2",
+   "text": "Like wild lions they ran to the mountain,"
+  },
+  {
+   "ref": "97.3",
+   "text": "where he won the cloak of invisibility from Alberich."
+  },
+  {
+   "ref": "97.4",
+   "text": "Then Siegfried, the very bold man, became lord of the hoard."
+  },
+  {
+   "ref": "98.1",
+   "text": "Those who dared to fight there all lay slain."
+  },
+  {
+   "ref": "98.2",
+   "text": "He then had the treasure quickly taken and carried"
+  },
+  {
+   "ref": "98.3",
+   "text": "to where the men of Nibelung had taken it from before."
+  },
+  {
+   "ref": "98.4",
+   "text": "Alberich the very strong then took charge of the treasure-chamber."
+  },
+  {
+   "ref": "99.1",
+   "text": "He had to swear him oaths that he would serve him as his servant."
+  },
+  {
+   "ref": "99.2",
+   "text": "He was ready to do him every kind of service."
+  },
+  {
+   "ref": "99.3",
+   "text": "So spoke Hagen of Tronje: That is what he has done."
+  },
+  {
+   "ref": "99.4",
+   "text": "No warrior ever gained such great strength."
+  },
+  {
+   "ref": "100.1",
+   "text": "I know still more of him, which is known to me:"
+  },
+  {
+   "ref": "100.2",
+   "text": "the hero's hand slew a dragon."
+  },
+  {
+   "ref": "100.3",
+   "text": "Then he bathed in its blood; so the bold hero has"
+  },
+  {
+   "ref": "100.4",
+   "text": "skin so hard that no weapon has cut him since."
+  },
+  {
+   "ref": "101.1",
+   "text": "Now we should receive the warrior all the better,"
+  },
+  {
+   "ref": "101.2",
+   "text": "so that we do not earn his fierce hatred."
+  },
+  {
+   "ref": "101.3",
+   "text": "He is so bold that one should keep him friendly."
+  },
+  {
+   "ref": "101.4",
+   "text": "With his courage he has done so many wonders."
+  },
+  {
+   "ref": "102.1",
+   "text": "Then the mighty king said: You may well be right."
+  },
+  {
+   "ref": "102.2",
+   "text": "Now see how like a warrior he stands, ready for the peril of battle."
+  },
+  {
+   "ref": "1315.3",
+   "text": "with joy forever after, until their death."
+  },
+  {
+   "ref": "1315.4",
+   "text": "With happiness the king's grief and distress had vanished."
+  },
+  {
+   "ref": "1316",
+   "text": "Adventure: how Kriemhild left Worms when she journeyed to the Huns."
+  },
+  {
+   "ref": "1316.1",
+   "text": "Let us leave the messengers riding, and I will make known to you"
+  },
+  {
+   "ref": "1316.2",
+   "text": "how the queen journeyed through the land,"
+  },
+  {
+   "ref": "1349.3",
+   "text": "to Gotelind's daughter, and such fine clothes"
+  },
+  {
+   "ref": "1349.4",
+   "text": "that she brought nothing better into Etzel's land."
+  },
+  {
+   "ref": "1350.1",
+   "text": "Although the Nibelungs' gold had been taken from her,"
+  },
+  {
+   "ref": "1350.2",
+   "text": "all who saw her she made well-disposed to her"
+  },
+  {
+   "ref": "1350.3",
+   "text": "still, with the little wealth that she could have there."
+  },
+  {
+   "ref": "1362.3",
+   "text": "in whatever way of life each one lived,"
+  },
+  {
+   "ref": "1362.4",
+   "text": "the king's generosity saw to it that all were given plenty."
+  },
+  {
+   "ref": "1363",
+   "text": "Adventure: how Kriemhild and Etzel held their wedding in the city of Vienna."
+  },
+  {
+   "ref": "1363.1",
+   "text": "She stayed at Traismauer until the fourth day."
+  },
+  {
+   "ref": "1363.2",
+   "text": "All that while the dust on the road never settled;"
+  },
+  {
+   "ref": "1363.3",
+   "text": "it flew up everywhere around as if something were burning,"
+  },
+  {
+   "ref": "1363.4",
+   "text": "as King Etzel's men rode through Austria."
+  },
+  {
+   "ref": "1364.1",
+   "text": "By then the news had also been told to the king,"
+  },
+  {
+   "ref": "1364.2",
+   "text": "and at the thought of it his sorrows vanished."
+  },
+  {
+   "ref": "1418.3",
+   "text": "and that at all times she saw twelve kings before her,"
+  },
+  {
+   "ref": "1418.4",
+   "text": "then she thought of many a sorrow that had befallen her at home."
+  },
+  {
+   "ref": "1419.1",
+   "text": "She thought too of many honours in the land of the Nibelungs"
+  },
+  {
+   "ref": "1419.2",
+   "text": "that she had held in her power there, and that Hagen's hand"
+  },
+  {
+   "ref": "1419.3",
+   "text": "had taken from her entirely with Siegfried's death."
+  },
+  {
+   "ref": "2364.4",
+   "text": "You have robbed us in here of very many a gallant warrior."
+  },
+  {
+   "ref": "2365.1",
+   "text": "He struck at Hildebrand, so that one could clearly hear"
+  },
+  {
+   "ref": "2365.2",
+   "text": "Balmung ringing, which was taken from Siegfried"
+  },
+  {
+   "ref": "2365.3",
+   "text": "by bold Hagen, there where he slew the warrior."
+  },
+  {
+   "ref": "2365.4",
+   "text": "Then Hildebrand withstood him, who let him get away with very little."
+  },
+  {
+   "ref": "2366.1",
+   "text": "Wolfhart's uncle swung a broad blade"
+  },
+  {
+   "ref": "2382.3",
+   "text": "This is the last day of my joys."
+  },
+  {
+   "ref": "2382.4",
+   "text": "Alas, that no one can die of grief!"
+  },
+  {
+   "ref": "2383",
+   "text": "Adventure: how lord Dietrich overcame Gunther and Hagen."
+  },
+  {
+   "ref": "2383.1",
+   "text": "Then lord Dietrich himself went to find his armour."
+  },
+  {
+   "ref": "2383.2",
+   "text": "Master Hildebrand then helped him arm himself."
+  },
+  {
+   "ref": "2383.3",
+   "text": "The mighty man lamented so loudly then"
+  },
+  {
+   "ref": "2383.4",
+   "text": "that the building began to resound with his voice."
+  },
+  {
+   "ref": "2384.1",
+   "text": "The hero then regained a true man's spirit."
+  },
+  {
+   "ref": "2384.2",
+   "text": "In fury the good warrior was then armed."
+  },
+  {
+   "ref": "2411.3",
+   "text": "Then the very bold man was overcome by him."
+  },
+  {
+   "ref": "2411.4",
+   "text": "Gunther the very noble began to grieve over it."
+  },
+  {
+   "ref": "2412.1",
+   "text": "Then Dietrich bound Hagen and led him to where he found"
+  },
+  {
+   "ref": "2412.2",
+   "text": "the noble Kriemhild, and gave into her hand"
+  },
+  {
+   "ref": "2412.3",
+   "text": "the boldest warrior who ever bore a sword."
+  },
+  {
+   "ref": "2419.3",
+   "text": "from a sharp sword that lord Dietrich bore."
+  },
+  {
+   "ref": "2419.4",
+   "text": "Yet Gunther, for all his weariness, had defended himself admirably."
+  },
+  {
+   "ref": "2420.1",
+   "text": "The lord was bound by Dietrich's hand,"
+  },
+  {
+   "ref": "2420.2",
+   "text": "though kings should never suffer such bonds."
+  },
+  {
+   "ref": "2420.3",
+   "text": "He thought that if he let them stay unbound,"
+  },
+  {
+   "ref": "2420.4",
+   "text": "the two of them would let no one in the land survive."
+  },
+  {
+   "ref": "2421.1",
+   "text": "The lord of Bern took him by the hand;"
+  },
+  {
+   "ref": "2421.2",
+   "text": "then he brought him, bound, to where he found Kriemhild."
+  },
+  {
+   "ref": "2421.3",
+   "text": "Then her anxiety was partly taken away by his suffering."
+  },
+  {
+   "ref": "2421.4",
+   "text": "She said: King Gunther, you are most welcome to me."
+  },
+  {
+   "ref": "2425.3",
+   "text": "however much the very noble woman had forsworn it,"
+  },
+  {
+   "ref": "2425.4",
+   "text": "she thought: Today I shall avenge my very dear husband."
+  },
+  {
+   "ref": "2426.1",
+   "text": "Then the queen went to where she saw Hagen."
+  },
+  {
+   "ref": "2426.2",
+   "text": "How very angrily she spoke to the warrior:"
+  },
+  {
+   "ref": "2426.3",
+   "text": "If you will give me back what you have taken from me,"
+  },
+  {
+   "ref": "2426.4",
+   "text": "then you may come home alive to the Burgundians."
+  },
+  {
+   "ref": "2427.1",
+   "text": "Then grim Hagen said: That talk is wholly wasted,"
+  },
+  {
+   "ref": "2427.2",
+   "text": "most noble queen. I have indeed sworn"
+  },
+  {
+   "ref": "2427.3",
+   "text": "that I will not show the hoard as long as any"
+  },
+  {
+   "ref": "2427.4",
+   "text": "of my noble lords lives, and will give it to no one."
+  },
+  {
+   "ref": "2428.1",
+   "text": "He knew well how matters stood: they would not let him live."
+  },
+  {
+   "ref": "2428.2",
+   "text": "How could any treachery ever be greater?"
+  },
+  {
+   "ref": "2428.3",
+   "text": "He feared that, once she had taken his life,"
+  },
+  {
+   "ref": "2428.4",
+   "text": "she would then let her brother come home to his land."
+  },
+  {
+   "ref": "2429.1",
+   "text": "I will bring it to an end, thought the noble woman."
+  },
+  {
+   "ref": "2429.2",
+   "text": "Then she ordered her brother's life to be taken."
+  },
+  {
+   "ref": "2429.3",
+   "text": "His head was struck off; she carried it by the hair"
+  },
+  {
+   "ref": "2429.4",
+   "text": "before the hero of Tronje. Then he was sorely grieved."
+  },
+  {
+   "ref": "2430.1",
+   "text": "When the despondent man saw his lord's head,"
+  },
+  {
+   "ref": "2430.2",
+   "text": "the warrior then spoke to Kriemhild:"
+  },
+  {
+   "ref": "2430.3",
+   "text": "You have brought it to an end, as you wished,"
+  },
+  {
+   "ref": "2430.4",
+   "text": "and it has turned out just as I had thought."
+  },
+  {
+   "ref": "2431.1",
+   "text": "Now the noble king of the Burgundians is dead,"
+  },
+  {
+   "ref": "2431.2",
+   "text": "Giselher and Volker, Dankwart and Gernot."
+  },
+  {
+   "ref": "2431.3",
+   "text": "Now no one knows of the hoard but God and I."
+  },
+  {
+   "ref": "2431.4",
+   "text": "From you, she-devil, it shall be hidden forever."
+  },
+  {
+   "ref": "2432.1",
+   "text": "She said: Then you have paid me back badly."
+  },
+  {
+   "ref": "2432.2",
+   "text": "Then I will at least keep Siegfried's sword."
+  },
+  {
+   "ref": "2432.3",
+   "text": "My dear beloved wore it when you took his life"
+  },
+  {
+   "ref": "2432.4",
+   "text": "murderously, with treachery, said the grieving woman."
+  },
+  {
+   "ref": "2433.1",
+   "text": "She drew it from the sheath; he could not prevent it."
+  },
+  {
+   "ref": "2433.2",
+   "text": "Then she meant to rob the warrior of his life entirely."
+  },
+  {
+   "ref": "2433.3",
+   "text": "She raised it in her hands; she struck off his head."
+  },
+  {
+   "ref": "2433.4",
+   "text": "King Etzel saw that; then he was sorely grieved."
+  },
+  {
+   "ref": "2434.1",
+   "text": "Alas, said the prince, how now lies dead"
+  },
+  {
+   "ref": "2434.2",
+   "text": "at a woman's hands the very best warrior"
+  },
+  {
+   "ref": "2434.3",
+   "text": "who ever came to battle or ever bore a shield!"
+  },
+  {
+   "ref": "2434.4",
+   "text": "Enemy to him though I was, it grieves me sorely."
+  },
+  {
+   "ref": "2435.1",
+   "text": "Then Master Hildebrand said: Truly she shall have no profit"
+  },
+  {
+   "ref": "2435.2",
+   "text": "from daring to slay him, whatever may happen to me."
+  },
+  {
+   "ref": "2435.3",
+   "text": "Though he brought me myself into fearful danger,"
+  },
+  {
+   "ref": "2435.4",
+   "text": "yet I will avenge the death of the very bold warrior."
+  },
+  {
+   "ref": "2436.1",
+   "text": "Hildebrand in anger leapt at Kriemhild."
+  },
+  {
+   "ref": "2436.2",
+   "text": "He dealt the queen a fierce sweeping blow."
+  },
+  {
+   "ref": "2436.3",
+   "text": "Indeed her dread of the warrior caused her pain."
+  },
+  {
+   "ref": "2436.4",
+   "text": "It helped her little that she screamed so fearfully."
+  },
+  {
+   "ref": "2437.1",
+   "text": "Then all the doomed lay dead there."
+  },
+  {
+   "ref": "2437.2",
+   "text": "The noble woman then lay hewn to pieces."
+  }
+ ]
+}

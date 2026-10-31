@@ -1,0 +1,3609 @@
+{
+ "work_urn": "urn:cts:latinLit:phi0959.phi007",
+ "edition_urn": "urn:cts:latinLit:phi0959.phi007.ai-claude",
+ "source_edition": "phi0959.phi007.perseus-lat2",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Fasti: AI translation (Claude)",
+  "author": "Ovid",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's phi0959.phi007.perseus-lat2, from the Perseus Digital Library (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "3.283": "3.339–342: the exchange is wordplay (caput 'head', of an onion or a man; anima 'life', of a man or a fish) that English only partly keeps. 3.341: the text runs 'hominis:sumes' together; read as Jupiter's 'A man's' and Numa's reply.",
+  "2.379": "2.400–401: the line break seems displaced; the words 'he would bring help' (ferret opem) belong at the end of 2.400, which is left short. Translated as the lines stand.",
+  "5.427": "5.433: the hand-gesture described is unclear. 5.471: 'aequatis' gives no sense and is probably a corruption of 'aequalis' (equal); translated so.",
+  "4.807": "4.838, 4.848: the edition prints the enclitic 'que' as a separate word ('sint, que Celer', 'sic que'); read as running text.",
+  "2.665": "2.665: 'lectus' is taken as 'read' (his name written on the heaped-up trophy); it can also mean 'chosen'.",
+  "1.465": "Misprints read as corrected: 'Hesperiarnque' (1.498) for Hesperiamque, 'Angustos' (1.531) for Augustos, and the word division 'di que ... salve te' (1.509) for dique ... salvete.",
+  "4.245": "4.263: 'divum que' is read as divumque. The source's quotation marks are irregular here (a stray one at 4.261, none at 4.264 and 4.271); speech is marked by sense.",
+  "2.265": "Stray footnote numerals in 'Cyllene1' (2.276) and 'obit.1' (2.282) are ignored; 'Lati as' (2.270) is read as Latias.",
+  "4.33": "4.45: 'recidiva vocabula Troiae', literally 'revived names of Troy', is compressed; taken as a Trojan name given again.",
+  "6.255": "6.268: 'significant sedem terra focusque suam' is compressed; the point seems to be that earth and hearth each stand fixed in their own place.",
+  "3.665": "3.670: 'Angebat' is evidently a corruption of fingebat, 'shaped'; translated so.",
+  "5.193": "5.194: 'emat' is evidently a corruption of efflat, 'breathes out'; translated so.",
+  "5.133": "The surname is Praestites, which Ovid derives from praestant, 'they keep [safe]'.",
+  "6.295": "The name Vesta is derived here from vi stando, 'standing by force'; the Greek name, Hestia, is not given in the text."
+ },
+ "nodes": [
+  {
+   "ref": "1.87",
+   "text": "Hail, glad day, and always come back better,"
+  },
+  {
+   "ref": "1.88",
+   "text": "worthy to be honoured by a people that rules the world."
+  },
+  {
+   "ref": "1.89",
+   "text": "But what god am I to say you are, two-formed Janus?"
+  },
+  {
+   "ref": "1.90",
+   "text": "For Greece has no divinity equal to you."
+  },
+  {
+   "ref": "1.91",
+   "text": "Tell me too the reason why, alone of the heavenly ones,"
+  },
+  {
+   "ref": "1.92",
+   "text": "you see both what is behind and what is in front."
+  },
+  {
+   "ref": "1.93",
+   "text": "While I was turning these things over in my mind, tablets in hand,"
+  },
+  {
+   "ref": "1.94",
+   "text": "the house seemed brighter than it had been before."
+  },
+  {
+   "ref": "1.95",
+   "text": "Then holy Janus, wondrous in his two-headed image,"
+  },
+  {
+   "ref": "1.96",
+   "text": "suddenly presented his two faces to my eyes."
+  },
+  {
+   "ref": "1.97",
+   "text": "I was terrified, and felt my hair stand stiff with fear,"
+  },
+  {
+   "ref": "1.98",
+   "text": "and my breast was cold with a sudden chill."
+  },
+  {
+   "ref": "1.99",
+   "text": "He, holding a staff in his right hand and a key in his left,"
+  },
+  {
+   "ref": "1.100",
+   "text": "uttered these sounds to me from his front mouth:"
+  },
+  {
+   "ref": "1.101",
+   "text": "‘Put aside your fear and learn, hard-working poet of the days,"
+  },
+  {
+   "ref": "1.102",
+   "text": "what you ask, and take my words into your mind."
+  },
+  {
+   "ref": "1.103",
+   "text": "The ancients called me Chaos (for I am a thing of long ago):"
+  },
+  {
+   "ref": "1.104",
+   "text": "see of how long a time are the deeds I shall sing."
+  },
+  {
+   "ref": "1.105",
+   "text": "This clear air and the three bodies that remain,"
+  },
+  {
+   "ref": "1.106",
+   "text": "fire, water and earth, were a single heap."
+  },
+  {
+   "ref": "1.107",
+   "text": "Once this mass, through the strife of its elements, broke apart"
+  },
+  {
+   "ref": "1.108",
+   "text": "and, dissolved, went off into new homes,"
+  },
+  {
+   "ref": "1.109",
+   "text": "flame sought the heights, the nearer place took the air,"
+  },
+  {
+   "ref": "1.110",
+   "text": "earth and sea settled on the middle ground."
+  },
+  {
+   "ref": "1.111",
+   "text": "Then I, who had been a ball and a shapeless bulk,"
+  },
+  {
+   "ref": "1.112",
+   "text": "went back into a face and limbs worthy of a god."
+  },
+  {
+   "ref": "1.113",
+   "text": "Even now, a small mark of my once confused shape,"
+  },
+  {
+   "ref": "1.114",
+   "text": "my front and my back look the same."
+  },
+  {
+   "ref": "1.115",
+   "text": "Hear what the other reason is for the shape you asked about,"
+  },
+  {
+   "ref": "1.116",
+   "text": "so that you may know it and my duty together."
+  },
+  {
+   "ref": "1.117",
+   "text": "Whatever you see anywhere, sky, sea, clouds, lands,"
+  },
+  {
+   "ref": "1.118",
+   "text": "all are closed and opened by my hand."
+  },
+  {
+   "ref": "1.119",
+   "text": "With me alone lies the guarding of the vast world,"
+  },
+  {
+   "ref": "1.120",
+   "text": "and the whole right of turning the hinge is mine."
+  },
+  {
+   "ref": "1.121",
+   "text": "When I have chosen to send Peace out from her quiet dwelling,"
+  },
+  {
+   "ref": "1.122",
+   "text": "she walks freely along unbroken roads:"
+  },
+  {
+   "ref": "1.123",
+   "text": "the whole world will be mingled with deadly blood"
+  },
+  {
+   "ref": "1.124",
+   "text": "unless rigid bolts keep wars shut in."
+  },
+  {
+   "ref": "1.125",
+   "text": "I preside over the gates of heaven with the gentle Hours:"
+  },
+  {
+   "ref": "1.126",
+   "text": "Jupiter himself goes out and returns by my office."
+  },
+  {
+   "ref": "1.127",
+   "text": "Hence I am called Janus; and when the priest sets before me"
+  },
+  {
+   "ref": "1.128",
+   "text": "the cake of Ceres and spelt mixed with salt,"
+  },
+  {
+   "ref": "1.129",
+   "text": "you will laugh at the names: for now Patulcius, and the same god"
+  },
+  {
+   "ref": "1.130",
+   "text": "now Clusius, I am called by the sacrificing mouth."
+  },
+  {
+   "ref": "1.131",
+   "text": "No doubt that rude antiquity wanted, by an alternating"
+  },
+  {
+   "ref": "1.132",
+   "text": "name, to signify my different functions."
+  },
+  {
+   "ref": "1.133",
+   "text": "My power has been told. Now learn the reason for my shape:"
+  },
+  {
+   "ref": "1.134",
+   "text": "yet you yourself already see it in some part."
+  },
+  {
+   "ref": "1.135",
+   "text": "Every door has two fronts, one this side and one that,"
+  },
+  {
+   "ref": "1.136",
+   "text": "of which this one faces the people, and that one the household god;"
+  },
+  {
+   "ref": "1.137",
+   "text": "and just as your doorkeeper, sitting near the threshold of the house front,"
+  },
+  {
+   "ref": "1.138",
+   "text": "sees the goings-out and the comings-in,"
+  },
+  {
+   "ref": "1.139",
+   "text": "so I, doorkeeper of the heavenly court, look out on"
+  },
+  {
+   "ref": "1.140",
+   "text": "the eastern and the western regions at once."
+  },
+  {
+   "ref": "1.141",
+   "text": "You see the faces of Hecate turning in three directions,"
+  },
+  {
+   "ref": "1.142",
+   "text": "so that she may guard the crossroads split into three ways;"
+  },
+  {
+   "ref": "1.143",
+   "text": "and I, so as not to lose time by turning my neck,"
+  },
+  {
+   "ref": "1.144",
+   "text": "may see two ways without moving my body.’"
+  },
+  {
+   "ref": "1.145",
+   "text": "He had spoken, and with his look had made it plain that, if I wished to ask more,"
+  },
+  {
+   "ref": "1.146",
+   "text": "he would not be difficult with me."
+  },
+  {
+   "ref": "1.231",
+   "text": "‘You could recognise me under the double image,’ he said,"
+  },
+  {
+   "ref": "1.232",
+   "text": "‘if long time itself had not worn the work thin."
+  },
+  {
+   "ref": "1.233",
+   "text": "The reason for the ship remains: by ship to the Tuscan river came"
+  },
+  {
+   "ref": "1.234",
+   "text": "the sickle-bearing god, after wandering over the world."
+  },
+  {
+   "ref": "1.235",
+   "text": "I remember Saturn being received in this land:"
+  },
+  {
+   "ref": "1.236",
+   "text": "he had been driven from the heavenly kingdoms by Jupiter."
+  },
+  {
+   "ref": "1.237",
+   "text": "From then on the name Saturnia long remained to the people;"
+  },
+  {
+   "ref": "1.238",
+   "text": "the land too was called Latium, from the god's lying hidden [there]."
+  },
+  {
+   "ref": "1.239",
+   "text": "But a good posterity shaped a ship on the bronze,"
+  },
+  {
+   "ref": "1.240",
+   "text": "bearing witness to the arrival of the guest god."
+  },
+  {
+   "ref": "1.241",
+   "text": "I myself lived on the ground whose left side"
+  },
+  {
+   "ref": "1.242",
+   "text": "the gentlest wave of the sandy Tiber grazes."
+  },
+  {
+   "ref": "1.243",
+   "text": "Here, where Rome now is, an uncut forest grew green,"
+  },
+  {
+   "ref": "1.244",
+   "text": "and so great a place was pasture for a few cattle."
+  },
+  {
+   "ref": "1.245",
+   "text": "My citadel was the hill which the common people by our name"
+  },
+  {
+   "ref": "1.246",
+   "text": "call, and which this age calls the Janiculum."
+  },
+  {
+   "ref": "1.247",
+   "text": "I reigned then, when the earth could bear gods,"
+  },
+  {
+   "ref": "1.248",
+   "text": "and divinities mingled in human places."
+  },
+  {
+   "ref": "1.258",
+   "text": "here, where you have a temple joined to the two forums?”"
+  },
+  {
+   "ref": "1.259",
+   "text": "He, stroking with his hand the beard that hung down to his chest,"
+  },
+  {
+   "ref": "1.260",
+   "text": "at once told of the war of Oebalian Tatius,"
+  },
+  {
+   "ref": "1.261",
+   "text": "and how the fickle guard, won over by bracelets, led the Sabines"
+  },
+  {
+   "ref": "1.262",
+   "text": "in silence along the path to the top of the citadel."
+  },
+  {
+   "ref": "1.263",
+   "text": "“From there,” he said, “as it is now, the slope by which you go down"
+  },
+  {
+   "ref": "1.264",
+   "text": "was steep into the valleys and forums."
+  },
+  {
+   "ref": "1.265",
+   "text": "And already they had reached the gate from which Saturnia,"
+  },
+  {
+   "ref": "1.266",
+   "text": "in her spite, had removed the bars set against them,"
+  },
+  {
+   "ref": "1.267",
+   "text": "when, afraid to join battle with so great a deity,"
+  },
+  {
+   "ref": "1.268",
+   "text": "I cunningly set in motion the work of my own craft,"
+  },
+  {
+   "ref": "1.269",
+   "text": "and by the power in which I am strong I opened the mouths of springs"
+  },
+  {
+   "ref": "1.270",
+   "text": "and shot forth sudden waters;"
+  },
+  {
+   "ref": "1.271",
+   "text": "but first I put sulphur beneath the wet channels,"
+  },
+  {
+   "ref": "1.272",
+   "text": "so that the boiling water would close the way to Tatius."
+  },
+  {
+   "ref": "1.273",
+   "text": "When its usefulness had been felt and the Sabines driven back,"
+  },
+  {
+   "ref": "1.274",
+   "text": "the place, made safe, was given back the form it had had."
+  },
+  {
+   "ref": "1.275",
+   "text": "An altar was set up to me, joined to a small shrine:"
+  },
+  {
+   "ref": "1.276",
+   "text": "it burns spelt with sacrificial cakes in its flames.”"
+  },
+  {
+   "ref": "1.465",
+   "text": "Where shall I look for the causes and the custom of these rites?"
+  },
+  {
+   "ref": "1.466",
+   "text": "Who will steer my sails in the middle of the sea?"
+  },
+  {
+   "ref": "1.467",
+   "text": "Advise me yourself, you whose name is drawn from song,"
+  },
+  {
+   "ref": "1.468",
+   "text": "and favour my undertaking, so that your honour does not go astray."
+  },
+  {
+   "ref": "1.469",
+   "text": "Born before the moon (if it is believed about itself),"
+  },
+  {
+   "ref": "1.470",
+   "text": "the land takes its name from great Arcas."
+  },
+  {
+   "ref": "1.471",
+   "text": "Here lived Evander, who, though distinguished through both his parents,"
+  },
+  {
+   "ref": "1.472",
+   "text": "was nobler by the blood of his holy mother;"
+  },
+  {
+   "ref": "1.473",
+   "text": "she, as soon as she had taken the heavenly fire into her mind,"
+  },
+  {
+   "ref": "1.474",
+   "text": "would utter true songs from a mouth full of the god."
+  },
+  {
+   "ref": "1.475",
+   "text": "She had told her son that upheavals threatened him and herself,"
+  },
+  {
+   "ref": "1.476",
+   "text": "and much else besides, which time has proved true."
+  },
+  {
+   "ref": "1.477",
+   "text": "For the young man, driven out with his all-too-truthful mother,"
+  },
+  {
+   "ref": "1.478",
+   "text": "leaves Arcadia and his Parrhasian home;"
+  },
+  {
+   "ref": "1.479",
+   "text": "as he wept, his mother said to him: “This fortune, like a man"
+  },
+  {
+   "ref": "1.480",
+   "text": "(stop your tears, I beg you), you must bear."
+  },
+  {
+   "ref": "1.481",
+   "text": "So it was fated; it was not your own fault that drove you out,"
+  },
+  {
+   "ref": "1.482",
+   "text": "but a god: an offended god has driven you from your city."
+  },
+  {
+   "ref": "1.483",
+   "text": "You suffer not the penalty of guilt but the anger of a deity:"
+  },
+  {
+   "ref": "1.484",
+   "text": "it is something, in great misfortunes, to be free of crime."
+  },
+  {
+   "ref": "1.485",
+   "text": "As each person's mind is conscious of its own deeds, so it conceives within"
+  },
+  {
+   "ref": "1.486",
+   "text": "the breast hope or fear in keeping with what it has done."
+  },
+  {
+   "ref": "1.487",
+   "text": "Yet do not grieve as though you were the first to suffer such ills:"
+  },
+  {
+   "ref": "1.488",
+   "text": "that storm has overwhelmed mighty men."
+  },
+  {
+   "ref": "1.489",
+   "text": "He who was once driven from the Tyrian shores suffered the same:"
+  },
+  {
+   "ref": "1.490",
+   "text": "Cadmus, who stopped as an exile on Aonian soil;"
+  },
+  {
+   "ref": "1.491",
+   "text": "Tydeus suffered the same, and the same Pagasaean Jason,"
+  },
+  {
+   "ref": "1.492",
+   "text": "and others whom it would take too long to tell."
+  },
+  {
+   "ref": "1.493",
+   "text": "To the brave every land is a homeland, as the sea is to fish,"
+  },
+  {
+   "ref": "1.494",
+   "text": "as to a bird whatever lies open in the empty world."
+  },
+  {
+   "ref": "1.495",
+   "text": "Nor does the fierce storm rage all the year round:"
+  },
+  {
+   "ref": "1.496",
+   "text": "for you too (believe me) a time of spring will come.”"
+  },
+  {
+   "ref": "1.497",
+   "text": "Evander, his mind strengthened by his mother's words,"
+  },
+  {
+   "ref": "1.498",
+   "text": "cuts the waves in his ship and reaches Hesperia;"
+  },
+  {
+   "ref": "1.499",
+   "text": "and now, at the urging of wise Carmentis, he had steered his craft into the river"
+  },
+  {
+   "ref": "1.500",
+   "text": "and was going upstream against the Tuscan waters:"
+  },
+  {
+   "ref": "1.501",
+   "text": "she looks at the river's bank, where the shallows of Tarentum lie,"
+  },
+  {
+   "ref": "1.502",
+   "text": "and at the huts scattered through the lonely places;"
+  },
+  {
+   "ref": "1.503",
+   "text": "and just as she was, with her hair streaming, she stood before the stern"
+  },
+  {
+   "ref": "1.504",
+   "text": "and fiercely held back the hand of the one steering the course,"
+  },
+  {
+   "ref": "1.505",
+   "text": "and stretching her arms far out towards the right bank"
+  },
+  {
+   "ref": "1.506",
+   "text": "she struck the pine deck three times with frenzied foot;"
+  },
+  {
+   "ref": "1.507",
+   "text": "and, so that she would not leap ashore in her haste to stand on land,"
+  },
+  {
+   "ref": "1.508",
+   "text": "she was barely, barely held back by Evander's hand."
+  },
+  {
+   "ref": "1.509",
+   "text": "“Hail, gods of the places we have sought,” she said,"
+  },
+  {
+   "ref": "1.510",
+   "text": "“and you, land that will give new gods to heaven,"
+  },
+  {
+   "ref": "1.511",
+   "text": "and rivers and springs that this hospitable land enjoys,"
+  },
+  {
+   "ref": "1.512",
+   "text": "and nymphs of the groves and bands of Naiads!"
+  },
+  {
+   "ref": "1.513",
+   "text": "May you appear with good omens to my son and me,"
+  },
+  {
+   "ref": "1.514",
+   "text": "and may this bank be touched by a lucky foot!"
+  },
+  {
+   "ref": "1.515",
+   "text": "Am I mistaken, or will these hills become mighty walls,"
+  },
+  {
+   "ref": "1.516",
+   "text": "and will the rest of the earth seek its laws from this land?"
+  },
+  {
+   "ref": "1.517",
+   "text": "To these hills one day the whole world is promised:"
+  },
+  {
+   "ref": "1.518",
+   "text": "who would believe the place holds so great a destiny?"
+  },
+  {
+   "ref": "1.519",
+   "text": "Soon Dardanian pines will touch these shores:"
+  },
+  {
+   "ref": "1.520",
+   "text": "here too a woman will be the cause of a new war."
+  },
+  {
+   "ref": "1.521",
+   "text": "Dear grandson, Pallas, why do you put on deadly armour?"
+  },
+  {
+   "ref": "1.522",
+   "text": "Put it on! You will not be slain with a lowly avenger."
+  },
+  {
+   "ref": "1.523",
+   "text": "Conquered, Troy, you will yet conquer, and overthrown, you will rise again:"
+  },
+  {
+   "ref": "1.524",
+   "text": "that ruin of yours will bury the houses of your enemies."
+  },
+  {
+   "ref": "1.525",
+   "text": "Burn Neptune's Pergamum, victorious flames!"
+  },
+  {
+   "ref": "1.526",
+   "text": "Is this ash not, even so, higher than the whole world?"
+  },
+  {
+   "ref": "1.527",
+   "text": "Soon dutiful Aeneas the sacred objects and, a second sacred charge, his father"
+  },
+  {
+   "ref": "1.528",
+   "text": "will bring here: receive, Vesta, the gods of Ilium!"
+  },
+  {
+   "ref": "1.529",
+   "text": "A time will come when the same one will guard both you and the world,"
+  },
+  {
+   "ref": "1.530",
+   "text": "and the rites will be performed with a god himself tending them,"
+  },
+  {
+   "ref": "1.531",
+   "text": "and the guardianship of the fatherland will remain with the Augusti:"
+  },
+  {
+   "ref": "1.532",
+   "text": "it is right that this house should hold the reins of empire."
+  },
+  {
+   "ref": "1.533",
+   "text": "From it the grandson and son of a god, though he himself refuses,"
+  },
+  {
+   "ref": "1.534",
+   "text": "will bear his father's burdens with a heavenly mind;"
+  },
+  {
+   "ref": "1.535",
+   "text": "and as I shall one day be consecrated on everlasting altars,"
+  },
+  {
+   "ref": "1.536",
+   "text": "so Julia Augusta will be a new divinity.”"
+  },
+  {
+   "ref": "1.537",
+   "text": "When with such words she had come down to our own years,"
+  },
+  {
+   "ref": "1.538",
+   "text": "her prophetic tongue stopped in mid-speech."
+  },
+  {
+   "ref": "1.541",
+   "text": "There was no long delay: the new dwellings stood, and no one"
+  },
+  {
+   "ref": "1.542",
+   "text": "on the Ausonian hills was greater than the Arcadian."
+  },
+  {
+   "ref": "1.543",
+   "text": "Look, the hero brings the cattle of Erytheia there,"
+  },
+  {
+   "ref": "1.544",
+   "text": "the club-bearer, having travelled the long road across the world;"
+  },
+  {
+   "ref": "1.545",
+   "text": "and while the house of Tegea gives him lodging, the cattle wander"
+  },
+  {
+   "ref": "1.546",
+   "text": "unguarded through the broad fields."
+  },
+  {
+   "ref": "1.547",
+   "text": "It was morning: shaken from sleep, the Tirynthian herdsman"
+  },
+  {
+   "ref": "1.548",
+   "text": "notices that two bulls are missing from the count."
+  },
+  {
+   "ref": "1.549",
+   "text": "Searching, he sees no tracks of the silent theft:"
+  },
+  {
+   "ref": "1.550",
+   "text": "fierce Cacus had dragged them backwards into his cave,"
+  },
+  {
+   "ref": "1.551",
+   "text": "Cacus, the terror and the disgrace of the Aventine wood,"
+  },
+  {
+   "ref": "1.552",
+   "text": "no small evil to neighbours and strangers."
+  },
+  {
+   "ref": "1.553",
+   "text": "The man had a dreadful face, strength to match his body, and his body"
+  },
+  {
+   "ref": "1.554",
+   "text": "was huge: the father of this monster was Mulciber;"
+  },
+  {
+   "ref": "1.555",
+   "text": "and for a house [he had] a huge cave with long recesses,"
+  },
+  {
+   "ref": "1.556",
+   "text": "hidden away, hardly to be found even by the wild beasts themselves;"
+  },
+  {
+   "ref": "1.557",
+   "text": "over the doorposts hang heads and nailed-up arms,"
+  },
+  {
+   "ref": "1.558",
+   "text": "and the filthy ground is white with human bones."
+  },
+  {
+   "ref": "1.559",
+   "text": "The son of Jupiter was leaving, with part of his cattle ill kept:"
+  },
+  {
+   "ref": "1.560",
+   "text": "the stolen ones gave out a lowing with a hoarse sound."
+  },
+  {
+   "ref": "1.561",
+   "text": "‘I accept the call back,’ he says, and, following the voice,"
+  },
+  {
+   "ref": "1.562",
+   "text": "he came as avenger through the woods to the impious cave."
+  },
+  {
+   "ref": "1.563",
+   "text": "Cacus had blocked the entrance with a barrier of broken-off mountain;"
+  },
+  {
+   "ref": "1.564",
+   "text": "twice five yoke [of oxen] could scarcely have moved that mass."
+  },
+  {
+   "ref": "1.565",
+   "text": "Here he strains with his shoulders (the sky too had rested on them)"
+  },
+  {
+   "ref": "1.566",
+   "text": "and by his heaving loosens the huge weight."
+  },
+  {
+   "ref": "1.567",
+   "text": "As soon as it was overturned, the crash terrified the upper air itself,"
+  },
+  {
+   "ref": "1.568",
+   "text": "and the ground, struck by the weight of the mass, sank down."
+  },
+  {
+   "ref": "1.569",
+   "text": "Cacus first begins the fight hand to hand"
+  },
+  {
+   "ref": "1.570",
+   "text": "and fiercely wages it with rocks and logs."
+  },
+  {
+   "ref": "1.571",
+   "text": "When these achieve nothing, he flees, his courage failing, to his father's arts"
+  },
+  {
+   "ref": "1.572",
+   "text": "and vomits flames from his roaring mouth;"
+  },
+  {
+   "ref": "1.573",
+   "text": "whenever he breathes them out, you would think Typhoeus was breathing"
+  },
+  {
+   "ref": "1.574",
+   "text": "and a swift lightning bolt was hurled from Etna's fire."
+  },
+  {
+   "ref": "1.575",
+   "text": "Alcides strikes first, and the three-knotted club, swung back,"
+  },
+  {
+   "ref": "1.576",
+   "text": "lands three, four times full in the man's face."
+  },
+  {
+   "ref": "1.577",
+   "text": "He falls, and vomits smoke mixed with blood,"
+  },
+  {
+   "ref": "1.578",
+   "text": "and, dying, beats the ground with his broad chest."
+  },
+  {
+   "ref": "1.579",
+   "text": "One bull from among them he sacrifices to you, Jupiter,"
+  },
+  {
+   "ref": "1.580",
+   "text": "as victor, and calls Evander and the country folk,"
+  },
+  {
+   "ref": "1.581",
+   "text": "and sets up for himself the altar that is called the Greatest,"
+  },
+  {
+   "ref": "1.582",
+   "text": "here, where a part of the city takes its name from the ox."
+  },
+  {
+   "ref": "1.583",
+   "text": "Nor is Evander's mother silent that the time is near"
+  },
+  {
+   "ref": "1.584",
+   "text": "when the earth will have had enough use of its Hercules."
+  },
+  {
+   "ref": "2.265",
+   "text": "He spoke, and as lasting memorials of the ancient deed"
+  },
+  {
+   "ref": "2.266",
+   "text": "the Snake, the Bird and the Bowl shine as neighbouring stars."
+  },
+  {
+   "ref": "2.267",
+   "text": "The third dawn after the Ides sees the naked Luperci,"
+  },
+  {
+   "ref": "2.268",
+   "text": "and the rites of two-horned Faunus go forward."
+  },
+  {
+   "ref": "2.269",
+   "text": "Tell, Pierian Muses, what the origin of the rites is,"
+  },
+  {
+   "ref": "2.270",
+   "text": "and from where they were brought when they reached Latin homes."
+  },
+  {
+   "ref": "2.271",
+   "text": "Pan, the god of the flock, is said to have been worshipped of old by the"
+  },
+  {
+   "ref": "2.272",
+   "text": "Arcadians: he abounds on the Arcadian ridges."
+  },
+  {
+   "ref": "2.273",
+   "text": "Pholoe will be witness, witness the waters of Stymphalus,"
+  },
+  {
+   "ref": "2.274",
+   "text": "and the Ladon, which runs to the sea with swift waters,"
+  },
+  {
+   "ref": "2.275",
+   "text": "and the ridges of the Nonacrian grove, ringed with pinewoods,"
+  },
+  {
+   "ref": "2.276",
+   "text": "and high Cyllene, and the Parrhasian snows."
+  },
+  {
+   "ref": "2.277",
+   "text": "Pan was the god of the herd there, Pan the deity of the mares;"
+  },
+  {
+   "ref": "2.278",
+   "text": "he received gifts for keeping the sheep safe."
+  },
+  {
+   "ref": "2.279",
+   "text": "Evander brought the woodland deities over with him;"
+  },
+  {
+   "ref": "2.280",
+   "text": "here, where the city is now, there was then the site of a city."
+  },
+  {
+   "ref": "2.281",
+   "text": "So we worship the god, and the rites brought by the Pelasgians"
+  },
+  {
+   "ref": "2.282",
+   "text": "the *flamen Dialis* [priest of Jupiter] still performs in the ancient manner."
+  },
+  {
+   "ref": "2.283",
+   "text": "Why then do they run, and why (for such is the custom of running)"
+  },
+  {
+   "ref": "2.284",
+   "text": "do they bare their bodies, setting aside their clothes, you ask?"
+  },
+  {
+   "ref": "2.285",
+   "text": "The swift god himself loves to run about on the high"
+  },
+  {
+   "ref": "2.286",
+   "text": "mountains, and himself breaks into sudden flight;"
+  },
+  {
+   "ref": "2.287",
+   "text": "the god himself is naked and bids his ministers go naked,"
+  },
+  {
+   "ref": "2.288",
+   "text": "and clothing was not convenient enough for running."
+  },
+  {
+   "ref": "2.289",
+   "text": "Before Jupiter was born, they say, the land was held by the"
+  },
+  {
+   "ref": "2.290",
+   "text": "Arcadians, and that people was older than the moon."
+  },
+  {
+   "ref": "2.291",
+   "text": "Their life was like that of beasts, spent in no useful pursuits:"
+  },
+  {
+   "ref": "2.292",
+   "text": "the common folk were still rough and without skill."
+  },
+  {
+   "ref": "2.379",
+   "text": "The story of the deed remains: they run with their clothing laid aside,"
+  },
+  {
+   "ref": "2.380",
+   "text": "and, since it turned out well, it keeps a remembering fame."
+  },
+  {
+   "ref": "2.381",
+   "text": "Perhaps you may also ask why that place is [called] the Lupercal,"
+  },
+  {
+   "ref": "2.382",
+   "text": "or what reason marks the day with such a name."
+  },
+  {
+   "ref": "2.383",
+   "text": "Silvia the Vestal had borne heavenly offspring"
+  },
+  {
+   "ref": "2.384",
+   "text": "while her uncle held the kingdom."
+  },
+  {
+   "ref": "2.385",
+   "text": "He orders the little ones to be taken away and killed in the river:"
+  },
+  {
+   "ref": "2.386",
+   "text": "What are you doing? One of these will be Romulus."
+  },
+  {
+   "ref": "2.387",
+   "text": "Protesting, the servants carry out the tearful orders;"
+  },
+  {
+   "ref": "2.388",
+   "text": "yet they weep, and carry the twins to the place ordered."
+  },
+  {
+   "ref": "2.389",
+   "text": "The Albula, which Tiberinus, drowned in its waters, turned into the Tiber,"
+  },
+  {
+   "ref": "2.390",
+   "text": "happened to be swollen with winter waters:"
+  },
+  {
+   "ref": "2.391",
+   "text": "here, where the forums now are, you could have seen boats wandering,"
+  },
+  {
+   "ref": "2.392",
+   "text": "and where your valleys lie, Circus Maximus."
+  },
+  {
+   "ref": "2.393",
+   "text": "When they came here (for they could not go on"
+  },
+  {
+   "ref": "2.394",
+   "text": "any further), one and then another of them says:"
+  },
+  {
+   "ref": "2.395",
+   "text": "‘But how alike they are! And how beautiful each one is!"
+  },
+  {
+   "ref": "2.396",
+   "text": "Yet of the two, this one has more vigour."
+  },
+  {
+   "ref": "2.397",
+   "text": "If lineage is shown by the face, unless appearance deceives,"
+  },
+  {
+   "ref": "2.398",
+   "text": "I suspect that some god or other is in you—"
+  },
+  {
+   "ref": "2.399",
+   "text": "but if any god were the author of your origin,"
+  },
+  {
+   "ref": "2.400",
+   "text": "in so desperate a moment"
+  },
+  {
+   "ref": "2.401",
+   "text": "he would bring help; your mother would surely bring help, if she were not herself in need of help,"
+  },
+  {
+   "ref": "2.402",
+   "text": "she who was made a mother and bereaved on one day."
+  },
+  {
+   "ref": "2.403",
+   "text": "Born together, about to die together, together go beneath the waves,"
+  },
+  {
+   "ref": "2.404",
+   "text": "bodies!’ He had finished, and set them down from his bosom."
+  },
+  {
+   "ref": "2.405",
+   "text": "Both wailed together: you would think they had understood."
+  },
+  {
+   "ref": "2.406",
+   "text": "The men go back to their homes with wet cheeks."
+  },
+  {
+   "ref": "2.407",
+   "text": "The hollow trough holds them up, set in it, on the surface of the water:"
+  },
+  {
+   "ref": "2.408",
+   "text": "ah, how much destiny a little plank carried!"
+  },
+  {
+   "ref": "2.409",
+   "text": "The trough, driven into the mud by the shady woods,"
+  },
+  {
+   "ref": "2.410",
+   "text": "settles little by little as the river falls."
+  },
+  {
+   "ref": "2.411",
+   "text": "There was a tree: traces remain; and what is now called"
+  },
+  {
+   "ref": "2.412",
+   "text": "the Rumina fig was the Romula fig."
+  },
+  {
+   "ref": "2.413",
+   "text": "To the abandoned twins came (a marvel!) a she-wolf that had just whelped:"
+  },
+  {
+   "ref": "2.414",
+   "text": "who would believe that the wild beast did not harm the boys?"
+  },
+  {
+   "ref": "2.415",
+   "text": "Not harming is too little: she even helps them. Those a she-wolf nurses"
+  },
+  {
+   "ref": "2.416",
+   "text": "kindred hands brought themselves to destroy."
+  },
+  {
+   "ref": "2.417",
+   "text": "She stood still and fawns with her tail on her tender nurslings"
+  },
+  {
+   "ref": "2.418",
+   "text": "and shapes their two bodies with her tongue."
+  },
+  {
+   "ref": "2.419",
+   "text": "You would know they were sons of Mars: fear was absent; they draw at the udders"
+  },
+  {
+   "ref": "2.420",
+   "text": "and are nourished by the help of milk not promised to them."
+  },
+  {
+   "ref": "2.421",
+   "text": "She gave the place its name, and the place gave it to the Luperci."
+  },
+  {
+   "ref": "2.422",
+   "text": "The nurse has a great reward for the milk she gave."
+  },
+  {
+   "ref": "2.423",
+   "text": "What forbids [us to think] the Luperci were named from the Arcadian mountain?"
+  },
+  {
+   "ref": "2.424",
+   "text": "Faunus Lycaeus has temples in Arcadia."
+  },
+  {
+   "ref": "2.425",
+   "text": "Bride, what are you waiting for? Not by potent herbs"
+  },
+  {
+   "ref": "2.426",
+   "text": "nor by prayer nor magic spell will you become a mother;"
+  },
+  {
+   "ref": "2.427",
+   "text": "accept with patience the blows of the fertilising right hand;"
+  },
+  {
+   "ref": "2.428",
+   "text": "soon your father-in-law will have the longed-for name of grandfather."
+  },
+  {
+   "ref": "2.429",
+   "text": "For there was a day when, by a harsh lot, wives"
+  },
+  {
+   "ref": "2.430",
+   "text": "were rendering few pledges of their wombs."
+  },
+  {
+   "ref": "2.473",
+   "text": "Hence they think it wrong to put this kind [of creature] on their tables,"
+  },
+  {
+   "ref": "2.474",
+   "text": "and the timid Syrians do not defile their mouths with fish."
+  },
+  {
+   "ref": "2.475",
+   "text": "The next day is free, but the third is assigned to Quirinus;"
+  },
+  {
+   "ref": "2.476",
+   "text": "he who holds this name was formerly Romulus,"
+  },
+  {
+   "ref": "2.477",
+   "text": "either because the ancient Sabines called a spear *curis*"
+  },
+  {
+   "ref": "2.478",
+   "text": "(the warlike god came to the stars named from his weapon),"
+  },
+  {
+   "ref": "2.479",
+   "text": "or because the Quirites gave their own name to their king,"
+  },
+  {
+   "ref": "2.480",
+   "text": "or because he had joined Cures to the Romans."
+  },
+  {
+   "ref": "2.481",
+   "text": "For the father mighty in arms, after he had seen the new walls"
+  },
+  {
+   "ref": "2.482",
+   "text": "and many wars brought to an end by Romulus' hand,"
+  },
+  {
+   "ref": "2.483",
+   "text": "said: “Jupiter, Roman power has strength:"
+  },
+  {
+   "ref": "2.484",
+   "text": "it does not need the service of my blood."
+  },
+  {
+   "ref": "2.485",
+   "text": "Give back the son to his father; although the other has perished,"
+  },
+  {
+   "ref": "2.486",
+   "text": "the one who remains to me will count for himself and for Remus."
+  },
+  {
+   "ref": "2.487",
+   "text": "‘There will be one whom you shall raise to the blue of heaven’:"
+  },
+  {
+   "ref": "2.488",
+   "text": "you said this to me; let Jupiter's words be made good.”"
+  },
+  {
+   "ref": "2.489",
+   "text": "Jupiter nodded. At his nod both"
+  },
+  {
+   "ref": "2.490",
+   "text": "poles shook, and Atlas shifted the weight of the sky."
+  },
+  {
+   "ref": "2.491",
+   "text": "There is a place the ancients called the Goat's Marsh:"
+  },
+  {
+   "ref": "2.492",
+   "text": "there by chance, Romulus, you were giving judgments to your people;"
+  },
+  {
+   "ref": "2.493",
+   "text": "the sun fled, and rising clouds blotted out the sky,"
+  },
+  {
+   "ref": "2.494",
+   "text": "and a heavy rainstorm fell in streaming waters."
+  },
+  {
+   "ref": "2.495",
+   "text": "Here it thunders, there the sky is split by hurled fires:"
+  },
+  {
+   "ref": "2.496",
+   "text": "people flee; the king was making for the stars with his father's horses."
+  },
+  {
+   "ref": "2.497",
+   "text": "There was mourning, and the senators were falsely accused of murder,"
+  },
+  {
+   "ref": "2.498",
+   "text": "and that belief might perhaps have stuck in people's minds;"
+  },
+  {
+   "ref": "2.499",
+   "text": "but Proculus Julius was coming from Alba Longa,"
+  },
+  {
+   "ref": "2.500",
+   "text": "and the moon was shining, and there was no need of a torch,"
+  },
+  {
+   "ref": "2.501",
+   "text": "when suddenly the hedges on his left shook and moved:"
+  },
+  {
+   "ref": "2.502",
+   "text": "he stepped back, and his hair stood on end."
+  },
+  {
+   "ref": "2.503",
+   "text": "Handsome, larger than human, and splendid in a robe of state,"
+  },
+  {
+   "ref": "2.504",
+   "text": "Romulus seemed to stand in the middle of the road"
+  },
+  {
+   "ref": "2.505",
+   "text": "and at the same time to say: “Forbid the Quirites to mourn,"
+  },
+  {
+   "ref": "2.506",
+   "text": "and let them not profane my divinity with their tears;"
+  },
+  {
+   "ref": "2.507",
+   "text": "let the dutiful crowd bring incense and appease the new Quirinus,"
+  },
+  {
+   "ref": "2.508",
+   "text": "and let them cultivate their fathers' arts and warfare.” He gave the command,"
+  },
+  {
+   "ref": "2.509",
+   "text": "and vanished from his eyes into thin air;"
+  },
+  {
+   "ref": "2.510",
+   "text": "he calls the people together and reports the words as commanded."
+  },
+  {
+   "ref": "2.511",
+   "text": "Temples are built for the god, the hill too is named after him,"
+  },
+  {
+   "ref": "2.512",
+   "text": "and fixed days bring round the ancestral rites."
+  },
+  {
+   "ref": "2.513",
+   "text": "Why the same day is also called the Feast of Fools,"
+  },
+  {
+   "ref": "2.514",
+   "text": "hear: the reason is small, but a fitting one lies behind it."
+  },
+  {
+   "ref": "2.569",
+   "text": "They named this day Feralia, because they bring the dues [to the dead];"
+  },
+  {
+   "ref": "2.570",
+   "text": "that day is the last for appeasing the shades."
+  },
+  {
+   "ref": "2.571",
+   "text": "Look, an aged old woman, sitting among the girls,"
+  },
+  {
+   "ref": "2.572",
+   "text": "performs rites to Tacita (and yet she herself is not silent),"
+  },
+  {
+   "ref": "2.573",
+   "text": "and with three fingers places three [lumps of] incense under the threshold,"
+  },
+  {
+   "ref": "2.574",
+   "text": "where the little mouse has made itself a hidden path;"
+  },
+  {
+   "ref": "2.575",
+   "text": "then she binds enchanted threads with dark lead"
+  },
+  {
+   "ref": "2.576",
+   "text": "and turns seven black beans over in her mouth,"
+  },
+  {
+   "ref": "2.577",
+   "text": "and what she has sealed with pitch and pierced with a bronze needle,"
+  },
+  {
+   "ref": "2.578",
+   "text": "the sewn-up head of a sprat, she roasts in the fire;"
+  },
+  {
+   "ref": "2.579",
+   "text": "she drips in wine as well: whatever wine is left over"
+  },
+  {
+   "ref": "2.580",
+   "text": "either she or her companions drink, but she drinks more."
+  },
+  {
+   "ref": "2.581",
+   "text": "‘We have bound hostile tongues and unfriendly mouths,’"
+  },
+  {
+   "ref": "2.582",
+   "text": "she says as she leaves, and the old woman goes out drunk."
+  },
+  {
+   "ref": "2.583",
+   "text": "At once you will ask me who the goddess Muta is:"
+  },
+  {
+   "ref": "2.584",
+   "text": "learn what I know from old men of long ago."
+  },
+  {
+   "ref": "2.585",
+   "text": "Jupiter, overcome by immoderate love for Juturna,"
+  },
+  {
+   "ref": "2.603",
+   "text": "As soon as she reached the pools of her sister Juturna,"
+  },
+  {
+   "ref": "2.604",
+   "text": "“Flee the banks,” she said, and repeated Jupiter's words."
+  },
+  {
+   "ref": "2.605",
+   "text": "She also went to Juno, and, pitying wives,"
+  },
+  {
+   "ref": "2.606",
+   "text": "said: “Your husband loves the Naiad Juturna.”"
+  },
+  {
+   "ref": "2.607",
+   "text": "Jupiter swelled with anger, and the tongue she had used without restraint"
+  },
+  {
+   "ref": "2.608",
+   "text": "he tears out of her, and calls Mercury:"
+  },
+  {
+   "ref": "2.613",
+   "text": "He prepares to use force; she pleads with her face instead of words,"
+  },
+  {
+   "ref": "2.614",
+   "text": "and strives in vain to speak with her mute mouth."
+  },
+  {
+   "ref": "2.615",
+   "text": "She becomes pregnant and bears twins, who guard the crossroads"
+  },
+  {
+   "ref": "2.616",
+   "text": "and keep watch in our city always: the Lares."
+  },
+  {
+   "ref": "2.617",
+   "text": "Dear kinsfolk named the next day the Caristia,"
+  },
+  {
+   "ref": "2.618",
+   "text": "and the crowd of relatives comes to the family gods."
+  },
+  {
+   "ref": "2.665",
+   "text": "nor would Othryades have been read on the heaped-up arms;"
+  },
+  {
+   "ref": "2.666",
+   "text": "oh, how much blood he gave for his country!"
+  },
+  {
+   "ref": "2.667",
+   "text": "What of when the new Capitol was being built? Of course, of the gods,"
+  },
+  {
+   "ref": "2.668",
+   "text": "the whole crowd yielded to Jupiter and gave up their place:"
+  },
+  {
+   "ref": "2.669",
+   "text": "Terminus, as the ancients relate, was found in the shrine,"
+  },
+  {
+   "ref": "2.670",
+   "text": "stayed where he was, and shares the temple with great Jupiter."
+  },
+  {
+   "ref": "2.671",
+   "text": "Even now, so that he may see nothing above him but the stars,"
+  },
+  {
+   "ref": "2.672",
+   "text": "the temple roof has a small opening."
+  },
+  {
+   "ref": "3.9",
+   "text": "You were unarmed then too, when the Roman priestess"
+  },
+  {
+   "ref": "3.10",
+   "text": "captivated you, so that you might give great seed to this city."
+  },
+  {
+   "ref": "3.11",
+   "text": "Silvia the Vestal (for what forbids me to begin from there?)"
+  },
+  {
+   "ref": "3.12",
+   "text": "was going in the morning to fetch water to wash the sacred things;"
+  },
+  {
+   "ref": "3.13",
+   "text": "she had come to the bank that slopes down by a gentle path:"
+  },
+  {
+   "ref": "3.14",
+   "text": "the earthenware urn is set down from the top of her head."
+  },
+  {
+   "ref": "3.15",
+   "text": "Tired, she sat down on the ground and let the breezes play on her open"
+  },
+  {
+   "ref": "3.16",
+   "text": "breast, and put her ruffled hair back in order."
+  },
+  {
+   "ref": "3.17",
+   "text": "While she sits, the shady willows and the singing birds"
+  },
+  {
+   "ref": "3.18",
+   "text": "brought on sleep, and the light murmur of the water."
+  },
+  {
+   "ref": "3.19",
+   "text": "Sweet rest stole secretly over her overcome eyes,"
+  },
+  {
+   "ref": "3.20",
+   "text": "and her hand, gone limp, falls from her chin."
+  },
+  {
+   "ref": "3.21",
+   "text": "Mars sees her, desires her when seen, and takes her when desired,"
+  },
+  {
+   "ref": "3.22",
+   "text": "and by his divine power his stolen love went unnoticed."
+  },
+  {
+   "ref": "3.23",
+   "text": "Sleep leaves her; she lies heavy: already, of course, within"
+  },
+  {
+   "ref": "3.24",
+   "text": "her womb was the founder of the Roman city."
+  },
+  {
+   "ref": "3.25",
+   "text": "Languid she rises, and does not know why she rises languid,"
+  },
+  {
+   "ref": "3.26",
+   "text": "and leaning against a tree she utters these words:"
+  },
+  {
+   "ref": "3.27",
+   "text": "“May it be helpful and lucky, I pray, what in the semblance of sleep"
+  },
+  {
+   "ref": "3.28",
+   "text": "I saw; or was it clearer than a dream?"
+  },
+  {
+   "ref": "3.29",
+   "text": "I was at the fires of Ilium, when, slipping from my hair,"
+  },
+  {
+   "ref": "3.30",
+   "text": "the woollen headband fell down before the sacred hearth;"
+  },
+  {
+   "ref": "3.31",
+   "text": "from it two palms together, wonderful to see,"
+  },
+  {
+   "ref": "3.32",
+   "text": "sprang up: of them, one was the greater,"
+  },
+  {
+   "ref": "3.33",
+   "text": "and with its heavy branches had covered the whole world"
+  },
+  {
+   "ref": "3.34",
+   "text": "and had touched the stars with its topmost foliage."
+  },
+  {
+   "ref": "3.35",
+   "text": "Then see, my uncle wields an axe against them:"
+  },
+  {
+   "ref": "3.36",
+   "text": "I am terrified at the warning, and my heart throbs with fear."
+  },
+  {
+   "ref": "3.37",
+   "text": "The woodpecker, bird of Mars, fights for the twin trunks,"
+  },
+  {
+   "ref": "3.38",
+   "text": "and the she-wolf: through them both palms were safe.”"
+  },
+  {
+   "ref": "3.39",
+   "text": "She spoke, and the full urn, with strength not steady,"
+  },
+  {
+   "ref": "3.40",
+   "text": "she lifted; she had filled it while telling her vision."
+  },
+  {
+   "ref": "3.41",
+   "text": "Meanwhile, as Remus grew, as Quirinus grew,"
+  },
+  {
+   "ref": "3.42",
+   "text": "her belly was swelling with its heavenly burden."
+  },
+  {
+   "ref": "3.43",
+   "text": "Short of the year's ending, with its courses run,"
+  },
+  {
+   "ref": "3.44",
+   "text": "two signs now remained for the shining god:"
+  },
+  {
+   "ref": "3.45",
+   "text": "Silvia becomes a mother. Vesta's images are said"
+  },
+  {
+   "ref": "3.46",
+   "text": "to have put their virgin hands before their eyes;"
+  },
+  {
+   "ref": "3.47",
+   "text": "the goddess's altar certainly trembled as her servant gave birth,"
+  },
+  {
+   "ref": "3.48",
+   "text": "and the frightened flame sank beneath its ashes."
+  },
+  {
+   "ref": "3.49",
+   "text": "When Amulius, scorner of justice, learned this"
+  },
+  {
+   "ref": "3.50",
+   "text": "(for, as victor, he held the power seized from his brother),"
+  },
+  {
+   "ref": "3.65",
+   "text": "When they heard of their lineage, the revelation of their father raises their spirits,"
+  },
+  {
+   "ref": "3.66",
+   "text": "and they are ashamed to have a name among a few huts."
+  },
+  {
+   "ref": "3.67",
+   "text": "And Amulius falls, run through by Romulus' sword,"
+  },
+  {
+   "ref": "3.68",
+   "text": "and the kingdom is restored to their aged grandfather."
+  },
+  {
+   "ref": "3.69",
+   "text": "Walls are founded, which, though they were small,"
+  },
+  {
+   "ref": "3.70",
+   "text": "it still did not profit Remus to have leapt over."
+  },
+  {
+   "ref": "3.259",
+   "text": "Who will tell me now why the Salii carry the heavenly"
+  },
+  {
+   "ref": "3.260",
+   "text": "arms of Mars and sing of Mamurius?"
+  },
+  {
+   "ref": "3.261",
+   "text": "Nymph, tell me, you who serve Diana's grove and lake;"
+  },
+  {
+   "ref": "3.262",
+   "text": "nymph, wife of Numa, come to your own deeds."
+  },
+  {
+   "ref": "3.263",
+   "text": "In the valley of Aricia, ringed by a dark wood,"
+  },
+  {
+   "ref": "3.264",
+   "text": "there is a lake, sacred with ancient religion."
+  },
+  {
+   "ref": "3.265",
+   "text": "Here Hippolytus lies hidden, torn apart by his horses' reins,"
+  },
+  {
+   "ref": "3.266",
+   "text": "and so no horses enter that grove."
+  },
+  {
+   "ref": "3.267",
+   "text": "Threads hang down, veiling the long hedges,"
+  },
+  {
+   "ref": "3.268",
+   "text": "and many a tablet has been set up to the deserving goddess."
+  },
+  {
+   "ref": "3.273",
+   "text": "A stony brook flows down with a fitful murmur:"
+  },
+  {
+   "ref": "3.274",
+   "text": "I have often drunk from it, but in small draughts."
+  },
+  {
+   "ref": "3.275",
+   "text": "It is Egeria who supplies the water, a goddess dear to the Camenae;"
+  },
+  {
+   "ref": "3.276",
+   "text": "she was Numa's wife and counsellor."
+  },
+  {
+   "ref": "3.277",
+   "text": "At first it was decided that the Quirites, too quick to go to war,"
+  },
+  {
+   "ref": "3.278",
+   "text": "should be softened by law and the fear of the gods;"
+  },
+  {
+   "ref": "3.283",
+   "text": "and a man who was savage a moment ago is changed at the sight of an altar"
+  },
+  {
+   "ref": "3.284",
+   "text": "and offers wine and salted spelt on the warm hearths."
+  },
+  {
+   "ref": "3.285",
+   "text": "Look, the father of the gods scatters red flames through the clouds"
+  },
+  {
+   "ref": "3.286",
+   "text": "and drains the sky by pouring out its waters;"
+  },
+  {
+   "ref": "3.287",
+   "text": "never at any other time did the hurled fires fall more thickly:"
+  },
+  {
+   "ref": "3.288",
+   "text": "the king is afraid, and terror grips the hearts of the common people."
+  },
+  {
+   "ref": "3.289",
+   "text": "To him the goddess [said]: ‘Do not be too afraid! The thunderbolt"
+  },
+  {
+   "ref": "3.290",
+   "text": "can be expiated,’ she says, ‘and the anger of savage Jupiter is turned aside."
+  },
+  {
+   "ref": "3.291",
+   "text": "But the rite of expiation Picus and Faunus will be able"
+  },
+  {
+   "ref": "3.292",
+   "text": "to hand on, both of them divinities of Roman soil."
+  },
+  {
+   "ref": "3.293",
+   "text": "Nor will they hand it on without force: put chains on them once they are caught.’"
+  },
+  {
+   "ref": "3.294",
+   "text": "And so she revealed by what art they could be caught."
+  },
+  {
+   "ref": "3.295",
+   "text": "Beneath the Aventine lay a grove, dark with the shade of holm-oak,"
+  },
+  {
+   "ref": "3.296",
+   "text": "at the sight of which you could say: ‘There is a divinity here.’"
+  },
+  {
+   "ref": "3.297",
+   "text": "In the middle [was] grass, and, covered with green moss,"
+  },
+  {
+   "ref": "3.298",
+   "text": "a never-failing stream of water trickled from a rock:"
+  },
+  {
+   "ref": "3.299",
+   "text": "from it, as a rule, Faunus and Picus alone used to drink."
+  },
+  {
+   "ref": "3.300",
+   "text": "Here King Numa comes and sacrifices a sheep to the spring,"
+  },
+  {
+   "ref": "3.301",
+   "text": "and sets out cups full of fragrant wine,"
+  },
+  {
+   "ref": "3.302",
+   "text": "and, hidden in a cave with his men, he himself lies concealed."
+  },
+  {
+   "ref": "3.303",
+   "text": "The woodland divinities come to their accustomed springs"
+  },
+  {
+   "ref": "3.304",
+   "text": "and refresh their dry breasts with plenty of unmixed wine."
+  },
+  {
+   "ref": "3.305",
+   "text": "Sleep follows the wine; Numa comes out of the cold cave"
+  },
+  {
+   "ref": "3.306",
+   "text": "and puts the sleepers' hands into tight bonds."
+  },
+  {
+   "ref": "3.307",
+   "text": "When sleep had gone, they try by struggling to break"
+  },
+  {
+   "ref": "3.308",
+   "text": "the bonds: the more they struggle, the tighter the bonds hold."
+  },
+  {
+   "ref": "3.309",
+   "text": "Then Numa: ‘Gods of the groves, forgive what I have done,"
+  },
+  {
+   "ref": "3.310",
+   "text": "if you know that wickedness is far from my nature;"
+  },
+  {
+   "ref": "3.311",
+   "text": "and show [me] in what way the thunderbolt can be expiated.’"
+  },
+  {
+   "ref": "3.312",
+   "text": "So Numa; so Faunus speaks, shaking his horns:"
+  },
+  {
+   "ref": "3.313",
+   "text": "‘You ask for great things, and things not lawful for you to learn"
+  },
+  {
+   "ref": "3.314",
+   "text": "through our telling: our divine powers have their limits."
+  },
+  {
+   "ref": "3.315",
+   "text": "We are gods of the countryside, who hold sway on the high"
+  },
+  {
+   "ref": "3.316",
+   "text": "mountains: Jupiter has the say over his own weapons."
+  },
+  {
+   "ref": "3.317",
+   "text": "Him you will not be able to draw down from the sky by yourself,"
+  },
+  {
+   "ref": "3.318",
+   "text": "but perhaps you will be able to, if you use our help.’"
+  },
+  {
+   "ref": "3.319",
+   "text": "Faunus had said this; Picus' view is the same:"
+  },
+  {
+   "ref": "3.320",
+   "text": "‘But take the chains off us,’ Picus says:"
+  },
+  {
+   "ref": "3.321",
+   "text": "‘Jupiter will come here, drawn down by a powerful art."
+  },
+  {
+   "ref": "3.322",
+   "text": "Murky Styx will be my witness to the promise.’"
+  },
+  {
+   "ref": "3.323",
+   "text": "What they do once freed from the nooses, what spells they speak,"
+  },
+  {
+   "ref": "3.324",
+   "text": "and by what art they draw Jupiter from his seat on high,"
+  },
+  {
+   "ref": "3.325",
+   "text": "it is forbidden for a human to know: what is allowed will be sung,"
+  },
+  {
+   "ref": "3.326",
+   "text": "and what may be spoken by the mouth of a pious poet."
+  },
+  {
+   "ref": "3.327",
+   "text": "They draw you out of the sky, Jupiter, and so later generations"
+  },
+  {
+   "ref": "3.328",
+   "text": "even now celebrate you and call you Elicius."
+  },
+  {
+   "ref": "3.329",
+   "text": "It is agreed that the tops of the Aventine wood trembled,"
+  },
+  {
+   "ref": "3.330",
+   "text": "and the earth sank down, pressed by Jupiter's weight."
+  },
+  {
+   "ref": "3.331",
+   "text": "The king's heart leaps, and from his whole body the blood"
+  },
+  {
+   "ref": "3.332",
+   "text": "fled, and his bristling hair stood stiff."
+  },
+  {
+   "ref": "3.333",
+   "text": "When his spirit returned, he said: ‘Give sure means of expiation"
+  },
+  {
+   "ref": "3.334",
+   "text": "for the thunderbolt, king and father of the high gods,"
+  },
+  {
+   "ref": "3.335",
+   "text": "if we have touched your offerings with pure hands,"
+  },
+  {
+   "ref": "3.336",
+   "text": "and if a pious tongue asks for this too, which is sought.’"
+  },
+  {
+   "ref": "3.337",
+   "text": "He nodded to the man's prayer, but the truth, in a far-fetched riddle,"
+  },
+  {
+   "ref": "3.338",
+   "text": "he hid, and alarmed the man with ambiguous words."
+  },
+  {
+   "ref": "3.339",
+   "text": "‘Cut a head,’ he said. To him the king said: ‘We will obey:"
+  },
+  {
+   "ref": "3.340",
+   "text": "an onion dug up from my garden must be cut.’"
+  },
+  {
+   "ref": "3.341",
+   "text": "He added: ‘A man's.’ ‘You will get the hairs,’ the other says."
+  },
+  {
+   "ref": "3.342",
+   "text": "He demands a life; to which Numa says: ‘A fish's.’"
+  },
+  {
+   "ref": "3.343",
+   "text": "He laughed and said: ‘With these see that you expiate my weapons,"
+  },
+  {
+   "ref": "3.344",
+   "text": "O man not to be kept from converse with the gods."
+  },
+  {
+   "ref": "3.345",
+   "text": "But to you, when tomorrow's [sun] has brought forth his whole disc,"
+  },
+  {
+   "ref": "3.346",
+   "text": "the Cynthian [god], I will give sure pledges of empire.’"
+  },
+  {
+   "ref": "3.347",
+   "text": "He spoke, and with huge thunder, above the shaken sky,"
+  },
+  {
+   "ref": "3.348",
+   "text": "he is borne away, and leaves Numa worshipping."
+  },
+  {
+   "ref": "3.349",
+   "text": "Numa returns happy and tells the Quirites what had happened:"
+  },
+  {
+   "ref": "3.350",
+   "text": "belief comes slow and hard to his words."
+  },
+  {
+   "ref": "3.363",
+   "text": "He stood, and with his head veiled in a snow-white cloak"
+  },
+  {
+   "ref": "3.364",
+   "text": "he raised his hands, already well known to the gods,"
+  },
+  {
+   "ref": "3.365",
+   "text": "and said: “The time of the promised gift has come;"
+  },
+  {
+   "ref": "3.366",
+   "text": "Jupiter, add to your words the fulfilment you promised.”"
+  },
+  {
+   "ref": "3.367",
+   "text": "While he speaks, the sun had already raised its whole disc,"
+  },
+  {
+   "ref": "3.368",
+   "text": "and a heavy crash came from the vault of heaven."
+  },
+  {
+   "ref": "3.369",
+   "text": "Three times the god thundered from a cloudless sky, three bolts he hurled."
+  },
+  {
+   "ref": "3.370",
+   "text": "Believe me as I tell it: I speak of marvels, but of things that happened."
+  },
+  {
+   "ref": "3.371",
+   "text": "The sky began to gape open from its middle;"
+  },
+  {
+   "ref": "3.372",
+   "text": "the crowd, together with their leader, lowered their eyes."
+  },
+  {
+   "ref": "3.373",
+   "text": "See! a shield, gently turning in the light breeze,"
+  },
+  {
+   "ref": "3.374",
+   "text": "falls down; a shout rises from the people to the stars."
+  },
+  {
+   "ref": "3.375",
+   "text": "He lifts the gift from the ground, having first slain a heifer"
+  },
+  {
+   "ref": "3.376",
+   "text": "that had never given her neck to be pressed by a yoke,"
+  },
+  {
+   "ref": "3.377",
+   "text": "and he calls it *ancile* [sacred shield], because it is cut away on every side,"
+  },
+  {
+   "ref": "3.378",
+   "text": "and wherever you look with your eyes, there is no corner."
+  },
+  {
+   "ref": "3.379",
+   "text": "Then, mindful that the destiny of the empire rested on it,"
+  },
+  {
+   "ref": "3.380",
+   "text": "he forms a plan of great cunning."
+  },
+  {
+   "ref": "3.381",
+   "text": "He orders several more to be made, engraved in the same shape,"
+  },
+  {
+   "ref": "3.382",
+   "text": "so that confusion might face the eyes of any plotter."
+  },
+  {
+   "ref": "3.383",
+   "text": "Mamurius (whether he was more exact in his morals or in his craft as a smith"
+  },
+  {
+   "ref": "3.384",
+   "text": "is hard for anyone to say) completed the work."
+  },
+  {
+   "ref": "3.385",
+   "text": "To him generous Numa said: “Ask a reward for your work;"
+  },
+  {
+   "ref": "3.386",
+   "text": "if my good faith is known, nothing you ask will be in vain.”"
+  },
+  {
+   "ref": "3.387",
+   "text": "He had already given the Salii their name, taken from leaping,"
+  },
+  {
+   "ref": "3.388",
+   "text": "and arms, and words to be sung to set measures."
+  },
+  {
+   "ref": "3.389",
+   "text": "Then Mamurius said: “Let glory be given me as my payment,"
+  },
+  {
+   "ref": "3.390",
+   "text": "and let my name sound at the end of the song.”"
+  },
+  {
+   "ref": "3.391",
+   "text": "So the priests pay the reward promised for the ancient work"
+  },
+  {
+   "ref": "3.392",
+   "text": "in full, and call on Mamurius."
+  },
+  {
+   "ref": "3.393",
+   "text": "If you wish to marry, however much you are both in a hurry,"
+  },
+  {
+   "ref": "3.394",
+   "text": "put it off: small delays have great advantages."
+  },
+  {
+   "ref": "3.543",
+   "text": "Yet who this goddess is, since rumours stray,"
+  },
+  {
+   "ref": "3.544",
+   "text": "no story should be hidden in my undertaking."
+  },
+  {
+   "ref": "3.545",
+   "text": "Wretched Dido had burned with fire for Aeneas,"
+  },
+  {
+   "ref": "3.546",
+   "text": "had burned on the pyre built for her own death;"
+  },
+  {
+   "ref": "3.547",
+   "text": "and her ashes were laid to rest, and on the marble of the tomb"
+  },
+  {
+   "ref": "3.548",
+   "text": "was this brief verse, which she herself left as she died:"
+  },
+  {
+   "ref": "3.549",
+   "text": "“Aeneas provided both the cause of death and the sword."
+  },
+  {
+   "ref": "3.550",
+   "text": "Dido fell, using her own hand.”"
+  },
+  {
+   "ref": "3.551",
+   "text": "At once the Numidians invade the kingdom, left without a defender,"
+  },
+  {
+   "ref": "3.552",
+   "text": "and Iarbas the Moor takes the captured palace,"
+  },
+  {
+   "ref": "3.557",
+   "text": "A third time the threshing floor had received harvests to be stripped,"
+  },
+  {
+   "ref": "3.558",
+   "text": "and a third time new wine had gone into the hollow vats:"
+  },
+  {
+   "ref": "3.559",
+   "text": "Anna is driven from her home, and weeping leaves her sister's"
+  },
+  {
+   "ref": "3.560",
+   "text": "walls: but first she pays the due rites to her sister."
+  },
+  {
+   "ref": "3.561",
+   "text": "The soft embers drink perfumes mixed with tears,"
+  },
+  {
+   "ref": "3.562",
+   "text": "and receive locks of hair cut as an offering from her head;"
+  },
+  {
+   "ref": "3.651",
+   "text": "They had come to the banks: there were footprints on the banks."
+  },
+  {
+   "ref": "3.652",
+   "text": "The river, which knew, held its waters silent."
+  },
+  {
+   "ref": "3.653",
+   "text": "She herself seemed to speak: “I am a nymph of the calm Numicius:"
+  },
+  {
+   "ref": "3.654",
+   "text": "hidden in the perennial river, I am called Anna Perenna.”"
+  },
+  {
+   "ref": "3.655",
+   "text": "At once, glad, they feast in the fields where they had wandered"
+  },
+  {
+   "ref": "3.656",
+   "text": "and celebrate themselves and the day with plenty of wine."
+  },
+  {
+   "ref": "3.657",
+   "text": "There are some for whom she is the Moon, because she fills out the year with months;"
+  },
+  {
+   "ref": "3.658",
+   "text": "some think her Themis, some the Inachian heifer."
+  },
+  {
+   "ref": "3.659",
+   "text": "You will find some who say you are a nymph, a daughter of Atlas,"
+  },
+  {
+   "ref": "3.660",
+   "text": "and that you, Anna, gave Jupiter his first food."
+  },
+  {
+   "ref": "3.665",
+   "text": "By now the provisions they had brought with them had run out,"
+  },
+  {
+   "ref": "3.666",
+   "text": "and the grain fit for human use."
+  },
+  {
+   "ref": "3.667",
+   "text": "There was a certain Anna, born at Bovillae near the city,"
+  },
+  {
+   "ref": "3.668",
+   "text": "a poor old woman, but very hard-working."
+  },
+  {
+   "ref": "3.669",
+   "text": "She, her grey hair bound with a light headband,"
+  },
+  {
+   "ref": "3.670",
+   "text": "used to shape country cakes with a trembling hand,"
+  },
+  {
+   "ref": "4.33",
+   "text": "His [son] was Erichthonius; Tros was begotten by him;"
+  },
+  {
+   "ref": "4.34",
+   "text": "he fathers Assaracus, and Assaracus Capys."
+  },
+  {
+   "ref": "4.35",
+   "text": "Next was Anchises, with whom the shared name of parent"
+  },
+  {
+   "ref": "4.36",
+   "text": "Venus did not disdain to have."
+  },
+  {
+   "ref": "4.37",
+   "text": "From him sprang Aeneas, whose devotion was proved: through flames"
+  },
+  {
+   "ref": "4.38",
+   "text": "he carried on his shoulders the sacred things and his father, another sacred thing."
+  },
+  {
+   "ref": "4.39",
+   "text": "We come at last to the fortunate name of Iulus,"
+  },
+  {
+   "ref": "4.40",
+   "text": "through whom the Julian house reaches back to Teucrian ancestors."
+  },
+  {
+   "ref": "4.41",
+   "text": "After him Postumus, who, because he was born in the deep woods,"
+  },
+  {
+   "ref": "4.42",
+   "text": "was called Silvius among the Latin people."
+  },
+  {
+   "ref": "4.43",
+   "text": "And he, Latinus, is your father. Alba succeeds Latinus:"
+  },
+  {
+   "ref": "4.44",
+   "text": "next after your titles, Alba, comes Epytus."
+  },
+  {
+   "ref": "4.45",
+   "text": "He gave to Capys a name revived from Troy,"
+  },
+  {
+   "ref": "4.46",
+   "text": "and he also became your grandfather, Calpetus."
+  },
+  {
+   "ref": "4.47",
+   "text": "And when after him Tiberinus held his father's kingdom,"
+  },
+  {
+   "ref": "4.48",
+   "text": "he is said to have drowned in the eddy of the Tuscan water."
+  },
+  {
+   "ref": "4.49",
+   "text": "Yet already his son Agrippa and his grandson Remulus"
+  },
+  {
+   "ref": "4.50",
+   "text": "he had seen: they say thunderbolts were hurled at Remulus."
+  },
+  {
+   "ref": "4.51",
+   "text": "After these came Aventinus, from whom the place is named,"
+  },
+  {
+   "ref": "4.52",
+   "text": "the hill too; after him the kingdom passed to Proca."
+  },
+  {
+   "ref": "4.53",
+   "text": "He is followed by Numitor, brother of harsh Amulius."
+  },
+  {
+   "ref": "4.54",
+   "text": "Ilia and Lausus were born of Numitor."
+  },
+  {
+   "ref": "4.55",
+   "text": "Lausus falls by his uncle's sword; Ilia pleases Mars"
+  },
+  {
+   "ref": "4.56",
+   "text": "and bears you, Quirinus, joined with your twin Remus."
+  },
+  {
+   "ref": "4.57",
+   "text": "He always called Venus and Mars his parents,"
+  },
+  {
+   "ref": "4.58",
+   "text": "and earned the right to have his word believed;"
+  },
+  {
+   "ref": "4.195",
+   "text": "So I [asked]; so Erato [answered] (the month of Cytherea"
+  },
+  {
+   "ref": "4.196",
+   "text": "fell to her, because she has the name of tender love):"
+  },
+  {
+   "ref": "4.197",
+   "text": "“This oracle had been given to Saturn: ‘Best of kings,"
+  },
+  {
+   "ref": "4.198",
+   "text": "you will be driven from your sceptre by your son.’"
+  },
+  {
+   "ref": "4.199",
+   "text": "He, fearing his offspring, as each one was born"
+  },
+  {
+   "ref": "4.200",
+   "text": "devours it, and keeps it sunk in his belly."
+  },
+  {
+   "ref": "4.201",
+   "text": "Often Rhea complained, so many times pregnant and never"
+  },
+  {
+   "ref": "4.202",
+   "text": "a mother, and grieved at her own fertility."
+  },
+  {
+   "ref": "4.203",
+   "text": "Jupiter was born (antiquity counts as a great witness;"
+  },
+  {
+   "ref": "4.204",
+   "text": "do not disturb accepted belief):"
+  },
+  {
+   "ref": "4.205",
+   "text": "a stone hidden in clothing settled in the heavenly throat:"
+  },
+  {
+   "ref": "4.206",
+   "text": "thus by the fates the father was to be deceived."
+  },
+  {
+   "ref": "4.207",
+   "text": "Lofty Ida has long since resounded with clanging,"
+  },
+  {
+   "ref": "4.208",
+   "text": "so that the boy may wail with his infant mouth in safety."
+  },
+  {
+   "ref": "4.209",
+   "text": "Some beat shields with staves, some beat empty helmets:"
+  },
+  {
+   "ref": "4.210",
+   "text": "this is the work of the Curetes, this of the Corybantes."
+  },
+  {
+   "ref": "4.211",
+   "text": "The thing stayed hidden, and imitations of the ancient deed remain:"
+  },
+  {
+   "ref": "4.212",
+   "text": "the goddess's companions shake bronzes and hoarse hides;"
+  },
+  {
+   "ref": "4.213",
+   "text": "they beat cymbals for helmets, drums for shields;"
+  },
+  {
+   "ref": "4.214",
+   "text": "the pipe plays Phrygian measures, as it did before.”"
+  },
+  {
+   "ref": "4.215",
+   "text": "She had finished. I began: “Why does the fierce race of lions"
+  },
+  {
+   "ref": "4.216",
+   "text": "offer their unaccustomed manes to her curved yoke?”"
+  },
+  {
+   "ref": "4.245",
+   "text": "In such words the eloquent voice of the Aonian Muse"
+  },
+  {
+   "ref": "4.246",
+   "text": "had given the cause of the frenzy I asked about."
+  },
+  {
+   "ref": "4.247",
+   "text": "“This too, guide of my work, tell me, I pray: from where was she fetched"
+  },
+  {
+   "ref": "4.248",
+   "text": "when she came, or was she always in our city?”"
+  },
+  {
+   "ref": "4.249",
+   "text": "“Dindymus and Cybele and Ida, lovely with springs,"
+  },
+  {
+   "ref": "4.250",
+   "text": "and the wealth of Ilium the Mother always loved:"
+  },
+  {
+   "ref": "4.251",
+   "text": "when Aeneas was carrying Troy into the fields of Italy,"
+  },
+  {
+   "ref": "4.252",
+   "text": "the goddess almost followed the ships that bore the sacred things,"
+  },
+  {
+   "ref": "4.253",
+   "text": "but that her divinity was not yet called for by fate in Latium"
+  },
+  {
+   "ref": "4.254",
+   "text": "she had sensed, and she had stayed behind in her accustomed places."
+  },
+  {
+   "ref": "4.255",
+   "text": "Later, when Rome, mighty in wealth, had now seen five centuries"
+  },
+  {
+   "ref": "4.256",
+   "text": "and had raised her head over a conquered world,"
+  },
+  {
+   "ref": "4.257",
+   "text": "the fateful words of the Euboean song the priest"
+  },
+  {
+   "ref": "4.258",
+   "text": "inspects; what he found there, they say, was this:"
+  },
+  {
+   "ref": "4.259",
+   "text": "‘The Mother is absent: Roman, I bid you seek the Mother."
+  },
+  {
+   "ref": "4.260",
+   "text": "When she comes, she must be received by a chaste hand.’"
+  },
+  {
+   "ref": "4.261",
+   "text": "The senators are lost in the riddles of the obscure oracle,"
+  },
+  {
+   "ref": "4.262",
+   "text": "as to which parent is absent, or in what place she must be sought."
+  },
+  {
+   "ref": "4.263",
+   "text": "Paean is consulted. ‘Fetch the Mother of the gods,’"
+  },
+  {
+   "ref": "4.264",
+   "text": "he says; ‘she is to be found on the ridge of Ida.’"
+  },
+  {
+   "ref": "4.265",
+   "text": "Leading men are sent. The sceptre of Phrygia was then held"
+  },
+  {
+   "ref": "4.266",
+   "text": "by Attalus: he refuses the request to the Ausonian men."
+  },
+  {
+   "ref": "4.267",
+   "text": "I sing of marvels: the earth trembled with a long rumbling,"
+  },
+  {
+   "ref": "4.268",
+   "text": "and the goddess spoke thus from her inner shrine:"
+  },
+  {
+   "ref": "4.269",
+   "text": "‘I myself wished to be sought; let there be no delay; send me, for I am willing."
+  },
+  {
+   "ref": "4.270",
+   "text": "Rome is a place worthy for every god to go to.’"
+  },
+  {
+   "ref": "4.271",
+   "text": "He, trembling with terror at the voice, said: ‘Set out;"
+  },
+  {
+   "ref": "4.272",
+   "text": "you will still be ours: Rome traces itself back to Phrygian ancestors.’"
+  },
+  {
+   "ref": "4.273",
+   "text": "At once countless axes cut down the pine forests,"
+  },
+  {
+   "ref": "4.274",
+   "text": "those which the dutiful Phrygian had used in his flight:"
+  },
+  {
+   "ref": "4.275",
+   "text": "a thousand hands come together, and, painted with burnt-in colours,"
+  },
+  {
+   "ref": "4.276",
+   "text": "a hollow ship holds the Mother of the gods."
+  },
+  {
+   "ref": "4.277",
+   "text": "She is carried most safely over the waters of her son"
+  },
+  {
+   "ref": "4.278",
+   "text": "and reaches the long strait of Phrixus' sister"
+  },
+  {
+   "ref": "4.420",
+   "text": "Trinacris, which took its name from the lie of the land,"
+  },
+  {
+   "ref": "4.421",
+   "text": "a home dear to Ceres; it possesses many cities,"
+  },
+  {
+   "ref": "4.422",
+   "text": "among which is Henna, fertile with its tilled soil."
+  },
+  {
+   "ref": "4.423",
+   "text": "Cool Arethusa had invited the mothers of the gods:"
+  },
+  {
+   "ref": "4.424",
+   "text": "the golden goddess too had come to the sacred feast."
+  },
+  {
+   "ref": "4.807",
+   "text": "The very place gives the poet his theme: the origin of the city"
+  },
+  {
+   "ref": "4.808",
+   "text": "has come; be present at your own deeds, great Quirinus!"
+  },
+  {
+   "ref": "4.809",
+   "text": "Numitor's brother had already paid the penalty, and the whole"
+  },
+  {
+   "ref": "4.810",
+   "text": "crowd of shepherds was under the twin leaders."
+  },
+  {
+   "ref": "4.811",
+   "text": "To gather the country folk and to set up walls both"
+  },
+  {
+   "ref": "4.812",
+   "text": "agree: it is disputed which of the two should set up the walls."
+  },
+  {
+   "ref": "4.813",
+   "text": "‘There is no need,’ said Romulus, ‘for any contest:"
+  },
+  {
+   "ref": "4.814",
+   "text": "great is the trust in birds; let us try the birds.’"
+  },
+  {
+   "ref": "4.815",
+   "text": "The plan is approved: one goes to the rocks of the wooded Palatine,"
+  },
+  {
+   "ref": "4.816",
+   "text": "the other in the morning climbs the Aventine peak."
+  },
+  {
+   "ref": "4.817",
+   "text": "Remus sees six birds, this one twelve in a row; by the pact"
+  },
+  {
+   "ref": "4.818",
+   "text": "they abide, and Romulus has control of the city."
+  },
+  {
+   "ref": "4.819",
+   "text": "A suitable day is chosen on which to mark out the walls with a plough."
+  },
+  {
+   "ref": "4.820",
+   "text": "The rites of Pales were at hand: from then the work is begun."
+  },
+  {
+   "ref": "4.821",
+   "text": "A trench is dug down to solid ground; grain is thrown into its depths,"
+  },
+  {
+   "ref": "4.822",
+   "text": "and earth fetched from the neighbouring soil."
+  },
+  {
+   "ref": "4.823",
+   "text": "The trench is filled with earth, and an altar is set on it when full,"
+  },
+  {
+   "ref": "4.824",
+   "text": "and a new hearth does its office with a fire lit [on it]."
+  },
+  {
+   "ref": "4.825",
+   "text": "Then, pressing on the plough-handle, he marks out the walls with a furrow;"
+  },
+  {
+   "ref": "4.826",
+   "text": "a white cow with a snow-white ox bore the yoke."
+  },
+  {
+   "ref": "4.827",
+   "text": "These were the king's words: ‘As I found the city, Jupiter,"
+  },
+  {
+   "ref": "4.828",
+   "text": "and father Mavors and mother Vesta, be with me;"
+  },
+  {
+   "ref": "4.829",
+   "text": "and all you gods whom it is pious to call upon, give heed."
+  },
+  {
+   "ref": "4.830",
+   "text": "Under your auspices, let this work of mine rise."
+  },
+  {
+   "ref": "4.831",
+   "text": "May it have long life, and power as mistress of the earth,"
+  },
+  {
+   "ref": "4.832",
+   "text": "and may the rising and the setting day be under it.’"
+  },
+  {
+   "ref": "4.833",
+   "text": "He was praying; Jupiter gave omens with thunder on the left,"
+  },
+  {
+   "ref": "4.834",
+   "text": "and lightning bolts were sent from the left of the sky."
+  },
+  {
+   "ref": "4.835",
+   "text": "Glad at the augury, the citizens lay the foundations,"
+  },
+  {
+   "ref": "4.836",
+   "text": "and in a short time there was a new wall."
+  },
+  {
+   "ref": "4.837",
+   "text": "Celer presses on this work, whom Romulus himself had summoned:"
+  },
+  {
+   "ref": "4.838",
+   "text": "‘Let these things, Celer,’ he had said, ‘be your concern,"
+  },
+  {
+   "ref": "4.839",
+   "text": "and let no one cross either the walls or the trench made by the plough;"
+  },
+  {
+   "ref": "4.840",
+   "text": "anyone who dares such things, put to death.’"
+  },
+  {
+   "ref": "4.841",
+   "text": "Not knowing this, Remus began to scorn the low walls"
+  },
+  {
+   "ref": "4.842",
+   "text": "and to say: ‘Will the people be safe with these?’"
+  },
+  {
+   "ref": "4.843",
+   "text": "Without delay, he leapt over. Celer strikes the bold man with a shovel;"
+  },
+  {
+   "ref": "4.844",
+   "text": "bloodied, he presses the hard ground."
+  },
+  {
+   "ref": "4.845",
+   "text": "When the king learned this, he swallowed the tears that welled up within"
+  },
+  {
+   "ref": "4.846",
+   "text": "and keeps the wound shut in his breast."
+  },
+  {
+   "ref": "4.847",
+   "text": "He will not weep openly, and holds to an example of fortitude,"
+  },
+  {
+   "ref": "4.848",
+   "text": "and says: ‘So may any enemy cross my walls.’"
+  },
+  {
+   "ref": "4.849",
+   "text": "Yet he gives him funeral rites, and can no longer hold back"
+  },
+  {
+   "ref": "4.850",
+   "text": "his weeping, and the love he concealed is laid bare;"
+  },
+  {
+   "ref": "4.851",
+   "text": "and he pressed last kisses on the bier when it was set down,"
+  },
+  {
+   "ref": "4.852",
+   "text": "and says: ‘Brother taken from me against my will, farewell!’"
+  },
+  {
+   "ref": "4.853",
+   "text": "and he anointed the limbs that were to burn. What he did,"
+  },
+  {
+   "ref": "4.854",
+   "text": "Faustulus did too, and Acca, her mourning hair let loose."
+  },
+  {
+   "ref": "4.855",
+   "text": "Then the Quirites, not yet so named, wept for the young man;"
+  },
+  {
+   "ref": "4.856",
+   "text": "last of all, the flame was set beneath the mourned pyre."
+  },
+  {
+   "ref": "4.857",
+   "text": "A city rises (who then could have believed anyone who said this?),"
+  },
+  {
+   "ref": "4.858",
+   "text": "destined to set its victorious foot upon the lands,"
+  },
+  {
+   "ref": "5.133",
+   "text": "Yet the reason for the surname given them had been"
+  },
+  {
+   "ref": "5.134",
+   "text": "that they keep all things safe with their eyes."
+  },
+  {
+   "ref": "5.135",
+   "text": "They also stand guard for us and preside over the city's walls,"
+  },
+  {
+   "ref": "5.136",
+   "text": "and they are present and bring help."
+  },
+  {
+   "ref": "5.137",
+   "text": "But before their feet a dog, made of the same stone,"
+  },
+  {
+   "ref": "5.138",
+   "text": "used to stand: what was the reason for its standing with the Lar?"
+  },
+  {
+   "ref": "5.139",
+   "text": "Each guards the house, each is faithful to the master too;"
+  },
+  {
+   "ref": "5.140",
+   "text": "crossroads are dear to the god, crossroads are dear to the dog;"
+  },
+  {
+   "ref": "5.141",
+   "text": "both the Lar and Diana's pack chase off thieves;"
+  },
+  {
+   "ref": "5.142",
+   "text": "the Lares keep watch all night, and the dogs keep watch all night."
+  },
+  {
+   "ref": "5.143",
+   "text": "I was looking for the two statues of the twin gods;"
+  },
+  {
+   "ref": "5.144",
+   "text": "they had fallen, brought down by the force of long years."
+  },
+  {
+   "ref": "5.193",
+   "text": "So I [asked]. So the goddess answered my questions"
+  },
+  {
+   "ref": "5.194",
+   "text": "(as she speaks, her mouth breathes out spring roses):"
+  },
+  {
+   "ref": "5.195",
+   "text": "“I was Chloris, I who am called Flora: corrupted by the Latin"
+  },
+  {
+   "ref": "5.196",
+   "text": "sound is the Greek letter of my name."
+  },
+  {
+   "ref": "5.197",
+   "text": "I was Chloris, a nymph of the happy plain where, as you hear,"
+  },
+  {
+   "ref": "5.198",
+   "text": "the fortunate men once had their home,"
+  },
+  {
+   "ref": "5.227",
+   "text": "Why should I tell of Crocus, or Attis, or the son of Cinyras,"
+  },
+  {
+   "ref": "5.228",
+   "text": "from whose wounds their honour springs, through me?"
+  },
+  {
+   "ref": "5.229",
+   "text": "Mars too, if you do not know, was brought forth through my arts:"
+  },
+  {
+   "ref": "5.230",
+   "text": "may Jupiter go on not knowing it, as he has so far, I pray."
+  },
+  {
+   "ref": "5.231",
+   "text": "Holy Juno grieved that Jupiter, when Minerva was born without a mother,"
+  },
+  {
+   "ref": "5.232",
+   "text": "had not needed her services."
+  },
+  {
+   "ref": "5.233",
+   "text": "She was going to complain to Ocean about her husband's deeds;"
+  },
+  {
+   "ref": "5.253",
+   "text": "The one who gave it said this: 'Touch a barren heifer too,"
+  },
+  {
+   "ref": "5.254",
+   "text": "and she will be a mother.' I touched [one], and at once she was a mother."
+  },
+  {
+   "ref": "5.255",
+   "text": "Straight away I plucked the clinging flower with my thumb;"
+  },
+  {
+   "ref": "5.256",
+   "text": "she is touched, and at the touch her womb conceives."
+  },
+  {
+   "ref": "5.257",
+   "text": "And now, heavy with child, she enters Thrace and the left-hand shores of the Propontis,"
+  },
+  {
+   "ref": "5.258",
+   "text": "and gains her wish; and Mars was born."
+  },
+  {
+   "ref": "5.427",
+   "text": "It was the month of May, named after the elders,"
+  },
+  {
+   "ref": "5.428",
+   "text": "which even now keeps part of the old custom:"
+  },
+  {
+   "ref": "5.429",
+   "text": "when the night is already at its middle and offers silence for sleep,"
+  },
+  {
+   "ref": "5.430",
+   "text": "and you, dog, and you, many-coloured birds, have fallen silent,"
+  },
+  {
+   "ref": "5.431",
+   "text": "he, mindful of the old rite and fearful of the gods,"
+  },
+  {
+   "ref": "5.432",
+   "text": "rises (his two feet have no fastenings)"
+  },
+  {
+   "ref": "5.433",
+   "text": "and makes a sign with his fingers joined to the thumb in their midst,"
+  },
+  {
+   "ref": "5.434",
+   "text": "so that no insubstantial shade may meet him as he goes in silence."
+  },
+  {
+   "ref": "5.435",
+   "text": "And when he has washed his hands clean in spring water,"
+  },
+  {
+   "ref": "5.436",
+   "text": "he turns, and first takes black beans"
+  },
+  {
+   "ref": "5.437",
+   "text": "and throws them with his face turned away; but as he throws: ‘These I send;"
+  },
+  {
+   "ref": "5.438",
+   "text": "with these beans,’ he says, ‘I redeem myself and mine.’"
+  },
+  {
+   "ref": "5.439",
+   "text": "This he says nine times, and does not look back: the shade is thought"
+  },
+  {
+   "ref": "5.440",
+   "text": "to gather [them] and follow behind, with no one seeing."
+  },
+  {
+   "ref": "5.441",
+   "text": "Again he touches water, and clashes bronze of Temesa,"
+  },
+  {
+   "ref": "5.442",
+   "text": "and asks the shade to go out of his house."
+  },
+  {
+   "ref": "5.443",
+   "text": "When he has said nine times, ‘Ghosts of my fathers, go out,’"
+  },
+  {
+   "ref": "5.444",
+   "text": "he looks back, and holds that the rites have been duly performed."
+  },
+  {
+   "ref": "5.445",
+   "text": "Why the day is so called, what the origin of the name is,"
+  },
+  {
+   "ref": "5.446",
+   "text": "escapes me: it must be learned from some god."
+  },
+  {
+   "ref": "5.447",
+   "text": "Son of the Pleiad, instruct me, you who are revered for your powerful wand:"
+  },
+  {
+   "ref": "5.448",
+   "text": "you have often seen the palace of Stygian Jupiter."
+  },
+  {
+   "ref": "5.449",
+   "text": "The Wand-bearer came at my prayer. Learn the reason"
+  },
+  {
+   "ref": "5.450",
+   "text": "for the name: the reason was learned from the god himself."
+  },
+  {
+   "ref": "5.451",
+   "text": "When Romulus had buried his brother's shade in the tomb,"
+  },
+  {
+   "ref": "5.452",
+   "text": "and the rites had been paid to Remus, swift to his own cost,"
+  },
+  {
+   "ref": "5.453",
+   "text": "unhappy Faustulus, and Acca with her hair unbound,"
+  },
+  {
+   "ref": "5.454",
+   "text": "sprinkled the burnt bones with their tears."
+  },
+  {
+   "ref": "5.455",
+   "text": "Then they go home, grieving, at first twilight,"
+  },
+  {
+   "ref": "5.456",
+   "text": "and lay down on the hard bed, just as they were."
+  },
+  {
+   "ref": "5.457",
+   "text": "The bloody shade of Remus seemed to stand by the bed"
+  },
+  {
+   "ref": "5.458",
+   "text": "and to speak these words in a faint murmur:"
+  },
+  {
+   "ref": "5.459",
+   "text": "‘See, I, the half and the other part of your prayer,"
+  },
+  {
+   "ref": "5.460",
+   "text": "see what I am, I who was lately what I was!"
+  },
+  {
+   "ref": "5.461",
+   "text": "I who lately, had the birds given me the kingdom,"
+  },
+  {
+   "ref": "5.462",
+   "text": "could have been the greatest among my people,"
+  },
+  {
+   "ref": "5.463",
+   "text": "now am an empty image, slipped from the flames of the pyre:"
+  },
+  {
+   "ref": "5.464",
+   "text": "this is the form that is left of that Remus!"
+  },
+  {
+   "ref": "5.465",
+   "text": "Alas, where is father Mars? If only you have spoken the truth,"
+  },
+  {
+   "ref": "5.466",
+   "text": "and he gave a wild beast's teats to the exposed [twins],"
+  },
+  {
+   "ref": "5.467",
+   "text": "the one the she-wolf saved, a citizen's rash hand"
+  },
+  {
+   "ref": "5.468",
+   "text": "destroyed: oh, how much gentler she was!"
+  },
+  {
+   "ref": "5.469",
+   "text": "Savage Celer, may you give up your cruel soul through wounds,"
+  },
+  {
+   "ref": "5.470",
+   "text": "and, like me, go bloodied beneath the earth."
+  },
+  {
+   "ref": "5.471",
+   "text": "My brother did not want this: in him there is devotion equal [to mine]:"
+  },
+  {
+   "ref": "5.472",
+   "text": "he gave what he could, tears, to my shade."
+  },
+  {
+   "ref": "5.473",
+   "text": "Beg him, by your tears, by your rearing of us,"
+  },
+  {
+   "ref": "5.474",
+   "text": "to mark out a day for celebration in my honour.’"
+  },
+  {
+   "ref": "5.475",
+   "text": "As he gives this charge, they long to embrace him and stretch out their arms:"
+  },
+  {
+   "ref": "5.476",
+   "text": "the slippery shade escapes their grasping hands."
+  },
+  {
+   "ref": "5.477",
+   "text": "When the fleeing image had taken their sleep away with it,"
+  },
+  {
+   "ref": "5.478",
+   "text": "both carry the brother's words to the king."
+  },
+  {
+   "ref": "5.479",
+   "text": "Romulus complies, and names that day Remuria,"
+  },
+  {
+   "ref": "5.480",
+   "text": "the day on which due rites are brought to buried ancestors."
+  },
+  {
+   "ref": "5.481",
+   "text": "Over a long time the rough [letter] was changed into a smooth one,"
+  },
+  {
+   "ref": "5.482",
+   "text": "the letter which was first in the whole name;"
+  },
+  {
+   "ref": "5.483",
+   "text": "soon they also called the souls of the silent [dead] *lemures*:"
+  },
+  {
+   "ref": "5.484",
+   "text": "this was the sense of the word, this the force of the term."
+  },
+  {
+   "ref": "5.485",
+   "text": "Yet the ancients closed the shrines on those days,"
+  },
+  {
+   "ref": "6.129",
+   "text": "So saying, he gave her a thorn with which she could drive"
+  },
+  {
+   "ref": "6.130",
+   "text": "grim harms from doorways (it was a white thorn)."
+  },
+  {
+   "ref": "6.131",
+   "text": "There are greedy birds, not the ones that at his table robbed"
+  },
+  {
+   "ref": "6.132",
+   "text": "Phineus' throat, but they draw their descent from them:"
+  },
+  {
+   "ref": "6.133",
+   "text": "big heads, staring eyes, beaks made for plunder,"
+  },
+  {
+   "ref": "6.134",
+   "text": "grey in their feathers, hooks in their claws."
+  },
+  {
+   "ref": "6.135",
+   "text": "They fly by night and seek out children left without a nurse,"
+  },
+  {
+   "ref": "6.136",
+   "text": "and maul their bodies, snatched from their cradles."
+  },
+  {
+   "ref": "6.137",
+   "text": "They are said to tear the milk-fed flesh with their beaks,"
+  },
+  {
+   "ref": "6.138",
+   "text": "and their throats are full of the blood they have drunk."
+  },
+  {
+   "ref": "6.139",
+   "text": "Their name is *striges* [screech-owls]; but the reason for this name"
+  },
+  {
+   "ref": "6.140",
+   "text": "is that they are accustomed to screech horribly at night."
+  },
+  {
+   "ref": "6.141",
+   "text": "So, whether they are born birds, or are made so by a spell"
+  },
+  {
+   "ref": "6.142",
+   "text": "and a Marsian charm turns old women into birds,"
+  },
+  {
+   "ref": "6.143",
+   "text": "they came into the bedchamber of Proca. Proca, born in that room,"
+  },
+  {
+   "ref": "6.144",
+   "text": "was fresh prey for the birds, five days old,"
+  },
+  {
+   "ref": "6.145",
+   "text": "and they suck at the infant's breast with greedy tongues;"
+  },
+  {
+   "ref": "6.146",
+   "text": "but the unlucky boy wails and cries for help."
+  },
+  {
+   "ref": "6.147",
+   "text": "Frightened by her charge's voice, the nurse runs up"
+  },
+  {
+   "ref": "6.148",
+   "text": "and finds his cheeks torn by hard claws."
+  },
+  {
+   "ref": "6.149",
+   "text": "What was she to do? His face had the colour that late leaves"
+  },
+  {
+   "ref": "6.150",
+   "text": "often have when the new winter has nipped them."
+  },
+  {
+   "ref": "6.151",
+   "text": "She comes to Crane and tells her what happened; and Crane said: “Your fear"
+  },
+  {
+   "ref": "6.152",
+   "text": "put away: your charge will be safe.”"
+  },
+  {
+   "ref": "6.153",
+   "text": "She had come to the cradle: the mother and the father were weeping:"
+  },
+  {
+   "ref": "6.154",
+   "text": "“Stop your tears,” she says, “I will heal him myself.”"
+  },
+  {
+   "ref": "6.155",
+   "text": "At once she touches the doorposts three times in turn with arbutus"
+  },
+  {
+   "ref": "6.156",
+   "text": "leaves, three times she marks the threshold with arbutus leaves;"
+  },
+  {
+   "ref": "6.157",
+   "text": "she sprinkles the entrance with water (and the water held a remedy)"
+  },
+  {
+   "ref": "6.158",
+   "text": "and holds the raw entrails of a two-month-old sow;"
+  },
+  {
+   "ref": "6.159",
+   "text": "and so she says: “Birds of night, the boy's entrails"
+  },
+  {
+   "ref": "6.160",
+   "text": "spare: a small victim falls in place of a small one."
+  },
+  {
+   "ref": "6.161",
+   "text": "Take a heart for a heart, I pray, organs for organs."
+  },
+  {
+   "ref": "6.162",
+   "text": "This life we give you in place of a better one.”"
+  },
+  {
+   "ref": "6.163",
+   "text": "When she has made the offering thus, she sets the cut pieces in the open air,"
+  },
+  {
+   "ref": "6.164",
+   "text": "and forbids those present at the rite to look back at them;"
+  },
+  {
+   "ref": "6.165",
+   "text": "and a rod of Janus, from the white thorn, is placed"
+  },
+  {
+   "ref": "6.166",
+   "text": "where a small window let light into the bedroom."
+  },
+  {
+   "ref": "6.167",
+   "text": "After that, it is said, the birds did not violate the cradle,"
+  },
+  {
+   "ref": "6.168",
+   "text": "and the boy's former colour returned."
+  },
+  {
+   "ref": "6.169",
+   "text": "Why is fat bacon eaten on these Kalends,"
+  },
+  {
+   "ref": "6.170",
+   "text": "and why are beans mixed with hot spelt, you ask?"
+  },
+  {
+   "ref": "6.255",
+   "text": "But things I had not known, and in which I was held by error,"
+  },
+  {
+   "ref": "6.256",
+   "text": "became known to me with no one teaching me."
+  },
+  {
+   "ref": "6.257",
+   "text": "They relate that Rome had held forty Parilia"
+  },
+  {
+   "ref": "6.258",
+   "text": "when the goddess who guards the flame was received into her shrine,"
+  },
+  {
+   "ref": "6.259",
+   "text": "the work of the peaceful king; no more god-fearing"
+  },
+  {
+   "ref": "6.260",
+   "text": "nature than his did the Sabine land ever produce."
+  },
+  {
+   "ref": "6.261",
+   "text": "What you now see roofed with bronze, you would then have seen roofed with straw,"
+  },
+  {
+   "ref": "6.262",
+   "text": "and the wall was woven of pliant wicker."
+  },
+  {
+   "ref": "6.263",
+   "text": "This small spot, which holds up the Atrium of Vesta,"
+  },
+  {
+   "ref": "6.264",
+   "text": "was then the great palace of unshorn Numa."
+  },
+  {
+   "ref": "6.265",
+   "text": "Yet the shape of the temple, which remains now, is said to have existed"
+  },
+  {
+   "ref": "6.266",
+   "text": "before, and a reason worth approving lies behind the shape."
+  },
+  {
+   "ref": "6.267",
+   "text": "Vesta is the same as the earth: unsleeping fire lies beneath both:"
+  },
+  {
+   "ref": "6.268",
+   "text": "earth and hearth both signify their own seat."
+  },
+  {
+   "ref": "6.269",
+   "text": "The earth, like a ball, resting on no support,"
+  },
+  {
+   "ref": "6.283",
+   "text": "Do you ask why the goddess is served by virgins as attendants?"
+  },
+  {
+   "ref": "6.284",
+   "text": "I shall find the proper causes for this part too."
+  },
+  {
+   "ref": "6.285",
+   "text": "They say that Juno and Ceres were born of Ops"
+  },
+  {
+   "ref": "6.286",
+   "text": "from the seed of Saturn; the third was Vesta;"
+  },
+  {
+   "ref": "6.287",
+   "text": "both [of the others] married, both are said to have given birth;"
+  },
+  {
+   "ref": "6.288",
+   "text": "of the three, one remained, refusing a husband."
+  },
+  {
+   "ref": "6.289",
+   "text": "What wonder if a virgin, pleased with a virgin attendant,"
+  },
+  {
+   "ref": "6.290",
+   "text": "admits chaste hands to her rites?"
+  },
+  {
+   "ref": "6.291",
+   "text": "And understand Vesta to be nothing other than living flame,"
+  },
+  {
+   "ref": "6.292",
+   "text": "and you see no bodies born of flame."
+  },
+  {
+   "ref": "6.293",
+   "text": "Rightly, then, she is a virgin, who gives back no seeds"
+  },
+  {
+   "ref": "6.295",
+   "text": "For a long time, fool that I was, I thought there were statues of Vesta;"
+  },
+  {
+   "ref": "6.296",
+   "text": "later I learned that there are none beneath the curved dome."
+  },
+  {
+   "ref": "6.297",
+   "text": "An undying fire is hidden in that temple;"
+  },
+  {
+   "ref": "6.298",
+   "text": "neither Vesta nor fire has any likeness."
+  },
+  {
+   "ref": "6.299",
+   "text": "The earth stands by its own force: Vesta is named from standing by force,"
+  },
+  {
+   "ref": "6.300",
+   "text": "and the reason for the Greek name may be the same."
+  },
+  {
+   "ref": "6.419",
+   "text": "Ilus, descendant of Dardanus, had lately built new walls"
+  },
+  {
+   "ref": "6.420",
+   "text": "(Ilus, rich, still held the wealth of Asia):"
+  },
+  {
+   "ref": "6.421",
+   "text": "a heavenly image of armed Minerva is believed"
+  },
+  {
+   "ref": "6.422",
+   "text": "to have leapt down onto the heights of the Ilian city."
+  },
+  {
+   "ref": "6.423",
+   "text": "I made a point of seeing it: I saw both the temple and the place:"
+  },
+  {
+   "ref": "6.424",
+   "text": "that is what remains there; Rome holds the Pallas."
+  },
+  {
+   "ref": "6.431",
+   "text": "Under Priam she was poorly guarded: so she herself wished,"
+  },
+  {
+   "ref": "6.432",
+   "text": "ever since her beauty was beaten in the judgement."
+  },
+  {
+   "ref": "6.433",
+   "text": "Whether Adrastus's offspring, or Ulysses, so apt at theft,"
+  },
+  {
+   "ref": "6.434",
+   "text": "or pious Aeneas carried her off,"
+  },
+  {
+   "ref": "6.435",
+   "text": "who did it is uncertain; the thing is Roman: it is guarded"
+  },
+  {
+   "ref": "6.436",
+   "text": "by Vesta, because she sees all things with her unceasing light."
+  },
+  {
+   "ref": "6.437",
+   "text": "Ah, how greatly the Fathers feared, at the time when Vesta"
+  },
+  {
+   "ref": "6.543",
+   "text": "You will be a deity of the sea; the sea will have your son too."
+  },
+  {
+   "ref": "6.544",
+   "text": "Take other names in your own waters:"
+  },
+  {
+   "ref": "6.545",
+   "text": "you will be called Leucothea by the Greeks, Matuta by our people;"
+  },
+  {
+   "ref": "6.546",
+   "text": "your son will have all authority over harbours,"
+  },
+  {
+   "ref": "6.547",
+   "text": "he whom we shall call Portunus, and his own tongue Palaemon."
+  },
+  {
+   "ref": "6.548",
+   "text": "Go, I pray, both of you, gracious to our lands!”"
+  },
+  {
+   "ref": "6.549",
+   "text": "She had nodded; the promise was given; they laid aside their toils,"
+  }
+ ]
+}

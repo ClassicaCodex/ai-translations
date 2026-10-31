@@ -1,0 +1,1276 @@
+{
+ "work_urn": "urn:dante:commedia:purgatorio",
+ "edition_urn": "urn:dante:commedia:purgatorio.ai-claude",
+ "source_edition": "urn:dante:commedia:purgatorio:petrocchi",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-31",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Commedia II: Purgatorio: AI translation (Claude)",
+  "author": "Dante Alighieri",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:dante:commedia:purgatorio:petrocchi, from UD Italian-Old: Petrocchi's text via DanteSearch (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit UD Italian-Old: Petrocchi's text via DanteSearch and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "18.144": "18.144 'per vaghezza' may mean 'from wandering' or 'for pleasure'. 19.4: the Greater Fortune (Fortuna Major) is a geomantic figure, likened to stars rising before dawn. 19.22 'vago' may go with Ulysses ('eager') or with his course ('wandering'). 19.31: the subject of 'prendea' is unexpressed; taken as Virgil.",
+  "22.62": "22.66 ‘prima appresso Dio m’alluminasti’: taken as ‘first gave me light toward (concerning) God’; also read as ‘next after God, you first enlightened me’.",
+  "2.11": "2.26 ‘mentre che’ taken in its old sense ‘until’. 2.44 ‘faria beato pur descripto’: sense disputed; also understood as ‘blessedness seemed written on him’, after a variant reading. 2.46 is Latin in the original: ‘When Israel went out of Egypt’ (Psalm 113/114).",
+  "5.98": "5.112 ‘Giunse’ taken as ‘joined’ (the devil joined evil will to intellect); it can also be read ‘came’ (‘there came that evil will … with intellect’).",
+  "9.74": "9.97 ‘perso’ is a dark colour, purple mixed with black; rendered ‘purple-black’."
+ },
+ "nodes": [
+  {
+   "ref": "1.2",
+   "text": "now the little boat of my wit,"
+  },
+  {
+   "ref": "1.3",
+   "text": "which leaves behind it so cruel a sea;"
+  },
+  {
+   "ref": "1.4",
+   "text": "and I will sing of that second kingdom"
+  },
+  {
+   "ref": "1.5",
+   "text": "where the human spirit is purged"
+  },
+  {
+   "ref": "1.6",
+   "text": "and becomes worthy to rise to heaven."
+  },
+  {
+   "ref": "1.7",
+   "text": "But here let dead poetry rise again,"
+  },
+  {
+   "ref": "1.8",
+   "text": "O holy Muses, since I am yours;"
+  },
+  {
+   "ref": "1.29",
+   "text": "turning a little toward the other pole,"
+  },
+  {
+   "ref": "1.30",
+   "text": "there where the Wain had already disappeared,"
+  },
+  {
+   "ref": "1.31",
+   "text": "I saw near me an old man, alone,"
+  },
+  {
+   "ref": "1.32",
+   "text": "worthy in his look of so much reverence"
+  },
+  {
+   "ref": "1.33",
+   "text": "that no son owes more to a father."
+  },
+  {
+   "ref": "1.34",
+   "text": "A long beard, mixed with white hair,"
+  },
+  {
+   "ref": "1.35",
+   "text": "he wore, like the hair of his head,"
+  },
+  {
+   "ref": "1.36",
+   "text": "which fell to his chest in a double strand."
+  },
+  {
+   "ref": "1.37",
+   "text": "The rays of the four holy lights"
+  },
+  {
+   "ref": "1.38",
+   "text": "so adorned his face with light"
+  },
+  {
+   "ref": "1.39",
+   "text": "that I saw him as if the sun were before him."
+  },
+  {
+   "ref": "1.40",
+   "text": "“Who are you, who against the blind river"
+  },
+  {
+   "ref": "1.41",
+   "text": "have fled the eternal prison?”"
+  },
+  {
+   "ref": "1.42",
+   "text": "he said, moving those venerable plumes."
+  },
+  {
+   "ref": "1.43",
+   "text": "“Who has guided you, or what was a lamp to you"
+  },
+  {
+   "ref": "1.44",
+   "text": "as you came out of the deep night"
+  },
+  {
+   "ref": "1.45",
+   "text": "that keeps the valley of Hell forever black?"
+  },
+  {
+   "ref": "1.46",
+   "text": "Are the laws of the abyss broken, then?"
+  },
+  {
+   "ref": "1.47",
+   "text": "or has heaven changed to some new counsel,"
+  },
+  {
+   "ref": "1.48",
+   "text": "that, though damned, you come to my rocks?”"
+  },
+  {
+   "ref": "1.49",
+   "text": "My leader then took hold of me,"
+  },
+  {
+   "ref": "1.50",
+   "text": "and with words and with hands and with signs"
+  },
+  {
+   "ref": "1.51",
+   "text": "made my legs and my brow reverent."
+  },
+  {
+   "ref": "1.52",
+   "text": "Then he answered him: “I did not come of myself:"
+  },
+  {
+   "ref": "1.53",
+   "text": "a lady came down from heaven, at whose prayers"
+  },
+  {
+   "ref": "1.54",
+   "text": "I helped this man with my company."
+  },
+  {
+   "ref": "1.55",
+   "text": "But since it is your will that more be unfolded"
+  },
+  {
+   "ref": "1.56",
+   "text": "of our condition, how it truly is,"
+  },
+  {
+   "ref": "1.57",
+   "text": "my will cannot be that it be denied you."
+  },
+  {
+   "ref": "1.58",
+   "text": "This man has never seen his last evening;"
+  },
+  {
+   "ref": "1.59",
+   "text": "but by his folly he was so close to it"
+  },
+  {
+   "ref": "1.60",
+   "text": "that very little time was left to turn."
+  },
+  {
+   "ref": "1.61",
+   "text": "As I said, I was sent to him"
+  },
+  {
+   "ref": "1.62",
+   "text": "to save him; and there was no other way"
+  },
+  {
+   "ref": "1.63",
+   "text": "than this one, on which I have set out."
+  },
+  {
+   "ref": "1.64",
+   "text": "I have shown him all the guilty people;"
+  },
+  {
+   "ref": "1.65",
+   "text": "and now I mean to show those spirits"
+  },
+  {
+   "ref": "1.66",
+   "text": "who purge themselves under your charge."
+  },
+  {
+   "ref": "1.67",
+   "text": "How I have brought him would take long to tell you;"
+  },
+  {
+   "ref": "1.68",
+   "text": "from on high comes down a power that helps me"
+  },
+  {
+   "ref": "1.69",
+   "text": "lead him to see you and to hear you."
+  },
+  {
+   "ref": "1.70",
+   "text": "Now may it please you to welcome his coming:"
+  },
+  {
+   "ref": "1.71",
+   "text": "he goes seeking freedom, which is so dear,"
+  },
+  {
+   "ref": "1.72",
+   "text": "as he knows who gives up life for it."
+  },
+  {
+   "ref": "1.73",
+   "text": "You know it, for, for its sake, death was not bitter to you"
+  },
+  {
+   "ref": "1.74",
+   "text": "in Utica, where you left"
+  },
+  {
+   "ref": "1.75",
+   "text": "the garment that on the great day will shine so bright."
+  },
+  {
+   "ref": "1.76",
+   "text": "The eternal edicts are not broken by us,"
+  },
+  {
+   "ref": "1.77",
+   "text": "for this man lives, and Minos does not bind me;"
+  },
+  {
+   "ref": "2.11",
+   "text": "like people who are thinking of their road,"
+  },
+  {
+   "ref": "2.12",
+   "text": "who move on in heart and in body remain."
+  },
+  {
+   "ref": "2.13",
+   "text": "And look: as, overtaken by the morning,"
+  },
+  {
+   "ref": "2.14",
+   "text": "through the thick vapors Mars glows red"
+  },
+  {
+   "ref": "2.15",
+   "text": "low in the west above the level of the sea,"
+  },
+  {
+   "ref": "2.16",
+   "text": "so there appeared to me—may I see it again—"
+  },
+  {
+   "ref": "2.17",
+   "text": "a light coming over the sea so swiftly"
+  },
+  {
+   "ref": "2.18",
+   "text": "that no flight could equal its motion."
+  },
+  {
+   "ref": "2.19",
+   "text": "When I had drawn back from it a little"
+  },
+  {
+   "ref": "2.20",
+   "text": "my eye to question my leader,"
+  },
+  {
+   "ref": "2.21",
+   "text": "I saw it again, grown brighter and larger."
+  },
+  {
+   "ref": "2.22",
+   "text": "Then on each side of it there appeared to me"
+  },
+  {
+   "ref": "2.23",
+   "text": "something white, I did not know what, and from beneath,"
+  },
+  {
+   "ref": "2.24",
+   "text": "little by little, another came out from it."
+  },
+  {
+   "ref": "2.25",
+   "text": "My master still had not said a word"
+  },
+  {
+   "ref": "2.26",
+   "text": "until the first white shapes appeared as wings;"
+  },
+  {
+   "ref": "2.27",
+   "text": "then, when he clearly knew the boatman,"
+  },
+  {
+   "ref": "2.28",
+   "text": "he cried: “Quick, quick, bend your knees."
+  },
+  {
+   "ref": "2.29",
+   "text": "Here is the angel of God: fold your hands;"
+  },
+  {
+   "ref": "2.30",
+   "text": "from now on you will see officers like this."
+  },
+  {
+   "ref": "2.31",
+   "text": "See how he scorns human means,"
+  },
+  {
+   "ref": "2.32",
+   "text": "so that he wants no oar, nor any sail other"
+  },
+  {
+   "ref": "2.33",
+   "text": "than his wings, between shores so distant."
+  },
+  {
+   "ref": "2.34",
+   "text": "See how he holds them straight toward heaven,"
+  },
+  {
+   "ref": "2.35",
+   "text": "stirring the air with the eternal feathers"
+  },
+  {
+   "ref": "2.36",
+   "text": "that do not change like mortal hair.”"
+  },
+  {
+   "ref": "2.37",
+   "text": "Then, as more and more toward us came"
+  },
+  {
+   "ref": "2.38",
+   "text": "the divine bird, the brighter he appeared,"
+  },
+  {
+   "ref": "2.39",
+   "text": "so that my eye could not bear him close at hand,"
+  },
+  {
+   "ref": "2.40",
+   "text": "but I lowered it; and he came on to the shore"
+  },
+  {
+   "ref": "2.41",
+   "text": "with a vessel so slender and light"
+  },
+  {
+   "ref": "2.42",
+   "text": "that the water swallowed none of it."
+  },
+  {
+   "ref": "2.43",
+   "text": "At the stern stood the heavenly helmsman,"
+  },
+  {
+   "ref": "2.44",
+   "text": "such that even described he would make [one] blessed;"
+  },
+  {
+   "ref": "2.45",
+   "text": "and more than a hundred spirits sat inside."
+  },
+  {
+   "ref": "2.46",
+   "text": "“In exitu Israel de Aegypto”"
+  },
+  {
+   "ref": "2.47",
+   "text": "they were all singing together with one voice,"
+  },
+  {
+   "ref": "2.48",
+   "text": "with all of that psalm that is written after it."
+  },
+  {
+   "ref": "2.49",
+   "text": "Then he made over them the sign of the holy cross;"
+  },
+  {
+   "ref": "2.50",
+   "text": "at which they all flung themselves onto the shore,"
+  },
+  {
+   "ref": "2.51",
+   "text": "and he went off, as he had come, swiftly."
+  },
+  {
+   "ref": "2.52",
+   "text": "The crowd that remained there seemed unfamiliar"
+  },
+  {
+   "ref": "2.53",
+   "text": "with the place, gazing around,"
+  },
+  {
+   "ref": "5.98",
+   "text": "I arrived, pierced in the throat,"
+  },
+  {
+   "ref": "5.99",
+   "text": "fleeing on foot and bloodying the plain."
+  },
+  {
+   "ref": "5.100",
+   "text": "There I lost my sight and my speech;"
+  },
+  {
+   "ref": "5.101",
+   "text": "in the name of Mary I ended, and there"
+  },
+  {
+   "ref": "5.102",
+   "text": "I fell, and my flesh was left alone."
+  },
+  {
+   "ref": "5.103",
+   "text": "I will tell the truth, and you tell it again among the living:"
+  },
+  {
+   "ref": "5.104",
+   "text": "the angel of God took me, and the one from hell"
+  },
+  {
+   "ref": "5.105",
+   "text": "cried out: ‘O you from heaven, why do you rob me?"
+  },
+  {
+   "ref": "5.106",
+   "text": "You carry off with you this man’s eternal part"
+  },
+  {
+   "ref": "5.107",
+   "text": "for one little tear that takes him from me;"
+  },
+  {
+   "ref": "5.108",
+   "text": "but with the other part I will deal another way!’"
+  },
+  {
+   "ref": "5.109",
+   "text": "You know well how in the air there gathers"
+  },
+  {
+   "ref": "5.110",
+   "text": "that moist vapor which returns to water"
+  },
+  {
+   "ref": "5.111",
+   "text": "as soon as it rises to where the cold seizes it."
+  },
+  {
+   "ref": "5.112",
+   "text": "He joined that evil will, which seeks only evil,"
+  },
+  {
+   "ref": "5.113",
+   "text": "with intellect, and stirred the mist and the wind"
+  },
+  {
+   "ref": "5.114",
+   "text": "by the power that his nature gave."
+  },
+  {
+   "ref": "5.115",
+   "text": "Then the valley, once the day was spent,"
+  },
+  {
+   "ref": "5.116",
+   "text": "from Pratomagno to the great ridge, he covered"
+  },
+  {
+   "ref": "5.117",
+   "text": "with fog; and he made the sky above so dense"
+  },
+  {
+   "ref": "5.118",
+   "text": "that the pregnant air turned into water;"
+  },
+  {
+   "ref": "5.119",
+   "text": "the rain fell, and to the gullies came"
+  },
+  {
+   "ref": "5.120",
+   "text": "whatever of it the ground could not bear;"
+  },
+  {
+   "ref": "5.121",
+   "text": "and as it gathered into the great streams,"
+  },
+  {
+   "ref": "5.122",
+   "text": "toward the royal river so swiftly"
+  },
+  {
+   "ref": "5.123",
+   "text": "it rushed headlong that nothing held it back."
+  },
+  {
+   "ref": "5.124",
+   "text": "My frozen body, at its mouth,"
+  },
+  {
+   "ref": "5.125",
+   "text": "the raging Archiano found; and it thrust it"
+  },
+  {
+   "ref": "5.126",
+   "text": "into the Arno, and loosened on my breast the cross"
+  },
+  {
+   "ref": "5.127",
+   "text": "that I made of myself when the pain overcame me;"
+  },
+  {
+   "ref": "5.128",
+   "text": "it rolled me along the banks and along the bed,"
+  },
+  {
+   "ref": "5.129",
+   "text": "then covered and wrapped me with its spoils.”"
+  },
+  {
+   "ref": "5.130",
+   "text": "“Ah, when you have returned to the world"
+  },
+  {
+   "ref": "5.131",
+   "text": "and rested from the long road,”"
+  },
+  {
+   "ref": "8.23",
+   "text": "afterwards silently look upward,"
+  },
+  {
+   "ref": "8.24",
+   "text": "as if waiting, pale and humble;"
+  },
+  {
+   "ref": "8.25",
+   "text": "and I saw come out from on high and descend"
+  },
+  {
+   "ref": "8.26",
+   "text": "two angels with two flaming swords,"
+  },
+  {
+   "ref": "8.27",
+   "text": "broken off and deprived of their points."
+  },
+  {
+   "ref": "9.74",
+   "text": "that there, where before it had seemed to me broken,"
+  },
+  {
+   "ref": "9.75",
+   "text": "just like a crack that splits a wall,"
+  },
+  {
+   "ref": "9.76",
+   "text": "I saw a gate, and three steps below"
+  },
+  {
+   "ref": "9.77",
+   "text": "to go up to it, of different colors,"
+  },
+  {
+   "ref": "9.78",
+   "text": "and a gatekeeper who as yet said not a word."
+  },
+  {
+   "ref": "9.79",
+   "text": "And as I opened my eye on it more and more,"
+  },
+  {
+   "ref": "9.80",
+   "text": "I saw him sitting on the topmost step,"
+  },
+  {
+   "ref": "9.81",
+   "text": "such in his face that I could not bear it;"
+  },
+  {
+   "ref": "9.82",
+   "text": "and he had a naked sword in his hand,"
+  },
+  {
+   "ref": "9.83",
+   "text": "which reflected the rays toward us so"
+  },
+  {
+   "ref": "9.84",
+   "text": "that I often turned my eyes to it in vain."
+  },
+  {
+   "ref": "9.85",
+   "text": "“Say it from there: what do you want?”"
+  },
+  {
+   "ref": "9.86",
+   "text": "he began to say, “where is your escort?"
+  },
+  {
+   "ref": "9.87",
+   "text": "Take care that coming up does not harm you.”"
+  },
+  {
+   "ref": "9.88",
+   "text": "“A lady from heaven, who knows these things,”"
+  },
+  {
+   "ref": "9.89",
+   "text": "my master answered him, “just now"
+  },
+  {
+   "ref": "9.90",
+   "text": "told us: ‘Go there: there is the gate.’”"
+  },
+  {
+   "ref": "9.91",
+   "text": "“And may she further your steps in good,”"
+  },
+  {
+   "ref": "9.92",
+   "text": "the courteous gatekeeper began again:"
+  },
+  {
+   "ref": "9.93",
+   "text": "“Come forward, then, to our steps.”"
+  },
+  {
+   "ref": "9.94",
+   "text": "We came there; and the first step"
+  },
+  {
+   "ref": "9.95",
+   "text": "was white marble, so polished and clean"
+  },
+  {
+   "ref": "9.96",
+   "text": "that I was mirrored in it just as I appear."
+  },
+  {
+   "ref": "9.97",
+   "text": "The second was darker in hue than purple-black,"
+  },
+  {
+   "ref": "9.98",
+   "text": "of a rough and scorched stone,"
+  },
+  {
+   "ref": "9.99",
+   "text": "cracked lengthwise and across."
+  },
+  {
+   "ref": "9.100",
+   "text": "The third, which lies massive on top,"
+  },
+  {
+   "ref": "9.101",
+   "text": "seemed to me porphyry, as flaming"
+  },
+  {
+   "ref": "9.102",
+   "text": "as blood that spurts out of a vein."
+  },
+  {
+   "ref": "9.103",
+   "text": "On this he kept both his feet,"
+  },
+  {
+   "ref": "9.104",
+   "text": "the angel of God, sitting on the threshold,"
+  },
+  {
+   "ref": "9.105",
+   "text": "which seemed to me a stone of diamond."
+  },
+  {
+   "ref": "9.106",
+   "text": "Up the three steps, with good will,"
+  },
+  {
+   "ref": "9.107",
+   "text": "my leader drew me, saying: “Ask"
+  },
+  {
+   "ref": "9.108",
+   "text": "humbly that he undo the lock.”"
+  },
+  {
+   "ref": "9.109",
+   "text": "Devoutly I threw myself at the holy feet;"
+  },
+  {
+   "ref": "9.110",
+   "text": "I asked for mercy and that he open for me,"
+  },
+  {
+   "ref": "9.111",
+   "text": "but first I struck myself three times on the breast."
+  },
+  {
+   "ref": "9.112",
+   "text": "Seven P’s on my forehead he traced"
+  },
+  {
+   "ref": "9.113",
+   "text": "with the point of the sword, and “See that you wash away,"
+  },
+  {
+   "ref": "9.114",
+   "text": "when you are inside, these wounds,” he said."
+  },
+  {
+   "ref": "9.115",
+   "text": "Ashes, or earth that is dug out dry,"
+  },
+  {
+   "ref": "9.116",
+   "text": "would be of one color with his robe;"
+  },
+  {
+   "ref": "9.117",
+   "text": "and from beneath it he drew out two keys."
+  },
+  {
+   "ref": "9.118",
+   "text": "One was of gold and the other was of silver;"
+  },
+  {
+   "ref": "9.119",
+   "text": "first with the white and then with the yellow"
+  },
+  {
+   "ref": "9.120",
+   "text": "he so worked the gate that I was content."
+  },
+  {
+   "ref": "9.121",
+   "text": "“Whenever one of these keys fails,"
+  },
+  {
+   "ref": "9.122",
+   "text": "so that it does not turn rightly in the lock,”"
+  },
+  {
+   "ref": "9.123",
+   "text": "he said to us, “this passage does not open."
+  },
+  {
+   "ref": "9.124",
+   "text": "One is more precious; but the other needs a great deal"
+  },
+  {
+   "ref": "9.125",
+   "text": "of skill and wit before it unlocks,"
+  },
+  {
+   "ref": "9.126",
+   "text": "because it is the one that undoes the knot."
+  },
+  {
+   "ref": "9.127",
+   "text": "I hold them from Peter; and he told me to err"
+  },
+  {
+   "ref": "9.128",
+   "text": "rather in opening than in keeping it locked,"
+  },
+  {
+   "ref": "9.129",
+   "text": "provided the people throw themselves down at my feet.”"
+  },
+  {
+   "ref": "12.32",
+   "text": "still armed, around their father,"
+  },
+  {
+   "ref": "12.33",
+   "text": "gaze at the scattered limbs of the Giants."
+  },
+  {
+   "ref": "12.34",
+   "text": "I saw Nimrod at the foot of the great work,"
+  },
+  {
+   "ref": "12.35",
+   "text": "as if bewildered, and looking at the peoples"
+  },
+  {
+   "ref": "12.36",
+   "text": "who in Shinar were proud along with him."
+  },
+  {
+   "ref": "12.37",
+   "text": "O Niobe, with what grieving eyes"
+  },
+  {
+   "ref": "12.38",
+   "text": "I saw you traced upon the road,"
+  },
+  {
+   "ref": "16.65",
+   "text": "he first let out; and then he began: “Brother,"
+  },
+  {
+   "ref": "16.66",
+   "text": "the world is blind, and you surely come from it."
+  },
+  {
+   "ref": "16.67",
+   "text": "You who are living refer every cause"
+  },
+  {
+   "ref": "16.68",
+   "text": "only up to the heavens, just as if they moved"
+  },
+  {
+   "ref": "16.69",
+   "text": "all things along with them by necessity."
+  },
+  {
+   "ref": "16.70",
+   "text": "If that were so, there would be destroyed in you"
+  },
+  {
+   "ref": "16.71",
+   "text": "free will, and it would not be justice"
+  },
+  {
+   "ref": "16.72",
+   "text": "to have joy for good and grief for evil."
+  },
+  {
+   "ref": "16.73",
+   "text": "The heavens set your motions going;"
+  },
+  {
+   "ref": "16.74",
+   "text": "I do not say all of them, but, supposing I said so,"
+  },
+  {
+   "ref": "16.75",
+   "text": "light is given you for good and for wickedness,"
+  },
+  {
+   "ref": "16.76",
+   "text": "and free will; which, if it endures strain"
+  },
+  {
+   "ref": "16.77",
+   "text": "in its first battles with the heavens,"
+  },
+  {
+   "ref": "16.78",
+   "text": "then conquers all, if it is well nourished."
+  },
+  {
+   "ref": "16.79",
+   "text": "To a greater power and to a better nature"
+  },
+  {
+   "ref": "16.80",
+   "text": "you, being free, are subject; and that creates"
+  },
+  {
+   "ref": "16.81",
+   "text": "the mind in you, which the heavens do not have in their charge."
+  },
+  {
+   "ref": "16.82",
+   "text": "Therefore, if the present world goes astray,"
+  },
+  {
+   "ref": "16.83",
+   "text": "in you is the cause, in you let it be sought;"
+  },
+  {
+   "ref": "18.144",
+   "text": "that I closed my eyes in my wandering,"
+  },
+  {
+   "ref": "18.145",
+   "text": "and turned my thinking into dream."
+  },
+  {
+   "ref": "19.1",
+   "text": "At the hour when the heat of day can no longer"
+  },
+  {
+   "ref": "19.2",
+   "text": "warm the cold of the moon,"
+  },
+  {
+   "ref": "19.3",
+   "text": "overcome by earth, and at times by Saturn —"
+  },
+  {
+   "ref": "19.4",
+   "text": "when the geomancers see their Greater Fortune"
+  },
+  {
+   "ref": "19.5",
+   "text": "in the east, before the dawn,"
+  },
+  {
+   "ref": "19.6",
+   "text": "rise by a path that stays dark for it only a little —"
+  },
+  {
+   "ref": "19.7",
+   "text": "there came to me in a dream a stammering woman,"
+  },
+  {
+   "ref": "19.8",
+   "text": "cross-eyed, and crooked on her feet,"
+  },
+  {
+   "ref": "19.9",
+   "text": "with maimed hands, and sallow in colour."
+  },
+  {
+   "ref": "19.10",
+   "text": "I gazed at her; and as the sun revives"
+  },
+  {
+   "ref": "19.11",
+   "text": "the cold limbs that the night weighs down,"
+  },
+  {
+   "ref": "19.12",
+   "text": "so my look made nimble"
+  },
+  {
+   "ref": "19.13",
+   "text": "her tongue, and then set her fully upright"
+  },
+  {
+   "ref": "19.14",
+   "text": "in a little while, and her wan face,"
+  },
+  {
+   "ref": "19.15",
+   "text": "just as love wants, so it coloured for her."
+  },
+  {
+   "ref": "19.16",
+   "text": "When she had her speech set loose in this way,"
+  },
+  {
+   "ref": "19.17",
+   "text": "she began to sing, so that only with difficulty"
+  },
+  {
+   "ref": "19.18",
+   "text": "could I have turned my attention away from her."
+  },
+  {
+   "ref": "19.19",
+   "text": "“I am,” she sang, “I am the sweet siren"
+  },
+  {
+   "ref": "19.20",
+   "text": "who leads sailors astray in mid-sea,"
+  },
+  {
+   "ref": "19.21",
+   "text": "so full am I of pleasure to hear!"
+  },
+  {
+   "ref": "19.22",
+   "text": "I turned Ulysses from his wandering way"
+  },
+  {
+   "ref": "19.23",
+   "text": "to my song; and whoever grows used to me"
+  },
+  {
+   "ref": "19.24",
+   "text": "seldom leaves, so wholly do I content him!”"
+  },
+  {
+   "ref": "19.25",
+   "text": "Her mouth was not yet closed again"
+  },
+  {
+   "ref": "19.26",
+   "text": "when a lady appeared, holy and quick,"
+  },
+  {
+   "ref": "19.27",
+   "text": "close beside me, to put that one to confusion."
+  },
+  {
+   "ref": "19.28",
+   "text": "“O Virgil, Virgil, who is this?”"
+  },
+  {
+   "ref": "19.29",
+   "text": "she was saying fiercely; and he came"
+  },
+  {
+   "ref": "19.30",
+   "text": "with his eyes fixed only on that virtuous one."
+  },
+  {
+   "ref": "19.31",
+   "text": "He seized the other, and laid her open in front,"
+  },
+  {
+   "ref": "19.32",
+   "text": "tearing her clothes, and showed me her belly;"
+  },
+  {
+   "ref": "19.33",
+   "text": "this woke me with the stench that came from it."
+  },
+  {
+   "ref": "19.34",
+   "text": "I moved my eyes, and the good master: “At least three"
+  },
+  {
+   "ref": "19.35",
+   "text": "times I have called you!” he was saying. “Rise and come;"
+  },
+  {
+   "ref": "19.56",
+   "text": "a new vision that bends me toward itself,"
+  },
+  {
+   "ref": "19.57",
+   "text": "so that I cannot draw away from thinking of it.”"
+  },
+  {
+   "ref": "19.58",
+   "text": "“You saw,” he said, “that ancient witch"
+  },
+  {
+   "ref": "19.59",
+   "text": "who alone, above us, is now wept for;"
+  },
+  {
+   "ref": "19.60",
+   "text": "you saw how a man gets free of her."
+  },
+  {
+   "ref": "19.61",
+   "text": "Let that be enough, and strike the ground with your heels;"
+  },
+  {
+   "ref": "19.62",
+   "text": "turn your eyes to the lure that is whirled"
+  },
+  {
+   "ref": "19.63",
+   "text": "by the eternal King with the great wheels.”"
+  },
+  {
+   "ref": "19.64",
+   "text": "Like the falcon, which first looks at its feet,"
+  },
+  {
+   "ref": "19.65",
+   "text": "then turns at the call and stretches forward"
+  },
+  {
+   "ref": "21.89",
+   "text": "that Rome drew me, a man of Toulouse, to herself,"
+  },
+  {
+   "ref": "21.90",
+   "text": "where I deserved to have my temples decked with myrtle."
+  },
+  {
+   "ref": "21.91",
+   "text": "Statius is what people back there still call me:"
+  },
+  {
+   "ref": "21.92",
+   "text": "I sang of Thebes, and then of great Achilles;"
+  },
+  {
+   "ref": "21.93",
+   "text": "but I fell on the way with the second burden."
+  },
+  {
+   "ref": "21.94",
+   "text": "The seeds of my ardor were the sparks"
+  },
+  {
+   "ref": "22.12",
+   "text": "provided that its flame showed outwardly;"
+  },
+  {
+   "ref": "22.13",
+   "text": "so, from the hour when there came down among us,"
+  },
+  {
+   "ref": "22.14",
+   "text": "into the limbo of hell, Juvenal,"
+  },
+  {
+   "ref": "22.15",
+   "text": "who made your affection known to me,"
+  },
+  {
+   "ref": "22.16",
+   "text": "my goodwill toward you was such as"
+  },
+  {
+   "ref": "22.62",
+   "text": "lifted your darkness so, that you then set"
+  },
+  {
+   "ref": "22.63",
+   "text": "your sails thereafter behind the fisherman?”"
+  },
+  {
+   "ref": "22.64",
+   "text": "And he to him: “You first sent me on the way"
+  },
+  {
+   "ref": "22.65",
+   "text": "toward Parnassus to drink in its caves,"
+  },
+  {
+   "ref": "22.66",
+   "text": "and you first, toward God, gave me light."
+  },
+  {
+   "ref": "22.67",
+   "text": "You did as one who walks by night,"
+  },
+  {
+   "ref": "22.68",
+   "text": "who carries the light behind him and does not help himself,"
+  },
+  {
+   "ref": "22.69",
+   "text": "but makes the people after him wise,"
+  },
+  {
+   "ref": "22.70",
+   "text": "when you said: ‘The age is renewed;"
+  },
+  {
+   "ref": "22.71",
+   "text": "justice returns, and the first age of humankind,"
+  },
+  {
+   "ref": "22.72",
+   "text": "and a new progeny comes down from heaven.’"
+  },
+  {
+   "ref": "22.73",
+   "text": "Through you I was a poet, through you a Christian:"
+  },
+  {
+   "ref": "22.74",
+   "text": "but so that you may better see what I outline,"
+  },
+  {
+   "ref": "22.75",
+   "text": "I will reach out my hand to color it in."
+  },
+  {
+   "ref": "28.128",
+   "text": "that takes away from people the memory of sin;"
+  },
+  {
+   "ref": "28.129",
+   "text": "on the other, it restores that of every good deed."
+  },
+  {
+   "ref": "28.130",
+   "text": "On this side, Lethe; so on the other side"
+  },
+  {
+   "ref": "28.131",
+   "text": "it is called Eunoe, and it does not work"
+  },
+  {
+   "ref": "28.132",
+   "text": "unless it is first tasted on this side and on that:"
+  },
+  {
+   "ref": "28.137",
+   "text": "nor do I think my words will be less dear to you"
+  },
+  {
+   "ref": "28.138",
+   "text": "if they range with you beyond my promise."
+  },
+  {
+   "ref": "28.139",
+   "text": "Those who in ancient times made poetry of"
+  },
+  {
+   "ref": "28.140",
+   "text": "the age of gold and its happy state"
+  },
+  {
+   "ref": "28.141",
+   "text": "perhaps on Parnassus dreamed of this place."
+  },
+  {
+   "ref": "28.142",
+   "text": "Here the root of humankind was innocent;"
+  },
+  {
+   "ref": "28.143",
+   "text": "here spring is everlasting, and every fruit;"
+  },
+  {
+   "ref": "28.144",
+   "text": "this is the nectar of which each of them speaks.”"
+  },
+  {
+   "ref": "28.145",
+   "text": "Then I turned fully round, back"
+  },
+  {
+   "ref": "28.146",
+   "text": "to my poets, and saw that with a smile"
+  },
+  {
+   "ref": "33.94",
+   "text": "“And if you cannot remember it,”"
+  },
+  {
+   "ref": "33.95",
+   "text": "she answered, smiling, “now recall"
+  },
+  {
+   "ref": "33.96",
+   "text": "how you drank from Lethe this very day;"
+  },
+  {
+   "ref": "33.97",
+   "text": "and if fire is inferred from smoke,"
+  },
+  {
+   "ref": "33.98",
+   "text": "this forgetting clearly proves"
+  }
+ ]
+}

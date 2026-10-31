@@ -1,0 +1,1780 @@
+{
+ "work_urn": "urn:rem:herbort-von-fritzlar:m541h",
+ "edition_urn": "urn:rem:herbort-von-fritzlar:m541h.ai-claude",
+ "source_edition": "urn:rem:herbort-von-fritzlar:m541h:norm",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-31",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Herbort von Fritzlar: 'Liet von Troye' (H) (Heidelberg, Universitätsbibl., Cpg 368): AI translation (Claude)",
+  "author": "Herbort von Fritzlar (?)",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:rem:herbort-von-fritzlar:m541h:norm, from the Referenzkorpus Mittelhochdeutsch, ReM 2.1 (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Referenzkorpus Mittelhochdeutsch, ReM 2.1 and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "543": "578-579: 'des was niht, man hette es wân' is read as 'there was nothing in it; people fancied it was so'. It might instead mean that no one doubted it was so.",
+  "754": "757: 'reben' taken as 'rave, be out of my wits'.",
+  "17629": "17648: 'si wil man über man' is unclear: 'man after man', or perhaps 'every man whatever'. 17673: 'mîn herze mich mir selben nam', literally 'my heart took me from myself', i.e. his resolve overcame his desire.",
+  "1011": "1013: 'genante' read as from genenden 'venture, take courage'; it could instead be 'named [it]'. 1037: 'brief', a written document, evidently a charm.",
+  "8537": "8537-8538: sense uncertain; taken as the narrator resuming the story where he left it. Briseida is the Briseis named earlier in the poem.",
+  "9878": "9882: literally 'his banner', meaning Diomedes's; the silk is Briseida's sleeve (stûche), carried as a token.",
+  "1542": "1577-1578: 'gesindelæhe', 'unvlætic' and 'unwæhe' are rendered approximately ('servant-folk', 'unkempt', 'shabby'). 1587: 'ûz der hant', literally 'out of the hand'.",
+  "2188": "2188: 'über allen den walt' is read with the next line (the spring's streams rang across the whole forest); it could instead close the previous sentence ('clear and cold beyond any in the forest').",
+  "2396": "Piro: Nestor's seat, presumably Pylos.",
+  "9363": "9366: 'denne des ir hier bereit sît' is unclear; perhaps 'than you are ready to believe here'.",
+  "10394": "10399: 'zuodrant' is uncertain; taken as 'was crushed, broken'.",
+  "13534": "13537: 'liebe er im gedâhte' is unclear: 'he thought fondly of him' (of Antilochus), or 'he looked forward to joy'.",
+  "15838": "Theanus: here a male priest; in the classical story the keeper of the Palladium is Theano, a priestess."
+ },
+ "nodes": [
+  {
+   "ref": "338",
+   "text": "and told them to turn away from there."
+  },
+  {
+   "ref": "339",
+   "text": "They took the oars in hand"
+  },
+  {
+   "ref": "340",
+   "text": "and turned toward the land of Troy."
+  },
+  {
+   "ref": "341",
+   "text": "They were in haste for the voyage."
+  },
+  {
+   "ref": "342",
+   "text": "A sweet wind came after them,"
+  },
+  {
+   "ref": "343",
+   "text": "very good for their ships,"
+  },
+  {
+   "ref": "344",
+   "text": "which drove them through the sea's flood"
+  },
+  {
+   "ref": "345",
+   "text": "very swiftly"
+  },
+  {
+   "ref": "346",
+   "text": "to Troy, into the kingdom"
+  },
+  {
+   "ref": "347",
+   "text": "where King Laomedon reigned."
+  },
+  {
+   "ref": "348",
+   "text": "Then Hercules and Jason ordered"
+  },
+  {
+   "ref": "349",
+   "text": "their sails struck."
+  },
+  {
+   "ref": "350",
+   "text": "They had found a harbour"
+  },
+  {
+   "ref": "351",
+   "text": "by a little stream,"
+  },
+  {
+   "ref": "352",
+   "text": "clear and very pure,"
+  },
+  {
+   "ref": "353",
+   "text": "fresh and good in every way."
+  },
+  {
+   "ref": "543",
+   "text": "The king had a daughter,"
+  },
+  {
+   "ref": "544",
+   "text": "very wise in counsel,"
+  },
+  {
+   "ref": "545",
+   "text": "as the book tells me;"
+  },
+  {
+   "ref": "546",
+   "text": "she was a very wise maiden,"
+  },
+  {
+   "ref": "547",
+   "text": "for she knew well"
+  },
+  {
+   "ref": "548",
+   "text": "all kinds of arts"
+  },
+  {
+   "ref": "549",
+   "text": "that on earth"
+  },
+  {
+   "ref": "550",
+   "text": "could ever be."
+  },
+  {
+   "ref": "551",
+   "text": "She knew medicine"
+  },
+  {
+   "ref": "552",
+   "text": "and necromancy,"
+  },
+  {
+   "ref": "553",
+   "text": "which is called the black books,"
+  },
+  {
+   "ref": "554",
+   "text": "in which one finds curses"
+  },
+  {
+   "ref": "555",
+   "text": "and conjurations:"
+  },
+  {
+   "ref": "556",
+   "text": "how, in wickedness,"
+  },
+  {
+   "ref": "557",
+   "text": "one conjures the evil spirits,"
+  },
+  {
+   "ref": "558",
+   "text": "so that one learns from them"
+  },
+  {
+   "ref": "559",
+   "text": "all that has happened,"
+  },
+  {
+   "ref": "560",
+   "text": "and how one can foresee"
+  },
+  {
+   "ref": "561",
+   "text": "many a thing that is to come."
+  },
+  {
+   "ref": "562",
+   "text": "Even now that art is learned"
+  },
+  {
+   "ref": "563",
+   "text": "in a city, at Toledo,"
+  },
+  {
+   "ref": "564",
+   "text": "which stands in Spain."
+  },
+  {
+   "ref": "565",
+   "text": "The maiden was called Medea."
+  },
+  {
+   "ref": "566",
+   "text": "Whether it were far or near,"
+  },
+  {
+   "ref": "567",
+   "text": "throughout the land,"
+  },
+  {
+   "ref": "568",
+   "text": "whatever human beings may know,"
+  },
+  {
+   "ref": "569",
+   "text": "that she could well know;"
+  },
+  {
+   "ref": "570",
+   "text": "she had applied herself to it so."
+  },
+  {
+   "ref": "571",
+   "text": "She conjured the water so that it went"
+  },
+  {
+   "ref": "572",
+   "text": "back to its source"
+  },
+  {
+   "ref": "573",
+   "text": "and shot uphill,"
+  },
+  {
+   "ref": "574",
+   "text": "though it had once flowed down."
+  },
+  {
+   "ref": "575",
+   "text": "By night she conjured the moon"
+  },
+  {
+   "ref": "576",
+   "text": "so that it went backward"
+  },
+  {
+   "ref": "577",
+   "text": "when it should have gone forward."
+  },
+  {
+   "ref": "578",
+   "text": "There was nothing in it; people fancied"
+  },
+  {
+   "ref": "579",
+   "text": "that it was so."
+  },
+  {
+   "ref": "580",
+   "text": "That is what sorcerers can do,"
+  },
+  {
+   "ref": "581",
+   "text": "and sorceresses."
+  },
+  {
+   "ref": "582",
+   "text": "Of arts of this kind"
+  },
+  {
+   "ref": "583",
+   "text": "the lady knew a great deal,"
+  },
+  {
+   "ref": "584",
+   "text": "both in earnest and in play."
+  },
+  {
+   "ref": "585",
+   "text": "When Medea heard"
+  },
+  {
+   "ref": "586",
+   "text": "that lord Jason had come there,"
+  },
+  {
+   "ref": "754",
+   "text": "Can anyone understand that?"
+  },
+  {
+   "ref": "755",
+   "text": "That is very strange."
+  },
+  {
+   "ref": "756",
+   "text": "I think the elves are deceiving me."
+  },
+  {
+   "ref": "757",
+   "text": "Does love make me rave?"
+  },
+  {
+   "ref": "758",
+   "text": "No, a spell has been put on me."
+  },
+  {
+   "ref": "759",
+   "text": "Yet it is no spell at all;"
+  },
+  {
+   "ref": "760",
+   "text": "it comes to me from love."
+  },
+  {
+   "ref": "761",
+   "text": "I can tell that well by this:"
+  },
+  {
+   "ref": "762",
+   "text": "my heart is like a coal."
+  },
+  {
+   "ref": "1011",
+   "text": "that is needed for it;"
+  },
+  {
+   "ref": "1012",
+   "text": "yet we shall get it."
+  },
+  {
+   "ref": "1013",
+   "text": "At once she then ventured [on it];"
+  },
+  {
+   "ref": "1014",
+   "text": "she kindled a light;"
+  },
+  {
+   "ref": "1015",
+   "text": "she brought out an image"
+  },
+  {
+   "ref": "1016",
+   "text": "sung over with her prayer,"
+  },
+  {
+   "ref": "1017",
+   "text": "bewitched and conjured;"
+  },
+  {
+   "ref": "1018",
+   "text": "it was good against wrath"
+  },
+  {
+   "ref": "1019",
+   "text": "and against other fierceness."
+  },
+  {
+   "ref": "1020",
+   "text": "She gave it to him; he was glad."
+  },
+  {
+   "ref": "1021",
+   "text": "She gave him an ointment"
+  },
+  {
+   "ref": "1022",
+   "text": "and told him to smear himself all over"
+  },
+  {
+   "ref": "1023",
+   "text": "with it, entirely:"
+  },
+  {
+   "ref": "1024",
+   "text": "wherever the fire flashed on him"
+  },
+  {
+   "ref": "1025",
+   "text": "it could do him no harm."
+  },
+  {
+   "ref": "1026",
+   "text": "Then out of her chest she gave him"
+  },
+  {
+   "ref": "1027",
+   "text": "a golden ring"
+  },
+  {
+   "ref": "1028",
+   "text": "that was to serve against spells"
+  },
+  {
+   "ref": "1029",
+   "text": "and was good against venom and poison,"
+  },
+  {
+   "ref": "1030",
+   "text": "against the dragon and against the fire's glow."
+  },
+  {
+   "ref": "1031",
+   "text": "He found one virtue in it:"
+  },
+  {
+   "ref": "1032",
+   "text": "whenever he closed it in his hand"
+  },
+  {
+   "ref": "1033",
+   "text": "so that on the ring's stone"
+  },
+  {
+   "ref": "1034",
+   "text": "no light shone,"
+  },
+  {
+   "ref": "1035",
+   "text": "this sign befell him:"
+  },
+  {
+   "ref": "1036",
+   "text": "that no one saw him."
+  },
+  {
+   "ref": "1037",
+   "text": "She also gave him a letter;"
+  },
+  {
+   "ref": "1038",
+   "text": "whoever saw him loved him"
+  },
+  {
+   "ref": "1542",
+   "text": "and charged at him on the battlefield."
+  },
+  {
+   "ref": "1543",
+   "text": "Yet he put himself on the defensive."
+  },
+  {
+   "ref": "1544",
+   "text": "Hercules rode among the host;"
+  },
+  {
+   "ref": "1545",
+   "text": "he struck and trampled;"
+  },
+  {
+   "ref": "1546",
+   "text": "he waded in the blood."
+  },
+  {
+   "ref": "1547",
+   "text": "At last he came charging"
+  },
+  {
+   "ref": "1548",
+   "text": "to where he found Laomedon,"
+  },
+  {
+   "ref": "1549",
+   "text": "sorrowful and in distress;"
+  },
+  {
+   "ref": "1550",
+   "text": "he struck his head off."
+  },
+  {
+   "ref": "1551",
+   "text": "He said, \"Let this be your toll,"
+  },
+  {
+   "ref": "1552",
+   "text": "which I owe you"
+  },
+  {
+   "ref": "1553",
+   "text": "from when I rode through your land"
+  },
+  {
+   "ref": "1554",
+   "text": "without doing harm or injury."
+  },
+  {
+   "ref": "1555",
+   "text": "What you sent to tell me then"
+  },
+  {
+   "ref": "1556",
+   "text": "I remember against you today"
+  },
+  {
+   "ref": "1557",
+   "text": "with a wrathful heart;"
+  },
+  {
+   "ref": "1558",
+   "text": "for that you lie in the blood.\""
+  },
+  {
+   "ref": "1559",
+   "text": "He turned his horse around;"
+  },
+  {
+   "ref": "1560",
+   "text": "by straight ways and crooked"
+  },
+  {
+   "ref": "1561",
+   "text": "he rode and charged"
+  },
+  {
+   "ref": "1562",
+   "text": "until he had wholly avenged his wrong."
+  },
+  {
+   "ref": "1563",
+   "text": "He struck down so many of them"
+  },
+  {
+   "ref": "1564",
+   "text": "that for the dead he could scarcely ride"
+  },
+  {
+   "ref": "1565",
+   "text": "back into the city."
+  },
+  {
+   "ref": "1566",
+   "text": "Those whom on the battlefield"
+  },
+  {
+   "ref": "1567",
+   "text": "he could not slay"
+  },
+  {
+   "ref": "1568",
+   "text": "had crept into the thickets."
+  },
+  {
+   "ref": "1569",
+   "text": "When the battle had been fought,"
+  },
+  {
+   "ref": "1570",
+   "text": "the Greeks all rode together"
+  },
+  {
+   "ref": "1571",
+   "text": "and paced into Troy"
+  },
+  {
+   "ref": "1572",
+   "text": "with clamour and with joy,"
+  },
+  {
+   "ref": "1573",
+   "text": "for nothing more welcome had ever befallen them."
+  },
+  {
+   "ref": "1574",
+   "text": "Then they took their ease."
+  },
+  {
+   "ref": "1575",
+   "text": "They came with shouting and with sport;"
+  },
+  {
+   "ref": "1576",
+   "text": "there they found nothing but womenfolk"
+  },
+  {
+   "ref": "1577",
+   "text": "and poor servant-folk,"
+  },
+  {
+   "ref": "1578",
+   "text": "unkempt and shabby,"
+  },
+  {
+   "ref": "1579",
+   "text": "of base kindred,"
+  },
+  {
+   "ref": "1580",
+   "text": "and wretched kitchen-boys."
+  },
+  {
+   "ref": "1581",
+   "text": "The ladies had fled;"
+  },
+  {
+   "ref": "1582",
+   "text": "how were they to act?"
+  },
+  {
+   "ref": "1583",
+   "text": "They did not know how to bear themselves."
+  },
+  {
+   "ref": "1584",
+   "text": "They sat in the temple,"
+  },
+  {
+   "ref": "1585",
+   "text": "at home, in desolation;"
+  },
+  {
+   "ref": "1586",
+   "text": "they leaned against the walls,"
+  },
+  {
+   "ref": "1587",
+   "text": "they bowed their cheeks into their hands;"
+  },
+  {
+   "ref": "1588",
+   "text": "their clothes were torn,"
+  },
+  {
+   "ref": "1589",
+   "text": "their headdresses snatched away,"
+  },
+  {
+   "ref": "1590",
+   "text": "their heads dishevelled,"
+  },
+  {
+   "ref": "1591",
+   "text": "their hair undressed."
+  },
+  {
+   "ref": "1592",
+   "text": "They said, \"Alas, unhappy year,"
+  },
+  {
+   "ref": "1593",
+   "text": "and alas, unhappy blow,"
+  },
+  {
+   "ref": "1594",
+   "text": "alas, unhappy day,"
+  },
+  {
+   "ref": "1595",
+   "text": "alas, unhappy time!"
+  },
+  {
+   "ref": "1596",
+   "text": "We have lost on every side;"
+  },
+  {
+   "ref": "1597",
+   "text": "our kinsmen have been slain."
+  },
+  {
+   "ref": "1598",
+   "text": "If we could make sure"
+  },
+  {
+   "ref": "1599",
+   "text": "that no wrongful violence"
+  },
+  {
+   "ref": "1600",
+   "text": "would be done to us here,"
+  },
+  {
+   "ref": "1601",
+   "text": "we would lament no more."
+  },
+  {
+   "ref": "1602",
+   "text": "Now we are in pain on every side.\""
+  },
+  {
+   "ref": "1603",
+   "text": "The lords then came;"
+  },
+  {
+   "ref": "1604",
+   "text": "they took them by force."
+  },
+  {
+   "ref": "1605",
+   "text": "Not one of them was spared"
+  },
+  {
+   "ref": "1606",
+   "text": "from having violence done to her."
+  },
+  {
+   "ref": "1607",
+   "text": "Telamon took with him"
+  },
+  {
+   "ref": "1608",
+   "text": "the king's daughter Hesione,"
+  },
+  {
+   "ref": "1609",
+   "text": "a beautiful young lady;"
+  },
+  {
+   "ref": "1610",
+   "text": "she was given to him as a reward"
+  },
+  {
+   "ref": "1611",
+   "text": "because he charged foremost"
+  },
+  {
+   "ref": "1612",
+   "text": "when the city was won."
+  },
+  {
+   "ref": "1613",
+   "text": "He was very glad of her."
+  },
+  {
+   "ref": "1614",
+   "text": "From that came great grief."
+  },
+  {
+   "ref": "1615",
+   "text": "He wanted to have her as a concubine;"
+  },
+  {
+   "ref": "1616",
+   "text": "that later came to vex her kinsmen."
+  },
+  {
+   "ref": "1617",
+   "text": "Dares has written thus:"
+  },
+  {
+   "ref": "1618",
+   "text": "for a month afterwards they remained"
+  },
+  {
+   "ref": "1619",
+   "text": "in Troy, the strangers,"
+  },
+  {
+   "ref": "1664",
+   "text": "He had five sons and three daughters."
+  },
+  {
+   "ref": "1665",
+   "text": "Of the sons, three were called thus:"
+  },
+  {
+   "ref": "1666",
+   "text": "Hector, Paris, Helenus;"
+  },
+  {
+   "ref": "1667",
+   "text": "the fourth was called Deiphobus,"
+  },
+  {
+   "ref": "1668",
+   "text": "and the fifth Troilus."
+  },
+  {
+   "ref": "1669",
+   "text": "They were all men of excellence."
+  },
+  {
+   "ref": "1670",
+   "text": "Hector had strength,"
+  },
+  {
+   "ref": "2188",
+   "text": "all over the forest"
+  },
+  {
+   "ref": "2189",
+   "text": "its streams rang out."
+  },
+  {
+   "ref": "2190",
+   "text": "There I cooled my tongue;"
+  },
+  {
+   "ref": "2191",
+   "text": "I splashed my eyes;"
+  },
+  {
+   "ref": "2192",
+   "text": "I fanned the breeze toward myself."
+  },
+  {
+   "ref": "2193",
+   "text": "As I was cooling myself thus,"
+  },
+  {
+   "ref": "2194",
+   "text": "there came lady Venus,"
+  },
+  {
+   "ref": "2195",
+   "text": "Pallas and Juno;"
+  },
+  {
+   "ref": "2196",
+   "text": "their splendour shone so"
+  },
+  {
+   "ref": "2197",
+   "text": "that I thought in the spring"
+  },
+  {
+   "ref": "2198",
+   "text": "three suns were shining."
+  },
+  {
+   "ref": "2199",
+   "text": "They had been sent to me."
+  },
+  {
+   "ref": "2200",
+   "text": "They carried an apple in hand;"
+  },
+  {
+   "ref": "2201",
+   "text": "it was of gold, all red."
+  },
+  {
+   "ref": "2202",
+   "text": "Each of them offered me her gift"
+  },
+  {
+   "ref": "2203",
+   "text": "so that I would judge"
+  },
+  {
+   "ref": "2204",
+   "text": "which among the ladies"
+  },
+  {
+   "ref": "2205",
+   "text": "was the most beautiful of all."
+  },
+  {
+   "ref": "2206",
+   "text": "Juno offered this honour:"
+  },
+  {
+   "ref": "2207",
+   "text": "\"I will make you rich forever.\""
+  },
+  {
+   "ref": "2208",
+   "text": "Pallas, knowledge and skill;"
+  },
+  {
+   "ref": "2209",
+   "text": "Venus offered as a reward"
+  },
+  {
+   "ref": "2210",
+   "text": "a woman so beautiful"
+  },
+  {
+   "ref": "2211",
+   "text": "that nowhere would there be any"
+  },
+  {
+   "ref": "2396",
+   "text": "Nestor had sent for him"
+  },
+  {
+   "ref": "2397",
+   "text": "to come to Piro"
+  },
+  {
+   "ref": "2398",
+   "text": "and hear from him"
+  },
+  {
+   "ref": "2399",
+   "text": "a very good piece of news;"
+  },
+  {
+   "ref": "2400",
+   "text": "I do not know what it was."
+  },
+  {
+   "ref": "2401",
+   "text": "The king was in haste to reach Piro."
+  },
+  {
+   "ref": "2402",
+   "text": "His wife was called Helen;"
+  },
+  {
+   "ref": "2403",
+   "text": "she was the beautiful woman"
+  },
+  {
+   "ref": "2404",
+   "text": "whom, as a reward to Paris,"
+  },
+  {
+   "ref": "2405",
+   "text": "Venus had promised"
+  },
+  {
+   "ref": "2406",
+   "text": "for that decision,"
+  },
+  {
+   "ref": "2407",
+   "text": "because he awarded her the apple,"
+  },
+  {
+   "ref": "8142",
+   "text": "So the time passed"
+  },
+  {
+   "ref": "8143",
+   "text": "while their truce lasted."
+  },
+  {
+   "ref": "8144",
+   "text": "Meanwhile Calchas lamented"
+  },
+  {
+   "ref": "8145",
+   "text": "that he had in the city"
+  },
+  {
+   "ref": "8146",
+   "text": "a daughter, very constant,"
+  },
+  {
+   "ref": "8147",
+   "text": "beautiful, courtly and wise,"
+  },
+  {
+   "ref": "8148",
+   "text": "who was called Briseis;"
+  },
+  {
+   "ref": "8149",
+   "text": "she could not stay there:"
+  },
+  {
+   "ref": "8150",
+   "text": "they wanted to drive her out"
+  },
+  {
+   "ref": "8151",
+   "text": "on account of their goddess"
+  },
+  {
+   "ref": "8152",
+   "text": "whom they had in there."
+  },
+  {
+   "ref": "8153",
+   "text": "They complained every day"
+  },
+  {
+   "ref": "8537",
+   "text": "Now I have got no further"
+  },
+  {
+   "ref": "8538",
+   "text": "than you have heard before:"
+  },
+  {
+   "ref": "8539",
+   "text": "Troilus and Briseida"
+  },
+  {
+   "ref": "8540",
+   "text": "parted there"
+  },
+  {
+   "ref": "8541",
+   "text": "with such sorrow"
+  },
+  {
+   "ref": "8542",
+   "text": "that, had they been about to die"
+  },
+  {
+   "ref": "8543",
+   "text": "and end their lives,"
+  },
+  {
+   "ref": "8544",
+   "text": "it would have been far better for them."
+  },
+  {
+   "ref": "8545",
+   "text": "Menestheus and Telamon"
+  },
+  {
+   "ref": "8546",
+   "text": "and lord Tydeus's son,"
+  },
+  {
+   "ref": "8547",
+   "text": "duke Diomedes,"
+  },
+  {
+   "ref": "8548",
+   "text": "and the wise Ulysses,"
+  },
+  {
+   "ref": "8549",
+   "text": "and many another man"
+  },
+  {
+   "ref": "9363",
+   "text": "however it may please you;"
+  },
+  {
+   "ref": "9364",
+   "text": "it may well be true all the same."
+  },
+  {
+   "ref": "9365",
+   "text": "I have read of greater things"
+  },
+  {
+   "ref": "9366",
+   "text": "than what you have before you here."
+  },
+  {
+   "ref": "9367",
+   "text": "By God's command, at that time,"
+  },
+  {
+   "ref": "9368",
+   "text": "the devil spoke out of the images"
+  },
+  {
+   "ref": "9369",
+   "text": "and foretold whatever came to pass."
+  },
+  {
+   "ref": "9370",
+   "text": "He worked many a wonder,"
+  },
+  {
+   "ref": "9371",
+   "text": "which was written of him."
+  },
+  {
+   "ref": "9372",
+   "text": "From that came down to us the magic art"
+  },
+  {
+   "ref": "9373",
+   "text": "that is called *nigromantia* [necromancy],"
+  },
+  {
+   "ref": "9374",
+   "text": "as you have heard before."
+  },
+  {
+   "ref": "9375",
+   "text": "In the chamber lay Hector"
+  },
+  {
+   "ref": "9878",
+   "text": "Troilus began the fight"
+  },
+  {
+   "ref": "9879",
+   "text": "with Diomedes."
+  },
+  {
+   "ref": "9880",
+   "text": "It grieved him sorely"
+  },
+  {
+   "ref": "9881",
+   "text": "that his woman's silk"
+  },
+  {
+   "ref": "9882",
+   "text": "should be the other's banner."
+  },
+  {
+   "ref": "9883",
+   "text": "He saw there by the sleeve"
+  },
+  {
+   "ref": "9884",
+   "text": "that his beloved Briseida"
+  },
+  {
+   "ref": "9885",
+   "text": "would soon do his will"
+  },
+  {
+   "ref": "9886",
+   "text": "or had done it."
+  },
+  {
+   "ref": "9887",
+   "text": "They both had great hatred:"
+  },
+  {
+   "ref": "9888",
+   "text": "Troilus because"
+  },
+  {
+   "ref": "9889",
+   "text": "the other wanted to have his woman;"
+  },
+  {
+   "ref": "10394",
+   "text": "The silk turned red"
+  },
+  {
+   "ref": "10395",
+   "text": "that should have been white."
+  },
+  {
+   "ref": "10396",
+   "text": "Achilles made it plain"
+  },
+  {
+   "ref": "10397",
+   "text": "that he was the stronger."
+  },
+  {
+   "ref": "10398",
+   "text": "He threw him onto the grass"
+  },
+  {
+   "ref": "10399",
+   "text": "so that he was utterly broken,"
+  },
+  {
+   "ref": "10400",
+   "text": "and came charging at him;"
+  },
+  {
+   "ref": "10401",
+   "text": "he struck him and trampled [him];"
+  },
+  {
+   "ref": "10402",
+   "text": "in no way did he let him"
+  },
+  {
+   "ref": "10403",
+   "text": "raise himself up."
+  },
+  {
+   "ref": "10404",
+   "text": "His eyes grew dim,"
+  },
+  {
+   "ref": "10405",
+   "text": "his nose began to pale;"
+  },
+  {
+   "ref": "10406",
+   "text": "that was a bitter sign."
+  },
+  {
+   "ref": "10407",
+   "text": "His hands went slack;"
+  },
+  {
+   "ref": "10408",
+   "text": "Hector met his end."
+  },
+  {
+   "ref": "10409",
+   "text": "When he saw him die,"
+  },
+  {
+   "ref": "10410",
+   "text": "Achilles spoke to him thus:"
+  },
+  {
+   "ref": "10411",
+   "text": "\"May God keep you;"
+  },
+  {
+   "ref": "10412",
+   "text": "may your soul fare well."
+  },
+  {
+   "ref": "10413",
+   "text": "You were, among your kindred,"
+  },
+  {
+   "ref": "10414",
+   "text": "comfort and joy"
+  },
+  {
+   "ref": "10415",
+   "text": "to your friends one and all,"
+  },
+  {
+   "ref": "10416",
+   "text": "great and small,"
+  },
+  {
+   "ref": "10417",
+   "text": "poor and rich,"
+  },
+  {
+   "ref": "10418",
+   "text": "all of them alike,"
+  },
+  {
+   "ref": "10419",
+   "text": "father, mother, wife, child,"
+  },
+  {
+   "ref": "10420",
+   "text": "brother, sister, and those there are"
+  },
+  {
+   "ref": "10421",
+   "text": "whom you were to protect;"
+  },
+  {
+   "ref": "10422",
+   "text": "they will not get over your death,"
+  },
+  {
+   "ref": "10423",
+   "text": "ever again."
+  },
+  {
+   "ref": "10424",
+   "text": "I think the world will sooner perish"
+  },
+  {
+   "ref": "10425",
+   "text": "than your like is born."
+  },
+  {
+   "ref": "10426",
+   "text": "You have lost your life here"
+  },
+  {
+   "ref": "10427",
+   "text": "for loyalty and for honour."
+  },
+  {
+   "ref": "10428",
+   "text": "God have mercy on you forever more.\""
+  },
+  {
+   "ref": "10429",
+   "text": "Then the Trojans cried out;"
+  },
+  {
+   "ref": "10430",
+   "text": "they threw the banners"
+  },
+  {
+   "ref": "10431",
+   "text": "on the ground."
+  },
+  {
+   "ref": "10432",
+   "text": "From sorrow and from pain"
+  },
+  {
+   "ref": "10433",
+   "text": "they were all disheartened."
+  },
+  {
+   "ref": "10434",
+   "text": "Achilles came chasing after them;"
+  },
+  {
+   "ref": "10435",
+   "text": "there were slain and trampled"
+  },
+  {
+   "ref": "10436",
+   "text": "five hundred before the city,"
+  },
+  {
+   "ref": "10437",
+   "text": "who all fell"
+  },
+  {
+   "ref": "10438",
+   "text": "after Hector's fall."
+  },
+  {
+   "ref": "10439",
+   "text": "The land suffered harm from it,"
+  },
+  {
+   "ref": "10440",
+   "text": "this great calamity"
+  },
+  {
+   "ref": "10441",
+   "text": "and many another hardship"
+  },
+  {
+   "ref": "10442",
+   "text": "that later came about for this cause:"
+  },
+  {
+   "ref": "10443",
+   "text": "because Hector had fallen."
+  },
+  {
+   "ref": "10444",
+   "text": "The distress became so manifold"
+  },
+  {
+   "ref": "10445",
+   "text": "that I could not tell it"
+  },
+  {
+   "ref": "10446",
+   "text": "even if I had ten mouths."
+  },
+  {
+   "ref": "10447",
+   "text": "When Hector lay dead,"
+  },
+  {
+   "ref": "10448",
+   "text": "many a worthy warrior lamented"
+  },
+  {
+   "ref": "10449",
+   "text": "because their lord lay dead;"
+  },
+  {
+   "ref": "10450",
+   "text": "the whole land was struck with dread,"
+  },
+  {
+   "ref": "11258",
+   "text": "ever, for my sake."
+  },
+  {
+   "ref": "11259",
+   "text": "I must always be well disposed to you;"
+  },
+  {
+   "ref": "11260",
+   "text": "you have well deserved that."
+  },
+  {
+   "ref": "11261",
+   "text": "You were always close to me."
+  },
+  {
+   "ref": "11262",
+   "text": "So [help] you God, now see"
+  },
+  {
+   "ref": "11263",
+   "text": "how I set about my course:"
+  },
+  {
+   "ref": "11264",
+   "text": "unless Polyxena becomes mine,"
+  },
+  {
+   "ref": "11265",
+   "text": "nothing else is left for it"
+  },
+  {
+   "ref": "11266",
+   "text": "but that I take my own life."
+  },
+  {
+   "ref": "11267",
+   "text": "Now go away quickly,"
+  },
+  {
+   "ref": "11268",
+   "text": "so that I may keep my life,"
+  },
+  {
+   "ref": "13201",
+   "text": "the Greeks with clamour,"
+  },
+  {
+   "ref": "13202",
+   "text": "the others for the fall,"
+  },
+  {
+   "ref": "13203",
+   "text": "because Troilus was slain."
+  },
+  {
+   "ref": "13204",
+   "text": "He fell dead on the grass,"
+  },
+  {
+   "ref": "13205",
+   "text": "all hacked to pieces."
+  },
+  {
+   "ref": "13206",
+   "text": "At that the ladies cried out"
+  },
+  {
+   "ref": "13534",
+   "text": "Achilles started up from his sleep."
+  },
+  {
+   "ref": "13535",
+   "text": "When he understood the message,"
+  },
+  {
+   "ref": "13536",
+   "text": "he quickly stood up."
+  },
+  {
+   "ref": "13537",
+   "text": "Fondly he thought of him:"
+  },
+  {
+   "ref": "13538",
+   "text": "he woke Antilochus,"
+  },
+  {
+   "ref": "15626",
+   "text": "those who had never seen it."
+  },
+  {
+   "ref": "15627",
+   "text": "As long as we have the image here"
+  },
+  {
+   "ref": "15628",
+   "text": "within our moats,"
+  },
+  {
+   "ref": "15629",
+   "text": "we will hold it for certain"
+  },
+  {
+   "ref": "15630",
+   "text": "that our city will not come to grief."
+  },
+  {
+   "ref": "15631",
+   "text": "I do not know what more to say."
+  },
+  {
+   "ref": "15632",
+   "text": "Pallas sent it here;"
+  },
+  {
+   "ref": "15633",
+   "text": "it is called the Palladium."
+  },
+  {
+   "ref": "15634",
+   "text": "We worship it in here"
+  },
+  {
+   "ref": "15635",
+   "text": "with affection and with love"
+  },
+  {
+   "ref": "15636",
+   "text": "and with great honours."
+  },
+  {
+   "ref": "15637",
+   "text": "As for our being captured:"
+  },
+  {
+   "ref": "15638",
+   "text": "as long as this image is in here"
+  },
+  {
+   "ref": "15639",
+   "text": "there is no stratagem for it"
+  },
+  {
+   "ref": "15838",
+   "text": "and they all believed"
+  },
+  {
+   "ref": "15839",
+   "text": "that it would go well."
+  },
+  {
+   "ref": "15840",
+   "text": "Very late that night,"
+  },
+  {
+   "ref": "15841",
+   "text": "when people had gone to bed,"
+  },
+  {
+   "ref": "15842",
+   "text": "Antenor went into the temple"
+  },
+  {
+   "ref": "15843",
+   "text": "where the priest Theanus"
+  },
+  {
+   "ref": "15844",
+   "text": "guarded their sacred object,"
+  },
+  {
+   "ref": "15845",
+   "text": "which was called the Palladium —"
+  },
+  {
+   "ref": "15846",
+   "text": "though it may rather have been the devil;"
+  },
+  {
+   "ref": "15847",
+   "text": "we have read much about it,"
+  },
+  {
+   "ref": "15848",
+   "text": "what wonders came of it."
+  },
+  {
+   "ref": "15849",
+   "text": "Antenor said to the priest,"
+  },
+  {
+   "ref": "15850",
+   "text": "\"You have clearly seen today"
+  },
+  {
+   "ref": "15851",
+   "text": "what has happened to our sacrifice,"
+  },
+  {
+   "ref": "17629",
+   "text": "She had a peculiar nature,"
+  },
+  {
+   "ref": "17630",
+   "text": "and a life unlike other women's."
+  },
+  {
+   "ref": "17631",
+   "text": "Circe knew how to give potions,"
+  },
+  {
+   "ref": "17632",
+   "text": "such magic, such food,"
+  },
+  {
+   "ref": "17633",
+   "text": "that there was never anyone so wise"
+  },
+  {
+   "ref": "17634",
+   "text": "who tasted of her things —"
+  },
+  {
+   "ref": "17635",
+   "text": "I have tried it until I know it;"
+  },
+  {
+   "ref": "17636",
+   "text": "I say this in truth —"
+  },
+  {
+   "ref": "17637",
+   "text": "[but] he was caught in such a snare"
+  },
+  {
+   "ref": "17638",
+   "text": "that he had to stay in it."
+  },
+  {
+   "ref": "17639",
+   "text": "She could work wonders."
+  },
+  {
+   "ref": "17640",
+   "text": "I must tell still more of her:"
+  },
+  {
+   "ref": "17641",
+   "text": "she had such a greeting,"
+  },
+  {
+   "ref": "17642",
+   "text": "such bearing, such words,"
+  },
+  {
+   "ref": "17643",
+   "text": "that whoever had heard it"
+  },
+  {
+   "ref": "17644",
+   "text": "as I have heard it"
+  },
+  {
+   "ref": "17645",
+   "text": "would have had to stay there forever."
+  },
+  {
+   "ref": "17646",
+   "text": "I say nothing of all her magic arts:"
+  },
+  {
+   "ref": "17647",
+   "text": "Circe is so made by nature"
+  },
+  {
+   "ref": "17648",
+   "text": "that she wants man after man;"
+  },
+  {
+   "ref": "17649",
+   "text": "no one can guard himself"
+  },
+  {
+   "ref": "17650",
+   "text": "from having to stay there"
+  },
+  {
+   "ref": "17651",
+   "text": "with her and with her women."
+  },
+  {
+   "ref": "17652",
+   "text": "She gave me drink; when I had drunk,"
+  },
+  {
+   "ref": "17653",
+   "text": "I had, against my will,"
+  },
+  {
+   "ref": "17654",
+   "text": "to think of her love."
+  },
+  {
+   "ref": "17655",
+   "text": "My thoughts were fixed"
+  },
+  {
+   "ref": "17656",
+   "text": "from then on, at all times, on her;"
+  },
+  {
+   "ref": "17657",
+   "text": "I could never forget her."
+  },
+  {
+   "ref": "17658",
+   "text": "When I had eaten her food,"
+  },
+  {
+   "ref": "17659",
+   "text": "I forgot all the women"
+  },
+  {
+   "ref": "17660",
+   "text": "I had ever known before."
+  },
+  {
+   "ref": "17661",
+   "text": "The more often I looked at her,"
+  },
+  {
+   "ref": "17662",
+   "text": "the more pleasing the sight was to me."
+  },
+  {
+   "ref": "17663",
+   "text": "Why say more? It happened to me"
+  },
+  {
+   "ref": "17664",
+   "text": "as it had happened to many."
+  },
+  {
+   "ref": "17665",
+   "text": "I will also grant her this:"
+  },
+  {
+   "ref": "17666",
+   "text": "no sweeter woman was ever born."
+  },
+  {
+   "ref": "17667",
+   "text": "She had chosen me for it, too,"
+  },
+  {
+   "ref": "17668",
+   "text": "and said that I was"
+  },
+  {
+   "ref": "17669",
+   "text": "the best lover"
+  },
+  {
+   "ref": "17670",
+   "text": "who had ever lain with her."
+  },
+  {
+   "ref": "17671",
+   "text": "I stayed there many a day."
+  },
+  {
+   "ref": "17672",
+   "text": "Hear how I came away from there:"
+  },
+  {
+   "ref": "17673",
+   "text": "my heart took me from myself;"
+  },
+  {
+   "ref": "17674",
+   "text": "from this I know well that magic"
+  },
+  {
+   "ref": "17675",
+   "text": "is a wind against a man's heart."
+  },
+  {
+   "ref": "17676",
+   "text": "I held to my manhood"
+  },
+  {
+   "ref": "17677",
+   "text": "and left the softness"
+  },
+  {
+   "ref": "17678",
+   "text": "that had led me astray."
+  },
+  {
+   "ref": "17679",
+   "text": "However unwillingly I did it,"
+  },
+  {
+   "ref": "17680",
+   "text": "my heart did a hard thing."
+  },
+  {
+   "ref": "17681",
+   "text": "Neither magic, poison nor entreaty"
+  },
+  {
+   "ref": "17682",
+   "text": "could hold me back."
+  },
+  {
+   "ref": "17683",
+   "text": "I left it to God's will"
+  },
+  {
+   "ref": "17684",
+   "text": "and turned away from there and went on"
+  },
+  {
+   "ref": "18272",
+   "text": "Then he built a stronghold"
+  },
+  {
+   "ref": "18273",
+   "text": "such that he knew well"
+  },
+  {
+   "ref": "18274",
+   "text": "that had all the world come there,"
+  },
+  {
+   "ref": "18275",
+   "text": "they could not have taken him there."
+  },
+  {
+   "ref": "18276",
+   "text": "It has been told above"
+  }
+ ]
+}

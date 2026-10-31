@@ -1,0 +1,33 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0385.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg0385.tlg001.ai-claude",
+ "source_edition": "tlg0385.tlg001.perseus-grc2",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Historia Romana: AI translation (Claude)",
+  "author": "Cassius Dio Cocceianus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0385.tlg001.perseus-grc2, from the Perseus Digital Library (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0385.tlg001.perseus-grc2.49.43.5.1": "The unit begins and ends mid-sentence; the verb of the last clause ('was granted') falls in the following passage.",
+  "urn:cts:greekLit:tlg0385.tlg001.perseus-grc2.52.36.3.1": "The unit begins mid-sentence ('So do not allow any atheist' stands in the preceding passage) and ends mid-sentence; 'many', the object of the final verb, is in this unit, but the verb ('stir up to revolution') is in the next."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0385.tlg001.perseus-grc2.49.43.5.1",
+   "text": "set [them] out and allowed [the people] to carry [them] off as plunder. Agrippa, then, was doing these things, and he also drove the astrologers and the sorcerers out of the city; and about the same days a decree was passed that no one belonging to the senate should be tried for brigandage, and so those who were then under some such charge were released, and for the future impunity for some to commit crimes"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0385.tlg001.perseus-grc2.52.36.3.1",
+   "text": "anyone, nor any sorcerer, to exist. For divination is necessary, and by all means appoint some men as inspectors of sacrifices and as augurs, to whom those who wish to consult about anything may resort; but magicians ought not to exist at all. For such men often, telling some things that are true but more things that are"
+  }
+ ]
+}

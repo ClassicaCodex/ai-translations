@@ -1,0 +1,2306 @@
+{
+ "work_urn": "urn:geste:ed-huong",
+ "edition_urn": "urn:geste:ed-huong.ai-claude",
+ "source_edition": "urn:geste:ed-huong:dipl",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Huon de Bordeaux (G): AI translation (Claude)",
+  "author": "Anonymous",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:geste:ed-huong:dipl, from the Geste corpus of chansons de geste, Camps et al. (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Geste corpus of chansons de geste, Camps et al. and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "3644": "3655: 'enviré' is uncertain: he circled it, or turned it, three times. 3719: '. cm .' read as a hundred thousand. 3722: 'si cier que t'as de m'amor desevrer' is unclear; taken as an appeal to how much Huon would hate to lose Oberon's love. 3727: 'tu te pues bien vanter', literally 'you may well boast', taken as 'you may be sure'.",
+  "10353": "10357, 10362: 'souhaide' (I wish) is Oberon's way of bringing things about by wishing them. 10393: 'j'oi' is supplied by the edition. 10406: the subject is unstated; probably God, possibly Huon.",
+  "4": "Line 10: the text reads '10Qui'; the '10' is a line number run into the text and is not translated.",
+  "3492": "3497: the text reads 'lui conçus', taken as 'fui conçus' (I was conceived).",
+  "3607": "3609: 'Li arc d'Amors' taken as the bows of Love worked into the chair; 'arc' could also mean arches.",
+  "4923": "4925: the edition brackets 'quant il doit ajorner' with a stray 'b' before it, perhaps a siglum or marker. 'Le jor li traient', literally 'they draw the day for him', is uncertain; probably they sing in the dawn.",
+  "2318": "2329 parjurés, literally 'forsworn': the sense seems to be that Huon will no longer stand as an oath-breaker toward Charlemagne. Charlemagne moves between tu and vous in this speech; English 'you' does not show it.",
+  "5529": "5537 'Dont pert le voie': pert is taken from perdre, 'loses'; it could be from paroir, giving 'then the road to the palace appears'. 5549 S'est read as C'est.",
+  "3159": "3171 esperés is doubtful: taken as 'roused, stirred' (esperir); it might mean 'filled with hope' or 'bewildered'. 3186 and 3192: the bracketed restorations begin with a stray 'b' from the transcription ([ben soi taire], [bsont plus aresté]), read as [en soi taire] and [sont plus aresté].",
+  "4561": "4564 and 4566: the men are of copper; 'Tout sont de fer' seems to refer to the flails. 4567 'y ver' read as iver, 'winter'. 4573 Orgilleus means 'the Proud One'.",
+  "5053": "5057 kavece: the neck-opening (chevece) of the hauberk. 5065 Avoir read as Avoit, 'had'. 5074 'je le n'ai esprové': odd word order, read as 'I have not tried it'.",
+  "10193": "10200 Geramme (Gerame in the context) is a spelling of Geriaume. 10198 Li rois is taken as Oberon. 10222 crimineus agrees with an unstated pecié, 'sin', supplied in brackets.",
+  "8994": "9002 li desvés, 'the mad, the raging', is an epithet of Gerard (Gerars, Girars); its exact force here is unclear.",
+  "3331": "3343 'tu ne dis mie asés', literally 'you do not say enough', taken in its idiomatic sense 'you speak amiss'.",
+  "5344": "5350 luiton: a sprite or goblin (lutin); Malabron takes on a sea creature's skin to carry Huon (5360, 5364). 5351 Huelins is a diminutive of Huon, rendered 'young Huon'. 5362-5363 read as 'cross yourself ... so that God may lead us', with 'ne poras mescaver' as an aside."
+ },
+ "nodes": [
+  {
+   "ref": "4",
+   "text": "of Charlemagne of the steadfast heart,"
+  },
+  {
+   "ref": "5",
+   "text": "and of Huon, who had such great valour,"
+  },
+  {
+   "ref": "6",
+   "text": "and of Oberon, the little wild king,"
+  },
+  {
+   "ref": "7",
+   "text": "who spent all his days living in the woods."
+  },
+  {
+   "ref": "8",
+   "text": "This Oberon, who had such great lordship,"
+  },
+  {
+   "ref": "9",
+   "text": "know that he was the son of Julius Caesar,"
+  },
+  {
+   "ref": "10",
+   "text": "who held Hungary, a wild land,"
+  },
+  {
+   "ref": "11",
+   "text": "and Austria and all that inheritance."
+  },
+  {
+   "ref": "12",
+   "text": "He held Constantinople all his life;"
+  },
+  {
+   "ref": "13",
+   "text": "he had seven great leagues of wall built,"
+  },
+  {
+   "ref": "14",
+   "text": "which still stand as far as the wild sea."
+  },
+  {
+   "ref": "15",
+   "text": "Julius had as his wife a very wise lady,"
+  },
+  {
+   "ref": "16",
+   "text": "Morgan was her name, she had a very fair face;"
+  },
+  {
+   "ref": "17",
+   "text": "she was the mother of Oberon the wild,"
+  },
+  {
+   "ref": "18",
+   "text": "and she had no other heir in all her life."
+  },
+  {
+   "ref": "19",
+   "text": "Now you shall hear a song of proud baronial deeds."
+  },
+  {
+   "ref": "20",
+   "text": "Lords, listen, and may God help you!"
+  },
+  {
+   "ref": "21",
+   "text": "Be at peace, and leave off your noise;"
+  },
+  {
+   "ref": "22",
+   "text": "and you will hear a song well worth praising,"
+  },
+  {
+   "ref": "23",
+   "text": "of Charlemagne, who has France in his keeping,"
+  },
+  {
+   "ref": "24",
+   "text": "and of Huon, the noble warrior,"
+  },
+  {
+   "ref": "25",
+   "text": "who held Bordeaux and the great inheritance,"
+  },
+  {
+   "ref": "26",
+   "text": "and of Oberon, the noble knight;"
+  },
+  {
+   "ref": "27",
+   "text": "standing upright he was no more than three feet tall,"
+  },
+  {
+   "ref": "28",
+   "text": "and he was enchanted, know it for truth."
+  },
+  {
+   "ref": "29",
+   "text": "It was at Pentecost, the high, great feast day,"
+  },
+  {
+   "ref": "30",
+   "text": "that Charles of the fierce face held his court at Paris."
+  },
+  {
+   "ref": "2318",
+   "text": "Than to go into hell to speak with the devils;"
+  },
+  {
+   "ref": "2319",
+   "text": "For you will have to go to such a place"
+  },
+  {
+   "ref": "2320",
+   "text": "If you want to be reconciled with me."
+  },
+  {
+   "ref": "2321",
+   "text": "I have sent fifteen messengers there,"
+  },
+  {
+   "ref": "2322",
+   "text": "And I never saw a single one of them come back."
+  },
+  {
+   "ref": "2323",
+   "text": "It is straight across the Red Sea,"
+  },
+  {
+   "ref": "2324",
+   "text": "In Babylon, the wondrous city."
+  },
+  {
+   "ref": "2325",
+   "text": "There you must carry my message;"
+  },
+  {
+   "ref": "2326",
+   "text": "You will have to speak to King Gaudisse."
+  },
+  {
+   "ref": "2327",
+   "text": "If you can do what you will hear me tell,"
+  },
+  {
+   "ref": "2328",
+   "text": "And can ever return to France again,"
+  },
+  {
+   "ref": "2329",
+   "text": "You will not be [held] forsworn toward me."
+  },
+  {
+   "ref": "2330",
+   "text": "When you are across the Red Sea"
+  },
+  {
+   "ref": "2331",
+   "text": "And you come into the good city,"
+  },
+  {
+   "ref": "2332",
+   "text": "You must both pledge and swear"
+  },
+  {
+   "ref": "2333",
+   "text": "That you will wait to enter the palace"
+  },
+  {
+   "ref": "2334",
+   "text": "Until the emir is seated at dinner."
+  },
+  {
+   "ref": "2335",
+   "text": "And after that you will go up into the palace"
+  },
+  {
+   "ref": "2336",
+   "text": "In just the way you will hear me tell you:"
+  },
+  {
+   "ref": "2337",
+   "text": "Hauberk on, jewelled helmet laced,"
+  },
+  {
+   "ref": "2338",
+   "text": "You will have to carry the naked sword,"
+  },
+  {
+   "ref": "2339",
+   "text": "And the first man you find at the meal,"
+  },
+  {
+   "ref": "2340",
+   "text": "He will never be so noble or so well connected"
+  },
+  {
+   "ref": "2341",
+   "text": "That you do not cut off his head at once."
+  },
+  {
+   "ref": "2342",
+   "text": "And after that you will have to do something else:"
+  },
+  {
+   "ref": "2343",
+   "text": "Gaudisse the emir has a daughter,"
+  },
+  {
+   "ref": "2344",
+   "text": "That is Esclarmonde, who has such great beauty;"
+  },
+  {
+   "ref": "2345",
+   "text": "You must pledge and promise"
+  },
+  {
+   "ref": "2346",
+   "text": "That in sight of all you will kiss her three times,"
+  },
+  {
+   "ref": "2347",
+   "text": "And after that you will deliver my message"
+  },
+  {
+   "ref": "2348",
+   "text": "To the emir, in sight of all his barons."
+  },
+  {
+   "ref": "2349",
+   "text": "On my behalf you will ask the emir"
+  },
+  {
+   "ref": "2350",
+   "text": "To send me a thousand moulted sparrowhawks,"
+  },
+  {
+   "ref": "2351",
+   "text": "A thousand bears, a thousand boarhounds well chained,"
+  },
+  {
+   "ref": "2352",
+   "text": "And a thousand squires, all young men,"
+  },
+  {
+   "ref": "2353",
+   "text": "And a thousand maidens of great beauty,"
+  },
+  {
+   "ref": "2354",
+   "text": "And from his beard the white grizzled whiskers,"
+  },
+  {
+   "ref": "2355",
+   "text": "And from his mouth four molar teeth.'"
+  },
+  {
+   "ref": "2356",
+   "text": "The French say: 'You want to kill him!'"
+  },
+  {
+   "ref": "2357",
+   "text": "'By God,' said Charles, 'you speak the truth!'"
+  },
+  {
+   "ref": "2528",
+   "text": "I knew nothing of it, so may God save me,"
+  },
+  {
+   "ref": "2529",
+   "text": "and then I saw my brother lying in the middle of the meadow;"
+  },
+  {
+   "ref": "2530",
+   "text": "know for truth, my heart was full of anger."
+  },
+  {
+   "ref": "2531",
+   "text": "I went forward, my inscribed blade all bare;"
+  },
+  {
+   "ref": "2532",
+   "text": "why should I hide it, by God in majesty?"
+  },
+  {
+   "ref": "2533",
+   "text": "I killed Charlot, who was Charlemagne’s son."
+  },
+  {
+   "ref": "2534",
+   "text": "I did not know at all that he had begotten him."
+  },
+  {
+   "ref": "2535",
+   "text": "I went to court to defend myself;"
+  },
+  {
+   "ref": "2536",
+   "text": "but the body was brought there after me."
+  },
+  {
+   "ref": "3159",
+   "text": "For he is more beautiful than the sun in summer."
+  },
+  {
+   "ref": "3160",
+   "text": "He is called Oberon by his right name."
+  },
+  {
+   "ref": "3161",
+   "text": "There is no living man, if he has entered the wood"
+  },
+  {
+   "ref": "3162",
+   "text": "And speaks to him, who can escape him;"
+  },
+  {
+   "ref": "3163",
+   "text": "And once he has stayed with him,"
+  },
+  {
+   "ref": "3164",
+   "text": "He will never leave there in all his life."
+  },
+  {
+   "ref": "3165",
+   "text": "And I tell you, in all good faith,"
+  },
+  {
+   "ref": "3166",
+   "text": "That this dwarf has such great power"
+  },
+  {
+   "ref": "3167",
+   "text": "[That] when you think to pass through the woodland,"
+  },
+  {
+   "ref": "3168",
+   "text": "Before you have gone twelve leagues,"
+  },
+  {
+   "ref": "3169",
+   "text": "You will see him standing in front of you."
+  },
+  {
+   "ref": "3170",
+   "text": "He will speak of God in majesty in such a way"
+  },
+  {
+   "ref": "3171",
+   "text": "That there is no man who would not be stirred by it."
+  },
+  {
+   "ref": "3172",
+   "text": "If you will not speak to his noble person,"
+  },
+  {
+   "ref": "3173",
+   "text": "He will be so sorely vexed by it"
+  },
+  {
+   "ref": "3174",
+   "text": "That you will have very great fear in your heart,"
+  },
+  {
+   "ref": "3175",
+   "text": "For he will make it both rain and blow,"
+  },
+  {
+   "ref": "3176",
+   "text": "Make trees break and split violently apart."
+  },
+  {
+   "ref": "3177",
+   "text": "And after he has worked in this way,"
+  },
+  {
+   "ref": "3178",
+   "text": "He will make for you a river so great"
+  },
+  {
+   "ref": "3179",
+   "text": "That one could take a great fleet on it,"
+  },
+  {
+   "ref": "3180",
+   "text": "And, to all appearance, a great sea-going ship."
+  },
+  {
+   "ref": "3181",
+   "text": "But I tell you, know it for the truth,"
+  },
+  {
+   "ref": "3182",
+   "text": "All that you see there will be phantoms:"
+  },
+  {
+   "ref": "3183",
+   "text": "You will cross the water dry-footed;"
+  },
+  {
+   "ref": "3184",
+   "text": "You will wet neither hose nor shoe there."
+  },
+  {
+   "ref": "3185",
+   "text": "I tell you plainly, you would be wrong to doubt it,"
+  },
+  {
+   "ref": "3186",
+   "text": "That [keeping silent] can do you no harm."
+  },
+  {
+   "ref": "3187",
+   "text": "Take good care not to utter a single word;"
+  },
+  {
+   "ref": "3188",
+   "text": "For if you spoke, this is the plain truth,"
+  },
+  {
+   "ref": "3189",
+   "text": "You will never be free of him,"
+  },
+  {
+   "ref": "3190",
+   "text": "For by answering you have lost everything.'"
+  },
+  {
+   "ref": "3191",
+   "text": "'By my faith,' said Huon, 'I have no wish to speak there.'"
+  },
+  {
+   "ref": "3192",
+   "text": "Then they mount again and [stay there no longer],"
+  },
+  {
+   "ref": "3229",
+   "text": "if he shoots at it and it pleases him,"
+  },
+  {
+   "ref": "3230",
+   "text": "that he would not take it entirely at his will."
+  },
+  {
+   "ref": "3231",
+   "text": "And he had at his neck a horn of bright ivory;"
+  },
+  {
+   "ref": "3232",
+   "text": "the horn was banded with bands of gold;"
+  },
+  {
+   "ref": "3233",
+   "text": "fairies made it on an island in the sea."
+  },
+  {
+   "ref": "3234",
+   "text": "There was one of them who gave it a gift like this:"
+  },
+  {
+   "ref": "3235",
+   "text": "whoever hears the horn ring and sound,"
+  },
+  {
+   "ref": "3236",
+   "text": "if he is sick, at once returns to health,"
+  },
+  {
+   "ref": "3237",
+   "text": "however great an infirmity he may have."
+  },
+  {
+   "ref": "3238",
+   "text": "And the next fairy gave it far better:"
+  },
+  {
+   "ref": "3239",
+   "text": "whoever hears the horn, this is the truth,"
+  },
+  {
+   "ref": "3240",
+   "text": "if he is starving, he is fully fed,"
+  },
+  {
+   "ref": "3241",
+   "text": "and if he is thirsty, he has drunk his fill."
+  },
+  {
+   "ref": "3242",
+   "text": "And the next fairy gave it far better still:"
+  },
+  {
+   "ref": "3243",
+   "text": "that there is no man in such great hardship"
+  },
+  {
+   "ref": "3244",
+   "text": "that, if he hears the horn ring and sound,"
+  },
+  {
+   "ref": "3245",
+   "text": "he is not compelled to sing at the sound of the horn."
+  },
+  {
+   "ref": "3246",
+   "text": "The fourth fairy chose to endow it better,"
+  },
+  {
+   "ref": "3247",
+   "text": "when she gave it such a gift as you shall hear:"
+  },
+  {
+   "ref": "3248",
+   "text": "that there is no march, nor land, nor kingdom,"
+  },
+  {
+   "ref": "3249",
+   "text": "as far as the Dry Tree, or beyond the sea,"
+  },
+  {
+   "ref": "3250",
+   "text": "if he wishes to make the horn ring and sound,"
+  },
+  {
+   "ref": "3251",
+   "text": "Oberon hears it at Monmur, his city."
+  },
+  {
+   "ref": "3252",
+   "text": "The little man began to blow his horn,"
+  },
+  {
+   "ref": "3253",
+   "text": "and the fourteen begin to sing."
+  },
+  {
+   "ref": "3254",
+   "text": "“Ah, God!” said Huon, “who is coming to visit us?"
+  },
+  {
+   "ref": "3255",
+   "text": "I feel no hunger nor any hardship.”"
+  },
+  {
+   "ref": "3256",
+   "text": "And Gériaume says: “It is the hunchbacked dwarf."
+  },
+  {
+   "ref": "3257",
+   "text": "For God’s sake I beg you, sire, do not speak to him,"
+  },
+  {
+   "ref": "3331",
+   "text": "'By my faith,' said Huon, 'God has comforted us,"
+  },
+  {
+   "ref": "3332",
+   "text": "Since we have escaped from the dwarf like this.'"
+  },
+  {
+   "ref": "3333",
+   "text": "Old Geriaume spoke his mind about it:"
+  },
+  {
+   "ref": "3334",
+   "text": "'Sire,' he said, 'as God may save me,"
+  },
+  {
+   "ref": "3335",
+   "text": "You will very soon see the devil come back;"
+  },
+  {
+   "ref": "3336",
+   "text": "He will very soon come trotting up before you.'"
+  },
+  {
+   "ref": "3337",
+   "text": "While they were talking like this,"
+  },
+  {
+   "ref": "3338",
+   "text": "Just as they were about to cross a little bridge,"
+  },
+  {
+   "ref": "3339",
+   "text": "The little man leaps out in front of their noses."
+  },
+  {
+   "ref": "3340",
+   "text": "Huon sees him and was much afraid."
+  },
+  {
+   "ref": "3341",
+   "text": "'God!' said the youth, 'here is the devil again!'"
+  },
+  {
+   "ref": "3342",
+   "text": "Oberon hears him and spoke fiercely:"
+  },
+  {
+   "ref": "3343",
+   "text": "'Vassal,' he said, 'you do not speak rightly,"
+  },
+  {
+   "ref": "3344",
+   "text": "For, by Him who suffered on the cross,"
+  },
+  {
+   "ref": "3345",
+   "text": "I was never a fiend or a devil;"
+  },
+  {
+   "ref": "3346",
+   "text": "Rather I tell you truly, as God may save me,"
+  },
+  {
+   "ref": "3347",
+   "text": "I am a man of flesh like any other."
+  },
+  {
+   "ref": "3348",
+   "text": "Again I come to conjure you in God's name,"
+  },
+  {
+   "ref": "3349",
+   "text": "By all that He has made and established,"
+  },
+  {
+   "ref": "3350",
+   "text": "By oil and chrism, by baptism and salt,"
+  },
+  {
+   "ref": "3492",
+   "text": "You do not know at all what man you have found;"
+  },
+  {
+   "ref": "3493",
+   "text": "you will know it, it will not be long."
+  },
+  {
+   "ref": "3494",
+   "text": "Julius Caesar brought me up most tenderly;"
+  },
+  {
+   "ref": "3495",
+   "text": "Morgan the fairy, who had such great beauty,"
+  },
+  {
+   "ref": "3496",
+   "text": "she was my mother, so may God save me."
+  },
+  {
+   "ref": "3497",
+   "text": "Of these two I was conceived and begotten;"
+  },
+  {
+   "ref": "3498",
+   "text": "they had no other heirs in all their lives."
+  },
+  {
+   "ref": "3499",
+   "text": "At my birth there was great rejoicing;"
+  },
+  {
+   "ref": "3500",
+   "text": "they summoned all the barons of the kingdom;"
+  },
+  {
+   "ref": "3501",
+   "text": "fairies came there to visit my mother."
+  },
+  {
+   "ref": "3502",
+   "text": "There was one of them who was not at all pleased,"
+  },
+  {
+   "ref": "3503",
+   "text": "and she gave me such a gift as you see,"
+  },
+  {
+   "ref": "3504",
+   "text": "that I would be a little hunchbacked dwarf;"
+  },
+  {
+   "ref": "3505",
+   "text": "and so I am, and I am grieved at heart by it."
+  },
+  {
+   "ref": "3506",
+   "text": "I have not grown since I was three years old."
+  },
+  {
+   "ref": "3507",
+   "text": "When she saw that she had made me like this,"
+  },
+  {
+   "ref": "3508",
+   "text": "she wished afterwards to amend her word for me;"
+  },
+  {
+   "ref": "3509",
+   "text": "and she gave me such a gift as you will hear,"
+  },
+  {
+   "ref": "3510",
+   "text": "that I would be the most handsome man of flesh"
+  },
+  {
+   "ref": "3511",
+   "text": "who ever was, after the Lord God."
+  },
+  {
+   "ref": "3512",
+   "text": "Now I am such as you see me here;"
+  },
+  {
+   "ref": "3513",
+   "text": "I am as fair as the sun in summer."
+  },
+  {
+   "ref": "3514",
+   "text": "And the other fairy gave me far better:"
+  },
+  {
+   "ref": "3515",
+   "text": "I know the heart and the thought of a man,"
+  },
+  {
+   "ref": "3516",
+   "text": "and I can tell how he has acted,"
+  },
+  {
+   "ref": "3517",
+   "text": "and besides that, his deadly sin."
+  },
+  {
+   "ref": "3518",
+   "text": "The third fairy gave me far better,"
+  },
+  {
+   "ref": "3519",
+   "text": "to do more for me and to better me,"
+  },
+  {
+   "ref": "3520",
+   "text": "and she gave me such a gift as you will hear:"
+  },
+  {
+   "ref": "3521",
+   "text": "that there is no march, nor land, nor kingdom,"
+  },
+  {
+   "ref": "3522",
+   "text": "as far as the Dry Tree, or as far as one can travel,"
+  },
+  {
+   "ref": "3523",
+   "text": "where, if I wish myself there, in God’s name,"
+  },
+  {
+   "ref": "3524",
+   "text": "I would not be there, entirely at my will,"
+  },
+  {
+   "ref": "3525",
+   "text": "just as soon as I have said it,"
+  },
+  {
+   "ref": "3526",
+   "text": "with as many people as I wish to ask for."
+  },
+  {
+   "ref": "3527",
+   "text": "And when I want to build a palace,"
+  },
+  {
+   "ref": "3528",
+   "text": "with many chambers and many great pillars,"
+  },
+  {
+   "ref": "3529",
+   "text": "I have it at once, you need not doubt it,"
+  },
+  {
+   "ref": "3530",
+   "text": "and such food as I wish to name,"
+  },
+  {
+   "ref": "3531",
+   "text": "and such drink as I wish to ask for."
+  },
+  {
+   "ref": "3532",
+   "text": "And I was, truly, born right at Monmur;"
+  },
+  {
+   "ref": "3533",
+   "text": "it is far from here, I tell you in truth,"
+  },
+  {
+   "ref": "3534",
+   "text": "a full four hundred leagues can be counted to it:"
+  },
+  {
+   "ref": "3535",
+   "text": "I have gone there and come back more quickly"
+  },
+  {
+   "ref": "3536",
+   "text": "than a horse could cover an acre.”"
+  },
+  {
+   "ref": "3537",
+   "text": "Oberon said: “I was born at Monmur,"
+  },
+  {
+   "ref": "3538",
+   "text": "a city that belonged to my ancestor;"
+  },
+  {
+   "ref": "3539",
+   "text": "I have gone there and come back more quickly"
+  },
+  {
+   "ref": "3540",
+   "text": "than a horse could run across a little field."
+  },
+  {
+   "ref": "3607",
+   "text": "On the faldstool sat the noble Oberon;"
+  },
+  {
+   "ref": "3608",
+   "text": "its feet were of fine refined gold,"
+  },
+  {
+   "ref": "3609",
+   "text": "the bows of Love were wrought on it."
+  },
+  {
+   "ref": "3610",
+   "text": "Fairies made it on an island in the sea,"
+  },
+  {
+   "ref": "3611",
+   "text": "they had it presented to King Alexander,"
+  },
+  {
+   "ref": "3612",
+   "text": "who had tournaments made and established."
+  },
+  {
+   "ref": "3613",
+   "text": "Afterwards he had it given to King Caesar;"
+  },
+  {
+   "ref": "3614",
+   "text": "he left it to his son out of love."
+  },
+  {
+   "ref": "3615",
+   "text": "The faldstool was of such virtue"
+  },
+  {
+   "ref": "3616",
+   "text": "that if it falls into fire, it cannot burn;"
+  },
+  {
+   "ref": "3617",
+   "text": "whoever sits on it can be secure,"
+  },
+  {
+   "ref": "3618",
+   "text": "for he cannot be poisoned by anything,"
+  },
+  {
+   "ref": "3619",
+   "text": "by no venom can he be harmed:"
+  },
+  {
+   "ref": "3620",
+   "text": "at once he sees what has been brought to him,"
+  },
+  {
+   "ref": "3621",
+   "text": "by the power of the gilded faldstool."
+  },
+  {
+   "ref": "3622",
+   "text": "The king had put on a *bliaut* [a long tunic],"
+  },
+  {
+   "ref": "3623",
+   "text": "which was all of natural silk,"
+  },
+  {
+   "ref": "3644",
+   "text": "Rather, I want to give you some of my treasures.”"
+  },
+  {
+   "ref": "3645",
+   "text": "At once he has called Gloriant:"
+  },
+  {
+   "ref": "3646",
+   "text": "“Brother,” he said, “bring me my cup.”"
+  },
+  {
+   "ref": "3647",
+   "text": "He goes to fetch it, and then has handed it to him,"
+  },
+  {
+   "ref": "3648",
+   "text": "and Oberon has grasped it in both hands."
+  },
+  {
+   "ref": "3649",
+   "text": "“Huon,” he said, “look at this cup:"
+  },
+  {
+   "ref": "3650",
+   "text": "the great power that Jesus has given me"
+  },
+  {
+   "ref": "3651",
+   "text": "(in fairyland I do as I will),"
+  },
+  {
+   "ref": "3652",
+   "text": "you can now put it well to the test."
+  },
+  {
+   "ref": "3653",
+   "text": "You see clearly now this good gilded cup,"
+  },
+  {
+   "ref": "3654",
+   "text": "which is quite empty, and soon it will be full.”"
+  },
+  {
+   "ref": "3655",
+   "text": "With his right hand he circled it three times,"
+  },
+  {
+   "ref": "3656",
+   "text": "then made over it the cross of God in majesty;"
+  },
+  {
+   "ref": "3657",
+   "text": "then it became full of wine and of spiced wine."
+  },
+  {
+   "ref": "3658",
+   "text": "Oberon said: “Huon, now listen to me:"
+  },
+  {
+   "ref": "3659",
+   "text": "you have clearly seen how I have worked;"
+  },
+  {
+   "ref": "3660",
+   "text": "it is by God’s doing that this cup is such."
+  },
+  {
+   "ref": "3661",
+   "text": "And it is moreover of such great virtue"
+  },
+  {
+   "ref": "3662",
+   "text": "that if all who are born of woman"
+  },
+  {
+   "ref": "3663",
+   "text": "and all the dead were raised to life again,"
+  },
+  {
+   "ref": "3664",
+   "text": "and had come here and gathered together,"
+  },
+  {
+   "ref": "3665",
+   "text": "this cup would give wine enough,"
+  },
+  {
+   "ref": "3666",
+   "text": "whatever drink one might wish to name,"
+  },
+  {
+   "ref": "3667",
+   "text": "provided a worthy man had it in his keeping;"
+  },
+  {
+   "ref": "3668",
+   "text": "for I tell you, in perfect good faith,"
+  },
+  {
+   "ref": "3669",
+   "text": "no one can drink from it unless he is a worthy man, by God,"
+  },
+  {
+   "ref": "3670",
+   "text": "and clean and pure and without mortal sin."
+  },
+  {
+   "ref": "3671",
+   "text": "As soon as a wicked man tries to lay his hand on it,"
+  },
+  {
+   "ref": "3672",
+   "text": "he has lost the virtue of the cup."
+  },
+  {
+   "ref": "3673",
+   "text": "So help me God, the king of majesty,"
+  },
+  {
+   "ref": "3674",
+   "text": "if you can drink from it, it will be given to you.”"
+  },
+  {
+   "ref": "3675",
+   "text": "“Sire,” said Huon, “may God reward you for it;"
+  },
+  {
+   "ref": "3676",
+   "text": "but I fear that I am not such a man"
+  },
+  {
+   "ref": "3677",
+   "text": "that I could either drink from it or touch it."
+  },
+  {
+   "ref": "3678",
+   "text": "Never in my life have I seen such power;"
+  },
+  {
+   "ref": "3679",
+   "text": "to my mind, you know how to work enchantments."
+  },
+  {
+   "ref": "3680",
+   "text": "Sire,” said Huon, “listen to me:"
+  },
+  {
+   "ref": "3681",
+   "text": "I tell you truly, I have confessed"
+  },
+  {
+   "ref": "3682",
+   "text": "to the pope in the city of Rome;"
+  },
+  {
+   "ref": "3683",
+   "text": "I repent of my mortal sins"
+  },
+  {
+   "ref": "3684",
+   "text": "in such a way, so may God save me,"
+  },
+  {
+   "ref": "3685",
+   "text": "that I hate no man born of woman.”"
+  },
+  {
+   "ref": "3686",
+   "text": "Then the noble young man steps forward;"
+  },
+  {
+   "ref": "3687",
+   "text": "he took the cup and grasped it in both hands,"
+  },
+  {
+   "ref": "3688",
+   "text": "put it to his mouth, for it was brimming with wine,"
+  },
+  {
+   "ref": "3689",
+   "text": "then drank from it in very great plenty."
+  },
+  {
+   "ref": "3690",
+   "text": "When Oberon has seen all this,"
+  },
+  {
+   "ref": "3691",
+   "text": "he was very glad, and runs to embrace him:"
+  },
+  {
+   "ref": "3692",
+   "text": "“Huon, fair brother,” said the noble Oberon,"
+  },
+  {
+   "ref": "3693",
+   "text": "“so help me God, I have found you a worthy man;"
+  },
+  {
+   "ref": "3694",
+   "text": "now I give it to you, in the name of charity,"
+  },
+  {
+   "ref": "3695",
+   "text": "the good cup that has such virtue,"
+  },
+  {
+   "ref": "3696",
+   "text": "on such terms as you will now hear me say:"
+  },
+  {
+   "ref": "3697",
+   "text": "that if you take care, upon your loyalty,"
+  },
+  {
+   "ref": "3698",
+   "text": "to act in this by my counsel,"
+  },
+  {
+   "ref": "3699",
+   "text": "I will help you loyally, without fail;"
+  },
+  {
+   "ref": "3700",
+   "text": "but no sooner will you tell a lie"
+  },
+  {
+   "ref": "3701",
+   "text": "than you will lose the virtue of the cup"
+  },
+  {
+   "ref": "3702",
+   "text": "and all the friendship of my person.”"
+  },
+  {
+   "ref": "3703",
+   "text": "“Sire,” said Huon, “I believe I can guard well against that;"
+  },
+  {
+   "ref": "3704",
+   "text": "if you please, now let me go.”"
+  },
+  {
+   "ref": "3705",
+   "text": "Oberon said: “You will wait a little longer,"
+  },
+  {
+   "ref": "3706",
+   "text": "for I have in here a horn of bright ivory,"
+  },
+  {
+   "ref": "3707",
+   "text": "and since I have found you a worthy man,"
+  },
+  {
+   "ref": "3708",
+   "text": "and clean and pure and without mortal sin,"
+  },
+  {
+   "ref": "3709",
+   "text": "I will give it to you, as I hope for health;"
+  },
+  {
+   "ref": "3710",
+   "text": "you can very well carry it in your purse."
+  },
+  {
+   "ref": "3711",
+   "text": "And besides this I want to pledge to you,"
+  },
+  {
+   "ref": "3712",
+   "text": "by the great power that Jesus has given me"
+  },
+  {
+   "ref": "3713",
+   "text": "in fairyland, where I have my dwelling:"
+  },
+  {
+   "ref": "3714",
+   "text": "you will never be in a kingdom so far away"
+  },
+  {
+   "ref": "3715",
+   "text": "that, if you blow this horn of bright ivory,"
+  },
+  {
+   "ref": "3716",
+   "text": "I will not hear it at Monmur, my city;"
+  },
+  {
+   "ref": "3717",
+   "text": "and I swear to you, upon my loyalty,"
+  },
+  {
+   "ref": "3718",
+   "text": "that I myself will be there ready,"
+  },
+  {
+   "ref": "3719",
+   "text": "with a hundred thousand armed men in my company,"
+  },
+  {
+   "ref": "3720",
+   "text": "for I will help you defend yourself against all men."
+  },
+  {
+   "ref": "3721",
+   "text": "But one thing I want to command you,"
+  },
+  {
+   "ref": "3722",
+   "text": "as dearly as you would hate to be parted from my love,"
+  },
+  {
+   "ref": "3723",
+   "text": "and know it well in true faith:"
+  },
+  {
+   "ref": "3724",
+   "text": "I forbid you, on pain of having your limbs cut off,"
+  },
+  {
+   "ref": "3725",
+   "text": "ever to sound the horn for nothing;"
+  },
+  {
+   "ref": "3726",
+   "text": "for if you do it, so may God save me,"
+  },
+  {
+   "ref": "3727",
+   "text": "when you have no need, you may be sure"
+  },
+  {
+   "ref": "3728",
+   "text": "you will find yourself in such great misery"
+  },
+  {
+   "ref": "3729",
+   "text": "that there is no living man who would not take pity on it.”"
+  },
+  {
+   "ref": "3730",
+   "text": "“Sire,” said Huon, “I believe I can guard well against that;"
+  },
+  {
+   "ref": "3731",
+   "text": "now, if you please, let me go.”"
+  },
+  {
+   "ref": "4561",
+   "text": "There are twenty-five chambers in the ornamented palace;"
+  },
+  {
+   "ref": "4562",
+   "text": "No man ever heard tell of a richer one."
+  },
+  {
+   "ref": "4563",
+   "text": "And there are two men at the entrance of the dwelling;"
+  },
+  {
+   "ref": "4564",
+   "text": "They are made and fashioned all of copper,"
+  },
+  {
+   "ref": "4565",
+   "text": "And each one holds a jointed flail;"
+  },
+  {
+   "ref": "4566",
+   "text": "They are all of iron, much to be feared."
+  },
+  {
+   "ref": "4567",
+   "text": "They keep beating all the time, winter and summer,"
+  },
+  {
+   "ref": "4568",
+   "text": "And I tell you, in pure truth,"
+  },
+  {
+   "ref": "4569",
+   "text": "A lark, which knows how to fly very fast,"
+  },
+  {
+   "ref": "4570",
+   "text": "Could not fly into the palace"
+  },
+  {
+   "ref": "4571",
+   "text": "Without being killed; it could not escape."
+  },
+  {
+   "ref": "4572",
+   "text": "And inside lives a great raging giant;"
+  },
+  {
+   "ref": "4573",
+   "text": "He is called Orgilleus by his right name."
+  },
+  {
+   "ref": "4923",
+   "text": "there are four birds, much to be praised,"
+  },
+  {
+   "ref": "4924",
+   "text": "which sing all the time, winter and summer;"
+  },
+  {
+   "ref": "4925",
+   "text": "they herald the day for him [when it is about to dawn]."
+  },
+  {
+   "ref": "4926",
+   "text": "No harp or fiddle is so good to hear;"
+  },
+  {
+   "ref": "4927",
+   "text": "they were fashioned by necromancy."
+  },
+  {
+   "ref": "5053",
+   "text": "Could never harm me in the slightest."
+  },
+  {
+   "ref": "5054",
+   "text": "I took this dwelling from him, by my head,"
+  },
+  {
+   "ref": "5055",
+   "text": "And with it a good gilded hauberk."
+  },
+  {
+   "ref": "5056",
+   "text": "There is no man born of a mother,"
+  },
+  {
+   "ref": "5057",
+   "text": "If he could get inside its neck-opening,"
+  },
+  {
+   "ref": "5058",
+   "text": "Who could ever be overcome by arms;"
+  },
+  {
+   "ref": "5059",
+   "text": "But it is not granted to everyone:"
+  },
+  {
+   "ref": "5060",
+   "text": "The writing that is on the collar says"
+  },
+  {
+   "ref": "5061",
+   "text": "That no one can put on the hauberk"
+  },
+  {
+   "ref": "5062",
+   "text": "Unless he is a worthy man and without mortal sin,"
+  },
+  {
+   "ref": "5063",
+   "text": "And clean and pure as if he were newly born."
+  },
+  {
+   "ref": "5064",
+   "text": "And if the mother who bore him"
+  },
+  {
+   "ref": "5065",
+   "text": "Had ever in her life thought of a man"
+  },
+  {
+   "ref": "5066",
+   "text": "Other than the one who had married her,"
+  },
+  {
+   "ref": "5067",
+   "text": "Then he could not get into the hauberk."
+  },
+  {
+   "ref": "5068",
+   "text": "And that is why I say the man is not born"
+  },
+  {
+   "ref": "5069",
+   "text": "Who could, by my head, put it on."
+  },
+  {
+   "ref": "5070",
+   "text": "The hauberk is of such great worth"
+  },
+  {
+   "ref": "5071",
+   "text": "That he who has thrown it over his back,"
+  },
+  {
+   "ref": "5072",
+   "text": "If he falls into water, cannot sink,"
+  },
+  {
+   "ref": "5073",
+   "text": "If he falls into fire, cannot burn."
+  },
+  {
+   "ref": "5074",
+   "text": "For, by Muhammad, I have not tried it on;"
+  },
+  {
+   "ref": "5075",
+   "text": "You gave me leave to arm myself,"
+  },
+  {
+   "ref": "5344",
+   "text": "By the faith I owe God, it is King Oberon."
+  },
+  {
+   "ref": "5345",
+   "text": "'What!' said Huon, 'I do not know your name.'"
+  },
+  {
+   "ref": "5346",
+   "text": "'You shall know it: my name is Malabron;"
+  },
+  {
+   "ref": "5347",
+   "text": "I am of King Oberon's household;"
+  },
+  {
+   "ref": "5348",
+   "text": "So help me God, I am his liegeman."
+  },
+  {
+   "ref": "5349",
+   "text": "My lord gave me such a gift"
+  },
+  {
+   "ref": "5350",
+   "text": "That I would be a sprite in the sea for thirty years.'"
+  },
+  {
+   "ref": "5351",
+   "text": "'Friend, fair brother,' said the valiant young Huon,"
+  },
+  {
+   "ref": "5352",
+   "text": "'For the love of God, who has all things to save,"
+  },
+  {
+   "ref": "5353",
+   "text": "Shall I dare to trust myself to your fair person?'"
+  },
+  {
+   "ref": "5354",
+   "text": "Said Malabron: 'You need not be afraid;"
+  },
+  {
+   "ref": "5355",
+   "text": "I will carry you across the Red Sea"
+  },
+  {
+   "ref": "5356",
+   "text": "Most faithfully and without any deceit,"
+  },
+  {
+   "ref": "5357",
+   "text": "In such a way, as God may save me,"
+  },
+  {
+   "ref": "5358",
+   "text": "That you will wet neither hose nor shoe."
+  },
+  {
+   "ref": "5359",
+   "text": "But now be quick and get ready,"
+  },
+  {
+   "ref": "5360",
+   "text": "For I am going to get into my skin."
+  },
+  {
+   "ref": "5361",
+   "text": "You will have to climb up on my back;"
+  },
+  {
+   "ref": "5362",
+   "text": "Cross yourself well (you cannot come to grief)"
+  },
+  {
+   "ref": "5363",
+   "text": "So that the true God may lead us to safety.'"
+  },
+  {
+   "ref": "5364",
+   "text": "Malabron has gone into his skin;"
+  },
+  {
+   "ref": "5365",
+   "text": "Huon has climbed onto his back,"
+  },
+  {
+   "ref": "5366",
+   "text": "And Malabron has leapt back into the sea."
+  },
+  {
+   "ref": "5367",
+   "text": "I cannot tell you how long he took over the crossing,"
+  },
+  {
+   "ref": "5368",
+   "text": "But there is no servant or young man here"
+  },
+  {
+   "ref": "5529",
+   "text": "And if he comes, the devil will bring him.'"
+  },
+  {
+   "ref": "5530",
+   "text": "With that he fell silent and went on across."
+  },
+  {
+   "ref": "5531",
+   "text": "The youth lamented to himself;"
+  },
+  {
+   "ref": "5532",
+   "text": "Then he said: 'The Lord God will help me."
+  },
+  {
+   "ref": "5533",
+   "text": "I know for certain the devil bewitched me"
+  },
+  {
+   "ref": "5534",
+   "text": "When I lied at that bridge back there.'"
+  },
+  {
+   "ref": "5535",
+   "text": "Now Huon has crossed the four bridges."
+  },
+  {
+   "ref": "5536",
+   "text": "When he was across and had set out on his way,"
+  },
+  {
+   "ref": "5537",
+   "text": "Then he loses the road to the great ornamented palace."
+  },
+  {
+   "ref": "5538",
+   "text": "He has entered the emir's orchard;"
+  },
+  {
+   "ref": "5539",
+   "text": "God made no tree that could bear fruit"
+  },
+  {
+   "ref": "5540",
+   "text": "That he did not have planted in the orchard."
+  },
+  {
+   "ref": "5541",
+   "text": "A spring runs there along its channel;"
+  },
+  {
+   "ref": "5542",
+   "text": "The stream comes from Paradise, without a lie."
+  },
+  {
+   "ref": "5543",
+   "text": "There is no man born of a mother,"
+  },
+  {
+   "ref": "5544",
+   "text": "However old he may be, or white-haired or grizzled,"
+  },
+  {
+   "ref": "5545",
+   "text": "Who, if he can wash his hands in the stream,"
+  },
+  {
+   "ref": "5546",
+   "text": "Is not at once a lad and a young man [again]."
+  },
+  {
+   "ref": "5547",
+   "text": "Huon came there and stopped beside it;"
+  },
+  {
+   "ref": "5548",
+   "text": "He washed his hands and drank plenty of the water."
+  },
+  {
+   "ref": "5549",
+   "text": "This is the spring of the emir Gaudisse;"
+  },
+  {
+   "ref": "5550",
+   "text": "The brook comes from the river of Paradise."
+  },
+  {
+   "ref": "5551",
+   "text": "God made no woman, however much she has had her pleasure,"
+  },
+  {
+   "ref": "5552",
+   "text": "Who, if she drinks even a little of the water,"
+  },
+  {
+   "ref": "5553",
+   "text": "Is not a virgin as on the day she was born."
+  },
+  {
+   "ref": "5554",
+   "text": "Huon was there, the young man of worth;"
+  },
+  {
+   "ref": "5555",
+   "text": "He washed his hands and sat down above it."
+  },
+  {
+   "ref": "5556",
+   "text": "That spring, a serpent guarded it;"
+  },
+  {
+   "ref": "5557",
+   "text": "No wicked man will ever put his finger in it"
+  },
+  {
+   "ref": "5558",
+   "text": "Who is a traitor or false to his faith,"
+  },
+  {
+   "ref": "5559",
+   "text": "And if he comes there, he is dead on the spot."
+  },
+  {
+   "ref": "5560",
+   "text": "Huon came there; the serpent bowed to him"
+  },
+  {
+   "ref": "5561",
+   "text": "By the power of the hauberk he was wearing;"
+  },
+  {
+   "ref": "5562",
+   "text": "He drank of the water and washed his white hands;"
+  },
+  {
+   "ref": "5563",
+   "text": "Now he forgot what he was supposed to do."
+  },
+  {
+   "ref": "5564",
+   "text": "Huon was inside; he has entered the orchard."
+  },
+  {
+   "ref": "5565",
+   "text": "At the spring of Gaudisse the emir"
+  },
+  {
+   "ref": "8731",
+   "text": "He left out nothing at all in the telling"
+  },
+  {
+   "ref": "8732",
+   "text": "that he could call to mind, great or small;"
+  },
+  {
+   "ref": "8733",
+   "text": "and the pope has forgiven him everything."
+  },
+  {
+   "ref": "8734",
+   "text": "Afterwards he has wedded the maiden to him;"
+  },
+  {
+   "ref": "8735",
+   "text": "Mass was said, and, the service ended,"
+  },
+  {
+   "ref": "8736",
+   "text": "they come back into the adorned palace."
+  },
+  {
+   "ref": "8994",
+   "text": "Then I took from him four molar teeth,"
+  },
+  {
+   "ref": "8995",
+   "text": "And after that, the white grizzled whiskers.'"
+  },
+  {
+   "ref": "8996",
+   "text": "Gerard said: 'Sire, and how do you keep them?'"
+  },
+  {
+   "ref": "8997",
+   "text": "'I will tell you,' said Huon, 'in God's name."
+  },
+  {
+   "ref": "8998",
+   "text": "See Geriaume there, who has them in his side;"
+  },
+  {
+   "ref": "8999",
+   "text": "Above the hip he has them sealed in,"
+  },
+  {
+   "ref": "9000",
+   "text": "For Oberon the fairy put them there"
+  },
+  {
+   "ref": "9001",
+   "text": "By fairy power, by the will of God.'"
+  },
+  {
+   "ref": "9002",
+   "text": "'Which one is he?' said Gerard the madman."
+  },
+  {
+   "ref": "9003",
+   "text": "And Huon replies: 'That old man you see there,"
+  },
+  {
+   "ref": "10193",
+   "text": "At once he freed all three of them from prison,"
+  },
+  {
+   "ref": "10194",
+   "text": "Then seated them beside him at dinner."
+  },
+  {
+   "ref": "10195",
+   "text": "Oberon takes his good cup of bright gold,"
+  },
+  {
+   "ref": "10196",
+   "text": "And makes over it the cross of God in majesty,"
+  },
+  {
+   "ref": "10197",
+   "text": "And the cup became full of clear wine."
+  },
+  {
+   "ref": "10198",
+   "text": "The king takes it and hands it to the lady."
+  },
+  {
+   "ref": "10199",
+   "text": "And she drank, and handed it to Huon,"
+  },
+  {
+   "ref": "10200",
+   "text": "And he passes it to Geriaume the bearded."
+  },
+  {
+   "ref": "10201",
+   "text": "And Oberon called to Huon:"
+  },
+  {
+   "ref": "10202",
+   "text": "'Quickly now,' he says, 'friend, get up,"
+  },
+  {
+   "ref": "10203",
+   "text": "And carry this good cup of bright gold"
+  },
+  {
+   "ref": "10204",
+   "text": "To Charlemagne, the mighty crowned king;"
+  },
+  {
+   "ref": "10205",
+   "text": "Give it to him to drink in the name of peace."
+  },
+  {
+   "ref": "10206",
+   "text": "If he does not take it, so help me the Lord God,"
+  },
+  {
+   "ref": "10207",
+   "text": "I will make him pay dearly for it.'"
+  },
+  {
+   "ref": "10208",
+   "text": "Charles hears him, and did not know what to think;"
+  },
+  {
+   "ref": "10209",
+   "text": "He keeps quite still and silent, for he dares not speak"
+  },
+  {
+   "ref": "10210",
+   "text": "Because of the wonders he hears being worked."
+  },
+  {
+   "ref": "10211",
+   "text": "'Sire,' said Huon, 'I will do all your will.'"
+  },
+  {
+   "ref": "10212",
+   "text": "Then he rose and took hold of the cup,"
+  },
+  {
+   "ref": "10213",
+   "text": "Came to Charles, and gave it to him."
+  },
+  {
+   "ref": "10214",
+   "text": "The king takes it, for he dares not refuse it;"
+  },
+  {
+   "ref": "10215",
+   "text": "As soon as he held it, the wine was gone."
+  },
+  {
+   "ref": "10216",
+   "text": "'Vassal,' said Charles, 'you have bewitched me.'"
+  },
+  {
+   "ref": "10217",
+   "text": "Said Oberon: 'No, your wickedness does it;"
+  },
+  {
+   "ref": "10218",
+   "text": "For the cup is of such worth"
+  },
+  {
+   "ref": "10219",
+   "text": "That no one can drink from it unless he is known as a worthy man,"
+  },
+  {
+   "ref": "10220",
+   "text": "And clean and pure and without mortal sin."
+  },
+  {
+   "ref": "10221",
+   "text": "Rightful emperor, as God may save me,"
+  },
+  {
+   "ref": "10222",
+   "text": "I know of one [sin] that is very grievous,"
+  },
+  {
+   "ref": "10223",
+   "text": "Which you committed a very long time ago,"
+  },
+  {
+   "ref": "10224",
+   "text": "And you never confessed it to a priest;"
+  },
+  {
+   "ref": "10225",
+   "text": "If it were not that it would shame you,"
+  },
+  {
+   "ref": "10226",
+   "text": "I would tell it now without any delay.'"
+  },
+  {
+   "ref": "10353",
+   "text": "and give him half of my land.”"
+  },
+  {
+   "ref": "10354",
+   "text": "The French hear it, and weep for pity."
+  },
+  {
+   "ref": "10355",
+   "text": "Oberon said: “So may God save me,"
+  },
+  {
+   "ref": "10356",
+   "text": "all the gold in the world could not reprieve them;"
+  },
+  {
+   "ref": "10357",
+   "text": "rather I wish them up there in the midst of the meadows,"
+  },
+  {
+   "ref": "10358",
+   "text": "so that all four of them may be dragged there,"
+  },
+  {
+   "ref": "10359",
+   "text": "by fairy power and by my dignity."
+  },
+  {
+   "ref": "10360",
+   "text": "On a gallows let Gerard be hanged,"
+  },
+  {
+   "ref": "10361",
+   "text": "he and his lord, Gibouart of Viesmes,"
+  },
+  {
+   "ref": "10362",
+   "text": "and with them I wish there the abbot"
+  },
+  {
+   "ref": "10363",
+   "text": "and the other monk whom he had brought,"
+  },
+  {
+   "ref": "10364",
+   "text": "because they came to bear witness."
+  },
+  {
+   "ref": "10365",
+   "text": "The gallows too I want to call up;"
+  },
+  {
+   "ref": "10366",
+   "text": "let them be higher than a bow can shoot.”"
+  },
+  {
+   "ref": "10367",
+   "text": "At once they were there, as he had described;"
+  },
+  {
+   "ref": "10368",
+   "text": "all four were hanged and dragged;"
+  },
+  {
+   "ref": "10369",
+   "text": "they have their reward for their great wickedness."
+  },
+  {
+   "ref": "10370",
+   "text": "Charles sees it, and is greatly frightened by it,"
+  },
+  {
+   "ref": "10371",
+   "text": "then cried out, in the sight of all the barons:"
+  },
+  {
+   "ref": "10372",
+   "text": "“By my faith,” said Charles, “this man is the Lord God;"
+  },
+  {
+   "ref": "10373",
+   "text": "if he wished, we would all be killed.”"
+  },
+  {
+   "ref": "10374",
+   "text": "Oberon hears it, and has called out to him:"
+  },
+  {
+   "ref": "10375",
+   "text": "“Rightful emperor, so may God save me,"
+  },
+  {
+   "ref": "10376",
+   "text": "I am not God, but I am a man of flesh."
+  },
+  {
+   "ref": "10377",
+   "text": "I am called Oberon by my right name;"
+  },
+  {
+   "ref": "10378",
+   "text": "right at Monmur, truly, there I was born."
+  },
+  {
+   "ref": "10379",
+   "text": "Julius Caesar brought me up most tenderly,"
+  },
+  {
+   "ref": "10380",
+   "text": "he who had the roads built and laid out;"
+  },
+  {
+   "ref": "10381",
+   "text": "Morgan the fairy, who had such great beauty,"
+  },
+  {
+   "ref": "10382",
+   "text": "she was my mother, so may God save me;"
+  },
+  {
+   "ref": "10383",
+   "text": "nine full months she carried me within her."
+  },
+  {
+   "ref": "10384",
+   "text": "At my birth there was great rejoicing;"
+  },
+  {
+   "ref": "10385",
+   "text": "they summoned all the great men of the kingdom."
+  },
+  {
+   "ref": "10386",
+   "text": "Julius, my father, had a great feast proclaimed;"
+  },
+  {
+   "ref": "10387",
+   "text": "great was the court of high-born barons."
+  },
+  {
+   "ref": "10388",
+   "text": "Fairies came there to visit my mother;"
+  },
+  {
+   "ref": "10389",
+   "text": "there was one of them who was not at all pleased,"
+  },
+  {
+   "ref": "10390",
+   "text": "and she gave me such a gift as you see,"
+  },
+  {
+   "ref": "10391",
+   "text": "that I would be a little hunchbacked dwarf;"
+  },
+  {
+   "ref": "10392",
+   "text": "and so I am, and I am grieved at heart by it:"
+  },
+  {
+   "ref": "10393",
+   "text": "I have not grown since [I had] passed three years."
+  },
+  {
+   "ref": "10394",
+   "text": "When she saw that I was made like this,"
+  },
+  {
+   "ref": "10395",
+   "text": "she wished to amend her word somewhat,"
+  },
+  {
+   "ref": "10396",
+   "text": "and gave me such a gift as you see,"
+  },
+  {
+   "ref": "10397",
+   "text": "that I would be the most handsome man of flesh"
+  },
+  {
+   "ref": "10398",
+   "text": "who ever was, after the Lord God,"
+  },
+  {
+   "ref": "10399",
+   "text": "and so I am, as you can well see;"
+  },
+  {
+   "ref": "10400",
+   "text": "I am as fair as the sun in summer."
+  },
+  {
+   "ref": "10401",
+   "text": "And the other fairy gave me far better,"
+  },
+  {
+   "ref": "10402",
+   "text": "but I do not want to tell just now"
+  },
+  {
+   "ref": "10403",
+   "text": "what the fairies told me and gave me."
+  },
+  {
+   "ref": "10404",
+   "text": "Rightful emperor,” said the noble Oberon,"
+  },
+  {
+   "ref": "10405",
+   "text": "“so help me God, the king of majesty,"
+  },
+  {
+   "ref": "10406",
+   "text": "who greatly loves right and faith and loyalty;"
+  },
+  {
+   "ref": "10407",
+   "text": "that is why I love Huon, the young knight,"
+  },
+  {
+   "ref": "10408",
+   "text": "for he is a worthy man, and I have well proved it.”"
+  },
+  {
+   "ref": "10409",
+   "text": "With this word, he has called Huon."
+  },
+  {
+   "ref": "10410",
+   "text": "“Friend,” he said, “now quickly, get up:"
+  },
+  {
+   "ref": "10429",
+   "text": "and above all Duke Naimes the bearded."
+  },
+  {
+   "ref": "10430",
+   "text": "The court breaks up; they stay there no longer;"
+  },
+  {
+   "ref": "10431",
+   "text": "King Oberon has called Huon."
+  },
+  {
+   "ref": "10432",
+   "text": "“Huon,” he said, “listen to me:"
+  },
+  {
+   "ref": "10433",
+   "text": "I command you, as you hold me dear,"
+  },
+  {
+   "ref": "10434",
+   "text": "when three years have passed, you will come to Monmur,"
+  },
+  {
+   "ref": "10435",
+   "text": "and you will have all my kingdom,"
+  },
+  {
+   "ref": "10436",
+   "text": "and with that you will have my dignity."
+  },
+  {
+   "ref": "10437",
+   "text": "Know for certain that I can well give it to you,"
+  },
+  {
+   "ref": "10438",
+   "text": "for I tell you in very truth"
+  },
+  {
+   "ref": "10439",
+   "text": "that so it was ordained for me at my birth"
+  },
+  {
+   "ref": "10440",
+   "text": "that I may give it to whomever I wish;"
+  },
+  {
+   "ref": "10441",
+   "text": "and I love you in good loyalty,"
+  },
+  {
+   "ref": "10442",
+   "text": "so I will give you all my dignity."
+  },
+  {
+   "ref": "10443",
+   "text": "You will wear a crown of gold on your head,"
+  },
+  {
+   "ref": "10444",
+   "text": "and you will give your inheritances to Gériaume,"
+  },
+  {
+   "ref": "10445",
+   "text": "for he has well deserved them, in God’s name:"
+  },
+  {
+   "ref": "10446",
+   "text": "he has served you with his heart and without falseness,"
+  },
+  {
+   "ref": "10447",
+   "text": "and he has endured many hardships for you."
+  },
+  {
+   "ref": "10448",
+   "text": "He is a very worthy man and of great loyalty;"
+  },
+  {
+   "ref": "10449",
+   "text": "he ought to fare the better for it, so may God save me.”"
+  },
+  {
+   "ref": "10450",
+   "text": "“Sire,” said Huon, “you have spoken very well;"
+  },
+  {
+   "ref": "10451",
+   "text": "I will give them to him, since you command it.”"
+  },
+  {
+   "ref": "10452",
+   "text": "Oberon said: “Friend, now listen to me:"
+  },
+  {
+   "ref": "10453",
+   "text": "I no longer wish to remain in the world;"
+  },
+  {
+   "ref": "10454",
+   "text": "I want to go up there to paradise,"
+  },
+  {
+   "ref": "10455",
+   "text": "for our Lord has truly sent me word,"
+  },
+  {
+   "ref": "10456",
+   "text": "and I will do his will."
+  },
+  {
+   "ref": "10457",
+   "text": "My seat is at his right side;"
+  },
+  {
+   "ref": "10458",
+   "text": "I no longer wish to stay in fairyland."
+  },
+  {
+   "ref": "10459",
+   "text": "Do not let what I tell you slip into forgetting,"
+  },
+  {
+   "ref": "10460",
+   "text": "and I forbid you, on pain of having your limbs cut off,"
+  },
+  {
+   "ref": "10461",
+   "text": "and on the faith you owe me,"
+  },
+  {
+   "ref": "10462",
+   "text": "ever again to quarrel with the king;"
+  },
+  {
+   "ref": "10463",
+   "text": "he is your lord, and you must keep faith with him.”"
+  },
+  {
+   "ref": "10464",
+   "text": "“Sire,” said Huon, “I will do all your will in this.”"
+  },
+  {
+   "ref": "10465",
+   "text": "King Oberon has asked leave to go;"
+  },
+  {
+   "ref": "10466",
+   "text": "he embraced Charlemagne the noble,"
+  },
+  {
+   "ref": "10467",
+   "text": "on parting he pleads with him for young Huon,"
+  },
+  {
+   "ref": "10468",
+   "text": "kissed Huon, and then has turned away."
+  },
+  {
+   "ref": "10469",
+   "text": "He goes back to Monmur, his city,"
+  },
+  {
+   "ref": "10470",
+   "text": "taking with him all his rich company of barons."
+  },
+  {
+   "ref": "10471",
+   "text": "And King Charles has gone back to Paris,"
+  }
+ ]
+}

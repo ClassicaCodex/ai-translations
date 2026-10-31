@@ -1,0 +1,50 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0527.tlg057",
+ "edition_urn": "urn:cts:greekLit:tlg0527.tlg057.ai-claude",
+ "source_edition": "tlg0527.tlg057.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Daniel (Theodotionis versio): AI translation (Claude)",
+  "author": "Old Testament",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0527.tlg057.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.2.27.1": "γαζαρηνοί transliterates an Aramaic word for diviners or astrologers.",
+  "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.4.10.1": "εἴρ transliterates the Aramaic word for a watcher, an angelic being.",
+  "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.10.5.1": "βαδδείν (the Hebrew word for linen) and θαρσείς (Hebrew tarshish, a precious stone) are left untranslated in the Greek and kept so; Ὠφάζ is given as Uphaz."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.2.2.1",
+   "text": "And the king said to call the enchanters and the magicians and the sorcerers and the Chaldeans, to tell the king his dreams; and they came and stood before the king."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.2.27.1",
+   "text": "And Daniel answered before the king and says: The mystery which the king asks about, it is not for wise men, magicians, enchanters, *gazarēnoi* [diviners] to tell the king,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.4.10.1",
+   "text": "I was watching in the vision of the night on my bed, and look, an *eir* [watcher] and a holy one came down from heaven"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.9.21.1",
+   "text": "And while I was still speaking in prayer, look, the man Gabriel, whom I had seen in the vision at the beginning, [came] flying, and he touched me at about the hour of the evening sacrifice."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.10.5.1",
+   "text": "And I lifted up my eyes and looked, and look, one man clothed in *baddein* [linen], and his waist girded with gold of Uphaz,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1.10.6.1",
+   "text": "and his body like *tharseis* [a precious stone], and his face like the appearance of lightning, and his eyes like torches of fire, and his arms and legs like the appearance of gleaming bronze, and the sound of his words like the sound of a crowd."
+  }
+ ]
+}

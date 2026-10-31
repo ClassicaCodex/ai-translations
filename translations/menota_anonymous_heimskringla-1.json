@@ -1,0 +1,3044 @@
+{
+ "work_urn": "urn:menota:anonymous:heimskringla-1",
+ "edition_urn": "urn:menota:anonymous:heimskringla-1.ai-claude",
+ "source_edition": "urn:menota:anonymous:heimskringla-1:am-35-fol",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Heimskringla 1: AI translation (Claude)",
+  "author": "Anonymous",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:menota:anonymous:heimskringla-1:am-35-fol, from the Medieval Nordic Text Archive, Menota (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Medieval Nordic Text Archive, Menota and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "4.2": "díar (5.22, 6.21), glossed 'priest-chieftains', is a rare word for Odin's twelve temple priests. In Bragi's stanza (7.19-7.26), djúprǫðull ǫðla, rendered 'the deep disc of lands', is a kenning for the land Gefjon ploughed away, and its exact sense is disputed; 'forehead-moons' are the oxen's eyes; víneyjar valrauf, 'the meadow-isle's plunder', is uncertain; hꜹca (7.22) is read as auka, 'increase'. 'Hnir' (4.25, 5.5, 5.7) is read as Hœnir, a letter being lost in the transcription.",
+  "9.16": "ergi (11.8), rendered 'unmanliness', is a strong term of shame implying sexual passivity in a man; its exact force is disputed. gyðjur (11.9), rendered 'priestesses', can also mean 'goddesses'.",
+  "20.14": "mara (21.3) is a female night-spirit that rides or tramples sleepers. Finland and the Finns here are the land and people of the Sámi.",
+  "13.27": "díar (15.4), glossed 'priest-chieftains', is a rare word for Odin's twelve temple priests. Uppsala auðr (15.16), rendered 'the Uppsala estate', is the royal domain attached to Uppsala. 16.21-16.23 play on freyja 'lady' and húsfreyja 'mistress of a household'.",
+  "135.31": "Bynames: Rettilbeini means 'straight-leg', Ljomi 'gleam'. Verse, in prose order: it is small harm that we, children of old men and old women (common folk), work seiðr, when Rognvald Rettilbeini, Harald's glorious son, works seiðr in Hadeland.",
+  "338.20": "Skrattasker: skratti 'wizard, goblin'.",
+  "39.17": "'ǫðrum syni sínum' (39.20) is 'his second son', or possibly 'another son of his'. 'Aun's sickness' is death from sheer old age. The last two lines open a stanza by Thjodolf whose subject and verb follow after the unit.",
+  "278.17": "Gardariki is the Norse name for the lands of the Rus; 'gerzkr' (279.4) means 'from Gardar'. In 279.12-13 the doubt removed is the doubt that the man was a true seer.",
+  "285.4": "285.4-5 close a defamatory verse (níð) begun before the unit; 'jǫldu' is 'mare'. The sense of 'úríkr fyrir ríki' ('one powerless in place of / before one mighty') is uncertain.",
+  "20.4": "20.4 is the last line of a stanza quoted before the unit, in which the giant-built [hall] of Sokkmimir's [kin] gapes at the prince, Svegdir. 'The Uppsala wealth' is the royal estate attached to Uppsala.",
+  "180.10": "The sense of 'bragafull' is disputed: 'the toast of the foremost [man]', or 'Bragi's toast'.",
+  "180.22": "An obscure stanza from the Sigurdardrapa named in the preceding prose. The first half, begun in the previous line ('no man has ash-cup or box'), seems to say that no man need bring cup or box with him to that place, to the offspring of the wealth-wounder; the 'wealth-wounder' is a generous lord, who gives his wealth away, and the passage praises Earl Sigurd's hospitality. 'The gods beguiled Thjazi' is a mythic aside; the word 'fetz' in that line is unclear and is left untranslated. 'The ruler of the sanctuary' is Sigurd as host of the sacrifices. 'vægja kind' (180.26) is obscure: 'kin' is certain, 'of men' is a guess.",
+  "361.15": "361.26 carries an editors' note inside the text, 'FJ; BA: Rauð', recording variant forms of the name (Rauði / Rauð); it is not translated."
+ },
+ "nodes": [
+  {
+   "ref": "2.11",
+   "text": "lie beyond all settlement, there flows"
+  },
+  {
+   "ref": "2.12",
+   "text": "a river through Sweden which is rightly"
+  },
+  {
+   "ref": "2.13",
+   "text": "called Tanais. It was"
+  },
+  {
+   "ref": "2.14",
+   "text": "formerly called Tanakvisl"
+  },
+  {
+   "ref": "2.15",
+   "text": "or Vanakvisl; it comes to"
+  },
+  {
+   "ref": "2.16",
+   "text": "the sea in the Black Sea. At"
+  },
+  {
+   "ref": "2.17",
+   "text": "Vanakvislar it was then called"
+  },
+  {
+   "ref": "2.18",
+   "text": "Vanaland or Vanaheim. That"
+  },
+  {
+   "ref": "2.19",
+   "text": "river divides the thirds of the world. It is called"
+  },
+  {
+   "ref": "2.20",
+   "text": "on the east side Asia, and on the"
+  },
+  {
+   "ref": "2.21",
+   "text": "west side Europe."
+  },
+  {
+   "ref": "2.h",
+   "text": "II. Of the people of Asia."
+  },
+  {
+   "ref": "2.22",
+   "text": "East of Tanakvisl, in"
+  },
+  {
+   "ref": "2.23",
+   "text": "Asia, it was called Asaland or"
+  },
+  {
+   "ref": "2.24",
+   "text": "Asaheim. And the chief city which"
+  },
+  {
+   "ref": "2.25",
+   "text": "was in the land they called"
+  },
+  {
+   "ref": "3.1",
+   "text": "Asgard. And in the city was a chieftain"
+  },
+  {
+   "ref": "3.2",
+   "text": "who was called Odin. There"
+  },
+  {
+   "ref": "3.3",
+   "text": "was a great place of sacrifice. It was"
+  },
+  {
+   "ref": "3.4",
+   "text": "the custom there that twelve temple priests were highest;"
+  },
+  {
+   "ref": "3.5",
+   "text": "they were to direct the sacrifices and"
+  },
+  {
+   "ref": "3.6",
+   "text": "judgments between men. These are *díar* [priest-chieftains],"
+  },
+  {
+   "ref": "3.7",
+   "text": "so called, or lords; to them service"
+  },
+  {
+   "ref": "3.8",
+   "text": "and reverence were to be given by all the people."
+  },
+  {
+   "ref": "3.9",
+   "text": "Odin was a great warrior and very"
+  },
+  {
+   "ref": "3.10",
+   "text": "widely travelled, and won many kingdoms."
+  },
+  {
+   "ref": "4.2",
+   "text": "many half-years."
+  },
+  {
+   "ref": "3.h",
+   "text": "III. Chapter. Of Odin's brothers."
+  },
+  {
+   "ref": "4.4",
+   "text": "Odin had two brothers; one was called"
+  },
+  {
+   "ref": "4.5",
+   "text": "Vé and the other Vili. These brothers of his governed"
+  },
+  {
+   "ref": "4.6",
+   "text": "the realm when he was away. It"
+  },
+  {
+   "ref": "4.7",
+   "text": "happened once, when Odin had gone far"
+  },
+  {
+   "ref": "4.8",
+   "text": "away and had stayed away long, that"
+  },
+  {
+   "ref": "4.9",
+   "text": "the Æsir thought his return home hopeless; then"
+  },
+  {
+   "ref": "4.10",
+   "text": "his brothers began to divide his inheritance. And"
+  },
+  {
+   "ref": "4.11",
+   "text": "his wife Frigg they both took"
+  },
+  {
+   "ref": "4.12",
+   "text": "as theirs. But a little later Odin came"
+  },
+  {
+   "ref": "4.13",
+   "text": "home; he then took back his wife."
+  },
+  {
+   "ref": "4.h",
+   "text": "Chapter IV. War with the Vanir."
+  },
+  {
+   "ref": "4.15",
+   "text": "Odin went with an army against"
+  },
+  {
+   "ref": "4.16",
+   "text": "the Vanir, but they met it well and"
+  },
+  {
+   "ref": "4.17",
+   "text": "defended their land, and now one side, now the other had"
+  },
+  {
+   "ref": "4.18",
+   "text": "victory. Each raided the other's land"
+  },
+  {
+   "ref": "4.19",
+   "text": "and did damage. But when it wearied both"
+  },
+  {
+   "ref": "4.20",
+   "text": "sides, they arranged between"
+  },
+  {
+   "ref": "4.21",
+   "text": "themselves a peace meeting and made peace and"
+  },
+  {
+   "ref": "4.22",
+   "text": "exchanged hostages. The Vanir handed over their"
+  },
+  {
+   "ref": "4.23",
+   "text": "most excellent men, Njord the"
+  },
+  {
+   "ref": "4.24",
+   "text": "Wealthy and his son Frey. And"
+  },
+  {
+   "ref": "4.25",
+   "text": "the Æsir in return [gave] the one named Hœnir,"
+  },
+  {
+   "ref": "4.26",
+   "text": "and they declared him very well suited"
+  },
+  {
+   "ref": "4.27",
+   "text": "to be a chieftain. He was a big man"
+  },
+  {
+   "ref": "5.1",
+   "text": "and most handsome. With him the Æsir sent"
+  },
+  {
+   "ref": "5.2",
+   "text": "the one called Mimir, the wisest of men,"
+  },
+  {
+   "ref": "5.3",
+   "text": "and the Vanir gave in return the one who"
+  },
+  {
+   "ref": "5.4",
+   "text": "was cleverest in their company; he was called"
+  },
+  {
+   "ref": "5.5",
+   "text": "Kvasir. And when Hœnir came to Vanaheim"
+  },
+  {
+   "ref": "5.6",
+   "text": "he was at once made a chieftain; Mimir"
+  },
+  {
+   "ref": "5.7",
+   "text": "advised him in everything. But when Hœnir"
+  },
+  {
+   "ref": "5.8",
+   "text": "was present at assemblies or meetings"
+  },
+  {
+   "ref": "5.9",
+   "text": "where Mimir was not near, and there came"
+  },
+  {
+   "ref": "5.10",
+   "text": "some difficult matter before him, then"
+  },
+  {
+   "ref": "5.11",
+   "text": "he always answered the same: 'Let others decide,'"
+  },
+  {
+   "ref": "5.12",
+   "text": "he said. Then the Vanir suspected that the Æsir"
+  },
+  {
+   "ref": "5.13",
+   "text": "must have cheated them in the exchange"
+  },
+  {
+   "ref": "5.14",
+   "text": "of men. Then they seized Mimir and"
+  },
+  {
+   "ref": "5.15",
+   "text": "cut off his head, and sent the head to the Æsir."
+  },
+  {
+   "ref": "5.16",
+   "text": "Odin took the head and smeared [it] with herbs"
+  },
+  {
+   "ref": "5.17",
+   "text": "so that it could not rot, and"
+  },
+  {
+   "ref": "5.18",
+   "text": "chanted spells over it and gave it such power"
+  },
+  {
+   "ref": "5.19",
+   "text": "that it spoke with him and told him"
+  },
+  {
+   "ref": "5.20",
+   "text": "many hidden things. Njord and"
+  },
+  {
+   "ref": "5.21",
+   "text": "Frey Odin appointed as sacrificial priests, and they were"
+  },
+  {
+   "ref": "5.22",
+   "text": "*díar* [priest-chieftains] among the Æsir. Njord's daughter"
+  },
+  {
+   "ref": "5.23",
+   "text": "was Freyja; she was a sacrificial priestess."
+  },
+  {
+   "ref": "5.24",
+   "text": "She first taught among"
+  },
+  {
+   "ref": "5.25",
+   "text": "the Æsir *seiðr* [a kind of sorcery], as among the Vanir was"
+  },
+  {
+   "ref": "5.26",
+   "text": "the custom. When Njord was among"
+  },
+  {
+   "ref": "5.27",
+   "text": "the Vanir, he had married a sister"
+  },
+  {
+   "ref": "6.1",
+   "text": "of his own, for that was the law there."
+  },
+  {
+   "ref": "6.2",
+   "text": "Their children were Frey and Freyja. But"
+  },
+  {
+   "ref": "6.3",
+   "text": "it was forbidden among the Æsir to marry"
+  },
+  {
+   "ref": "6.4",
+   "text": "such close kin."
+  },
+  {
+   "ref": "5.h",
+   "text": "5. Chapter V. Of Gefjon."
+  },
+  {
+   "ref": "6.6",
+   "text": "A great mountain range runs from the north-east"
+  },
+  {
+   "ref": "6.7",
+   "text": "to the south-west; it divides Sweden"
+  },
+  {
+   "ref": "6.8",
+   "text": "the Great from other realms. South of"
+  },
+  {
+   "ref": "6.9",
+   "text": "the mountains it is not far to Turkland."
+  },
+  {
+   "ref": "6.10",
+   "text": "There Odin had great possessions. At that"
+  },
+  {
+   "ref": "6.11",
+   "text": "time the Roman leaders were travelling widely"
+  },
+  {
+   "ref": "6.12",
+   "text": "over the world and subjecting"
+  },
+  {
+   "ref": "6.13",
+   "text": "all peoples to themselves. And many chieftains"
+  },
+  {
+   "ref": "6.14",
+   "text": "fled from that warfare, away from their"
+  },
+  {
+   "ref": "6.15",
+   "text": "lands. And because Odin"
+  },
+  {
+   "ref": "6.16",
+   "text": "had foresight and was skilled in magic,"
+  },
+  {
+   "ref": "6.17",
+   "text": "he knew that his descendants"
+  },
+  {
+   "ref": "6.18",
+   "text": "would in the northern half of the world"
+  },
+  {
+   "ref": "6.19",
+   "text": "settle. Then he set his brothers"
+  },
+  {
+   "ref": "6.20",
+   "text": "Vé and Vili over Asgard,"
+  },
+  {
+   "ref": "6.21",
+   "text": "and he went, and all the *díar* with"
+  },
+  {
+   "ref": "6.22",
+   "text": "him, and a great host of people. He went"
+  },
+  {
+   "ref": "6.23",
+   "text": "first west into Gardariki and"
+  },
+  {
+   "ref": "6.24",
+   "text": "then south into Saxony. He had"
+  },
+  {
+   "ref": "6.25",
+   "text": "many sons. He won realms"
+  },
+  {
+   "ref": "6.26",
+   "text": "far and wide across Saxony, and set there"
+  },
+  {
+   "ref": "6.27",
+   "text": "his sons to guard the land. Then"
+  },
+  {
+   "ref": "7.1",
+   "text": "he went north to the sea, and took"
+  },
+  {
+   "ref": "7.2",
+   "text": "himself a dwelling on an island; the place is now called"
+  },
+  {
+   "ref": "7.3",
+   "text": "Odinsey, on Funen. Then he sent"
+  },
+  {
+   "ref": "7.4",
+   "text": "Gefjon north over the Sound in search"
+  },
+  {
+   "ref": "7.5",
+   "text": "of land. She came to Gylfi, and"
+  },
+  {
+   "ref": "7.6",
+   "text": "he gave her one ploughland. Then"
+  },
+  {
+   "ref": "7.7",
+   "text": "she went to Jotunheim and bore there"
+  },
+  {
+   "ref": "7.8",
+   "text": "four sons to a certain giant. She"
+  },
+  {
+   "ref": "7.9",
+   "text": "turned them into the shape of oxen and yoked them"
+  },
+  {
+   "ref": "7.10",
+   "text": "to the plough and drew the land out into"
+  },
+  {
+   "ref": "7.11",
+   "text": "the sea and west, opposite Odinsey,"
+  },
+  {
+   "ref": "7.12",
+   "text": "and it is called Zealand. There she lived"
+  },
+  {
+   "ref": "7.13",
+   "text": "afterwards. Skjold married her,"
+  },
+  {
+   "ref": "7.14",
+   "text": "the son of Odin. They lived at Lejre."
+  },
+  {
+   "ref": "7.15",
+   "text": "There a lake or sea is left behind; it is called"
+  },
+  {
+   "ref": "7.16",
+   "text": "Lögrinn. The inlets lie in the lake"
+  },
+  {
+   "ref": "7.17",
+   "text": "just as the headlands in Zealand. So said Bragi"
+  },
+  {
+   "ref": "7.18",
+   "text": "the Old:"
+  },
+  {
+   "ref": "7.19",
+   "text": "Gefjon drew from Gylfi,"
+  },
+  {
+   "ref": "7.20",
+   "text": "glad, the deep disc of lands,"
+  },
+  {
+   "ref": "7.21",
+   "text": "so that from the running draught-beasts"
+  },
+  {
+   "ref": "7.22",
+   "text": "steam rose: Denmark's increase."
+  },
+  {
+   "ref": "7.23",
+   "text": "The oxen bore, and eight"
+  },
+  {
+   "ref": "7.24",
+   "text": "forehead-moons, where they went"
+  },
+  {
+   "ref": "7.25",
+   "text": "ahead of the meadow-isle's wide"
+  },
+  {
+   "ref": "7.26",
+   "text": "plunder, four heads."
+  },
+  {
+   "ref": "7.27",
+   "text": "And when Odin learned that good lands"
+  },
+  {
+   "ref": "8.1",
+   "text": "were to be had east with Gylfi, he went"
+  },
+  {
+   "ref": "8.2",
+   "text": "there, and he and Gylfi made a settlement"
+  },
+  {
+   "ref": "8.3",
+   "text": "between them, because Gylfi thought he had no strength"
+  },
+  {
+   "ref": "8.4",
+   "text": "to stand against the Æsir."
+  },
+  {
+   "ref": "8.5",
+   "text": "Odin and Gylfi contended much with each other in tricks"
+  },
+  {
+   "ref": "8.6",
+   "text": "and illusions, and the Æsir always proved"
+  },
+  {
+   "ref": "8.7",
+   "text": "the stronger. Odin took himself a dwelling by"
+  },
+  {
+   "ref": "8.8",
+   "text": "Lögrinn, at the place now called"
+  },
+  {
+   "ref": "8.9",
+   "text": "Old Sigtuna, and made there a great temple"
+  },
+  {
+   "ref": "8.10",
+   "text": "and sacrifices after the custom of the Æsir. He took possession"
+  },
+  {
+   "ref": "8.11",
+   "text": "there of lands as far as"
+  },
+  {
+   "ref": "8.12",
+   "text": "he called Sigtuna. He gave dwellings"
+  },
+  {
+   "ref": "8.13",
+   "text": "to the temple priests. Njord lived"
+  },
+  {
+   "ref": "8.14",
+   "text": "at Noatun, and Frey at Uppsala,"
+  },
+  {
+   "ref": "8.15",
+   "text": "Heimdall at Himinbjorg,"
+  },
+  {
+   "ref": "8.16",
+   "text": "Thor at Thrudvang, Baldr at"
+  },
+  {
+   "ref": "8.17",
+   "text": "Breidablik. To all of them he gave"
+  },
+  {
+   "ref": "8.18",
+   "text": "good homesteads."
+  },
+  {
+   "ref": "6.h",
+   "text": "Chapter VI. Of Odin's accomplishments."
+  },
+  {
+   "ref": "8.20",
+   "text": "When Odin of the Æsir came to the northern lands"
+  },
+  {
+   "ref": "9.16",
+   "text": "He and his temple priests are called song-smiths,"
+  },
+  {
+   "ref": "9.17",
+   "text": "because that art began"
+  },
+  {
+   "ref": "9.18",
+   "text": "with them in the northern lands. Odin"
+  },
+  {
+   "ref": "9.19",
+   "text": "could bring it about that in battle"
+  },
+  {
+   "ref": "9.20",
+   "text": "his enemies became blind or deaf or terror-struck,"
+  },
+  {
+   "ref": "9.21",
+   "text": "and their weapons bit no"
+  },
+  {
+   "ref": "9.22",
+   "text": "more than sticks; but his men went"
+  },
+  {
+   "ref": "9.23",
+   "text": "without mail-coats and were mad as"
+  },
+  {
+   "ref": "9.24",
+   "text": "dogs or wolves, bit into their shields,"
+  },
+  {
+   "ref": "9.25",
+   "text": "were strong as bears or bulls."
+  },
+  {
+   "ref": "9.26",
+   "text": "They slew people, and"
+  },
+  {
+   "ref": "9.27",
+   "text": "neither fire nor iron had any effect on them."
+  },
+  {
+   "ref": "10.1",
+   "text": "That is called going berserk."
+  },
+  {
+   "ref": "7.h",
+   "text": "Chapter VII. Of Odin's skills."
+  },
+  {
+   "ref": "7.2a",
+   "text": "Odin changed shapes; then his body lay"
+  },
+  {
+   "ref": "10.3",
+   "text": "as if asleep or dead, while he was"
+  },
+  {
+   "ref": "10.4",
+   "text": "then a bird or beast, a fish or serpent, and"
+  },
+  {
+   "ref": "10.5",
+   "text": "went in a single instant to far-off"
+  },
+  {
+   "ref": "10.6",
+   "text": "lands on his own errands or other men's."
+  },
+  {
+   "ref": "10.7",
+   "text": "He could also do this: with words"
+  },
+  {
+   "ref": "10.8",
+   "text": "alone quench fire and calm the sea,"
+  },
+  {
+   "ref": "10.9",
+   "text": "and turn the winds whichever way he"
+  },
+  {
+   "ref": "10.10",
+   "text": "wished. And he had a ship called Skidbladnir,"
+  },
+  {
+   "ref": "10.11",
+   "text": "on which he went over great seas, and"
+  },
+  {
+   "ref": "10.12",
+   "text": "it could be folded up like a cloth."
+  },
+  {
+   "ref": "10.13",
+   "text": "Odin had with him Mimir's head, and"
+  },
+  {
+   "ref": "10.14",
+   "text": "it told him many tidings from"
+  },
+  {
+   "ref": "10.15",
+   "text": "other worlds; and sometimes he woke"
+  },
+  {
+   "ref": "10.16",
+   "text": "dead men up out of the earth, or sat"
+  },
+  {
+   "ref": "10.17",
+   "text": "beneath hanged men; for this he was called"
+  },
+  {
+   "ref": "10.18",
+   "text": "lord of the dead or lord of the hanged."
+  },
+  {
+   "ref": "10.19",
+   "text": "He had two ravens which he had"
+  },
+  {
+   "ref": "10.20",
+   "text": "taught to speak; they flew far over"
+  },
+  {
+   "ref": "10.21",
+   "text": "lands and told him many tidings."
+  },
+  {
+   "ref": "10.22",
+   "text": "From these things he became greatly"
+  },
+  {
+   "ref": "10.23",
+   "text": "learned. All these skills"
+  },
+  {
+   "ref": "10.24",
+   "text": "he taught with runes and songs,"
+  },
+  {
+   "ref": "10.25",
+   "text": "those that are called incantations; for this reason"
+  },
+  {
+   "ref": "10.26",
+   "text": "the Æsir are called smiths of incantations."
+  },
+  {
+   "ref": "10.27",
+   "text": "Odin knew the art which carries the greatest"
+  },
+  {
+   "ref": "11.1",
+   "text": "power, and practised it himself; it"
+  },
+  {
+   "ref": "11.2",
+   "text": "is called *seiðr* [sorcery]. And by it he could know"
+  },
+  {
+   "ref": "11.3",
+   "text": "the fates of men and things yet to happen; also"
+  },
+  {
+   "ref": "11.4",
+   "text": "bring men death or misfortune"
+  },
+  {
+   "ref": "11.5",
+   "text": "or ill health; also take from men"
+  },
+  {
+   "ref": "11.6",
+   "text": "wit or strength and give [it] to others. But"
+  },
+  {
+   "ref": "11.7",
+   "text": "this sorcery, when it is practised, brings with it"
+  },
+  {
+   "ref": "11.8",
+   "text": "such *ergi* [unmanliness] that it was not thought fit for"
+  },
+  {
+   "ref": "11.9",
+   "text": "men to have dealings with it, and the priestesses were taught"
+  },
+  {
+   "ref": "11.10",
+   "text": "that art. Odin knew of all treasure in the earth,"
+  },
+  {
+   "ref": "11.11",
+   "text": "where it was hidden, and he knew"
+  },
+  {
+   "ref": "11.12",
+   "text": "the songs by which the earth opened up before him,"
+  },
+  {
+   "ref": "11.13",
+   "text": "and the hills and rocks and burial mounds,"
+  },
+  {
+   "ref": "11.14",
+   "text": "and with words alone he bound those"
+  },
+  {
+   "ref": "11.15",
+   "text": "who dwelt within, and went in and took there"
+  },
+  {
+   "ref": "11.16",
+   "text": "whatever he wished. Through these powers"
+  },
+  {
+   "ref": "11.17",
+   "text": "he became very famous. His enemies"
+  },
+  {
+   "ref": "11.18",
+   "text": "feared him, and his friends trusted"
+  },
+  {
+   "ref": "11.19",
+   "text": "in him and believed in his power and"
+  },
+  {
+   "ref": "11.20",
+   "text": "in himself. And he taught most of"
+  },
+  {
+   "ref": "11.21",
+   "text": "his skills to the sacrificial priests; they were"
+  },
+  {
+   "ref": "11.22",
+   "text": "next to him in all lore and"
+  },
+  {
+   "ref": "11.23",
+   "text": "sorcery. Many others, though, learned"
+  },
+  {
+   "ref": "11.24",
+   "text": "much of it, and from there has spread"
+  },
+  {
+   "ref": "11.25",
+   "text": "the sorcery widely, and it has lasted long."
+  },
+  {
+   "ref": "11.26",
+   "text": "And Odin and those twelve chieftains people worshipped"
+  },
+  {
+   "ref": "12.1",
+   "text": "and called their gods, and believed"
+  },
+  {
+   "ref": "12.11",
+   "text": "be burned, and that there be borne onto the pyre with"
+  },
+  {
+   "ref": "12.12",
+   "text": "them their property. He said this, that"
+  },
+  {
+   "ref": "12.13",
+   "text": "with such wealth should"
+  },
+  {
+   "ref": "12.14",
+   "text": "each man come to Valhalla as"
+  },
+  {
+   "ref": "12.15",
+   "text": "he had on the pyre, and he should"
+  },
+  {
+   "ref": "12.16",
+   "text": "also enjoy what he himself had"
+  },
+  {
+   "ref": "9.h",
+   "text": "Chapter 9. Njord's marriage."
+  },
+  {
+   "ref": "9.5a",
+   "text": "Njord took a wife who"
+  },
+  {
+   "ref": "13.6",
+   "text": "was called Skadi. She would not live with him as his wife,"
+  },
+  {
+   "ref": "13.7",
+   "text": "and afterwards married Odin. They had"
+  },
+  {
+   "ref": "13.8",
+   "text": "many sons. One of them was called Saeming."
+  },
+  {
+   "ref": "13.9",
+   "text": "About him Eyvind Skaldaspillir composed"
+  },
+  {
+   "ref": "13.27",
+   "text": "many tidings."
+  },
+  {
+   "ref": "9.ha",
+   "text": "X. Odin's death."
+  },
+  {
+   "ref": "13.28",
+   "text": "Odin died of sickness in Sweden."
+  },
+  {
+   "ref": "13.29",
+   "text": "And when he was near death,"
+  },
+  {
+   "ref": "13.30",
+   "text": "he had himself marked with a spear-point, and"
+  },
+  {
+   "ref": "13.31",
+   "text": "claimed for himself all men who died by weapons."
+  },
+  {
+   "ref": "13.32",
+   "text": "He said he would go to Godheim"
+  },
+  {
+   "ref": "13.33",
+   "text": "and welcome his friends there. Now"
+  },
+  {
+   "ref": "13.34",
+   "text": "the Swedes believed that he had come into"
+  },
+  {
+   "ref": "13.35",
+   "text": "the old Asgard and would there"
+  },
+  {
+   "ref": "13.36",
+   "text": "live forever. Then began anew"
+  },
+  {
+   "ref": "13.37",
+   "text": "belief in Odin and vows to him. Often"
+  },
+  {
+   "ref": "13.38",
+   "text": "it seemed to the Swedes that he appeared to them before great"
+  },
+  {
+   "ref": "13.39",
+   "text": "battles took place; to some he then gave"
+  },
+  {
+   "ref": "13.40",
+   "text": "victory, and others he invited to"
+  },
+  {
+   "ref": "13.41",
+   "text": "himself; both lots were thought good."
+  },
+  {
+   "ref": "13.42",
+   "text": "Odin was burned when dead, and that"
+  },
+  {
+   "ref": "13.43",
+   "text": "burning was made very splendid. It was"
+  },
+  {
+   "ref": "13.44",
+   "text": "their belief that the higher the smoke"
+  },
+  {
+   "ref": "13.45",
+   "text": "rose up into the air, the"
+  },
+  {
+   "ref": "13.46",
+   "text": "more exalted in heaven would be the one whose"
+  },
+  {
+   "ref": "13.47",
+   "text": "burning it was, and the richer,"
+  },
+  {
+   "ref": "13.48",
+   "text": "the more wealth burned with him."
+  },
+  {
+   "ref": "11.h",
+   "text": "Chapter XI. Of Njord."
+  },
+  {
+   "ref": "11.49",
+   "text": "Njord of Noatun then became"
+  },
+  {
+   "ref": "13.50",
+   "text": "ruler over the Swedes, and kept"
+  },
+  {
+   "ref": "13.51",
+   "text": "up the sacrifices. The Swedes then called him"
+  },
+  {
+   "ref": "13.52",
+   "text": "their lord. He then received tribute"
+  },
+  {
+   "ref": "13.53",
+   "text": "from them. In his days there was peace,"
+  },
+  {
+   "ref": "15.1",
+   "text": "very good, and plenty of every kind, so great"
+  },
+  {
+   "ref": "15.2",
+   "text": "that the Swedes believed that Njord had power"
+  },
+  {
+   "ref": "15.3",
+   "text": "over the harvest and over men's wealth. In his days"
+  },
+  {
+   "ref": "15.4",
+   "text": "most of the *díar* [priest-chieftains] died, and all were given sacrifice and"
+  },
+  {
+   "ref": "15.5",
+   "text": "burned afterwards. Njord died of sickness;"
+  },
+  {
+   "ref": "15.6",
+   "text": "he too had himself marked for Odin before he died. The Swedes burned him and wept very"
+  },
+  {
+   "ref": "15.7",
+   "text": "much over his grave."
+  },
+  {
+   "ref": "10.h",
+   "text": "Chapter XII. Frey's death."
+  },
+  {
+   "ref": "15.9",
+   "text": "Frey then took the kingdom after Njord."
+  },
+  {
+   "ref": "15.10",
+   "text": "He was called lord over the Swedes and"
+  },
+  {
+   "ref": "15.11",
+   "text": "received tribute from them. He was"
+  },
+  {
+   "ref": "15.12",
+   "text": "well liked and blessed with good harvests, like his father."
+  },
+  {
+   "ref": "15.13",
+   "text": "Frey raised a great temple at Uppsala"
+  },
+  {
+   "ref": "15.14",
+   "text": "and made his chief seat there; he gave"
+  },
+  {
+   "ref": "15.15",
+   "text": "to it all his dues, lands and"
+  },
+  {
+   "ref": "15.16",
+   "text": "movable wealth. Then the Uppsala estate began,"
+  },
+  {
+   "ref": "15.17",
+   "text": "and it has been kept ever since. In his"
+  },
+  {
+   "ref": "15.18",
+   "text": "days the Peace of Frodi began; then there were"
+  },
+  {
+   "ref": "15.19",
+   "text": "also good harvests in all lands. The Swedes credited"
+  },
+  {
+   "ref": "15.20",
+   "text": "that to Frey; he was the more worshipped"
+  },
+  {
+   "ref": "15.21",
+   "text": "than the other gods, as in his days"
+  },
+  {
+   "ref": "15.22",
+   "text": "the people of the land became richer"
+  },
+  {
+   "ref": "15.23",
+   "text": "than before through the peace and good harvests. Gerd,"
+  },
+  {
+   "ref": "15.24",
+   "text": "Gymir's daughter, was his wife's name. Their son"
+  },
+  {
+   "ref": "15.25",
+   "text": "was called Fjolnir. Frey was called Yngvi"
+  },
+  {
+   "ref": "15.26",
+   "text": "by another name. The name Yngvi was"
+  },
+  {
+   "ref": "16.1",
+   "text": "long afterwards used in his line as"
+  },
+  {
+   "ref": "16.2",
+   "text": "a title of honour, and his kinsmen were afterwards"
+  },
+  {
+   "ref": "16.3",
+   "text": "called Ynglings. Frey fell sick,"
+  },
+  {
+   "ref": "16.4",
+   "text": "and when the sickness gained on him, men sought"
+  },
+  {
+   "ref": "16.5",
+   "text": "a plan, and let few men come to him,"
+  },
+  {
+   "ref": "16.6",
+   "text": "and they built a great mound and"
+  },
+  {
+   "ref": "16.7",
+   "text": "put a door in it and three windows. And when"
+  },
+  {
+   "ref": "16.8",
+   "text": "Frey was dead, they carried him secretly"
+  },
+  {
+   "ref": "16.9",
+   "text": "into the mound, and told the Swedes"
+  },
+  {
+   "ref": "16.10",
+   "text": "that he was alive, and kept him"
+  },
+  {
+   "ref": "16.11",
+   "text": "there three winters; and all the tribute they poured"
+  },
+  {
+   "ref": "16.12",
+   "text": "into the mound: through one window the gold,"
+  },
+  {
+   "ref": "16.13",
+   "text": "and through the second the silver, through the"
+  },
+  {
+   "ref": "16.14",
+   "text": "third copper pennies. Then good harvests"
+  },
+  {
+   "ref": "16.15",
+   "text": "and peace continued."
+  },
+  {
+   "ref": "13.h",
+   "text": "XIII. Of Freyja and her daughters."
+  },
+  {
+   "ref": "13.15a",
+   "text": "Freyja then kept up"
+  },
+  {
+   "ref": "16.16",
+   "text": "the sacrifices, because she alone survived"
+  },
+  {
+   "ref": "16.17",
+   "text": "then of the gods, and she became"
+  },
+  {
+   "ref": "16.18",
+   "text": "then the most renowned, so that"
+  },
+  {
+   "ref": "16.19",
+   "text": "by her name should be called all"
+  },
+  {
+   "ref": "16.20",
+   "text": "women of rank, just as they are now called"
+  },
+  {
+   "ref": "16.21",
+   "text": "*frúvor* [ladies]. So too each woman is called *freyja* [lady]"
+  },
+  {
+   "ref": "16.22",
+   "text": "over her own property, and she *húsfreyja* [mistress of the house] who"
+  },
+  {
+   "ref": "16.23",
+   "text": "owns a household. Freyja was rather"
+  },
+  {
+   "ref": "16.24",
+   "text": "fickle. Her husband was called Od."
+  },
+  {
+   "ref": "16.25",
+   "text": "Her daughters were called Hnoss and Gersemi;"
+  },
+  {
+   "ref": "16.26",
+   "text": "they were very beautiful. From"
+  },
+  {
+   "ref": "17.1",
+   "text": "their names the most precious"
+  },
+  {
+   "ref": "17.2",
+   "text": "treasures are so called. When all the Swedes knew"
+  },
+  {
+   "ref": "17.3",
+   "text": "that Frey was dead, and yet there continued"
+  },
+  {
+   "ref": "17.4",
+   "text": "good harvests and peace, they believed that it would"
+  },
+  {
+   "ref": "17.5",
+   "text": "be so as long as Frey was in Sweden,"
+  },
+  {
+   "ref": "17.6",
+   "text": "and they would not burn him, and"
+  },
+  {
+   "ref": "17.7",
+   "text": "called him god of the world, and sacrificed to him most of all"
+  },
+  {
+   "ref": "17.8",
+   "text": "for good harvests and peace for all time after."
+  },
+  {
+   "ref": "11.ha",
+   "text": "Chapter XIV. The death of King Fjolnir."
+  },
+  {
+   "ref": "17.10",
+   "text": "Fjolnir, son of Yngvi-Frey, then ruled"
+  },
+  {
+   "ref": "19.10",
+   "text": "when Svegdir went from the drinking to"
+  },
+  {
+   "ref": "19.11",
+   "text": "his sleeping-chamber, he looked toward the stone [and saw] that"
+  },
+  {
+   "ref": "19.12",
+   "text": "a dwarf sat under the stone. Svegdir"
+  },
+  {
+   "ref": "19.13",
+   "text": "and his men were very drunk, and they ran"
+  },
+  {
+   "ref": "19.14",
+   "text": "to the stone. The dwarf stood in"
+  },
+  {
+   "ref": "20.4",
+   "text": "gaped at the prince."
+  },
+  {
+   "ref": "13.ha",
+   "text": "Chapter 16. Of Vanlandi."
+  },
+  {
+   "ref": "20.6",
+   "text": "Vanlandi was the name of Svegdir's son, who"
+  },
+  {
+   "ref": "20.7",
+   "text": "took the kingdom after him and ruled over the Uppsala"
+  },
+  {
+   "ref": "20.8",
+   "text": "wealth. He was a great warrior, and he travelled"
+  },
+  {
+   "ref": "20.14",
+   "text": "back within three winters. But"
+  },
+  {
+   "ref": "20.15",
+   "text": "he did not come in ten winters. Then"
+  },
+  {
+   "ref": "20.16",
+   "text": "Drifa sent for Huld the sorceress, and"
+  },
+  {
+   "ref": "20.17",
+   "text": "sent Visbur, her son and Vanlandi's,"
+  },
+  {
+   "ref": "20.18",
+   "text": "to Sweden. Drifa bargained with"
+  },
+  {
+   "ref": "20.19",
+   "text": "Huld the sorceress that she should"
+  },
+  {
+   "ref": "20.20",
+   "text": "draw Vanlandi by sorcery to Finland,"
+  },
+  {
+   "ref": "20.21",
+   "text": "or else kill him. And"
+  },
+  {
+   "ref": "20.22",
+   "text": "when the sorcery was performed, Vanlandi was"
+  },
+  {
+   "ref": "20.23",
+   "text": "at Uppsala. Then he grew"
+  },
+  {
+   "ref": "20.24",
+   "text": "eager to go to Finland. But"
+  },
+  {
+   "ref": "20.25",
+   "text": "his friends and counsellors forbade him"
+  },
+  {
+   "ref": "20.26",
+   "text": "and said that it must be the sorcery"
+  },
+  {
+   "ref": "20.27",
+   "text": "of the Finns in his eagerness. Then he grew"
+  },
+  {
+   "ref": "21.1",
+   "text": "heavy with sleep, and he lay down to"
+  },
+  {
+   "ref": "21.2",
+   "text": "sleep. But when he had slept only a little,"
+  },
+  {
+   "ref": "21.3",
+   "text": "he cried out and said that a *mara* [night-hag] was trampling"
+  },
+  {
+   "ref": "21.4",
+   "text": "him. His men went to him and wanted to help him."
+  },
+  {
+   "ref": "21.5",
+   "text": "But when they took hold up at his head,"
+  },
+  {
+   "ref": "21.6",
+   "text": "she trampled his legs so that they nearly"
+  },
+  {
+   "ref": "21.7",
+   "text": "broke. Then they took hold of his feet;"
+  },
+  {
+   "ref": "21.8",
+   "text": "then she pressed down on his head so that there"
+  },
+  {
+   "ref": "21.9",
+   "text": "he died. The Swedes took his body, and he was"
+  },
+  {
+   "ref": "21.10",
+   "text": "burned by a river called Skuta. There"
+  },
+  {
+   "ref": "22.13",
+   "text": "be the death of the best man"
+  },
+  {
+   "ref": "22.14",
+   "text": "in his line, and they went away home."
+  },
+  {
+   "ref": "22.15",
+   "text": "Then once more *seiðr* [sorcery] was procured and worked,"
+  },
+  {
+   "ref": "22.16",
+   "text": "so that they might be able to kill"
+  },
+  {
+   "ref": "22.17",
+   "text": "their father. Then Huld the seeress told"
+  },
+  {
+   "ref": "22.18",
+   "text": "them that she would work *seiðr* so, and"
+  },
+  {
+   "ref": "22.19",
+   "text": "with this besides, that kin-slayings would always"
+  },
+  {
+   "ref": "22.20",
+   "text": "be in the line of the Ynglings from then on. They"
+  },
+  {
+   "ref": "22.21",
+   "text": "agreed to that. After that they gathered"
+  },
+  {
+   "ref": "22.22",
+   "text": "a force and came upon Visbur by night"
+  },
+  {
+   "ref": "23.12",
+   "text": "Visbur, and ruled the lands. In his days"
+  },
+  {
+   "ref": "23.13",
+   "text": "there came famine and want in Sweden. Then"
+  },
+  {
+   "ref": "23.14",
+   "text": "the Swedes held great sacrifices at Uppsala."
+  },
+  {
+   "ref": "23.15",
+   "text": "The first autumn they sacrificed oxen,"
+  },
+  {
+   "ref": "23.16",
+   "text": "and the harvests grew no better for that."
+  },
+  {
+   "ref": "33.24",
+   "text": "the king was no warrior, and he sat"
+  },
+  {
+   "ref": "33.25",
+   "text": "quietly at home on his lands. He was very"
+  },
+  {
+   "ref": "33.26",
+   "text": "rich, and miserly with his wealth. He had"
+  },
+  {
+   "ref": "33.27",
+   "text": "at his court many entertainers of every kind,"
+  },
+  {
+   "ref": "33.28",
+   "text": "harpers, and *gígja*-players [players of a stringed instrument], and fiddlers."
+  },
+  {
+   "ref": "33.29",
+   "text": "He also had with him sorcerers and all kinds of"
+  },
+  {
+   "ref": "34.1",
+   "text": "folk skilled in witchcraft. Haki and"
+  },
+  {
+   "ref": "34.2",
+   "text": "Hagbard were the names of brothers, and they were very"
+  },
+  {
+   "ref": "34.3",
+   "text": "renowned. They were sea-kings and had a force"
+  },
+  {
+   "ref": "39.17",
+   "text": "Ali's fall King Aun went back to"
+  },
+  {
+   "ref": "39.18",
+   "text": "Uppsala and ruled the kingdom there for another"
+  },
+  {
+   "ref": "39.19",
+   "text": "twenty-five [years]. Then he held a great sacrifice and"
+  },
+  {
+   "ref": "39.20",
+   "text": "sacrificed his second son. Then"
+  },
+  {
+   "ref": "39.21",
+   "text": "Odin told him that he would"
+  },
+  {
+   "ref": "39.22",
+   "text": "live for ever, as long as he gave Odin one of his sons"
+  },
+  {
+   "ref": "39.23",
+   "text": "every tenth year, and this"
+  },
+  {
+   "ref": "39.24",
+   "text": "besides, that he should give a name"
+  },
+  {
+   "ref": "39.25",
+   "text": "to some district in his land after"
+  },
+  {
+   "ref": "39.26",
+   "text": "the number of his sons whom he sacrificed"
+  },
+  {
+   "ref": "39.27",
+   "text": "to Odin. But when he"
+  },
+  {
+   "ref": "39.28",
+   "text": "had sacrificed seven of his sons,"
+  },
+  {
+   "ref": "40.1",
+   "text": "he lived ten winters such that he"
+  },
+  {
+   "ref": "40.2",
+   "text": "could not walk; he was then carried on"
+  },
+  {
+   "ref": "40.3",
+   "text": "a chair. Then he sacrificed his"
+  },
+  {
+   "ref": "40.4",
+   "text": "eighth son, and he lived then another"
+  },
+  {
+   "ref": "40.5",
+   "text": "ten winters and lay then bedridden."
+  },
+  {
+   "ref": "40.6",
+   "text": "Then he sacrificed"
+  },
+  {
+   "ref": "40.7",
+   "text": "his ninth son, and lived then another ten winters;"
+  },
+  {
+   "ref": "40.8",
+   "text": "then he drank from a horn like an infant."
+  },
+  {
+   "ref": "40.9",
+   "text": "Then [he] had one son left, and"
+  },
+  {
+   "ref": "40.10",
+   "text": "he wanted then to sacrifice him, and then"
+  },
+  {
+   "ref": "40.11",
+   "text": "he wanted to give Odin Uppsala and the"
+  },
+  {
+   "ref": "40.12",
+   "text": "districts that belong to it, and have it called"
+  },
+  {
+   "ref": "40.13",
+   "text": "the Tenth Land. The Swedes forbade"
+  },
+  {
+   "ref": "40.14",
+   "text": "him that, and then there was no sacrifice. Afterwards"
+  },
+  {
+   "ref": "40.15",
+   "text": "King Aun died, and he is buried in a mound"
+  },
+  {
+   "ref": "40.16",
+   "text": "at Uppsala. Since then it has been called Aun's"
+  },
+  {
+   "ref": "40.17",
+   "text": "sickness if a man dies without ailment of"
+  },
+  {
+   "ref": "40.18",
+   "text": "old age. So says Thjodolf:"
+  },
+  {
+   "ref": "40.19",
+   "text": "Once did,"
+  },
+  {
+   "ref": "40.20",
+   "text": "at Uppsala,"
+  },
+  {
+   "ref": "131.5",
+   "text": "Gunnhild, and said that her father"
+  },
+  {
+   "ref": "131.6",
+   "text": "lived in Halogaland; he"
+  },
+  {
+   "ref": "131.7",
+   "text": "was called Ozur Toti. 'I have been here"
+  },
+  {
+   "ref": "131.8",
+   "text": "for this,' she says, 'to learn magic"
+  },
+  {
+   "ref": "131.9",
+   "text": "from two Finns who are here"
+  },
+  {
+   "ref": "131.10",
+   "text": "the most knowing in the forest. Now they have"
+  },
+  {
+   "ref": "131.11",
+   "text": "gone hunting, and both of them want"
+  },
+  {
+   "ref": "131.12",
+   "text": "to have me, and both are so skilled"
+  },
+  {
+   "ref": "131.13",
+   "text": "that they follow tracks like hounds,"
+  },
+  {
+   "ref": "131.14",
+   "text": "both on thawed ground and on hard snow. And"
+  },
+  {
+   "ref": "131.15",
+   "text": "they go so well on skis that"
+  },
+  {
+   "ref": "131.16",
+   "text": "nothing can escape them, neither men"
+  },
+  {
+   "ref": "131.17",
+   "text": "nor beasts; and whatever they shoot"
+  },
+  {
+   "ref": "131.18",
+   "text": "at, they hit. So they have destroyed"
+  },
+  {
+   "ref": "131.19",
+   "text": "every man who has come here"
+  },
+  {
+   "ref": "131.20",
+   "text": "near, and if they grow angry"
+  },
+  {
+   "ref": "131.21",
+   "text": "the earth turns over before their"
+  },
+  {
+   "ref": "131.22",
+   "text": "eyes. And if any living thing comes"
+  },
+  {
+   "ref": "131.23",
+   "text": "before their eyes, it falls down dead."
+  },
+  {
+   "ref": "131.24",
+   "text": "Now you must by no"
+  },
+  {
+   "ref": "131.25",
+   "text": "means come in their way, unless I"
+  },
+  {
+   "ref": "132.1",
+   "text": "then try whether we can kill"
+  },
+  {
+   "ref": "132.2",
+   "text": "them. They agreed to this, that she hid"
+  },
+  {
+   "ref": "132.3",
+   "text": "them. She took a linen sack, and"
+  },
+  {
+   "ref": "132.4",
+   "text": "they thought there were ashes in it. She took"
+  },
+  {
+   "ref": "132.5",
+   "text": "some of it in her hand and sprinkled it about the hut,"
+  },
+  {
+   "ref": "132.6",
+   "text": "outside and in. A little later"
+  },
+  {
+   "ref": "132.7",
+   "text": "the Finns come in. They ask what"
+  },
+  {
+   "ref": "132.8",
+   "text": "has come there. She says that nothing"
+  },
+  {
+   "ref": "132.9",
+   "text": "has come. The Finns think that strange,"
+  },
+  {
+   "ref": "132.10",
+   "text": "since they had followed the tracks all [the way]"
+  },
+  {
+   "ref": "132.11",
+   "text": "to the hut, but after that they find"
+  },
+  {
+   "ref": "132.12",
+   "text": "nothing. Then they make themselves a fire and prepare food,"
+  },
+  {
+   "ref": "132.13",
+   "text": "and when they were fed, Gunnhild makes up"
+  },
+  {
+   "ref": "132.14",
+   "text": "her bed. Now it had gone so"
+  },
+  {
+   "ref": "132.15",
+   "text": "for three nights before, that Gunnhild has"
+  },
+  {
+   "ref": "132.16",
+   "text": "slept, but each of them has kept watch"
+  },
+  {
+   "ref": "132.17",
+   "text": "over the other out of jealousy."
+  },
+  {
+   "ref": "132.18",
+   "text": "Then she said: Come here now,"
+  },
+  {
+   "ref": "132.19",
+   "text": "and lie down on either side of me,"
+  },
+  {
+   "ref": "132.20",
+   "text": "each of you two. They were, at this,"
+  },
+  {
+   "ref": "132.21",
+   "text": "glad, and did so. She held"
+  },
+  {
+   "ref": "132.22",
+   "text": "a hand round the neck of each"
+  },
+  {
+   "ref": "132.23",
+   "text": "of them. They fall asleep at once, but she"
+  },
+  {
+   "ref": "132.24",
+   "text": "wakes them, and soon again they fall asleep,"
+  },
+  {
+   "ref": "132.25",
+   "text": "and so fast that she"
+  },
+  {
+   "ref": "132.26",
+   "text": "can hardly wake them, and again"
+  },
+  {
+   "ref": "132.27",
+   "text": "they fall asleep, and then she can by"
+  },
+  {
+   "ref": "133.1",
+   "text": "no means wake them. And then she sets"
+  },
+  {
+   "ref": "133.2",
+   "text": "them up, and still they sleep."
+  },
+  {
+   "ref": "133.3",
+   "text": "She then takes two big sealskin bags"
+  },
+  {
+   "ref": "133.4",
+   "text": "and pulls them over their heads and ties"
+  },
+  {
+   "ref": "133.5",
+   "text": "them fast below the arms. Then"
+  },
+  {
+   "ref": "133.6",
+   "text": "she gives a signal to the king's men. They run"
+  },
+  {
+   "ref": "133.7",
+   "text": "forward then and bring weapons against"
+  },
+  {
+   "ref": "135.31",
+   "text": "King Harald also wanted it to be. They were,"
+  },
+  {
+   "ref": "135.32",
+   "text": "father and son, together for long periods. Rognvald"
+  },
+  {
+   "ref": "135.33",
+   "text": "Rettilbeini held Hadeland."
+  },
+  {
+   "ref": "135.34",
+   "text": "He learned sorcery and became a *seiðmaðr* [practitioner of *seiðr*, sorcery]."
+  },
+  {
+   "ref": "135.35",
+   "text": "King Harald held *seiðr*-men to be evil."
+  },
+  {
+   "ref": "135.36",
+   "text": "In Hordaland there was a *seiðr*-man who was called"
+  },
+  {
+   "ref": "135.37",
+   "text": "Vitgeir. The king sent him word and bade"
+  },
+  {
+   "ref": "135.38",
+   "text": "him give up *seiðr*. He answers and recites:"
+  },
+  {
+   "ref": "135.39",
+   "text": "That is small harm"
+  },
+  {
+   "ref": "135.40",
+   "text": "that we work *seiðr*,"
+  },
+  {
+   "ref": "135.41",
+   "text": "children of old men"
+  },
+  {
+   "ref": "135.42",
+   "text": "and of old women,"
+  },
+  {
+   "ref": "135.43",
+   "text": "when Rognvald works *seiðr*,"
+  },
+  {
+   "ref": "135.44",
+   "text": "Rettilbeini,"
+  },
+  {
+   "ref": "135.45",
+   "text": "Harald's glorious son,"
+  },
+  {
+   "ref": "135.46",
+   "text": "in Hadeland."
+  },
+  {
+   "ref": "135.47",
+   "text": "And when King Harald heard this told, then with"
+  },
+  {
+   "ref": "135.48",
+   "text": "his counsel Eirik Bloodaxe went to"
+  },
+  {
+   "ref": "135.49",
+   "text": "the Uplands and came to Hadeland. He burned"
+  },
+  {
+   "ref": "135.50",
+   "text": "his brother Rognvald inside [his house] with eighty"
+  },
+  {
+   "ref": "135.51",
+   "text": "sorcerers, and that deed was much praised."
+  },
+  {
+   "ref": "135.52",
+   "text": "Gudrod Ljomi was during the winter"
+  },
+  {
+   "ref": "135.53",
+   "text": "with Thjodolf in Hvinir, his foster-father,"
+  },
+  {
+   "ref": "180.10",
+   "text": "Njord's toast and Frey's toast, for good harvest and peace."
+  },
+  {
+   "ref": "180.11",
+   "text": "Then it was customary for many men to drink"
+  },
+  {
+   "ref": "180.12",
+   "text": "next the *bragafull* [toast of the foremost]. Men drank"
+  },
+  {
+   "ref": "180.13",
+   "text": "also toasts to their kinsmen, those who had been laid"
+  },
+  {
+   "ref": "180.14",
+   "text": "in mounds, and these were called *minni* [memorial toasts]."
+  },
+  {
+   "ref": "180.22",
+   "text": "the offspring, with him to that place,"
+  },
+  {
+   "ref": "180.23",
+   "text": "of the wealth-wounder, to bring;"
+  },
+  {
+   "ref": "180.24",
+   "text": "the gods beguiled Thjazi."
+  },
+  {
+   "ref": "180.25",
+   "text": "Who would, with the ruler of the sanctuary,"
+  },
+  {
+   "ref": "180.26",
+   "text": "of the kin [of men], contend?"
+  },
+  {
+   "ref": "184.8",
+   "text": "it was also the case that the king sat in the high seat,"
+  },
+  {
+   "ref": "184.9",
+   "text": "his own. And when the first toast"
+  },
+  {
+   "ref": "184.10",
+   "text": "had been poured, Earl Sigurd spoke the words over it and"
+  },
+  {
+   "ref": "184.11",
+   "text": "dedicated it to Odin and drank from the horn"
+  },
+  {
+   "ref": "184.12",
+   "text": "to the king. The king took it and made a cross"
+  },
+  {
+   "ref": "184.13",
+   "text": "sign over it. Then Kar of Gryting said:"
+  },
+  {
+   "ref": "184.14",
+   "text": "Why does the king act so now? Will he"
+  },
+  {
+   "ref": "184.15",
+   "text": "still not sacrifice? Earl Sigurd answers: The king does"
+  },
+  {
+   "ref": "184.16",
+   "text": "as all those do who trust in their might"
+  },
+  {
+   "ref": "184.17",
+   "text": "and main, and dedicate their toast"
+  },
+  {
+   "ref": "184.18",
+   "text": "to Thor. He made the sign of the hammer over it"
+  },
+  {
+   "ref": "184.19",
+   "text": "before he drank. Then all was quiet"
+  },
+  {
+   "ref": "184.20",
+   "text": "through the evening. The next day, when"
+  },
+  {
+   "ref": "184.21",
+   "text": "men went to table, the farmers thronged"
+  },
+  {
+   "ref": "278.17",
+   "text": "the time when he came to the Scillies."
+  },
+  {
+   "ref": "183.h",
+   "text": "Chapter 31. King Olaf Tryggvason is baptised in the Scillies."
+  },
+  {
+   "ref": "278.18",
+   "text": "Olaf Tryggvason, when he lay in the Scillies,"
+  },
+  {
+   "ref": "278.19",
+   "text": "heard that there on the island"
+  },
+  {
+   "ref": "278.20",
+   "text": "was a certain seer, who foretold"
+  },
+  {
+   "ref": "278.21",
+   "text": "things not yet come to pass, and many men thought"
+  },
+  {
+   "ref": "278.22",
+   "text": "that it mostly came true. Olaf grew"
+  },
+  {
+   "ref": "278.23",
+   "text": "curious to test the prophecy"
+  },
+  {
+   "ref": "278.24",
+   "text": "of this man. He sent the one of his men"
+  },
+  {
+   "ref": "278.25",
+   "text": "who was handsomest and biggest, and dressed"
+  },
+  {
+   "ref": "278.26",
+   "text": "him as splendidly as could be, and told him to say"
+  },
+  {
+   "ref": "278.27",
+   "text": "that he was the king; for Olaf had"
+  },
+  {
+   "ref": "278.28",
+   "text": "by then become famous for this throughout all"
+  },
+  {
+   "ref": "278.29",
+   "text": "lands, that he was handsomer and nobler"
+  },
+  {
+   "ref": "279.1",
+   "text": "and bigger than all other men. But"
+  },
+  {
+   "ref": "279.2",
+   "text": "since he left Gardariki he had"
+  },
+  {
+   "ref": "279.3",
+   "text": "kept no more of his name, but called"
+  },
+  {
+   "ref": "279.4",
+   "text": "himself Oli and said he was from Gardar. And when"
+  },
+  {
+   "ref": "279.5",
+   "text": "the messenger came to the seer and said he"
+  },
+  {
+   "ref": "279.6",
+   "text": "was the king, he got this answer:"
+  },
+  {
+   "ref": "279.7",
+   "text": "You are not the king, but my advice is that"
+  },
+  {
+   "ref": "279.8",
+   "text": "you be true to your king. He says no more"
+  },
+  {
+   "ref": "279.9",
+   "text": "to this man. The messenger goes back and"
+  },
+  {
+   "ref": "279.10",
+   "text": "tells Olaf. He was all the more eager to meet"
+  },
+  {
+   "ref": "279.11",
+   "text": "this man when he heard such"
+  },
+  {
+   "ref": "279.12",
+   "text": "an answer from him, and now his doubt was removed"
+  },
+  {
+   "ref": "279.13",
+   "text": "that he might not be a seer. Then Olaf went"
+  },
+  {
+   "ref": "279.14",
+   "text": "to meet him and had talk with him, and asked"
+  },
+  {
+   "ref": "279.15",
+   "text": "what the seer would foretell for Olaf"
+  },
+  {
+   "ref": "284.13",
+   "text": "all that could be got away. Then"
+  },
+  {
+   "ref": "284.14",
+   "text": "the Danish king meant to sail that force to"
+  },
+  {
+   "ref": "284.15",
+   "text": "Iceland and avenge the *níð* [defamatory verse] with which all"
+  },
+  {
+   "ref": "284.16",
+   "text": "the Icelanders had defamed him. It"
+  },
+  {
+   "ref": "284.17",
+   "text": "had been made law in Iceland that there should be composed"
+  },
+  {
+   "ref": "284.18",
+   "text": "about the Danish king a *níð* verse"
+  },
+  {
+   "ref": "284.19",
+   "text": "for every nose there was in the land. And"
+  },
+  {
+   "ref": "284.20",
+   "text": "the cause of it was that a ship which Icelandic"
+  },
+  {
+   "ref": "284.21",
+   "text": "men owned was wrecked in Denmark,"
+  },
+  {
+   "ref": "284.22",
+   "text": "and the Danes seized all the goods and called [it]"
+  },
+  {
+   "ref": "285.4",
+   "text": "then people saw, in a mare,"
+  },
+  {
+   "ref": "285.5",
+   "text": "one powerless in place of one mighty."
+  },
+  {
+   "ref": "285.6",
+   "text": "King Harald told a man skilled in magic to go"
+  },
+  {
+   "ref": "285.7",
+   "text": "in a changed shape to Iceland and find out"
+  },
+  {
+   "ref": "285.8",
+   "text": "what he could tell him. He went"
+  },
+  {
+   "ref": "285.9",
+   "text": "in the shape of a whale. And when he came to the land,"
+  },
+  {
+   "ref": "285.10",
+   "text": "he went west along the north of the land."
+  },
+  {
+   "ref": "285.11",
+   "text": "He saw that all the mountains and hills"
+  },
+  {
+   "ref": "285.12",
+   "text": "were full of land-spirits, some"
+  },
+  {
+   "ref": "285.13",
+   "text": "big and some small. And when he"
+  },
+  {
+   "ref": "285.14",
+   "text": "came off Vopnafjord, he went"
+  },
+  {
+   "ref": "285.15",
+   "text": "into the fjord and meant to go"
+  },
+  {
+   "ref": "285.16",
+   "text": "ashore. Then down out of"
+  },
+  {
+   "ref": "285.17",
+   "text": "the valley came a great dragon, and with"
+  },
+  {
+   "ref": "285.18",
+   "text": "it came many serpents, toads and lizards,"
+  },
+  {
+   "ref": "285.19",
+   "text": "and they blew venom at him. But he swam"
+  },
+  {
+   "ref": "285.20",
+   "text": "away and west along the land, all the way to"
+  },
+  {
+   "ref": "285.21",
+   "text": "Eyjafjord. He went in along that"
+  },
+  {
+   "ref": "285.22",
+   "text": "fjord. There a bird came against him,"
+  },
+  {
+   "ref": "285.23",
+   "text": "so big that its wings reached"
+  },
+  {
+   "ref": "285.24",
+   "text": "the mountains on both sides, and"
+  },
+  {
+   "ref": "285.25",
+   "text": "a host of other birds, both large"
+  },
+  {
+   "ref": "285.26",
+   "text": "and small. He went away from there"
+  },
+  {
+   "ref": "285.27",
+   "text": "and west around the land, and so south"
+  },
+  {
+   "ref": "285.28",
+   "text": "into Breidafjord, and headed there"
+  },
+  {
+   "ref": "285.29",
+   "text": "into the fjord. There came against him"
+  },
+  {
+   "ref": "286.1",
+   "text": "a great bull, and it waded out into the sea"
+  },
+  {
+   "ref": "286.2",
+   "text": "and began to bellow terribly; a host of"
+  },
+  {
+   "ref": "286.3",
+   "text": "land-spirits followed it. Away"
+  },
+  {
+   "ref": "286.4",
+   "text": "he went from there and south around Reykjanes"
+  },
+  {
+   "ref": "286.5",
+   "text": "and meant to go ashore at"
+  },
+  {
+   "ref": "286.6",
+   "text": "Vikarsskeid. There came against"
+  },
+  {
+   "ref": "286.7",
+   "text": "him a mountain giant with an iron"
+  },
+  {
+   "ref": "286.8",
+   "text": "staff in his hand, and he carried his head"
+  },
+  {
+   "ref": "286.9",
+   "text": "higher than the mountains, and many other"
+  },
+  {
+   "ref": "286.10",
+   "text": "giants with him. From there he went east"
+  },
+  {
+   "ref": "286.11",
+   "text": "along the whole length of the land. There was nothing,"
+  },
+  {
+   "ref": "286.12",
+   "text": "he says, but sands and wastes and"
+  },
+  {
+   "ref": "336.25",
+   "text": "east into the realm of the Swedes."
+  },
+  {
+   "ref": "215.h",
+   "text": "LXVIII. The burning of the sorcerers."
+  },
+  {
+   "ref": "336.26",
+   "text": "King Olaf then went to Tunsberg"
+  },
+  {
+   "ref": "336.27",
+   "text": "and held an assembly there again, and declared"
+  },
+  {
+   "ref": "336.28",
+   "text": "at the assembly that all those men who"
+  },
+  {
+   "ref": "336.29",
+   "text": "were known and proven to"
+  },
+  {
+   "ref": "336.30",
+   "text": "deal in spells and witchcraft, or were sorcerers,"
+  },
+  {
+   "ref": "336.31",
+   "text": "should all go out of the land"
+  },
+  {
+   "ref": "336.32",
+   "text": "and away. Then the king had a search made"
+  },
+  {
+   "ref": "336.33",
+   "text": "for those men throughout the settlements"
+  },
+  {
+   "ref": "336.34",
+   "text": "that were nearby there, and summoned"
+  },
+  {
+   "ref": "336.35",
+   "text": "them all to him. And when they came"
+  },
+  {
+   "ref": "336.36",
+   "text": "there, there was one man among them who"
+  },
+  {
+   "ref": "336.37",
+   "text": "is named Eyvind Kelda. He was"
+  },
+  {
+   "ref": "336.38",
+   "text": "the grandson of Rognvald Straight-leg, the son"
+  },
+  {
+   "ref": "336.39",
+   "text": "of Harald Fairhair. Eyvind was a sorcerer"
+  },
+  {
+   "ref": "336.40",
+   "text": "and very greatly skilled in magic."
+  },
+  {
+   "ref": "336.41",
+   "text": "King Olaf had all these men placed"
+  },
+  {
+   "ref": "336.42",
+   "text": "in one hall, and had it well"
+  },
+  {
+   "ref": "336.43",
+   "text": "furnished; he had a feast made for them there"
+  },
+  {
+   "ref": "336.44",
+   "text": "and gave them strong drink. And"
+  },
+  {
+   "ref": "336.45",
+   "text": "when they were drunk, Olaf had fire"
+  },
+  {
+   "ref": "336.46",
+   "text": "set to the hall, and that hall burned"
+  },
+  {
+   "ref": "336.47",
+   "text": "and all the people who were inside it, except that"
+  },
+  {
+   "ref": "336.48",
+   "text": "Eyvind Kelda got out through"
+  },
+  {
+   "ref": "336.49",
+   "text": "the smoke-hole and so away. And when he"
+  },
+  {
+   "ref": "338.20",
+   "text": "prepared for him an Easter feast. He"
+  },
+  {
+   "ref": "338.21",
+   "text": "had nearly three hundred men. That same night"
+  },
+  {
+   "ref": "338.22",
+   "text": "Eyvind Kelda came there to the island. He"
+  },
+  {
+   "ref": "338.23",
+   "text": "had a longship fully manned; they were"
+  },
+  {
+   "ref": "338.24",
+   "text": "all sorcerers and other witchcraft"
+  },
+  {
+   "ref": "338.25",
+   "text": "folk. Eyvind went ashore from the ship, and"
+  },
+  {
+   "ref": "338.26",
+   "text": "his band, and they worked up their sorcery."
+  },
+  {
+   "ref": "338.27",
+   "text": "Eyvind made for them a concealing"
+  },
+  {
+   "ref": "339.1",
+   "text": "helm and a darkness of fog so great"
+  },
+  {
+   "ref": "339.2",
+   "text": "that the king and his men should not be able"
+  },
+  {
+   "ref": "339.3",
+   "text": "to see them. But when they had come almost"
+  },
+  {
+   "ref": "339.4",
+   "text": "up to the farm at Ogvaldsnes,"
+  },
+  {
+   "ref": "339.5",
+   "text": "then it became bright day. It then turned out very"
+  },
+  {
+   "ref": "339.6",
+   "text": "otherwise than Eyvind had intended. Then"
+  },
+  {
+   "ref": "339.7",
+   "text": "the murk which he had made with"
+  },
+  {
+   "ref": "339.8",
+   "text": "sorcery came over him and his company,"
+  },
+  {
+   "ref": "339.9",
+   "text": "so that they saw no more with their eyes"
+  },
+  {
+   "ref": "339.10",
+   "text": "than with the backs of their heads, and went all round in a ring and"
+  },
+  {
+   "ref": "339.11",
+   "text": "circle. And the king's watchmen saw where"
+  },
+  {
+   "ref": "339.12",
+   "text": "they were going, and did not know what troop that"
+  },
+  {
+   "ref": "339.13",
+   "text": "was. Then it was told to the king. He stood"
+  },
+  {
+   "ref": "339.14",
+   "text": "up, and all his men, and dressed. And when the king"
+  },
+  {
+   "ref": "339.15",
+   "text": "saw where Eyvind and his men were going, he told his"
+  },
+  {
+   "ref": "339.16",
+   "text": "men to arm themselves and go there and find out"
+  },
+  {
+   "ref": "339.17",
+   "text": "what men those were. And when the king's men recognised"
+  },
+  {
+   "ref": "339.18",
+   "text": "Eyvind there, they took him"
+  },
+  {
+   "ref": "339.19",
+   "text": "prisoner, and all of them, and led them"
+  },
+  {
+   "ref": "339.20",
+   "text": "to the king. Then Eyvind told all that had happened"
+  },
+  {
+   "ref": "339.21",
+   "text": "on his journeys. Afterwards the king had them taken,"
+  },
+  {
+   "ref": "339.22",
+   "text": "all of them, and carried out onto a skerry that floods at high tide,"
+  },
+  {
+   "ref": "339.23",
+   "text": "and bound there. Thus Eyvind lost"
+  },
+  {
+   "ref": "339.24",
+   "text": "his life, and all of them. It has since been"
+  },
+  {
+   "ref": "339.25",
+   "text": "called Wizards' Skerry."
+  },
+  {
+   "ref": "221.h",
+   "text": "Chapter 74. Of the assembly in Trondheim."
+  },
+  {
+   "ref": "346.10",
+   "text": "King Olaf went with all his force"
+  },
+  {
+   "ref": "346.11",
+   "text": "into Trondheim. And when he came in to"
+  },
+  {
+   "ref": "346.12",
+   "text": "Mære, there had come there all the"
+  },
+  {
+   "ref": "346.13",
+   "text": "chieftains of the Trondheimers who then stood"
+  },
+  {
+   "ref": "346.14",
+   "text": "most against Christianity, and they had"
+  },
+  {
+   "ref": "347.10",
+   "text": "a few men with him, and a few of the farmers."
+  },
+  {
+   "ref": "347.11",
+   "text": "And when the king came to where the gods"
+  },
+  {
+   "ref": "347.12",
+   "text": "were, Thor sat there, and he was the most"
+  },
+  {
+   "ref": "347.13",
+   "text": "honoured of all the gods, adorned"
+  },
+  {
+   "ref": "347.14",
+   "text": "with gold and silver. King Olaf raised"
+  },
+  {
+   "ref": "347.15",
+   "text": "up a gold-adorned staff which he had"
+  },
+  {
+   "ref": "356.6",
+   "text": "the king threatened him with maiming or death."
+  },
+  {
+   "ref": "356.7",
+   "text": "Eyvind was not moved by that. Then"
+  },
+  {
+   "ref": "356.8",
+   "text": "the king had a basin brought in, full of"
+  },
+  {
+   "ref": "356.9",
+   "text": "glowing embers, and set on Eyvind's belly."
+  },
+  {
+   "ref": "356.10",
+   "text": "Soon his belly burst open. Then"
+  },
+  {
+   "ref": "356.11",
+   "text": "Eyvind said: Take the basin off me;"
+  },
+  {
+   "ref": "356.12",
+   "text": "I want to speak some words before"
+  },
+  {
+   "ref": "356.13",
+   "text": "I die. And so it was done. Then"
+  },
+  {
+   "ref": "356.14",
+   "text": "the king asked: Will you now, Eyvind, believe"
+  },
+  {
+   "ref": "356.15",
+   "text": "in Christ? No, he says, I can receive no"
+  },
+  {
+   "ref": "356.16",
+   "text": "baptism. I am a spirit brought to life"
+  },
+  {
+   "ref": "356.17",
+   "text": "in a man's body by the sorcery"
+  },
+  {
+   "ref": "356.18",
+   "text": "of Finns, and my father and mother"
+  },
+  {
+   "ref": "356.19",
+   "text": "had not been able to have a child before. Then"
+  },
+  {
+   "ref": "356.20",
+   "text": "Eyvind died, and he had been the"
+  },
+  {
+   "ref": "356.21",
+   "text": "most skilled in sorcery of men."
+  },
+  {
+   "ref": "230.h",
+   "text": "Halogaland made Christian."
+  },
+  {
+   "ref": "356.22",
+   "text": "And the following spring King Olaf"
+  },
+  {
+   "ref": "357.14",
+   "text": "wealthy and had many house-carls. He"
+  },
+  {
+   "ref": "357.15",
+   "text": "was a powerful man; a great host of"
+  },
+  {
+   "ref": "357.16",
+   "text": "Finns followed him whenever he needed. Raud was"
+  },
+  {
+   "ref": "357.17",
+   "text": "a great sacrificer and much skilled in sorcery."
+  },
+  {
+   "ref": "357.18",
+   "text": "He was a great friend of the man who was named before,"
+  },
+  {
+   "ref": "357.19",
+   "text": "Thorir Hjort. They were"
+  },
+  {
+   "ref": "357.20",
+   "text": "both great chieftains. And when they"
+  },
+  {
+   "ref": "357.21",
+   "text": "learned that King Olaf was going with an army"
+  },
+  {
+   "ref": "357.22",
+   "text": "from the south through Halogaland, they gather"
+  },
+  {
+   "ref": "357.23",
+   "text": "an army together and call out ships"
+  },
+  {
+   "ref": "357.24",
+   "text": "and get a great force. Raud had a dragon-ship,"
+  },
+  {
+   "ref": "357.25",
+   "text": "a big one, with gilded heads on it;"
+  },
+  {
+   "ref": "357.26",
+   "text": "that ship was of thirty rowing-benches, and"
+  },
+  {
+   "ref": "357.27",
+   "text": "big for that. Thorir Hjort also had"
+  },
+  {
+   "ref": "357.28",
+   "text": "a big ship. They take that force south"
+  },
+  {
+   "ref": "358.1",
+   "text": "against King Olaf. And when they meet,"
+  },
+  {
+   "ref": "358.2",
+   "text": "they go into battle with King Olaf. There was"
+  },
+  {
+   "ref": "358.3",
+   "text": "a great fight there, and soon there was"
+  },
+  {
+   "ref": "358.4",
+   "text": "loss of men, and it turned against the Halogalanders' force,"
+  },
+  {
+   "ref": "358.5",
+   "text": "and their ships were cleared, and next"
+  },
+  {
+   "ref": "358.6",
+   "text": "panic and fear fell upon them. Raud rowed with"
+  },
+  {
+   "ref": "358.7",
+   "text": "his dragon out to sea, and next"
+  },
+  {
+   "ref": "358.8",
+   "text": "he had his sail hoisted. Raud always had"
+  },
+  {
+   "ref": "358.9",
+   "text": "a fair wind wherever he wanted to sail,"
+  },
+  {
+   "ref": "358.10",
+   "text": "and that came from his sorcery. It is"
+  },
+  {
+   "ref": "358.11",
+   "text": "quickest told of Raud's journey that"
+  },
+  {
+   "ref": "358.12",
+   "text": "he sailed home to Godey. Thorir"
+  },
+  {
+   "ref": "359.28",
+   "text": "power."
+  },
+  {
+   "ref": "233.h",
+   "text": "Chapter 86. Of Bishop Sigurd and the torture of Raud."
+  },
+  {
+   "ref": "359.29",
+   "text": "Bishop Sigurd put on all his mass vestments"
+  },
+  {
+   "ref": "359.30",
+   "text": "and went forward into the prow of the king's"
+  },
+  {
+   "ref": "359.31",
+   "text": "ship, had candles lit and carried incense,"
+  },
+  {
+   "ref": "359.32",
+   "text": "set up a rood-cross in the prow,"
+  },
+  {
+   "ref": "359.33",
+   "text": "read the gospel there and many other"
+  },
+  {
+   "ref": "359.34",
+   "text": "prayers, sprinkled holy water over the whole"
+  },
+  {
+   "ref": "359.35",
+   "text": "ship. Then he bade them take off the awnings"
+  },
+  {
+   "ref": "359.36",
+   "text": "and row into the fjord. The king then had [word] called"
+  },
+  {
+   "ref": "359.37",
+   "text": "to the other ships that all should row"
+  },
+  {
+   "ref": "359.38",
+   "text": "after him. And when the stroke was set going"
+  },
+  {
+   "ref": "359.39",
+   "text": "on the Crane, she went in up"
+  },
+  {
+   "ref": "359.40",
+   "text": "the fjord, and they felt no"
+  },
+  {
+   "ref": "359.41",
+   "text": "wind on themselves who rowed that ship, and"
+  },
+  {
+   "ref": "359.42",
+   "text": "so the open water behind stood in her wake"
+  },
+  {
+   "ref": "359.43",
+   "text": "that there was calm there. But"
+  },
+  {
+   "ref": "359.44",
+   "text": "so hard did the spray beat away on"
+  },
+  {
+   "ref": "359.45",
+   "text": "both sides that nowhere could [anyone] see"
+  },
+  {
+   "ref": "361.15",
+   "text": "The king then grew angry and said that Raud"
+  },
+  {
+   "ref": "361.16",
+   "text": "should have the worst death. Then"
+  },
+  {
+   "ref": "361.17",
+   "text": "the king had him taken and bound, on his back,"
+  },
+  {
+   "ref": "361.18",
+   "text": "to a beam. He had a gag set"
+  },
+  {
+   "ref": "361.19",
+   "text": "between his teeth, and so open up"
+  },
+  {
+   "ref": "361.20",
+   "text": "his mouth. Then the king had them take"
+  },
+  {
+   "ref": "361.21",
+   "text": "an adder and bring it to the mouth"
+  },
+  {
+   "ref": "361.22",
+   "text": "of him, but the snake would not [go] into the mouth,"
+  },
+  {
+   "ref": "361.23",
+   "text": "and shrank away, because"
+  },
+  {
+   "ref": "361.24",
+   "text": "Raud blew against it. Then the king had"
+  },
+  {
+   "ref": "361.25",
+   "text": "a hollow angelica stalk taken and set"
+  },
+  {
+   "ref": "361.26",
+   "text": "in Raud's mouth; but some men say that"
+  },
+  {
+   "ref": "363.2",
+   "text": "north, between [them] and the mainland. King Olaf"
+  },
+  {
+   "ref": "363.3",
+   "text": "Christianised all that fjord. He goes"
+  },
+  {
+   "ref": "363.4",
+   "text": "then on his way south along the coast, and there happened"
+  },
+  {
+   "ref": "363.5",
+   "text": "on that journey much that is set down in tales,"
+  },
+  {
+   "ref": "363.6",
+   "text": "and trolls and evil beings played tricks on his men,"
+  },
+  {
+   "ref": "363.7",
+   "text": "and sometimes on himself. But"
+  },
+  {
+   "ref": "363.8",
+   "text": "we would rather write about those events"
+  },
+  {
+   "ref": "363.9",
+   "text": "when King Olaf Christianised Norway, or"
+  },
+  {
+   "ref": "363.10",
+   "text": "the other lands to which he brought Christianity."
+  },
+  {
+   "ref": "363.11",
+   "text": "King Olaf came with his force that"
+  },
+  {
+   "ref": "363.12",
+   "text": "same autumn to Trondheim and held on"
+  }
+ ]
+}

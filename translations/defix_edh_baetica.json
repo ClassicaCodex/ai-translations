@@ -1,0 +1,48 @@
+{
+ "work_urn": "urn:defix:edh:baetica",
+ "edition_urn": "urn:defix:edh:baetica.ai-claude",
+ "source_edition": "urn:defix:edh:baetica:lat",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Curse tablets from Baetica (Epigraphic Database Heidelberg): AI translation (Claude)",
+  "author": "Latin curse tablets",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:defix:edh:baetica:lat, from the Epigraphic Database Heidelberg (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Epigraphic Database Heidelberg and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "28136.4.7": "Lines 4.7-4.8 belong to another tablet (28136) and keep only the letters SI and RE at the ends of lost lines; they cannot be translated. In 52736 the spelling is non-standard throughout (marked (!) by the edition). 'accedat morbo cotidea' has no expressed subject: if morbo stands for morbus, 'may disease come upon [her] daily'; taken as written, 'may [she] come to disease daily'. In cos[i]lio(m) ('mind', literally 'counsel') one letter is restored."
+ },
+ "nodes": [
+  {
+   "ref": "28136.4.7",
+   "text": "[...]SI"
+  },
+  {
+   "ref": "28136.4.8",
+   "text": "[...]RE"
+  },
+  {
+   "ref": "52736.1",
+   "text": "Gods of the underworld, I ask you to take up the name"
+  },
+  {
+   "ref": "52736.2",
+   "text": "Luxsia, daughter of Aulus Antestius: head, heart, mind, health,"
+  },
+  {
+   "ref": "52736.3",
+   "text": "life, all her limbs; may disease come upon [her] daily, and"
+  },
+  {
+   "ref": "52736.4",
+   "text": "if you do [this], I will pay the vow that I am making, as you deserve."
+  }
+ ]
+}

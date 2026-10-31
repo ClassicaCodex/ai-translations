@@ -1,0 +1,445 @@
+{
+ "work_urn": "urn:cts:latinLit:phi1017.phi004",
+ "edition_urn": "urn:cts:latinLit:phi1017.phi004.ai-claude",
+ "source_edition": "phi1017.phi004.perseus-lat2",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Medea: AI translation (Claude)",
+  "author": "Seneca, Lucius Annaeus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's phi1017.phi004.perseus-lat2, from the Perseus Digital Library (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "669": "676: 'funestam' does not agree with 'penetrale'; taken as funestum. 691: the punctuation after 'telum est' is odd; 'what the deepest earth creates' is taken with the cheap weapon. Line 711 stands before 710 in the text as given and is translated in that order. 710: 'Mediis' does not construe with 'pugnax'; taken as Medus, 'the Mede'. 715: 'discnssit' read as discussit. 740: 'Compreeor' read as comprecor.",
+  "815": "815: the sentence begins before the unit ('the reason for calling on your ... bow so often'). 820: 'elusus' ('tricked, cheated') is doubtful; perhaps for inclusus, 'shut in'. 837: 'meet' read as meat, 'let pass'. 838: 'tument', 'swell', is indicative among wishes and may be a slip for fument, 'smoke'."
+ },
+ "nodes": [
+  {
+   "ref": "669",
+   "text": "spare him who was commanded."
+  },
+  {
+   "ref": "speaker102",
+   "text": "Nurse"
+  },
+  {
+   "ref": "670",
+   "text": "My mind trembles, it shudders: a great disaster is at hand."
+  },
+  {
+   "ref": "671",
+   "text": "It is monstrous how her pain grows, and kindles"
+  },
+  {
+   "ref": "672",
+   "text": "itself by itself, and renews its former force."
+  },
+  {
+   "ref": "673",
+   "text": "I have often seen her raging and assailing the gods,"
+  },
+  {
+   "ref": "674",
+   "text": "drawing down the sky: greater than these, greater"
+  },
+  {
+   "ref": "675",
+   "text": "is the horror Medea prepares. For as soon as with frenzied step"
+  },
+  {
+   "ref": "676",
+   "text": "she went out and reached her deadly inner shrine,"
+  },
+  {
+   "ref": "677",
+   "text": "she pours out all her resources, and whatever for a long time"
+  },
+  {
+   "ref": "678",
+   "text": "even she herself has feared she brings out, and unfolds the whole"
+  },
+  {
+   "ref": "679",
+   "text": "crowd of evils, things arcane, secret, hidden;"
+  },
+  {
+   "ref": "680",
+   "text": "and, gathering the grim rite with her left hand,"
+  },
+  {
+   "ref": "681",
+   "text": "she calls up the plagues, whatever the burning"
+  },
+  {
+   "ref": "682",
+   "text": "sand of Libya breeds, and those that with everlasting snow"
+  },
+  {
+   "ref": "683",
+   "text": "the Taurus holds fast, stiff with Arctic cold,"
+  },
+  {
+   "ref": "684",
+   "text": "and every monster. Drawn by magic chants,"
+  },
+  {
+   "ref": "685",
+   "text": "the scaly crowd is here from its deserted lairs."
+  },
+  {
+   "ref": "686",
+   "text": "Here a savage serpent drags its immense body"
+  },
+  {
+   "ref": "687",
+   "text": "and darts out its three-forked tongue and looks for those to whom"
+  },
+  {
+   "ref": "688",
+   "text": "it may come bringing death; hearing the spell it is stunned,"
+  },
+  {
+   "ref": "689",
+   "text": "and folds its body, swollen with heaped-up coils,"
+  },
+  {
+   "ref": "690",
+   "text": "and forces it into rings. 'Small are these evils,' she says,"
+  },
+  {
+   "ref": "691",
+   "text": "'and cheap the weapon, what the deepest earth creates:"
+  },
+  {
+   "ref": "692",
+   "text": "I shall seek poisons from the sky. Now, now is the time"
+  },
+  {
+   "ref": "693",
+   "text": "to set in motion something higher than common trickery."
+  },
+  {
+   "ref": "694",
+   "text": "Let that one, sprawling like a vast torrent, come"
+  },
+  {
+   "ref": "695",
+   "text": "down here, the serpent whose immense coils the two"
+  },
+  {
+   "ref": "696",
+   "text": "beasts, the greater and the lesser, feel"
+  },
+  {
+   "ref": "697",
+   "text": "(the greater a guide for the Pelasgians, the lesser for the Sidonians);"
+  },
+  {
+   "ref": "698",
+   "text": "and let Ophiuchus at last loosen his gripping hands"
+  },
+  {
+   "ref": "699",
+   "text": "and pour out the venom; let there come to my chants"
+  },
+  {
+   "ref": "700",
+   "text": "Python, who dared to provoke the twin deities;"
+  },
+  {
+   "ref": "701",
+   "text": "and let the Hydra return, and every serpent cut down by the hand"
+  },
+  {
+   "ref": "702",
+   "text": "of Hercules, restoring itself by its own slaughter."
+  },
+  {
+   "ref": "703",
+   "text": "You too, ever-wakeful one, leave Colchis behind and come,"
+  },
+  {
+   "ref": "704",
+   "text": "you, serpent, first lulled to sleep by my chants.'"
+  },
+  {
+   "ref": "705",
+   "text": "When she has called forth every kind of serpent,"
+  },
+  {
+   "ref": "706",
+   "text": "she heaps together the evil things of ill-omened growth:"
+  },
+  {
+   "ref": "707",
+   "text": "whatever Eryx, pathless with its rocks, produces;"
+  },
+  {
+   "ref": "708",
+   "text": "what is borne, on ridges covered by everlasting winter,"
+  },
+  {
+   "ref": "709",
+   "text": "by Caucasus, spattered with the blood of Prometheus;"
+  },
+  {
+   "ref": "711",
+   "text": "and those with which the rich Arabs smear their arrows"
+  },
+  {
+   "ref": "710",
+   "text": "and the Mede, warlike with his quiver, or the light Parthians;"
+  },
+  {
+   "ref": "712",
+   "text": "or the juices which, under the cold sky, are gathered"
+  },
+  {
+   "ref": "713",
+   "text": "by the noble Suebian women in the Hyrcanian groves;"
+  },
+  {
+   "ref": "714",
+   "text": "whatever the earth creates in the nest-building spring,"
+  },
+  {
+   "ref": "715",
+   "text": "or when stiff winter has already shaken down the glory"
+  },
+  {
+   "ref": "716",
+   "text": "of the woods and bound all things fast with snowy frost;"
+  },
+  {
+   "ref": "717",
+   "text": "whatever plant flourishes with deadly flower,"
+  },
+  {
+   "ref": "718",
+   "text": "or whose strong juice in its roots"
+  },
+  {
+   "ref": "719",
+   "text": "breeds the means of harm: she handles it with her hand."
+  },
+  {
+   "ref": "720",
+   "text": "Haemonian Athos contributed those plagues,"
+  },
+  {
+   "ref": "721",
+   "text": "huge Pindus these; that one, on the ridges of Pangaeus,"
+  },
+  {
+   "ref": "722",
+   "text": "laid down its tender foliage to a bloody sickle;"
+  },
+  {
+   "ref": "723",
+   "text": "these the Tigris nourished, pressing down its deep flood,"
+  },
+  {
+   "ref": "724",
+   "text": "the Danube those; these, through parched regions,"
+  },
+  {
+   "ref": "725",
+   "text": "the gem-bearing Hydaspes, running with warm waters,"
+  },
+  {
+   "ref": "726",
+   "text": "and the Baetis, which gave its name to its own lands,"
+  },
+  {
+   "ref": "727",
+   "text": "beating the Hesperian seas with languid stream."
+  },
+  {
+   "ref": "728",
+   "text": "This one suffered the blade while Phoebus prepares the day;"
+  },
+  {
+   "ref": "729",
+   "text": "that one's stem was cut in the depth of night;"
+  },
+  {
+   "ref": "730",
+   "text": "but this one's crop was cut with an enchanted fingernail."
+  },
+  {
+   "ref": "731",
+   "text": "She plucks deadly grasses, and of serpents"
+  },
+  {
+   "ref": "732",
+   "text": "squeezes out the gore, and mixes in foul birds,"
+  },
+  {
+   "ref": "733",
+   "text": "and the heart of the mournful horned owl, and of the hoarse screech-owl"
+  },
+  {
+   "ref": "734",
+   "text": "the innards, cut out alive. These the craftswoman of crimes"
+  },
+  {
+   "ref": "735",
+   "text": "sets out separately: in these is the ravening force of fire,"
+  },
+  {
+   "ref": "736",
+   "text": "in these the icy chill of sluggish frost."
+  },
+  {
+   "ref": "737",
+   "text": "To the poisons she adds words no less"
+  },
+  {
+   "ref": "738",
+   "text": "to be feared than they. Look, her frenzied step has sounded,"
+  },
+  {
+   "ref": "739",
+   "text": "and she sings. The world trembles at her first words."
+  },
+  {
+   "ref": "speaker103",
+   "text": "Medea"
+  },
+  {
+   "ref": "740",
+   "text": "I pray to the throng of the silent, and to you, gods of the dead,"
+  },
+  {
+   "ref": "815",
+   "text": "bow so often is one and the same:"
+  },
+  {
+   "ref": "816",
+   "text": "always Jason."
+  },
+  {
+   "ref": "817",
+   "text": "Now dye Creusa's robes,"
+  },
+  {
+   "ref": "818",
+   "text": "so that, as soon as she has put them on, deep in her"
+  },
+  {
+   "ref": "819",
+   "text": "marrow a creeping flame may burn."
+  },
+  {
+   "ref": "820",
+   "text": "Fire, hidden by a trick in the tawny gold,"
+  },
+  {
+   "ref": "821",
+   "text": "lies dark; it was given to me by him who for the thefts"
+  },
+  {
+   "ref": "822",
+   "text": "of heaven pays with his teeming liver;"
+  },
+  {
+   "ref": "823",
+   "text": "he gave it, and taught me to store up its powers"
+  },
+  {
+   "ref": "824",
+   "text": "by art, Prometheus; and Mulciber gave"
+  },
+  {
+   "ref": "825",
+   "text": "fires concealed in thin sulphur,"
+  },
+  {
+   "ref": "826",
+   "text": "and bolts of living flame"
+  },
+  {
+   "ref": "827",
+   "text": "I took from my kinsman Phaethon."
+  },
+  {
+   "ref": "828",
+   "text": "See, I have the gifts of the dread Chimaera,"
+  },
+  {
+   "ref": "829",
+   "text": "I have flames"
+  },
+  {
+   "ref": "830",
+   "text": "snatched from the scorched throat of the bull,"
+  },
+  {
+   "ref": "831",
+   "text": "which, with Medusa's gall mixed in,"
+  },
+  {
+   "ref": "832",
+   "text": "I have ordered to keep their evil silent."
+  },
+  {
+   "ref": "833",
+   "text": "Add goads to the poisons, Hecate,"
+  },
+  {
+   "ref": "834",
+   "text": "and in my gifts"
+  },
+  {
+   "ref": "835",
+   "text": "keep stored the seeds of flame."
+  },
+  {
+   "ref": "836",
+   "text": "Let them deceive the sight and endure the touch;"
+  },
+  {
+   "ref": "837",
+   "text": "let the heat pass into her breast and veins;"
+  },
+  {
+   "ref": "838",
+   "text": "let her limbs drip, her bones swell,"
+  },
+  {
+   "ref": "838b",
+   "text": "and may she outdo her own"
+  },
+  {
+   "ref": "839",
+   "text": "torches with her blazing hair, the new bride."
+  },
+  {
+   "ref": "840",
+   "text": "My prayers are granted: three barks"
+  },
+  {
+   "ref": "841",
+   "text": "has bold Hecate given, and sacred"
+  },
+  {
+   "ref": "842",
+   "text": "fires she has sent forth from her light-bringing torch."
+  },
+  {
+   "ref": "843",
+   "text": "All the power is accomplished: call the sons here,"
+  },
+  {
+   "ref": "844",
+   "text": "through whom I may carry precious gifts to the bride."
+  }
+ ]
+}

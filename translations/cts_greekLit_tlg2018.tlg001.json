@@ -1,0 +1,234 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2018.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg2018.tlg001.ai-claude",
+ "source_edition": "tlg2018.tlg001.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-30",
+ "updated": "2026-10-30",
+ "header": {
+  "title": "Praeparatio Evangelica: AI translation (Claude)",
+  "author": "Eusebius of Caesarea",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2018.tlg001.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.14.1": "The edition prints ἐκάεσε and ἀδελὸ, read as ἐκάλεσε ‘called’ and ἀδελφόν ‘brother’. Θήλεια (‘a female’) is capitalised and may be meant as a name. ἀφιερώθη, ‘was consecrated’, seems to mean made a god after death. The last sentence runs on into the next section.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.10.2": "The brother's name is printed Οὔσωνον here and Οὒσωον below; given as Usous. A noun such as ‘covering’ seems to have dropped out after τῷ σώματι. Ἀλρός is read as Ἀγρός (Agrus). ζυγοφορούμενον, ‘drawn by yoked [beasts]’, may instead mean carried on a yoke.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.1.1": "ζο c φώδη is printed with a stray letter, read as ζοφώδη ‘dark’. πνεῦμα may mean ‘spirit’ rather than ‘wind’ throughout. The subject of ‘was shaped in the form of an egg’ is not stated.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.22.1": "Ἀστάρης is read as Ἀστάρτης, Astarte.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.4.2.2.1": "The comparison with drawing lots is compressed; the sense seems to be two people who once happen to draw the same number out of ten thousand.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.34.1": "Καβείροις Ἀγρόταις τε καὶ Ἁλιεῦσιν may make the Cabiri themselves the Hunters and Fishers, or name three separate groups.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.12.5.1": "τρίτῃόιν is corrupt; read as τρίτῃσιν, ‘the third [birds]’.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.7.2": "The name is printed Βάαυτ; given as Baau.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.8.7.1": "‘Harpies’ (Ἁρπυίαισι) are perhaps meant as storm-winds. ἐπημύσαντες, ‘bowing beneath’, is a rare word and the rendering is uncertain.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.41.5.2": "χώρην ῥὴν is read as χώρην σφήν, ‘its own place’.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.9.2": "The mountain Brathy is not identified.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.44.2": "The name is printed Ἰεδούδ; given as Ieoud. The text closes a bracket after Φοίνιξι but opens none; the aside is taken to begin at τοῦ μονογενοῦς.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.4.1": "πριγεγραννέβα is corrupt; read as προγεγραμμένα, ‘aforementioned’.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.46.1": "ὄφενω is read as ὄφεων, ‘serpents’. πνευματικώτατον, ‘most full of breath’, can also mean ‘most spiritual’.",
+  "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.6.1": "The text spells the pilot's name Thamnous (once misprinted Thamonous); he is usually called Thamus. Line 2: ἐὰν read as ἐᾶν, 'to let it be'. Line 6: νεωστὶ στὶ is a dittography; translated as νεωστί. In line 5, πομπῇ τοῦ βασιλέως could also mean 'with the emperor's escort'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.9.20.1",
+   "text": "These things are recorded by Sanchuniathon, a man of great antiquity and older, as they say, than the times of Troy, who, they testify, was approved for the accuracy and truth of his Phoenician history. Philo of Byblos, not the Hebrew, translated his whole work from the Phoenician tongue into the Greek language and published it. The man who in our own day composed the attack against us mentions these things in the fourth [book] of his work against us, bearing witness to the man word for word as follows:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.9.21.1",
+   "text": "“Sanchuniathon of Berytus records the history of the Jews most truthfully, since it agrees most closely with their places and their names; he received the records from Hierombalus, the priest of the god Ieuo; and having dedicated his history to Abibalus, king of the Berytians, he was approved by him and by those who examined the truth in his time. The times of these men fall even before the Trojan times, and come close to those of Moses, as the successions of the kings of Phoenicia show. Sanchuniathon, who in the Phoenician language, with love of truth, collected and wrote out all the ancient history from the records of each city and the registers in the temples, lived under Semiramis, queen of the Assyrians, who is recorded to have lived before the Trojan war or at those very times. The works of Sanchuniathon were translated into the Greek tongue by Philo of Byblos.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.1.1",
+   "text": "“He posits as the beginning of all things a dark and windy air, or a blast of dark air, and a turbid chaos, black as Erebus. These were boundless, and for a long age had no limit. But when, he says, the wind fell in love with its own first principles and a mingling took place, that entanglement was called Desire. This was the beginning of the creation of all things. But it did not know its own creation; and from the wind's own entanglement Mot came into being."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.2.1",
+   "text": "This some call mud, others the putrefaction of a watery mixture. And from it came every seed of creation and the generation of all things. There were certain living creatures that had no sensation, and from them came intelligent creatures, and they were called Zophasemin, that is, watchers of heaven. And it was shaped in the form of an egg; and Mot shone forth, and sun and moon, and stars and the great constellations.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.4.1",
+   "text": "“And when the air became bright, through the burning both of the sea and of the earth there arose winds and clouds and very great downpours and floods of heavenly waters. And when they had been separated, and parted from their own place through the burning of the sun, and all met again in the air, these with those, and dashed together, thunders and lightnings were produced; and at the crash of the thunders the aforementioned intelligent creatures awoke, and were startled at the sound, and male and female moved, on earth and in the sea.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.7.2",
+   "text": "“These, then, were their notions of worship, matching their own weakness and timidity of soul. Then he says that from the wind Colpias and his wife Baau (this he interprets as Night) were born Aeon and Protogonus, mortal men, so called; and that Aeon discovered food from trees. Those born from these were called Genos and Genea, and they inhabited Phoenicia; and when droughts came they stretched out their hands to heaven, towards the sun. For him alone (he says) they held to be god, lord of heaven, calling him Beelsamen, which among the Phoenicians is lord of heaven, and among the Greeks Zeus.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.9.2",
+   "text": "“From Genos, [son] of Aeon and Protogonus, mortal children were born in turn, whose names were Phos, Pyr and Phlox [Light, Fire and Flame]. These (he says) discovered fire by rubbing sticks together, and taught its use. They begot sons surpassing in size and stature, whose names were given to the mountains they held, so that from them Casius was named, and Lebanon, and Antilebanon, and Brathy. From these (he says) were born Samemroumus, who is also Hypsuranius, and Usous; and they were named (he says) after their mothers, since the women of that time had intercourse freely with whomever they met."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.10.2",
+   "text": "“Hypsuranius dwelt in Tyre, and devised huts of reeds and rushes and papyrus; and he quarrelled with his brother Usous, who first devised [a covering] for the body from the skins of the beasts he was able to catch. When violent rains and winds came, the trees in Tyre rubbed together and kindled fire, and burned up the forest there. And Usous took hold of a tree, stripped off its branches, and was the first to dare to go out on the sea; and he consecrated two pillars to fire and wind, and worshipped [them], and poured out to them libations of blood from the beasts he hunted."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.11.1",
+   "text": "When these had died, he says, those who were left consecrated staves to them, and worshipped the pillars, and held festivals for them every year. Many ages later, from the line of Hypsuranius were born Agreus [Hunter] and Halieus [Fisher], the discoverers of hunting and fishing, after whom hunters and fishermen were named; and from them were born two brothers, discoverers of iron and of its working, one of whom, Chrysor, practised words and incantations and divinations; and this was Hephaestus, and he also discovered the hook and bait and line and raft, and was the first of all men to sail; wherefore they also revered him as a god after his death."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.12.1",
+   "text": "He was also called Zeus Meilichius; and some say that his brothers devised walls of brick. After this, from their race were born two youths, one called Technites [Craftsman], the other Geinus Autochthon [Earthly Native]. These devised mixing chaff with the clay of bricks and drying them in the sun, and they also invented roofs. From them were born others, one of whom was called Agrus, the other Agrueros or Agrotes, who has a much-revered wooden image and a shrine drawn by yoked [beasts] in Phoenicia; and among the people of Byblos he is called, above all, the greatest of the gods."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.14.1",
+   "text": "From Misor [was born] Taautus, who discovered the writing of the first letters; the Egyptians called him Thouth, the Alexandrians Thoth, and the Greeks Hermes. From Sydyk [were born] the Dioscuri, or Cabiri, or Corybantes, or Samothracians. These (he says) were the first to discover the ship. From them were born others, who discovered herbs, and the cure of [the bites of] venomous creatures, and incantations. In their time there is born a certain Elioun, called the Most High, and a female called Berouth; and they dwelt around Byblos."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.15.1",
+   "text": "From them is born Epigeius, a son of the soil, whom they later called Uranus [Heaven]; so that from him they also name the element above us heaven, on account of [his] surpassing beauty. And a sister is born to him from the aforementioned [parents], who was called Ge [Earth]; and because of her beauty (he says) they gave the earth the same name. Their father, the Most High, having died in an encounter with wild beasts, was consecrated, and his children performed libations and sacrifices to him."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.16.1",
+   "text": "Uranus, having taken over his father's rule, takes his sister Ge in marriage, and has by her four children: Elus, who is also Cronus, and Baetylus, and Dagon, who is Siton [Grain], and Atlas. And from other wives too Uranus had numerous offspring. For this reason Ge, angered and jealous, reviled Uranus, so that they even parted from each other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.17.1",
+   "text": "Uranus, having left her, would come upon her by force whenever he wished and lie with her, and then go off again; he also attempted to destroy the children he had by her; and Ge often defended herself, having gathered allies for herself. But Cronus, having reached manhood, and using Hermes Trismegistus as counsellor and helper (for he was his secretary), repels his father Uranus, avenging his mother."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.18.1",
+   "text": "To Cronus are born children, Persephone and Athena. The first died a virgin; and on the advice of Athena and Hermes, Cronus made a sickle and a spear of iron. Then Hermes, speaking words of magic to Cronus's allies, filled them with longing for battle against Uranus on behalf of Ge. And so Cronus, engaging Uranus in war, drove him from his rule and succeeded to the kingship. In the battle there was captured also the beloved concubine of Uranus, who was pregnant; and Cronus gives her in marriage to Dagon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.19.1",
+   "text": "And she bears to him the child she carried in her womb by Uranus, and she called it Demarus. After this Cronus throws a wall around his own dwelling, and founds the first city, Byblos in Phoenicia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.20.1",
+   "text": "After this Cronus, having come to suspect his own brother Atlas, on the advice of Hermes cast him into the depths of the earth and buried him. At this time the descendants of the Dioscuri, having put together rafts and ships, set sail, and being cast ashore near Mount Casius they dedicated a temple there. And the allies of Elus, that is Cronus, were called Eloeim, as these would be the Cronians, those named after Cronus,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.22.1",
+   "text": "As time went on, Uranus, being in exile, secretly sends his virgin daughter Astarte, with two other sisters of hers, Rhea and Dione, to kill Cronus by guile; but Cronus captured them and made them his wedded wives, though they were his sisters."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.23.1",
+   "text": "When Uranus learned of this, he sent Heimarmene [Destiny] and Hora [Season] with other allies to make war on Cronus; and Cronus won these over too and kept them with him. Further (he says), the god Uranus devised *baitylia*, contriving stones endowed with life. And to Cronus were born from Astarte seven daughters, Titanides or Artemides."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.24.1",
+   "text": "And again to the same were born from Rhea seven children, of whom the youngest was consecrated at his very birth; and from Dione daughters; and from Astarte again two sons, Pothos [Longing] and Eros [Love]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.25.1",
+   "text": "Dagon, since he discovered grain and the plough, was called Zeus Arotrius [of the Plough]. And one of the Titanides, uniting with Sydyk, who is called the Just, bears Asclepius."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.27.1",
+   "text": "From Pontus is born Sidon, who by the surpassing sweetness of her voice was the first to discover the sung hymn; and Poseidon. And to Demarus is born Melcathrus, who is also Heracles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.28.1",
+   "text": "Then again Uranus makes war on Pontus, and, revolting, attaches himself to Demarus; and Demarus attacks Pontus, and Pontus puts him to flight; and Demarus vowed a sacrifice for his escape."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.29.1",
+   "text": "In the thirty-second year of his power and kingship, Elus, that is Cronus, ambushed his father Uranus in a certain inland place, and having got him into his hands cuts off his genitals, near springs and rivers. There Uranus was consecrated, and his breath came to an end, and the blood of his genitals dripped into the springs and the waters of the rivers; and the place is shown to this day.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.31.1",
+   "text": "“Astarte the greatest, and Zeus Demarus, and Adodus king of gods, reigned over the land with the consent of Cronus. Astarte set on her own head the head of a bull as an emblem of kingship; and travelling about the inhabited world she found a star that had fallen through the air, and she took it up and consecrated it in Tyre, the holy island."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.32.1",
+   "text": "Astarte, the Phoenicians say, is Aphrodite. And Cronus, going about the inhabited world, gives his daughter Athena the kingship of Attica."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.34.1",
+   "text": "And not long after he consecrates another son of his by Rhea, named Muth, who had died; the Phoenicians call him Death and Pluto."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.35.1",
+   "text": "And after this Cronus gives the city of Byblos to the goddess Baaltis, who is also Dione, and Berytus to Poseidon and to the Cabiri, the Husbandmen and the Fishers, who also consecrated the remains of Pontus at Berytus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.38.1",
+   "text": "And Cronus, having come to the land of the south, gave all Egypt to the god Tauthus, to be his kingdom. These things (he says) were recorded first of all by the seven sons, the Cabiri, and their own brother Asclepius, as the god Tauthus commanded them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.44.2",
+   "text": "“It was the custom among the ancients, in great calamities and dangers, that instead of the destruction of all, those who ruled a city or a nation gave up the best-loved of their children for slaughter, as a ransom to the avenging *daimones* [divine powers]; and those who were given up were slaughtered with mystic rites. Cronus, then, whom the Phoenicians call Elus, being king of the land, and afterwards, at the end of his life, consecrated to the star of Cronus, had by a nymph of the country called Anobret an only son, whom for this reason they called Ieoud (the only son is still so called even now among the Phoenicians); and when the greatest dangers from war had seized the land, he adorned his son in royal dress, prepared an altar, and sacrificed him gladly.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.46.1",
+   "text": "“Now the nature of the dragon and of serpents Tauthus himself deified, and after him the Phoenicians and Egyptians in turn; for he handed down that this creature is the most full of breath of all creeping things, and fiery; for which reason it also shows an unsurpassable speed by means of its breath, without feet or hands or any other external [members] by which the other animals make their movements; and it forms the shapes of varied figures, and as it goes it makes its darts in coils, at whatever speed it wishes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.1.10.52.1",
+   "text": "And Zoroaster the Magus, in the Sacred Collection of Persian [records], says word for word: ‘The god is he who has the head of a hawk. He is the first, incorruptible, everlasting, unbegotten, without parts, most unlike [all else], charioteer of everything good, not to be bribed, best of the good, wisest of the wise; he is also father of good order and justice, self-taught, natural, and perfect, and wise, and sole discoverer of the sacred [science] of nature.’ Ostanes too says the same about him in the [book] entitled Octateuch.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.4.1.8.1",
+   "text": "Another, perhaps, going through the account of these things, might well suppose the whole to be deception, the contrivances and knavery of sorcerers, dismissing the belief altogether, so as to think that what is noised abroad about it belongs not to a god, nor even to an evil demon. For [he would say] the verses and the compositions of the oracles are fictions of men not without talent, and very well devised for deceit, framed in a middle and ambiguous manner, and fitted not unskilfully to either of the outcomes expected; and the marvels that deceive the multitude by certain prodigies depend on natural causes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.4.2.2.1",
+   "text": "And this, indeed, is what you would see them harping on most of all, engraving on pillars and proclaiming to every part of the earth: that so many in number, it may be, were disappointed, they are quite unwilling ever to mention, but that for this one man out of ten thousand some one of the oracles came true, they carry up and down; just as if, when two people draw lots out of ten thousand, and it happened that just once they both fell on the same, someone should marvel that by divination and foreknowledge one and the same number had chanced to come round to both."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.8.7.1",
+   "text": "And again: ‘But the Heavenly Ones, aloft on high, are borne along in haste with the light Harpies; and swiftly, bowing beneath god-compelling constraints, they speed, hurrying to the earth of Deo, interpreters to mortals of what is to come.’ And again another, under compulsion, said: ‘Hear me, unwilling as I am, since you have bound me with compulsion.’"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.6.1",
+   "text": "He said that once, sailing to Italy, he boarded a ship carrying merchandise and a good many passengers; that in the evening, when they were already near the Echinades islands, the wind died, and the ship, drifting, came near Paxi; that most of them were awake and drinking, since they had dined; and that suddenly a voice was heard from the island of Paxi, someone loudly calling for Thamus, so that they were amazed; for Thamus was an Egyptian pilot, not known by name even to many of those on board. Twice he was called and kept silent, but the third time he answered the caller, and the caller, raising his voice, said: “When you come opposite Palodes, announce that Great Pan is dead.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.7.1",
+   "text": "Epitherses said that on hearing this they were all astounded, and as they debated among themselves whether it was better to do what had been ordered or not to meddle but to let it be, Thamus decided thus: if there was a wind, to sail past and keep quiet, but if there was a lull and calm about the place, to proclaim what he had heard."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.8.1",
+   "text": "So when he came opposite Palodes, there being neither wind nor swell, Thamus, looking from the stern towards the land, said, just as he had heard it, “Great Pan is dead”; and he had not yet finished when there arose a great groaning, not of one but of many, mingled with amazement."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.9.1",
+   "text": "And since many people had been present, the story was quickly spread about in Rome, and Thamus was sent for by Tiberius Caesar; and Tiberius so far believed the story that he made inquiries and searched into the matter of Pan; and the scholars around him, who were numerous, conjectured [that he was] the one born of Hermes and Penelope."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.10.1",
+   "text": "Now Philip had some of those present as witnesses, men who had heard [it] from the old man Aemilianus. And Demetrius said that among the islands around Britain there are many deserted ones, scattered about, some of which are named after *daimones* [spirits] and heroes; and that he himself, for the sake of inquiry and sightseeing, sailed on a mission from the emperor to the nearest of the deserted ones, which had only a few inhabitants, all of them held by the Britons to be sacred and inviolable."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.11.1",
+   "text": "Soon after he arrived there was a great turmoil in the air and many portents, and winds burst down and fiery whirlwinds fell. When it abated, the islanders said that one of the mightier beings had passed away; “for as a lamp,” they said, “has nothing dreadful about it while it burns, but when it is put out is distressing to many, so the great souls have kindlings that are gentle and harmless, but their extinctions and perishings often, as now, breed winds and hailstorms, and often poison the air with pestilential afflictions.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.12.1",
+   "text": "There is, however, one island there in which Cronus is imprisoned, guarded by Briareus as he sleeps; for sleep has been contrived as his bond; and around him there are many *daimones* as his attendants and servants.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.5.17.13.1",
+   "text": "So much from Plutarch. But it is worth noting the time at which he says the death of the *daimōn* took place. This was the time of Tiberius, in which our Saviour, while he lived among men, is recorded to have driven every kind of *daimones* out of human life; so that already some of the *daimones* fell on their knees before him and begged him not to hand them over to the Tartarus that awaited them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.12.2.1",
+   "text": "“After him others ruled, and Sisithrus, to whom Cronus foretells that there will be a great quantity of rain on the fifteenth of Desius, and orders him to hide everything that had to do with writing in the City of the Sun at Sippara."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.12.3.1",
+   "text": "Sisithrus, having carried this out, at once sailed off to Armenia, and straightway what came from the god overtook him. On the third day, when the rain had abated, he let out some of the birds, making trial whether they might see land anywhere risen out of the water."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.12.5.1",
+   "text": "And when he had success with the third, for they came back with their feet covered in mud, the gods make him vanish from among men; and the ship in Armenia supplied the people of the country with amulets of its wood, as charms against harm.”"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.14.2.1",
+   "text": "“There are those who say that the first men who sprang up out of the earth, made proud by their strength and size, and scorning the gods as though they were better, raised a lofty tower where Babylon now is; and they were already near heaven when the winds, coming to the help of the gods, overturned the structure upon them; and its ruins, they say, are called Babylon. Until then they had been of one tongue, but from the gods they received a speech of many sounds; and after this a war arose between Cronus and Titan."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.41.2.1",
+   "text": "And afterwards, it is said by the Chaldaeans, he went up onto his palace and was possessed by some god or other, and uttering aloud he said: ‘I, Nebuchadnezzar, here before you, O Babylonians, foretell to you the calamity that is coming, which Belus my forefather and queen Beltis are both too weak to persuade the Fates to turn aside."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1.9.41.5.2",
+   "text": "“It is said that in the beginning everything was water, called sea; and that Belus stopped them, assigning to each its own place, and surrounded Babylon with a wall; and in the course of time [the wall] vanished."
+  }
+ ]
+}

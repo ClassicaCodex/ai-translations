@@ -1,0 +1,88 @@
+{
+ "work_urn": "urn:rabbinic:pesachim",
+ "edition_urn": "urn:rabbinic:pesachim.ai-claude",
+ "source_edition": "urn:rabbinic:pesachim:vilna",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-31",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Pesachim: AI translation (Claude)",
+  "author": "Babylonian Talmud",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:rabbinic:pesachim:vilna, from the Wikisource Talmud Bavli, in Sefaria's export (CC BY-SA), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Wikisource Talmud Bavli, in Sefaria's export and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "110a.11": "110a.14: the charm is partly obscure; קרח קרחייכי and פרח פרחייכי are rendered literally.",
+  "111a.12": "The charm's last words, בחיק קבל, are obscure ('in the bosom' + an unclear word) and are left in transliteration; Azlat, Asya and Belusya are unidentified names.",
+  "111b.4": "פרחא/פרחי (111b.4-6) is an unidentified tree or shrub; at 111b.6 פרחא is taken as 'it flew away', ending the story, and דבי זרדתא שידי begins the next statement, as in 111b.4. רישפי 'fiery spirits' is uncertain. 111b.5: לגזוזי 'dodging' is uncertain. 111b.7: בר קשא 'town official' is uncertain (perhaps a town elder or strongman); 'does not know Blessed' presumably means he cannot even say a blessing. 111b.8: כנפיא 'wings' is obscure; some read it as 'like a sieve'.",
+  "54a.7": "ויקבענה כיון is uncertain: 'set it in shape/at once', or כיון ('since') may begin the final clause.",
+  "118a.21": "ר\"ש השלוני is expanded as Rabbi Shimon ha-Shiloni; the abbreviation could stand for another name."
+ },
+ "nodes": [
+  {
+   "ref": "54a.7",
+   "text": "Rabbi Nehemiah says in the name of his father: Also fire and the mule. Rabbi Yoshiyya says in the name of his father: Also the ram and the *shamir* [a stone-cutting creature]. Rabbi Yehuda says: Also the tongs. He used to say: Tongs are made with tongs; and the first tongs, who made [them]? So it must be a creation by the hands of Heaven. He said to him: It is possible to make them in a mould and set them in shape; so it must be a creation by human hands."
+  },
+  {
+   "ref": "110a.11",
+   "text": "Rav Yosef said: Yosef the demon told me: Ashmedai, king of the demons, is appointed over all [matters of] pairs, and a king is not called a *mazzik* [harmful spirit]. Some say it the other way: On the contrary, a king [is hot-tempered]; he does whatever he wants, for a king may break through a fence to make himself a road, and none may protest against him."
+  },
+  {
+   "ref": "110a.12",
+   "text": "Rav Pappa said: Yosef the demon told me: For two we kill; for four we do not kill. For four we harm. For two, whether [done] unwittingly or deliberately; for four, deliberately, yes; unwittingly, no."
+  },
+  {
+   "ref": "110a.13",
+   "text": "And if he forgot and it happened that he went out, what is his remedy? Let him take his right thumb in his left hand and his left thumb in his right hand, and say thus: You and I, that is three. And if he hears [one] saying: You and I, that is four, let him say to him: You and I, that is five. And if he hears [one] saying: You and I, that is six, let him say to him: You and I, that is seven. There was an incident [where it went] up to a hundred and one, and the demon burst."
+  },
+  {
+   "ref": "110a.14",
+   "text": "Ameimar said: The chief of the witches told me: Whoever meets witches should say thus: Hot dung in torn baskets into your mouths, you women of sorcery! May your bald patch go bald; may your crumbs fly away;"
+  },
+  {
+   "ref": "111a.12",
+   "text": "These two women who sit at a crossroads, one on this side of the path and one on the other side, with their faces turned toward each other: they are certainly engaged in witchcraft. What is his remedy? If there is another road, let him go by it; and if there is no other road, if there is another person with him, let them take each other's hands and pass through; and if there is no other person, let him say thus: Agrat, Azlat, Asya, Belusya are slain *be-hiq qabal*."
+  },
+  {
+   "ref": "111b.4",
+   "text": "Those of *parha* trees are spirits; those of sorb trees are *shedim* [demons]; those of roofs are *rishpei* [fiery spirits]. What practical difference does it make? For an amulet."
+  },
+  {
+   "ref": "111b.5",
+   "text": "The one of the *parha* trees is a creature that has no eyes. What practical difference does it make? For dodging it. Once a young scholar went to relieve himself among the *parha* trees. He heard it coming at him and dodged it. As it went, it embraced a palm tree; the palm tree shrieked, and it burst."
+  },
+  {
+   "ref": "111b.6",
+   "text": "It flew away. Those of the sorb trees are *shedim*. A sorb tree that is close to a town has no fewer than sixty *shedim*. What practical difference does it make? For writing an amulet for it."
+  },
+  {
+   "ref": "111b.7",
+   "text": "A certain town official went and stood by a sorb tree that was close to the town. Sixty *shedim* entered him, and he was in danger. He came to a certain one of the Rabbis who did not know that it was a sorb tree of sixty *shedim*; he wrote an amulet for it against one demon. He heard that they struck up a dance inside him and were singing thus: The master's scarf is like a scholar's; we have examined the master: he does not know “Blessed”. A certain one of the Rabbis came who knew that it was a sorb tree of sixty *shedim*; he wrote an amulet for it against sixty *shedim*. He heard them saying: Clear your things out of here."
+  },
+  {
+   "ref": "111b.8",
+   "text": "*Qetev meriri* [bitter destruction]: there are two *qetavim*, one before noon and one after noon. The one before noon is named *qetev meriri*, and it is seen in a jug of *kamka* [a relish], with a stirring-spoon going round in it. The one after noon is named “the *qetev* that wastes at noon” (Psalms 91:6), and it is seen in a goat's horn, with wings going round in it."
+  },
+  {
+   "ref": "111b.9",
+   "text": "Abaye was walking along, and Rav Pappa was walking on his right and Rav Huna son of Rav Yehoshua on his left. He saw that *qetev meriri* coming toward him on his left. He moved Rav Pappa to his left and Rav Huna son of Rav Yehoshua to his right. Rav Pappa said to him: And I, how am I different, that you were not concerned for me? He said to him: For you, the hour stands in your favour."
+  },
+  {
+   "ref": "112b.15",
+   "text": "“Do not go out alone at night”: as it was taught: One should not go out alone at night, neither on the nights of the fourth day nor on Sabbath nights, because Agrat bat Mahalat, she and eighteen myriads of angels of destruction, go out, and each one of them has permission to destroy by itself."
+  },
+  {
+   "ref": "112b.16",
+   "text": "At first they were about every day. Once she met Rabbi Hanina ben Dosa. She said to him: Were it not that they proclaim about you in heaven, “Take care with Hanina and his Torah,” I would have endangered you. He said to her: If I am esteemed in heaven, I decree upon you that you shall never pass through a settled place. She said to him: I beg of you, leave me a little room. He left her Sabbath nights and the nights of the fourth day."
+  },
+  {
+   "ref": "118a.21",
+   "text": "Rabbi Shimon ha-Shiloni expounded: At the time when the wicked Nebuchadnezzar cast Hananiah, Mishael and Azariah into the fiery furnace, Yurkemo, the prince of hail, stood up before the Holy One, blessed be He. He said before Him: Master of the Universe, I will go down and cool the furnace and save these righteous men from the fiery furnace. Gabriel said to him: The might of the Holy One, blessed be He, is not [shown] by this, for you are the prince of hail, and everyone knows that water puts out fire. Rather I, the prince of fire, will go down and cool [it] from within"
+  }
+ ]
+}

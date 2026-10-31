@@ -1,0 +1,1263 @@
+{
+ "work_urn": "urn:menota:anonymous:vǫluspá",
+ "edition_urn": "urn:menota:anonymous:vǫluspá.ai-claude",
+ "source_edition": "urn:menota:anonymous:vǫluspá:am-544-4to",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-31",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Vǫluspá: AI translation (Claude)",
+  "author": "Anonymous",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:menota:anonymous:vǫluspá:am-544-4to, from the Medieval Nordic Text Archive, Menota (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Medieval Nordic Text Archive, Menota and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "1.26.7": "Har is Odin. The verb in line 6 (stuꝺꝺi) is singular; taken as 'they propped up', i.e. pierced, Gullveig with spears. Line 10 repeats line 9. hugleikin (line 19), 'rapt in mind', is uncertain. In lines 38–39 vala is taken as the name Vali; the bonds of guts are Loki's, whose wife Sigyn sits by him. Garm is the hound at Gnupahellir; the wolf is Fenrir. geirum studdu (1.27.4), literally 'propped with spears', is taken as 'pierced with spears'.",
+  "1.37.3": "The refrain 'the fetter will break and the wolf run free' is abbreviated in lines 2, 43 and 78 (ꝼ˙, ꝼ˙ m˙) and is supplied in brackets. Mim's sons and mjǫtuðr ('measurer, fate', line 18) are obscure. Surt's kinsman and 'that one' (lines 31–32) are unexplained. The brother of Byleist is Loki; the 'bane of branches' is fire; the 'sun of the slaughter-gods' is the gleam of Surt's sword. Hlin is Frigg, whose 'darling' is Odin; Beli's slayer is Frey. The girdle of the earth and the earth-coiler are the World Serpent; Odin's son who meets it is Thor. Lines 79 and 85–86 do not construe with certainty as they stand. Lines 87–88 ('the adder', 'men will') are stray fragments of a further stanza, out of sequence in the text. The life-nourisher is fire. Fimbultyr and Hropt are Odin; 'well, the gods of the slain' (line 129) is obscure. niða (line 152) is taken as Nidafjoll, 'the dark fells'.",
+  "1.2.7": "Bor's sons are Odin and his brothers; the sun is 'the moon's companion'. iðium (line 33) is probably for niðjum, 'kin' (perhaps the phases of the moon). undorn is a time of day, mid-morning or mid-afternoon. In lines 59–60 the grammar makes the dwarves the shapers; the sense is probably 'who should shape the host of dwarves'. bꝛimi (line 61) may be the giant Brimir or 'surf'; Blam is a giant's name. Lines 71–72 begin a list of dwarf names.",
+  "1.16.3": "Lofar is a dwarf. Lines 3–4 read 'three ... giant maidens', words from an earlier stanza; the sense needs three gods (Aesir), as line 6 says. oð (line 12) is spirit or mind; lá and læti (line 13) are uncertain, perhaps blood (or warmth) and voice (or bearing)."
+ },
+ "nodes": [
+  {
+   "ref": "1.2.7",
+   "text": "the glorious measuring-tree"
+  },
+  {
+   "ref": "1.2.8",
+   "text": "beneath the earth."
+  },
+  {
+   "ref": "1.3.1",
+   "text": "It was early in the ages"
+  },
+  {
+   "ref": "1.3.2",
+   "text": "when Ymir lived;"
+  },
+  {
+   "ref": "1.3.3",
+   "text": "there was neither sand nor sea"
+  },
+  {
+   "ref": "1.3.4",
+   "text": "nor cool waves;"
+  },
+  {
+   "ref": "1.3.5",
+   "text": "earth was nowhere to be found,"
+  },
+  {
+   "ref": "1.3.6",
+   "text": "nor heaven above;"
+  },
+  {
+   "ref": "1.3.7",
+   "text": "there was Ginnunga gap [the yawning void],"
+  },
+  {
+   "ref": "1.3.8",
+   "text": "and grass nowhere."
+  },
+  {
+   "ref": "1.4.1",
+   "text": "Until Bor's sons"
+  },
+  {
+   "ref": "1.4.2",
+   "text": "raised up the lands,"
+  },
+  {
+   "ref": "1.4.3",
+   "text": "they who the glorious"
+  },
+  {
+   "ref": "1.4.4",
+   "text": "Midgard shaped;"
+  },
+  {
+   "ref": "1.4.5",
+   "text": "the sun shone from the south"
+  },
+  {
+   "ref": "1.4.6",
+   "text": "on the stones of the hall;"
+  },
+  {
+   "ref": "1.4.7",
+   "text": "then the ground was grown"
+  },
+  {
+   "ref": "1.4.8",
+   "text": "with green leek."
+  },
+  {
+   "ref": "1.5.1",
+   "text": "The sun cast from the south,"
+  },
+  {
+   "ref": "1.5.2",
+   "text": "the moon's companion,"
+  },
+  {
+   "ref": "1.5.3",
+   "text": "her right hand"
+  },
+  {
+   "ref": "1.5.4",
+   "text": "over the rim [of heaven];"
+  },
+  {
+   "ref": "1.5.5",
+   "text": "the sun did not know"
+  },
+  {
+   "ref": "1.5.6",
+   "text": "where she had her halls,"
+  },
+  {
+   "ref": "1.5.7",
+   "text": "the stars did not know"
+  },
+  {
+   "ref": "1.5.8",
+   "text": "where they had their places,"
+  },
+  {
+   "ref": "1.5.9",
+   "text": "the moon did not know"
+  },
+  {
+   "ref": "1.5.10",
+   "text": "what power he had."
+  },
+  {
+   "ref": "1.6.1",
+   "text": "Then all the powers went"
+  },
+  {
+   "ref": "1.6.2",
+   "text": "to their judgment seats,"
+  },
+  {
+   "ref": "1.6.3",
+   "text": "the most holy gods,"
+  },
+  {
+   "ref": "1.6.4",
+   "text": "and deliberated on this;"
+  },
+  {
+   "ref": "1.6.5",
+   "text": "to night and [its] kin"
+  },
+  {
+   "ref": "1.6.6",
+   "text": "they gave names;"
+  },
+  {
+   "ref": "1.6.7",
+   "text": "morning they named,"
+  },
+  {
+   "ref": "1.6.8",
+   "text": "and midday,"
+  },
+  {
+   "ref": "1.6.9",
+   "text": "*undorn* [a time of day] and evening,"
+  },
+  {
+   "ref": "1.6.10",
+   "text": "to reckon the years."
+  },
+  {
+   "ref": "1.7.1",
+   "text": "The Aesir met"
+  },
+  {
+   "ref": "1.7.2",
+   "text": "on Idavoll;"
+  },
+  {
+   "ref": "1.7.3",
+   "text": "they tested their strength,"
+  },
+  {
+   "ref": "1.7.4",
+   "text": "tried everything,"
+  },
+  {
+   "ref": "1.7.5",
+   "text": "set up forges,"
+  },
+  {
+   "ref": "1.7.6",
+   "text": "forged treasure,"
+  },
+  {
+   "ref": "1.7.7",
+   "text": "shaped tongs"
+  },
+  {
+   "ref": "1.7.8",
+   "text": "and made tools."
+  },
+  {
+   "ref": "1.8.1",
+   "text": "They played at tables in the home-field,"
+  },
+  {
+   "ref": "1.8.2",
+   "text": "they were merry;"
+  },
+  {
+   "ref": "1.8.3",
+   "text": "they had no"
+  },
+  {
+   "ref": "1.8.4",
+   "text": "lack of gold,"
+  },
+  {
+   "ref": "1.8.5",
+   "text": "until three came,"
+  },
+  {
+   "ref": "1.8.6",
+   "text": "giant maidens,"
+  },
+  {
+   "ref": "1.8.7",
+   "text": "very mighty,"
+  },
+  {
+   "ref": "1.8.8",
+   "text": "out of Jotunheim."
+  },
+  {
+   "ref": "1.9.1",
+   "text": "Then all the powers went"
+  },
+  {
+   "ref": "1.9.2",
+   "text": "to their judgment seats,"
+  },
+  {
+   "ref": "1.9.3",
+   "text": "the most holy gods,"
+  },
+  {
+   "ref": "1.9.4",
+   "text": "and deliberated on this:"
+  },
+  {
+   "ref": "1.9.5",
+   "text": "which dwarves should"
+  },
+  {
+   "ref": "1.9.6",
+   "text": "shape the hosts"
+  },
+  {
+   "ref": "1.9.7",
+   "text": "out of bloody Brimir"
+  },
+  {
+   "ref": "1.9.8",
+   "text": "and out of Blam's limbs."
+  },
+  {
+   "ref": "1.10.1",
+   "text": "There Modsognir"
+  },
+  {
+   "ref": "1.10.2",
+   "text": "had become the greatest"
+  },
+  {
+   "ref": "1.10.3",
+   "text": "of all dwarves,"
+  },
+  {
+   "ref": "1.10.4",
+   "text": "and Durin second;"
+  },
+  {
+   "ref": "1.10.5",
+   "text": "they made human likenesses,"
+  },
+  {
+   "ref": "1.10.6",
+   "text": "many of them,"
+  },
+  {
+   "ref": "1.10.7",
+   "text": "dwarves in the earth,"
+  },
+  {
+   "ref": "1.10.8",
+   "text": "as Durin said:"
+  },
+  {
+   "ref": "1.11.1",
+   "text": "Nyi, Nidi,"
+  },
+  {
+   "ref": "1.11.2",
+   "text": "Nordri, Sudri,"
+  },
+  {
+   "ref": "1.16.3",
+   "text": "the reckoning of the long descent"
+  },
+  {
+   "ref": "1.16.4",
+   "text": "held to Lofar,"
+  },
+  {
+   "ref": "1.17.1",
+   "text": "until three came,"
+  },
+  {
+   "ref": "1.17.2",
+   "text": "giant maidens,"
+  },
+  {
+   "ref": "1.17.3",
+   "text": "loving and mighty,"
+  },
+  {
+   "ref": "1.17.4",
+   "text": "Aesir, to the house;"
+  },
+  {
+   "ref": "1.17.5",
+   "text": "they found on land,"
+  },
+  {
+   "ref": "1.17.6",
+   "text": "of little strength,"
+  },
+  {
+   "ref": "1.17.7",
+   "text": "Ask and Embla,"
+  },
+  {
+   "ref": "1.17.8",
+   "text": "without destiny."
+  },
+  {
+   "ref": "1.18.1",
+   "text": "Breath they had not,"
+  },
+  {
+   "ref": "1.18.2",
+   "text": "spirit they had not,"
+  },
+  {
+   "ref": "1.18.3",
+   "text": "neither blood nor bearing"
+  },
+  {
+   "ref": "1.18.4",
+   "text": "nor good colour."
+  },
+  {
+   "ref": "1.18.5",
+   "text": "Breath gave Odin,"
+  },
+  {
+   "ref": "1.18.6",
+   "text": "spirit gave Hoenir,"
+  },
+  {
+   "ref": "1.18.7",
+   "text": "blood gave Lodur"
+  },
+  {
+   "ref": "1.18.8",
+   "text": "and good colour."
+  },
+  {
+   "ref": "1.19.1",
+   "text": "An ash I know standing,"
+  },
+  {
+   "ref": "1.19.2",
+   "text": "it is called Yggdrasil,"
+  },
+  {
+   "ref": "1.19.3",
+   "text": "a high tree, drenched"
+  },
+  {
+   "ref": "1.19.4",
+   "text": "with white clay."
+  },
+  {
+   "ref": "1.20.1",
+   "text": "From there come maidens,"
+  },
+  {
+   "ref": "1.20.2",
+   "text": "knowing much,"
+  },
+  {
+   "ref": "1.20.3",
+   "text": "three, out of that hall"
+  },
+  {
+   "ref": "1.20.4",
+   "text": "which stands by the tree;"
+  },
+  {
+   "ref": "1.20.5",
+   "text": "Urd they called one,"
+  },
+  {
+   "ref": "1.26.7",
+   "text": "all weathers treacherous."
+  },
+  {
+   "ref": "1.26.8",
+   "text": "Do you know yet, or what?"
+  },
+  {
+   "ref": "1.27.1",
+   "text": "She remembers that war of peoples,"
+  },
+  {
+   "ref": "1.27.2",
+   "text": "the first in the world,"
+  },
+  {
+   "ref": "1.27.3",
+   "text": "when Gullveig"
+  },
+  {
+   "ref": "1.27.4",
+   "text": "they pierced with spears"
+  },
+  {
+   "ref": "1.27.5",
+   "text": "and in the hall of Har"
+  },
+  {
+   "ref": "1.27.6",
+   "text": "burned her;"
+  },
+  {
+   "ref": "1.27.7",
+   "text": "three times they burned,"
+  },
+  {
+   "ref": "1.27.8",
+   "text": "three times they burned,"
+  },
+  {
+   "ref": "1.27.9",
+   "text": "three times born,"
+  },
+  {
+   "ref": "1.27.10",
+   "text": "often, not seldom,"
+  },
+  {
+   "ref": "1.27.11",
+   "text": "yet she still lives."
+  },
+  {
+   "ref": "1.28.1",
+   "text": "Heid they called her"
+  },
+  {
+   "ref": "1.28.2",
+   "text": "wherever she came to houses,"
+  },
+  {
+   "ref": "1.28.3",
+   "text": "and a seeress of good prophecy;"
+  },
+  {
+   "ref": "1.28.4",
+   "text": "she enchanted wands;"
+  },
+  {
+   "ref": "1.28.5",
+   "text": "she worked *seiðr* [sorcery] wherever she could,"
+  },
+  {
+   "ref": "1.28.6",
+   "text": "she worked *seiðr*, rapt in mind;"
+  },
+  {
+   "ref": "1.28.7",
+   "text": "ever was she the delight"
+  },
+  {
+   "ref": "1.28.8",
+   "text": "of an evil woman."
+  },
+  {
+   "ref": "1.29.1",
+   "text": "Then all the powers went"
+  },
+  {
+   "ref": "1.29.2",
+   "text": "to their judgment seats,"
+  },
+  {
+   "ref": "1.29.3",
+   "text": "the most holy gods,"
+  },
+  {
+   "ref": "1.29.4",
+   "text": "and deliberated on this:"
+  },
+  {
+   "ref": "1.29.5",
+   "text": "whether the Aesir should"
+  },
+  {
+   "ref": "1.29.6",
+   "text": "pay tribute,"
+  },
+  {
+   "ref": "1.29.7",
+   "text": "or all the gods should"
+  },
+  {
+   "ref": "1.29.8",
+   "text": "share the offerings."
+  },
+  {
+   "ref": "1.30.1",
+   "text": "Odin hurled [his spear]"
+  },
+  {
+   "ref": "1.30.2",
+   "text": "and shot into the host;"
+  },
+  {
+   "ref": "1.30.3",
+   "text": "that was still the war of peoples,"
+  },
+  {
+   "ref": "1.30.4",
+   "text": "the first in the world."
+  },
+  {
+   "ref": "1.30.5",
+   "text": "Broken was the plank-wall"
+  },
+  {
+   "ref": "1.30.6",
+   "text": "of the Aesir's stronghold;"
+  },
+  {
+   "ref": "1.30.7",
+   "text": "the Vanir by war-spells could"
+  },
+  {
+   "ref": "1.30.8",
+   "text": "tread the plains."
+  },
+  {
+   "ref": "1.31.1",
+   "text": "Then could Vali's"
+  },
+  {
+   "ref": "1.31.2",
+   "text": "war-bonds be twisted;"
+  },
+  {
+   "ref": "1.31.3",
+   "text": "rather hard-made were"
+  },
+  {
+   "ref": "1.31.4",
+   "text": "the fetters of guts."
+  },
+  {
+   "ref": "1.250",
+   "text": "There sits Sigyn,"
+  },
+  {
+   "ref": "1.31.6",
+   "text": "not at all over her"
+  },
+  {
+   "ref": "1.31.7",
+   "text": "husband well pleased."
+  },
+  {
+   "ref": "1.31.8",
+   "text": "Do you know yet, or what?"
+  },
+  {
+   "ref": "1.32.1",
+   "text": "Garm bays loudly"
+  },
+  {
+   "ref": "1.32.2",
+   "text": "before Gnupahellir;"
+  },
+  {
+   "ref": "1.32.3",
+   "text": "the fetter will break"
+  },
+  {
+   "ref": "1.32.4",
+   "text": "and the wolf run free."
+  },
+  {
+   "ref": "1.32.5",
+   "text": "Further ahead I see,"
+  },
+  {
+   "ref": "1.32.6",
+   "text": "much can I tell"
+  },
+  {
+   "ref": "1.32.7",
+   "text": "of the doom of the powers,"
+  },
+  {
+   "ref": "1.32.8",
+   "text": "the hard [fate] of the victory-gods."
+  },
+  {
+   "ref": "1.33.1",
+   "text": "There sat on a mound"
+  },
+  {
+   "ref": "1.37.3",
+   "text": "the fetter will break"
+  },
+  {
+   "ref": "1.37.4",
+   "text": "and the w[olf run free]."
+  },
+  {
+   "ref": "1.38.1",
+   "text": "Brothers will fight"
+  },
+  {
+   "ref": "1.38.2",
+   "text": "and be each other's slayers;"
+  },
+  {
+   "ref": "1.38.3",
+   "text": "sisters' sons will"
+  },
+  {
+   "ref": "1.38.4",
+   "text": "spoil kinship;"
+  },
+  {
+   "ref": "1.38.5",
+   "text": "it is harsh in the world,"
+  },
+  {
+   "ref": "1.38.6",
+   "text": "great adultery,"
+  },
+  {
+   "ref": "1.38.7",
+   "text": "an axe-age, a sword-age,"
+  },
+  {
+   "ref": "1.38.8",
+   "text": "shields are cloven,"
+  },
+  {
+   "ref": "1.39.1",
+   "text": "a wind-age, a wolf-age,"
+  },
+  {
+   "ref": "1.39.2",
+   "text": "before the world falls headlong;"
+  },
+  {
+   "ref": "1.39.3",
+   "text": "the grounds resound,"
+  },
+  {
+   "ref": "1.39.4",
+   "text": "troll-women flying;"
+  },
+  {
+   "ref": "1.39.5",
+   "text": "no man will"
+  },
+  {
+   "ref": "1.39.6",
+   "text": "spare another."
+  },
+  {
+   "ref": "1.40.1",
+   "text": "Mim's sons are at play,"
+  },
+  {
+   "ref": "1.40.2",
+   "text": "and fate is kindled"
+  },
+  {
+   "ref": "1.40.3",
+   "text": "at the old"
+  },
+  {
+   "ref": "1.40.4",
+   "text": "Gjallarhorn;"
+  },
+  {
+   "ref": "1.40.5",
+   "text": "loud blows Heimdall,"
+  },
+  {
+   "ref": "1.40.6",
+   "text": "the horn is aloft;"
+  },
+  {
+   "ref": "1.40.7",
+   "text": "Odin speaks"
+  },
+  {
+   "ref": "1.40.8",
+   "text": "with Mim's head."
+  },
+  {
+   "ref": "1.41.1",
+   "text": "Yggdrasil's"
+  },
+  {
+   "ref": "1.41.2",
+   "text": "ash trembles where it stands,"
+  },
+  {
+   "ref": "1.41.3",
+   "text": "the old tree groans,"
+  },
+  {
+   "ref": "1.41.4",
+   "text": "and the giant gets loose."
+  },
+  {
+   "ref": "1.41.5",
+   "text": "All are afraid"
+  },
+  {
+   "ref": "1.41.6",
+   "text": "on the roads to Hel,"
+  },
+  {
+   "ref": "1.41.7",
+   "text": "before Surt's"
+  },
+  {
+   "ref": "1.41.8",
+   "text": "kinsman swallows that one."
+  },
+  {
+   "ref": "1.42.1",
+   "text": "What is with the Aesir?"
+  },
+  {
+   "ref": "1.42.2",
+   "text": "What is with the elves?"
+  },
+  {
+   "ref": "1.42.3",
+   "text": "All Jotunheim roars,"
+  },
+  {
+   "ref": "1.42.4",
+   "text": "the Aesir are at assembly;"
+  },
+  {
+   "ref": "1.42.5",
+   "text": "the dwarves groan"
+  },
+  {
+   "ref": "1.42.6",
+   "text": "before their stone doors,"
+  },
+  {
+   "ref": "1.42.7",
+   "text": "the wise ones of the rock-walls."
+  },
+  {
+   "ref": "1.42.8",
+   "text": "Do you know yet, or what?"
+  },
+  {
+   "ref": "1.43.1",
+   "text": "Garm now bays loudly"
+  },
+  {
+   "ref": "1.43.2",
+   "text": "before Gnipahellir;"
+  },
+  {
+   "ref": "1.43.3",
+   "text": "the f[etter] w[ill break, and the wolf run free]."
+  },
+  {
+   "ref": "1.44.1",
+   "text": "Hrym drives from the east,"
+  },
+  {
+   "ref": "1.44.2",
+   "text": "lifts his linden [shield] before him;"
+  },
+  {
+   "ref": "1.44.3",
+   "text": "Jormungand writhes"
+  },
+  {
+   "ref": "1.44.4",
+   "text": "in giant-rage;"
+  },
+  {
+   "ref": "1.44.5",
+   "text": "the serpent beats the waves,"
+  },
+  {
+   "ref": "1.44.6",
+   "text": "and the eagle screams,"
+  },
+  {
+   "ref": "1.44.7",
+   "text": "wan, it tears corpses;"
+  },
+  {
+   "ref": "1.44.8",
+   "text": "Naglfar comes loose."
+  },
+  {
+   "ref": "1.45.1",
+   "text": "A keel travels from the east;"
+  },
+  {
+   "ref": "1.45.2",
+   "text": "there will come Muspell's"
+  },
+  {
+   "ref": "1.45.3",
+   "text": "people over the sea,"
+  },
+  {
+   "ref": "1.45.4",
+   "text": "and Loki steers."
+  },
+  {
+   "ref": "1.45.5",
+   "text": "The monstrous brood goes"
+  },
+  {
+   "ref": "1.45.6",
+   "text": "with the wolf, all of them;"
+  },
+  {
+   "ref": "1.45.7",
+   "text": "with them is the brother"
+  },
+  {
+   "ref": "1.45.8",
+   "text": "of Byleist on the journey."
+  },
+  {
+   "ref": "1.46.1",
+   "text": "Surt travels from the south"
+  },
+  {
+   "ref": "1.46.2",
+   "text": "with the bane of branches;"
+  },
+  {
+   "ref": "1.46.3",
+   "text": "there shines from his sword"
+  },
+  {
+   "ref": "1.46.4",
+   "text": "the sun of the slaughter-gods;"
+  },
+  {
+   "ref": "1.46.5",
+   "text": "the rock-cliffs clash"
+  },
+  {
+   "ref": "1.46.6",
+   "text": "and the troll-women stumble;"
+  },
+  {
+   "ref": "1.46.7",
+   "text": "men tread the road to Hel,"
+  },
+  {
+   "ref": "1.46.8",
+   "text": "and heaven splits."
+  },
+  {
+   "ref": "1.47.1",
+   "text": "Then comes Hlin's"
+  },
+  {
+   "ref": "1.47.2",
+   "text": "second grief to pass,"
+  },
+  {
+   "ref": "1.47.3",
+   "text": "when Odin goes"
+  },
+  {
+   "ref": "1.47.4",
+   "text": "to fight with the wolf,"
+  },
+  {
+   "ref": "1.47.5",
+   "text": "and Beli's slayer,"
+  },
+  {
+   "ref": "1.47.6",
+   "text": "the bright one, against Surt;"
+  },
+  {
+   "ref": "1.47.7",
+   "text": "there will Frigg's"
+  },
+  {
+   "ref": "1.47.8",
+   "text": "darling fall."
+  },
+  {
+   "ref": "1.48.1",
+   "text": "Garm now bays loudly"
+  },
+  {
+   "ref": "1.48.2",
+   "text": "before Gnipahellir;"
+  },
+  {
+   "ref": "1.48.3",
+   "text": "the f[etter] w[ill break, and the wolf run free]."
+  },
+  {
+   "ref": "1.49.1",
+   "text": "It gapes aloft above"
+  },
+  {
+   "ref": "1.49.2",
+   "text": "the girdle of the earth;"
+  },
+  {
+   "ref": "1.49.3",
+   "text": "the jaws gape of the terrible"
+  },
+  {
+   "ref": "1.49.4",
+   "text": "serpent on high;"
+  },
+  {
+   "ref": "1.49.5",
+   "text": "Odin's son will"
+  },
+  {
+   "ref": "1.49.6",
+   "text": "meet the serpent,"
+  },
+  {
+   "ref": "1.49.7",
+   "text": "of the wolf, at"
+  },
+  {
+   "ref": "1.49.8",
+   "text": "Vidar's kinsman."
+  },
+  {
+   "ref": "1.384",
+   "text": "the adder"
+  },
+  {
+   "ref": "1.385",
+   "text": "men will"
+  },
+  {
+   "ref": "1.51.1",
+   "text": "The sun turns black,"
+  },
+  {
+   "ref": "1.51.2",
+   "text": "earth sinks into the sea,"
+  },
+  {
+   "ref": "1.51.3",
+   "text": "from heaven vanish"
+  },
+  {
+   "ref": "1.51.4",
+   "text": "the bright stars;"
+  },
+  {
+   "ref": "1.51.5",
+   "text": "steam rages"
+  },
+  {
+   "ref": "1.51.6",
+   "text": "and the life-nourisher,"
+  },
+  {
+   "ref": "1.51.7",
+   "text": "high heat plays"
+  },
+  {
+   "ref": "1.51.8",
+   "text": "against heaven itself."
+  },
+  {
+   "ref": "1.52.1",
+   "text": "Garm now bays loudly"
+  },
+  {
+   "ref": "1.52.2",
+   "text": "before Gnipahellir;"
+  },
+  {
+   "ref": "1.52.3",
+   "text": "the fetter will break"
+  },
+  {
+   "ref": "1.52.4",
+   "text": "and the wolf run free."
+  },
+  {
+   "ref": "1.53.1",
+   "text": "She sees come up"
+  },
+  {
+   "ref": "1.53.2",
+   "text": "a second time"
+  },
+  {
+   "ref": "1.53.3",
+   "text": "earth out of the sea,"
+  },
+  {
+   "ref": "1.53.4",
+   "text": "ever green;"
+  },
+  {
+   "ref": "1.53.5",
+   "text": "waterfalls tumble,"
+  },
+  {
+   "ref": "1.53.6",
+   "text": "an eagle flies above,"
+  },
+  {
+   "ref": "1.53.7",
+   "text": "the one that on the mountain"
+  },
+  {
+   "ref": "1.53.8",
+   "text": "hunts fish."
+  },
+  {
+   "ref": "1.54.1",
+   "text": "The Aesir meet"
+  },
+  {
+   "ref": "1.54.2",
+   "text": "on Idavoll,"
+  },
+  {
+   "ref": "1.54.3",
+   "text": "and about the earth-coiler,"
+  },
+  {
+   "ref": "1.54.4",
+   "text": "the mighty, they talk,"
+  },
+  {
+   "ref": "1.54.5",
+   "text": "and they recall there"
+  },
+  {
+   "ref": "1.54.6",
+   "text": "the great judgments"
+  },
+  {
+   "ref": "1.54.7",
+   "text": "and Fimbultyr's"
+  },
+  {
+   "ref": "1.54.8",
+   "text": "ancient runes."
+  },
+  {
+   "ref": "1.55.1",
+   "text": "Then the Aesir will"
+  },
+  {
+   "ref": "1.55.2",
+   "text": "find the wondrous"
+  },
+  {
+   "ref": "1.55.3",
+   "text": "golden game-pieces"
+  },
+  {
+   "ref": "1.55.4",
+   "text": "in the grass,"
+  },
+  {
+   "ref": "1.55.5",
+   "text": "those that in days of old"
+  },
+  {
+   "ref": "1.55.6",
+   "text": "they had owned."
+  },
+  {
+   "ref": "1.56.1",
+   "text": "Unsown will"
+  },
+  {
+   "ref": "1.56.2",
+   "text": "fields grow;"
+  },
+  {
+   "ref": "1.56.3",
+   "text": "all ill will grow better;"
+  },
+  {
+   "ref": "1.56.4",
+   "text": "Baldr will come."
+  },
+  {
+   "ref": "1.56.5",
+   "text": "Hod and Baldr will dwell"
+  },
+  {
+   "ref": "1.56.6",
+   "text": "in Hropt's victory-grounds,"
+  },
+  {
+   "ref": "1.56.7",
+   "text": "well, the gods of the slain."
+  },
+  {
+   "ref": "1.56.8",
+   "text": "Do you know yet, or what?"
+  },
+  {
+   "ref": "1.57.1",
+   "text": "Then Hoenir can"
+  },
+  {
+   "ref": "1.57.2",
+   "text": "choose the lot-wood,"
+  },
+  {
+   "ref": "1.57.3",
+   "text": "and the sons dwell"
+  },
+  {
+   "ref": "1.57.4",
+   "text": "of two brothers"
+  },
+  {
+   "ref": "1.57.5",
+   "text": "in the wide wind-home."
+  },
+  {
+   "ref": "1.57.6",
+   "text": "Do you know yet, or what?"
+  },
+  {
+   "ref": "1.58.1",
+   "text": "A hall she sees standing,"
+  },
+  {
+   "ref": "1.58.2",
+   "text": "fairer than the sun,"
+  },
+  {
+   "ref": "1.58.3",
+   "text": "thatched with gold,"
+  },
+  {
+   "ref": "1.58.4",
+   "text": "at Gimle;"
+  },
+  {
+   "ref": "1.58.5",
+   "text": "there shall worthy"
+  },
+  {
+   "ref": "1.58.6",
+   "text": "hosts dwell"
+  },
+  {
+   "ref": "1.58.7",
+   "text": "and for all their days"
+  },
+  {
+   "ref": "1.58.8",
+   "text": "enjoy delight."
+  },
+  {
+   "ref": "1.59.1",
+   "text": "Then comes the mighty one"
+  },
+  {
+   "ref": "1.59.2",
+   "text": "to the judgment of the powers,"
+  },
+  {
+   "ref": "1.59.3",
+   "text": "strong, from above,"
+  },
+  {
+   "ref": "1.59.4",
+   "text": "he who rules all."
+  },
+  {
+   "ref": "1.60.1",
+   "text": "There comes the dark"
+  },
+  {
+   "ref": "1.60.2",
+   "text": "dragon flying,"
+  },
+  {
+   "ref": "1.60.3",
+   "text": "the gleaming serpent, up from below"
+  },
+  {
+   "ref": "1.60.4",
+   "text": "from Nida[fjoll];"
+  },
+  {
+   "ref": "1.60.5",
+   "text": "he carries in his feathers"
+  },
+  {
+   "ref": "1.60.6",
+   "text": "— he flies over the plain —"
+  },
+  {
+   "ref": "1.60.7",
+   "text": "Nidhogg, corpses."
+  },
+  {
+   "ref": "1.60.8",
+   "text": "Now she will sink."
+  }
+ ]
+}

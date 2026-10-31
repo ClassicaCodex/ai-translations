@@ -1,0 +1,626 @@
+{
+ "work_urn": "urn:dante:commedia:paradiso",
+ "edition_urn": "urn:dante:commedia:paradiso.ai-claude",
+ "source_edition": "urn:dante:commedia:paradiso:petrocchi",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-10-31",
+ "updated": "2026-10-31",
+ "header": {
+  "title": "Commedia III: Paradiso: AI translation (Claude)",
+  "author": "Dante Alighieri",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's urn:dante:commedia:paradiso:petrocchi, from UD Italian-Old: Petrocchi's text via DanteSearch (CC BY-SA 4.0), one English line for each line of the original. Only some passages are translated so far: those that the Atlas of Ancient Myth, Magic in the Ancient Texts and the demons-and-angels study cite.",
+  "statement": "An AI-generated translation. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit UD Italian-Old: Petrocchi's text via DanteSearch and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "7.147": "8.12 ‘or da coppa or da ciglio’: the sun is now behind Venus (‘coppa’, the nape), now before her (‘ciglio’, the brow), as evening and morning star.",
+  "4.41": "In this copy ‘però che’, which in Petrocchi opens 4.41 and 4.51, stands at the end of the line before (4.40, 4.50); the English follows the lines as given. 4.48 ‘Tobia’ is Tobit, the elder Tobias, healed of blindness.",
+  "1.11": "In this copy ‘Infino a’, which in Petrocchi opens 1.16, stands at the end of 1.15; the English follows the lines as given.",
+  "28.14": "28.14 ‘volume’: the revolving sphere, here the Primum Mobile; rendered ‘rolling sphere’.",
+  "29.35": "In this copy ‘anzi che’ and ‘secondo che’, which in Petrocchi open 29.39 and 29.66, stand at the end of 29.38 and 29.65; the English follows the lines as given. 29.36 ‘vime … divima’: a withy (pliant twig used as a tie) that is never untwisted. 29.51 ‘il suggetto d’i vostri alimenti’: the lowest of the elements, earth, as the substrate of the rest.",
+  "30.147": "In this copy several words that in Petrocchi open the next line stand at the end of the line before: ‘là dove’ (before 30.147, 31.9, 31.12), ‘sì come’ (31.7), ‘sì che’ (31.24); the English follows the lines as given. 30.148 ‘Alagna’ is Anagni.",
+  "33.92": "33.94–96: the sense of ‘letargo’ (forgetfulness) and of the comparison is much debated; read here as: one instant has made me forget more than twenty-five centuries have made the world forget the Argonauts’ voyage."
+ },
+ "nodes": [
+  {
+   "ref": "1.11",
+   "text": "I could store up as treasure in my mind"
+  },
+  {
+   "ref": "1.12",
+   "text": "shall now be the matter of my song."
+  },
+  {
+   "ref": "1.13",
+   "text": "O good Apollo, for the last labor"
+  },
+  {
+   "ref": "1.14",
+   "text": "make me such a vessel of your power"
+  },
+  {
+   "ref": "1.15",
+   "text": "as you require for giving the beloved laurel. Up to"
+  },
+  {
+   "ref": "1.16",
+   "text": "this point one peak of Parnassus"
+  },
+  {
+   "ref": "1.17",
+   "text": "was enough for me; but now with both"
+  },
+  {
+   "ref": "4.41",
+   "text": "only from what the senses perceive does it grasp"
+  },
+  {
+   "ref": "4.42",
+   "text": "what it then makes worthy of the intellect."
+  },
+  {
+   "ref": "4.43",
+   "text": "For this reason Scripture condescends"
+  },
+  {
+   "ref": "4.44",
+   "text": "to your capacity, and feet and hands"
+  },
+  {
+   "ref": "4.45",
+   "text": "it attributes to God, and means something else;"
+  },
+  {
+   "ref": "4.46",
+   "text": "and Holy Church, with a human aspect,"
+  },
+  {
+   "ref": "4.47",
+   "text": "shows Gabriel and Michael to you,"
+  },
+  {
+   "ref": "4.48",
+   "text": "and the other who made Tobit sound again."
+  },
+  {
+   "ref": "4.49",
+   "text": "What Timaeus argues about souls"
+  },
+  {
+   "ref": "4.50",
+   "text": "is not like what is seen here, since,"
+  },
+  {
+   "ref": "4.51",
+   "text": "as he says it, so he seems to think it."
+  },
+  {
+   "ref": "4.52",
+   "text": "He says that the soul returns to its star,"
+  },
+  {
+   "ref": "4.53",
+   "text": "believing it to have been cut off from there"
+  },
+  {
+   "ref": "4.54",
+   "text": "when nature gave it as a form;"
+  },
+  {
+   "ref": "4.55",
+   "text": "and perhaps his meaning is otherwise"
+  },
+  {
+   "ref": "4.56",
+   "text": "than his words sound, and it may be"
+  },
+  {
+   "ref": "4.57",
+   "text": "of an intent not to be mocked."
+  },
+  {
+   "ref": "4.58",
+   "text": "If he means that to these wheels return"
+  },
+  {
+   "ref": "4.59",
+   "text": "the honor of their influence and the blame, perhaps"
+  },
+  {
+   "ref": "4.60",
+   "text": "his bow strikes upon some truth."
+  },
+  {
+   "ref": "4.61",
+   "text": "This principle, ill understood, once twisted"
+  },
+  {
+   "ref": "4.62",
+   "text": "almost the whole world, so that Jupiter,"
+  },
+  {
+   "ref": "4.63",
+   "text": "Mercury and Mars it strayed so far as to name."
+  },
+  {
+   "ref": "4.64",
+   "text": "The other doubt that troubles you"
+  },
+  {
+   "ref": "4.65",
+   "text": "has less poison, because its malice"
+  },
+  {
+   "ref": "7.147",
+   "text": "how human flesh was made then,"
+  },
+  {
+   "ref": "7.148",
+   "text": "when the first parents were both made.”"
+  },
+  {
+   "ref": "8.1",
+   "text": "The world used to believe, to its peril,"
+  },
+  {
+   "ref": "8.2",
+   "text": "that the fair Cyprian sent mad love"
+  },
+  {
+   "ref": "8.3",
+   "text": "raying down, turning in the third epicycle;"
+  },
+  {
+   "ref": "8.4",
+   "text": "so that not only to her did they do honor"
+  },
+  {
+   "ref": "8.5",
+   "text": "with sacrifice and with votive cry,"
+  },
+  {
+   "ref": "8.6",
+   "text": "the ancient peoples in the ancient error;"
+  },
+  {
+   "ref": "8.7",
+   "text": "but they honored Dione and Cupid,"
+  },
+  {
+   "ref": "8.8",
+   "text": "the one as her mother, the other as her son,"
+  },
+  {
+   "ref": "8.9",
+   "text": "and they said that he sat in Dido’s lap;"
+  },
+  {
+   "ref": "8.10",
+   "text": "and from her with whom I take my beginning"
+  },
+  {
+   "ref": "8.11",
+   "text": "they took the name of the star"
+  },
+  {
+   "ref": "8.12",
+   "text": "that the sun courts now at her nape, now at her brow."
+  },
+  {
+   "ref": "8.13",
+   "text": "I was not aware of rising into it;"
+  },
+  {
+   "ref": "8.14",
+   "text": "but that I was within it I was made fully sure by"
+  },
+  {
+   "ref": "18.41",
+   "text": "I saw another move, wheeling,"
+  },
+  {
+   "ref": "18.42",
+   "text": "and gladness was the whip to the top."
+  },
+  {
+   "ref": "18.43",
+   "text": "So for Charlemagne and for Roland"
+  },
+  {
+   "ref": "18.44",
+   "text": "my attentive gaze followed two of them,"
+  },
+  {
+   "ref": "18.45",
+   "text": "as the eye follows its falcon in flight."
+  },
+  {
+   "ref": "18.46",
+   "text": "Next William and Renouard"
+  },
+  {
+   "ref": "18.47",
+   "text": "and Duke Godfrey drew my sight"
+  },
+  {
+   "ref": "22.110",
+   "text": "your finger into the fire, in the time I saw the sign"
+  },
+  {
+   "ref": "22.111",
+   "text": "that follows Taurus, and was inside it."
+  },
+  {
+   "ref": "22.112",
+   "text": "O glorious stars, O light pregnant"
+  },
+  {
+   "ref": "22.113",
+   "text": "with great power, from which I acknowledge"
+  },
+  {
+   "ref": "22.114",
+   "text": "all of my talent, whatever it may be,"
+  },
+  {
+   "ref": "22.115",
+   "text": "with you was rising and with you was setting"
+  },
+  {
+   "ref": "22.116",
+   "text": "he who is father of every mortal life,"
+  },
+  {
+   "ref": "22.117",
+   "text": "when I first felt the Tuscan air;"
+  },
+  {
+   "ref": "22.118",
+   "text": "and then, when grace was granted me"
+  },
+  {
+   "ref": "22.119",
+   "text": "to enter the high wheel that turns you,"
+  },
+  {
+   "ref": "22.120",
+   "text": "your region was allotted me."
+  },
+  {
+   "ref": "22.121",
+   "text": "To you devoutly now there sighs"
+  },
+  {
+   "ref": "22.122",
+   "text": "my soul, to acquire power"
+  },
+  {
+   "ref": "28.14",
+   "text": "mine, by what appears in that rolling sphere"
+  },
+  {
+   "ref": "28.15",
+   "text": "whenever one looks well into its circling,"
+  },
+  {
+   "ref": "28.16",
+   "text": "I saw a point that rayed out light"
+  },
+  {
+   "ref": "28.17",
+   "text": "so sharp that the sight it sets ablaze"
+  },
+  {
+   "ref": "28.18",
+   "text": "must close because of its great keenness;"
+  },
+  {
+   "ref": "28.128",
+   "text": "and downward so prevail that toward God"
+  },
+  {
+   "ref": "28.129",
+   "text": "all are drawn and all draw."
+  },
+  {
+   "ref": "28.130",
+   "text": "And Dionysius with such longing"
+  },
+  {
+   "ref": "28.131",
+   "text": "set himself to contemplate these orders"
+  },
+  {
+   "ref": "28.132",
+   "text": "that he named and distinguished them as I do."
+  },
+  {
+   "ref": "28.133",
+   "text": "But Gregory afterwards parted from him;"
+  },
+  {
+   "ref": "28.134",
+   "text": "so that, as soon as he opened his eyes"
+  },
+  {
+   "ref": "28.135",
+   "text": "in this heaven, he laughed at himself."
+  },
+  {
+   "ref": "28.136",
+   "text": "And if so secret a truth was set forth"
+  },
+  {
+   "ref": "28.137",
+   "text": "by a mortal on earth, I do not want you to marvel:"
+  },
+  {
+   "ref": "29.35",
+   "text": "in the middle, potency was bound to act"
+  },
+  {
+   "ref": "29.36",
+   "text": "by such a tie that it is never untied."
+  },
+  {
+   "ref": "29.37",
+   "text": "Jerome wrote to you of a long stretch"
+  },
+  {
+   "ref": "29.38",
+   "text": "of ages, with the angels created before"
+  },
+  {
+   "ref": "29.39",
+   "text": "the rest of the world was made;"
+  },
+  {
+   "ref": "29.40",
+   "text": "but this truth is written in many places"
+  },
+  {
+   "ref": "29.41",
+   "text": "by the writers of the Holy Spirit,"
+  },
+  {
+   "ref": "29.42",
+   "text": "and you will perceive it if you look carefully;"
+  },
+  {
+   "ref": "29.43",
+   "text": "and reason too sees it in some degree,"
+  },
+  {
+   "ref": "29.44",
+   "text": "for it would not grant that the movers"
+  },
+  {
+   "ref": "29.45",
+   "text": "were so long without their perfection."
+  },
+  {
+   "ref": "29.46",
+   "text": "Now you know where and when these loves"
+  },
+  {
+   "ref": "29.47",
+   "text": "were created, and how: so that quenched"
+  },
+  {
+   "ref": "29.48",
+   "text": "in your desire are already three flames."
+  },
+  {
+   "ref": "29.49",
+   "text": "Nor would one reach twenty, counting,"
+  },
+  {
+   "ref": "29.50",
+   "text": "as quickly as a part of the angels"
+  },
+  {
+   "ref": "29.51",
+   "text": "disturbed the substrate of your elements."
+  },
+  {
+   "ref": "29.52",
+   "text": "The other part remained, and began this art"
+  },
+  {
+   "ref": "29.53",
+   "text": "which you discern, with such delight"
+  },
+  {
+   "ref": "29.54",
+   "text": "that it never leaves off circling."
+  },
+  {
+   "ref": "29.55",
+   "text": "The beginning of the fall was the accursed"
+  },
+  {
+   "ref": "29.56",
+   "text": "pride of the one you saw"
+  },
+  {
+   "ref": "29.57",
+   "text": "pressed down by all the weights of the world."
+  },
+  {
+   "ref": "29.58",
+   "text": "Those you see here were modest"
+  },
+  {
+   "ref": "29.59",
+   "text": "in acknowledging themselves as from the goodness"
+  },
+  {
+   "ref": "29.60",
+   "text": "that had made them ready for such understanding:"
+  },
+  {
+   "ref": "29.61",
+   "text": "for which their sight was exalted"
+  },
+  {
+   "ref": "29.62",
+   "text": "by illuminating grace and by their merit,"
+  },
+  {
+   "ref": "29.63",
+   "text": "so that they have a firm and full will;"
+  },
+  {
+   "ref": "29.64",
+   "text": "and I do not want you to doubt, but to be certain"
+  },
+  {
+   "ref": "29.65",
+   "text": "that to receive grace is meritorious in the measure that"
+  },
+  {
+   "ref": "30.147",
+   "text": "Simon Magus is, for his deserts,"
+  },
+  {
+   "ref": "30.148",
+   "text": "and will make the one from Anagni go further down.”"
+  },
+  {
+   "ref": "31.1",
+   "text": "In the form, then, of a white rose"
+  },
+  {
+   "ref": "31.2",
+   "text": "the holy army showed itself to me"
+  },
+  {
+   "ref": "31.3",
+   "text": "that Christ in his own blood made his bride;"
+  },
+  {
+   "ref": "31.4",
+   "text": "but the other, which, flying, sees and sings"
+  },
+  {
+   "ref": "31.5",
+   "text": "the glory of him who fills it with love"
+  },
+  {
+   "ref": "31.6",
+   "text": "and the goodness that made it so great, just as"
+  },
+  {
+   "ref": "31.7",
+   "text": "a swarm of bees that plunges into the flowers"
+  },
+  {
+   "ref": "31.8",
+   "text": "at one moment, and at another returns there where"
+  },
+  {
+   "ref": "31.9",
+   "text": "its labor is turned to sweetness,"
+  },
+  {
+   "ref": "31.10",
+   "text": "was descending into the great flower that is adorned"
+  },
+  {
+   "ref": "31.11",
+   "text": "with so many petals, and from there rose again there where"
+  },
+  {
+   "ref": "31.12",
+   "text": "its love forever dwells."
+  },
+  {
+   "ref": "31.13",
+   "text": "Their faces all were of living flame"
+  },
+  {
+   "ref": "31.14",
+   "text": "and their wings of gold, and the rest so white"
+  },
+  {
+   "ref": "31.15",
+   "text": "that no snow comes up to that degree."
+  },
+  {
+   "ref": "31.16",
+   "text": "When they descended into the flower, from tier to tier"
+  },
+  {
+   "ref": "31.17",
+   "text": "they offered some of the peace and the ardor"
+  },
+  {
+   "ref": "31.18",
+   "text": "which they gained as they fanned their sides."
+  },
+  {
+   "ref": "31.19",
+   "text": "Nor did the interposing, between what was above and the flower,"
+  },
+  {
+   "ref": "31.20",
+   "text": "of so great a flying multitude"
+  },
+  {
+   "ref": "31.21",
+   "text": "obstruct the sight or the splendor:"
+  },
+  {
+   "ref": "31.22",
+   "text": "for the divine light penetrates"
+  },
+  {
+   "ref": "31.23",
+   "text": "through the universe according as it is worthy, so that"
+  },
+  {
+   "ref": "31.24",
+   "text": "nothing can stand in its way."
+  },
+  {
+   "ref": "31.25",
+   "text": "This secure and joyful kingdom,"
+  },
+  {
+   "ref": "31.26",
+   "text": "thronged with people of old and with new,"
+  },
+  {
+   "ref": "33.92",
+   "text": "I believe I saw, because, more amply,"
+  },
+  {
+   "ref": "33.93",
+   "text": "as I say this, I feel that I rejoice."
+  },
+  {
+   "ref": "33.94",
+   "text": "A single instant is a greater oblivion to me"
+  },
+  {
+   "ref": "33.95",
+   "text": "than twenty-five centuries to the enterprise"
+  },
+  {
+   "ref": "33.96",
+   "text": "that made Neptune marvel at the shadow of the Argo."
+  },
+  {
+   "ref": "33.97",
+   "text": "So my mind, wholly suspended,"
+  },
+  {
+   "ref": "33.98",
+   "text": "was gazing, fixed, motionless and intent,"
+  }
+ ]
+}
