@@ -4,7 +4,7 @@ English translations of ancient and medieval passages that have no published Eng
 
 > **AI translation.** Every translation here was made by Claude (Anthropic) from the original text, then checked against the original by a second AI, Codex (OpenAI). Objections that held up were corrected. **No specialist has reviewed any of it.** Use these as plain working versions, not authoritative translations, and keep this label with them wherever you use them.
 
-The collection has 446 works in 12 languages: about 302,600 English words on 15,912 lines. The passages are the ones that three projects quote or cite and that had no English in the library:
+The collection has 446 works in 12 languages: about 302,100 English words on 15,887 lines. The passages are the ones that three projects quote or cite and that had no English in the library:
 - the [Atlas of Ancient Myth](https://skirnirstudios.com/atlas-of-ancient-myth/);
 - [Magic in the Ancient Texts](https://skirnirstudios.com/magic-in-the-ancient-texts/);
 - a study of demons and angels.
@@ -15,7 +15,7 @@ You can read them beside their originals at [skirnirstudios.com/translations](ht
 |---|---:|---:|---:|
 | Greek | 144 | 1,805 | 96,217 |
 | Latin | 112 | 2,924 | 93,680 |
-| Old Icelandic, Old Norse, Old Norwegian, Old Swedish | 42 | 3,637 | 35,978 |
+| Old Icelandic, Old Norse, Old Norwegian, Old Swedish | 42 | 3,612 | 35,522 |
 | Egyptian | 61 | 2,153 | 26,150 |
 | Middle High German | 69 | 2,783 | 19,696 |
 | Italian (Dante) | 3 | 1,569 | 12,681 |
@@ -62,6 +62,7 @@ The major-error rates before correction were:
 
 - **Akkadian and Coptic.** The test showed them too weak to publish without a specialist.
 - **One Old French passage (Otinel, manuscript A).** Its transcription in the Geste corpus is marked as a working file not for distribution.
+- **25 lines of Gregory's Homily 34 in AM 677 4to (folios 18r–18v).** They are translated, and wait in `pending/` until Classica Codex can hold their original. See `pending/README.md`.
 - **Whole works.** Only the cited passages are translated; each file says so.
 
 ## Licences
@@ -80,6 +81,7 @@ Under current US law, purely AI-generated text may not be protected by copyright
 
 - **`translations/`:** one JSON file per work. The format is in `FORMAT.md`.
 - **`catalogue.csv`:** one row per file.
+- **`pending/`:** translations held back until a library can hold their original. Classica Codex does not read this folder.
 - **`method/`:** the briefs and every review decision.
 - **`tools/check_release.py`:** checks the collection before a release: every file's shape and licence, the catalogue, and that nothing private or restricted is in it.
 - **`CITATION.cff`:** how to cite the collection.
