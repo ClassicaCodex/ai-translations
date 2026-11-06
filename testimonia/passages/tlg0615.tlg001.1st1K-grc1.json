@@ -1,0 +1,358 @@
+{
+ "source_edition": "tlg0615.tlg001.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg0615.tlg001.1st1K-grc1",
+ "title": "In Ethica Nichomachea Commentaria",
+ "author": "Aspasius",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg0615.tlg001.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p01658",
+   "ref": "1.1",
+   "original": "ὅτι μὲν οὖν τιμιωτέρα ἐστὶν ἡ σοφία τῆς πολιτικῆς, ἐκ τούτων καὶ τῶν τοιούτων ἄν τις κατανοήσειεν, ἡ δὲ ἠθική, καθάπερ προείρηται, ἀναγκαιοτάτη • ἡμῖν δὲ καὶ πρώτως ταύτην ἐπιτηδεύειν προσήκει καὶ λόγῳ καὶ ἔργῳ, ὥσπερ καὶ Σωκράτης ἠξίου, οὐκ ἀτιἀτιμάζων τὴν περὶ τὰ θεῖα γνῶσιν καὶ τῶν φύσει συντεινόντων παριεὶς τὴν ἐπιστήμην ὡς περιττήν, ἀλλ’ ἀναγκαίαν ἡγούμενος τὴν τοῦ ἤθους ἐπιμέλειαν καὶ οἱ Πυθαγόρειοι δὲ πρῶτον ἐπαίδευον τοὺς συ-ίἴ̀ινομονου καὶ ἤθεσι καὶ λόγοις.",
+   "english": "That wisdom, then, is more honourable than political [knowledge], one could understand from these and similar considerations; but ethics, as has been said before, is most necessary. And it befits us to practise it first of all, both in word and in deed, as Socrates too thought right, not dishonouring the knowledge of divine things, nor passing over the science of things that tend toward nature as superfluous, but regarding the care of character as necessary. And the Pythagoreans, too, first educated those who associated [with them] both in characters and in discourses.",
+   "notes": "\"συ-ίἴ̀ινομονου\" is a garbled scan, read as συγγινομένους (\"those who associated [with them]\"). \"τῶν φύσει συντεινόντων\" is obscure, perhaps \"things pertaining to nature\"; the text may be corrupt. \"ἀτιἀτιμάζων\" is a scanning duplication of ἀτιμάζων.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09252",
+   "ref": "1.3",
+   "original": "διαιροῦσι γὰρ τὸ μὲν τέχνην λέγοντες τὸ δὲ ἐπιστήμην, τὴν θεωρητικὴν πᾶσαν ἐπιστήμην ὀνομάζοντες, τὴν δὲ τοιαύτην ὑπογράψειεν ἄν τις σύσιημα ἐκ θεωρημάτων εἰς πράξεις φερόντων ἢ ποιήσεις. ἰδίως δὲ καλεῖν εἰώθασι τέχνην τὴν ποιητικήν. ἀποδίδωσι δὲ αὐτῷ λόγον ὁ Ἀριστοτέλης λέγων ’ τέχνη ἐστὶν ἕξις μετὰ λόγου ποιητική᾿, λόγον δὲ λαμβάνει οὔτε τὸν ἐπαγωγικὸν οὔτε τὸν συλλογιστικὸν ἀλλὰ τὸν ἁπλοῦν καὶ τεχνικόν, ᾧ χρῶνται οἱ δημιουργοὶ τῶν τεχνῶν· ποιήποιήματα μὲν γάρ ἐστι καὶ τὰ τῶν ἀλόγων, οἷον τῶν μὲν μελισσῶν τὰ κηρία, ἀραχνῶν δὲ τὰ ἀράχνια καλούμενα·",
+   "english": "For they divide [it], calling one part art and the other knowledge, naming all theoretical [art] knowledge; and one might describe this kind as a system of theorems leading to actions or productions. But they are accustomed to call the productive [kind] art in the proper sense. Aristotle gives an account of it, saying 'art is a productive state accompanied by reason'; and by 'reason' he takes neither inductive nor syllogistic reasoning, but the simple and technical [reason] which the craftsmen of the arts use. For there are also products of irrational creatures, such as the honeycombs of bees and the so-called webs of spiders;",
+   "notes": "'σύσιημα' read as σύστημα; 'ποιήποιήματα' read as ποιήματα (dittography).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09253",
+   "ref": "1.15",
+   "original": "ἀκολουθεῖ γὰρ αὐτοῖς λέγειν καὶ τῶν ἰδεῶν εἶναι ὅρους, ἐπειδὴ φαίνονται οἱ τὰς ἰδέας εἰσηγησάμενοι διὰ τὸ σφόδρα σεμνύνειν τὸ ἓν εἰς τὴν τῶν ἰδεῶν ἐπίνοιαν ἐλθεῖν. τὰ μὲν γὰρ πολλὰ καὶ κατὰ μέρος αἰσθητὰ ῥευστὰ ᾤοντο καὶ φθαρτὰ οὐδὲ τῷ ὄντι ὄντα, τὰ δέ, τὰ παρὰ τὰ καθ’ ἕκαστα νοητὰ οὐκ αἰσθητὰ ἀλλ’ ὄντως ὄντα· διὰ ταῦτα δὲ ἐποίησαν τὰς ἰδέας. ὁ δὲ Ἀριστοτέλης φησίν, εἴπερ ἄρα δεῖ σεμνύνειν τὸ ἕν, πιθανώτερον τοὺς Πυθαγορείους τοῦτο πεποιηκέναι· δύο γὰρ συστοιχίας θέμενοι, τὴν μὲν ἀγαθῶν, τὴν δὲ κακῶν δεκάδα, ἐν τῇ ἑτέρᾳ, τῇ τῶν ἀγαθῶν συστοιχίᾳ, τὸ ἓν ἐτίθεσαν.",
+   "english": "For it follows for them to say that there are also definitions of the Ideas, since those who introduced the Ideas evidently came to the conception of the Ideas through exalting the One very highly. For they thought that the many particular sensible things are in flux and perishable and not truly beings, but that the others, the intelligibles beside the particulars, are not sensible but truly beings; and for this reason they made the Ideas. But Aristotle says that, if indeed one must exalt the One, the Pythagoreans did this more persuasively; for, positing two columns, a decad of goods and [a decad] of evils, they placed the One in one of them, the column of goods.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01659",
+   "ref": "1.17",
+   "original": "Μετὰ ταῦτα δὲ μνημονεύει τοῦ ἐκείνων λόγου· ἡγοῦνται γὰρ τὴν γνῶσιν τῆς τἀγαθοῦ ἰδέας συλλαμβάνειν πρὸς τὰ πρακτέα τῶν ἀγαθῶν. παράδειγμα γάρ ἐκείνην ἔχοντες καὶ τὰ ἡμῖν ἀγαθὰ εἰσόμεθα, ὥσπερ ὁ τὸν Σωκράτην εἰδὼς γνωριεῖ καὶ τὸν ὅμοιον τῷ Σωκράτει. τὸν δὲ λόγον τοῦτον πιθανὸν μὲν εἶναί φησιν, οὐχ ὁμολογεῖν δὲ αὐτῷ τὰς ἐπιστήμας· πάσας μὲν γὰρ ἀγαθοῦ τινος ἐφίεσθαι, ἀγαθὸν γὰρ ἑκάστῃ τὸ ἴδιον τέλος, μηδεμίαν δὲ ἐπιζητεῖν τὴν ἰδέαν τἀγαθοῦ.",
+   "english": "After this he mentions their argument; for they think that knowledge of the Idea of the Good contributes toward those goods that are to be done. For having that as a pattern we shall also know the things that are good for us, just as one who knows Socrates will also recognise someone similar to Socrates. He says that this argument is plausible, but that the sciences do not agree with it; for all of them aim at some good, since each one's proper end is a good, yet none of them seeks out the Idea of the Good.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09254",
+   "ref": "1.26",
+   "original": "πολλὰ μὲν γὰρ πράττεται, ὥσπερ δι’ ὀργάνων, διὰ φίλων, οἷον τυραννίδων καταλύσεις διὰ φίλων ἐγένοντο καὶ εἰ ἐδέησεν ἀναλωμάτων, συνήνεικαν οἱ φίλοι, καὶ ἃ οὐ δυνατοὶ προορᾶν δι’ αὑτῶν οἱ φίλοι προορῶσι καὶ προμηθοῦνται καὶ συμπράττουσι, καὶ οἷς φίλοι εἰσίν, ὡς ὁ Ξενοφῶν φησιν, ἀντὶ δυοῖν προμηθοῦνται τέσσαρες ὀφθαλμοί εἰσι καὶ ἀντὶ δυοῖν ὤτων τέσσαρα, καὶ ἐπὶ τῶν ἄλλων μορίων ὁ αὐτὸς λόγος· καὶ μὴν ὅτι διὰ πλούτου καὶ ἐν λιμοῖς τινες ἔσωσαν πατρίδας, [διὰ πλούτου] καὶ πολεμίων ἐρύσαντο καὶ φίλων βίους ἐπηνωρθώσαντο.",
+   "english": "For many things are done through friends, as through instruments: for example, overthrows of tyrannies came about through friends, and if expenses were needed, the friends contributed; and what people cannot foresee by themselves, their friends foresee and provide for and help carry out; and those who have friends, as Xenophon says, have four eyes instead of two and four ears instead of two, and the same account holds for the other parts. And indeed, through wealth some have saved their countries even in famines, and [through wealth] have rescued [them] from enemies and restored the livelihoods of friends.",
+   "notes": "'ἀντὶ δυοῖν προμηθοῦνται τέσσαρες ὀφθαλμοί' seems to contain an intrusive 'προμηθοῦνται' repeated from above; translated without it.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09255",
+   "ref": "1.27",
+   "original": "φησὶ γὰρ ἐνίων στερουμένους ῥυπαίνειν τὸ μακάριον, οἷον εὐγενείας εὐτεκνίας κάλλους. φαῖεν γὰρ ἄν τινες καὶ δυσγενῆ ὄνια καὶ μὴ καλὸν καὶ ἄτεκνον ἐνεργεῖν ἐν προηγουμένοις ἐνδέχεσθαι, ἐνεργοῦντα δὲ εὐδαιμονεῖν ἀνάγκη. πρὸς δὲ τούτου λεκτέον ὡς καὶ Ἀριστοτέλης ἐπαινεῖ τοὺς τοιούτους, ὡς ἐπανορθοῦντας τὸ ἔλλειμμα τοῦ γένους ἢ τὸ τοῦ εἴδους ἤ τινων ἄλλων ὧν εἰσιν ἐνδεεῖς, ἀλλ᾿ ὅμως ῥύπον τινὰ ἐγγίνεσθαι ὑπὸ τῆς ὑπερβαλλούσης δυσγενείας, οἷον εἴ τις ἡταιρηκότος υἱὸς εἴη·",
+   "english": "For he says that those deprived of certain things, such as good birth, good children, beauty, have their blessedness sullied. For some might say that it is possible even for someone low-born, not beautiful and childless to be active in the primary [goods], and that one who is so active must be happy. Against this it must be said that Aristotle too praises such people as making up for the deficiency of birth or of appearance or of whatever else they lack, but [says] that nevertheless a certain stain arises from extreme low birth, for instance if someone were the son of a prostitute;",
+   "notes": "'ὄνια' read as ὄντα; 'τούτου' likely τοῦτο.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01660",
+   "ref": "1.32",
+   "original": "ἆρ’ οὖν εὐδαίμονα οἷόν τε εἶναί τινα ἐπειδὰν ἀποθάνῃ; ἢ τοῦτο ἄτοπον τὸν μηδ’ ὅλως ὄντα λέγειν εὐδαίμονα καὶ μάλιστα ἡμῖν τοῖς λέγουσιν ἐνέργειαν εἶναί τινα τὴν εὐδαιμονίαν, ἡ οὐ λέγομεν τὸν τεθνεῶτα εὐδαίμονα εἷναι; οὐδ’ ὁ Σόλων τοῦτο βούλεται, ἀλλὰ τοῦτο βούλεται ὁ λόγος, ὅτι τηνικαῦτ’ ἂν τις ἀσφαλῶς μακαρίσειεν ἄνθρωπον· καὶ τὸ λεγόμενόν ἐστιν, οὐχ ὅτι νῦν εὐδαίμων ἀλλ’ ὅτι ἦν ποτε εὐδαίμων· μακαρίζομεν δὲ αὐτὸν ἤιοι θαρροῦντες καὶ λέγομεν εὐδαίμονα, ὡς ἐκ·τὸς ὄντα κακῶν καὶ δυστυχημάτων.",
+   "english": "Is it possible, then, for someone to be happy once he has died? Or is it absurd to call happy one who does not exist at all, especially for us who say that happiness is a kind of activity? Or do we not say that the dead man is happy? Nor does Solon mean this; rather, the argument means that only then could one safely call a man blessed. And what is said is not that he is happy now, but that he was once happy; and we call him blessed, being more confident, and say he is happy, as being beyond evils and misfortunes.",
+   "notes": "\"ἤιοι\" is read as ἤδη (\"by then\"), or possibly as a corruption of μᾶλλον; rendered \"more confident\" tentatively.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09256",
+   "ref": "1.34",
+   "original": "προυπάρχειν <γάρ> ὡς γεγονότα ποτὲ οἱ ἄγγελοι ἀπαγγέλλωσιν, οἷον “ἦν Οἰδίπους τὸ πρῶτον εὐτυχὴς ἀνήρ’’ καὶ εἴ τινα τοιαῦτα· τὰ δὲ πραττόμενά ἐστιν, ὅταν ἐπὶ τῆς σκηνῆς πράττηται τὰ δεινά, οἷον καὶ ὁ Σοφοκλῆς εἰσάγει εἰς τὴν σκηνὴν τὸν Οἰδίπουν πεπηρωμένον, τὸν Αἴαν·τα ἑ·αυτὸν σφάττοντα. τὰ μὲν γὰρ προϋπάρχοντα οὐκ ἀνιᾷ τοὺς θεατάς, τὰ δὲ πραττόμενα ἐπὶ τῆς σκηνῆς συνταράττειν καὶ λυπεῖν εἴωθεν· οὕτω δὴ καὶ τὰ μὲν περὶ τοὺς τεθνεῶτας ἀτυχήματα ἔοικε τοῖς πρὸ τῆς σκηνῆς, τὰ δ’ ἐν τῷ βίῳ τοῖς ἐν τῇ σκηνῇ.",
+   "english": "[For] messengers report things as pre-existing, as having happened at some time, for example 'Oedipus was at first a fortunate man' and anything of that sort; whereas things enacted are when the terrible deeds are done on the stage, as Sophocles brings Oedipus onto the stage blinded, and Ajax slaying himself. For the pre-existing things do not distress the spectators, but things enacted on the stage tend to disturb and grieve [them]; so too, then, misfortunes concerning the dead resemble the things before the stage, and those in life resemble those on the stage.",
+   "notes": "'πρὸ τῆς σκηνῆς' presumably means 'prior to/off the stage' (events preceding the action).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09257",
+   "ref": "2.11",
+   "original": "Ἄξιον δὲ καὶ τοῦτο ζητῆσαι, πῶς λέγεται παντὶ πάθει ἕπεσθαι ἡδονὴν ἢ λύπην. ἔνιοι μὲν γὰρ ἡγήσαντο γενικώτατα εἶναι δύο ταῦτα πάθη κατὰ τὸν Ἀριστοτέλην, οὕτως δὲ γενικὰ ὥστε διαιρεῖσθαι τὸ μὲν πάθος εἰς δύο πάθη, ἡδονὴν καὶ λύπην, τὰ δ’ ἄλλα πάντα πάθη εἰς ἡδονὴν ἀνάγεσθαι καὶ λύπην, οἷον ὀργὴν μὲν καὶ φόβον εἰς λύπην, θάρσος δὲ εἰς ἡδονήν, τὴν δὲ ἐπιθυμίαν κοινόν τι εἶναι ἐκ λύπης καὶ ἡδονῆς.",
+   "english": "It is worth inquiring into this too: how it is said that pleasure or pain follows every emotion. For some have held that, according to Aristotle, these two are the most generic emotions, generic in such a way that emotion is divided into two emotions, pleasure and pain, and all the other emotions are reduced to pleasure and pain, for example anger and fear to pain, confidence to pleasure, while desire is something common, [made] of pain and pleasure.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09258",
+   "ref": "2.12",
+   "original": "διὸ πει- ρῶνταί τινες λέγειν μὴ εἶναι αὐτὰ γένη, μηδὲ τὴν πρώτην διαίρεσιν τῶν παθῶν εἰς ταῦτα εἶναι, ἀλλὰ τὸν Ἀριστοτέλην λέγειν παρέπεσθαι αὐτὰ τοῖς πάθεσιν οὕτως ὡς τῇ μὲν ὑγιείᾳ παρέπεται ἡ εὔχροια, τῇ δὲ νόσῳ ἡ δύσχροια ἐπισκεπτέον δὲ περὶ τούτων. ἔχει δὲ ἡ ἐπιθυμία, ὥσπερ εἴρηται, μῖξίν τινα ἡδονῆς καὶ λύπης καὶ ὁ θυμός. καὶ γὰρ αὐτὸς δοκεῖ μεθ’ ἡδονῆς γίνεσθαι καὶ λύπης· δηλοῖ δὲ καὶ Ὅμηρος λέγων “ὥστε πολὺ γλυκίων μέλιτος καταλειβομένοιο ἀνδρῶν ἐν στήθεσσι’’ καὶ τὰ ἑξῆς. ὅρα δὲ μὴ οὕτω βέλτιον ἄνωθεν λαβεῖν τί ποτέ ἐστι τὸ πάθος καὶ τίνα ἂν αὐτοῦ γένοιτο εἴδη ἴσως γὰρ ἀληθῶς φανεῖται τῶν ἄλλων γενικώτατα ἡδονὴ καὶ λύπη·",
+   "english": "Hence some try to say that these are not genera, nor is the first division of the emotions into these, but that Aristotle says they accompany the emotions in the way that good colour accompanies health and bad colour disease. But these matters must be examined. Desire, as has been said, has a certain mixture of pleasure and pain, and so does anger. For it too seems to arise with pleasure and pain; Homer also shows this, saying 'which, much sweeter than dripping honey, [swells] in the breasts of men' and what follows. But consider whether it is not better thus to take up from the beginning what emotion is and what its species might be; for perhaps pleasure and pain will truly appear the most generic of all;",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01661",
+   "ref": "2.23",
+   "original": "οὗτος δὲ πάντας] τοὺς ἐπὶ τὸ μεῖζον τὰ αὑτῶν λέγοντας ἅπαντας ἀλαζόνας ὠνόμασε καὶ τὴν κακίαν ἀλαζονείαν, τοὺς δὲ ἐπὶ τὸ ἔλαττον τ·ὰ αὑτῶν κατάγοντας τῷ λόγῳ καὶ προσποιουμένους ἐλάττω ἔχειν τῶν ὑπαρχόντων αὐτοῖς μοχθηροὺς μὲν καὶ αὐτούς· πᾶσα γὰρ ἡ περὶ τὸ ψεῦδος σπουδὴ μοχθηρία) εἴρωνας ὠνόμασε καὶ τὴν κακίαν εἰρωνείαν· δοκεῖ δέ τισι μὴ εἶναι κακία ἡ εἰρωνεία· τὸν γὰρ Σωκράτην εἴρωνά φασι γεγονέναι μήποτε δὲ οὐκ ἦν εἴρων ὁ Σωκράτης. τεκμήριον δὲ τὸ μηδένα τῶν ἑταίρων αὐτοῦ οὕτως αὐτὸν ὀνομάζειν ἀλλὰ τοὺς πολλοὺς διαμαρτάοντας αὐτοῦ, οἷον Θρασύμαχον ἢ Μένωνα. ἀλλ’ ἔλεγε, ὡς ἔοικεν, αὑτὸν μηδὲν εἰδέναι παραβάλλων τὴν ἀνθρωπίνην σοφίαν πρὸς τὴν τῶ θεοῦ. ταῦτα γὰρ καὶ ἐν ἰῇ τοῦ Πλάτωνος Ἀπολογίᾳ εἴρηται. ἴσως δὲ καὶ τὸ φορτικὸν φυλαττόμενος καὶ ἐπαχθές, οὐ διὰ τὴν πρὸς τὸ ψεῦδος φιλίαν, ἐπ’ ἔλαττον ἔλεγε περὶ ἑαυτοῦ, ὅπερ οὐκ ἔστιν εἰρωνεία. ἢ δύο τρόποι εἰρωνείας, νείας, ὁ μὲν ἐπίψογος προσπεποιηκότος τινὸς καὶ ᾠκειωμένου τῷ ψεύδει ὁ δὲ χαριεντισμῷ ὅμοιος, φυλαττομένου τινὸς τὸ ἐπαχθὲς ἐπὶ τοῖς λόγοις.",
+   "english": "He named all those who speak of their own qualities in an exaggerated way \"boasters\" (alazones), and the vice \"boastfulness\" (alazoneia). Those who depreciate their own qualities in speech and pretend to have less than they actually have (these too are base, for all eagerness about falsehood is baseness) he named \"ironists\" (eirōnes), and the vice \"irony\" (eirōneia). Some think that irony is not a vice, for they say that Socrates was an ironist; but perhaps Socrates was not an ironist. Evidence of this is that none of his companions called him so, but [only] the many who misunderstood him, such as Thrasymachus or Meno. Rather, it seems, he said that he knew nothing, comparing human wisdom with that of god; for this is said in Plato's Apology. Perhaps too it was in guarding against vulgarity and offensiveness, not out of love of falsehood, that he spoke of himself in a diminishing way, which is not irony. Or there are two kinds of irony: one blameworthy, belonging to someone who pretends and has made falsehood his own; the other akin to graceful wit, belonging to someone who guards against offensiveness in his speech.",
+   "notes": "The passage opens mid-lemma (\"οὗτος δὲ πάντας]\"). \"ἰῇ\" is a scanning error for τῇ.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09259",
+   "ref": "3.6",
+   "original": "τοῦ δὲ δι’ ἄγνοιαν τὸ μὲν ἑκούσιον, τὸ δὲ οὐχ ἑκούσιον, ὧν ἑκάτερον ὁμώνυμον τῷ γένει, τὸ μὲν τῷ οὐχ ἑκουσίῳ, τὸ δὲ τῷ ἀκουσίῳ. εἴποι ἂν οὖν τις καὶ τὰ ὑπὸ τὴν ἄγνοιαν οὐχ ἑκούσια καὶ ἀκούσια κατὰ τὸ ἀνωτάτω οὐχ ἑκούσιον καὶ ἀκούσιον, ὡς δὲ πρὸς ἄλληλα συγκρινόμενα τοῦ δι’ ἄγνοιαν εἴδη, καθ’ ἣν εἶπε διαφορὰν ὁ Ἀριστοτέλης τὸ μὲν ἔσται ἀκούσιον, τὸ δὲ οὐχ ἑκούσιον.",
+   "english": "And of what is through ignorance, one part is voluntary, the other not voluntary, each of which is homonymous with a genus, the one with the not-voluntary, the other with the involuntary. So one might say that the [kinds] under ignorance are not-voluntary and involuntary with reference to the highest not-voluntary and involuntary, but, compared with each other, are species of what is through ignorance, according to the difference Aristotle stated, one being involuntary, the other not voluntary.",
+   "notes": "'τὸ μὲν ἑκούσιον' seems odd; one expects ἀκούσιον ('involuntary'), as the sequel implies; possibly corrupt.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09260",
+   "ref": "3.9",
+   "original": "σημαίνει δὲ τὸ τίς, τίς ὁ πράττων, ὅπερ οὐκ ἄν τις ἀγνοήσειε μὴ μαινόμενος· οὐδεὶς γὰρ ἄν ἑαυτὸν ἀγνοήσειε πράττων μὴ μαινόμενος. τὸ δὲ τί ἐστι τὸ πραττόμενον, ὅπερ ἐκπεπτωκέναι 〈λέγουσιν〉 αὐτούς, ὡς ὁ Αἰσχύλος τὰ μυστικά· ἔλεγε μὲν γὰρ οὐχ ὡς μυστικά, ἔλαθε δὲ εἰπὼν μυστικά· καὶ δεῖξαί τις βουλόμενος τὸν καταπέλτην τῷ φίλῳ καὶ τοῦτο πρᾶξαι βουλόμενος ἀφεὶς ἐπάταξεν αὐτόν, ἄλλο οὖν πράττων ἄλλο ἔπραξεν·",
+   "english": "The 'who' signifies who the agent is, which no one could be ignorant of unless mad; for no one would be ignorant of himself while acting unless mad. The 'what' is the thing done, as [they say] people blurted things out, as Aeschylus [did] the mystery matters: for he spoke them not as mysteries, but he did not notice he was telling mysteries; and someone wishing to show his friend the catapult, and wishing to do this, let it go and struck him; so doing one thing, he did another;",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09261",
+   "ref": "3.9",
+   "original": "δύναιτο δ’ ἄν τις καὶ ἐπὶ τῶν κατὰ θυμὸν πραττομένων τὸν αὐτὸν λόγον ποιεῖσθαι. δοκεῖ γὰρ καὶ τὰ κατὰ θυμὸν πραττόμενα ἡδέα εἶναι· ὁ γὰρ ἀνύων τὰ κατὰ θυμὸν τὰ πολλὰ ἥδεσθαι εἴωθεν· ἐπεὶ δὲ ἀμφισβητήσιμόν ἐστι τὸ τοιοῦτον, οὐκ ἐπὶ θυμοῦ εἴρηκεν αὐτὸ ὁ Ἀριστοτέλης· ἔτι δὲ τί διαφέρει τὰ διὰ θυμὸν ἢ ἐπιθυμίαν ἁμαρτηθέντα τῶν κατὰ λογισμόν; ἢ διὰ τί τὰ μὲν κατὰ λογισμὸν ἁμαρ- τηθέντα οὐκ ἐροῦμεν ἀκούσια, τὰ δὲ κατ’ ἐπιθυμίαν ἢ θυμὸν ἐροῦμεν ἀκούσια; ὅτι μὲν γὰρ φευκτὰ πάντα δῆλον.",
+   "english": "One could give the same account also for things done from anger. For things done from anger also seem to be pleasant; for one who accomplishes what anger prompts is generally accustomed to feel pleasure. But since such a thing is disputable, Aristotle did not say it about anger. Further, how do wrongs done through anger or desire differ from those done by reasoning? Or why shall we not call wrongs done by reasoning involuntary, but call those done from desire or anger involuntary? For that all are to be avoided is clear.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09262",
+   "ref": "3.27",
+   "original": "Ἀλλ’ ἴσως φαίη ἄν τις περὶ τῶν δι’ ἀμέλειαν ἁμαρτανόντων οἵους ἔφαμεν ἢ τοὺς τὰ ἐν τοῖς νόμοις ἀγνοοῦντας διὰ ῥαθυμίαν καὶ διὰ τοῦτο παραβαίνοντας, ἡ τοὺς ὅλως ἀδικοῦντας δι’ ἀμέλειαν, ὧν ἠδύναντο εἰδέναι μὴ ἀμελήσαντες· τῶν δὴ τοιούτων ἴσως λέγοι ἄν τις αἰτίαν τὴν φύσιν τῆς ἀμελείας, φύσει γὰρ αὐτοὺς ἀμελεῖς εἶναι καὶ ῥᾳθύμους· ὁ δ’ Ἀριστοτέλης οὔ φησι φύσεως ταῦτα εἶναι ἀλλ’ ἐπ’ αὐτοῖς ἐκείνοις τὸ τοιούτους γενέσθαι. ζῶντες γὰρ ἀνειμένως καὶ ῥᾳθύμως εἰς τοιαύτην ἕξιν κατέστησαν ὥστε μηδενὸς ἐπιμελεῖσθαι ὧν χρὴ ἐπιμέλειαν ἔχειν. καὶ γὰρ τοῦ ἀδίκους ἢ ἀκολάστους λάστους εἶναι οὐ τὴν φύσιν αἰτιατέον, ἀλλ’ ἑαυτὸν ἕκαστον οἱ μὲν γὰρ ἀεὶ κακουργουντες γίνονται ἄδικοι ἐκ τῶν ἐνεργειῶν πορισαμενοι τὴν ἕξιν, οἱ οι ἀεὶ ἐν πότοις καὶ τοῖς τοιούτοις διατρίβοντες ἀκόλαστοι.",
+   "english": "But perhaps someone might say, concerning those who go wrong through negligence, such as we described, either those who are ignorant of what is in the laws through laziness and for this reason transgress, or those who in general do wrong through negligence in matters they could have known had they not been negligent: of such people someone might perhaps say that the cause of their negligence is nature, for they are by nature negligent and lazy. But Aristotle says that these things are not of nature, but that it is up to those very people to have become such. For by living in a relaxed and lazy way they have arrived at such a state that they take care of nothing of which they ought to take care. And indeed for being unjust or licentious one must not blame nature, but each person himself; for those who are always doing wrong become unjust, having acquired the state from their activities, and those who always spend their time in drinking-bouts and such things [become] licentious.",
+   "notes": "Read ἢ for ἡ; λάστους is a dittography of ἀκολάστους; οἱ οι read as οἱ δ’.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09263",
+   "ref": "3.28",
+   "original": "Εἴποι δ’ ἄν τις, εἰ ἐφ’ ἡμῖν τὸ ἀδίκοις εἶναι, ἐφ’ ἡμῖν καὶ τὸ παύεσθαι τῆς ἀδικίας, ὁπότε βουλόμεθα· οὐκ ἐφ’ ἡμῖν δὲ τὸ παύεσθαι, οὐδ’ ἄρα τὸ γίγνεσθαι· ἀδίκοις. ταῦτα δὲ οὐ συγχωρεῖ ὁ Ἀριστοτέλης, ἀλλ’ ἐφ’ ἡμῖν μέν φησιν εἶναι τὴν ἀδικίαν· ἑκόντες γὰρ ἐπιτηδεύουσιν τὰ ἄδικα, ἐξ ὧν ἄδικοι γίνονται· οὐ μὴν ὅταν βούλωνται ἄδικοι ὄντες ταύσοντοι. καὶ γὰρ νοσεῖ μέν τις ἑκών, ὅταν ἀπειθῇ τοῖς ἰατροῖς, οὐκ ἀπαλλάττεται δὲ τῆς νόσου, ὅταν βούληται, ἐπειδὰν ἱκανῶς αὐτοῦ κατακρατήσῃ καὶ ῥίψαι μὲν ἄν τις ἑαυτὸν ἑκὼν ἢ λίθον, οὐκ ἐφέξει δὲ αὑτὸν ἢ τὸν λίθον φερόμενον, ὅταν βούληται.",
+   "english": "Someone might say: if it is up to us to be unjust, it is also up to us to stop being unjust, whenever we wish; but stopping is not up to us, and so neither is becoming unjust. Aristotle does not concede this, but says that injustice is up to us, for people voluntarily practise unjust things, from which they become unjust; yet once they are unjust they will not stop whenever they wish. For indeed someone falls ill voluntarily when he disobeys his doctors, but he is not rid of the illness whenever he wishes, once it has thoroughly overpowered him; and someone might voluntarily throw himself or a stone, but he will not stop himself or the stone in its motion whenever he wishes.",
+   "notes": "ταύσοντοι read as παύσονται; ἀδίκοις read as ἀδίκους.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09264",
+   "ref": "3.32",
+   "original": "ἐν οἷς οὖν δύναται, μιμεῖται τὸν ἀνδρεῖον, διαμαρτάνων· θρασύνεται γὰρ πρὸ τῶν δεινῶν, ἐν δ’ αὐτοῖς γενόμενος οὐχ ὑπομένει. διὸ καὶ εἰσὶν οἱ πολλοὶ αὐτῶν θρασύδειλοι. παράδειγμα δὲ τῶν τοιούτων καὶ Ὅμηρος πεποίηκε τοὺς βαρβάρους εἰπὼν ‟κλαγγῇ τ’ ἐνοπῇ τ’ ἴσαν“· θρασυνομένων γὰρ ὁ πρὸ καιροῦ θόρυβος· οἱ δ’ ἀνδρεῖοι πρὸ τῶν δεινῶν ἡσύχιοι ὄντες, ὅταν ἐν τοῖς δεινοῖς γένωνται, τὸ θάρρος ἐνδείκνυνται. παράδειγμα δὲ καὶ τούτων οἱ Ἕλληνες, ‟οἵ δ’ ἄρ’ ἴσαν σιγῇ μένεα πνέοντες“.",
+   "english": "So in the cases where he can, he imitates the brave man, but misses the mark; for he is bold before dangers, but when he is in them he does not stand firm. That is why most of them are rash cowards. Homer too has made the barbarians an example of such people, saying \"they went with clamour and shouting\"; for noise before the proper moment belongs to those who are acting boldly. But the brave, being quiet before dangers, show their courage when they are in the dangers. And the Greeks are an example of these: \"and they went in silence, breathing fury.\"",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01662",
+   "ref": "3.33",
+   "original": "ἐν γοῦν θαλάττῃ οἱ ἔαπειροι τῆς θαλάττης ἀδεῶς φέρουσι τοὺς κινδύνους καὶ ἡνιοαι χοῦσιν ἀδέως οἱ ἔμπειροι ἡνιοχείας, καὶ ἐν ταῖς ἀγωνίαις οε αγωνιζον ἀδεῶς οὗ ἂν τύχωσιν ἀγωνίσματος ἔμπειροι ὄντες. διὸ καὶ Σωκράτη· ᾠήθη, φησί, τὴν ἀνδρείαν ἐπιστήμην εἶναι. ταῦτα δὲ λέγει, ὡς τοῦ Σωκράτους τοὺς ἐμπείρους τῶν δεινῶν καὶ ἐπιστήμονας αὐτῶν νομίζοντος. σκεπτέον δὲ· εἰ οὕτως λέγουσιν οἵ τε ἄλλοι Σωκράτους ἑταῖροι περὶ ἀνδρείας καὶ ὁ ἐν τῷ Λάχητι τῷ Πλάτωνος Σωκράτης. τοιοῦτοι δέ φησιν ἄλλοι μὲν ἐν ἄλλοις, τουτέστιν ἔμπειροι καὶ διὰ τοῦτο ὑπομενητικοί, ἐν τοῖς πολεμικοῖς δὲ οἱ στρατιῶται·",
+   "english": "At any rate, at sea those experienced in the sea bear dangers fearlessly, and those experienced in driving chariots drive fearlessly, and in contests those who are experienced compete fearlessly in whatever contest they happen to be in. That is why Socrates too, he says, thought that courage was knowledge. He says this on the view that Socrates considered those experienced in dangers to have knowledge of them. But one should examine whether Socrates' other companions, and the Socrates in Plato's Laches, speak about courage in this way. Such, he says, are different people in different fields, that is, experienced and for this reason steadfast; and in matters of war, the soldiers.",
+   "notes": "Several words are garbled in the scan (\"ἔαπειροι\" for ἔμπειροι, \"ἡνιοαι χοῦσιν\" for ἡνιοχοῦσιν, \"οε αγωνιζον\" for οἱ ἀγωνιζόμενοι); translated as the evident readings.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09265",
+   "ref": "4.7",
+   "original": "Τὰ δ’ ἑξῆς δῆλα, ἃ λέγει, ὑπάρχειν τῷ ἐλευθερίῳ ὅτι οὐ λήψεται ὅθεν μὴ δεῖ· οὐ γάρ ἐστι τοῦ μὴ τιμῶντος τὰ χρήματα ἡ παρὰ τὸ δέον λῆψις· οὐκ ἂν εἴη δὲ οὐδὲ αἰτητικός· οὐ γάρ ἐστι τοῦ εὖ ποιοῦντος, φησίν, εὐχερῶς εὐεργετεῖσθαι· καίτοι φασί τινες τοῦ αὐτοῦ εἶναι καὶ εὖ ποιεῖν καὶ εὖ πάσχειν καὶ ἁρμόττειν τῷ ἀγαθῷ τὸ εὖ πάσχειν. ὁ Ἀριστοτέλης δὲ λέγει μὲν ἀμφότερα εἶναι τοῦ ἐναρέτου καὶ ἐλευθερίου, ἀλλὰ τὴν ἀρετὴν καὶ λέγεσθαι καὶ νοεῖσθαι κατὰ τὸ εὖ ποιεῖν μᾶλλον ἢ κατὰ τὸ εὖ πάσχειν, διόπερ καὶ δοκεῖ θεῖόν τι εἶναι ἡ ἀρετὴ καὶ ὁμοίωσίς τις τῷ θεῷ·",
+   "english": "What follows is clear, which he says belongs to the liberal man: that he will not take from where he should not; for taking contrary to what is fitting does not belong to one who does not value money. Nor would he be given to asking; for it is not, he says, characteristic of one who does good to accept benefits readily. And yet some say that it belongs to the same person both to do good and to receive good, and that receiving good befits the good man. Aristotle says that both belong to the virtuous and liberal man, but that virtue is both spoken of and conceived in terms of doing good rather than of receiving good; which is why virtue also seems to be something divine and a kind of likeness to god.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09266",
+   "ref": "4.16",
+   "original": "βαύνους γὰρ ἐκάλουν τὰς καμίνους, ἐντεῦθεν δὲ καὶ πάντας τοὺς χειροτέχνας βαναύσους ὠνόμασαν. εἶτά μοι δοκεῖ ἀπὸ τῶν παρ’ ἀξίαν θρυπτομένων τεχνιτῶν καὶ σεμνυνομένων τοὔνομα μεταγαγεῖν ἐπὶ τοὺς προσποιουμένους μεῖζον. διόπερ καὶ Ἀριστοτέλης βαναυσίαν καλεῖ τὴν παρα- κειμένην κακίαν τῇ με-ίαλοπρὅτͅείᾳ, προσποίησίν τινα οὖσαν μεγέθους τοῦ ἐν δαπανήμασιν ἀξίου· ἐν οἷς γὰρ οὐ δεῖ οὐδ’ ὡς δεῖ λαμπρύνεται· ὕστερον δὲ περὶ αὐτῆς ἐρεῖν φησι.",
+   "english": "For they called furnaces baunoi, and from this they named all craftsmen banausoi. Then, it seems to me, they transferred the name from craftsmen who give themselves airs and put on grandeur beyond their worth to those who pretend to something greater. That is why Aristotle too calls the vice adjacent to magnificence banausia (vulgarity), it being a kind of pretension to a greatness worthy in expenditures; for he makes a splendid show in things where he should not and not as he should. He says he will speak about it later.",
+   "notes": "Scanning errors corrected: με-ίαλοπρὅτͅείᾳ = μεγαλοπρεπείᾳ. The phrase 'a greatness worthy in expenditures' is awkward in the Greek; possibly corrupt.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09267",
+   "ref": "4.21",
+   "original": "τοιοῦτος δή τις μάλιστα δοκεῖ ὁ μεγαλόψυχος. λέγειν γοῦν εἰώθαμεν ἐπὶ τῶν ἐν δυστυχίᾳ μὴ καταπιπτόντων, ὅτι μεγαλοψύχως ἤνεγκαν καὶ ἐπὶ τῶν μὴ ἐπαιρομένων μηδὲ έξογκουμένων ὑπὸ εὐτυχίας μεγαλοψύχως ἔχειν. ὁ δ’ Ἀριστοτέλης λέγει μεγαλόψυχον τὸν μεγάλων ἑαυτὸν ἀξιοῦντα ἄξιον ὄντα. τίνα δὲ τὰ μεγάλα ταῦτά ἐστιν, ὧν ἑαυτὸν ἀξιοῖ, προελθὼν διασαφεῖ.",
+   "english": "Such a person, then, especially seems to be the great-souled man. At any rate we are accustomed to say of those who do not collapse in misfortune that they bore it with greatness of soul, and of those who are not elated or puffed up by good fortune that they behave with greatness of soul. But Aristotle calls great-souled the man who thinks himself worthy of great things, being worthy. What these great things are of which he thinks himself worthy, he makes clear further on.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09268",
+   "ref": "4.22",
+   "original": "ἂν γὰρ σκοπὸς <ᾖ> παρὰ τῶν ἄλλων τιμή, οὕτως ἔοικεν οὐκ ἐφ’ ἑαυτῷ εἶναι ἀλλ’ ἐπ’ ἄλλοις, κἀν οὕτω τύχῃ, πυκνὰ μεταβάλλειν ἐκ τοῦ εὖ πράττειν εἰς τὸ κακοπραγεῖν, ἐὰν ποτὲ μὲν τιμᾶται ποτὲ δὲ μή, ἀλλὰ τοὐναντίον ἀτιμάζηται· ἥκιστα δὲ προσήκει τῷ ἐναρέτῳ ἐπ’ ἄλλοις εἶναι. ἀλλὰ μή ποτε οὐ τοῦτο λέγει ὁ Ἀριστοτέλης· τοὐναντίον γὰρ καὶ ὑπεροπτικὸν αὐτόν φησιν εἶναι τῆς παρὰ τῶν πολλῶν τιμῆς, ἅτε μηδὲν τῶν ἀνθρωπίνων ἡγούμενον εἷναι πολλῆς τιμῆς ἄξιον. τίς οὖν αὐτῷ σκοπός; οὐ μὰ Δία τὸ τιμᾶσθαι· εἴη γὰρ ἂν οὕτως ἐπ’ ἄλλοις, ἀλλὰ τὸ παρέχειν·",
+   "english": "For if his aim is honour from others, in this way he seems to depend not on himself but on others, and, as it may happen, to change frequently from doing well to faring badly, if at one time he is honoured and at another not, but on the contrary is dishonoured; and it least of all befits the virtuous man to depend on others. But perhaps this is not what Aristotle means; for on the contrary he says he is disdainful of honour from the many, since he considers nothing human worthy of much honour. What then is his aim? Not, by Zeus, being honoured, for in that way he would depend on others, but providing",
+   "notes": "Sentence continues into the following context ('...himself worthy to be honoured by the good').",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09269",
+   "ref": "4.23",
+   "original": "ἢ μεγάλων οὕτως ἄν εἴη ἄξιος, οἷον εἰ προγόνων ἐπισήμων ὢν εἰς μικρὰ ἑαυτὸν ἄγει ἐπιτηδεύματα καὶ βάναυσον τέχνην μεταχειρίζεται, ἐξὸν πολιτικῶν ἅπτεσθαι καὶ εἰ μὴ ἀφυὴς ᾖ πρὸς τὸ μαθεῖν ἄν τι ἢ γνῶναι, τούτων μὲν ἀφέστηκε, τὰ δὲ τυχόντα ἐπιτηδεύει· οὗτος γὰρ τῷ ὄντι ἐλαττόνων ἑαυτὸν ἀξιοῖ. ὁ δὲ καὶ μικρῶν ἄξιος καὶ ἔτι ἐλαττόνων ἑαυτὸν ἀξιῶν παντελῶς μικρόψυχος, καίτοι ὁ Ἀριστοτέλης λέγει μάλιστα ἂν δοκεῖν μικρόψυχον τὸν μεγάλων ἄξιον μικρῶν δὲ ἑαυτὸν ἀξιοῦντα, ἴσως εἰς τοιαῦτα ἀποβλέπων οἷα εἰρήκαμεν· ταῦτα μὲν οὖν εἰρήσθω περὶ αὐτῶν, ἐξ ὧν ὡς ἐν κεφαλαίῳ εἰπεῖν εἴληπται ὅτι ὁ μὲν μεγαλόψυχός ἐστιν ὁ μεγάλων αὑτὸν ἀξιῶν ἄξιος ὤν, ὁ δὲ κατὰ τὴν ὑπερβολὴν τεταγμένος χαῦνος, ὁ μεγάλων αὑτὸν ἀξιῶν ἀνάξιος ὤν, ὁ δὲ κατὰ τὴν ἔλλειψίν ἐλαττόνων αὑτὸν ἀξιῶν ἤ ἐστιν ἄξιος 〈μικρόψυχος〉.",
+   "english": "Or one may be worthy of great things in this way: for instance, if, being of distinguished ancestors, he brings himself down to petty pursuits and takes up a vulgar craft when he could engage in political affairs, and, though not ungifted for learning or understanding something, he has stood aside from these and pursues whatever comes along; for this man truly thinks himself worthy of less. And the one who is worthy of small things and thinks himself worthy of still less is utterly small-souled; yet Aristotle says that the one who would most seem small-souled is the man worthy of great things who thinks himself worthy of small ones, perhaps looking to such cases as we have described. Let this, then, be said about them; from which, to put it summarily, it has been gathered that the great-souled man is the one who thinks himself worthy of great things, being worthy; the one placed at the excess is vain, who thinks himself worthy of great things, being unworthy; and the one at the deficiency, who thinks himself worthy of less than he is worthy of, is small-souled.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09270",
+   "ref": "4.26",
+   "original": "φησὶ γὰρ ὧν μὲν ἄν εὖ ποιήσῃ ήσῃ ὁ μεγαλόψυχος μεμνῆσθαι αὐτόν, ὧν δ’ ἂν εὖ πάθῃ <μὴ> δοκεῖ δὲ τοὐναντίον ἁρμόττειν τῷ ἀγαθῷ, τούτων μὲν μὴ πάνυ μεμνῆσθαι, ὧν δ’ ἂν εὖ πάθῃ· εὐχαρίστου γὰρ ἤθους. οὐ μὴν τοῦτο λέγει ὁ ᾿ Αριστοτέλης, ὅτι [οὐκ] ἐπιλανθάνεται, ὧν ἂν εὗ πάθῃ. πάντων γὰρ ἥκιστα τοῦτο ὁ μεγαλόψυχος, ὃς καὶ πειρᾶται ὡς εἰπεῖν ἀντευεργέτης εἶναι πλειόνων, ἀλλ’ οὐκ ἔστιν ἐν λόγῳ μνημονευτικὸς οὐδὲ ἡδέως ἀεὶ μέμνηται πρὸς ἄλλους ὧν εὖ πέπονθεν, οὐδ’ ἄν ἄλλων ἡδέως κατακούσειε.",
+   "english": "For he says that the great-souled man remembers those he has benefited, but not those from whom he has received benefit. Yet the opposite seems to befit the good man: not to remember much those he has benefited, but those from whom he has received benefit, for that belongs to a grateful character. However, Aristotle does not mean that he forgets those from whom he has received benefit. For the great-souled man does this least of all, since he even tries, so to speak, to return benefits greater [than he received]; but he is not one who keeps account in speech, nor does he always gladly recall to others the benefits he has received, nor would he gladly listen to others [recalling them].",
+   "notes": "Text disordered: <μὴ> and the phrase δοκεῖ δὲ... misplaced; ήσῃ is a dittography; [οὐκ] is bracketed by the editor and omitted.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09271",
+   "ref": "4.27",
+   "original": "οὐδ’ ἀνθρωπολόγος δέ ἐστιν· ἀνθρωπολόγος γὰρ ὁ περὶ ἀνθρώπων διεξιὼν ὥσπερ ἔνιοι τοὺς ἄλλων βίους διεξητάκασι, τί ἀγαθὸν τῷ δεῖνι ἢ τί κακόν ἐστι. τὸν δὲ μεγαλόψυχον καὶ ὡς ἀληθῶς φιλόσοφον λέληθε ταῦτα πολὺ μᾶλλον ὡς ὁ Πλάτων φησὶν ἐν τῷ Θεαιτήτῳ ἢ οἱ ἐν τῇ θαλάττῃ χόες. ἀλλ’ οὐδὲ περὶ αὑτοῦ λέγει. τίνες οὖν αἱ τοῦ μεγαλψύχου ὁμιλίαι καὶ λόγοι, ἐπειδὴ ἀνθρώπων αὐτῷ λόγος οὐκ ἔστιν; ἢ οὐκ ἄν τις ἁμαρτάνοι εἰπὼν περὶ τούτου ὅτι τὸ μὲν ὅλον θεόλογός ἐστὶ καὶ περὶ τούτων καὶ πρὸς τοὺς πολλοὺς καὶ περὶ φύσεως ἐπιστημῶν;",
+   "english": "Nor is he a gossip about people; for a gossip is one who goes through matters concerning people, as some have gone through the lives of others, what good or what evil belongs to so-and-so. But these things escape the great-souled and truly philosophical man far more, as Plato says in the Theaetetus, than the pitchers of the sea. Nor does he speak about himself. What then are the conversations and discourses of the great-souled man, since he takes no account of people? Would one not be right to say of him that on the whole he is a theologian, and [speaks] about these things even to the many, and about the sciences of nature?",
+   "notes": "'Pitchers in the sea' (χόες) echoes a proverbial phrase; the sense of 'about these things and to the many' is unclear and possibly corrupt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09272",
+   "ref": "4.30",
+   "original": "ὁμοίως καὶ ὁ φιλοκύων καὶ ὁ φιλοθεάμων ὁ μέχρι του χαίρων θεάμασι καὶ τισὶ καὶ ποιὲ ἴσως ἐπαινετός, ὁ δὲ πάντα καὶ ἀεὶ καὶ πρὸς τοῦτο τὸν βίον ἀναλίσκων τῷ πάντα θεάματα ζητεῖν καὶ μηδενὸς ἀπολείπεσθαι ψεκτός. τὰ δ’ αὐτὰ εἴποι ἄν τις καὶ ἐπὶ τοῦ φιληκόου· εἰσὶ γάρ τινες οἳ κατατρίβουσι τὸν αὑτῶν βίον ὥσπερ ὁ Πλάτων’ φησὶ περιιόντες πανταχοῦ καὶ ἀκούοντες κωμῳδῶν ἢ τραγῳδῶν καὶ πάντων τῶν ὁτιοῦν ἀδολεσχούντων ἢ λεγόντων· οὗτοι μὲν ἐπίψογοι. ἐπαινετοὶ δὲ οἱ ὡς δεῖ καὶ ὅτε δεῖ καὶ μέχρις ὅσου δεῖ ἀκούοντες ἀσμένως.",
+   "english": "Likewise also with the dog-lover and the spectacle-lover: the one who takes pleasure in spectacles up to a point, in certain ones and at certain times, is perhaps praiseworthy, but the one who [takes pleasure in] all of them and always, and spends his life on this by seeking out every spectacle and missing none, is blameworthy. One might say the same about the lover of listening; for there are some who wear away their own life, as Plato says, going around everywhere and listening to comic or tragic actors and to all who chatter or speak about anything whatever; these are open to blame. But those who listen gladly as they should, when they should, and for as long as they should, are praiseworthy.",
+   "notes": "ποιὲ read as ποτὲ (\"at certain times\").",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01663",
+   "ref": "4.42",
+   "original": "τᾶι· οὔτε γὰρ κέρδους οὔτε δόξης χάριν ψεύδονται ἀλλὰ φεύγοντες τὸ ὀγκηρόν. διὸ καὶ τὰ σφόδρα ἔνδοξα ἀπαρνοῦνται· καὶ ἴσως οἱ διὰ τοῦτο καὶ τοιοῦτον τὸν τρόπον εἰρωνευόμενοι οὔκ εἰσιν ἐπίψογοι, ὥσπερ ὁ Σωκράτης· οἱ δὲ καὶ τὰ σμικρὰ καὶ τὰ λίαν φανερὰ ἀπαρνούμενοι καὶ προσποιούμενοι μὴ ἔχειν ἐπίψογοι καὶ ὥς φησι βαυκοανοῦργοι καλοῦνται· πανουργία γὰρ μᾶλλον τὸ τοιοῦτον ἢ χαριεντισμός, οἷον εἴ τις πλούσιος ὢν λέγοι μὴ ἔχειν μηδὲ εἰς τὰ ἀναγκαῖα ἢ εἴ τις σφόδρα ἰσχυρὸς ὢν φαίη πάντων εἶναι ἀσθενέστατος.",
+   "english": "[Ironists ... appear more graceful]; for they lie neither for gain nor for reputation, but to avoid pomposity. That is why they also disclaim things held in high esteem; and perhaps those who are ironic for this reason and in this way are not blameworthy, like Socrates. But those who disclaim even small and very obvious things and pretend not to have them are blameworthy and, as he says, are called \"humbugs\" (baukopanourgoi); for such behaviour is roguery rather than graceful wit, as if someone who is rich were to say he does not have even enough for necessities, or someone very strong were to claim to be the weakest of all.",
+   "notes": "Opening \"τᾶι\" is the tail of a word split from the preceding context (φαίνονται). \"βαυκοανοῦργοι\" is read as βαυκοπανοῦργοι.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09273",
+   "ref": "5.9",
+   "original": "ἔοικε δὲ καὶ ὁ Καρκῖνος εἰσάγειν τὸν Κερκύονα ἡττώμενον ὑπὸ μεγάλων ἀλγηδόνων. οὗτοι μὲν οὖν οὐκ εἰσὶ μαλακοί, ἁλλ’ εἴ τις πρὸς ἃς οἱ πολλοὶ [οὐ] δύνανται λύπας, 〈μὴ δύναται〉 ἀντέχειν ἀλλ’ ἡττᾶται. ὁμοίως δὲ ἔχει καὶ ἐπὶ ἡδονῆς· οὐ γὰρ εἴ τις ὡς Θεόφραστος λέγει γευσάμενος τῆς ἀμβροσίας ἐπιθυμεῖ αὐτῆς μέμφεσθαι ἄξιος, ἀλλ’ εἴ τις σφοδρῶς ἡττᾶται τῶν ἡδονῶν ὡς οἱ πολλοί· ἔοικε δὲ ὁ Ἀριστοτέλης τὸ Ξενοφάντῳ συμβὰν παράδειγμα τίθεσθαι τῶν ὑπὸ ἡδονῆς σφοδρῶς ἡττηθέντων καὶ συγγνώμης ἀξίων· μέχρι γὰρ πολλοῦ κατασχὼν τὸν γέλωτα τελευτῶν ἐξεκάγχασεν, ὅπερ καὶ ἄλλοις συμβαίνει·",
+   "english": "Carcinus too seems to bring on Cercyon being overcome by great pains. These, then, are not soft; but [one is soft] if someone is unable to hold out against the pains which most people can [withstand], but is overcome. It is similar also with pleasure: for if someone, as Theophrastus says, having tasted ambrosia desires it, he does not deserve blame, but [he does] if someone is violently overcome by pleasures, as most people [are not]. Aristotle seems to set down what happened to Xenophantus as an example of those violently overcome by pleasure and deserving of pardon: for after holding back his laughter for a long time, he finally burst out guffawing, which happens to others too.",
+   "notes": "The edition deletes [οὐ] and supplies 〈μὴ δύναται〉; translated accordingly. \"as most people\" is elliptical; the sense is likely \"more than most people\" or \"by those most people resist\".",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09274",
+   "ref": "5.10",
+   "original": "Ὁ δὲ παιδιώδης ἐστὶν ὁ πά.ντα παίζων· δοκεῖ δέ τισιν ἀκόλαστος εἶναι. οὔ φησιν ὁ Ἀριστοτέλης ἀλλὰ μᾶλλον μαλακός· διὰ γὰρ τὸ μὴ ἀνέχεσθαι τὴν σπουδὴν ὡς ἐπίπονον οὖσαν ἀεὶ παίζει καὶ ἔστιν ἄνεσις ἡ παιδιά. εἰδέναι δὲ δεῖ ὅτι τῶν πρὸς ταύτην ὑπερβαλλόντων ὁ παιδιώδης ἐστίν· εἰ δὲ ὑπερβάλλει ἐν τῇ ἀνέσει, μαλακὸς ἂν μᾶλλον λέγοιτο ἢ ὁ] ἀκόλαστος, εἰ γὰρ ἐπὶ πλεῖον ἄνεσις μαλακία.",
+   "english": "The childishly playful man is one who plays at everything; and to some he seems to be self-indulgent. Aristotle says [he is] not, but rather soft; for because he cannot bear seriousness, since it is laborious, he always plays, and play is relaxation. One must know that the playful man belongs among those who go to excess in this; and if he goes to excess in relaxation, he would be called soft rather than self-indulgent, for excessive relaxation is softness.",
+   "notes": "πά.ντα read as πάντα; stray bracket after ὁ ignored. Final clause εἰ γὰρ read loosely as \"for\".",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09275",
+   "ref": "5.14",
+   "original": "ὑπὸ γὰρ τῶν ἡδέων ἡττῶνται, ὑφ’ ὧν οἱ πολλοὶ μὴ ἁλίσκοντα. κακία μὲν οὖν ἁπλῶς οὐκ ἔστιν ἡ ἀκρασία, ἀλλά πῃ ἴσως, διὰ τὸ μὴ ὅλην ἐφθάρθαι τὴν τοῦ ἀκρατοῦς ψυχήν, ἀλλά πῃ τὸν λόγον ἔχειν. διόπερ φησὶν Ἀριστοτέλης τὴν μὲν κακίαν κατὰ προαίρεσιν πάντα ποιεῖν, τὴν δὲ ἀκρασίαν παρὰ τὴν προαίρεσιν. αίρεσιν. οὐ μὴν ἀλλὰ καὶ κατὰ τὰς πράξεις ὅμοιόν ἐστιν. ταὐτὰ γὰρ ποιεῖ τῷ ἀκολάστῳ ὁ ἀκρατής. ἐπεὶ οὖν ὁ μὲν ἀκρατὴς τοιοῦτος, οἷος διώκειν τὰς καθ’ ὑπερβολὴν καὶ ἡμαρτημένας παρὰ τὸν λόγον σωματικὰς ἡδονὰς οὐ πεπεισμένος, ὁ δὲ ἀκόλαστος πέπεισται διωκτέον εἶναι αὐτάς, δῆλον ὡς ὁ μὲν ἀκρατὴς εὐμετάπειστος, οὐχ οὕτως δὲ ὥστε μεταβάλλειν τὸν αὑτοῦ λόγον (φαῦλος γὰρ ἄν λέγοιτο, εἰ μηδὲ ὁ λόγος ὀρθὸς ἦν), ἀλλ’ ὥστε πεισθῆναι σθῆναι μηκέτι συνακολουθεῖν τῇ ἐπιθυμίᾳ·",
+   "english": "For they are overcome by pleasant things by which most people are not caught. Incontinence, then, is not vice without qualification, but perhaps in some way, because the soul of the incontinent person is not wholly corrupted but in some way retains reason. That is why Aristotle says that vice does everything in accordance with choice, but incontinence against choice. Nevertheless, in respect of actions it is similar; for the incontinent person does the same things as the self-indulgent. Since, then, the incontinent person is such as to pursue excessive bodily pleasures, erring against reason, without being convinced [that he should], whereas the self-indulgent person is convinced that they are to be pursued, it is clear that the incontinent person is easily persuaded to change, though not so as to change his own reason (for he would be called bad if his reason too were not correct), but so as to be persuaded no longer to follow along with desire;",
+   "notes": "ἁλίσκοντα read as ἁλίσκονται; duplicated syllables (αίρεσιν, σθῆναι) are scanning repetitions and omitted.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09276",
+   "ref": "5.17",
+   "original": "Τοὺς δ’ ἰσχυρογνώμονας ἔνιοι μὲν διὰ τὸ ἐμμενετικοὺς εἶναι τῇ αὑτῶν δόξῃ ἰαὶ δυσπείστους ἐγκρατεῖς νομίζουσιν· ὁ δὲ Ἀριστοτέλης ὅμοιον μέν τι φησὶν αὐτὸν ἔχειν κατὰ τὴν φαντασίαν τῷ ἐγκρατεῖ, καθάπερ καὶ τὸν θρασὺν τῷ ἀνδρείῳ καὶ τὸν χαῦνον τῷ ἐλευθερίῳ· διαφέρει δὲ κατὰ πολλά. ἰδίως δὲ νῦν τὸν χαῦνον εἶπεν ἐοικέναι τῷ ἐλευθερίῳ, ἐν ἄλλοις εἰπὼν τὸν ἄσωτον αὐτῷ ὅμοιον εἶναι κατὰ τὴν φαντασίαν.",
+   "english": "Some consider the obstinate to be continent, because they stick to their own opinion and are hard to persuade; but Aristotle says that such a man has a certain resemblance in appearance to the continent man, just as the rash man does to the brave and the vain man to the liberal; but he differs in many respects. It is peculiar that he has now said the vain man resembles the liberal, when elsewhere he said that the prodigal is like him in appearance.",
+   "notes": "ἰαὶ read as καὶ. χαῦνος (\"vain\"/\"conceited\") is the usual Aristotelian term; its pairing with the liberal is the commentator's puzzle.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09277",
+   "ref": "5.18",
+   "original": "ἀνεπείσθη μὲν γὰρ ὑπὸ τοῦ Ὀδυσσέως τὰ ψευδῆ λέγειν πρὸς τὸν Φιλοκτήτην, οὐκ ἐμμένει δὲ χαίρων καὶ ἡδόμενος τῷ μὴ ψεύδεσθαι. ὥστε οὐ πᾶς ὁ δι’ ἡδονὴν μὴ ἐμμένων τοῖς δόξασιν ἀκρατής, ἀλλ’ ὁ δι’ αἰσχράν. βούλεται δὲ ὁ Ἀριστοτέλης καὶ τὴν ἐγκράτειαν μεσότητα εἶναι καθάπερ καὶ τὰς ἀρετάς. εἰ γὰρ μή ἐστιν ἀρετὴ ἀλλ’ ἐπαινετή γε ἕξις, καὶ αἱ παρακείμεναι αὐτῇ καθ’ ὑπερβολὴν καὶ ἔνδειαν διαθέσεις, εἰ καὶ μὴ παντελῶς κακαί, ψεκταί εἰσιν.",
+   "english": "For he was persuaded by Odysseus to tell lies to Philoctetes, but he does not abide [by it], since he takes joy and pleasure in not lying. So not everyone who fails to abide by his resolutions because of pleasure is incontinent, but [only] the one [who does so] because of a shameful [pleasure]. Aristotle wants continence too to be a mean, just like the virtues. For if it is not a virtue but at least a praiseworthy state, the dispositions adjacent to it by excess and deficiency, even if not entirely bad, are blameworthy.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09278",
+   "ref": "5.30",
+   "original": "οὐ μὴν οὕτως ἔχει, ἀλλὰ πρὸς τοὺς λέγοντας γένεσιν εἶναι ἢ φαύλας τινὰς τῶν ἡδονῶν, οἷς καὶ δι’ αὐτὸ τὸ μὴ εἶναι αὐτὴν τὸ ἀγαθὸν ἐπιγίνεται [καὶ], ἐπιχειρεῖ ἐνδόξως ὡς ἐνὸν· αὐτὴν τὸ ἄριστον λέγειν; ἐπεὶ ἔν τοῖς Νικομαχείοις, ἔνθα διείληπται καὶ περὶ ἡδονῆς Ἀριστοτέλης σαφῶς εἴρηκεν αὐτὴν μὴ ταὐτὸν εἶναι τῇ εὐδαιμονίᾳ ἀλλὰ παρακολουθεῖν ‘ὥσπερ τοῖς ἀκμαίοις τὴν ὥραν’. σημεῖον δὲ τοῦ μὴ εἶναι. τοῦτ᾿ Ἀριστοτέλους ἀλλ’ Εὐδήμου τὸ ἐν τῷ * λέγειν περὶ ἡδονῆς ὡς οὐδέπω περὶ αὐτῇς διειλεγμένου·",
+   "english": "That is not how things stand, however; rather, against those who say that pleasure is a coming-to-be, or that some pleasures are bad—to whom it follows from this very [claim] that it is not the good—he argues dialectically that it is possible to call it the best. For in the Nicomachean [books], where Aristotle has also treated pleasure, he clearly said that it is not the same as happiness but accompanies it 'as the bloom [accompanies] those in their prime'. A sign that this is not Aristotle's but Eudemus' is that in the * [book] he speaks about pleasure as though he had not yet discussed it;",
+   "notes": "Text corrupt in places: stray punctuation after ἐνὸν; asterisk marks a lacuna where a book number has fallen out. Read as statement rather than question.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09279",
+   "ref": "5.32",
+   "original": "ὅσων δέ ἐστιν ἕξεων καὶ κινήσεων ὑπερβολή, καὶ τῆς ἡδονῆς ἐστιν, οἷον τῇ σωφροσύνῃ παράκειταί τις ὑπερβολὴ ἡ ἀκολασία, καὶ ἡ ἡδονὴ τοίνυν ὑπερβάλλουσα περὶ τὰ ἡδέα τὰ σωματικὰ φαύλη ἐστὶ καὶ ψεκτή· καθόλου δέ φησιν ὁ Ἀριστοτέλης σωματικῶν ἀγαθῶν πάντων εἶναι ὑπερβολήν· καὶ γάρ τῆς ὑγιείας ὑπερβολή τίς ἐστιν ἡ ἀσυμμετρία τῶν ψυχρῶν ἢ τῶν θερμῶν ἢ τῶν ἄλλων, ἐξ ὧν κέκραται τὸ σῶμα, ὅταν ὑπερβολὴν ἔχῃ, καὶ ὁ φαῦλος λέγεται <τῷ> τὴν ὑπερβολήν, ἀλλ’ οὐχὶ τῷ τὰς ἀναγκαίας ἡδονὰς μεταθεῖν, ἐπεὶ πάντες χαίρουσί πὼς καὶ ὄψοις καὶ δίνοις καὶ ἀφροδισίοις, ἀλλ’ ὁ ἀκόλαστος οὐχ ὡς δεῖ.",
+   "english": "But for whatever states and movements there is an excess, there is [an excess] of pleasure too: for example, adjacent to temperance is a certain excess, self-indulgence, and so pleasure that is excessive concerning bodily pleasant things is bad and blameworthy. In general Aristotle says there is an excess of all bodily goods; for of health too there is a certain excess, the disproportion of the cold or the hot or the other things of which the body is blended, when it has excess; and the bad man is so called by [pursuing] the excess, but not by pursuing the necessary pleasures, since all people enjoy in some way fine foods and wines and sex, but the self-indulgent man not as he should.",
+   "notes": "δίνοις read as οἴνοις; μεταθεῖν taken as μεταθεῖν \"pursue\"; <τῷ> supplied by edition, a verb seems missing before τὴν ὑπερβολήν.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01664",
+   "ref": "5.34",
+   "original": "ἀεὶ γὰρ πονεῖ τὸ ζῷον, ὥσπερ καὶ οἱ φυσιολόγοι λέγουσιν. ὁ γὰρ Ἀναξαγόρας ἔλεγεν ἀεὶ πονεῖν τὸ ζῷον διὰ τῶν αἰσθήσεων. ταῦτα δὲ οὐχ ὡς συγκατατιθέμενος λέγει ἀλλ’ ἱστορῶν· ἐπεὶ οὐκ ἐδόκει γε αὐτοῖς ἀεὶ ἐν πόνῳ εἶναι τὸ ζῷον. καὶ τὸν Ἀναξαγόραν αἰτιᾶται Θεόφραστος ἐν Ἠθικοῖς λέγων ὅτι ἐξελαύνει ἡδονὴ λύπην ἥ γε ἐναντία, οἷον ἡ ἀπὸ τοῦ πίνειν τὴν ἀπὸ τοῦ διψῆν, καὶ ἡ τυχοῦσα, τουτέστιν ἥτις οὖν ἂν εἴη ἰσχυρά, ὥστε ἐνίοτε πεῖναν ἐξελαύνει καὶ ἀκοῆς ἡδονή, ὅταν ᾄσμασιν ἢ ἄλλοις τισὶν ἀκούσμασι διαφερόντως χαίρωμεν.",
+   "english": "For the living creature is always in toil, as the natural philosophers also say. For Anaxagoras said that the living creature is always in toil through the senses. He says this not as agreeing but as reporting, since they at least did not think that the living creature is always in toil. And Theophrastus, in the Ethics, blames Anaxagoras, saying that pleasure drives out pain: both the opposite [pleasure], such as that from drinking [driving out] that from thirst, and any chance one, that is, whatever pleasure is strong, so that sometimes even the pleasure of hearing drives out hunger, when we take exceptional delight in songs or in some other things heard.",
+   "notes": "\"ἐπεὶ οὐκ ἐδόκει γε αὐτοῖς\" is ambiguous; \"them\" may refer to Aristotle and his school rather than the natural philosophers.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09280",
+   "ref": "6.18",
+   "original": "Ὁ δ᾿ Ἀριστοτέλης τὴν μὲν φιλίαν οὔ φησι διαλύεσθαι ὑπὸ τῶν τόπων, ἂν ὧσι κεχωρισμένοι, τὴν δὲ φιλικὴν ἐνέργειαν· ἴσως οὐκ ἀλόγως· τὴν γὰρ μεγίστην ἐνέργειαν διαλύει ἡ ἀπουσία. οὐδὲν γὰρ οὕτω φιλαὸν ὡς τὸ συζῆν τοὺς φους καὶ καρποῦσθαι τὴν ἐκ τῆς συνουσίας καὶ ὁμιλίας ἀπόλαυσιν καὶ ἀντιπαρέχειν ταύιην.",
+   "english": "Aristotle says that friendship is not dissolved by places, if [friends] are separated, but the activity of friendship is; perhaps not unreasonably, for absence dissolves the greatest activity. For nothing is so characteristic of friends as for friends to live together and to reap the enjoyment of company and conversation and to provide it in return.",
+   "notes": "φιλαὸν read as φιλικὸν, φους as φίλους, ταύιην as ταύτην.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09281",
+   "ref": "6.20",
+   "original": "οὐδὲ γὰρ αὐτὸ τὸ ἀγαθὸν, εἰ λυπρὸν εἴη, ὑπομείναι ἄν τις. τοῦτο δὲ πῶς εἴρηκεν; αὐτὸ γὰρ τὸ ἀγαθόν τί ἄλλο ἐστίν ἢ εὐδαιμονία, ἣν ἀδύνατον λυπηρὰν εἶναι; ἅμα γὰρ λυπηρὸν καὶ οὐκέτι ευοαιμονία, ἀλλ’ ὅμως ἐξ ὑποθέσεως ὁ Ἀριστοτέλης εἴρηκεν, εἰ λυπηρὸν ἡ εὐδαιμονία ποιεῖ τὸν βίον, μηδένα ἂν εὐδαιμονεῖν ἐθελήσαι. δῆλον οὖν ὡς διά τε ἄλλα ἐστὶν αἱρετὸν ἡ εὐδαιμονία καὶ ὅτι μεθ’ ἡδονῆς ἐστιν ὁ κατ’ αὐτὴν βίος. διό, φησι, οἱ ἄνθρωποι ζητοῦσιν ἡδεῖς εἶναι τοὺς φίλους, ὡς τῆς φιλίας μὴ δυναμένης ἄνευ τούτων συστῆναι.",
+   "english": "For no one would endure even the good itself, if it were painful. But how has he said this? For what else is the good itself than happiness, which cannot be painful? For as soon as [it is] painful, it is no longer happiness. Yet Aristotle has spoken hypothetically: if happiness made life painful, no one would want to be happy. It is clear, then, that happiness is choiceworthy for other reasons and because the life in accordance with it is accompanied by pleasure. That is why, he says, people seek for their friends to be pleasant, since friendship cannot be established without these [qualities].",
+   "notes": "ευοαιμονία read as εὐδαιμονία.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09282",
+   "ref": "6.25",
+   "original": "ὁ δ’ αὐτὸς λόγος καὶ περὶ τῶν ἄλλων ἀρχόντων. ὅσῳ γὰρ ἀμείνους, μᾶλλον αὐτοὺς δεῖ φιλεῖσθαι. ζητῆσαι δ’ ἄν τις περὶ τῶν καθ’ ὑπεροχήν φιλιῶν πότερον ἐν τοῖς εἰρημένοις εἴδεσι γίνονται ἢ ἄλλα τινὰ φιλίας εἴδη ταῦτά ἐστι. λέγει δὲ καὶ Εὔδημος καὶ Θεόφραστος, ὅτι καὶ αἱ καθ’ ὑπεροχὴν φιλίαι ἐν τοῖς αὐτοῖς γίνονται, ἢ δι’ ἡδονὴν ἢ διὰ τὸ χρήσιμον ἢ δι’ ἀρετήν. γένοιντο γὰρ ἂν καὶ σπουδαῖοι φίλοι ὁ μὲν ἄρχων ὁ δὲ ἀρχόμενος· καὶ τὰ μὲν ἄλλα ἔσονται φίλοι, τὰ δὲ νόμιμα φυλάξουσιν ἐν τῷ εἶναι φίλοι, ὁ μὲν ὑπερεχόμενος ὅσα προστάττει ὁ νόμος ὁ δὲ ὑπερέχων.",
+   "english": "The same account holds also for the other rulers: for the better they are, the more they ought to be loved. One might ask about the friendships based on superiority whether they occur within the kinds already mentioned, or whether these are some other kinds of friendship. Both Eudemus and Theophrastus say that the friendships based on superiority also occur within the same [kinds], [being] either for pleasure, or for utility, or for virtue. For good men too could become friends, the one ruling and the other ruled; and in other respects they will be friends, while in being friends they will preserve what is lawful, the one who is surpassed [doing] whatever the law prescribes, and likewise the one who surpasses.",
+   "notes": "The final clause seems elliptical or incomplete: 'ὁ δὲ ὑπερέχων' lacks its own predicate, and something may have dropped out of the text. I have rendered it as 'and likewise the one who surpasses', which is an interpretive supplement.",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}

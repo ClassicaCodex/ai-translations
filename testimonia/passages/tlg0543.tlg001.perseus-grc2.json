@@ -1,0 +1,34 @@
+{
+ "source_edition": "tlg0543.tlg001.perseus-grc2",
+ "source_urn": "urn:cts:greekLit:tlg0543.tlg001.perseus-grc2",
+ "title": "Histories",
+ "author": "Polybius",
+ "language": "Greek",
+ "source_project": "perseus-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg0543.tlg001.perseus-grc2, as held by the Perseus Digital Library.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p08374",
+   "ref": "6.11a.8.1",
+   "original": "τὸ γνῶναι κατὰ τὸν Ἡσίοδον ὅσῳ πλέον ἥμισυ παντός. [ξοδ. υρβιν. μαργο φολ. 65]",
+   "english": "…to know, as Hesiod says, by how much the half is more than the whole.",
+   "notes": "Fragment without context. The phrase alludes to Hesiod, Works and Days 40 (\"the half is more than the whole\"). The bracketed \"[ξοδ. υρβιν. μαργο φολ. 65]\" is not part of the text. It appears to be a source reference garbled in transliteration (\"Cod. Urbin. margo fol. 65\", i.e. the margin of folio 65 of an Urbino manuscript) and has been left untranslated. The opening τὸ γνῶναι has no governing clause in the excerpt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p08375",
+   "ref": "12.2.1.1",
+   "original": "τὰ παραπλήσια τοῖς περὶ τὸν Ἡρόδοτον ἱστορεῖ περὶ τοῦ ἐν Λιβύῃ καλουμένου λωτοῦ αὐτόπτης γενόμενος ὁ Μεγαλοπολίτης Πολύβιος ἐν τῇ ιβ# τῶν ἱστοριῶν λέγων οὕτως· \"",
+   "english": "Polybius of Megalopolis, having been an eyewitness, gives an account similar to Herodotus' about the so-called lotus in Libya, in the twelfth book of his Histories, speaking as follows: \"",
+   "notes": "\"ιβ#\" is read as the numeral ιβʹ (12). The passage ends with an opening quotation mark, and the quotation itself is not included. This is a citing author's introduction to a fragment of Polybius, not Polybius' own words.",
+   "reviewed": true,
+   "corrected": false
+  }
+ ]
+}

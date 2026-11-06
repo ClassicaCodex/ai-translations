@@ -1,0 +1,79 @@
+{
+ "source_edition": "tlg0086.tlg039.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg0086.tlg039.1st1K-grc1",
+ "title": "De plantis",
+ "author": "Aristotle",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg0086.tlg039.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p00960",
+   "ref": "1.1.2.1",
+   "original": "Ἀναξαγόρας μὲν οὖν καὶ Ἐμπεδοκλῆς ἐπιθυμίᾳ ταῦτα κινεῖσθαι λέγουσιν, αἰσθάνεσθαί τε καὶ λυπεῖσθαι καὶ ἥδεσθαι διαβεβαιοῦνται. Ὧν ὁ μὲν Ἀναξαγόρας καὶ ζῷα εἶναι καὶ ἥδεσθαι καὶ λυπεῖσθαι εἶπε, τῇ τε ἀπορροῇ τῶν φύλλων καὶ τῇ αὐξήσει τοῦτο ἐκλαμβάνων, ὁ δὲ Ἐμπεδοκλῆς γένος ἐν τούτοις κεκραμένον εἶναι ἐδόξασεν.",
+   "english": "Now Anaxagoras and Empedocles say that these [plants] are moved by desire, and they affirm that they perceive and feel pain and pleasure. Of these, Anaxagoras said that they are also animals and feel pleasure and pain, inferring this from the falling of their leaves and from their growth, while Empedocles held the opinion that sex is found mixed in them.",
+   "notes": "\"Sex\" renders γένος, here meaning male and female kind, as the following units make clear.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00961",
+   "ref": "1.2.1.1",
+   "original": "Διερευνήσωμεν οὖν καὶ τοῦτο, ὃ προηγήσατο ἐν τῷ ἡμετέρῳ λόγῳ, περὶ ἐπιθυμίας φυτοῦ καὶ κινήσεως αὐτοῦ καὶ ψυχῆς ἰδίας, καὶ εἴ τι ἀναλύεται ἀπ’ αὐτοῦ τοῦ φυτοῦ, ὅσον εἰς πνοήν. Ἀναξαγόρας γὰρ εἶπε ταῦτα ἔχειν καὶ πνοήν. Καὶ πῶς, εἴπερ εὑρίσκομεν πολλὰ ζῷα μὴ ἔχοντα πνοήν, καὶ πάλιν εὐρίσκομεν ἀκριβῶς ὅτι τὰ φυτὰ οὔτε ὑπνώττουσιν οὔτε γρηγοροῦσιν.",
+   "english": "Let us therefore also investigate this, which came first in our discussion, concerning the desire of a plant, its motion, and its own soul, and whether anything is given off from the plant itself, so far as breathing is concerned. For Anaxagoras said that these [plants] also have breath. And how [can this be], since we find many animals that do not have breath, and again we find with certainty that plants neither sleep nor wake?",
+   "notes": "The Greek text of De plantis is a late back-translation (via Latin from Arabic), and its phrasing is often awkward. The last sentence lacks an explicit main verb, and the sense is supplied in brackets.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00962",
+   "ref": "1.2.4.1",
+   "original": "Ὁ δὲ νυσταγμός ἐστι συνοχὴ τῆς κινήσεως, ἡ δὲ συνοχὴ πάλιν ἠρεμία πράγματος κινουμένοῦ. Ὃ δὲ μάλιστα καὶ κυρίως ἐστὶ ζητητέον ἐν ταύτῃ τῇ ἐπιστήμῃ, τοῦτο ἐστὶν ὅπερ εἶπεν ὁ Ἐμπεδοκλῆς, ἤγουν εἰ εὑρίσκεται ἐν τοῖς φυτοῖς γένος θῆλυ καὶ γένος ἄρρεν, καὶ εἰ ἔστιν εἶδος κεκραμένον ἐκ τούτων τῶν δύο γενῶν.",
+   "english": "Drowsiness is a holding-back of motion, and the holding-back, in turn, is the rest of a thing that is in motion. But what is most of all and properly to be investigated in this science is what Empedocles said, namely whether there is found in plants a female kind and a male kind, and whether there is a form mixed from these two kinds.",
+   "notes": "κινουμένοῦ has a stray double accent, read as κινουμένου.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00963",
+   "ref": "1.2.6.1",
+   "original": "Ἐπεὶ γοῦν εὑρίσκεται ἐν τοῖς φυτοῖς ὅτι ἔχει τὰ φυτὰ γένος ἄρρεν καὶ θῆλυ, καὶ πάντως τὸ μὲν ἄρρεν ἐστὶ τραχύτερον καὶ σκληρότερον καὶ μᾶλλον φρίσσον, τὸ δὲ θῆλυ ἀσθενέστερον καὶ καρποφόρον πλέον, πάλιν ὀφείλομεν ζητεῖν πότερον εὑρίσκονται ταῦτα τὰ δύο γένη κεκραμένα ἅμα ἐν τοῖς φυτοῖς, ὡς εἶπεν Ἐμπεδοκλῆς,",
+   "english": "Since, then, it is found in plants that plants have a male kind and a female, and certainly the male is rougher, harder and more bristling, while the female is weaker and more fruitful, we must in turn inquire whether these two kinds are found mixed together in plants, as Empedocles said,",
+   "notes": "The sentence breaks off at the end of the passage.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00964",
+   "ref": "1.2.10.1",
+   "original": "Ἔστι δὲ καί τις ἀρχὴ τῆς μὲν τροφῆς τῶν φυτῶν ἀπὸ τῆς γῆς, καὶ πάλιν ἀρχὴ ἑτέρα τῆς γενέσεως ἀπὸ τοῦ ἡλίου. Εἶπε δὲ καὶ Ἀναξαγόρας ὅτι ἡ ὑγρότης τούτων ἐστὶν ἀπὸ τῆς γῆς, καὶ διὰ τοῦτο ἔφη πρὸς Λεχίνεον ὅτι ἡ γῆ μήτηρ μέν ἐστι τῶν φυτῶν, ὁ δὲ ἥλιος πατήρ.",
+   "english": "There is also a certain source of the nourishment of plants from the earth, and again another source of their generation from the sun. Anaxagoras too said that their moisture is from the earth, and for this reason he said to Lechineus that the earth is the mother of plants, and the sun their father.",
+   "notes": "Λεχίνεον (Lechineus) is unidentified; the name is probably corrupted in transmission.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00965",
+   "ref": "1.2.13.1",
+   "original": "Εἶπε δὲ πάλιν Ἐμπεδοκλῆς ὅτι τὰ φυτά, εἰ καὶ νεοσσοὺς οὐ γεννῶσι, διότι τὸ γεννώμενον οὐ γεννᾶται εἰ μὴ ἐκ τῆς φύσεως τοῦ σπέρματος, καὶ ὅτι ὅπερ μένει ἐξ αὐτοῦ ἐν τῇ ἀρχῇ τροφὴ γίνεται τῆς ῥίζης, καὶ τὸ γεννώμενον κινεῖ αὐτὸ ἑαυτὸ παραυτίκα, ὅμως οὕτως ὀφείλομεν ὑπολαμβάνειν καὶ ἐν τῇ μίξει τῶν ἀρρένων καὶ τῶν θηλέων φυτῶν, ὡς ἐπὶ τῶν ζῴων, ὅτι καὶ ἡ μίξις τῶν φυτῶν ἐστὶν ἐν διοικήσει τινί·",
+   "english": "Empedocles said again that plants, even if they do not produce offspring, because what is generated is not generated except from the nature of the seed, and because what remains of it at the beginning becomes nourishment for the root, and what is generated moves itself at once, nevertheless we must suppose likewise concerning the mixing of male and female plants as in the case of animals, that the mixing of plants too takes place under a certain ordering;",
+   "notes": "The syntax is confused (back-translated Greek), and it is unclear how much is Empedocles' view and how much the author's. \"Offspring\" renders νεοσσούς, properly \"young\" or \"chicks\". ἐν διοικήσει τινί (\"under a certain ordering\") is uncertain in sense.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00966",
+   "ref": "1.2.19.1",
+   "original": "Ἀλλὰ ἔργον ἐν τοῦ ζῴου ἐστὶ κρεῖττον παρὰ πᾶν ἔργον τοῦ φυτοῦ, Ἄλλως τε εὑρίσκομεν καὶ ἐν τῷ ζῴῳ πάσας τὰς δυνάμεις τὰς ἐν τῷ φυτῷ, καὶ ἄλλας πολλάς, οὐ μὴν καὶ ἔμπαλιν. Εἶπε πάλιν ὁ Ἐμπεδοκλῆς ὅτι τὰ φυτὰ ἔχουσι γένεσιν ἐν κόσμῳ ἠλαττωμένῳ καὶ οὐ τελείῳ κατὰ τὴν συμπλήρωσιν αὐτοῦ, ταύτης δὲ συμπληρουμένης οὐ γεννᾶται ζῷον.",
+   "english": "But one work of an animal is better than every work of a plant. Besides, we find in the animal all the powers that are in the plant, and many others, but not the reverse. Empedocles said again that plants have their generation in a world that is diminished and not perfect in its completion, but when this [world] is completed, an animal is not generated.",
+   "notes": "\"ἐν\" is read as ἕν (\"one\"). The final clause seems illogical, perhaps due to corruption or mistranslation in transmission.",
+   "reviewed": true,
+   "corrected": false
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "source_edition": "stoa0058.stoa023.perseus-lat1",
+ "source_urn": "urn:cts:latinLit:stoa0058.stoa023.perseus-lat1",
+ "title": "Liber De Persona Et Duabus Naturis Contra Eutychen Et Nestorium",
+ "author": "Boethius",
+ "language": "Latin",
+ "source_project": "perseus-latin",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from stoa0058.stoa023.perseus-lat1, as held by the Perseus Digital Library.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p05173",
+   "ref": "1.1",
+   "original": "Nam si nomen naturae substantiam monstrat, cum naturam descripsimus substantiae quoque est assignata descriptio. Quod si naturae nomen relictis incorporeis substantiis ad corporales usque contiahitur, ut corporeae tantum substantiae naturam habere uideantur, sicut Aristoteles ceterique et eiusmodi et multimodae philosophiae sectatores putant, definiemus eam, ut hi etiam qui naturam non nisi in corporibus esse posuerunt. Est autem eius definitio hoc modo: natura est motus principium per se non per accidens.",
+   "english": "For if the word \"nature\" denotes substance, then when we described nature, a description of substance was also given. But if the word \"nature\" is narrowed, leaving aside incorporeal substances, so as to reach only as far as corporeal ones, so that corporeal substances alone seem to have a nature, as Aristotle and the other followers both of that and of many kinds of philosophy think, we shall define it as those also [define it] who held that nature exists only in bodies. Its definition is in this manner: nature is the principle of motion per se, not per accident.",
+   "notes": "\"contiahitur\" is a scanning error for \"contrahitur\" (is narrowed). The phrase \"et eiusmodi et multimodae philosophiae sectatores\" is awkward; rendered as \"followers both of that and of many kinds of philosophy\".",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p05174",
+   "ref": "2.1",
+   "original": "Vniuersales sunt quae de singulis praedicantur ut homo, animal, lapis, lignum ceteraque huiusmodi quae uel genera uel species sunt; nam et homo de singulis hominibus et animal de singulis animalibus lapisque ac lignum de singulis lapidibus ac lignis dicuntur. Particularia uero sunt quae de aliis minime praedicantur ut Cicero, Plato, lapis hic unde haec Achillis statua facta est, lignum hoc unde haec mensa composita est. Sed in his omnibus nusquam in uniuersalibus persona dici potest, sed in singularibus tantum atque in indiuiduis, animalis enim uel generalis hominis nulla persona est, sed uel Ciceronis uel Platonis uel singulorum indiuiduorum personae singulae nuncupantur.",
+   "english": "Universals are those which are predicated of individuals, such as man, animal, stone, wood and the other things of this kind which are either genera or species; for \"man\" is said of individual men, \"animal\" of individual animals, and \"stone\" and \"wood\" of individual stones and pieces of wood. Particulars, on the other hand, are those which are not predicated of other things at all, such as Cicero, Plato, this stone from which this statue of Achilles was made, this piece of wood from which this table was put together. But among all these, person can nowhere be spoken of in universals, but only in singulars and individuals; for there is no person of animal or of man as a genus, but individual persons are named either of Cicero or of Plato or of single individuals.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p05175",
+   "ref": "3.1",
+   "original": "informata enim sunt iam propriis et specificis differentiis et accidentibus ut esse possint ministrant, dum sunt scilicet subiecta. Quocirca εἶναι atque οὐσιῶσθαι esse atque subsistere, ὑφίστασθαι uero substare intellegitur. Neque enim uerborum inops Graecia est, ut Marcus Tullius alludit, sed essentiam, subsistentiam, substantiam, personam totidem nominibus reddit, essentiam quidem οὐσίαν, subsistentiam uero οὐσίωσιν, substantiam ὑπόστασιν, personam πρόσωπον appellans. Ideo autem ὑποστάσεις Graeci indiuiduas substantias vocaverunt, quoniam ceteris subsunt et quibusdam quasi accidentibus subpositae subiectaeque sunt;",
+   "english": "For they are already informed by their proper and specific differences, and they supply accidents with [the means] by which they can exist, namely while they are subjects. Therefore *einai* and *ousiōsthai* are understood as \"to be\" and \"to subsist,\" while *hyphistasthai* is understood as \"to stand under\" (*substare*). For Greece is not poor in words, as Marcus Tullius hints, but renders essence, subsistence, substance and person by as many names, calling essence *ousia*, subsistence *ousiōsis*, substance *hypostasis*, and person *prosōpon*. And the Greeks called individual substances *hypostaseis* for this reason: because they underlie the rest and are placed under and subjected to certain things, as it were to accidents;",
+   "notes": "The opening clause continues a sentence begun in the preceding context (individuals both subsist and substand: they do not need accidents in order to be, for they are already informed...). The construction \"accidentibus ut esse possint ministrant\" is compressed: individuals supply to accidents what they need in order to be. Marcus Tullius is Cicero; the allusion is to his complaints about the poverty of Latin vocabulary compared with Greek.",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}

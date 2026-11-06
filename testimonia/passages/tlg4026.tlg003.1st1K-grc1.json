@@ -1,0 +1,34 @@
+{
+ "source_edition": "tlg4026.tlg003.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg4026.tlg003.1st1K-grc1",
+ "title": "Fragmentum paraphrasis in Aristotelis rhetorica",
+ "author": "Anonymi in Aristotelis Artem Rhetoricam",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg4026.tlg003.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p03074",
+   "ref": "1.3",
+   "original": "Ὁμολογούενα δὲ ἐρωτήσεις, εἰ τὰ ἐξ ἀνάγκης δοθησόμενα ὑπὸ τῶν ἀντιδίκων πυνθάνοιο, καὶ ὧν ῥηθέντων ἐπὶ τὸ συμπέρασμα εὐθὺς † οὐ χωρήσεις, τὰ ὁμολογούμενα εὐθὺς παραλιπών, ὡς λάτων ἐν τῇ Σωκράτους ἀπολογίᾳ· λεγόντων γὰρ τῶν κατηγόρων, ὡς Σωκράτης θεοὺς οὐ νομίζει καὶ καινὰ δαιμόνια εἰσάγει, ἀνήρετο αὐτοὺς περὶ τῶν δαιμονίων, εἰ μὴ θεοὺς ἢ θεῶν παῖδας γοῦνται αὐτούς· ὡς δὲ συνέφησαν, ἔστι δέ, 147 ὅστις θεοὺς οὐ νομίζει θεῶν παῖδας νομίζων;",
+   "english": "You will ask about things that are agreed if you inquire into what will necessarily be granted by your opponents, and once these have been stated you will proceed at once to the conclusion, leaving out straightaway what is agreed, as Plato [does] in the Apology of Socrates. For when the accusers were saying that Socrates does not believe in gods and introduces new divine beings (*daimonia*), he asked them about the divine beings, whether they did not consider them gods or children of gods; and when they agreed, [he said]: \"Is there anyone who does not believe in gods while believing in children of gods?\"",
+   "notes": "Several scanning errors corrected: Ὁμολογούενα for ὁμολογούμενα, λάτων for Πλάτων, γοῦνται for ἡγοῦνται. The text has a crux (†) before οὐ χωρήσεις; a negative makes no sense here (the context after says the agreed premise is omitted and one moves to the conclusion), so it is translated as \"you will proceed\", reading something like οὖν or omitting οὐ. The words ἔστι δέ are odd and have been taken as introducing Socrates' question (\"is there anyone...\"). \"147\" is a page or line number from the printed edition and has been left out.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p13657",
+   "ref": "1.4",
+   "original": "Εἰς τὸ ἐναντίον δὲ περιστήσεις, ὡς Λυσίας ἐν τῷ Ἐρατοσθέ νους· ἐπειδὴ γὰρ ὡμολόγει μὲν ἀπάγειν τὸν ἀδελφὸν αὐτοῦ ολέμαρχον 5 διὰ τὸ προστάξαι τοὺς τριάκοντα, ὧν εἷς ἦν καὶ αὐτός, ἐρωτηθεὶς δέ, εἰ παρῆν καὶ αὐτὸς προτεθείσης περὶ αὐτοῦ βουλῆς καὶ εἰ ἀντέλεγεν ἢ ἐπῄνει τὰ δοκοῦντα τοῖς ἄλλοις, ὡς δὲ ἔφη καὶ παρεῖναι καὶ ἀντιλέγειν τοῖς ἄλλοις, προσηρώτησεν, εἰ ἄδικα πάσχειν ἡγεῖτο αὐτόν, καὶ συγχωρήσαντος 10 ἐπήγαγεν εἶτα, ὧ σχετλιώτατε πάντων, ἀντέλεγες μέν, ἵνα σώσειας, συνε λάμβανες δέ, ἵνα ἀποκτείνης;",
+   "english": "You will turn [the answer] round to the opposite, as Lysias [did] in the [speech against] Eratosthenes. For when [Eratosthenes] admitted that he had arrested his brother Polemarchus because the Thirty, of whom he himself was one, had ordered it, and, being asked whether he himself was present when the deliberation about him was put forward, and whether he spoke against or approved what the others had decided, he said that he was both present and spoke against the others, [Lysias] asked further whether he thought [Polemarchus] was suffering injustice; and when he conceded [this], he then added: \"So, most wretched of all men, you spoke against [it] in order to save [him], but you arrested [him] in order to kill [him]?\"",
+   "notes": "Scanning errors corrected: 'Ἐρατοσθέ νους' read as Ἐρατοσθένους, 'ολέμαρχον' as Πολέμαρχον, 'συνε λάμβανες' as συνελάμβανες, 'ὧ' as ὦ; stray numerals 5 and 10 (line numbers) omitted. The sentence is anacoluthic in the Greek (ἐρωτηθεὶς δέ … ὡς δὲ ἔφη), rendered as loosely as the original runs. 'αὐτόν' in 'ἄδικα πάσχειν ἡγεῖτο αὐτόν' is taken as Polemarchus.",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}

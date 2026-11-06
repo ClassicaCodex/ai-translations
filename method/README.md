@@ -22,3 +22,16 @@
 | 10 | Italian (Dante) | 69 | 4.94 |
 | 11 | Old French | 34 | 4.79 |
 | 12 | Hebrew, Aramaic | 23 | 4.70 |
+
+## Testimonia
+
+The passages in `testimonia/` were made in one run rather than in waves, and only some were reviewed. `testimonia/README.md` gives the method and the error rates.
+
+- **`BRIEF-testimonia-translate.md`:** the brief Claude worked to. `context_before` and `context_after` are the words on either side of a passage, which it saw but did not translate.
+- **`BRIEF-testimonia-judge.md`:** the reviewer's brief.
+- **`reviews/testimonia-lost.json`:** the review of every passage citing a lost author.
+- **`reviews/testimonia-sample.json`:** the review of a random tenth of the rest.
+  - `objections` gives each major objection with its verdict (`upheld`, `minor` or `rejected`) and the reason. The reviewer's 180 minor objections were not weighed, and are not recorded.
+  - `changes` gives each correction: the passage, the field, and the wording before and after.
+- **`reviews/testimonia-trial.json`:** the corrections from the review of the trial's 181 passages.
+- **`reviews/testimonia-notes.json`:** corrections made after the review, none of them from it: 3 to the English where the translator's own note showed it was wrong, and 24 to notes that still described English the review had changed.

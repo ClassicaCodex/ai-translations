@@ -1,0 +1,34 @@
+{
+ "source_edition": "stoa0108f.stoa002.opp-lat1",
+ "source_urn": "urn:cts:latinLit:stoa0108f.stoa002.opp-lat1",
+ "title": "Codex Canonum Ecclesiasticorum Sive Codex Canonum Vetus Ecclesiae Romanae",
+ "author": "Dionysius Exiguus",
+ "language": "Latin",
+ "source_project": "patrologia-latina",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from stoa0108f.stoa002.opp-lat1, as held by Open Greek and Latin's Patrologia Latina.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p05205",
+   "ref": "320",
+   "original": "Cumque recitarentur, Augustinus episcopus Ecclesiæ Hipponensis provinciæ Numidiæ dixit : Et hoc nos servaturos profitemur, salva diligentiore inquisitione concilii Nicæni. Aurelius episcopus dixit : Si hoc etiam omnium vestrae charitati placet, responaione firmate. Universum concilium dixit : Omnia quae in Nicxno concilio statuta sunt nobis omnibus placent.",
+   "english": "And when these were being read out, Augustine, bishop of the Church of Hippo in the province of Numidia, said: \"We too declare that we will observe this, saving a more careful inquiry into the council of Nicaea.\" Bishop Aurelius said: \"If this also pleases the charity of you all, confirm it by your response.\" The whole council said: \"All things that were decreed in the council of Nicaea please us all.\"",
+   "notes": "Scanning errors corrected: 'responaione' read as 'responsione', 'Nicxno' as 'Nicaeno'. 'Omnium vestrae charitati' is taken as 'the charity of you all'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p05206",
+   "ref": "333",
+   "original": "IX. Augustinus episcopus, legatus provinciae Numidiae, dixit : Hoc statuere dignemini, ut sj qui forte merito facinorum suorum ab Ecclesia pulsi sunt, et sive ab aliquo episcopo, vel presbytero fuerint in communione suscepti, etiam ipse pari cum eis crimine teneatur obnoxius, refugientes sui episcopi regulare judicium.",
+   "english": "IX. Augustine, bishop [and] legate of the province of Numidia, said: \"Deign to decree this: that if any who have perhaps been driven out of the Church for the deserts of their crimes have been received into communion by some bishop or presbyter, he too shall be held liable to the same charge as they, [since they are] fleeing the regular judgment of their own bishop.\"",
+   "notes": "Scanning error 'sj' read as 'si'. The syntax is loose ('et sive ... vel'). 'Refugientes' agrees with those expelled, so it is rendered as a reason clause.",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}

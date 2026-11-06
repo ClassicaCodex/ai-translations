@@ -1,0 +1,70 @@
+{
+ "source_edition": "tlg1802.tlg001.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg1802.tlg001.1st1K-grc1",
+ "title": "Versus heroici",
+ "author": "Versus heroici",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg1802.tlg001.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p10307",
+   "ref": "3.1",
+   "original": "III. οὐκοῦν οἵ γε δίκαιοι ἥμεροι, ὡς ἔφη Ὅμηρος.",
+   "english": "III. So then, the just are gentle, as Homer said.",
+   "notes": "The Homeric line alluded to is not quoted; this is evidently a fragment cited as Homeric.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p10308",
+   "ref": "6.1",
+   "original": "VI. καὶ οὕτως ἐναργές ἐστι καὶ οὐ πεπλασμένον ὃ λέγω ὥσθʼ εὑρήσετε καὶ τοὺς προγόνους φήμης ὡς θεοῦ μεγίστης βωμὸν ἱδρυμένους, καὶ τὸν Ὅμηρον πολλάκις ἐν τῇ Ἰλιάδι λέγοντα πρὸ τοῦ τι τῶν μελλόντων γενέσθαι φήμη δʼ ἐς στρατὸν ἦλθε.",
+   "english": "VI. And what I say is so evident and not made up that you will find both that our ancestors set up an altar to Rumour (Phēmē) as a very great goddess, and that Homer often in the Iliad says, before one of the things that were about to happen, \"and a rumour came to the army.\"",
+   "notes": "\"Rumour\" renders phēmē, which can also mean 'report' or an ominous utterance. The quoted half-line is not in the transmitted Iliad, which is presumably why it appears in a collection of stray Homeric verses.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p10309",
+   "ref": "7.1",
+   "original": "VII. ἀδύνατον νεκρῶν τραύματα μύειν, ὥς φησιν Ἀριστοτέλης εἰρηκέναι Ὅμηρον μῦσεν δὲ περὶ βροτόεσσʼ ὠτειλή. τοῦτο δὲ τὸ ἡμιστίχιον οὐ φέρεται.",
+   "english": "VII. It is impossible for the wounds of the dead to close, as Aristotle says Homer said: \"and the bloody wound closed up around [it].\" This half-line is not transmitted [in our texts].",
+   "notes": "\"Not transmitted\" renders οὐ φέρεται, i.e. not found in the current text of Homer.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p02021",
+   "ref": "8.1",
+   "original": "VIII. ὁμοίως δὲ καὶ Ἀναξαγόρας ψυχὴν εἶναι λέγει τὴν κινοῦσαν, καὶ εἴ τις ἄλλος εἴρηκεν ὡς τὸ πᾶν ἐκίνησε νοῦς, οὐ μὴ παντελῶς γʼ ὥσπερ Δημόκριτος (§ 100 Diels). ἐκεῖνος μὲν γὰρ ἁπλῶς ταὐτὸν ψυχὴν καὶ νοῦν· τὸ γὰρ ἀληθὲς εἶναι τὸ φαινόμενον· διὸ καλῶς ποιῆσαι τὸν Ὅμηρον ὡς Ἕκτωρ κεῖτʼ ἀλλοφρονέων.",
+   "english": "VIII. Likewise Anaxagoras too says that soul is what moves [things], as does anyone else who has said that mind set the whole in motion, though not entirely in the way Democritus [does] (§ 100 Diels). For he [held] soul and mind to be simply the same thing, since what is true is what appears; and for this reason [he said] Homer did well to write that Hector \"lay with his mind elsewhere.\"",
+   "notes": "The passage closely paraphrases Aristotle, De anima 1.2 (404a25–31). The attribution to \"Versus heroici\" and the author code look like a cataloguing mismatch. \"οὐ μὴ παντελῶς γʼ\" is odd Greek: Aristotle's text has \"οὐ μὴν παντελῶς γʼ\" (\"not, however, entirely\"), and I translate that sense. The sentence about Democritus has no main verb (\"held\" and \"said\" are supplied); the reported infinitives depend on an implied \"he says\". \"κεῖτʼ ἀλλοφρονέων\" is a Homeric phrase; it may mean \"lay senseless\" or \"lay thinking other thoughts\", and Democritus reportedly took it as \"with altered thinking\".",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p10310",
+   "ref": "22.2",
+   "original": "Ὅμηρος δὲ καὶ τέκτονα σοφὸν καλεῖ.",
+   "english": "And Homer also calls a carpenter \"wise.\"",
+   "notes": "Τέκτων can mean any craftsman or builder, not only a carpenter.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p10311",
+   "ref": "24.1",
+   "original": "XXIV.Tyron enim Sarram appellatam Homerus docuit.",
+   "english": "XXIV. For Homer taught that Tyre was called Sarra.",
+   "notes": "This unit is in Latin, though it is labelled Greek.",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}

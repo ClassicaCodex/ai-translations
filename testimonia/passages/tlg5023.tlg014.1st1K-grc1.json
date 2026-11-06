@@ -1,0 +1,511 @@
+{
+ "source_edition": "tlg5023.tlg014.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg5023.tlg014.1st1K-grc1",
+ "title": "Scholia in Euripidis Hecubam (scholia vetera et scholia recentiora Thomae Magistri, Triclinii, Moschopuli et anonyma)",
+ "author": "Scholia in Euripidem",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg5023.tlg014.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p14294",
+   "ref": "1.3.2",
+   "original": "Ἑκάβης αἰχμαλώτου δὲ οὔσης ἐν Χερρονήσῳ, ἐκεῖ γὰρ καὶ τὸ στράτευμα ὑπῆρχε τῶν Ἑλλήνων, ὄναρ φανεὶς Πολύδωρος τῇ σφῇ μητρὶ Ἑκάβῃ. ὅπως αὐτὸν ἀπέκτεινεν ὁ Πολυμήστωρ λέγει, καὶ τὰ λοιπὰ δὲ σύμπαντα λεπτομερεῖ τῷ λόγῳ. οὕτω κατʼ ἔπος λέγει δὲ διὰ τοῦ Εὐριπίδου, ἥκω νεκρῶν κευθμῶνα τε καὶ πύλας ἀρεὶς σκότος, ἔκτοτε τοῖς φυγοῦσι δὲ δεινοῖς ἐξ ἀρρωστίας, ὡς ἐγερθεὶς ἐκ τῶν νεκρῶν λέγομεν τὰ τοιαῦτα· τοῖς μὴ μαθοῦσι γράφομεν, οὐ τοῖς μαθοῦσι ταῦτα.",
+   "english": "While Hecuba was a captive in the Chersonese (for the army of the Greeks was also there), Polydorus appeared in a dream to his mother Hecuba. He tells how Polymestor killed him, and all the rest besides, in a detailed speech. Word for word he speaks thus through Euripides: \"I have come, leaving the hiding-place of the dead and the gates of darkness,\" and from then on to those who have escaped terrors from sickness, as one raised from the dead, we say such things. We write these things for those who have not learned, not for those who have learned.",
+   "notes": "The sentence beginning \"from then on to those who have escaped\" is syntactically obscure and possibly corrupt; the rendering is tentative. ἀρεὶς is presumably for λιπὼν (paraphrase of Hec. 1).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p03254",
+   "ref": "3.5.1",
+   "original": "Πολύδωρος Ἑκάβης παῖς: προλογίζει Πολύδωρος Ἑκάβης ὢν γνήσιος παῖς, ὃν Πολυμήστωρ ὁ τῆς Θρᾴκης βασιλεὺς ἀνεῖλεν. τὴν δὲ Ἑκάβην Ὅμηρος Δύμαντος, οἱ πολλοὶ δὲ Κισσέως. ἔνιοι δὲ γράφουσιν “Ἑκάβης παῖς γεγὼς τῆς Κισσέως” καὶ στοχάζονται ἀπὸ γένους τινὸς τῆς Φρυγίας ἢ κώμης οὕτως αὐτὴν προσαγορεύεσθαι, ὡς καὶ Φιλόχορος ἐν τῇ πρὸς Ἀσκληπιάδην ἐπιστολῇ. M.",
+   "english": "\"Polydorus, son of Hecuba\": Polydorus speaks the prologue, being the legitimate son of Hecuba, whom Polymestor the king of Thrace killed. Homer [makes] Hecuba [daughter] of Dymas, but most [make her daughter] of Cisseus. Some write \"born a son of Hecuba, the [daughter] of Cisseus\" and conjecture that she is so called from some clan or village of Phrygia, as Philochorus also [does] in his letter to Asclepiades. M.",
+   "notes": "\"M.\" and similar sigla at the ends of units are manuscript abbreviations from the edition and are left as they stand.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p14295",
+   "ref": "3.5.2",
+   "original": "τὰ περὶ τὴν Πολυξένην ἔστι καὶ παρὰ Σοφοκλεῖ εὑρεῖν. M.",
+   "english": "The story about Polyxena can also be found in Sophocles. M.",
+   "notes": "M. is a manuscript siglum.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14296",
+   "ref": "3.5.3",
+   "original": "Ἑκάβης παῖς γεγὼς Πριάμου: Φερεκύδης γράφει οὕτως “Πρίαμος δὲ ὁ Λαομέδοντος γαμεῖ Ἑκάβην τὴν Δύμαντος τοῦ Ἠϊονέως τοῦ Πρωτέως ἢ Σαγγαρίου τοῦ ποταμοῦ καὶ Νηΐδος νύμφης Εὐαγόρας.” Γλαυκίππην δ᾿ ἔνιοι τὴν Ξάνθου τῆς Ἑκάβης παρέδοσαν μητέρα. Νίκανδρος δὲ Εὐριπίδῃ συνδραμὼν τὴν Ἑκάβην φησὶ Κισσέως· Ἔνθ᾿ Ἑκάβη Κισσηῒς, ὅτ᾿ ἐν πυρὶ δέρκετο πάτρην καὶ πόσιν ἑλκηθεῖσα παρασπαίροντα θυηλαῖς,εἰς ἅλα ποσσὶν ὄρουσε καὶ ἣν ἠλλάξατο μορφὴν,γρήϊον Ὑρνακίδεσσιν ἐειδομένην σκυλάκεσσιν. M.",
+   "english": "\"Born the child of Hecuba and Priam\": Pherecydes writes thus: \"Priam son of Laomedon marries Hecuba, daughter of Dymas son of Eioneus son of Proteus, or [daughter] of the river Sangarius and the Naiad nymph Euagora.\" Some have handed down Glaucippe, daughter of Xanthus, as Hecuba's mother. Nicander, agreeing with Euripides, says Hecuba was [daughter] of Cisseus: \"There Hecuba, daughter of Cisseus, when she saw her fatherland in fire and her husband, dragged, gasping beside the sacrificial offerings, leapt with her feet into the sea and changed her form, [into an] old [bitch] like the whelps of the Hyrnacians.\" M.",
+   "notes": "The last line of the Nicander quotation (γρήϊον Ὑρνακίδεσσιν ἐειδομένην σκυλάκεσσιν) is obscure; \"Hyrnacians\" unidentified and the sense uncertain.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14297",
+   "ref": "3.5.4",
+   "original": "οἱ δὲ λοιποὶ τῷ κυρίῳ αὐτὴν ὀνόματι προσηγόρευσαν. πολλάκις δὲ ὁ Εὐριπίδης αὐτοσχεδιάζει ἐν ταῖς γενεαλογίαις, ὡς καὶ ἑαυτῷ ἐνίοτε ἐναντία λέγειν, καὶ νῦν Κισσέως ἔφη θυγατέρα τὴν Ἑκάβην μετενεγκὼν τὸν πατέρα Θεανοῦς, περὶ οὗ φησιν Ὅμηρος “Κισσῆς τόν γ᾿ ἔθρεψε δόμοις ἔνι τυτθὸν ἐόντα μητροπάτωρ, ὃς τίκτε Θεανὼ καλλιπάρῃον.” A.M.",
+   "english": "The rest called her by her proper name. Euripides often improvises in genealogies, so as sometimes even to contradict himself; and here he has called Hecuba daughter of Cisseus, transferring [to her] the father of Theano, of whom Homer says: \"Cisseus reared him in his house when he was small, his mother's father, who begot fair-cheeked Theano.\" A.M.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14298",
+   "ref": "3.31.1",
+   "original": "26. ξένος πατρῷος: ἐν εἰρωνείᾳ εἶπε “ξένος πατρῷος,” ἤτοι ὁ πατρικός μου φίλος, κατὰ ἀντίφρασιν, ὡς ἀποκαλεῖ ὁ Ὅμηρος κύνας ἀργοὺς τοὺς ταχυτάτους. A.",
+   "english": "26. \"Father's guest-friend\": he said \"father's guest-friend\" in irony, that is, my father's friend, by antiphrasis, as Homer calls the swiftest dogs \"idle\" (argoi). A.",
+   "notes": "The scholiast takes ἀργός as \"idle\"; in Homer it means \"swift/shining\".",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p03255",
+   "ref": "3.45.1",
+   "original": "41. τύμβῳ φίλον πρόσφαγμα: ὑπὸ Νεοπτολέμου φασὶν αὐτὴν σφαγιασθῆναι Εὐριπίδης καὶ Ἴβυκος. ὁ δὲ τὰ Κυπριακὰ ποιήσας φησὶν ὑπὸ Ὀδυσσέως καὶ Διομήδους ἐν τῇ τῆς πόλεως ἁλώσει τραυματισθεῖσαν ἀπολέσθαι, ταφῆναι δὲ ὑπὸ Νεοπτολέμου, ὡς Γλαῦκος γράφει. A.M. ἄλλοι δέ φασι συνθέμενον Πριάμῳ τὸν Ἀχιλλέα περὶ τοῦ Πολυξένης γάμου ἀναιρεθῆναι ἐν τῷ τοῦ Θυμβραίου Ἀπόλλωνος ἄλσει.",
+   "english": "41. \"a dear sacrifice for the tomb\": Euripides and Ibycus say that she was slaughtered as a sacrifice by Neoptolemus. But the author of the Cypria says that she died after being wounded by Odysseus and Diomedes at the capture of the city, and was buried by Neoptolemus, as Glaucus writes. A.M. Others say that Achilles, having made an agreement with Priam about marriage to Polyxena, was killed in the grove of Thymbraean Apollo.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p14299",
+   "ref": "3.57.1",
+   "original": "περᾷ: ὁρᾷ γὰρ Ἑκάβην προϊοῦσαν ἐκ τῆς σκηνῆς τοῦ Ἀγαμέμνονος καί φησι, μὴ βούλομαι φανῆναι αὐτῇ, ἵνα μὴ ἐκφοβηθῇ τὸ εἴδωλον ὁρῶσα τοῦ παιδὸς τοῦ δοκοῦντος σώζεσθαι. M. περᾷ γὰρ ἥδ᾿ ὑπὸ σκηνῆς πόδα Ἀγαμέμνονος: εἰ κατὰ τὸν Εὐριπίδην ἴδιαι γυναικῶν αἰχμαλώτων στέγαι ἦσαν, πῶς ἐκ τῆς σκηνῆς Ἀγαμέμνονος ἐξῄει ἡ Ἑκάβη, πῶς δὲ καὶ ἐκείνας ἐξιοῦσα ἐξ . . το λόγον “ποῦ ποτε Κασάνδραν ἐσίδω, Τρῳάδες,” τῆς Κασάνδρας τῷ Ἀγαμέμνονι συνοικούσης;",
+   "english": "\"Is passing\": for he sees Hecuba coming out of Agamemnon's tent, and says: I do not wish to appear to her, so that she may not be frightened at seeing the phantom of her son who is thought to be safe. M. \"For she here is setting foot out from under the tent of Agamemnon\": if, according to Euripides, the captive women had their own quarters, how did Hecuba come out of Agamemnon's tent, and how, coming out of those [quarters], [. . .] the words \"Where, Trojan women, may I ever see Cassandra?\", since Cassandra was living with Agamemnon?",
+   "notes": "There is a lacuna in the text (ἐξ . . το λόγον); the clause cannot be fully construed.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14300",
+   "ref": "3.76.1",
+   "original": "71. μελανοπτερύγων: ἐπειδὴ ἐν νυκτὶ προσπελάζουσι. καὶ Ἡσίοδος περὶ τῆς νυκτὸς λέγων ἐπιφέρει “ἔτικτε δὲ φῦλον ὀνείρων.” οἱ δὲ γράφουσι χθών· οὕτως εἶπεν, ἐπειδὴ ἐκ τῆς γῆς λέγονται ἀναπέμπεσθαι οἱ ὄνειροι. M. Ἄλλως. τὴν γῆν εἶπεν, ἐπειδὴ ἐξ Ἅιδου λέγονται οἱ ὄνειροι ἀναπέμπεσθαι.",
+   "english": "71. \"Black-winged\": since they approach at night. And Hesiod, speaking of Night, adds: \"and she bore the tribe of dreams.\" Others write \"Earth\" (chthōn); he spoke so because dreams are said to be sent up from the earth. M. Otherwise: he said \"the earth\" because dreams are said to be sent up from Hades.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p03256",
+   "ref": "3.125.1",
+   "original": "Δημοφῶν δὲ ὁ Θησέως ἐδεῖτο αὐτῶν δοῦναι Αἴθραν τὴν Πιτθέως τὴν τοῦ πατρὸς μητέρα, ὅπως αὐτὴν κομίσωσιν οἴκαδε. Μενέλαος δὲ πρὸς Ἑλένην πέμπει Ταλθύβιον κελεύσας ἄγειν Αἴθραν καὶ Ἑλένη δωρησαμένη Αἴθραν παντοδαπῷ κόσμῳ ἀποστέλλει πρὸς Δημοφῶντα καὶ Ἀκάμαντα. Ἑλλάνικος δέ φησιν αὐτοὺς ἐστρατευκέναι, ὅπως εἰ μὲν ἕλοιεν Ἴλιον λάφυρον αὐτὴν λάβοιεν, εἰ δὲ μὴ, κἂν λυτρώσαιντο δώροις. ἦσαν δὲ καὶ μετὰ Χαλκώδοντος τοῦ Ἄβαντος ἐν Εὐβοίῳ. A.M. οἱ δὲ τοῦ Θησέως παῖδες Ἀκάμας καὶ Δημοφῶν, οἳ ἦσαν κλάδοι τῶν Ἀθηναίων, οἱ καὶ ἐστρατεύσαντο ὑπὸ Ἴλιον, οὐχ ἡγούμενοι τινῶν, ἀλλʼ ἐπὶ τὴν ἀπολύτρωσιν τῆς Αἴθρας·",
+   "english": "Demophon the son of Theseus asked them to give [him] Aethra the daughter of Pittheus, his father's mother, so that they might bring her home. Menelaus sends Talthybius to Helen, ordering him to bring Aethra, and Helen, having presented Aethra with every kind of adornment, sends her off to Demophon and Acamas. Hellanicus says that they had joined the expedition so that, if they took Ilium, they might receive her as spoil, and if not, they might at least ransom her with gifts. They were also with Chalcodon son of Abas in Euboea. A.M. The sons of Theseus, Acamas and Demophon, who were offshoots of the Athenians, also campaigned against Ilium, not as leaders of any [contingent], but for the ransoming of Aethra;",
+   "notes": "\"μετὰ Χαλκώδοντος τοῦ Ἄβαντος ἐν Εὐβοίῳ\" is odd: Chalcodon is usually father of Elephenor, leader of the Abantes of Euboea; the text may be corrupt (perhaps 'with [Elephenor son of] Chalcodon, the Abantian').",
+   "reviewed": true,
+   "corrected": true
+  },
+  {
+   "id": "p03257",
+   "ref": "3.125.2",
+   "original": "τὼ Θησείδα: οἱ τοῦ Θησέως παῖδες, Ἀκάμας καὶ Δημοφῶν, οἳ ἦσαν Ἀθηναῖοι τὸ γένος, ἐστράτευσαν ἐπὶ τὸ Ἴλιον, οὐχ ἡγούμενοι τινῶν. διʼ ὃ καὶ Ὅμηρος λέγει τὸν Μενεσθέα μόνον ἡγεῖσθαι τῶν Ἀθηναίων, ἀλλʼ ἐπὶ τὴν ἀπολύτρωσιν τῆς Αἴθρας τούτους ἐστρατευκέναι φασίν. Ἐλλάνικος δὲ λέγει διὰ τοῦτο αὐτοὺς ἀπελθεῖν ἐκεῖσε, ὥστε, εἰ μὲν ἕλοιεν Ἕλληνες τὴν Τροίαν, λάφυρον αὐτὴν καὶ γέρας λαβεῖν, εἰ δὲ μὴ, κἂν λυτρώσασθαι δώροις, καὶ μὴ ἐᾶσαι ταύτην ὑπὸ τούτων κατασκαφῆναι. B. Gu. I.",
+   "english": "\"The two sons of Theseus\": the sons of Theseus, Acamas and Demophon, who were Athenians by birth, campaigned against Ilium, not as leaders of any [contingent]. For this reason Homer too says that Menestheus alone led the Athenians; rather, they say these two campaigned for the ransoming of Aethra. Hellanicus says that they went there for this reason: so that, if the Greeks took Troy, they might receive her as spoil and prize of honour, and if not, they might at least ransom her with gifts, and not let her be destroyed by them. B. Gu. I.",
+   "notes": "The final clause (ταύτην... κατασκαφῆναι, 'be razed') may refer to Troy rather than Aethra; the sense is unclear.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p14301",
+   "ref": "3.134.1",
+   "original": "134. κόπις: ὁ λάλος ὅθεν καὶ κόβαλος ὁ κομψός “καὶ μὴν κόβαλά γʼ ἐστὶν, ὡς καὶ σοὶ δοκεῖ.” κοπίδας τε τὰς τῶν λόγων τέχνας ἄλλοι τε καὶ Τίμαιος οὕτως γράφει ὥστε καὶ φαίνεσθαι μὴ τὸν Πυθαγόραν εὑράμενον τῶν ἀληθινῶν κοπίδων μηδὲ τὸν ὑφʼ Ἡρακλείτου κατηγορούμενον, ἀλλʼ αὐτὸν Ἡράκλειτον εἶναι τὸν ἀλαζονευόμενον. τὰ περίεργα γὰρ τῶν λόγων καὶ τὰ κατεστωμυλμένα κόβαλα ἔλεγον, ὡς Ἀριστοφάνης ἐν Βατράχοις “κόβαλά γʼ ἐστὶν, ὡς καὶ σοὶ δοκεῖ.” M.",
+   "english": "134. Kopis: the chatterer; whence also kobalos, the clever one: \"and indeed they are tricks (kobala), as you too think.\" Timaeus, among others, writes of kopides as the arts of speech, so that it appears that it was not Pythagoras who invented true kopides, nor the man accused by Heraclitus, but Heraclitus himself who was the braggart. For they called elaborate and glib kinds of speech kobala, as Aristophanes in the Frogs: \"they are tricks, as you too think.\" M.",
+   "notes": "The sentence on Timaeus, Pythagoras and Heraclitus seems garbled; the sense is uncertain.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14302",
+   "ref": "3.144.1",
+   "original": "μαστὸς ὁ γυναικεῖος ἀπὸ τοῦ μεστὸς εἶναι γάλακτος, μασθὸς δὲ ὁ τῶν ἀνδρῶν ἀπὸ τοῦ μὴ ἐσθίεσθαι. I. μαζῶν: ἤγουν ἀπὸ τοῦ σοῦ κόλπου παρακινήσων. Cant. μαστὸς ἐπὶ γυναικὸς, ὡς ὁ τοιοῦτος ἀλλαχοῦ λέγει “ὦ στέρνα μαστοί μʼ ἐθρέψαθʼ ἡδέως·” μαζὸς δὲ ἐπὶ ἀνδρὸς, ὡς τὸ “νευρὴν μαζῷ πέλασε” παῤ Ὁμήρῳ εὕρηται, καὶ μαζὸς ἐπὶ θήλεος καταχρηστικῶς καὶ ὡς ἐνταῦθα καὶ παρὰ Θεοκρίτῳ “ἦ ῥὰ λεαίνης μαζὸς θήλασδε.” φασὶ μὲν οἱ τεχνικοὶ, ἐπὶ μὲν θήλεος διὰ τὸ στ ἐκφέρεται, οἱονεὶ μασητὸν, ἐπὶ δὲ ἀνδρὸς διὰ τὸ σθ, οἷον ὁ μὴ ἐσθιόμενος. Fl. 56. ἀντὶ τοῦ τὴν σὴν θυγατέρα, τὴν παρθένον, τὴν νεάνιδα, ἀπὸ τῶν σῶν μαστῶν ἀποσπάσει, αἴρει.",
+   "english": "Mastos is the woman's [breast], from its being full (mestos) of milk; masthos that of men, from its not being eaten (mē esthiesthai). I. \"From the breasts\": that is, to stir [her] away from your bosom. Cant. Mastos is used of a woman, as the same [poet] says elsewhere: \"O bosom, breasts that nourished me sweetly\"; mazos of a man, as \"he brought the string to his breast\" is found in Homer; and mazos [is used] of a female by catachresis, both as here and in Theocritus: \"surely he sucked a lioness's breast.\" The grammarians say that of a female it is pronounced with st, as if mastēton (\"chewable\"), but of a man with sth, as if \"the one not eaten.\" Fl. 56. Instead of: he will drag away, take your daughter, the maiden, the young girl, from your breasts.",
+   "notes": "Etymologies are the scholiasts' fanciful ones. Sigla (I., Cant., Fl.) and line numbers retained.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14303",
+   "ref": "3.151.1",
+   "original": "151. ὀρφανόν: ἔρημον, ὡς “κλυτὸς Ἱπποδάμεια.” M. στερουμένην. M. ἀντὶ τοῦ ὀρφανὴν, Ἀττικῶς, ὡς καὶ Ἀριστοφάνης “οὐ μὴν ἐρῶ γʼ ὡς ἀργὸς ἦν.” οὐ χρὴ τοίνυν ὀρφανάν γράφειν, ὡς ἔν τισιν εὕρηται· οὐ γὰρ ἁρμόζει τῷ μέτρῳ. I.",
+   "english": "151. Orphanon: bereft, as \"famous (klytos) Hippodameia.\" M. Deprived. M. [Masculine form] instead of orphanēn, in Attic manner, as also Aristophanes: \"I shall not say that she was idle (argos).\" One must therefore not write orphanan, as is found in some [copies]; for it does not fit the metre. I.",
+   "notes": "The examples illustrate two-termination adjectives used with feminine nouns.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14304",
+   "ref": "3.175.1",
+   "original": "177. σᾶς ψυχᾶς: ψυχὴ λέξις ὁμώνυμος οὖσα σημαίνει τὴν ἐν τῷ ἀνθρώπῳ λογικὴν ψυχὴν καὶ τὴν ἐν τοῖς ζώοις τοῖς ἀλόγοις καὶ τοῖς φυτοῖς, ἔτι δὲ τὴν ζωὴν, ὡς ἐνταῦθα Εὐριπίδης φησὶ, καὶ ἀλλαχοῦ “ἐπεὶ δὲ Τροία θʼ Ἕκτορός τʼ ἀπώλετο ψυχή,” ἤγουν ἡ ζωή· καὶ τὴν φύσιν, ὡς παρὰ Σοφοκλεῖ “ὅστις τῆς ἐμῆς ψυχῆς γεγώς” ἤγουν τῆς ἐμῆς φύσεως. B.I. ψυχᾶς: ζωῆς. Fl. 6. 21. 56. 59. 76. Gr. καθὼς ἤκουσα λόγον περὶ τῆς ψυχῆς, ἤγουν περὶ τοῦ σοῦ θανάτου. Fl. 33.",
+   "english": "177. \"your life (psychē)\": psychē, being a homonymous word, signifies the rational soul in a human being and [the soul] in irrational animals and in plants, and further life, as Euripides says here, and elsewhere: \"since both Troy and the psychē of Hector perished,\" that is, the life; and [it also signifies] nature, as in Sophocles: \"whoever is born of my psychē,\" that is, of my nature. B.I. \"life (psychas)\": [i.e.] of life. Fl. 6. 21. 56. 59. 76. Gr. As I heard a report about your life, that is, about your death. Fl. 33.",
+   "notes": "Sigla (B., I., Fl., Gr., Gu., etc.) are manuscript designations of the edition, left as printed.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14305",
+   "ref": "3.195.2",
+   "original": "Fl. 10. πολυπαθεστάτη. Gr. ὑπομείνασα. γραμματικὸν τὸ ἦθος καὶ ῥητορικόν. Gu. δεινὸν τὸ χαλεπὸν ἀπὸ τοῦ δέος ὁ φόβος· δεινὸν τὸ ἐπιτήδειον ἀπὸ τοῦ δέον τὸ πρέπον. B. rec. παντλάμων: τλήμων παῤ Ὁμήρῳ ὁ καρτερικός· “τλήμονα θυμὸν ἔχοντες.” παρὰ δὲ τοῖς τραγικοῖς τλήμων ὁ δυστυχής. B. rec.",
+   "english": "Fl. 10. Most greatly suffering. Gr. Having endured. The character [of the expression] is grammatical and rhetorical. Gu. Deinon [means] the harsh, from deos, fear; deinon [means] the suitable, from deon, the fitting. B. rec. \"all-enduring (pantlamōn)\": in Homer tlēmōn [means] the steadfast: \"having a steadfast (tlēmona) heart.\" But among the tragedians tlēmōn [means] the unfortunate. B. rec.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14306",
+   "ref": "3.205.1",
+   "original": "ὑποπεμπομέναν: πορευομένην. Fl. 59. ὑπερβατόν. Gu. σκότον, τὸν σκοτεινὸν τόπον. Fl. 59. ἔνθα: εἰς ὃν τάφον, ὅπου. Fl. 21. ὅπου. Fl. 59. ἔνθα ἐπίρρημα τοπικὸν καὶ χρονικόν· τοπικὸν μὲν ὡς ἐνταῦθα, χρονικὸν δὲ ὡς παῤ Ὁμήρῳ “ἔνθʼ αὖ Τυδείδῃ Διομήδει Παλλὰς Ἀθήνη” καὶ τὰ ἑξῆς, ἀντὶ τοῦ τότε δή. B. rec.",
+   "english": "\"being sent down\": going. Fl. 59. Hyperbaton. Gu. \"darkness\": the dark place. Fl. 59. \"where (entha)\": into which tomb, where. Fl. 21. Where. Fl. 59. Entha is an adverb of place and of time: of place as here, of time as in Homer, \"then (entha) in turn to Diomedes son of Tydeus Pallas Athena\" and so on, in place of \"then indeed.\" B. rec.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14307",
+   "ref": "3.208.1",
+   "original": "τὴν ἐμὴν βλάβην. Fl. 59. λώβη ἡ ὕβρις, λύμη ἡ βλάβη. Fl. 33. βλάβην. Gr. ὄντα. Gu. βίος ἡ τοιάδε ζωὴ καὶ ὁ περιεκτικὸς τοιῶνδε ζώων, οἷον “ποίην τις βιότοιο τάμοι τρίβον;” καὶ ἡ ἀντικειμένη τῷ θανάτῳ ζωὴ, ὡς Εὐριπίδης ἀλλαχοῦ φησιν “ἥδ᾿ ἡμέρα θάνατον ἢ βίον φέρει,” ἤγουν ζωήν· βιὸς δὲ ὀξυτόνως τὸ τόξον. B. rec.",
+   "english": "My harm. Fl. 59. Lōbē [is] outrage, lymē [is] harm. Fl. 33. Harm. Gr. Being. Gu. Bios [means] this kind of life and that which comprises such living things, as in \"what path of life (biotoio) might one cut?\"; and the life opposed to death, as Euripides says elsewhere, \"this day brings death or life (bion),\" that is, life; but biós with acute accent on the final syllable [is] the bow. B. rec.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14308",
+   "ref": "3.223.3",
+   "original": "καὶ ὅτε μὲν ἀντὶ τοῦ φαίνεται, συντάσσεται ἀπαρεμφάτῳ, ὡς τὸ “ἔοικεν εἰληφέναι δῶρα παρὰ Φιλίππο.” ὅτε δὲ ἀντὶ τοῦ ὅμοιός ἐστι, συντάσσεται δοτικῇ, ὡς τὸ “βασιλῆϊ γὰρ ἀνδρὶ ἔοικας.” ἔστι καὶ ἔοικεν ἀντὶ τοῦ πρέπει ποιητικῶς ἀναπόλυτον, ὡς παῤ Ὁμήρῳ “ἐπεὶ οὐδὲ ἔοικεν.” B.",
+   "english": "And when [it stands] for \"appears,\" it is construed with an infinitive, as in \"he appears (eoiken) to have taken gifts from Philip.\" But when [it stands] for \"is like,\" it is construed with a dative, as in \"for you are like (eoikas) a kingly man.\" Eoiken also [stands] for \"it is fitting,\" poetically, used absolutely, as in Homer, \"since it is not even fitting (eoiken).\" B.",
+   "notes": "\"Philippo\" is evidently a misprint for Philippou.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14309",
+   "ref": "3.286.1",
+   "original": "286. φίλον: προσφιλές. Fl. 17. αἰδέσθητι: αἰδὼς καὶ αἰσχύνη διαφέρει. αἰδὼς γάρ ἐστιν, ὥς φησιν Ἀριστόξενος ὁ μουσικὸς, ἡ ἐπʼ ἀγαθοῖς βία καὶ ὑποστολὴ, αἰσχύνη δέ ἐστιν ἡ ἐξ αἰσχρῶν πραγμάτων ἀτιμία καὶ κατήφεια. Cant. αἰδέσθητι: ἐντράπηθι. Fl. 17. 56. δυσωπήθητι. Fl. 6. 9. 21. 59. 76. Gu. ἀλλ᾿, ὦ προσφιλέστατοι, τὸ γῆρας αἰσχύνθητε τὸ ἐμόν.",
+   "english": "286. \"dear\": beloved. Fl. 17. \"respect\": aidōs and aischynē differ. For aidōs, as Aristoxenus the musician says, is restraint and reserve in regard to good things, whereas aischynē is the dishonour and dejection resulting from shameful deeds. Cant. \"respect\": feel regard. Fl. 17. 56. Be abashed. Fl. 6. 9. 21. 59. 76. Gu. But, most beloved ones, feel shame before my old age.",
+   "notes": "\"bia\" (force) in the definition of aidōs seems odd; perhaps corrupt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14310",
+   "ref": "3.316.1",
+   "original": "τοῦτο λέγεται κατὰ ῥήτορας ἀπόθεσις τῶν λεχθέντων καὶ ἔναρξις τῶν λεχθησομένων. Gr. τὸ εἶεν ποτὲ μέν ἐστιν ἐπίρρημα ἀποθετικὸν καὶ προκαταστατικὸν τῶν τε εἰρημένων καὶ ῥηθησομένων ὡς ἐνταῦθα, καὶ παρὰ Σοφοκλεῖ “εἶεν· τί δή σοι παῖς ὁ τοῦ Λαερτίου,” ποτὲ δέ ἐστι ῥῆμα ὡς τὸ “τίνες ἂν εἶεν.” B.",
+   "english": "This is called by the rhetoricians a setting-aside of what has been said and a beginning of what is going to be said. Gr. Eien is sometimes an adverb that sets aside what has been said and introduces what is going to be said, as here, and in Sophocles, \"Well (eien); what then [is] the son of Laertes to you,\" and sometimes it is a verb, as in \"who might they be (eien).\" B.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p14311",
+   "ref": "3.337.2",
+   "original": "τὸ δοῦλον ὡς κακόν: ὅμοιον τῷ παρὰ Σοφοκλεῖ “κρείσσων γὰρ ἦσθα μηκέτ᾿ ὢν ἢ ζῶν τυφλός.” ὥσπερ γὰρ ἐκεῖ, ὀφείλων θεῖναι τὸ κρεῖττον ἐπὶ τοῦ ῥήματος, ἵν᾿ ᾖ, κρεῖττον ἦν μηκέτ᾿ εἶναι σὲ ἢ ζῆν τυφλὸν, ὁ δὲ τίθησιν ἐπὶ τοῦ ὀνόματος, οὕτω κἀνταῦθα, ὀφείλων τάξαι τὸ πάνυ κακὸν ἐπὶ τοῦ πεφυκέναι, ὁ δὲ τίθησιν ἐπὶ τοῦ ὀνόματος, καὶ φησὶ τὸ δοῦλον πάνυ κακὸν, εἶτα ἐπάγει πεφυκέναι, ἤγουν ὥστε εἰς ὕπαρξιν ἐλθεῖν·",
+   "english": "\"the slave [state] as bad\": similar to the [line] in Sophocles, \"for you were better (kreissōn) no longer being than living blind.\" For just as there, though he ought to have put \"better\" with the verb, so that it would be \"it was better for you no longer to be than to live blind,\" he puts it instead with the noun, so also here, though he ought to have attached \"very bad\" to pephykenai (\"to be by nature\"), he puts it with the noun, and says \"the slave [state is] very bad,\" then adds pephykenai, that is, \"so as to come into existence\";",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14312",
+   "ref": "3.375.1",
+   "original": "M. Fl. 17. 21. 59. βοηθείας. Fl. 6. τινὸς ὑπολήψεως. Gr. ἔδει εἰπεῖν τῆς πρὸς τὸ δόξης, νῦν δὲ ἀντὶ τοῦ τῆς τοῦ Ἀττικῶς λέγει· οὗτοι γὰρ τοῖς θηλυκοῖς ὀνόμασιν ἔσθ᾿ ὅτε ἄρθρα ἀρσενικὰ προσάπτουσιν, ὡς ἔχει τὸ τοῦ Σοφοκλέους “οὔτε του σάλπιγγος” καὶ τὼ χεῖρε παρὰ πᾶσι καὶ τοῖν πόλεοιν παῤ Ἰσοκράτει καὶ Θουκυδίδῃ. B. Gu. ἡ δόξα καὶ ἐγγὺς ἐλπίδος ἐστὶν, ἀλλ᾿ οὐκ ἔχει τὸ πλέον, καὶ ὥσπερ προηγούμενόν ἐστι τῆς ἐλπίδος· ἔστι γάρ τι, ἀφ᾿ οὗ τις δοξάζων περὶ αὐτοῦ τὰ βελτίω εἶτα ἐλπίζει. Gu.",
+   "english": "M. Fl. 17. 21. 59. Of help. Fl. 6. Of some supposition. Gr. He ought to have said tēs pros to doxēs, but instead of tēs he says tou in the Attic manner; for these [writers] sometimes attach masculine articles to feminine nouns, as in the [line] of Sophocles \"nor of any (tou) trumpet,\" and tō cheire in all [authors], and toin poleoin in Isocrates and Thucydides. B. Gu. Doxa (expectation) is close to hope (elpis), but does not have the greater part [of it], and is, as it were, antecedent to hope; for there is something from which one, forming an expectation of better things about it, then hopes. Gu.",
+   "notes": "\"tēs pros to doxēs\" seems garbled; the intended phrasing is unclear.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14313",
+   "ref": "3.392.1",
+   "original": "386. ἡμᾶς δ᾿: ἡμᾶς δὲ ἄγητε εἰς τὴν θυσίαν τοῦ Ἀχιλλέως. Fl. 33. ἄγοντες: ἄγω ποτὲ μὲν σημαίνει τὸ ἐνάγω καὶ ἕλκω, οἷον ἄγω σε εἰς δουλείαν, ποτὲ δὲ τὸ διάγω καὶ διατρίβω, ὡς τὸ “ποίας ἡμέρας δοκεῖς μ᾿ ἄγειν” παρὰ Σοφοκλεῖ, ποτὲ δὲ τὸ ἔχω, ὡς τὸ “ἄγει ἡ θάλασσα γαλήνην,” ποτὲ δὲ τὸ τελῶ, ὡς τὸ “ἑορτὴν ἄγει τὸ ἔθνος,” ποτὲ δὲ τὸ ἡγοῦμαι, ὡς τὸ “τοὺς νόμους μεγάλους ἄγω.” B. πρὸς πυράν: πυρὰ τὸ πῦρ τὸ ἐπὶ νεκρῷ ἁπτόμενον, καὶ ὁ τόπος ἐν ᾦ τὸ πῦρ ἅπτεται.",
+   "english": "386. \"but us\": but lead us to the sacrifice of Achilles. Fl. 33. \"leading\": agō sometimes means \"lead in\" and \"drag,\" as in \"I lead you into slavery,\" sometimes \"pass [time]\" and \"spend,\" as in Sophocles, \"what sort of days do you think I am passing,\" sometimes \"have,\" as in \"the sea has calm,\" sometimes \"perform,\" as in \"the nation holds a festival,\" sometimes \"consider,\" as in \"I consider the laws great.\" B. \"to the pyre\": pyra [is] the fire kindled over a corpse, and the place in which the fire is kindled.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14314",
+   "ref": "3.421.2",
+   "original": "διὸ καὶ λέγεται ἀπὸ τούτου ὑμέναιος ἡ ἐπιθαλάμιος ῳδὴ, ἤγουν ἡ ἐπὶ τῷ γάμῳ καὶ τῇ διαρρήξει τούτου τοῦ ὑμένος ᾀδομένη, ἀφʼ οὗ ὕμνος, ὃς ἐπὶ θεοῦ μὲν καὶ θείων ἀνδρῶν ὡς ἐπὶ τὸ πολὺ λέγεται, ἐτάχθη δὲ ὅμως λέγεσθαι καὶ ἐπὶ τῆς ἀπλῶς ὥδῆς, καθὸ λέγουσιν ὑμνοπόλους τοὺς ποιητὰς ἤτοι τοὺς ἀναστρεφομένους περὶ τὴν ὥδὴν ἁπλῶς, ἤγουν τὴν ἐμμελῆ συνθήκην καὶ ἔμμετρον. λέγεται ὕμνος καὶ ἡ φήμη καὶ διαλάλησις, καθὸ λέγεται παρὰ Σοφοκλεῖ τὸ “βαιὰ μὲν, ἀεὶ δʼ ὑμνούμενα.” κατὰ τοῦτο δὴ τὸ τελευταῖον σημαινόμενον λέγεται τὸ “προθέλυμνον ἔπεσε τὸ δένδρον,” ἤγουν οὕτως ἔπεσεν ὡς εἰς φῶς προαχθῆναι καὶ τὸ μέρος ἐκεῖνο αὐτοῦ, διʼ οὗ θέλει τὸ ὄνομα καὶ τὴν μνήμην, τουτέστι τὴν ῥίζαν.",
+   "english": "This is why the wedding song is called *hymenaios* from this [membrane], that is, the song sung at a marriage and at the rupture of this membrane (*hymēn*). From this comes *hymnos* (hymn), which is said for the most part of a god and of divine men, but which was nevertheless also assigned to be used of song in general, in the sense in which they call the poets *hymnopoloi*, that is, those concerned with song in general, namely with melodic and metrical composition. *Hymnos* is also used of report and talk, as in Sophocles' \"few things, but always sung of (*hymnoumena*).\" It is in this last sense that the phrase \"the tree fell *prothelymnon*\" is used, that is, it fell in such a way that even that part of it through which it keeps its name and memory, namely the root, was brought out into the light.",
+   "notes": "\"διʼ οὗ θέλει\" is odd; the sense seems to require something like \"through which it preserves\" (cf. φυλάξει in the following sentence), and it is translated so. The etymologies (hymn from hymen; *prothelymnon* from *hymnos*) are the scholiast's own.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14315",
+   "ref": "3.421.2",
+   "original": "ταύτης γὰρ σωζομένης, εἰ καὶ πᾶν ἐκκοπείη τὸ δένδρον, βλαστήσειεν ἄν τι ἀπʼ αὐτῆς, ὃ φυλάξει τοῦνομα καὶ τὴν μνήμην τοῦ δένδρου. εἰ δʼ ἀπολοιτο αὕτη, καὶ ἡ τοῦ δένδρου πᾶσα ἐλπὶς καὶ μνήμη συναπόλλυται. ὁσάκις δὲ λέγει ὁ Ὅμηρος προθέλυμνον, ὅτι τὸ προβεβλῆσθαι καὶ ῥύεσθαι ἐπισπᾶται ὄνομα καὶ μνήμην. λέγεται καὶ πρόρριζον ἔπεσε τὸ δένδρον ὁμοίως, ἤγουν οὕτως ἔπεσεν ὡς καὶ τὴν ῥίζαν αὐτοῦ ἀνασπασθῆναι καὶ εἰς φῶς προαχθῆναι.",
+   "english": "For while this [root] is preserved, even if the whole tree should be cut down, something would sprout from it that will keep the name and the memory of the tree. But if it should perish, all the tree's hope and memory perish along with it. Whenever Homer says *prothelymnon*, [it is] because being thrust forward and being protected draws after it name and memory. Likewise it is said \"the tree fell *prorrhizon* (roots and all),\" that is, it fell in such a way that even its root was torn up and brought out into the light.",
+   "notes": "The sentence on Homer is obscure and possibly corrupt; the rendering is tentative.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14316",
+   "ref": "3.450.1",
+   "original": "ἀπλῶς λέγει. B. Gr. Fl. 6. 9. 21. 50. 59. 76. ταχείας ναῦς. M. λίμοας: ἴδιόν ἐστι τῆς ποιητικῆς τὸ χρῆσθαι ταῖς λίμναις ἀντὶ θαλασσῶν καὶ ταῖς θαλάσσαις ἀντὶ λιμνῶν. Fl. 17. λίμνην τὴν θάλασσάν φησιν ὁ Ὀμηρος “ ἠέλιος δʼ ἀνόρουσε λιπὼν περικαλλέα λίμνηνλ” M. Fl. 10.",
+   "english": "He says [it] in a general sense. B. Gr. Fl. 6. 9. 21. 50. 59. 76. Swift ships. M. *Limnas* (lakes): it is a feature of poetic diction to use \"lakes\" for \"seas\" and \"seas\" for \"lakes.\" Fl. 17. Homer calls the sea a lake: \"the sun rose, leaving the very beautiful lake.\" M. Fl. 10.",
+   "notes": "λίμοας is a scanning error for λίμνας. The letters and numbers (B., Gr., Fl. 6 etc.) are manuscript sigla.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14317",
+   "ref": "3.451.2",
+   "original": "αὔρα ἡ ἐξ ὑγροῦ ἀναπεμπομένη πνοὴ διὰ τοῦ υ· ἄθρα δὲ ἡ δούλη διὰ τοῦ β. Gr. I. τὸ αὔρα εἰ καὶ ὁ κανὼν βραχύνει, ἀλλ᾿ οὗτος μακρὸν τοῦτο δέχεται, ὡς καὶ τὸ Φαίδρα ἐν ἑτέροις. καὶ Ἀριστοφάνης “αὔρα τις ἐξέπνευσε μυστικωτάτη” λέγων. ἅτις δὲ γράφεται διὰ τὸ μέτρον ἅτε. I. ἥτις. M.",
+   "english": "*Aura* (breeze), the breath sent up from moisture, [is written] with *u*; but *abra*, the maidservant, with *b*. Gr. I. Even though the rule makes *aura* short, this [poet] takes it as long, as [he does] *Phaidra* elsewhere. Aristophanes too, saying \"a most mystic breeze breathed forth.\" *Hatis* is written *hate* because of the metre. I. *Hētis* (which). M.",
+   "notes": "ἄθρα is a scanning error for ἅβρα. The comment on *aura* being long probably concerns its final alpha.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p14318",
+   "ref": "3.451.4",
+   "original": "πορεύσεις: πορεύομαι ἐγὼ καὶ πορεύω ἕτερον, ὡς ἐνταῦθα καὶ παρὰ Πλάτωνι “ᾦ δὴ προστέτακται τοὺς ἐνθένδε ἐκεῖσε πορεῦσαι.᾿ ᾿ B. Gr. Ι. ἤγουν κομίσεις, ἄξεις. Fl. 6. 9. 21. 59. 76. Gu. διαβιβάσεις. Fl. 56. διὰ τὴν πολυαρχίαν τοῦτο ἔφη, διστάσασα ἐν ποίῳ μέρει μέλλει τυχεῖν. Gu.",
+   "english": "*Poreuseis* (you will convey): I travel (*poreuomai*), and I convey (*poreuō*) another, as here and in Plato: \"to whom it has been assigned to convey those from here to there.\" B. Gr. I. That is, you will carry, you will bring. Fl. 6. 9. 21. 59. 76. Gu. You will carry across. Fl. 56. She said this because of the many rulers, being uncertain to which share she is going to fall. Gu.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14319",
+   "ref": "3.458.1",
+   "original": "καὶ Ὅμηρος “Δῆλον δή ποτε τοῖον Ἀπόλλωνος παρὰ βωμῷ φοίνικος νέον ἔρνος ἀπερχόμενον ἐνόησα.ʼ λέγεται δὲ ἡ δάφνη πρῶτον ἐν Δήλῳ γενέσθαι καὶ ὁ φοῖνιξ. M. ἢ εἰς τὴν Δῆλον πορεύσεις. διὰ τὸν Ἀγαμέμνονα καὶ τοῦτο. Gu. καὶ τοῦτο ἴσως διὰ τὸν Ἀγαμέμνονα, ὅν φησιν Ὅμηρος ”\\πολλῇσι νήσοισι καὶ Ἀργει παντὶ ἀνάσσειν.” M. Fl. 10. ἁλιήρει δὲ τῇ ἐν ἁλὶ ἐρεσσομένῃ κώπῃ. M. Fl. 10. ἐν τῇ θαλάσσῃ ἐρεσσομένῃ. Fl. 17. διὰ κώπης ἁλιήρους, ἤγουν ᾖ ἐρέσσουσι κατὰ τὴν θάλασσαν. Fl. 6. 9. 21. 50. 59. 76. Gr. θαλασσίῳ. Gu.",
+   "english": "And Homer: \"In Delos once, beside the altar of Apollo, I saw such a young shoot of a palm springing up.\" It is said that the laurel and the palm first grew on Delos. M. Or, you will convey [me] to Delos. This too [is said] because of Agamemnon. Gu. And this perhaps because of Agamemnon, whom Homer says \"rules over many islands and all Argos.\" M. Fl. 10. *Halierei*: with the oar rowed in the sea. M. Fl. 10. Rowed in the sea. Fl. 17. By the sea-rowing oar, that is, with which they row on the sea. Fl. 6. 9. 21. 50. 59. 76. Gr. Of the sea. Gu.",
+   "notes": "In the Homer quotation ἀπερχόμενον stands for the usual ἀνερχόμενον (springing up); translated in that sense.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14320",
+   "ref": "3.563.1",
+   "original": "ἔρρηξε λαγόνος: ἀντὶ τοῦ διέσχισε τὰ ἱμάτια κατὰ τὸ πλησιάζον μέρος ταῖς λαγόσι καὶ τῷ ὀφθαλμῷ. A. λαγόνος: ἤγουν τῶν λαγόνων. Fl. 6. 9. 21. 57. 59. 76. μέχρι μέσης τῆς λαγόνος. Fl. 17. εἰς μέσον: τὸ εἰς ἀντὶ τοῦ ἕως, ὡς καὶ παρὰ Δημοσθένει “τούτῳ φιλανθρώπως ἐχρώμην εἰς τήνδε τὴν ἡμέρανʼ ἀντὶ τοῦ, μέχρι τῆσδε τῆς ἡμέρας. λάμβανε δὲ τοῦτο τὸ εἰς καὶ πρὸς τὸ λαγόνας κατὰ συνεκδοχήν. Gu. I. παρʼ ὀμφαλόν: τὸ ἑξῆς εἰς λαγόνας. Fl. 21.",
+   "english": "*Errhēxe lagonos*: instead of \"she tore apart her garments at the part next to the flanks and the eye.\" A. *Lagonos*: that is, of the flanks. Fl. 6. 9. 21. 57. 59. 76. As far as the middle of the flank. Fl. 17. *Eis meson*: *eis* instead of \"until,\" as also in Demosthenes: \"I treated this man kindly *eis* this day,\" instead of \"up to this day.\" Take this *eis* also with *lagonas* by synecdoche. Gu. I. *Par' omphalon* (by the navel): the order is \"to the flanks.\" Fl. 21.",
+   "notes": "\"and the eye\" (τῷ ὀφθαλμῷ) is strange and probably corrupt; perhaps for ὀμφαλῷ (navel), which fits the context.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p03258",
+   "ref": "3.580.1",
+   "original": "φύλλοις ἔβαλλον: οἱονεὶ στεφάνων τύπους ποιοῦντες διὰ φύλλων παρετίθουν εἰς αὐτήν. Ἄλλως. τιμῶντες αὐτὴν διὰ τὸ εὐθαρσὲς καὶ εὔψυχον οἱ Ἕλληνες φύλλοις καὶ ἄνθεσιν ἔβαλλον. φυλλοβολεῖται δὲ ἡ Πολυξένη ὅσπερ ἐν ἀγῶνι νικήσασα. Ἄλλως. τοῦτο παρὰ τοὺς χρόνους. Ἐρατοσθένης γὰρ περὶ τῆς φυλλοβολίας φησὶν ὡς πάλαι χωρὶς ἄθλων ἀγωνιζομένων ἀνθρώπων, τῷ νικήσαντι καθάπερ ἔρανον εἰσφέροντες ἔρριπτον τῶν θεατῶν ὅπως ἕκαστος ηὐπόπει. διὸ δὴ σύνηθες ἐγίνετο κύκλῳ περιπορευόμενον ἐπαγείρειν καὶ λαμβάνειν τὸ διδόμενον.",
+   "english": "\"they pelted [her] with leaves\": as if making the shapes of garlands, they set [them] beside her by means of leaves. Otherwise: honouring her for her boldness and courage, the Greeks pelted her with leaves and flowers. Polyxena is showered with leaves like one who has won in a contest. Otherwise: this is anachronistic. For Eratosthenes, on the showering with leaves, says that long ago, when people competed without prizes, the spectators, contributing to the victor as if to a common collection, threw whatever each could provide. For this reason it became customary [for the victor], going round in a circle, to collect and take what was given.",
+   "notes": "ηὐπόπει is unclear (perhaps for εὐπόρει, 'had to hand'); translated in that sense.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p14321",
+   "ref": "3.588.1",
+   "original": "οἱ δὲ γραμματικοὶ γράφουσι τοῦτο μικρὸν κατὰ τὸν λόγον ὅτι τὸ κ καὶ τὸ ν ἐκτείνουσι τὸ τε· τὰ γὰρ διὰ τοῦ ώτερος καὶ ώτατος, εἰ μὲν ἔχουσι τὴν πρὸ τοῦ ω συλλαβὴν βραχεῖαν, διὰ τοῦ ω μεγάλου γράφουσιν, εἰ δὲ μικρὸν, διὰ τοῦ ο μικροῦ, χωρὶς τοῦ ξενότατος καὶ στενότατος, ἄτινα ὁ Ὅμηρος γράφει μικρὰ κἀκεῖνος διὰ τὴν τοῦ μέτρου ἀνάγκην, ἐπεὶ, εἰ ἦν μέγα τὸ νω, ὤφειλεν ἐκτείνεσθαι καὶ ἡ πρὸ τῆς διπλοῦ συλλαβὴ, καὶ ἐγένετο ἀμφίμακρος, ὡς πρὸ τῆς διπλοῦ συλλαβῆς μακρᾶς οὔσης, τῆς δὲ ξε βραχείας καὶ τῆς νω μακρᾶς.",
+   "english": "But the grammarians write this with small [omicron] according to the rule, because the *k* and the *n* lengthen the *te*. For words in *-ōteros* and *-ōtatos*, if they have the syllable before the *ō* short, they write with big *ō*; but if [it is] long, with small *o*; except *xenotatos* and *stenotatos*, which Homer writes with small [omicron], he too because of the constraint of metre; since, if the *nō* were long, the syllable before the double [consonant] would also have to be lengthened, and it would become an amphimacer, the syllable before the double [consonant] being long, *xe* short, and *nō* long.",
+   "notes": "\"εἰ δὲ μικρὸν\" literally \"if small\", but the rule requires \"long\"; translated by sense. The metrical argument is confused in the text (\"double\" may refer to the consonant cluster or to an original *xeinos/steinos*).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14322",
+   "ref": "3.680.1",
+   "original": "οἲ ἐγώ: φεῦ, τάλαινά εἰμι ἐγώ. ἄρα φέρεις δεῦρο τὸ βακχευτικὸν κάρα τῆς μάντεως Κασάνδρας; I. βακχεῖον κάρα τῆς Κασάνδρας λέγει τὸ μανικὸν, ὡς μαντικῆς· οἱ γὰρ μάντεις θείᾳ μανίᾳ κατεχόμενοι μαντεύονται. φησὶ γὰρ Πλάτων ἐν Γοργίᾳ ὡς ἡ μαντικὴ μανικὴ οὖσα πρῶτον, προστεθέντος τοῦ τ, μαντικὴ γέγονεν. Gu. I.",
+   "english": "*Oi egō*: alas, wretched am I. Are you bringing here the Bacchic head of the prophetess Cassandra? I. He calls Cassandra's head *baccheion*, meaning frenzied, as [being] prophetic; for prophets prophesy possessed by divine madness. For Plato says in the Gorgias that the prophetic art (*mantikē*), being at first the mad art (*manikē*), became *mantikē* when the *t* was added. Gu. I.",
+   "notes": "The etymology is from Plato's Phaedrus, not the Gorgias; the scholiast's attribution is kept.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14323",
+   "ref": "3.682.2",
+   "original": "λέλακας: ἀντὶ τοῦ εἶπας ἢ θρηνεῖς. B. εἴρηκας. Gr. τὸ λέλακας ἐπὶ ὄρνιθος μόνον λαμβάνεται, ὡς καὶ Ἡσίοδός φησι δαιμονίη, τί λέληκας:” περὶ αἠδόνος λέγων. ὁ δὲ παρὼν τραγῳδὸς καὶ ἐπὶ τοῦ ἀνθρώπου ἐδέξατο τοῦτο. A. Gu.",
+   "english": "*Lelakas*: instead of \"you said\" or \"you lament.\" B. You have spoken. Gr. *Lelakas* is used only of a bird, as Hesiod too says, \"Strange creature, why have you screamed?\", speaking about the nightingale. But the present tragedian used it also of a human. A. Gu.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14324",
+   "ref": "3.688.1",
+   "original": "685. κατάρχομαι: εὕρηται τὸ ἄρχω καὶ παρὰ Πινδάρῳ αἰτιατικῇ “ἄρχε δὲ οὐρανῶ πολυνεφέλα κρέοντι,(θύγατερ, δόκιμον ὕμνον.” εὕρηται δὲ καὶ ἔν τινι τῶν παλαιῶν οὕτως. l. ἀρχὴν ποιοῦμαι. Gu. νόμων: μελῶν. Gr. νόμος γὰρ τοῖς μαινομένοις θρηνεῖν. Gu.",
+   "english": "685. \"I begin\": the verb \"begin\" is also found in Pindar with the accusative: \"Begin, daughter, an approved hymn for the ruler of the cloudy heaven.\" It is also found this way in one of the ancients. Or: \"I make a beginning.\" Gu. \"Strains\": songs. Gr. For it is the custom for the mad to lament. Gu.",
+   "notes": "The Pindar quotation is garbled in the scholium (the dative οὐρανῷ sits oddly with the claim of an accusative construction); the quoted words are rendered as they stand. The sigla (Gu., Gr., l. etc.) are manuscript or scholiast labels and are kept as printed.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14325",
+   "ref": "3.689.3",
+   "original": "ἢ ἀπὸ τοῦ ἀλῶ τὸ πλανῶμαι· ὁ γὰρ φονεύσας τινὰ κατὰ τὴν παλαιὰν συνήθειαν ἐξήρχετο τοῦ τόπου αὐτοῦ, καὶ περιπατῶν κατὰ τόπους ἐπλανᾶτο ἔνθεν κἀκεῖθεν, ζητῶν τὴν ἴασιν τοῦ φόνου οὗ ἔπραξεν, ἕως οὗ ἔζη. μαρτυρεῖ δὲ τοῦτο καὶ Ὅμηρος, εἰς τὸν Βελλεροφῶντα πλανώμενον λέγων “ἤτοι ὁ καππεδίου τοῦ Ἀληΐου οἶος ἀλᾶτο,” ἤγουν μόνος. Ἀλήϊον δὲ ἀκὸ τοῦ ἀλῶ τὸ πλανῶμαι. Fl. 59. ἀλάστωρ ἀπὸ τοῦ α στερητικοῦ μορίου καὶ τοῦ λήθη, ὁ διάβολος, ἀπὸ τοῦ ἀλῶ τὸ πλανῶ, καὶ ὁ φθορεὺς ἀπὸ τοῦ ἁλίσκω.",
+   "english": "Or [it comes] from alō, \"I wander\". For by ancient custom the one who had killed someone went out from his own place, and walking from place to place he wandered here and there, seeking cleansing for the killing he had done, as long as he lived. Homer also bears witness to this, saying of Bellerophon as he wandered: \"indeed he wandered alone over the Aleian plain\", that is, \"by himself\". And \"Aleian\" [comes] from alō, \"I wander\". Fl. 59. Alastōr [comes] from the privative particle a and lēthē (\"forgetting\"); [it means] the devil, from alō, \"I lead astray\"; and the destroyer, from haliskō.",
+   "notes": "ἀκὸ read as ἀπὸ (scanning error). The derivation from ἁλίσκω (\"be taken, be caught\") is given as a gloss on \"destroyer\"; the sense is unclear. ἴασιν literally \"cure, healing\", here taken as cleansing of blood-guilt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14326",
+   "ref": "3.757.1",
+   "original": "οὐ τῶν θανόντων: οὐκ ἔστιν ἀπὸ τῶν υἱῶν τοῦ Πριάμου τῶν θανόντων ἐν Ἰλίῳ. I. οὐ: λείπει τὸ ναί. Fl. 33. ὑπʼ Ἰλίῳ: ἐντὸς τῆς Ἰλίου. ἡ ὑπό δηλοῖ τὸ κάτω, οἷον ὑπὸ τὸ δένδρον. δηλοῖ δὲ καὶ τὸ ἐντὸς, ὡς ἐνταῦθα καὶ παρὰ Θουκυδίδῃ “ὑπὸ νύκτα ἔφυγον οἱ πολέμιοι.” Gr. ὑπὸ μετὰ δοτικῆς κατὰ Ἀττικούς· κατὰ δὲ κοινοὺς γενικῇ καὶ αἰτιατικῇ. Gu.",
+   "english": "\"Not of those who died\": he is not one of the sons of Priam who died at Ilium. I. \"Not\": \"yes\" is understood. Fl. 33. \"Hupo Iliōi\": within Ilium. The [preposition] hupo signifies \"below\", as in \"under the tree\". But it also signifies \"within\", as here and in Thucydides: \"within the night the enemy fled.\" Gr. Hupo [is used] with the dative among the Attic writers, but in common usage with the genitive and the accusative. Gu.",
+   "notes": "The \"Thucydides\" phrase (ὑπὸ νύκτα) means \"at nightfall / during the night\"; the attribution is the scholiast's. The note \"yes is understood\" implies the line is read as a question expecting assent.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14327",
+   "ref": "3.813.1",
+   "original": "819. ἅ: εἰς ἅτινα. Gr. ὡς τὸ “ἦ ῥά μοι πείθοιο ὅττι κεν εἴπω” παῤ Ὁμήρῳ μετὰ αἰτιατικῆς. πείθει χρυσὸς, δάκρυα, κάλλος καὶ λόγος. Gu. βούλοιτο: πείθειν δηλονότι, Gr. θέλοι, ἐλπίσειεν. Gu. τυγχάνειν: ὧν χρείαν ἔχει. Gr. βούλοιτο. Gu.",
+   "english": "819. \"Which\": for \"to which things\". Gr. As in Homer, \"will you then obey me in whatever I say\", with the accusative. Gold, tears, beauty and speech persuade. Gu. \"Should wish\": to persuade, that is. Gr. Should want, should hope. Gu. \"To obtain\": the things of which he has need. Gr. Should wish. Gu.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14328",
+   "ref": "3.828.1",
+   "original": "832. φίλτρων: φίλτρον ἡ ἀγάπη, ὡς ἐνταῦθα. καὶ τὸ εἰς φιλίαν ἑνοῦν, ὡς παρὰ Θεοκρίτῳ “πᾶ μοι τὰ φίλτρα τʼ οὕτω λέγεται καὶ λύτρον ἡ ἐλευθερία, καὶ λύτρον ὃ δίδωσί τις ἐλευθερῶν τινά. Gr. μεγίστη: πολλαὶ γὰρ δωρεαὶ γίνονται πρὸς τὸ μέρος τῆς γυναικὸς, ὅτε ὁ ἀνὴρ εἰς συνουσίαν αὐτῆς ἔλθῃ καὶ εἰς γυναῖκα ἄξεῖ.",
+   "english": "832. \"Love-charms\": philtron [means] love, as here; and also that which unites into friendship, as in Theocritus: \"Where are my love-charms?\" ... And so lutron is said of freedom, and lutron [also of] what someone gives when freeing someone. Gr. \"Greatest\": for many gifts are made to the woman's side when the husband comes into intercourse with her and takes her as wife.",
+   "notes": "The Theocritus quotation breaks off and the text runs straight into another gloss (on lutron); something has evidently dropped out. ἄξεῖ read as ἄξει.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14329",
+   "ref": "3.834.1",
+   "original": "838. Δαιδάλου τέχναισι: περὶ τῶν Δαιδάλου ἔργων ὅτι ἐκινεῖτο καὶ προίει φωνὴν αὐτός τε ὁ Εὐριπίδης ἐν Εὐρυσθεῖ λέγει, οὐκ ἔστιν, ὦ γεραιὲ, μὴ δείσῃς τάδε·τὰ Δαιδάλεια πάντα κινεῖσθαι δοκεῖ βλέπειν τʼ ἀγάλμαθʼ ὁδʼ ἀνὴρ κεῖνος σοφός. καὶ Κρατῖνος ἐν Θράτταις “Πανὶ κακὸν δεῦρο μαστεύων τινὰ ποτὲ χαλκοῦν ἢ ξύλινον καὶ χρύσεον προσῆν, οὐδαμῶς ξύλινος ἐκεῖνος, ἀλλὰ χαλκοῦς ὢν ἀπέδρα.",
+   "english": "838. \"By the arts of Daedalus\": concerning the works of Daedalus, that they moved and gave out a voice, Euripides himself says in the Eurystheus: \"It is not [so], old man, do not fear these things; all Daedalus' statues seem to move and to see; that man was clever.\" And Cratinus in the Thracian Women: \"To Pan ... once seeking here a bad one, bronze or wooden, and gold was attached; that one was by no means wooden, but being bronze, he ran away.",
+   "notes": "The Euripides fragment is somewhat garbled in the transmitted text (ὁδʼ ἀνὴρ κεῖνος). The Cratinus fragment is badly corrupt and barely construable; the rendering is tentative.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14330",
+   "ref": "3.918.1",
+   "original": "σκοπιάν: ἤγουν τὴν ἀκρόπολιν. M. Gr. ἢ τὴν ὑψηλὴν Τροίαν. ἀπὸ μέρους τὸ ὅλον. Gu. σκοπιὰ λέγεται ὁ ὑψηλὸς τόπος, εἰς ὃν ἱστάμενοι ἀποσκοπεύουσι περί τινων. Gr. Ἰλιάδα σκοπιὰν λέγει ἢ τὴν ἀκρόπολιν, ἢ, ὡς τῷ Ὁμήρῳ δοκεῖ, ἐπὶ ὑψηλοῦ τινος τόπου ἔκειτο τὸ κάστρον, καθὼς αὐτὸ τοῦτο δηλοῖ. σκοπιὰ δὲ λέγεται ται ὁ ὑψηλὸς τόπος, ἐν ἀνελθών τις σκοπεῖ τὰ κάτω. (ἐν ἡ ἵσταταί τις ἰδεῖν μακράν. Fl. 17.) Fl. 59.",
+   "english": "\"Lookout\": that is, the acropolis. M. Gr. Or lofty Troy: the whole [named] from the part. Gu. A \"lookout\" is the name for a high place, standing on which people keep watch for things. Gr. He calls it the Ilian lookout, either [meaning] the acropolis, or, as Homer thinks, the citadel lay on some high place, as this very [word] shows. A \"lookout\" is the name for a high place, having gone up onto which one surveys the things below. (On which one stands to see far off. Fl. 17.) Fl. 59.",
+   "notes": "Doubled ται and ἐν for ἐφʼ ὃν are scanning or transmission slips.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p03259",
+   "ref": "3.919.1",
+   "original": "Gr. τὴν στρωμνήν. Fl. 59. φίλια τὰ προσφιλῆ. B. M. μονόπεπλος: αἱ Λακεδαιμόνιαι γυναῖκες ἐν τοῖς ἀγῶσι μονοχίτωνες ἦσαν, πόρπας ἐφʼ ἑκατέρου τῶν ὤμων ἔχουσαι· ὅθεν καὶ δωριάζειν τὸ γυμνοῦσθαι Ἀνακρέων φησί. Gu. I.",
+   "english": "Gr. The bedding. Fl. 59. \"Dear things\": things beloved. B. M. \"Wearing a single robe\": Spartan women in contests wore a single tunic, having brooches on each of their shoulders; whence Anacreon too says \"to Dorianize\" for stripping bare. Gu. I.",
+   "notes": "The unit is a fragmentary run of glosses with manuscript sigla (Gr., Fl., B., M., Gu., I.).",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p14331",
+   "ref": "3.955.1",
+   "original": "970. ὤφθην: ᾦτινι γὰρ ὤφθην εὐτυχοῦσα. M. ἐφάνην. B. Gu. ἐθεάθην. Gu. εὐτυχοῦσʼ : ἐξεθλίβη τὸ α καὶ τὸ ν, ὡς καὶ παρʼ Ὁμήρῳ “βούλομʼ ἐγῶ λαόν,” καὶ ὡς τὸ “ἔωθʼ ὅδε” ἀντὶ τοῦ ἔστιν ὅδε· πολλὰ γὰρ εὑρίσκονται ἐκθλιβόμενα στοιχεῖα. εἰ δὲ συντάξεις τοῦτο τυγχάνουσα εὐθεῖαν, σολοικοφανές ἐστι, καὶ ἀσυντακτικὸν παντελῶς. Fl.",
+   "english": "970. \"I was seen\": for [by the man] by whom I was seen prospering. M. I appeared. B. Gu. I was beheld. Gu. \"Prospering\": the a and the n have been elided, as also in Homer, \"I wish the people\", and as \"heōth' hode\" for \"this one is\". For many letters are found elided. But if you construe this, \"being\", as a nominative, it looks like a solecism and is altogether ungrammatical. Fl.",
+   "notes": "The examples of elision are obscure; ἔωθʼ ὅδε for ἔστιν ὅδε is unexplained and possibly corrupt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14332",
+   "ref": "3.1030.1",
+   "original": "κατʼ ἴχνος: ἴχνος ὁ τύπος τοῦ ποδὸς, καὶ ἀπὸ τούτου ὁ πούς. ἀφʼ οὗ πάλιν ἴχνος ἡ πορεία, ἐπεὶ διὰ τῶν ποδῶν ἡ πορεία γίνεται. λέγεται τὸ ἴχνος κατὰ μεταφορὰν ἀπὸ τῶν ποδῶν καὶ ἐπʼ ἄλλων, οἷον ἴχνη χειρῶν καὶ ἴχνος ἀνθρώπου, καὶ ἴχνος παλαιᾶς αἰτίας παρὰ Σοφοκλεῖ, καὶ ἴχνη ἀγαλμάτων, καὶ ἁπλῶς ἐπὶ πάντων τῶν ἀμυδρῶς καὶ ἐν τύπῳ φαινομένων. Gr. I.",
+   "english": "\"On the track\": ichnos is the print of the foot, and from this the foot [itself]. From which again ichnos [means] the journey, since a journey is made by means of the feet. Ichnos is also used metaphorically, from feet, of other things, such as traces of hands and the trace of a man, and \"the trace of an old charge\" in Sophocles, and traces of statues, and in general of all things that appear faintly and in outline. Gr. I.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14333",
+   "ref": "3.1045.3",
+   "original": "λύμας: καθάρματος, φθορᾶς. B. ἀπωλείας. Fl. 10. βλάβης. Gu. ἀντίποινʼ : ἀντέκτισιν. Gr. ἀντίδικα. Gu. ἡ ἀντί ἢ τὸ ἴσον δηλοῖ, οἷον ἀντίθεος, ὡς παρʼ Ὁμήρῳ, ἢ τὸ ἐναντίον, οἷον ἀντίσταίης, ἢ ἀναπλήρωσιν, οἷον ἀντὶ παιδὸς ἔχω τὸν δεῖνα. Gr.",
+   "english": "\"Outrage\": of filth, of ruin. B. Of destruction. Fl. 10. Of harm. Gu. \"Requital\": repayment. Gr. Retribution. Gu. [The prefix] anti signifies either equality, as antitheos (\"godlike\") in Homer; or opposition, as antistaiēs (\"you would stand against\"); or replacement, as \"I have so-and-so in place of a child\". Gr.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14334",
+   "ref": "3.1067.1",
+   "original": "λέγεται γὰρ ὅτι οἱ θεοὶ οὐρήσαντες ἐπάνωθεν βοὸς δέρματος, ἐξέφυσεν αὐτὸς, καὶ ὡς ἀπὸ τοῦ οὔρου ἐκλήθη Ὠρίων· διὸ καὶ ψιλοῦται Ὠρίων. λέγεται τὸ παρὰ τοῖς κοινοῖς λεγόμενον ἀροτρόπουν, συγκείμενον ἀπὸ ἄστρων ἑπτά. Σείριος δὲ λέγεται ὁ κύων Ι. Σείριος: ὁ μὲν Ἡσίοδος Σείριον τὸν Ἥλιόν φησιν, οὕτος δὲ Σείριον ὀνομάζει ἀκολούθως καὶ ὁμοίως Ὁμήρῳ τὸν ὑπὸ τὸ γένειον τοῦ κυνὸς ἀστέρα, ἕτερον ὄντα ἀστέρα. ὅλον δὲ τὸ ἄστρον κύων λέγεται, ὅπερ ἐκ πολλῶν ἀστέρων σύγκειται. ὁ δὲ ὑπὸ τὸ γένειον τοῦ κυνὸς ἀστὴρ Σείριος λέγεται. A. Fl. 10. 33. ἐπὶ τούτῳ δὲ, φησὶ Πολυμήστωρ, τὸν ἀστέρα ἀνέλθω ἀναπετασθεὶς ἢ εἰς τὸν αἰθέρα τοιαῦτα δὲ οἱ δυσανασχετοῦντες καὶ μὴ δυνάμενοι ὑπὸ ἐν θλίψεσι φθέγγονται.",
+   "english": "For it is said that when the gods urinated on top of an ox-hide, he grew out of it, and he was called Orion as if from \"urine\" (ouron); for this reason Orion is also written with smooth breathing. [The constellation] is the one commonly called the \"plough-foot,\" made up of seven stars. And the dog is called Sirius. Sirius: Hesiod calls the Sun Sirius, but this [poet], following and in agreement with Homer, gives the name Sirius to the star under the dog's jaw, which is a different star. The whole constellation, which is made up of many stars, is called the Dog; but the star under the dog's jaw is called Sirius. Polymestor says: \"Shall I go up to this star, flying aloft, or into the upper air?\" Such things are what people utter who cannot bear [their suffering] and are helpless in their afflictions.",
+   "notes": "\"ἀροτρόπουν\" (plough-foot) is an unusual popular name; sense uncertain. \"ὑπὸ ἐν θλίψεσι\" seems corrupt; rendered as \"in afflictions\". Manuscript sigla (I., A., Fl. 10, etc.) omitted.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14335",
+   "ref": "3.1109.1",
+   "original": "εἰ δὲ στολίσματος, τοῦ ἱματίου λέγει, οὐκέτι δὲ ὅλως γράφεται τὸ “ἄλλαι δὲ κάμακα Θρῃκίαν θεώμεναι,” ἀλλὰ πρὸς τὸ “ᾔνουν θʼ ὑπʼ αὐγάς” τὸ “γυμνόν μʼ ἔθηκαν διπτύχου στολίσματος,” ἵνα λείπῃ ὁ καί ἀντὶ τοῦ καὶ γυμνόν. A.M. Fl. 21. καὶ ἄλλως. διπτύχου στολίσματος: ἢ διπτύχου στολίσματός φησι τῆς χλανίδος καὶ τοῦ ἀκοντίου, παρ᾿ ὅσον καὶ αὐτὸ πρὸς ἄμυναν καὶ φυλακὴν τοῦ σώματος ἐβάσταζεν. Ὅμηρος “δώσω δʼ ὀξὺν ἄκοντα κυνῶν ἀλκτῆρα καὶ ἀνδρῶν.” Ἄλλως. ἐπὶ μὲν τοῦ δόρατος διστόμου, ἐπὶ δὲ τῆς χλανίδος λεπτῆς, ἢ ὅ φησιν Ὅμηρος δίπλακα. B. διπτύχου δὲ τινὲς τῆς διπαλτίας, ἀλλ᾿ οὐκ ἐᾷ τὸ κάμακα ἑνικόν. A.B.M. Fl. 21. Καὶ ἄλλως. στολίσματος: καὶ ἀλλαχοῦ “οὐκ ἀγκυλωτοῖς Θεσσαλῶν στοχίσμασιν.” ἐὰν δὲ στοχίσματα, λείπει ὁ καί, καὶ ἡ σύνταξις πρὸς τὸ “ᾔνουν θʼ ὑπʼ αὐγάς.” M.",
+   "english": "But if [it is] \"of the garment\" (stolisma), he means the cloak, and then the line \"and others, gazing at the Thracian shaft\" is no longer written at all; instead \"they stripped me bare of my double garment\" is [taken] with \"and they praised [it] under the light,\" so that \"and\" is lacking, in place of \"and bare.\" Otherwise: \"of the double garment\": or he calls the \"double garment\" the cloak and the javelin, inasmuch as he carried that too for defence and protection of the body. Homer: \"I will give a sharp javelin, a defence against dogs and men.\" Otherwise: [\"double\"] applied to the spear [means] double-pointed, applied to the cloak [means] fine, or what Homer calls \"doubled\" (diplax). Some take \"double\" as the pair of javelins, but the singular \"shaft\" does not allow this. Otherwise: \"of the garment\": and elsewhere [we find] \"not with the curved Thessalian spears (stochismata).\" If [the reading is] \"spears,\" \"and\" is lacking, and the construction goes with \"and they praised [it] under the light.\"",
+   "notes": "The scholia turn on the variant readings στολίσματος (garment) and στοχίσματος (spear/missile). Manuscript sigla omitted.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14336",
+   "ref": "3.1140.1",
+   "original": "1186. εἰς ἀριθμόν: εἰς τὸν κατάλογον. B. Gr. τάξιν. Gu. αἱ δὲ καταταττόμεθα μὴ οὖσαι φαῦλαι εἰς ἀριθμὸν τῶν φαύλων. M. πεφύκαμεν: ὑπάρχομεν, ἐσμέν. Fl. 59. λέγουσιν ἐνταῦθα ὅτι ὁ Εὐριπίδης ὑβρίζει τὰς γυναῖκας, τῷ φαινομένῳ μὲν διὰ τοῦ Πολυ- μήστορος· καὶ ἐκείνου γὰρ ἡ γυνὴ ἐμοιχεύθη· καὶ εὑρὼν ἀρτίως ἀφορμὴν λέγει. Fl. 59.",
+   "english": "1186. \"in the number\": in the list; [or] rank. We who are not base are counted in the number of the base. \"we are by nature\": we exist, we are. They say here that Euripides insults women, ostensibly through Polymestor; for his own wife had also committed adultery, and having just found an occasion he speaks [of it].",
+   "notes": "\"Πολυ- μήστορος\" is a split word, read as Polymestor. Manuscript sigla omitted. \"His own wife\" presumably refers to Euripides' wife.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14337",
+   "ref": "3.1141.1",
+   "original": "σοφοὶ μὲν οὖν ὑπάρχουσιν οἱ τάδε ἀκριβῶς μεμαθηκότες ῥήτορες, οἱ δυνάμενοι τὸ δίκαιον σοφίσασθαι ἐν ῥητορικῇ, ἀλλʼ οὐ δύνανται μέχρι τέλους ὑπάρχειν σοφοὶ, ὡς τῆς ἀληθείας ἐν ὑστέρῳ φαινομένης. (ὡς καὶ Ἡσίοδός φησι “δίκη δʼ ὑπὲρ ὕβριος ἴσχει, ἐς τέλος ἐξελθοῦσα .”) κακῶς δὲ διεφθάρησαν, καὶ οὔπω οὐδεὶς ἐς τόδε ἐξέφυγε. Ι.",
+   "english": "So the orators who have learned these things precisely are clever, those able to make the just [cause] a matter of sophistry in rhetoric; but they cannot remain clever to the end, since the truth comes to light afterwards. (As Hesiod also says: \"Justice prevails over insolence when it comes out at the end.\") And they have perished miserably, and no one has yet escaped up to now.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14338",
+   "ref": "3.1171.1",
+   "original": "ἐπελάθετο οὖν ὁ ποιητὴς ἑαυτοῦ, καὶ ἔστιν ἀκατασκεύαστα ταῦτα. A.B.I. ἰστέον ὅτι ἐνταῦθα ἡ Ἑκάβη διαβάλλει τὸν Πολυμήστορα· οὐ γὰρ ἐμνημόνευσεν οὗτος τούτου, ὅτε περὶ τοῦ πῶς ἀπέκτεινε Πολύδωρον ἀπελογεῖτο. εὕρῃς δὲ καὶ ἕτερα τοιαῦτα παρά τε Σοφοκλεῖ καὶ τοῖς ἄλλοις. μὴ λάβῃς δὲ εἰς τὸ τοῦδε χάριν ἔξωθεν, ἀλλʼ ὥσπερ φαμὲν τὸ τοὺς εὐεργέτας ἀμείβεσθαι ἀρίστου ἀνδρὸς ἔχομεν, οὕτω κἀνταῦθα νοεῖν δὲῖ. εἰ δὲ μὴ τὸ τοῦδε διὰ τὸν Ἀγαμέμνονα νοήσεις, ὡς ἅπαντες λέγουσιν, ἀλλὰ διὰ τὸν Πολύδωρον, οὐκ ἂν δόξη ἡ Ἑκάβη διαβάλλουσα·",
+   "english": "So the poet forgot himself, and these things are not properly prepared for. One should know that here Hecuba slanders Polymestor; for he did not mention this when he was defending himself about how he killed Polydorus. You may find other such things in Sophocles and the other [poets]. Do not take \"for this man's sake\" [as said] from outside; rather, just as we say that repaying benefactors belongs to the best man, so one must understand it here too. And if you understand \"this man's\" not as referring to Agamemnon, as everyone says, but to Polydorus, Hecuba would not seem to be slandering.",
+   "notes": "The passage is elliptical; the reading of \"μὴ λάβῃς δὲ εἰς τὸ τοῦδε χάριν ἔξωθεν\" is uncertain.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14339",
+   "ref": "3.1190.2",
+   "original": "ἀχθεινά: ἀχθεινὸν, βαρὺ ὑπάρχει. Gr. φορτικὰ, φορτικόν. Gu. ἄχθος ποιοῦντα. Fl. 10. τὰ ἀχθεινὰ ἀντὶ τοῦ ἀχθεινὸν, τὸ πληθυντικὸν ἀντὶ ἑνικοῦ, ὡς καὶ παρʼ Ὁμήρῳ τὸ φίλα ἀντὶ τοῦ φίλον, ὡς τὸ “αἰεί τοι τὰ κάκʼ ἐστὶ φίλον φρεσὶ μαντεύεσθαι.” Fl. 59. κακά: ἁμαρτήματα. Gu.",
+   "english": "\"grievous things\": it is grievous, heavy; burdensome [things], burdensome; causing a burden. \"Grievous things\" in place of \"grievous,\" the plural instead of the singular, as also in Homer \"dear things\" in place of \"dear,\" as in \"always it is dear to your heart to prophesy evil things.\" \"evils\": wrongdoings.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14340",
+   "ref": "3.1215.1",
+   "original": "ἢ ἐν τῇ Θρᾴκῃ Διονύσου μαντεῖον ἦν, ἢ ἀνήρ τις ἦν ἐν Θρᾴκῃ μάντις Διόνυσος καλούμενος. Gu. I. Διόνυσος: οἱ μὲν περὶ. τὸ Πάγγαιον εἶναι τὸ μαντεῖόν φασι τοῦ Διονύσου, οἱ δὲ περὶ τὸν Αἷμον, οὗ εἰσι καὶ Ὀρφέως ἐν σανίσιν ἀναγραφαὶ, περὶ ὧν φησιν ἐν Ἀλκήστιδι “οὐδέ τι φάρμακον Θρῄσσαις ἐν σανίσιν, τὰς Ὀρφεία κατέγραψε γῆρυς.” ὅτι δὲ καὶ Διόνυσος μάντις καὶ ἐν Βάκχαις φησὶ “μάντις δʼ ὁ δαίμων ὅδε· τὸ γὰρ βακχεύσιμον καὶ τὸ μανιῶδες μαντικὴν πολλὴν ἔχει.” A.B.M.I.",
+   "english": "Either there was an oracle of Dionysus in Thrace, or there was a man in Thrace, a seer, called Dionysus. Dionysus: some say that the oracle of Dionysus is near Pangaeus, others near Haemus, where there are also writings of Orpheus on tablets, about which he says in the Alcestis: \"nor any remedy on the Thracian tablets, which the voice of Orpheus inscribed.\" And that Dionysus is also a seer he says in the Bacchae too: \"This god is a prophet; for Bacchic frenzy and madness hold much prophetic power.\"",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14341",
+   "ref": "3.1218.1",
+   "original": "Gu. I. ἐπειδήπερ εἶπεν ὁ Πολυμήστωρ γενήσεσθαι αὐτὴν κύνα, διαπορεῖ καὶ ἐρωτᾷ αὐτόν· τί λέγεις; θανοῦσα γενήσομαι κύων, ἢ ζῶσα μεταβληθήσομαι εἰς τὴν κυνὸς μορφήν; ὃ καὶ λύει οὗτος λέγων, θανοῦσα. ἔφη καὶ Πυθαγόρας, καὶ μετʼ ἐκεῖνον Πλάτων, ὡς αἱ τῶν ἀθλίως βεβιωκότων ψυχαὶ ἀποθανόντων εἰς ἄλογα ζῶα εἰσέρχονται καὶ λίθους καὶ ξύλα καὶ φυτὰ, ἵνα ἐν τῇ πρὸς ταῦτα διατριβῇ δίκην ὑποσχοῦσαι πρέπουσαν ὧν ἥμαρτον εἰς τὴν ἀρχαίαν ἐπανέλθοιεν τάξιν.",
+   "english": "Since Polymestor said that she would become a dog, she is at a loss and asks him: what do you mean? Will I become a dog after dying, or will I be changed into the shape of a dog while alive? He resolves this by saying, \"after dying.\" Pythagoras said, and Plato after him, that the souls of those who have lived wretchedly enter, after they die, into irrational animals, and stones, and wood, and plants, so that, having paid fitting penalty for their sins during their sojourn in these, they may return to their original rank.",
+   "notes": "Initial sigla \"Gu. I.\" omitted.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p14342",
+   "ref": "3.1227.1",
+   "original": "1279. καὐτόν σε τοῦτον: πρὸς τὸν Ἀγαμέμνονα ὁ λόγος ἀντὶ τοῦ, σὲ ὦ Ἀγάμεμνον. M. καὶ τοῦτον δὲ τὸν Ἀγαμέμνονα κτενεῖ, ἐξάρασα πέλεκυν ἄνω. I. οἱ νεώτεροι μὴ νοήσαντες τὸ παῤ Ὁμήρῳ “δειπνίσσας ὥς τίς τε κατέκτανε βοῦν ἐπὶ φάτνῃ” ἀνθʼ ὧν ἔδει μετὰ τοὺς πόνους ἀπολαύσεως τυχεῖν, τοῦτον ὡς βοῦν ἀπέκτεινεν ἡ Κλυταιμνήστρα, ταιμνήστρα, προσέθηκαν ὅτι καὶ πελέκει ἀνῃρέθη. διὸ σημειωτέον ἐνταῦθα τὸ “καὐτόν γε τοῦτον πέλεκυν ἐξάρασʼ ἄνω.” A.B.M.I.",
+   "english": "1279. \"and you yourself\": the words are addressed to Agamemnon, meaning \"you, Agamemnon.\" She will also kill this Agamemnon, raising an axe on high. The later [poets], not understanding the line in Homer \"having feasted him, as someone kills an ox at the manger\"—[meaning that] where he ought to have gained enjoyment after his toils, Clytemnestra killed him like an ox—added that he was also slain with an axe. Therefore note here [the line] \"and this man himself, raising an axe on high.\"",
+   "notes": "\"ταιμνήστρα\" is a dittography of Clytemnestra, omitted. The lemma reads σε, the quoted line γε.",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}

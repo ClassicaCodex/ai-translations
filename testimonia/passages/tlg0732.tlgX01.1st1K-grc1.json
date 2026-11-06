@@ -1,0 +1,547 @@
+{
+ "source_edition": "tlg0732.tlgX01.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg0732.tlgX01.1st1K-grc1",
+ "title": "In Aristotelis Sophisticos Elenchos Commentarius [Sp.]",
+ "author": "Alexander of Aphrodisias",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg0732.tlgX01.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p09701",
+   "ref": "introduction.1",
+   "original": "σκοπὸς οὖν ἐστι τῆς παρούσης πραγματείας κατὰ μέν τινας, ὡς ἄν ἡμῖν τὴν μέθοδον παραδῷ δι’ ἧς τοὺς ἐλέγχους συνίστων οἱ σοφισταὶ καὶ τοὺς ἀπείρους τῆς συλλογιστικῆς μεθόδου ἠπάτων· ἔστι δὲ αὕτη οἱ μέλλοντες παραδοθῆναι παρ’ αὐτοῦ τοῦ Ἀριστοτέλους δεκατρεῖς τρόποι, οἳ καὶ ὥσπερ τινές εἰσι γενικοὶ στοχασμοὶ τῶν σοφισμῶν. οἱ δὲ τοῦτον εἶναι τὸν σκοπὸν τῆς παρούσης πραγματείας τιθέμενοι καὶ διὰ τοῦτο ἐπιγεγράφθαι Σοφιστικοὺς ἐλέγχους φασίν, ὡς τῆς παρούσης πραγματείας περὶ τοῦ πῶς ἤλεγχον οἱ σοφισταὶ διαλαμβανούσης καὶ περὶ τῆς συστάσεως τῶν σοφισμάτων αὐτῶν, οὐ περὶ τοῦ πῶς ἄν τοῖς σοφισταῖς ἀντιλέγοιμεν.",
+   "english": "The aim of the present treatise, then, according to some, is that he should hand down to us the method by which the sophists constructed their refutations and deceived those inexperienced in the syllogistic method; and this [method] consists of the thirteen modes that are going to be handed down by Aristotle himself, which are, as it were, general guidelines for sophisms. Those who set this down as the aim of the present treatise also say that it is for this reason that it has been entitled Sophistical Refutations, on the grounds that the present treatise deals with how the sophists used to refute and with the construction of their sophisms, not with how we might argue against the sophists.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01816",
+   "ref": "introduction.1",
+   "original": "παιζόντων γάρ, οὐ σπουδαζόντων τὸ τοιοῦτον εἶδος τοῦ συλλογισμοῦ· τὸ δὲ παίγνιον πῶς ἄν εἴη περισπούδαστον ἀνδράσι σοφοῖς καὶ ἐπιστήμοσιν; ὡς ἐν τῷ Εὐθυδήμῳ καὶ Πλάτων’ διαλαμβάνει, ἔνθα τῷ Κρίτωνι διαλεγόμενος ὁ Σωκράτης θαυμασίαν εἶναι τὴν σοφιστικὴν ἀποφαίνεται καὶ ‟πανσόφους ἀτεχνῶς” ὀνομάζει τοὺς σοφιστὰς καὶ βούλεσθαι μαθεῖν καὶ αὐτὸς ταύτην τὴν μέθοδον· εἶτα προτρέπεται τὸν Εὐδύδημον τῷ τοῦ Ἀξιόχου παιδὶ Κλεινίᾳ προσδιαλεχθῆναι· ὁ δ’ εὐθὺς ἀρξάμενος καὶ ὁμώνυμα ἐρωτῶν εἰς ἀντιφάσεις περιῆγε τὸν νέον οὕτω λέγων·",
+   "english": "For this kind of syllogism belongs to people playing, not to people in earnest; and how could a game be a matter of serious concern to wise and knowledgeable men? So Plato too sets it out in the Euthydemus, where Socrates, conversing with Crito, declares sophistry to be marvellous, calls the sophists \"simply all-wise\", and says that he himself wants to learn this method too. Then he urges Euthydemus to converse with Clinias, the son of Axiochus; and he, beginning at once and asking questions with ambiguous terms, led the young man round into contradictions, speaking as follows:",
+   "notes": "'Εὐδύδημον' is a misprint for Εὐθύδημον (Euthydemus). The apostrophe after Πλάτων is a stray mark.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09702",
+   "ref": "introduction.4",
+   "original": "ἄλλοι δέ τινες σοφιστικοῦ καὶ ἐριστικοῦ συλλογισμοῦ διαφορὰν ταύτην παραδεδώκασιν, ἐριστικὸν μὲν εἰπόντες εἶναι τὸν κατὰ τὸ συλλογιστικὸν εἶδος μὴ ὑγιῶς ἔχοντα, σοφιστικὸν δὲ τὸν τὴν ὕλην ἔχοντα διημαρτημένην ὑγιὲς δὲ τὸ συλλογιστικὸν εἶδος. ἀλλ’ ἐλέγχονται οὗτοι παρ’ αὐτοῦ τοῦ Ἀριστοτέλους ψευδόμενοι· προιὼν γὰρ ἐν οἷς τὸν ἀποδεικτικὸν λόγον τοῦ διαλεκτικοῦ διίστησι καὶ τοῦτον τοῦ σοφιστικοῦ, φησὶν ὅτι ‟ὁ μὲν οὖν κατὰ τὸ πρᾶγμα θεωρῶν τὰ κοινὰ διαλεκτικός, ὁ δὲ τοῦτο φαινομένως ποιῶν σοφιστικὸς καὶ συλλογισμὸς ἐριστικός”. ἐπειδὴ τοίνυν ὁ ἐριστικὸς συλλογισμὸς ὁ αὐτός ἐστι τῷ σοφιστικῷ ἐλέγχῳ, εἰπὼν περὶ τῶν σοφιστικῶν ἐλέγχων ἐπήγαγε καὶ τῶν φαινομένων ἐλέγχων ὄντων δὲ παραλογισμῶν, ἐκ παραλλήλου τὸ αὐτὸ θείς·",
+   "english": "Some others have handed down the following difference between a sophistical and an eristic syllogism, saying that the eristic is the one that is unsound in its syllogistic form, while the sophistical is the one that has defective matter but a sound syllogistic form. But these are refuted as being in error by Aristotle himself; for further on, in the passage where he distinguishes demonstrative argument from dialectical, and this from sophistical, he says: \"The one, then, who considers the common [principles] in accordance with the matter is a dialectician, while the one who does this [only] apparently is a sophist, and [his] syllogism is eristic.\" Since, therefore, the eristic syllogism is the same as the sophistical refutation, having spoken of sophistical refutations he added also \"of apparent refutations which are in fact paralogisms,\" setting down the same thing in parallel;",
+   "notes": "The quotation corresponds to Aristotle, Sophistical Refutations 11, 171b6-8, approximately.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01817",
+   "ref": "165a19.2",
+   "original": "διὰ τοῦτο ἥ τε σοφιστικὴ φαινομένη σοφία καὶ ὁ σοφιστὴς φαινόμενος σοφός, καὶ τὸ ἔργον τοῦ σοφοῦ <φαινομένου> φαινόμενον καὶ οὐκ ἀληθές. καὶ ἐπειδὴ φαινομένης σοφίας ἐχρηματίζοντο, ἀκόλουθον ἦν πάντως δοκεῖν μᾶλλον ποιεῖν τὸ τοῦ σοφοῦ ἔργον ἢ ποιεῖν. ὁ μὲν γὰρ ὄντως σοφὸς ποιεῖ μᾶλλον τὸ τοῦ σοφοῦ ἔργον ἢ δοκεῖ· δηλοῖ δὲ ὁ Σωκράτης μηδὲν εἰδέναι πανταχοῦ διαβεβαιούμενος μηδὲ σοφόν τι ποιεῖν καίτοι πάντα καὶ λέγων καὶ πράττων ἀπ’ ἄκρας ἐπιστήμης. οἱ δὲ σοφισταὶ τοὐναντίον· πάντα γὰρ εἰδέναι διαβεβαιοῦνται· ‘οὐδεὶς γὰρ οὐδέπω μέχρι καὶ τήμερον‘, φησὶν ὁ Πρωταγόρας, ‘καινόν τί με ἠρώτησε’, μόνον οὐχὶ λέγων ‘αὐτὰ ἐκεῖνα παρὰ πάντων ἐρωτῶμαι ἅπερ τυγχάνω εἰδώς’.",
+   "english": "For this reason sophistry is apparent wisdom, the sophist is apparently wise, and the work of the <apparently> wise man is apparent and not true. And since they made money from apparent wisdom, it followed altogether that they should seem to do the work of the wise man rather than do it. For the truly wise man does the work of the wise man rather than seeming to; Socrates shows this, insisting everywhere that he knows nothing and does nothing wise, although he both says and does everything from the height of knowledge. The sophists are the opposite: they insist that they know everything. \"For no one up to this very day\", says Protagoras, \"has ever asked me anything new\", all but saying, \"I am asked by everyone just those things which I happen to know.\"",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09703",
+   "ref": "165a38.2",
+   "original": "γράφεται δὲ ἔν τισι καὶ ἀναγκαῖον διὰ τοῦ ὁ μικροῦ, καὶ εἴη ἂν ἐλλειπτικὸν ὡς ἔξωθεν λαμβάνεσθαι τὸ ‘ὧν τὴν ἐπιστήμην ἔχειν ἀναγκαῖον τῷ προσποιουμένῳ εἰδέναι‘· ἔν τισι μέντοι ἀντιγράφοις οὐ τέτταρα γένη ἀλλὰ τρία φέρεται, ἐπεὶ τοῦ πειραστικοῦ δοκεῖ ὡς μέρους τοῦ διαλεκτικοῦ μνημονεύειν προελθών. πολὺ δὲ καὶ τὸ τῆς πειραστικῆς εἶδος παρὰ Πλάτωνι ἔστιν εὑρεῖν ἔν τε τῷ εὐθύφρονι καὶ ἐν ἅπασι σχεδὸν αὐτοῦ τοῖς διαλόγοις. μνημονεύει δὲ τῶν πειραστικῶν καὶ ἐν τῷ πρώτῳ τῶν τοπικῶν, ἔνθα διέξεισι πρὸς τίνα χρήσιμός ἐστιν ἡ διαλεκτική· ἐκεῖνο γὰρ ᾐνίξατο διὰ τοῦ ὃν τρόπον δέ, διώρισται ἐν ἑτέροις.",
+   "english": "In some [copies] \"necessary\" (anankaion) is also written with a small o, and it would then be elliptical, so that one must supply from outside \"[the things] of which it is necessary for one who claims to know to have knowledge\"; in some copies, however, not four kinds but three are given, since further on he seems to mention the testing [kind] as part of the dialectical. The testing form, too, can be found abundantly in Plato, both in the Euthyphro and in almost all his dialogues. He mentions testing [arguments] also in the first book of the Topics, where he sets out for what purposes dialectic is useful; for that is what he hinted at by \"in what way, has been determined elsewhere.\"",
+   "notes": "The point about \"small o\" concerns the spelling anankaion (neuter) as against a variant reading; the exact alternative is not stated in the passage.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09704",
+   "ref": "165b27.2",
+   "original": "πῶς δὲ ταῦτα ἔχει, λεκτέον τοῦ σαφοῦς ἕνεκα. ὁ συλλογισμὸς ἐν πρώτῳ σχήματι γίνεται καὶ πρώτῳ τρόπῳ τοῦ πρώτου σχήματος· ὁμοίως καὶ ἑκάτερος προσυλλογισμὸς ἑκατέρας προτάσεως. ἔχει δ’ ὁ συλλογισμὸς οὕτως, ὡς καὶ Γαληνός φησι· τὰ παρὰ τὴν λέξιν σοφίσματα γίνεται παρὰ τὸ μὴ τὰ αὐτὰ τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις δηλοῦσθαι· πάντα τὰ μὴ τὰ αὐτὰ τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις δηλούμενα ἑξαχῶς συμβαίνει γίνεσθαι· πάντα ἄρα τὰ παρὰ τὴν λέξιν σοφίσματα ἑξαχῶς συμβαίνει γίνεσθαι. τοιοῦτος μὲν οὖν ὁ συλλογισμός. ἄλλον δὲ συλλογισμὸν λέγοι ἂν τὸν κατασκευάζοντα τὴν μείζονα πρότασιν τὴν λέγουσαν ὅτι πᾶν τὸ μὴ ταὐτὸ τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις δηλούμενον ἑξαχῶς συμβαίνει γίνεσθαι, ἔτι τὸν κατασκευάζοντα τὴν ἐλάττονα τὴν λέγουσαν ‘τὰ παρὰ τὴν λέξιν σοφίσματα γίνεται παρὰ τὸ μὴ τὰ αὐτὰ τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις δηλοῦσθαι’.",
+   "english": "How this stands must be stated for the sake of clarity. The syllogism is in the first figure and the first mode of the first figure; likewise also each of the prosyllogisms of each premise. The syllogism runs as follows, as Galen too says: sophisms arising from expression come about because the same things are not signified by the same names and phrases; all things in which the same things are not signified by the same names and phrases happen to come about in six ways; therefore all sophisms arising from expression happen to come about in six ways. Such, then, is the syllogism. By \"another syllogism\" he would mean the one that establishes the major premise, which says that everything in which the same is not signified by the same names and phrases happens to come about in six ways, and further the one that establishes the minor, which says \"sophisms arising from expression come about because the same things are not signified by the same names and phrases.\"",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09705",
+   "ref": "166a23.2",
+   "original": "οὐχὶ ὁ καθήμενος δύναται βαδίζειν; ναί· οὐχὶ ὁ Σωκράτης κάθηται; ναί· ὁ Σωκράτης ἄρα βαδίζει· ἀλλὰ μὴν καὶ κάθηται· ὁ Σωκράτης ἄρα βαδίζει καὶ οὐ βαδίζει. πάλιν ἆρά γε ὁ μὴ γράφων δύναται γράφειν; ναί· ὁ δὲ Πλάτων’ οὐ γράφει· ὁ Πλάτων’ ἄρα γράφει. πάλιν ἆρά γε ὁ ἐπιστάμενος γράμματα δύναται μανθάνειν νῦν γράμματα; τί δέ, ὁ Σωκράτης νῦν ὑπνώττων οὐχὶ ἐπίσταται γράμματα; ναί· ὁ Σωκράτης ἄρα μανθάνει νῦν γράμματα· ἀλλὰ καὶ οὐ μανθάνει·",
+   "english": "Can the one who is sitting not walk? Yes. Is Socrates not sitting? Yes. Therefore Socrates walks; but he is also sitting; therefore Socrates walks and does not walk. Again, can one who is not writing write? Yes. But Plato is not writing; therefore Plato writes. Again, can one who knows letters now learn letters? Well then, does Socrates, now sleeping, not know letters? Yes. Therefore Socrates is now learning letters; but he is also not learning;",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01818",
+   "ref": "166a23.2",
+   "original": "αἱ μὲν οὖν ἀγωγαὶ τῶν σοφισμάτων, ἅπερ εἰς παράδειγμα τίθησι τοῦ παρὰ τὴν σύνθεσιν παραλογισμοῦ, τοιαῦταί τινες. τὸ δὲ οὐ γὰρ ταὐτὸν σημαίνει, ἄν διελών τις εἴπῃ καὶ συνθείς τοιοῦτόν ἐστιν· ὅταν τὸ δύνασθαι βαδίζειν διέλῃ τις καὶ ποτὲ μὲν κατηγορήσῃ μόνον τὸ βαδίζειν ποτὲ δὲ τὸ δύνασθαι βαδίζειν κατὰ τοῦ Σωκράτους, οὐ ταὐτὸν σημαίνει· οὐ γάρ ἐστι ταὐτὸν τὸ ‘ὁ Σωκράτης βαδίζει᾿ τῷ ‘ὁ Σωκράτης δύναται βαδίζειν᾿ . ὥστε παρὰ τὴν σύνθεσιν γίνεται τὸ σόφισμα· ἔδει γὰρ συνθέντα καὶ συνάψαντα τὸ δύνασθαι καὶ τὸ βαδίζειν κατὰ τοῦ Σωκράτους εἰπεῖν ἀλλ’ οὐχὶ τὸ βαδίζειν μόνον. κολοβῶς οὖν καὶ οἷον εἰπεῖν ἠκρωτηριασμένως τῆς συνθέσεως γεγονυίας καλῶς εἴρηται παρὰ τὴν σύνθεσιν εἶναι τὸ σόφισμα. σημειωτέον δὲ ὅτι σύνθεσιν λέγει ὁ Ἀριστοτέλης καὶ τὸ χωρὶς τοῦ δυνατοῦ τὸ βαδίζειν κατηγορεῖσθαι. εἰπὼν οὖν ὅτι οὐ ταὐτὸν σημαίνει, ἂν τὸ βαδίζειν χωρὶς τοῦ δύνασθαι κατὰ τοῦ καθημένου κατηγορήσῃ, ὅπερ διὰ τοῦ ἂν διελών τις εἴπῃ ἐσήμανε, καὶ ὅταν αὖθις τὸ βαδίζειν μετὰ τοῦ δύνασθαι (διὰ τοῦ συνθείς, ὡς δυνατὸν τὸν καθήμενον), τοῦ μὲν ἑνὸς τρόπου, καθ’ ὃν τὸ βαδίζειν μετὰ τοῦ δύνασθαι κατηγοροῦμεν, παράδειγμα τέθεικε τὸ ὡς δυνατὸν τὸν καθήμενον βαδίζειν καὶ τὸν μὴ γράφοντα γράφειν, ἐν ᾧ καὶ αὐτῷ προσυπακούειν δεῖ τὸ ‘δυνατόν᾿, ἵνα ᾖ ‘καὶ δυνατὸν τὸν μὴ γράφοντα γράφειν᾿ .",
+   "english": "Such, then, are the lines of argument of the sophisms that he gives as examples of the fallacy depending on combination. The words \"for it does not mean the same thing if one says it dividing and combining\" amount to this: when someone divides \"being able to walk\", and sometimes predicates only \"walking\" of Socrates, sometimes \"being able to walk\", it does not mean the same thing; for \"Socrates walks\" is not the same as \"Socrates is able to walk\". So the sophism arises from combination; for one ought to have combined and joined \"being able\" and \"walking\" and said them of Socrates, not \"walking\" alone. Since, then, the combination has come about in a truncated and, so to speak, mutilated way, it is rightly said that the sophism depends on combination. It should be noted that Aristotle calls it \"combination\" also when \"walking\" is predicated without \"possible\". Having said, then, that it does not mean the same thing if one predicates \"walking\" without \"being able\" of the man sitting, which he indicated by \"if one says it dividing\", and when, again, [one predicates] \"walking\" together with \"being able\" (by \"combining\", as in \"that the man sitting is able\"), for the one mode, in which we predicate \"walking\" together with \"being able\", he has given as example \"that it is possible for the man sitting to walk, and for the man not writing to write\", where in this too one must understand \"possible\", so that it reads \"and [it is] possible for the man not writing to write\".",
+   "notes": "The reasoning about which mode counts as 'combination' is somewhat tangled in the Greek; translated as it stands.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09706",
+   "ref": "166b1.2",
+   "original": "τί δέ, τὸ ζῷον λογικὸν ἐπιστήμης δεκτικὸν οὐχ ὅρος; ἕστηκεν ἄρα τὸ ζῷον λογικὸν ἐπιστήμης δεκτικόν. παρὰ τὴν προσῳδίαν καὶ τοῦτο. παράδειγμα δὲ ἐπιφέρει τοῦ παρὰ τὴν προσῳδίαν, ὅπερ ἐν ποιήμασιν ἔφη μάλιστα γίνεσθαι παρὰ τοῦ ‘Ομήρου. κεῖται δὲ ἐν τῷ ψ΄ τῆς Ἰλιάδος, ἔνθα καὶ ἐπὶ τῷ Πατρόκλῳ ὁ ἱππικὸς ἀγὼν ἐτετέλεστο· πεποίηται δὲ τῷ ποιητῇ ὁ Νέστωρ τῷ παιδὶ Ἀντιλόχῳ τὰ περὶ τῆς ἱππικῆς ὑποτιθέμενος καὶ περὶ τοῦ τόπου διαλεγόμενος ἔνθα ἔμελλεν ἀγωνίζεσθαι μετὰ τῶν λοιπῶν ἡνιόχων.",
+   "english": "Well then, is \"rational animal receptive of knowledge\" not a definition (horos)? Therefore the rational animal receptive of knowledge stands. This too is from accent. He adduces an example of [fallacy] from accent, which he said occurs especially in poems, from Homer. It lies in Book 23 of the Iliad, where the horse race in honour of Patroclus was held; the poet has Nestor advising his son Antilochus about horsemanship and discussing the place where he was to compete with the other charioteers.",
+   "notes": "The sophism plays on ὅρος (definition) and ὄρος (mountain), differing only in breathing, completing the question \"does a mountain stand?\" from the preceding context.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09707",
+   "ref": "166b1.3",
+   "original": "Τινὲς οὖν ἐκάκιζον τὸν Ὅμηρον περισπωμένως τὸ (??) καὶ λέγοντες ἄτοπόν τι αὐτὸν εἰρηκέναι διὰ τούτου, ὡς λέγοντα δῆθεν ὅτι τοῦ ξύλου ἐκείνου τοῦ ἐξανέχοντος, ὃ δρύινον ἢ πεύκινον ὀνομάζει, τὶ μὲν κατασήπεται, τὶ δὲ οὐ κατασήπεται· εἰ γὰρ μὴ καὶ τοῦτο ἐδήλωσεν ἐναργῶς, τὸ ‘τὶ δὲ οὐ κατασήπεται᾿ λέγουσιν ἄντικρυς δηλοῦσθαι διὰ τοῦ εἰρημένου τοῦ “οὗ τὸ μὲν καταπύθεται”, ὡς τινὸς μὲν ἐκ τῆς πεύκης τοῦ δένδρου σηπομένου τοῖς ὀμβρίοις ὕδασι τινὸς δὲ μὴ σηπομένου. τινὲς μὲν οὖν ἐκάκιζον τὸν Ὅμηρον, ὡς εἶπον, ἀτόπως τόδε εἰρηκότα. ἐπιδιορθοῦται δὲ τούτους ἐν τῷ Περὶ ποιητικῆς], ὡς αὐτὸς Ἀριστοτέλης ἐν τῇ ‘Pητορικῇ φησιν, Ἱππίας ὁ Θάσιος μὴ περισπωμένως ἀναγινώσκων τὸ ου ἀλλ’ ἀποφατικῶς, ὅπερ αὐτὸς ὀξύτερον εἴρηκεν, ἵνα ᾖ τὸ λεγόμενον ὡς ἡ πεύκη τὸ δένδρον οὐ καταπύθεται ὄμβρῳ. λέγει δὲ Θεόφραὄρος στος τὸ φυτὸν τῆς πεύκης ὀμβρίοις ὕδασι καὶ πηγαίοις μὴ σήπεσθαι, θαλαττίοις δὲ μάλιστα.",
+   "english": "Some, then, found fault with Homer, [reading] ou with a circumflex, and saying that he had said something absurd by it, as though he were saying that of that projecting piece of wood, which he calls oak or pine, part rots and part does not rot; for even if he did not state this clearly, they say that \"part does not rot\" is plainly signified by the phrase \"of which (hou) part rots,\" as though part of the pine tree rotted from rainwater and part did not. Some, then, found fault with Homer, as I said, for having said this absurdly. But Hippias of Thasos corrects them, as Aristotle himself says in the Rhetoric [in the Poetics], reading ou not with a circumflex but as a negative, which he himself has [marked as] more acute, so that what is said is that the pine tree \"does not rot in the rain.\" And Theophrastus says that the pine plant does not rot from rainwater or spring water, but most of all from sea water.",
+   "notes": "\"(??)\" in the text marks an illegible word, presumably ου. The bracket after \"Περὶ ποιητικῆς\" is unbalanced; the reference is in fact to the Poetics (and Soph. El.), not the Rhetoric, and the text seems confused here. \"ὄρος\" intruding in Θεόφρα-στος is a stray marginal word, omitted. \"ὀξύτερον\" (more acutely/with acute accent) is uncertain in sense.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09708",
+   "ref": "166b1.4",
+   "original": "Τοιαῦτα μὲν τὰ ῥητά. αὐτὸς δὲ καὶ οἴκοθεν βουλόμενος ποιῆσαι τοῦ παρὰ προσῳδίαν παράδειγμα ὡς ἐκ τοῦ ‘Ομήρου τοῦτο ἐπήγαγε. φασὶν οὖν τινες ὅτι εἰς τὸ δέ οἱ ἐστὶν ὁ παραλογισμὸς καὶ ἡ ἁμαρτία τοῦ Ομήρου· ἐκεῖνος μὲν γὰρ οὕτως ἔγραψε, δίδομεν δέ οἱ εὖχος ἀρέσθαι, τουτέστι φησὶν ὁ Ζεὺς τῷ ὀνείρῳ ὡς ἀπελθὼν ἀπάγγειλον τῷ Ἀγαμέμνονι ὡς οἱ θεοὶ πάντες ἐψηφίσαντο τὸ σοὶ τὴν νίκην διδόναι.",
+   "english": "Such are the words [of the text]. And he himself, wishing also to make up an example of [fallacy] from accent on his own, adduced this as if from Homer. Some, then, say that the paralogism and Homer's error lies in de hoi; for he wrote thus: \"we grant (didomen de hoi) him to win glory,\" that is, Zeus says to the Dream: go and announce to Agamemnon that all the gods have voted to give you victory.",
+   "notes": "The sophism concerns reading δίδομεν (we grant) versus διδόμεν (infinitive used as imperative).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09709",
+   "ref": "166b21.2",
+   "original": "Εἴπομεν καὶ πρότερον ὅτι πάντων τῶν ὄντων εἰς φωνὰς καὶ πράγματα διαιρουμένων καὶ ἐν ἑκάστοις τούτων παραλογισμῶν γινομένων εἰπὼν ὁ Ἀριστοτέλης τοὺς ἐν ταῖς φωναῖς γινομένους παραλογισμούς, οὓς καὶ παρὰ τὴν λέξιν ἐκάλεσε, καὶ διαλαβὼν περὶ αὐτῶν ἀρκούντως, πῶς γίνονται καὶ πῶς συνίστανται μόνον ὕστερον γὰρ καὶ περὶ τῆς αὐτῶν ἐρεῖ λύσεως), νῦν καὶ τοὺς ἐκ τῶν πραγμάτων γινομένους παραλογισμοὺς τίθησιν, οὗς καὶ ὀνομάζει ἔξω τῆς λέξεως, διότι οὐχὶ ἡ λέξις κἀνταῦθα ἢ ἡ ταύτης σύνθεσις ἢ διαίρεσις ἢ ὁ ἐν τῇ λέξει τόνος ἢ τὸ πνεῦμα ἢ τὸ ὁμοιόσχημον τῆς λέξεως αἴτιον γίνεται τοῦ παραλογισμοῦ.",
+   "english": "We said before too that, since all things are divided into words and things, and paralogisms arise in each of these, Aristotle, having spoken of the paralogisms that arise in words, which he also called \"from expression,\" and having dealt with them sufficiently—only how they arise and how they are constructed (for later he will speak also about their solution)—now sets out also the paralogisms arising from things, which he names \"outside expression,\" because here it is not the expression, or its combination or division, or the accent in the expression, or the breathing, or the similarity of form in the expression, that becomes the cause of the paralogism.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01819",
+   "ref": "166b28.2",
+   "original": "ὅταν οὖν, φησί, τὶς ἀξιοῖ ὁμοίως ὑπάρχειν τι τῷ πράγματι καὶ τῷ συμβεβηκότι, πρᾶγμα μὲν λέγων τὸ σύνθετον καὶ ὑποκείμενον, συμβεβηκὸς δὲ ἁπλῶς πᾶν κατηγορούμενον, κἄν τε τῶν οὐσιωδῶς καὶ καθ’ αὑτὸ ὑπαρχόντων τῷ καθ’ οὗ κατηγορεῖταί ἐστι κἄν τε καὶ μή. φησὶ γοῦν ὡς οὐκ ἀναγκαῖόν ἐστιν, ὅσα συμβέβηκε τῷ κατηγορουμένῳ, καὶ τῷ ὑποκειμένῳ ταῦτα συμβαίνειν. οἷον τί φημι; κατηγορεῖται τὸ λευκὸν κατὰ τοῦ Σωκράτους· ὑπάρχει δὲ τῷ λευκῷ καὶ τὸ χρῶμα διακριτικὸν ὄψεως· εἴ τις οὖν ἀξιοῖ καὶ τῷ Σωκράτει ὑπάρχειν τὸ χρῶμα διακριτικὸν ὄψεως λέγων οὕτως ‘ὁ Σωκράτης λευκός, τὸ λευκὸν χρῶμα διακριτικὸν ὄψεως, ὁ Σωκράτης ἄρα χρῶμα διακριτικὸν ὄψεως᾿, ποιεῖται παρὰ τὸ συμβεβηκὸς τὸν παραλογισμόν.",
+   "english": "\"When, then,\" he says, \"someone claims that something belongs alike to the thing and to the accident\", calling \"thing\" the composite and subject, and \"accident\" simply everything predicated, whether it is among the things that belong essentially and in themselves to that of which it is predicated or not. He says, then, that it is not necessary that whatever is accidental to the predicate should also be accidental to the subject. What do I mean? White is predicated of Socrates; and to white belongs also [being] a colour that dilates sight. If, then, someone claims that being a colour that dilates sight belongs also to Socrates, saying thus, \"Socrates is white, white is a colour that dilates sight, therefore Socrates is a colour that dilates sight\", he commits the fallacy depending on accident.",
+   "notes": "διακριτικὸν ὄψεως: the Aristotelian definition of white as 'piercing/dilating (lit. separating) sight'.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09710",
+   "ref": "166b37.2",
+   "original": "τὸ γὰρ ζῷον λογικὸν καθολικώτερόν ἐστι τοῦ ‘ζῷον λογικὸν θνητόν᾿, ὥσπερ καὶ τὸ ζῷον λογικὸν μερικώτερον τοῦ ζῴου. παρὰ τὸ πῇ οὖν, φησί, καὶ ἀπλῶς εἰσι παραλογισμοί, ὅταν τὸ ἐν μέρει, τουτέστι τὸ ὁμοῦ λεγόμενον, ληφθῇ ὡς ἁπλῶς, τουτέστι χωρὶς δυνάμενον λέγεσθαι. οἷον κατὰ τοῦ Ὁμήρου λέγεται συνημμένως τὸ εἶναι ποιητήν· εἰ γοῦν τις ἰδίᾳ λαβὼν τὸ εἶναι κατηγορήσει τοῦ Ὁμήρου καὶ εἴπῃ ‘Ὅμηρος ἔστι᾿, ψεύδεται· πάλαι γὰρ τέθνηκεν· εἰ δ’ εἴπῃ ‘ὁ Ὅμηρος ποιητής ἐστιν᾿ ἠλήθευκε, τὸ ὁμοῦ λεγόμενον εἰς τὸ ἁπλῶς μὴ λαβών.",
+   "english": "For \"rational animal\" is more universal than \"mortal rational animal,\" just as \"rational animal\" is more particular than \"animal.\" There are, then, he says, paralogisms from \"in a certain respect\" and \"simply,\" when what is in part, that is, what is said in conjunction, is taken as simple, that is, as able to be said separately. For example, \"being a poet\" is said of Homer conjointly; if, then, someone takes \"being\" separately, predicates it of Homer and says \"Homer is,\" he speaks falsely, for he died long ago; but if he says \"Homer is a poet,\" he has spoken truly, not taking what is said in conjunction as simple.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09711",
+   "ref": "167a21.2",
+   "original": "ἀλλὰ μὴν καὶ οὐκ ἀθάνατος κατὰ σέ. οὐκ ἐλέγχει ὁ οὕτως συλλογιζόμενος τὸν λέγοντα αὐτὴν μὴ ἀθάνατον· τὸ γὰρ ἐν ἀρχῇ ᾐτήσατο· ὃ γὰρ ἔμελλε δεῖξαι, ἔλαβε· τὸ γὰρ ‘ἡ ψυχὴ ἄφθαρτος᾿ ταὐτόν ἐστι τῷ ἰὴ ψυχὴ ἀθάνατος᾿ . εἴρηται δὲ τῷ Ἀριστοτέλει περὶ τοῦ τὸ ἐν ἀρχῇ αἰτεῖσθαι καὶ λαμβάνειν τοῦτο, τί ποτέ ἐστι καὶ πῶς γίνεται, ἐν τῷ δευτέρῳ τῶν Προτέρων ἀναλυτικῶν. δεῖ δὲ τὸν ἔλεγχον καὶ κατὰ τὸ αὐτὸ εἶναι. εἰ γὰρ ἓν καὶ τὸ αὐτὸ εἴη τὸ ἠρωτημένον, μήτε ὁμώνυμον μήτε συνώνυμον, μήτε τὸ ἐν ἀρχῇ ληφθῇ, κατ’ ἄλλο δὲ καὶ ἄλλο μέρος λέγοιμέν τι τῷ αὐτῷ ὑπάρχειν, ἀληθεύειν συμβήσεται·",
+   "english": "\"But according to you it is also not immortal.\" The one who reasons in this way does not refute the one who says that it is not immortal, for he has begged the original question: he has assumed what he was going to prove, since \"the soul is indestructible\" is the same as \"the soul is immortal.\" Aristotle has discussed begging and assuming the original question, what exactly it is and how it comes about, in the second book of the Prior Analytics. A refutation must also be in respect of the same thing. For if what is asked should be one and the same, neither homonymous nor synonymous, and the original question should not be assumed, but we should say that something belongs to the same thing in respect of one part and another part, it will turn out that [both statements] are true;",
+   "notes": "\"ἰὴ ψυχὴ\" is a scanning error for \"ἡ ψυχὴ\".",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09712",
+   "ref": "167a21.2",
+   "original": "τὸ γὰρ ‘ὁ ὄψιν ἔχων ὁρᾷ᾿ δύο σημαίνει, τὸν ἔχοντα καὶ μὴ ἐνεργοῦντα δυνάμενον δὲ ἐνεργεῖν καὶ τὸν ἤδη ἐνεργοῦντα. καὶ ἐν τῷ αὐτῷ δέ, φησί, χρόνῳ· τὸ γὰρ κατ’ ἄλλον καὶ ἄλλον χρόνον φαῦλόν τε καὶ οὐ φαῦλον λέγειν τὸν αὐτὸν οὐκ ἀδύνατον. ὁ δὲ λέγων πάντα ἄνθρωπον ἐπὶ τοῦ παρ’ Ἡσιόδῳ χρυσοῦ γένους ἀγαθὸν εἶναι καὶ οὐδένα ἄνθρωπον ἐπὶ τοῦ σιδηροῦ ἀγαθόν, εἶτα συνάγων πάντα ἄνθρωπον καὶ μηδένα ἄνθρωπον ἀγαθὸν εἶναι οὐκ ἐλέγχει τὸν μὴ τοῦτο λέγοντα· οὐ γὰρ ἔδειξεν ἐν τῷ αὐτῷ χρόνῳ ἀγαθοὺς εἶναι καὶ μὴ ἀγαθοὺς πάντας ἀνθρώπους, οὗ δειχθέντος ἀληθὴς ἄν ἦν ἔλεγχος, ἀλλ’ ἐν ἄλλῳ καὶ ἄλλῳ χρόνῳ.",
+   "english": "For \"the one who has sight sees\" signifies two things: the one who has [sight] and is not exercising it but is able to exercise it, and the one who is already exercising it. \"And at the same time,\" he says; for it is not impossible to say that the same person is bad and not bad at different times. The one who says that every man in Hesiod's golden race is good and no man in the iron [race] is good, and then concludes that every man and no man is good, does not refute the one who does not say this. For he has not shown that all men are good and not good at the same time, which, if it had been shown, would have been a true refutation, but at different times.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09713",
+   "ref": "167b1.2",
+   "original": "εἶτα προσετίθει καὶ τὴν ἑτέραν πρότασιν, ὅτι τὸ μὴ ἀρχὴν ἔχον ἄπειρον, ὡς εἶναι τοιοῦτον τὸ συλλογιζόμενον· τὸ ὂν οὐ γέγονε, τὸ μὴ γενόμενον ἀρχὴν οὐκ ἔχει, τὸ μὴ ἔχον ἀρχὴν ἄπειρον, τὸ ὂν ἄπειρον. τούτου γοῦν τοῦ λόγου πολλὰ μὲν καὶ ἄλλ’ ἄττα αἰτιάματα ἐν τῷ πρώτῳ τῆς Φυσικῆς ἀκροάσεως εἴρηται τῷ Ἀριστοτέλει· ἀπεδείχθη δὲ καὶ τὸ ἡμαρτημένον, ἡ σὺν ἀντιθέσει ἀντιστροφή· ταύτης γὰρ τῇ ἀναιρέσει τοῦ ἑπομένου καὶ τὸ ἡγούμενον ἀναιρούσης οὐχ οὕτως ἔχει καὶ ἡ παρὰ τοῦ Μελίσσου. εἰ μὲν γὰρ ἄνθρωπός ἐστιν, ἕπεται καὶ ζῷον εἶναι ἐξ ἀνάγκης·",
+   "english": "Then he added the other premise too, that what has no beginning is infinite, so that the reasoning is of this kind: what is has not come to be; what has not come to be has no beginning; what has no beginning is infinite; [therefore] what is is infinite. Many other charges against this argument have been stated by Aristotle in the first book of the Physics; and the error has also been demonstrated, namely the conversion with opposition. For since this [conversion] does away with the antecedent by doing away with the consequent, the one from Melissus does not proceed in this way. For if something is a man, it follows of necessity that it is also an animal;",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09714",
+   "ref": "167b38.2",
+   "original": "λέγεται δὲ οὕτως, ὅτι ἕκαστον τῶν ὑποκειμένων καὶ περὶ ὧν ὁ λόγος ἐστὶν ἰδίας ἐρωτήσεως δεόμενον οὐ προτείνεται | ἰδίᾳ καὶ ἰδίᾳ ὁ ἐρωτῶν, ἀλλὰ συμμίξας τὰ διάφορα ὑποκείμενα καὶ ὡς περὶ ἑνὸς ἐρωτῶν ἀπατᾷ τὸν ἀποκρινόμενον, ὅταν καὶ αὐτὸς τὴν ἀπόκρισιν ὡς ἑνὸς ὄντος τοῦ ὑποκειμένου δοίη, ὡς ἐπὶ τοῦδε τοῦ σοφίσματος· ὁ δεῖνα Σωκράτην καὶ Πλάτωνα τύπτει· ὁ Σωκράτης καὶ ὁ Πλάτων’ ἄνθρωπός ἐστιν· ὁ δεῖνα ἄρα ἄνθρωπον ἁλλ’ οὐκ ἀνθρώπους τύπτει. τοιοῦτόν τι πεποίηκε καὶ ὁ Πῶλος ἐν τῷ Γοργίᾳ τὰ πλείω ὡς ἓν ἐρωτήσας τὸν Σωκράτην. ἦν δὲ ἡ ἐρώτησις τοιαύτη· ‘εἰπέ μοι, ὦ Σώκρατες, οὐ δοκοῦσί σοι οἱ ῥήτορες ὥσπερ καὶ οἱ τύραννοι ποιεῖν ἅπαντα ἃ βούλονται καὶ δοκεῖ αὐτοῖς βέλτιστα εἶναι᾿ . τὰ πλείω γὰρ ἐνταῦθα ἠρώτησεν ὡς ἓν ὁ Πῶλος·",
+   "english": "It is described thus: when each of the subjects, those about which the argument is, needs its own question, the questioner does not put them forward one by one, but by mixing together the different subjects and asking as if about one, he deceives the answerer, when the latter also gives his answer as though the subject were one, as in this sophism: \"So-and-so strikes Socrates and Plato; Socrates and Plato is a man; therefore so-and-so strikes a man and not men.\" Polus too did something of this kind in the Gorgias, asking Socrates several things as one. The question was this: \"Tell me, Socrates, do not the orators seem to you, like the tyrants, to do everything that they wish and that seems best to them?\" For here Polus asked several things as one;",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01820",
+   "ref": "168a23.2",
+   "original": "ὅπερ ἐπὶ τῆς συνθέσεως καὶ τῆς διαιρέσεως οὐ συμβαίνει, ἀλλ’ ἕτερον μέν ἐστι τὸ χωρὶς ὑπὸ τῶν ὀνομάτων ἢ ῥημάτων δηλούμενον, ἕτερον δὲ τὸ ὑπὸ τῆς τούτων συνθέσεως. τὰ γὰρ γράμματα χωρὶς καὶ τὸ ῾ἐπίσταται' χωρὶς οὐ ταὐτὸν σημαίνει καὶ συντεθέντα, ὡς ἐπὶ τοῦ γράμματα ἐπίσταται᾿· ἀλλὰ καὶ ῾ ὁ Σωκράτης κάθηται, ὁ καθήμενος δύναται βαδίζειν, ὁ Σωκράτης βαδίζει᾿ οὐ ταὐτὸν σημαίνει, ὥσπερ εἴρηται καὶ πρότερον. ταῦτα εἰπὼν λέγει τὴν αἰτίαν δι’ ἣν ἀναχθήσονται οἱ προειρημένοι παραλογισμοὶ εἰς τὴν τοῦ ἐλέγχου ἄγνοιαν· ἔστι δὲ αὕτη τὸ μὴ τὸ αὐτὸ σημαίνειν τὸ ὁμώνυμον καὶ τὸν ἀμφίβολον λόγον.",
+   "english": "This does not happen in the case of combination and division; rather, what is signified by the nouns or verbs separately is one thing, and what is signified by their combination is another. For \"letters\" separately and \"knows\" separately do not mean the same as when combined, as in \"he knows letters\"; and again \"Socrates is sitting, the man sitting is able to walk, Socrates walks\" does not mean the same, as was said before. Having said this, he states the reason why the aforementioned fallacies will be reduced to ignorance of refutation: it is that the homonym and the ambiguous phrase do not mean the same thing.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p01821",
+   "ref": "169a6.2",
+   "original": "τὸ δὲ οἷον ἀνθρώπου καὶ ἑνὸς μόνου ἀνθρώπου παράδειγμα ἐπήγαγεν κατηγορουμένου καὶ ὑποκειμένου, ἄνθρωπον μὲν λέγων τὸν κατηγορούμενον, ἕνα δὲ μόνον ἄνθρωπον τὸν ὑποκείμενον· εἰ γὰρ κατηγορεῖται ὁ ἄνθρωπος, καθ’ ἑνὸς μόνου κατηγορηθήσεται τοῦ Σωκράτους, οὐ κατὰ Σωκράτους καὶ Πλάτωνος καὶ Ἀλκιβιάδου. καταχρηστικώτερον δὲ τῷ τοιούτῳ ἐχρήσατο παραδείγματι. σαφῶς δὲ καὶ αὐτὸς ὁ Ἀριστοτέλης τὰ ἑξῆς ἀπαγγέλλει, πλὴν ἐν τῇ λέξει τῇ φανερὸν ὅτι καὶ οὗτος ἐν τῇ τοῦ ἐλέγχου ἀγνοίᾳ τὸ οὗτος περὶ τοῦ παραλογισμοῦ εἴρηκε τοῦ ἐκ τοῦ τὰ πλείω ἐρωτήματα ἓν ποιεῖν ὡρμημένου.",
+   "english": "He adduced \"as, for instance, man and only one man\" as an example of predicate and subject, calling \"man\" the predicate and \"only one man\" the subject; for if \"man\" is predicated, it will be predicated of only one, Socrates, not of Socrates and Plato and Alcibiades. He used such an example rather loosely. Aristotle himself sets out what follows clearly, except that in the phrase \"it is evident that this one too [falls] under ignorance of refutation\" he said \"this one\" of the fallacy that arises from making several questions one.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09715",
+   "ref": "169a22.2",
+   "original": "οὐ γὰρ ἴσασιν οἱ ἐρωτώμενοι ὅτι ἄλλο σημαίνει ὁ λόγος ἀνιέμενος καὶ ἐπιτεινόμενος, τουτέστιν ὀξυνόμενος ἢ περισπώμενος. ἐπ᾿ οὐδενὸς γὰρ τὸ αὐτὸ σημαίνει ἐπιτεινόμενος καὶ ἀνιέμενος, ἢ μᾶλλον οὐκ ἐπὶ πολλῶν· ἐπ’ ὀλίγων δὲ πάντῃ· Θαλῆς γὰρ καὶ Θάλης τὸ αὐτὸ δηλοῖ· καὶ ἄμφω γὰρ ὀνόματα κύρια· ἄγνος δὲ καὶ ἁγνὸς καὶ Ἀργὸς καὶ ἀργὸς ἄλλο καὶ ἄλλο δηλοῖ, καὶ σχεδὸν ἐπὶ πάντων. ἐπὶ δὲ τῶν παρὰ τὴν ὁμοιοσχημοσύνην γινομένων παραλογισμῶν ἡ ἀπάτη γίνεται διὰ τὸ χαλεπὸν εἶναι διελεῖν ποῖα ὡσαύ|τως καὶ ποῖα ὡς ἑτέρως λέγεται.",
+   "english": "For those being questioned do not know that the expression signifies something different when lowered and when raised, that is, when given an acute or a circumflex accent. For in no case does it signify the same thing when raised and lowered, or rather not in many; in a few, though, entirely: for Thalês and Thalês mean the same thing, since both are proper names; but agnos and hagnos, and Argos and argos, mean different things, and so in almost all cases. In the case of fallacies arising from similarity of form, the deception occurs because it is difficult to distinguish which things are said in the same way and which in a different way.",
+   "notes": "The accent distinctions (Θαλῆς/Θάλης, ἄγνος 'chaste-tree'/ἁγνὸς 'pure', Ἀργὸς/ἀργὸς 'idle') cannot be rendered in English; transliterated.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01822",
+   "ref": "169a33.2",
+   "original": "καὶ γὰρ ὅταν εἴπῃ τις ἄνθρωπον, πιθανὴν φαντασίαν ἐμποιεῖ, ὡς ἄρα ὁ ἄνθρωπος ὅμοιός ἐστι τῷ Σωκράτει καὶ εἷς ἀριθμῷ, ἐπειδὴ εἴδει ἐστὶν εἷς. τὸ δὲ τῷ γὰρ ἑνὶ καὶ τῇ οὐσίᾳ μάλιστα δοκεῖ παρέπεσθαι τὸ τόδε τι ἓν καὶ οὐσίαν τὰς ἀτόμους λέγει οὐσίας, οἷον Σωκράτην, Πλάτωνα καὶ τὰς τοιαύτας. ὡς οὖν ἐπὶ τούτων διὰ τὸ ὁμοίῳ σχήματι τῆς προσηγορίας σημαίνεσθαι τῷ ἑνικῷ (καὶ καὶ ὁ Σωκράτης ἄνθρωπος, καὶ ὁ ἄνθρωπος ὁμοίως ἄνθρωπος, ἀλλ’ οὐκ ἄνθρωποι πληθυντικῶς), ὡς οὖν ἐπὶ τούτων διὰ τὸ ἐν ὁμοίῳ σχήματι σημαίνεσθαι φαντασίαν ἐμποιεῖ ὅτι ὁ καθόλου ἄνθρωπος ὅμοιός ἐστι τῷ Σωκράτει καὶ εἷς ἀριθμῷ, οὕτως καὶ ἐπὶ τῶν ἄλλων συμβαίνει γίνεσθαι τῶν παρὰ τὴν ὁμοιότητα τῆς λέξεως γινομένων παραλογισμῶν.",
+   "english": "For when someone says \"man\", he produces a plausible impression that man is like Socrates and one in number, since he is one in species. By \"for 'this something' seems especially to accompany the one and substance\" he means by \"one\" and \"substance\" individual substances, such as Socrates, Plato and the like. As, then, in these cases, because they are signified by a like form of the designation, the singular (Socrates is \"a man\", and man likewise \"man\", not \"men\" in the plural), as, then, in these cases, because they are signified in a like form, an impression is produced that the universal man is like Socrates and one in number, so too it happens with the other fallacies that arise from similarity of expression.",
+   "notes": "Doubled καὶ καὶ is a printing error.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p01823",
+   "ref": "170b35.2",
+   "original": "εἴπερ φαμὲν συλλογίζεσθαι πρὸς τοὔνομα καὶ τὸν λόγον, ἤτοι τὴν ἀμφιβολίαν, ὅσοι περὶ τὰς ὁμωνυμίας καὶ ἀμφιβολίας διατρίβουσιν, ἐν οἷς μή εἰσιν ὁμώνυμα ἢ ἀμφίβολα τὰ λεγόμενα, οὗτοι οὐκ ἔσονται πρὸς τοὔνομα. ἔστι δὲ τὸ τῆς λέξεως τοιοῦτον· ὅσοι συλλογισμοί εἰσι παρὰ τὸ πλεοναχῶς, τουτέστιν ὅσοι οὐκ εἰσὶ τῶν πλεοναχῶς τισι χρωμένων, ἀλλ’ ἐκτός εἰσι τούτων, ὡς ἐπὶ τοῦ ῾Σωκράτης κάθηται, ὁ καθήμενος δύναται βαδίζειν, ὁ Σωκράτης ἄρα βαδίζει, οὗτοι οὐκ ἐκ τῶν πλεοναχῶς ἀλλ’ ἐκ τῶν πα ῥὰ τὸ πλεοναχῶς, ὥστε οὐδὲ πρὸς τοὔνομα ἔσονται οὐδὲ πρὸς τὴν διάνοιαν. τὸ δὲ τούτων εἰσί τινες οὐ παρὰ τοὔνομα ταὐτόν ἐστι τῷ ῾τούτων εἰσί τινες οἱ μὴ πρὸς τοὔνομα ὄντες᾿.",
+   "english": "If we say that those who deal with homonymies and ambiguities argue in relation to the word and the phrase, that is, the ambiguity, then those cases in which what is said is not homonymous or ambiguous will not be in relation to the word. The sense of the passage is this: all the syllogisms that depend on [something other than] multiplicity of meaning, that is, all those that do not belong to those that use terms in several senses but are outside them, as in \"Socrates is sitting, the man sitting is able to walk, therefore Socrates walks\", these are not from multiplicity of meaning but from what is beside multiplicity of meaning, so that they will be neither in relation to the word nor in relation to the thought. And \"of these there are some not depending on the word\" is the same as \"of these there are some which are not in relation to the word\".",
+   "notes": "πα ῥὰ is a split παρὰ. The gloss 'not of those that use terms in several senses' suggests παρὰ here means 'beside/apart from'; the reasoning is compressed.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09716",
+   "ref": "171a18.2",
+   "original": "ἆρ’ ἔστι σιγῶντα λέγειν ἢ οὐκ ἔστιν, ἀλλ’ ἔστι μὲν ὡς ἔστιν, ἔστι δ’ ὡς οὐκ ἔστι; τουτέστιν ἆρ’ ἔστι λέγειν σιγῶντα, ἢ ἀπλῶς μὲν ὁ σιγῶν οὐ λέγει, τρόπον δέ τινα ἔστι λέγειν τὸν σιγῶντα, τρόπον δέ τινα οὔ; τουτέστι κατὰ τὶ μὲν λέγει ὁ σιγῶν, κατὰ τὶ δ’ οὔ; φησὶν οὖν πρὸς τοῦτο ὁ Ἀριστοτέλης, ὡς κἂν κατὰ διαίρεσιν ἡ ἐρώτησις γένηται, οἱ συναχθησόμενοι πάλιν λόγοι, εἰς ἃ καὶ πρώην ἀνήγοντο, καὶ πάλιν εἰς ταὐτὰ ἀναχθήσονται, εἴς τε τὸ πρὸς τοὔνομα καὶ πρὸς τὴν διάνοιαν, ὅπερ ἐδείχθη ταὐτόν. εἰ γὰρ ἐκ διαιρέσεως προβαίη ἡ ἐρώτησις καὶ ὁ μὲν ἀποκρινόμενος ἀποφήσει μὴ δυνατὸν εἶναι λέγειν τὸν σιγῶντα, ὁ δ’ ἐρωτῶν ἐπαγάγῃ συμπέρασμα ὡς δύναται λέγειν ὁ σιγῶν, δῆλον ὡς οὐ πρὸς τὴν διάνοιαν, τουτέστιν οὐ κατὰ τὴν διάνοιαν διειλέχθη τοῦ ἀποκρινομένου ὁ ἐρωτῶν ἀλλὰ πρὸς τὸ ὄνομα.",
+   "english": "\"Is it possible for one who is silent to speak, or is it not possible, or is it possible in one way and not possible in another?\" That is: is it possible for one who is silent to speak, or does the silent person simply not speak, but in one manner it is possible for the silent person to speak and in another not? That is, in some respect the silent person speaks and in some respect not? Aristotle says in response to this that even if the question is put by division, the arguments to be drawn will again be reduced to the same things to which they were reduced before, namely to [being directed] at the word and at the thought, which was shown to be the same. For if the question proceeds by division, and the answerer denies that it is possible for the silent person to speak, while the questioner brings in the conclusion that the silent person can speak, it is clear that the questioner has argued not against the thought, that is, not according to the answerer's thought, but against the word.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09717",
+   "ref": "171b7.2",
+   "original": "προσποιεῖται γὰρ εἰδέναι. ἀλλ’ ὁ μὲν πειραστικὸς ἐπ’ ὠφελείᾳ, ὡς εἴρηται, τοῦτο ποιεῖ τοῦ προσποιουμένου εἰδέναι τὸ πρᾶγμα καὶ ἐκ τῶν ἀπλῶς ἐνδόξων ἢ τῶν δοκούντων τῷ προσποιουμένῳ εἰδέναι τὸ πρᾶγμα (καὶ πολὺ τοῦτο παρὰ τῷ Πλάτωνι τὸ εἶδος τῶν λόγων), ὁ δὲ σοφιστὴς ἔκ τινων ὁμωνύμων ἢ ἀμφιβόλων ἡ τινων ἄλλων τοιούτων. δύο οὖν, φησίν, εἰσὶν οἱ ἐριστικοὶ συλλογισμοί, εἷς μὲν ὁ προειρημένος ὁ ἀσυλλόγιστον ἔχων τὸ σχῆμα, ἕτερος δὲ ὃς οὐκ ἐκ τῶν οἰκείων ἀρχῶν τῆς προκειμένης ὢν μεθόδου μηδὲ ταῖς οἰκείαις τοῦ πράγματος χρώμενος προτάσεσι δοκεῖ εἶναι κατὰ τὴν τέχνην, ἤγουν <ἐκ> τῶν τῇ τέχνῃ.",
+   "english": "For he pretends to know. But the examiner does this for the benefit of the one who pretends to know the matter, and [argues] from what is reputable simply or from what seems [true] to the one pretending to know the matter (and this kind of argument is frequent in Plato), whereas the sophist [argues] from certain homonyms or ambiguities or other such things. There are therefore, he says, two eristic syllogisms: one, the aforesaid, which has a non-syllogistic form; the other, which, not being from the proper principles of the method in hand nor using the proper premises of the matter, seems to be according to the art, that is, <from> the things [proper] to the art.",
+   "notes": "Final clause elliptical; <ἐκ> is an editorial supplement.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09718",
+   "ref": "171b34.2",
+   "original": "ὁ δὲ διὰ τῶν μηνίσκων οὐκ ἐριστικός, ὅτι ἐκ τῶν ἀρχῶν τῆς γεωμετρίας τοὺς λόγους ποιεῖται. καὶ διὰ τοῦτο τὸν μὲν οὐκ ἔστι μετενεγκεῖν ἐπ’ ἄλλα, ὅτι τὰς ἀρχὰς τῆσδε τῆς ἐπιστήμης ἀδύνατον ἐπ’ ἄλλην μετάγειν· τὸν δὲ τοῦ Βρύσωνος πρὸς πολλά, ὥσπερ καὶ ἐν τῇ Ἀποδεικτικῇ εἴρηται τῷ Ἀριστοτέλει ὅτι “κατὰ κοινόν τε γὰρ δεικνύουσιν οἱ τοῦ Βρύσωνος λόγοι, ὃ καὶ ἑτέρῳ ὑπάρξει· διὸ καὶ ἐπ’ ἄλλων ἐφαρμόττουσιν οἱ λόγοι οὐ συγγενῶν”. οἷς γὰρ ὁ Βρύσων ἐπὶ ποσὸν ἐχρήσατο, ταῦτ’ ἔστι μετενεγκεῖν καὶ ἐπὶ ποιά· ἔστι γὰρ οὕτως εἰπεῖν· τὸ ψιμμύθιον καὶ ὠὸν χιόνος μὲν μελάντερα, τιτάνου δὲ λευκότερα· τὰ δὲ τῶν αὐτῶν λευκότερα καὶ μελάντερα ὁμοίως εἰσὶ λευκά·",
+   "english": "But the [argument] by means of the lunes is not eristic, because it makes its arguments from the principles of geometry. And for this reason the one cannot be transferred to other things, since it is impossible to carry the principles of this science over to another; but Bryson's [can be transferred] to many, as Aristotle has said in the Demonstrative [treatise]: \"for Bryson's arguments prove according to what is common, which will also belong to something else; therefore the arguments apply also to other things that are not akin.\" For what Bryson used with respect to quantity can be transferred also to qualities. For one can speak thus: white lead and an egg are blacker than snow but whiter than lime; things whiter and blacker than the same things are equally white;",
+   "notes": "'Demonstrative [treatise]' = Posterior Analytics.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09719",
+   "ref": "173a7.2",
+   "original": "Ἔτι περὶ τοῦ εἰς παράδοξον ἄγειν τὸν ἀποκρινόμενον λέγει, καὶ φησὶν ὅτι ἰσχυρός ἐστι τόπος εἰς τὸ εἰς παράδοξον ἄγειν τὸ ἐπιχειρεῖν ἀπὸ τοῦ κατὰ φύσιν καὶ κατὰ νόμον, ὥσπερ καὶ ὁ Καλλικλῆς ἐν τῷ Γοργίᾳ καὶ πάντες οἱ ἀρχαῖοι ποιοῦσιν· εἰσάγει γὰρ ὁ Πλάτων’ ἐν τῷ ἐπιγραφομένῳ Γοργίᾳ αὑτοῦ διαλόγῳ τὸν Καλλικλῆν λέγοντα τὴν δικαιοσύνην μὴ εἶναι καλήν τε καὶ ἀγαθὴν ὡς μὴ κατὰ φύσιν ἀλλὰ κατὰ νόμον μόνον οὖσαν ἀγαθήν, τὴν δὲ πλεονεξίαν μᾶλλον εἶναι καλὴν ὡς κατὰ φύσιν. διὰ τί γάρ, φησί, τῶν θηρίων τὰ μὲν πεποίηκεν ἰσχυρὰ τὰ δ’ ἄτονα;",
+   "english": "Further, he speaks about leading the answerer into paradox, and says that a strong topic for leading into paradox is to argue from what is by nature and what is by convention, as Callicles does in the Gorgias and as all the ancients do. For Plato in his dialogue entitled Gorgias introduces Callicles saying that justice is not fine and good, since it is good not by nature but only by convention, whereas greed is rather fine, since it is so by nature. For why, he says, has [nature] made some beasts strong and others feeble?",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01824",
+   "ref": "173b17.2",
+   "original": "φῄς δὲ λίθον εἶναι᾿, εἶτα ἐπάγουσιν ῾ἔστιν ἄρα λίθον᾿. τὸ τοιοῦτον σολοικισμὸς μὲν εἶναι δοκεῖ, κυρίως δὲ οὐκ ἔστιν· ἔδει γὰρ οὕτως ἐπαγαγεῖν τοὺς σοφιστὰς ῾ἔστιν ἄρα λίθον εἶναι᾿. ἐνίοτε δὲ ποιῶν τις σολοικισμὸν οὐ δοκεῖ ποιεῖν, ὡς ὁ Πρωταγόρας· οὗτος γὰρ τὸν μῆνιν καὶ τὸν πήληκα ἔλεγε, καὶ ποιῶν σολοικισμὸν οὐκ ἐνόμιζε σολοικίζειν, τοῖς δ’ ἄλλοις ἐφαίνετο. ὥστ’ ἐκείνῳ μὲν ἐφαίνετο σολοικίζειν ὁ λέγων τὴν μῆνιν καὶ τὴν πήληκα, τοῖς δὲ πολλοῖς οὔ·",
+   "english": "\"...and you say [it] is a stone\", then they infer, \"therefore [it] is a stone (accusative)\". Such a thing seems to be a solecism, but strictly is not; for the sophists ought to have inferred thus: \"therefore [it] is to be a stone\". Sometimes, again, someone committing a solecism does not seem to commit one, like Protagoras; for he said \"the (masculine) mēnis [wrath]\" and \"the (masculine) pēlēx [helmet]\", and in committing a solecism did not think he was committing one, though to others it appeared so. So to him the one who said \"the (feminine) mēnis\" and \"the (feminine) pēlēx\" appeared to commit a solecism, but not to most people.",
+   "notes": "The sophism plays on the accusative λίθον after ἔστι; grammatical point hard to render in English.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09720",
+   "ref": "174b12.2",
+   "original": "πότερόν σοι δοκεῖ ὁ Ἀρχέλαος βασιλεὺς ὢν εὐδαίμων ἢ οὕ; εἰ γοῦν ὁμολογήσει τὸ φαινόμενον τοῖς f. 37r πᾶσιν ἔνδοξον, τὸ εἶναι τὸν Ἀρχέλαον εὐδαίμονα, ἐνταῦθα περιέχεται τὸ ἐξ ἀρχῆς κείμενον ἄδοξον, τὸ τὴν ἀδικίαν εὐδαιμονίαν εἶναι. οὕτως ἐν τῷ Πλάτωνος Γοργίᾳ ὁ Πῶλος ποιεῖ· ὁ γὰρ Πῶλος εἰπὼν ὅτι τὸ ἀδικεῖν καὶ τὸ φονεύειν ἀγαθόν ἐστι, παράδοξον ὂν πάντως, καὶ δεῖξαι τοῦτο βουλόμενος ἐρωτᾷ τὸν Σωκράτην Ἅρχέλαος Ἀρχέλαος ὁ Περδίκκου ὁ ἄρχων εὐδαίμων σοι δοκεῖ εἶναι ἢ ἄθλιος;’·",
+   "english": "\"Does Archelaus, being king, seem to you happy or not?\" If, then, he agrees to what appears reputable to all, that Archelaus is happy, there is contained here the disreputable thesis laid down at the start, that injustice is happiness. So Polus does in Plato's Gorgias: for Polus, having said that doing wrong and murdering is good, which is wholly paradoxical, and wishing to prove this, asks Socrates: \"Does Archelaus son of Perdiccas, the ruler, seem to you to be happy or wretched?\"",
+   "notes": "\"f. 37r\" is a manuscript folio mark, omitted; \"Ἅρχέλαος\" duplicated in the text, omitted.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09721",
+   "ref": "174b12.2",
+   "original": "οὗτος δὲ ὁ Ἀρχέλαος φονεύσας τοὺς ἑαυτοῦ συγγενεῖς καὶ τὰ μέγιστα ἀδικήσας [τῆς] τῶν Μακεδόνων ἦρξεν. ἐν γοῦν τῇ προτάσει ταύτῃ, τῇ ‘Ἀρχέλαος εὐδαίμων σοι δοκεῖ εἶναι;’ περιέχεται ἡ ἐξ ἀρχῆς παράδοξος θέσις, ἣν θέσιν ὁ Ἀριστοτέλης τὸ δοκοῦν ἐξ ἀρχῆς εἶπεν. ὅτι δὲ ἐν τῇ προτάσει ταύτῃ ἡ ἐξ ἀρχῆς περιέχεται θέσις, δῆλον· εἰ γὰρ τὸ εὐδαιμονεῖν ἀγαθόν, ὁ δὲ Ἀρχέλαος ἀδικήσας εὐδαίμων, ὡς ᾤετο Πῶλος, ὁ Ἀρχέλαος, ἤτοι ὁ ἄδικος, καὶ τὸ ἀδικεῖν ἀγαθόν. ὥστε ὁ ἀξιῶν τὸν Ἀρχέλαον εὐδαίμονα εἰπεῖν τὸ προκείμενον ἀξιοῖ·",
+   "english": "This Archelaus, having murdered his own kinsmen and committed the greatest injustices, ruled over the Macedonians. In this premise, then, \"Does Archelaus seem to you to be happy?\", there is contained the paradoxical thesis laid down at the start, the thesis which Aristotle called \"what was held at the start\". That the original thesis is contained in this premise is clear: for if being happy is good, and Archelaus, having done injustice, is happy, as Polus thought, then Archelaus, that is, the unjust man, [is in a good state], and doing injustice is good. So the one who asks [the answerer] to call Archelaus happy is asking [him to grant] the proposition under discussion.",
+   "notes": "The clause \"ὁ Ἀρχέλαος, ἤτοι ὁ ἄδικος, καὶ τὸ ἀδικεῖν ἀγαθόν\" is elliptical; the bracketed supplement is conjectural. The bracketed [τῆς] is the edition's deletion and is not translated.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01825",
+   "ref": "174b19.2",
+   "original": "καὶ ἔτι φησὶ πειρᾶσθαι δεικνύναι τὸν ἀποκρινόμενον τἀναντία λέγοντα τῶν δοκούντων τοιούτων, λέγων τοιούτους τοὺς ἀγαθοὺς περὶ ἕκαστα, οἷον ἰατρούς, οἷον ὅτι ἃ φῄς ἐναντία ἐστὶν ὧν δοκεῖ τοῖς ἀγαθοῖς ἰατροῖς ἢ φρονίμοις, ἢ ὧν δοκεῖ πᾶσιν ἢ τοῖς πλείστοις ἢ τοῖς σοφοῖς, ὡς καὶ ἐν τῷ Γοργίᾳ Σωκράτης πρὸς Καλλικλέα ποιεῖ. ὁμοίους δὲ αὐτοῦ ἔλεγεν, οἷον εἰ ἰατρὸς εἴη, ἀπελεγκτέον λέγοντα ἐναντία ἰατροῖς, εἰ μουσικός, μουσικοῖς, καὶ εἰ γεωμέτρης, γεωμέτραις.",
+   "english": "And further he says one should try to show the answerer saying the opposite of the views held by such people, calling \"such\" those good in each field, for example doctors: for instance, \"what you say is contrary to the views of good doctors or prudent men\", or \"of everyone, or of most people, or of the wise\", as Socrates also does to Callicles in the Gorgias. By \"those like him\" he meant: for example, if he is a doctor, he should be refuted as saying things contrary to doctors; if a musician, to musicians; and if a geometer, to geometers.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09722",
+   "ref": "174b28.2",
+   "original": "ὅταν διὰ μακρῶν τὸ προκείμενον συλλογισθῇ τῷ μὴ δύνασθαι διὰ βραχέων (εὐφώρατον γὰρ γίνεται τὸ συμβαῖνον ἐξ ὀλίγων συναγόμενον), δεῖ, φησίν, ἀφίστασθαι τοῦ λόγου, τουτέστι τῆς μακρολογίας, καὶ τὰ λοιπὰ τῶν ἐπιχειρημάτων ἐπιτέμνειν, καὶ ἄν προαισθόμενος τὸ συμβαῖνον ἐνίστηται ὅτι οὐκ ἔστιν ὃ μέλλεις συνάγειν, προαγορεύειν ἰού τὸ καὶ τὸ πρὸ ὀλίγου ὡμολόγησας;’. καὶ ἔστι πολλὰ τοιαῦτα εὑρεῖν παρὰ τῷ Πλάτωνι. καλλίων δὲ οἶμαι ἡ προτέρα ἐξήγησις· τοῦτο γὰρ οὐ σοφιστικόν, τὸ τὰ προδιομολογηθέντα καὶ προδειχθέντα διαρθροῦν, ἀλλὰ διαλεκτικόν. καὶ ὁ βουλόμενος ἀκριβεστέρως μαθεῖν, πῶς ἀφίσταται καὶ ἐπιτέμνει τὸν λόγον ὁ ἀποκρινόμενος, τὸ πρῶτον τῶν Πολιτικῶν τοῦ Πλάτωνος·",
+   "english": "When the proposition is reached by syllogism through a long chain, because it cannot be done through a short one (for the result is easily detected when it is drawn from a few [premises]), one must, he says, withdraw from the argument, that is, from the long speech, and cut short the rest of the arguments; and if [the answerer], foreseeing the result, objects that what you are about to conclude is not so, one must declare in advance, \"Look, did you not agree to this and that a little while ago?\" And many such things can be found in Plato. But I think the former explanation is better; for this, articulating what has been agreed and shown beforehand, is not sophistical but dialectical. And whoever wishes to learn more precisely how the answerer withdraws from and cuts short the argument [should read] the first [book] of Plato's Republic;",
+   "notes": "\"ἰού τὸ καὶ τὸ\" is read as ἰού, τὸ καὶ τό (\"look, this and that\"). The Republic is called here \"Politika\"; the verb \"should read\" is implied.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01826",
+   "ref": "174b28.4",
+   "original": "Σοφιστικόν ἐστι καὶ τὸ καταλιπόντας περὶ τοῦ προκειμένου ποιεῖσθαι τοὺς λόγους μετάγειν αὐτοὺς καὶ μεταφέρειν πρὸς τοῦτο πρὸς ὃ εὐπορεῖν ἔστιν ἐπιχειρημάτων, ὡς ὁ Πρωταγόρας ἐν τῷ ὁμωνύμῳ διαλόγῳ ποιεῖ, ποτὲ μὲν μύθους τινὰς διεξιὼν, ποτὲ δὲ περὶ ποιημάτων τὸν λόγον ποιούμενος ἐν οἷς εὐπορεῖν ἐπιχειρημάτων ἠδύνατο. ἢ οὖν τοῦτό ἐστιν ὃ λέγει, ὅτι δεῖ μετάγειν τὸν λόγον πρὸς ὃ εὐποροῦμεν ἐπιχειρημάτων, ἢ ὅτι πρὸς ἄλλο τοῦ κειμένου.",
+   "english": "It is also sophistical to abandon making one's arguments about the matter proposed and to divert and transfer them to that on which one has a ready supply of arguments, as Protagoras does in the dialogue named after him, at one time recounting certain myths, at another making his discourse about poems, on which he was able to have a ready supply of arguments. So either this is what he means, that one must divert the argument to that on which we have a ready supply of arguments, or [he means diverting it] to something other than the thesis laid down.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09723",
+   "ref": "174b28.4",
+   "original": "τοῦ γὰρ Σωκράτους δείξαντος ὅτι τὸ ἀδικεῖν τοῦ ἀδικεῖσθαι αἴσχιον, ὁ Καλλικλῆς μετέλαβε πρὸς ἄλλο εἰπὼν ‘φύσει μὲν παναίσχιον τὸ ἀδικεῖσθαι, νόμῳ δὲ τὸ ἀδικεῖν· ἀλλὰ μὴν τοὺς νόμους φαῦλοι καὶ δειλοὶ ἄνθρωποι τιθένται· ὃ δὲ οὗτοι τίθενται, ἐστὶ φαῦλον, οὐ μὴν ὃ ἡ φύσις· οὐκ ἄρα τὸ ἀδικεῖν φαῦλον’. δεῖ οὖν πρὸς ἄλλο τοῦ κειμένου μεταφέρειν, ὥσπερ καὶ Ἰσοκράτης ποιεῖ· μὴ δυνηθεὶς γὰρ αὐτόθι τὴν Ἑλένην ἐγκωμιάσαι ἐπαινεῖ τοὺς αὐτῆς ἐραστὰς καὶ ἐκ τούτου συνάγει τὸν ἔπαινον εἰς αὐτήν· ἧς γὰρ οἱ ἥρωες ἤρων, πῶς οὐ καθέστηκεν ἀξία ἐπαίνων; καὶ ὁ σοφιστὴς Λυκόφρων τοὺς λυρικοὺς ἐπαινῶν ἐπὶ τὴν λύραν μετήνεγκε τὸν ἔπαινον.",
+   "english": "For when Socrates had shown that doing injustice is more shameful than suffering it, Callicles shifted to something else, saying: \"By nature suffering injustice is utterly shameful, but by law doing injustice is; yet laws are laid down by base and cowardly men; and what these men lay down is base, not what nature [lays down]; therefore doing injustice is not base.\" One must, then, shift from what was posited to something else, as Isocrates also does: unable to praise Helen directly, he praises her suitors and from this draws the praise toward her; for how is she whom the heroes loved not worthy of praise? And the sophist Lycophron, praising lyric poets, transferred the praise to the lyre.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01827",
+   "ref": "175a26.2",
+   "original": "κείσθω γὰρ τὸν Σωκράτην μήτε καθῆσθαι μήτε γράφειν, καὶ λεγέτω τις ὅτι ὁ Σωκράτης κάθηται, ὁ καθήμενος γράφει, ὁ Σωκράτης ἄρα γράφει· τοῦτο δὲ ψεῦδος· εἰ οὖν τις τὸ ψεῦδος συναχθῆναι λέγει διὰ τὸ τὸν Σωκράτην καθῆσθαι, λέλυκε μέν, ἀλλὰ πρὸς τὸν ἄνθρωπον ἀλλ’ οὐ πρὸς τὸ πρᾶγμα· οὐ γὰρ παρὰ τὴν τὸν Σωκράτην λέγουσαν καθῆσθαι πρότασιν τὸ ψεῦδος, ἀλλὰ παρὰ τὸ τὸν καθήμενον γράφειν. | ἐπεὶ εἰ Κορίσκος καθήμενος τύχῃ, ὅτε Σωκράτης ἵσταται, μὴ γράφει δὲ καὶ λέγει τις ὅτι ὁ Κορίσκος κάθηται, ὁ καθήμενος γράφει, ὁ Κορίσκος ἄρα γράφει, ὅπερ ψεῦδος, οὐκ ἄν ἐπὶ τούτου ἁρμόσοι λέγειν ὅτι παρὰ τὸ τὸν Κορίσκον καθήμενον λαβεῖν γέγονεν ὁ ἔλεγχος·",
+   "english": "For let it be laid down that Socrates is neither sitting nor writing, and let someone say: Socrates is sitting, the one sitting is writing, therefore Socrates is writing. But this is false. If, then, someone says that the falsehood was concluded because of [the premise] that Socrates is sitting, he has resolved [the argument], but in relation to the man and not in relation to the matter; for the falsehood does not arise from the premise saying that Socrates is sitting, but from [the premise] that the one sitting is writing. For if Coriscus happens to be sitting, while Socrates is standing, but is not writing, and someone says: Coriscus is sitting, the one sitting is writing, therefore Coriscus is writing, which is false, it would not be fitting in this case to say that the refutation came about through taking Coriscus as sitting;",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09724",
+   "ref": "175b8.2",
+   "original": "Εἰ διελὼν τὰ ὁμώνυμα ὁ σοφιστὴς ἠρώτα, ἐγίνετο ὅπερ νῦν μὲν ἧττον ἐπιζητοῦσιν οἱ σοφισταί, μᾶλλον δὲ ἐν τοῖς κατὰ Πλάτωνα χρόνοις. τί δὲ ἦν ἐκεῖνο ὃ ἐζήτουν, ἐπάγει, τὸ ἀποκρίνεσθαι ἢ ναὶ ἢ οὔ. πάλαι γὰρ ἀμφίβολα καὶ ὁμώνυμα ἐρωτῶντες τὸν Πλάτωνα εὕρισκον αὐτὸν ἀποκρινόμενον τὴν ἀντίφασιν, τὸ ‘ἔστι μὲν ὡς, ἔστι δ’ ὡς οὔ’·",
+   "english": "If the sophist asked after distinguishing the homonyms, there would come about what sophists now seek less, but [sought] more in Plato's time. And what was that which they sought? He adds: to answer either yes or no. For in the past, when they asked Plato ambiguous and homonymous questions, they found him answering with the contradiction, \"in one way it is, in another way it is not\";",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p01828",
+   "ref": "175b21.2",
+   "original": "ἀνατρέψας οὖν τοὺς κακῶς λύοντάς φησιν ἀλλ’ ἴσως οὐ ταὐτὸν σημαίνει, ὃ δυνάμει τοιοῦτον ἂν εἴη· ἴσως οὐχ οὕτω δεῖ διορθοῦσθαι, ὅτι ὅδε ὁ Κορίσκος μουσικὸς καὶ ὅδε ἄμουσος, ἀλλ’ ὅτι οὐ ταὐτὸν σημαίνει, τουτέστι τὸ Κορίσκος οὐχ ἓν σημαίνει. οὐ γάρ ἐστιν ἑνὸς δηλωτικὸν τὸ Κορίσκος ὄνομα, ὥσπερ οὐδὲ ὁ Σωκράτης καὶ ὁ λευκὸς Σωκράτης· εἰ γὰρ καὶ τῷ ὑποκειμένῳ ἕν ἐστιν ὁ Κορίσκος καὶ ὁ κεκαλυμμένος Κορίσκος, ὥσπερ καὶ ὁ Σωκράτης καὶ ὁ λευκὸς Σωκράτης, ἀλλὰ τῷ λόγῳ οὐχ εἷς ἐστιν. ὥστε ῥητέον ὅτι ἐλεγχοειδὲς καὶ παρὰ τὸ συμβεβηκός.",
+   "english": "So, having overturned those who resolve [the argument] badly, he says \"but perhaps it does not signify the same thing,\" which would in effect be this: perhaps one should not correct [the argument] by saying that this Coriscus is musical and this one unmusical, but that it does not signify the same thing, that is, \"Coriscus\" does not signify one thing. For the name \"Coriscus\" is not indicative of one thing, just as neither are \"Socrates\" and \"white Socrates\"; for even if Coriscus and veiled Coriscus are one in subject, as also are Socrates and white Socrates, yet in account they are not one. So it must be said that [the argument] has the appearance of a refutation and [arises] from accident.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09725",
+   "ref": "176b20.2",
+   "original": "εἰ γὰρ μὴ κινεῖται, οὐδὲ χωρίζεται τοῦ σώματος, καὶ εἰ μὴ χωρίζεται, ἐστὶ θνητή. ἢ λέγοι ἂν διὰ τοῦ μεταφέρειν τὸ μεταφοραῖς χρῆσθαι· εἰ γάρ τις θείη τὴν ψυχὴν θνητήν, χρήσεται δέ] τις μεταφορᾷ καὶ εἴπῃ ‘εἰ ἡ ψυχὴ ἁρμονία ἐστὶ ζωὴ οὖσα’, ὡς ὁ Πλάτων’ ἐν τῷ Φαίδωνι πεποίηκεν, ‘οὐκ ἂν γένοιτό ποτε ἀναρμοστία, ἤτοι θάνατος· εἰ γὰρ ἡ ψυχὴ ζωὴ οὖσα ἁρμονία ἐστίν, πάντως ὁ θάνατος ἀναρμοστία ἐστίν· εἰ δὲ ἡ ἁρμονία μὴ γίνεται ἀναρμοστία, πάντως οὐδὲ θάνατος·",
+   "english": "For if it is not moved, it is not separated from the body either, and if it is not separated, it is mortal. Or he might mean by \"transferring\" the use of metaphors: for if someone were to posit that the soul is mortal, and someone uses a metaphor and says, \"If the soul is a harmony, being life,\" as Plato did in the Phaedo, \"it could never become disharmony, that is, death; for if the soul, being life, is a harmony, death is certainly disharmony; and if harmony does not become disharmony, then certainly neither [does it become] death;",
+   "notes": "Stray bracket after δέ omitted. The argument is compressed and the attribution to the Phaedo is loose.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09726",
+   "ref": "177a9.2",
+   "original": "οὔτε γὰρ τὸ ‘ἐπίσταται’ πλείω σημαίνει οὕτε τὸ ‘γράμματα’, συντεθὲν δὲ διττόν ἐστιν· ὃς τρόπος ἴδιός ἐστι τοῦ κατὰ ἀμφιβολίαν μόνου. τέταρτος δὲ ὁ ἀντιστρόφως τούτῳ ἔχων, ὅταν τὸ μὲν σύνθετον ἓν σημαίνῃ, ὡς τὸ ‘ὁ ἄνθρωπος νεκρός ἐστι’, κεχωρισμένον δὲ πολλά, ὥσπερ καὶ τὸ ‘Ὅμηρος ποιητής ἐστιν’ ἓν δηλοῖ, χωρισθὲν δέ, οἷον ‘Ὅμηρός ἐστι’, πολλά· ἢ γὰρ ὅτι ποιητής ἐστιν, ἢ ὅτι ζῇ καὶ ἔστι. τούτων οὕτως ἐχόντων λέγει ὅτι τῶν παρὰ τὴν ὁμωνυμίαν καὶ ἁμφιβολίαν ἐλέγχων οἱ μὲν παρὰ τὴν ὁμωνυμίαν ἔλεγχοι ἕν τι τῶν ἐρωτημάτων ἔχουσι πολλὰ σημαῖνον, τὸ ὄνομα δηλαδή·",
+   "english": "For neither \"knows\" nor \"letters\" signifies more than one thing, but combined it is double; this mode is proper to ambiguity alone. The fourth is the one that is the converse of this, when the combined [expression] signifies one thing, as \"the man is dead,\" but separated, many; just as \"Homer is a poet\" indicates one thing, but separated, as \"Homer is,\" many: either that he is a poet, or that he lives and exists. This being so, he says that of the refutations depending on homonymy and ambiguity, those depending on homonymy have one of the terms asked about signifying many things, namely the name;",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01829",
+   "ref": "117a20.2",
+   "original": "συνεπεράνατο δ’ ἐκεῖνος ὅτι ἄρ’ ἔστι σιγῶντα λέγειν. πῶς γοῦν ἀποδράσει πάλιν τὸν ἔλεγχον ὁ ἀποκρινόμενος; ὁπηνίκα ἐκεῖνος ἐξάγει τὸ συμπέρασμα λέγων ‘ἄρ’ ἔστι σιγῶντα λέγειν’, προστιθεὶς αὐτὸς ‘οὔ· ὁ γὰρ Σωκράτης ὅδε σιγῶν οὐ λέγει’. ὡσαύτως ποιητέον καὶ ἐν τοῖς ἔχουσι τὸ διττὸν ἐν ταῖς προτάσεσιν, εἰ μὴ φθάσοι ὁ ἀποκρινόμενος τότε τοῦτο προδιαστείλασθαι. τὰ δὲ ἑξῆς σαφῆ εἰσι καὶ τοῖς ῥηθεῖσι παραπλήσια.",
+   "english": "And that man concluded: \"So it is possible for one who is silent to speak.\" How then will the answerer escape the refutation in turn? When that man draws out the conclusion saying \"So it is possible for one who is silent to speak,\" [by] himself adding: \"No; for this Socrates, being silent, does not speak.\" One must act in the same way also in cases that have the ambiguity in the premises, if the answerer has not managed to draw this distinction beforehand at that point. What follows is clear and similar to what has been said.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p01830",
+   "ref": "177a33.2",
+   "original": "παρὰ δὲ τὴν σύνθεσιν αὐτοὺς ἢ τὴν διαίρεσιν εἶπε, διότι τὸ αὐτὸ ἀπὸ τοῦδε διαιρούμενον συντίθεται τῷδε καὶ συντιθέμενον τῷδε διαιρεῖται ἀπὸ τοῦδε. οἷον ὁ Σωκράτης κάθηται, ὁ καθήμενος δύναται βαδίζειν, ὁ Σωκράτης ἄρα βαδίζει· τὸ οὖν βαδίζειν διαιρεθὲν ἀπὸ τοῦ ‘δύναται’ συνετέθη τῷ Σωκράτει, καὶ γέγονεν ὁ παραλογισμὸς ὁ λέγων ‘ὁ Σωκράτης ἄρα βαδίζει’ ἐπεὶ οὖν τοῦ αὐτοῦ, οἷον τοὐ βαδίζειν, ἅμα καὶ διαίρεσις καὶ σύνθεσις γίνεται, ἀλλὰ ἀπ’ ἄλλου μὲν διαίρεσις, οἷον ἀπὸ τοῦ ‘δύναται’, ἄλλῳ δὲ σύνθεσις, οἷον τῷ Σωκράτει, διὰ τοῦτο εἶπεν εἰσὶ δὲ παρὰ σύνθεσιν ἢ διαίρεσιν·",
+   "english": "He said that they arise from combination or division because the same thing, when divided from this, is combined with that, and when combined with that, is divided from this. For example: Socrates is sitting, the one sitting is able to walk, therefore Socrates walks. So \"to walk,\" divided from \"is able,\" was combined with Socrates, and the paralogism arose that says \"therefore Socrates walks.\" Since, then, of the same thing, for example of \"to walk,\" there occur at once both division and combination, but division from one thing, for example from \"is able,\" and combination with another, for example with Socrates, for this reason he said \"they arise from combination or division\";",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09727",
+   "ref": "177b12.2",
+   "original": "τὸ δὲ ἀλλὰ μὴν καὶ κακὸν καὶ [σπουδαῖον] μάθημα τὸ κακὸν δύναται καὶ ὡς ἀπὸ σοφιστῶν λεγόμενον νοεῖσθαι ἐπιτεινόντων τὸ ἄτοπον, ὡσανεὶ λεγόντων ‘σπουδαῖον ἄρα μάθημα τὸ κακόν, ἀλλὰ μὴν καὶ κακόν, ὅπερ ἄτοπον’, τὸ δὲ καὶ μάθημα τὸ κακόν ὡς κατασκευαστικὸν ὑπ’ αὐτῶν λέγεσθαι τοῦ καὶ τὸ κακὸν μάθημα εἶναι καὶ μὴ μόνον τὰ καλὰ εἶναι μαθήματα ἀλλὰ καὶ τὰ κακά. δύναται μὲν οὖν καὶ οὕτως ὡς εἴπομεν νοεῖσθαι. δύναται καὶ ὡς λύσιν τις τοῦτο τοῦ σοφίσματος ἐπινοεῖν, δυνάμει λέγοντος τοῦ Ἀριστοτέλους ‘πρῶτον μὲν οὐκ ἔστι μάθημα τὸ κακόν· εἰ δὲ καὶ θήσει τις μάθημα εἶναι καὶ τὸ κακόν, κακὸν ἔσται μάθημα’ οὐ γὰρ τὸ σπουδαῖον εἶναι συνάγεται διὰ τῶν ἠρωτημένων, ἀλλὰ τὸ τῶν κακῶν σπουδαίαν δαίαν εἶναι τὴν ἐπιστήμην·",
+   "english": "The phrase \"but indeed evil is also a bad and [good] study\" can also be understood as said by sophists heightening the absurdity, as if saying, \"so evil is a good study, and yet also bad, which is absurd\"; and the phrase \"and evil is a study\" as said by them in support of [the claim] that evil too is a study, and that not only good things are studies but also bad ones. It can, then, be understood in the way we have said. One can also conceive this as a solution of the sophism, Aristotle saying in effect: \"First, evil is not a study; but if someone posits that evil too is a study, it will be a bad study.\" For what is concluded through the questions is not that [evil] is good, but that the knowledge of evils is good;",
+   "notes": "The bracketed [σπουδαῖον] is the edition's supplement. \"σπουδαίαν δαίαν\" is a duplication; read σπουδαίαν.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09728",
+   "ref": "177b22.2",
+   "original": "τὸ δὲ ‘πάντως δύναται κιθαρίζειν’ δηλοῖ καὶ τὸ ὅτε οὐ κιθαρίζει, ὅτι ἤδη κιθαρίζει, ὅπερ ψεῦδος, τὸ λέγειν ὅτι δύναμιν ἔχει, ὅτε οὐ κιθαρίζει, τότε κιθαρίζειν ὡς ἅμα εἶναι κιθαρίζοντα καὶ μὴ κιθαρίζοντα. λέγει οὖν ὁ Ἀριστοτέλης μὴ καλῶς αὐτοὺς λύειν· εἰ γὰρ οὕτως τις ἐρωτήσει τὸν λόγον ‘ἆρ’ ὡς συγχωρεῖς καὶ τίθεσαι, καὶ ἃ συγχωρεῖς καὶ τίθεσαι, οὕτως καὶ ταῦτα ποιήσαις ἄν; οὐ κιθαρίζων δὲ συγχωρεῖς καὶ τίθεσαι κιθαρίζειν; ναί· οὐ κιθαρίζων ἄρα κιθαρίζεις’, εἰ οὖν οὕτως ἔροιτό τις τὸν λόγον, ἡ μὲν τοῦ Ἀριστοτέλους λύσις ἁρμόσει, ἡ λέγουσα παρὰ τὴν σύνθεσιν εἶναι τὸ σόφισμα, ἡ δὲ τῶν ἄλλων λόγων οὐδαμῶς.",
+   "english": "But \"he can certainly play the lyre\" also signifies that when he is not playing, he is already playing, which is false, namely to say that he has the capacity, when he is not playing, to be playing at that very time, so that he is at once playing and not playing. Aristotle says, then, that they do not solve it well; for if someone puts the argument thus: \"Would you do things in the way you grant and posit, and also the things you grant and posit? Not playing, do you grant and posit that you play? Yes. So, not playing, you play,\" if, then, someone asks the argument thus, Aristotle's solution will fit, the one saying that the sophism depends on combination, but the solution of the others not at all.",
+   "notes": "\"ἡ δὲ τῶν ἄλλων λόγων\": λόγων may be a corruption of λύσις or simply \"of the other accounts\".",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09729",
+   "ref": "178a4.2",
+   "original": "ὃ μὴ ὁμολογήσαντος τοῦ ἀποκρινομένου φασὶν ὅτι, ἐπειδὴ ὁμοίως λέγεται τὸ τέμνεσθαι καὶ καίεσθαι καὶ αἰσθάνεσθαι, ἀνάγοιντο ἂν ὑπὸ τὸ πάσχειν· ἀλλὰ καὶ τὸ τέμνειν καὶ λέγειν καὶ τρέχειν ὁμοίως ἐκφερόμενά εἰσι· καὶ λοιπὸν ἀναχθείησαν ὑπὸ τὸ ποιεῖν· ἀλλὰ τὸ ὁρᾶν πάθος ἐστὶ καὶ ὑπὸ τὸ πάσχειν ἀνάγεται. φησὶν οὖν ὁ Ἀριστοτέλης, ὡς εἴ τις μὴ συγχωρήσοι μὲν τὸ ἅμα ποιεῖν καὶ πεποιηκέναι, φαίη δὲ ἐγχωρεῖν ὁρᾶν καὶ ἑωρακέναι τὸ αὐτό, καὶ ἀπλῶς εἰπεῖν ταῦτα πάντα ὁμολογήσας οὐκ ἐλήλεγκται ὅσον ἐπὶ τούτῳ, εἰ μὴ ἐνεργείᾳ ἐρωτηθείη, τί οἴεται περὶ τοῦ ὁρᾶν, εἰ ὑπὸ τὸ πάσχειν ἀνάγεται. καίτοι ὁ ἀκροατὴς ἀμαθὴς ὢν οἴεται δοῦναι τὸν ἀποκρινόμενον τοῦτο, ὅτε δηλαδὴ ὡμολόγησε ταὐτὸ εἶναι τὸ λέγειν, τρέχειν, ὁρᾶν καὶ τέμνειν, ὡμολόγησε δὲ καὶ ὅτι τὸ τέμνειν ποιεῖν ἐστι.",
+   "english": "When the answerer does not agree to this, they say that since \"being cut\", \"being burnt\" and \"perceiving\" are expressed alike, they would be reduced under being affected; but \"cutting\", \"speaking\" and \"running\" are also expressed alike, and so would be reduced under acting; yet seeing is an affection and is reduced under being affected. Aristotle says, then, that if someone does not grant acting and having acted at once, but says it is possible to see and to have seen the same thing, and, in short, having agreed to all these, he has not been refuted as far as this goes, unless he is actually asked what he thinks about seeing, whether it is reduced under being affected. And yet the unlearned hearer thinks that the answerer granted this, when he agreed that speaking, running, seeing and cutting are the same, and agreed also that cutting is acting.",
+   "notes": "The opening is elliptical; logic is compressed in the original.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01831",
+   "ref": "178b8.2",
+   "original": "τύπτοι γὰρ ἄν τίς τινα καὶ τῆ μὴ ἑαυτοῦ χειρί, ὥσπερ εἴ τις τὴν τοῦ πατρὸς χεῖρα κρατῶν τύπτει τὸν πατέρα αὑτοῦ μετ’ αὐτῆς τῆς πατρικῆς χειρός. πλείους οὖν αἱ κακίαι τοῦ λόγου. πλὴν οὐχὶ ἡ τῆς τυχούσης κακίας ἐμφάνισις καὶ τοῦ πράγματός ἐστι λύσις, ἀλλ’ ἡ παρ’ ἣν τὸ ψεδδος, ὡς ἐπὶ τοῦδε· ὁ Σωκράτης κάθηται, ὁ καθήμενος γράφει, ὁ Σωκράτης γράφει· τοῦτο δὲ ψεῦδος. ἐνταῦθα οὐ διὰ τὸ τὸν Σωκράτην καθῆσθαι τὸ ψεῦδος, κἄν εἰ τύχῃ ψεῦδος ὂν τὸ τὸν Σωκράτην καθῆσθαι, ἀλλὰ διὰ τὸ τὸν καθήμενον γράφειν. ἀλλὰ τοῦτο μὲν τοιοῦτον. τὰ δὲ εἰρημένα σοφίσματα παρὰ μόνα τὰ ἐσχάτως ῥηθέντα ἔχει τὴν μοχθηρίαν·",
+   "english": "For someone might strike someone even with a hand not his own, as if someone holding his father's hand strikes his own father with that very paternal hand. So there are several faults in the argument. However, the exposure of just any fault is not also the resolution of the matter, but [the exposure of] that from which the falsehood arises, as in this case: Socrates is sitting, the one sitting is writing, Socrates is writing; but this is false. Here the falsehood is not due to Socrates' sitting, even if it happens to be false that Socrates is sitting, but due to the one sitting writing. But so much for this. The sophisms mentioned have their defect only from the things stated last;",
+   "notes": "ψεδδος read as ψεῦδος.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09730",
+   "ref": "178b18.2",
+   "original": "ὃ ἄρα ἔλαβεν ἔχει, καὶ οὐχ ὃ οὐκ ἔλαβεν· ἀλλὰ μὴν ἔχει καὶ ἄλλας, ἃς οὐκ ἔλαβε παρ’ αὐτοῦ, ἐφ’ ὧν ἀληθεύσει τὸ ἔχει ἃ οὐκ ἔλαβεν. οὐκ ἄρα ἐστὶν ἡ εἰρημένη λύσις τοῦ πράγματος ἀλλὰ πρὸς τὸν λέγοντα. λύσις δέ ἐστιν ἥν φησιν ὁ Ἀριστοτέλης ἡ λέγουσα τὸ ὅτι οὐ ταὐτόν ἐστι τὸ ‘ὃ <οὐκ> ἔλαβε’ ‘ὡς οὐκ ἔλαβε’· τούτου γὰρ ληφθέντος γέγονεν ὁ παραλογισμός· δόντος γὰρ τοῦ ἀποκρινομένου τὸ ‘ὃ ἔλαβεν ἔχει’ οὐ συνήγαγε τὸ ‘ὃ οὐκ ἔλαβεν ὅπερ ἐστὶν ἀντίφασις τοῦ ‘ὃ ἔλαβεν ἔχει’, ἀλλὰ τὸ ‘ὡς οὐκ ἔλαβεν ἔχει’, ὅπερ πάλιν ἐστὶν ἀντίφασις τοῦ ‘ὡς ἔλαβεν ἔχει’.",
+   "english": "So he has what he received, and not what he did not receive; but he also has others, which he did not receive from him, of which \"he has what he did not receive\" will be true. So the stated solution is not of the matter but directed at the speaker. The solution is the one Aristotle gives, which says that \"what he did <not> receive\" is not the same as \"as he did not receive\"; for by assuming this the fallacy came about. For when the answerer granted \"he has what he received\", [the questioner] did not conclude \"what he did not receive\", which is the contradictory of \"he has what he received\", but \"he has as he did not receive\", which in turn is the contradictory of \"he has as he received\".",
+   "notes": "<οὐκ> is the edition's supplement.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09731",
+   "ref": "178b24.2",
+   "original": "γέγραπται δὲ ὁ λόγος ὅτι νῦν σὺ κάθησαι, ὅστις ἐστὶ καὶ ψευδὴς διὰ τὸ κινεῖσθαί σε ἢ καὶ ἵστασθαι· ἦν δὲ καὶ ἀληθὴς οὗτος ὁ λόγος, ὅτε ἐγράφη· ὁ αὐτὸς ἄρα λόγος ἐστὶ καὶ ἄλη θὴς καὶ ψευδής. πρὸς τοῦτο γοῦν τὸ σόφισμα ἐπῆκται παρὰ τοῦ Ἀριστοτέλους λύσις τοιαύτη, ὅτι σὺ μέν, ὦ σοφιστά, τὴν ἐρώτησιν ἐπὶ ποσοῦ ποιησάμενος συνάγεις ἐπὶ ποιοῦ· ἐρωτήσας γὰρ ‘ἆρα ὃ γέγραπται, τοῦτό τις ἔγραψε;’ καὶ ἐμοῦ συγκατανεύσαντος τῇ ἐρωτήσει σου καὶ ὡς ἐπὶ λόγου τὴν κατάνευσιν ποιησαμένου, ὅς ἐστι τοῦ ποσοῦ, συνάγεις ἐπὶ τοῦ ποιοῦ (δυνάμει λέγων ὁ Ἀριστοτέλης διὰ τοῦ τὸ γὰρ ψευδῆ ἢ ἀληθῆ λόγον ἢ δόξαν εἶναι οὐ τόδε σημαίνει ἀλλὰ τοιόνδε)·",
+   "english": "Now the statement \"you are now sitting\" has been written, and it is false because you are moving or standing; but this statement was also true when it was written. Therefore the same statement is both true and false. To this sophism, then, Aristotle has applied a solution of this kind: \"You, sophist, having put the question about quantity, draw your conclusion about quality. For you asked 'Did someone write what has been written?', and when I assented to your question and made the assent as about a statement, which belongs to quantity, you drew the conclusion about quality\" (this is what Aristotle means in effect by \"for a statement or opinion's being false or true signifies not a 'this' but a 'such'\");",
+   "notes": "ἄλη θὴς read as ἀληθής (scanning split).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09732",
+   "ref": "179a14.2",
+   "original": "εἰ γὰρ ἔροιτο ‘ἆρά γε τὸ διδάσκον ἔμψυχόν ἐστιν;’, εἴποις δὲ ναί, εἶτα εἴποι ‘τὸ δὲ βιβλίον διδάσκει, ἔμψυχον ἄρα τὸ βιβλίον', ῥητέον ὅτι οὐ τὸ ἄψυχον διδάσκειν εἶπον ἀλλὰ τὸν διδάσκαλον. ὁμοίως ποιητέον καὶ ἐπὶ τοῦ ἀνάπαλιν῾ εἰ γὰρ ἔροιτο ‘ἆρά γε τὸ διδάσκον ἔμψυχόν ἐστιν;’, εἴποις δὲ οὔ, εἶτα εἴποι ‘ὁ δὲ Πλάτων’ διδάσκει, ἔμψυχον ἄρα τὸ διδάσκον’, εἰπὲ ὡς ἐπὶ τοῦ βιβλίου τὸ διδάσκειν εἶπον. καὶ ἐπὶ τῶν παρὰ τὸ σχῆμα τῆς λέξεως, ὡς προειρήκειμεν, ὡσαύτως ποιητέον. οἷον ὁ σοφιστὴς συμπερινόμενος λέγει ἄρ’ ὃ μὴ ἔχει, δοίη ἄν τις·",
+   "english": "For if he should ask \"Is that which teaches animate?\" and you should say yes, and then he should say \"But the book teaches; therefore the book is animate,\" one must say that I did not say that the inanimate thing teaches, but the teacher. One must do likewise in the reverse case: if he should ask \"Is that which teaches animate?\" and you should say no, and then he should say \"But Plato teaches; therefore that which teaches is animate,\" say that I spoke of teaching with reference to the book. And one must do the same with those [fallacies] arising from the form of expression, as we said before. For example, the sophist, drawing his conclusion, says: \"Can someone give what he does not have?\"",
+   "notes": "Stray quotation marks after Πλάτων omitted. The reverse case's logic seems inverted in the transmitted text (one would expect 'Plato teaches; therefore something animate teaches'), but it is translated as it stands.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01832",
+   "ref": "179b11.2",
+   "original": "εἰ γὰρ καὶ ἐπί τινων ἀληθές ἐστι τὸ λέγειν ὅτι τὸν αὐτὸν οἶδα καὶ ἀγνοῶ κατ’ ἄλλο καὶ ἄλλο, ἀλλ’ ὧδε τοῦτο λέγειν οὐκ ἐγχωρεῖ. πολλαὶ δέ εἰσιν αἱ κακίαι τοῦ συλλογισμοῦ, πλὴν οὐχ ἡ τῆς τυχούσης κακίας ἐμφάνισις καὶ τοῦ πράγματός ἐστι λύσις, ὅπερ μικρὸν ὀπίσω εἰρήκειμεν, ἀλλ’ ἡ παρ’ ἣν τὸ ψεῦδος, ὡς ἐπὶ τοῦδε· ὁ Σωκράτης κάθηται, ὁ καθήμενος γράφει, Σωκράτης ἄρα γράφει· τοῦτο ψεῦδος. ἐνταῦθα οὐχὶ [εἴ τις ἐρεῖ ὅτι] διὰ τὸ ὑποθέσθαι τὸν Σωκράτην καθῆσθαι τὸ ψεῦδος συνήχθη, κἂν εἰ τύχῃ ψεῦδος ὂν τὸ τὸν Σωκράτην καθῆσθαι, ἀλλὰ διὰ τὸ τὸν καθήμενον γράφειν.",
+   "english": "For even if in some cases it is true to say that I know and do not know the same person in different respects, yet here it is not possible to say this. And the faults of the syllogism are many, but the exposure of just any fault is not also the resolution of the matter, as we said a little earlier, but [the exposure of] that from which the falsehood arises, as in this case: Socrates is sitting, the one sitting is writing, therefore Socrates is writing; this is false. Here it is not [if someone will say that] because of supposing that Socrates is sitting that the falsehood was concluded, even if it happens to be false that Socrates is sitting, but because of the one sitting writing.",
+   "notes": "The bracketed words are bracketed (likely deleted) in the edition; the sentence is awkward with them.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09733",
+   "ref": "179b38.2",
+   "original": "ἀλλὰ καὶ δοῦλος, ὃ ταὐτόν ἐστι τῷ ‘οὐ τέκνον’—εἰ εἰ οὖν μὴ ᾔδει ταῦτα ὁ ἀποκρινόμενος, εἶχεν ἂν λέγειν πρὸς τὸν ἐρωτῶντα ‘πόθεν δῆλον ὅτι δοῦλός ἐστι Γλαύκωνος καὶ οὐ τέκνον;’. ὥστε πρὸς τὸν εἰδότα τὰς ἐρωτήσεις ἐποιοῦντο. τούτων οὕτως ἐχόντων λέγει ὁ Ἀριστοτέλης τινὰς λύειν τοὺς τοιούτους παραλογισμοὺς τῷ διττῷ, διττὸν λέγων τὴν ὁμωνυμίαν καὶ ἀμφιβολίαν· ἔλεγον γὰρ ὅτι τὸ ‘ἆρά γε οὗτος τούτου;’ διττόν, καὶ ὅτι δοῦλος τούτου καὶ ὅτι τέκνον τούτου· ὁμοίως, φασί, καὶ τὸ ‘οὗτος τούτου τέκνον’ διττόν·",
+   "english": "but also a slave, which is the same as 'not a child'. If, then, the respondent did not know these things, he could have said to the questioner, \"How is it clear that he is Glaucon's slave and not his child?\" So they put the questions to someone who knew. This being so, Aristotle says that some people solve such fallacies by [appeal to] ambiguity, calling homonymy and amphiboly 'ambiguity'. For they said that \"Is this man this man's?\" is ambiguous, [meaning] both that he is this man's slave and that he is this man's child; likewise, they say, \"this man is this man's child\" is also ambiguous;",
+   "notes": "Doubled εἰ εἰ is a dittography.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09734",
+   "ref": "180a18.2",
+   "original": "ὥστε οὐ λέγεται πολλαχῶς τὸ τούτου τοῦτο, ὅταν ἀφελόντες τι γνώριμον ὂν τί ἐστι ταύτῃ τῇ προσηγορίᾳ ὀνομάζωμεν· λέγω δὲ προσ|ηγορίαν τὸ τούτου τοῦτο. ὁ f. 53v γὰρ τὸν Πλάτωνα καὶ Ἀρίστωνα καθ’ αὑτοὺς λαβὼν καὶ ἐρωτῶν ‘ἆρά γε οὗτος τούτου ἐστί;’ ταὐτὸν λέγει τῷ ‘ἆρα ὁ Πλάτων’ υἱός ἐστιν Ἀρίστωνος;’· καὶ οὐ διττὸν ἐνταῦθα τὸ ἐρώτημα διὰ τὸ τὰ ληφθέντα γνώριμα τυγχάνειν πῶς ἀλλήλων εἰσίν. ἔτι τὸ οὐδὲ γάρ εἴ ποτέ τι σημαίνομεν ἀφελόντες λόντες τοιοῦτόν ἐστι· οὐ γὰρ τὸ τούτου τοῦτο λέγεται πολλαχῶς, εἴ ποτέ <τί> τινος ἀφελόντες σημαίνομεν τῇ προσηγορίᾳ τῇ τούτου τοῦτο.",
+   "english": "So 'this of this' is not said in many ways when, having taken away something, we name what is known by this designation; by 'designation' I mean 'this of this'. For the one who takes Plato and Ariston by themselves and asks \"Is this man this man's?\" says the same as \"Is Plato the son of Ariston?\"; and the question here is not ambiguous, because it is known how the things taken are related to each other. Further, the phrase \"for not even if we sometimes signify something by taking away\" is of this kind: for 'this of this' is not said in many ways if we sometimes, taking away <something> from something, signify [it] by the designation 'this of this'.",
+   "notes": "Folio mark 'f. 53v' and dittography 'λόντες' omitted; stray quotation mark after Πλάτων omitted.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01833",
+   "ref": "180b17.2",
+   "original": "ἡ λῆψις ἄρα ἀγαθόν· τὸ κλέπτειν ἄρα ἀγαθόν. ῥητέον δὲ πρὸς τοῦτο ‘ἄρα οὐχὶ πᾶσα λῆψις ἀγαθὸν ἀλλὰ τοιάδε’. τὸ δὲ ἐφεξῆς σόφισμα τοιοῦτόν ἐστιν. εἰ τὸ ἀποθανεῖν ἀδίκως αἱρετώτερον τοῦ δικαίως ἀποθανεῖν (ὥσπερ καὶ ὁ Σωκράτης πρὸς τὸν εἰπόντα ‘ὦ Σώκρατες, ἀδίκως ἀποθνήσκεις’ εἴρηκε ‘σὺ δὲ ἄρα ἠβούλου με δικαίως ἀποθανεῖν’῾ ὁ γὰρ δικαίως ἀποθνήσκων ὡς φονεὺς ἢ ὡς κακοῦργος τοῦτο πάσχει· ὁ δὲ ἀδίκως πάσχων δίκαιος, καθάπερ καὶ ὁ Σωκράτης), εἰ οὖν τὸ ἀδίκως, φασὶν οἱ σοφισταί, ἀποθνήσκειν τοῦ δικαίως αἱρετώτερον, καὶ τὸ ἄδικον τοῦ δικαίου αἱρετώτερον.",
+   "english": "Therefore taking is a good; therefore stealing is a good. One must reply to this: \"So not every taking is a good, but [only] such-and-such [a taking].\" The next sophism is as follows. If dying unjustly is more choiceworthy than dying justly (as Socrates too said to the man who said \"Socrates, you are dying unjustly\": \"Would you rather have wanted me to die justly?\" For the one who dies justly suffers this as a murderer or as a criminal, while the one who suffers unjustly is just, as Socrates was), if, then, say the sophists, dying unjustly is more choiceworthy than [dying] justly, the unjust too is more choiceworthy than the just.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09735",
+   "ref": "180b17.2",
+   "original": "τὸ γὰρ κατὰ νόμον δίκαιον οὐκ ἀνάγκη καὶ φύσει ἢ τῇ δόξῃ τοῦ κρίναντος δίκαιον εἶναι, ἀλλ’ ἐνδέχεται μὲν ὡς πρὸς τὴν φύσιν εἶναι ἄδικον, καθὸ δὲ γέγονεν ὡς οἱ νόμοι διατάττονται, εἶναι δίκαιον. ὥσπερ καὶ ὁ Καλλικλῆς ἐν τῷ τοῦ Πλάτωνος Γοργίᾳ πρὸς τὸν Σωκράτην λέγει ὅτι, ἄν τις τὸ κατὰ νόμους εἴπῃ, σὺ μεταλαμβάνων τὸ κατὰ φύσιν, εἰ δέ τις τὸ κατὰ φύσιν, σὺ τὸ κατὰ νόμους ἐπιφέρων κυκᾷς καὶ συγχεῖς τὰς διαλέξεις. οὕτως οὖν τοῦ δικαίου τριχῇ διαιρουμένου ἀφορμαὶ πολλαὶ παραλογισμῶν ἐντεῦθεν τοῖς σοφιστεύουσι δέδονται, ὡς καὶ ἐπὶ τοὐ παρόντος·",
+   "english": "For what is just according to law need not also be just by nature or in the opinion of the one who judged, but it may be unjust with respect to nature, yet just insofar as it has come about as the laws prescribe. Just as Callicles in Plato's Gorgias says to Socrates that if someone speaks of what accords with the laws, you substitute what accords with nature, and if someone [speaks of] what accords with nature, you bring in what accords with the laws, and so you stir up and confuse the discussions. Since, then, the just is divided in three ways, many starting-points for fallacies have been given from this to those who practise sophistry, as also in the present case;",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09736",
+   "ref": "180b34.2",
+   "original": "ἃ γὰρ πέπονθε, λέγει’ συνῆγον καὶ λοιπὸν ἔστι τὸν ἀδικηθέντα κατακρίνειν’· ἃ γὰρ ἄδικα πέπονθε, λέγει. ἀλλὰ μὴν καὶ δίκαια λέγειν· δίκαια γάρ ἐστι λέγεσθαι· ἔστιν ἄρα τὸν τὰ ἄδικα λέγοντα νικᾶν. πρὸς ὃ ἀπαντῶν ὁ Ἀριστοτέλης φησὶν ὥστε οὐκ εἰ τὰ λεγόμενα ἄδικά ἐστι, καὶ πᾶς ὁ λέγων τὰ ἄδικα νικᾶν λέγεται, ἀλλ’ ὁ λέγων ἃ λέγειν ἐστὶ δίκαια, ἁπλῶς δὲ καὶ παθεῖν ἄδικα· λοιπὸν καὶ τόνδε ἄδικα λέγοντα δίκαια λέγεσθαι ὄντα οὐκ ἔστι κατακρίνειν· λέγει γὰρ ἃ λέγειν ἐστὶ δίκαια, παθεῖν δὲ ἄδικα. ἴσον οὖν ἐστι τὸ ὁμοίως δὲ καὶ ἐπὶ τῶν δικαίων τῷ ‘ὁμοίως δὲ οὐδέ, εἰ λέγει τις δίκαια, ἀνάγκη δίκαια λέγειν’·",
+   "english": "\"for he states what he has suffered,\" they concluded, \"and so it is [right] to condemn the one who has been wronged\"; for he states the unjust things he has suffered. But surely [he also says] just things; for they are just to be said; therefore the one who says unjust things may win. Meeting this, Aristotle says: so it is not the case that, if the things said are unjust, everyone who says the unjust things is said to win, but the one who says things which it is just to say, but [which are] unjust, simply speaking, to suffer; and so it is not [right] to condemn this man either, who says unjust things which are just to be said; for he says things which it is just to say but unjust to suffer. So the phrase \"and likewise in the case of just things\" is equivalent to \"likewise, not even if someone says just things, is it necessary [that he] say just things\";",
+   "notes": "The final equivalence is obscure and possibly corrupt; the sense intended is probably 'that what he says is (simply) just'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09737",
+   "ref": "182b17.2",
+   "original": "καὶ ἴσως ἂν ἠρωτᾶτο ὁ λόγος ἐπὶ τοῦ Ἀπολλωνίδου καλὴν μὲν ἔχοντος ἀρχὴν οὐ καλῶς δὲ αὐτὴν κυβερνῶντος. ἴσως ἄν καὶ οὕτως ἠρωτᾶτο· ἆρ’ Εὔαρχος ὅδε; ναί· τί δέ, ὅδε ὁ τοῦ Πλάτωνος, εἰ τύχῃ, διάλογός ἐστιν; ὅτι δὲ καὶ τὸ ὂν καὶ τὸ ἓν οἱ μὲν ὁμώνυμα καὶ πολλαχῶς λέγεσθαί φασιν, οὐκ ἄδηλον· Παρμενίδης γὰρ ἓν τὸ ὄν φησι, Πλάτων δὲ τὸ ἓν μοναχῶς λέγεσθαι, ὁ δὲ Ἀριστοτέλης ἀμφότερα πολλαχῶς. τὸν Ζ|ήνωνος δὲ λόγον καὶ Παρμενίδου λύειν λέγει οὐκ ἄλλον τινὰ ἀλλ’ ἢ ἑαυτόν· οὗτος γὰρ κυρίως λέλυκε τοὺς Παρμενίδου καὶ Μελίσσου λόγους ἐν τοῖς Φυσικοῖς, τοὺς δὲ Πλάτωνος ἐν τοῖς Μετὰ τὰ φυσικά.",
+   "english": "And perhaps the argument might be put in the case of Apollonides, who held a fine office but did not steer it well. Perhaps it might also be put this way: \"Is this Euarchus?\" \"Yes.\" \"What then, is this, say, a dialogue of Plato?\" That some say both being and one are homonymous and said in many ways is not unclear: for Parmenides says that being is one, Plato that one is said in one way only, and Aristotle that both are said in many ways. By the one who solves the argument of Zeno and Parmenides he means no one else than himself; for he has properly solved the arguments of Parmenides and Melissus in the Physics, and those of Plato in the Metaphysics.",
+   "notes": "The second example is obscure; the text may be defective.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09738",
+   "ref": "183a7.2",
+   "original": "Εἰπὼν τίνες τῶν διαλεκτικῶν λόγων εἰσὶ δριμεῖ, νῦν λέγει καὶ τίνες τῶν σοφιστικῶν. καὶ φησὶ πρῶτον αὐτῶν εἶναι τὸν πρῶτον εὐθὺς ἄδηλον ὄντα εἰ συλλελόγισται ἢ οὔ· οἷος ὁ Παρμενίδου λόγος ὁ λέγων ἓν εἶναι τὸ ὄν· ἔστι δὲ τοιοῦτος· τὸ παρὰ τὸ ὂν οὐκ ὄν, τὸ οὐκ ὂν οὐδέν, ἓν ἄρα τὸ ὄν· οὗτος γάρ, εἰ καὶ ἀσυλλόγιστός ἐστιν, ἀλλ’ οὐ πάντῃ δῆλος. ἔστι δὲ ἀσυλλόγιστος, διότι οὐ συνάγεται ἐκ τῶν κειμένων ‘ἓν ἄρα τὸ ὄν’, ἀλλ’ ὅτι τὸ ἓν ὄν ἐστιν.",
+   "english": "Having said which of the dialectical arguments are sharp, he now says also which of the sophistical ones are. And he says that the first of them is the one which from the very start is unclear whether it has reached a conclusion syllogistically or not; such as the argument of Parmenides which says that being is one. It runs thus: what is besides being is not-being; not-being is nothing; therefore being is one. For this argument, even if it is non-syllogistic, is not wholly clearly so. It is non-syllogistic because \"therefore being is one\" does not follow from the premises, but rather that the one is being.",
+   "notes": "δριμεῖ read as δριμεῖς.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p09739",
+   "ref": "183a7.2",
+   "original": "παρὰ δὲ τὸ συμπέρασμα γίνεται ἀπάτη, ὅταν μὴ ὅπερ ἐκ τῶν ἠρωτημένων συμβαίνει ἐπάξωμεν, ἀλλὰ τοῦτο μὲν ἐῶμεν, ἄλλο δέ τι ὃ βουλόμεθα ἐπιφέρωμεν, ὥσπερ ἔχει καὶ ὁ Παρμενίδου λόγος καὶ ἐκεῖνος, οὗ πρότερον ὁ Ἀριστοτέλης ἐμνημόνευσεν, ὁ λέγων “ὧν αἱ ἐπίστη ’μαι σπουδαῖαι, σπουδαῖα τὰ μαθήματα, τοῦ δὲ κακοῦ σπουδαῖον τὸ μάθημα, σπουδαῖον ἄρα μάθημα τὸ κακόν”· οὐ γὰρ τοῦτο συμβαίνει ἐκ τῶν κειμένων, ἀλλ’ ὅτι τοῦ κακοῦ σπουδαία ἡ ἐπιστήμη. Λέγει δὲ καὶ εὐήθη συλλογισμὸν εἶναι, ὅταν τις μὴ προσλάβοι τὸ ἐλλεῖπον καὶ δι’ οὗ τὸ προκείμενον μέλλει συνάγειν, ἀλλὰ τοῦτο μὲν μεθῇ, χωρὶς δὲ αὐτοῦ συμπεραίνηται, ὥσπερ ἔχει ὁ Μελίσσου ὁ δεικνὺς ἓν τὸ ὂν καὶ ἄπειρον καὶ ἄλλοι πολλοί, καθάπερ καὶ ὁ λέγων “μὴ οὐσίας ἀναιρουμένης μὴ ἀναιρεῖσθαι οὐσίαν, ἐξ ὧν δέ ἐστιν ἀναιρουμένων καὶ τὸ ἐκ τούτων φθείρεσθαι”·",
+   "english": "Deception arises from the conclusion when we do not draw what follows from the questions asked, but leave that aside and introduce something else that we want, as is the case with the argument of Parmenides and with that which Aristotle mentioned earlier, which says: \"Those things whose sciences are good, their subjects of learning are good; the science of evil is good; therefore evil is a good subject of learning.\" For this does not follow from the premises, but rather that the science of evil is good. He also says a syllogism is simple-minded when someone does not add what is lacking and through which he is going to conclude the proposition, but lets it go and concludes without it, as is the case with Melissus' argument showing that being is one and infinite, and many others, as also with the one which says \"when substance is not destroyed, substance is not destroyed, but when the things from which it is are destroyed, what is from them perishes too\";",
+   "notes": "ἐπίστη ’μαι read as ἐπιστῆμαι. The quoted principle ('when non-substance is destroyed, substance is not destroyed' is likely intended) is garbled in the text; translated literally.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p01834",
+   "ref": "183a37.2",
+   "original": "εἴρηκε γὰρ οὐκ ἐκεῖ ἀλλὰ νῦν δι’ ὅ τι ἔργον ἐστὶ τῆς διαλεκτικῆς καὶ τὸ λόγον ὑπέχειν. ὅτι δ’ οὐκ αὐτόθεν οὐδὲ προηγουμένως τῆς διαλεκτικῆς ἐστι καὶ τὸ λόγον ὑπέχειν ἀλλὰ διὰ τὴν τῆς σοφιστικῆς πρὸς αὐτὴν γειτνίασιν, παρέθετο τὸν Σωκράτην λέγοντα μηδὲν εἰδέναι, ὡς τοῦ διαλεκτικοῦ δῆθεν ἀγνοοῦντος ἅπερ ἂν ἐρωτᾷ· τὸν δὲ ὡς ἀγνοοῦντα ἐρωτῶντα οὐκ ἀνάγκη λόγον ὑπέχειν ἀλλὰ μᾶλλον λαμβάνειν. λέγει δὲ δεδηλῶσθαι αὐτῷ ἐν τοῖς τοπικοῖς (ταῦτα γὰρ εἶπε πρόσθεν) καὶ ἐκ τίνων καὶ πρὸς πόσα ἐστὶ τό τε ἐρωτᾶν καὶ λόγον ὑπέχειν.",
+   "english": "For he has said, not there but now, why giving an account is also a task of dialectic. And to show that giving an account belongs to dialectic not directly nor primarily but because of the proximity of sophistic to it, he cited Socrates saying that he knew nothing, as though the dialectician were, so to speak, ignorant of whatever he asks; and one who asks as being ignorant need not give an account but rather receive [one]. He says that it has been shown by him in the Topics (for he said this earlier) both from what sources and with regard to how many things asking and giving an account take place.",
+   "notes": "The parenthesis is unclear; possibly it glosses an elided \"earlier\" (πρόσθεν) in Aristotle's text.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p09740",
+   "ref": "183b34.2",
+   "original": "Πραγματείαν λέγοι ἄν ἢ τὴν τοπικὴν ἢ πᾶσαν τὴν λογικήν. μάλιστα μισθωτοὺς δὲ καλεῖ τοὺς σοφιστὰς ὡς ἀπὸ φαινομένης πλουτοῦντας σοφίας. τίς δὲ ἡ Γοργίου πραγματεία, ᾗ ὁμοίαν λέγει τὴν σοφιστικήν, δήλη τοῖς τὸν Πλάτωνος Γοργίαν ἀνεγνωκόσι. λέγει δὲ τοὺς σοφιστὰς τοιούτους διδάσκειν λόγους εἰς οὓς ἐγίνωσκον τοὺς ἀλλήλων λόγους ἐμπίπτειν· οὗτοι δὲ ἦσαν οἱ ἐκ τῆς ὁμωνυμίας, οἱ ἐκ τῆς ἀμφιβολίας καὶ οἱ λοιποί. τὰ δὲ ἑξῆς δῆλα.",
+   "english": "By 'treatise' he would mean either the Topics or the whole of logic. He calls the sophists 'mercenaries' most of all, as growing rich from apparent wisdom. What the treatise of Gorgias is, to which he says sophistic is similar, is clear to those who have read Plato's Gorgias. He says the sophists teach arguments of the kind into which they knew each other's arguments fell; these were those from homonymy, those from amphiboly, and the rest. The rest is clear.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}
