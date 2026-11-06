@@ -1,0 +1,3274 @@
+{
+ "objections": [
+  {
+   "key": "p00017:0",
+   "passage": "p00017",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Crassum habeo generum, ne rhetoricoterus tu sis.",
+   "english": "I have Crassus as son-in-law, so that you may not be too much of a rhetorician.",
+   "objection": "Ne rhetoricoterus tu sis is a prohibition, not a purpose clause: 'I have Crassus as my son-in-law; do not you try to be more rhetorical.'",
+   "verdict": "upheld",
+   "why": "ne ... sis is a prohibition in Lucilius' line"
+  },
+  {
+   "key": "p00031:0",
+   "passage": "p00031",
+   "severity": "major",
+   "type": "grammar",
+   "original": "hoc motu radiantis etesiae in vada ponti",
+   "english": "by this motion of the shining etesian winds into the shallows of the sea",
+   "objection": "Etesiae is nominative plural, not a genitive dependent on 'motion'; radiantis modifies ponti: 'by this motion the etesian winds ... into the shallows of the shining sea.'",
+   "verdict": "upheld",
+   "why": "etesiae is nominative plural, not dependent on motu"
+  },
+  {
+   "key": "p00032:0",
+   "passage": "p00032",
+   "severity": "major",
+   "type": "grammar",
+   "original": "quamque attinendi magni dominatus sient",
+   "english": "and how great the dominion of holding on to them",
+   "objection": "Attinendi agrees with dominatus, and magni expresses value: 'and how important it is to retain power,' not dominion over retaining the preceding things.",
+   "verdict": "upheld",
+   "why": "the English says nothing a reader can follow; the line is about what power is worth"
+  },
+  {
+   "key": "p00043:0",
+   "passage": "p00043",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Et ab iis aiebat removendum Socratem et Platonem",
+   "english": "And you said Socrates and Plato should be set apart from these.",
+   "objection": "Aiebat is third-person singular: 'And he said that Socrates and Plato should be excluded from these.' The English changes the attribution to the addressee.",
+   "verdict": "rejected",
+   "why": "Cicero is addressing Lucullus, who said this at Luc. 15; 'you said' is the sense, whatever the letter of this edition"
+  },
+  {
+   "key": "p00079:0",
+   "passage": "p00079",
+   "severity": "major",
+   "type": "grammar",
+   "original": "qui ut sint, quod fieri posse video, pudici, solliciti tamen et anxii sunt, eoque magis, quod se ipsi continent et coërcent",
+   "english": "Even if these [loves] are chaste, which I see can happen, they are nevertheless troubled and anxious, and all the more so because they restrain and hold themselves in check.",
+   "objection": "The subjects are the lovers, who exercise restraint, not their loves: 'Even if they [the lovers] are chaste ... they are nevertheless troubled and anxious ... because they restrain themselves.'",
+   "verdict": "rejected",
+   "why": "qui picks up amores just before; the loves restrain themselves, as in the Loeb"
+  },
+  {
+   "key": "p00089:0",
+   "passage": "p00089",
+   "severity": "major",
+   "type": "grammar",
+   "original": "cui quod in me est exsecrabor hoc quod lucet quicquid est",
+   "english": "on whom, so far as in me lies, I shall call down curses, this which shines, whatever it is",
+   "objection": "The shining sky is invoked against the person denoted by cui, not itself cursed: 'against him, as far as I can, I shall invoke this shining thing, whatever it is.'",
+   "verdict": "rejected",
+   "why": "an uncertain fragment; the English keeps the Latin's own construction"
+  },
+  {
+   "key": "p00100:0",
+   "passage": "p00100",
+   "severity": "major",
+   "type": "grammar",
+   "original": "cui quod in me est exsecrabor hoc quod lucet quicquid est",
+   "english": "on which, as far as is in me, I shall call down curses—this which shines, whatever it is",
+   "objection": "The shining sky is invoked against the person denoted by cui, not itself cursed: 'against him, as far as I can, I shall invoke this shining thing, whatever it is.'",
+   "verdict": "rejected",
+   "why": "same fragment as p00089"
+  },
+  {
+   "key": "p00184:0",
+   "passage": "p00184",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ut facile bellum reliquis traderet",
+   "english": "that he easily handed the war over to his successors",
+   "objection": "'Facile' qualifies 'bellum': he left his successors an easy war, rather than handing it over easily.",
+   "verdict": "upheld",
+   "why": "facile is the adjective: he left an easy war"
+  },
+  {
+   "key": "p00202:0",
+   "passage": "p00202",
+   "severity": "major",
+   "type": "grammar",
+   "original": "me parabam ad id quod ille mihi misisset",
+   "english": "was preparing to repay what he sent me",
+   "objection": "The sending is prospective within the past expectation: 'was preparing to respond to whatever he might send me'. X treats the promised work as already sent.",
+   "verdict": "minor",
+   "why": "future in the past; the sense survives"
+  },
+  {
+   "key": "p00236:0",
+   "passage": "p00236",
+   "severity": "major",
+   "type": "omission",
+   "original": "a septentrione ad meridiem XXVIII",
+   "english": "from north to south 2,8",
+   "objection": "The English leaves the distance unfinished; it should give the complete figure, 'from north to south 2,800 [miles]'.",
+   "verdict": "upheld",
+   "why": "the figure is cut short"
+  },
+  {
+   "key": "p00256:0",
+   "passage": "p00256",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Iulius Caesar censores anno urbis conditae DCLXV edixerunt",
+   "english": "[In the consulship of] Julius Caesar, the censors",
+   "objection": "Iulius Caesar is one of the subjects of edixerunt, identified as a censor, not a consul dating the edict: '[... and] Julius Caesar, as censors, issued an edict in the 665th year'.",
+   "verdict": "upheld",
+   "why": "the censors issue the edict; no consulship"
+  },
+  {
+   "key": "p00270:0",
+   "passage": "p00270",
+   "severity": "major",
+   "type": "name",
+   "original": "Polyclitus Lipari iuxta Solos Ciliciae ungui",
+   "english": "Polyclitus [says] that at Lipara near Soli in Cilicia people anoint themselves [from a spring]",
+   "objection": "Lipari is the spring-name Liparis in the ablative, referring to the water used for anointing, not a place called Lipara: 'people anoint themselves with water from Liparis near Soli in Cilicia'.",
+   "verdict": "minor",
+   "why": "the spring's name"
+  },
+  {
+   "key": "p00292:0",
+   "passage": "p00292",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Hanc praecedentem causam divitiae habent",
+   "english": "Riches have this antecedent [kind of] cause",
+   "objection": "Riches have the role of an antecedent cause of evil; the statement is not about what causes riches: 'Riches are an antecedent cause of this kind'.",
+   "verdict": "upheld",
+   "why": "riches are the antecedent cause, they do not have one"
+  },
+  {
+   "key": "p00306:0",
+   "passage": "p00306",
+   "severity": "major",
+   "type": "omission",
+   "original": "consulari imperio",
+   "english": "just as at Rome the tribunes of the plebs",
+   "objection": "The object of the Roman comparison is missing: 'just as at Rome the tribunes of the plebs were opposed to consular authority.'",
+   "verdict": "upheld",
+   "why": "consulari imperio left out"
+  },
+  {
+   "key": "p00343:0",
+   "passage": "p00343",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Scripsit ad Ephesios de urbis Romæ custodia",
+   "english": "He wrote to the Ephesians about his custody in the city of Rome",
+   "objection": "The phrase gives the place or circumstances of writing, not the letter's subject: 'He wrote to the Ephesians from imprisonment in Rome.'",
+   "verdict": "upheld",
+   "why": "de gives the place of writing"
+  },
+  {
+   "key": "p00358:0",
+   "passage": "p00358",
+   "severity": "major",
+   "type": "grammar",
+   "original": "suspicione auersa",
+   "english": "once they had turned away under suspicion",
+   "objection": "Suspicion, not the priests, is turned away: 'once suspicion had been diverted' or 'without attracting suspicion.'",
+   "verdict": "upheld",
+   "why": "suspicion is what is turned aside"
+  },
+  {
+   "key": "p00391:0",
+   "passage": "p00391",
+   "severity": "major",
+   "type": "grammar",
+   "original": "nec ad illorum theatricas nugas converti, si aliquid de citharis et de organis, quod ad spiritualia capienda valeat, disputemus",
+   "english": "nor are we turning to their theatrical trifles if we discuss something about lyres and instruments that may help in grasping spiritual things",
+   "objection": "Converti depends on debemus: 'nor ought we to turn to their theatrical trifles if we discuss ...'. The Latin gives an injunction, not a factual denial.",
+   "verdict": "upheld",
+   "why": "debemus governs converti too"
+  },
+  {
+   "key": "p00445:0",
+   "passage": "p00445",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "beatus Ambrosius ipsius tam excellenter ore laudatus",
+   "english": "the blessed Ambrose, so excellently praised by his own mouth",
+   "objection": "Ambrose was praised by Pelagius, not by himself: 'the blessed Ambrose, whom Pelagius himself praised so highly'.",
+   "verdict": "upheld",
+   "why": "ipsius is Pelagius; the English reads as Ambrose praising himself"
+  },
+  {
+   "key": "p00454:0",
+   "passage": "p00454",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "beatus Ambrosius ipsius tam excellenter ore laudatus",
+   "english": "blessed Ambrose, so excellently praised by his own mouth",
+   "objection": "Ambrose was praised by Pelagius, not by himself: 'blessed Ambrose, whom Pelagius himself praised so highly'.",
+   "verdict": "upheld",
+   "why": "as p00445"
+  },
+  {
+   "key": "p00499:0",
+   "passage": "p00499",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "genus quippe ab accidenti in eo quod quid est,et quomodo se habeat praedicatione dividitur",
+   "english": "the genus is divided from accident by being predicated in respect of what it is and of how it is disposed",
+   "objection": "The two kinds of predication distinguish genus from accident; they are not both predications of genus. Render: 'genus differs from accident in predicating what a thing is, whereas accident predicates how it is disposed'.",
+   "verdict": "upheld",
+   "why": "the two predications are one each"
+  },
+  {
+   "key": "p00541:0",
+   "passage": "p00541",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Non pro impio Photino haec loquimur",
+   "english": "We do not say these things with regard to the impious Photinus",
+   "objection": "Pro means 'in support of': the author disclaims defending Photinus, not speaking about him.",
+   "verdict": "upheld",
+   "why": "pro means on behalf of"
+  },
+  {
+   "key": "p00556:0",
+   "passage": "p00556",
+   "severity": "major",
+   "type": "other",
+   "original": "Ergo, et e ignis cum de mundo per fulgura proficiscitur, mundus emoritur.",
+   "english": "Therefore, when fire departs from the world through lightning, the world dies.\"",
+   "objection": "The quotation wrongly attributes the author's reductio to Varro; close Varro's quotation after 'we die' and present this conclusion as the author's objection.",
+   "verdict": "rejected",
+   "why": "whether Ergo is Varro's or Isidore's is open; the English is a fair reading"
+  },
+  {
+   "key": "p00570:0",
+   "passage": "p00570",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Flammeo vapore torrens terræ fetum exusserit.",
+   "english": "The torrent with fiery heat would have burned up the offspring of the earth.",
+   "objection": "Torrens is the participle 'scorching', not a watercourse: '[it] would have burned up the earth's produce, scorching it with fiery heat'.",
+   "verdict": "upheld",
+   "why": "torrens is the participle, which is why Isidore cites it"
+  },
+  {
+   "key": "p00573:0",
+   "passage": "p00573",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Phocenses ab eo expugnati",
+   "english": "the Phocaeans, besieged by him",
+   "objection": "Expugnati means 'conquered' or 'taken by storm', not merely besieged: 'the Phocaeans, conquered by him'.",
+   "verdict": "upheld",
+   "why": "expugnati means taken, not besieged"
+  },
+  {
+   "key": "p00649:0",
+   "passage": "p00649",
+   "severity": "major",
+   "type": "grammar",
+   "original": "laedi nisi infirmior non potest",
+   "english": "no one can be harmed except by one weaker than himself",
+   "objection": "Infirmior is the subject of the passive, not its agent: 'only the weaker person can be harmed.' The English reverses the argument.",
+   "verdict": "upheld",
+   "why": "reversed: the weaker is the one harmed, and the argument needs that"
+  },
+  {
+   "key": "p00670:0",
+   "passage": "p00670",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Huic expeditissimae probationi defensio quoque a nobis necessaria est",
+   "english": "Against this most ready proof a defence is also necessary on our part",
+   "objection": "The proof needs defending, not opposing: 'We must also defend this very straightforward proof.'",
+   "verdict": "upheld",
+   "why": "the proof is being defended, not opposed"
+  },
+  {
+   "key": "p00684:0",
+   "passage": "p00684",
+   "severity": "major",
+   "type": "grammar",
+   "original": "eligat, ubi semetipsum erroris notet",
+   "english": "Let him choose where he will brand him with error",
+   "objection": "Semetipsum is reflexive: 'Let him choose where he will brand himself with error.' The English makes him accuse someone else.",
+   "verdict": "upheld",
+   "why": "semetipsum is reflexive"
+  },
+  {
+   "key": "p00691:0",
+   "passage": "p00691",
+   "severity": "major",
+   "type": "grammar",
+   "original": "corpus suum uocans panem",
+   "english": "when he called his body bread",
+   "objection": "The object and predicate are reversed: 'when he called the bread his body,' as in the preceding 'panem corpus suum appellat.'",
+   "verdict": "rejected",
+   "why": "the Latin reads this way and so does Evans"
+  },
+  {
+   "key": "p00736:0",
+   "passage": "p00736",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Deus est Dei Filius verus",
+   "english": "God is the true Son of God",
+   "objection": "The Son is the subject of the assertion of deity: 'The true Son of God is God,' not 'God is the true Son of God.'",
+   "verdict": "minor",
+   "why": "either order stands in Latin; a clearer English"
+  },
+  {
+   "key": "p00738:0",
+   "passage": "p00738",
+   "severity": "major",
+   "type": "addition",
+   "original": "διʼ ὧν τοῖς ὑπερέχουσι καὶ",
+   "english": "through which statesmen are more eager to associate with those who are eminent and",
+   "objection": "The source ends 'through which, for those in high position and ...'; it supplies no statement that statesmen are more eager to associate with anyone.",
+   "verdict": "rejected",
+   "why": "the sentence runs on after the excerpt; the English renders it whole, from the context it was given"
+  },
+  {
+   "key": "p00811:0",
+   "passage": "p00811",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ὡς Ἀλχιβιάδου Σωκράτης. ὃς ὑπὸ μιᾷ χλαμύδι πατρὸς ὕπνους ἐκοιμήθη",
+   "english": "as Socrates loved Alcibiades, who slept a father's sleep under a single cloak with him",
+   "objection": "The relative refers to Socrates, not Alcibiades: 'as Socrates loved Alcibiades; Socrates slept a father's sleep under the same cloak.'",
+   "verdict": "rejected",
+   "why": "in Plato it is Alcibiades who slept under the cloak as with a father"
+  },
+  {
+   "key": "p00836:0",
+   "passage": "p00836",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τριήρεις δὲ τριάκοντα τὰς μετὰ Χάρητος καὶ ἃς συνεπλήρωσαν ὀκτώ",
+   "english": "the thirty triremes with Chares, and eight more which they manned in addition",
+   "objection": "Thirty is the total, comprising the ships with Chares and the eight additionally manned; the English makes thirty-eight.",
+   "verdict": "rejected",
+   "why": "thirty and eight more is the natural reading"
+  },
+  {
+   "key": "p00838:0",
+   "passage": "p00838",
+   "severity": "major",
+   "type": "omission",
+   "original": "οὗ ἂν ὁ λόγος",
+   "english": "[...]",
+   "objection": "The qualification 'whoever the speech belongs to' is omitted; it leaves the speech's authorship open.",
+   "verdict": "rejected",
+   "why": "the words are corrupt and marked as a gap"
+  },
+  {
+   "key": "p00841:0",
+   "passage": "p00841",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "οὐδὲν τῶν ὑγιαινόντων καὶ κατὰ φύσιν ἐχόντων στοχαζόμενοι",
+   "english": "while taking no aim at any of the parts that are healthy and in their natural condition",
+   "objection": "The physicians take no account of healthy parts when cutting deeply; the English instead suggests that they avoid targeting them.",
+   "verdict": "rejected",
+   "why": "the English says what the Greek says: they do not aim at healthy parts"
+  },
+  {
+   "key": "p00846:0",
+   "passage": "p00846",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τὸ διὰ τῶν ὁμολογουμένων οὐ περὶ τῶν ὁμολογουμένων ἀμφισβητήσιμα λέγειν",
+   "english": "not speaking about disputed matters on the basis of agreed things [only]",
+   "objection": "It means proceeding from agreed premises without making disputable assertions about agreed matters; the English replaces 'agreed matters' with 'disputed matters' and changes the logical contrast.",
+   "verdict": "upheld",
+   "why": "the contrast is lost"
+  },
+  {
+   "key": "p00850:0",
+   "passage": "p00850",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τὰ δ’ οὐ μένοϲ ἁμὸν ἐρύξει",
+   "english": "but our (hamon) strength will not hold back",
+   "objection": "Our strength is the object, not the subject: 'but these things will not check our strength.'",
+   "verdict": "upheld",
+   "why": "Il. 8.178: our strength is the object"
+  },
+  {
+   "key": "p00926:0",
+   "passage": "p00926",
+   "severity": "major",
+   "type": "grammar",
+   "original": "πλείονός τε γὰρ γινομένου διὰ τὸ μὴ δύνασθαι δέχεσθαι τὰς κοιλίας ἀποβιαζόμενον ποιεῖν τὸν σεισμόν",
+   "english": "when [the water] becomes greater because the hollows cannot hold it, it forces its way out and causes the earthquake",
+   "objection": "The inability of the hollows to contain the water explains its forcing its way out, not its increase: 'when the water increases, it forces its way out and causes the earthquake because the hollows cannot contain it.'",
+   "verdict": "minor",
+   "why": "attachment of the causal phrase"
+  },
+  {
+   "key": "p00956:0",
+   "passage": "p00956",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "δῆλον οὖν ἐκ τῆς ὑπερβολῆς καὶ τὸ ἀπλῶς",
+   "english": "It is clear, then, from the excess [of cold] that [heat petrifies] in general too.",
+   "objection": "The inference concerns cold: its extreme form, frost, shows its general hardening effect; render 'Thus its effect in general is clear from its extreme form,' referring to cold.",
+   "verdict": "upheld",
+   "why": "the excess is of cold, so the supplement should be cold"
+  },
+  {
+   "key": "p00977:0",
+   "passage": "p00977",
+   "severity": "major",
+   "type": "omission",
+   "original": "μίαν τινὰ οὐσίαν τὸ πᾶν μορφήν",
+   "english": "the whole from being some one shape",
+   "objection": "The reference to a single substance (οὐσίαν) is lost: 'nothing prevents the whole from being a single substance,' as the following examples of water and air explain.",
+   "verdict": "upheld",
+   "why": "ousian dropped; water and air are substances"
+  },
+  {
+   "key": "p00983:0",
+   "passage": "p00983",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τῷ χρηϲμῷ μὴ πειθόμενοϲ",
+   "english": "not heeding the usage",
+   "objection": "χρηϲμῷ means an oracle or oracular response: 'not heeding the oracle.'",
+   "verdict": "upheld",
+   "why": "chresmos is an oracle"
+  },
+  {
+   "key": "p00998:0",
+   "passage": "p00998",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "«Ἀϲίω ἐν λειμῶνι» ἀντὶ τοῦ Ἀϲίου (γενικὴ γάρ ἐϲτιν, οὐκ Ἀϲιανῷ.",
+   "english": "in the Asian meadow",
+   "objection": "The author explicitly construes Ἀϲίω as the genitive of Asias and rejects the adjective 'Asian'; render 'in the meadow of Asias.'",
+   "verdict": "upheld",
+   "why": "the passage says it is the genitive of Asias, not Asian"
+  },
+  {
+   "key": "p01010:0",
+   "passage": "p01010",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τελευτήϲαϲ τοὺϲ Τρεμιλεαϲ Λυκίουϲ Βελλεροφόντηϲ μετωνόμαϲεν",
+   "english": "Bellerophon, having died, renamed the Tremileis Lycians.",
+   "objection": "τελευτήσας here means 'finally' or 'in the end': 'Bellerophon finally renamed the Tremileis Lycians', not that he renamed them after dying.",
+   "verdict": "upheld",
+   "why": "teleutesas here means in the end; he did not rename them dead"
+  },
+  {
+   "key": "p01029:0",
+   "passage": "p01029",
+   "severity": "major",
+   "type": "omission",
+   "original": "ραῦοϲκύόον",
+   "english": "...",
+   "objection": "The entry 'rauos, a dog' is omitted; the scanned κύόον is evidently κύων.",
+   "verdict": "rejected",
+   "why": "a corrupt word marked as a gap"
+  },
+  {
+   "key": "p01061:0",
+   "passage": "p01061",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τοῦ Πελαϲγοῦ τοῦ γηγενοῦϲ τοῦ Ἀρκάδοϲ",
+   "english": "of Pelasgos the earth-born, [son] of Arcas",
+   "objection": "Ἀρκάδος describes Pelasgos as Arcadian; it does not add Arcas as his father. Read 'of Pelasgos, the earth-born Arcadian'.",
+   "verdict": "upheld",
+   "why": "Arkados describes Pelasgos"
+  },
+  {
+   "key": "p01066:0",
+   "passage": "p01066",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Θαρϲόϲ δὲ ἐκαλεῖτο καὶ Θαρϲεῖϲ οἱ Κίλικεϲ",
+   "english": "The Cilicians were also called Tharsos and Tharseis",
+   "objection": "Tharsos names the city, whereas Tharseis names its people: 'It was also called Tharsos, and the Cilicians were called Tharseis'.",
+   "verdict": "upheld",
+   "why": "the city and its people"
+  },
+  {
+   "key": "p01072:0",
+   "passage": "p01072",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Καβηϲϲόθεν ἔνδον ἐόντα",
+   "english": "who was living in Kabessos",
+   "objection": "Καβησσόθεν means 'from Kabessos', not 'in Kabessos'; render 'who was within [the place in question], from Kabessos'.",
+   "verdict": "upheld",
+   "why": "-then means from"
+  },
+  {
+   "key": "p01081:0",
+   "passage": "p01081",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἀπὸ Μήλου τῆϲ Μαντοῦϲ",
+   "english": "from Melos the daughter of Manto",
+   "objection": "τῆς belongs to Manto's name, not to Melos; read 'from Melos, son of Manto'.",
+   "verdict": "upheld",
+   "why": "tes belongs to Manto"
+  },
+  {
+   "key": "p01092:0",
+   "passage": "p01092",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "λέγεται δὲ παρὰ Αἰγᾶν ποταμὸν φερόμενον ἀπὸ τοῦ περὶ τὸ Πύθιον ὄρουϲ",
+   "english": "it is said [to be] beside the river Aigas, which flows from the mountain around the Pythion",
+   "objection": "λέγεται παρά gives the derivation of the name: 'it is named after the river Aigas, which flows from the mountain near the Pythion'.",
+   "verdict": "upheld",
+   "why": "para gives the derivation in Stephanus"
+  },
+  {
+   "key": "p01100:0",
+   "passage": "p01100",
+   "severity": "major",
+   "type": "grammar",
+   "original": "μίτρηϲ θ’ ἣν ἐφόρειν",
+   "english": "and of the belt which I wore",
+   "objection": "Read 'and of the belt which he wore': ἐφόρει is third-person singular; the trailing ν in the scanned quotation is evidently extraneous.",
+   "verdict": "upheld",
+   "why": "Il. 4.137: he wore"
+  },
+  {
+   "key": "p01106:0",
+   "passage": "p01106",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Μεγαρέα τὸν Ογχήϲτιον",
+   "english": "Megareus son of Onchestus",
+   "objection": "Ὀγχήστιον is an ethnic adjective, not a patronymic genitive: 'Megareus the Onchestian' or 'Megareus from Onchestus'.",
+   "verdict": "upheld",
+   "why": "an ethnic, not a patronymic"
+  },
+  {
+   "key": "p01119:0",
+   "passage": "p01119",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐν Ἱϲπανίᾳ τῇ μικρᾷ τῇ ἔξω Λουϲιτανῶν πάλιν ἀποϲτάντων",
+   "english": "In Lesser Hispania, the one beyond the Lusitanians, when they revolted again",
+   "objection": "Λουϲιτανῶν is the subject of the genitive absolute, not the complement of 'beyond': 'in Lesser, outer Hispania, when the Lusitanians revolted again'.",
+   "verdict": "upheld",
+   "why": "the Lusitanians are the subject of the genitive absolute"
+  },
+  {
+   "key": "p01154:0",
+   "passage": "p01154",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Μολύκρειον· οὕτωϲ Θουκυδίδηϲ δευτέρᾳ (c. 84) Μολυκρίαν πόλιν Αἰτωλίαϲ καλεῖ",
+   "english": "Molykreion: thus [it is]; Thucydides in the second [book] (c. 84) calls Molykria a city of Aetolia",
+   "objection": "Thucydides calls the Aetolian city Molykria 'Molykreion'; the clause attributes that name to him, rather than saying that he calls it a city.",
+   "verdict": "upheld",
+   "why": "the entry is what Thucydides calls the city"
+  },
+  {
+   "key": "p01155:1",
+   "passage": "p01155",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τὸ γὰρ ἐπιθετικὸν κηρύκειον τὸν τοῦ κηρύκειοϲ τόνον ἐφύλαξε",
+   "english": "for the adjectival kērykeios has kept the accent of kērykeios",
+   "objection": "The subject is the neuter adjective kērykeion, which retains the accent of kērykeios; the English substitutes the masculine form for the neuter.",
+   "verdict": "upheld",
+   "why": "the form is the point of the sentence"
+  },
+  {
+   "key": "p01164:0",
+   "passage": "p01164",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Τίβυρα. οὕτωϲ Ἀρτεμίδωροϲ τετάρτῳ γεωγραφουμένων Τίβυριν πόλιν Ἰταλίαϲ καλεῖ",
+   "english": "Tibyra. Thus Artemidorus in the fourth [book] of his *Geography* calls Tibyris a city of Italy",
+   "objection": "Artemidorus calls Tibyris, a city in Italy, 'Tibyra'; the sentence attributes that form of the name to him, not the classification as a city.",
+   "verdict": "upheld",
+   "why": "as p01154"
+  },
+  {
+   "key": "p01179:0",
+   "passage": "p01179",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ὁμοίωϲ περιϲπᾶται πλὴν τῶν ἀναφορικῶν, αὐτοῦ, τηλοῦ, ἀγχοῦ, πανταχοῦ, ἀλλαχοῦ, ὁμοῦ",
+   "english": "they are likewise circumflexed, except the relatives: autou, tēlou, anchou, pantachou, allachou, homou",
+   "objection": "The listed forms illustrate the circumflex rule, not the excepted relative adverbs; write 'except for relative adverbs; examples of the rule are autou, tēlou, ...'.",
+   "verdict": "upheld",
+   "why": "the listed forms all carry the circumflex, so they cannot be the exceptions"
+  },
+  {
+   "key": "p01180:0",
+   "passage": "p01180",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐρωτώμενον λέγειν τίνα τάδε καὶ πόϲα τάδε, ἔϲτ’ ἂν ἐπιτύχῃ",
+   "english": "when questioned, saying 'what are these?' and 'how many are these?' until one hits on it",
+   "objection": "The blindfolded player answers, rather than asks, the questions: 'when questioned, saying what these are and how many there are, until one guesses correctly'.",
+   "verdict": "upheld",
+   "why": "the blindfolded player answers"
+  },
+  {
+   "key": "p01194:0",
+   "passage": "p01194",
+   "severity": "major",
+   "type": "grammar",
+   "original": "κατὰ κλῶθέϲ τε βαρεῖαι — νήϲαντο: τὸ κατά πρὸϲ τὸ νήϲαντο",
+   "english": "According as the heavy Spinners [spun for him]",
+   "objection": "κατά belongs to νήϲαντο as a verbal prefix, as the gloss explicitly says; it does not mean 'according as': 'and the dread Spinners spun [his lot]'.",
+   "verdict": "upheld",
+   "why": "Od. 7.197: tmesis, as the gloss says"
+  },
+  {
+   "key": "p01195:0",
+   "passage": "p01195",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ἔδει αὐτὸ Αἰολικῶϲ βαρύνεϲθαι",
+   "english": "it should have been given the grave accent [on the final syllable] in the Aeolic manner",
+   "objection": "βαρύνεϲθαι means to have a nonfinal accent here, not a final grave: 'it should have been accented recessively in the Aeolic manner'.",
+   "verdict": "upheld",
+   "why": "barynesthai means a recessive accent"
+  },
+  {
+   "key": "p01198:0",
+   "passage": "p01198",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Ἴβυκοϲ αὔϲιον λέγει οἶον «οὐ γὰρ αὔϲιον παῖϲ Τυδέωϲ",
+   "english": "Ibycus says auction, for example \"for not in vain [auction] the son of Tydeus\"",
+   "objection": "Ibycus's form is ausion (αὔϲιον), not 'auction'; both occurrences misrepresent the form whose derivation is being discussed.",
+   "verdict": "upheld",
+   "why": "the form under discussion is ausion"
+  },
+  {
+   "key": "p01202:0",
+   "passage": "p01202",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ Κέρκυροϲ ἁγεῖται",
+   "english": "and Kerkyros leads",
+   "objection": "Κέρκυροϲ is the genitive of Κέρκυρ, as the following analysis explicitly states; with ἁγεῖται it means 'and he leads Kerkyr', not that Kerkyros is the leader.",
+   "verdict": "upheld",
+   "why": "Kerkyros is the genitive of Kerkyr, as the passage goes on to say"
+  },
+  {
+   "key": "p01243:0",
+   "passage": "p01243",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "διὰ τὸ μὴ ἔχειν τὸ τὸ Ἄδραμυϲ",
+   "english": "because [the name] does not have the [form] Adramys",
+   "objection": "The damaged wording concerns the missing consonant t: 'because Adramys does not contain t', explaining why it cannot yield Adramyttion.",
+   "verdict": "upheld",
+   "why": "the point is the missing t"
+  },
+  {
+   "key": "p01266:0",
+   "passage": "p01266",
+   "severity": "major",
+   "type": "name",
+   "original": "Θεόπομποϲ Τρᾶραϲ αὐτοὺϲ καλεῖ",
+   "english": "Theopompus calls them Traroi",
+   "objection": "Traras is the accusative plural of Trares, not Traroi; render 'Theopompus calls them Trares'.",
+   "verdict": "upheld",
+   "why": "the form is the point of the entry"
+  },
+  {
+   "key": "p01273:0",
+   "passage": "p01273",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ἀλλὰ προϲέδωκαϲ τάλαντον εἶναι παρ’ ἡμῖν τὸν ἴκτινον",
+   "english": "but you expected that the kite was a talent's worth among us",
+   "objection": "Prosedōkas means 'you gave in addition', not 'you expected': 'but you paid an additional talent for the kite to be with us'.",
+   "verdict": "upheld",
+   "why": "prosedokas is from prosdidomi"
+  },
+  {
+   "key": "p01281:0",
+   "passage": "p01281",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ταυτὸν ποιεῖ τό τ’ Ἀττικὸν τῷ ζελά",
+   "english": "he does the same to the Attic [wine] with zela",
+   "objection": "The Attic wine is the subject and zela is the comparison: 'Attic wine does the same thing as zela', not something a man acts upon.",
+   "verdict": "upheld",
+   "why": "the Attic wine is the subject"
+  },
+  {
+   "key": "p01284:0",
+   "passage": "p01284",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "φαϲὶ δὲ καὶ Γόρτυναν ὡϲ ἄμυναν",
+   "english": "and they also say Gortyna, like amyna",
+   "objection": "Both examples must retain final n: 'Gortynan, like amynan'; removing it collapses the distinction from the preceding accusative Gortyna.",
+   "verdict": "upheld",
+   "why": "the accusative is the point"
+  },
+  {
+   "key": "p01287:0",
+   "passage": "p01287",
+   "severity": "major",
+   "type": "grammar",
+   "original": "πτερύγοϲ λάβεν ἀμφιαχυῖαν",
+   "english": "she took [him] by the wing as she cried around",
+   "objection": "Amphiachuian is accusative feminine and describes the object, not the subject: '[he/it] caught her by the wing as she cried out'.",
+   "verdict": "upheld",
+   "why": "Il. 2.316: the snake takes the bird"
+  },
+  {
+   "key": "p01296:0",
+   "passage": "p01296",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τῷ δ’ ἄν οἶνοϲ εἴη πολύϲ, πίϲει",
+   "english": "and he would have plenty of wine, you will drink",
+   "objection": "Pisei is third person singular; the clauses refer to the same person: 'whoever has plenty of wine will drink'.",
+   "verdict": "upheld",
+   "why": "pisei is from piso, cause to drink, the verb the passage is about"
+  },
+  {
+   "key": "p01300:0",
+   "passage": "p01300",
+   "severity": "major",
+   "type": "grammar",
+   "original": "κατέχεϲον τῆϲ Nηρηΐδοϲ",
+   "english": "he shat upon the Nereid",
+   "objection": "Katecheson is first person singular or third person plural, not third person singular: 'I shat upon the Nereid' (or 'they shat', if required by context).",
+   "verdict": "minor",
+   "why": "wrong person in a fragment with no context"
+  },
+  {
+   "key": "p01302:0",
+   "passage": "p01302",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "εἶκαϲ μὲν ὡραίῳ λίνῳ ἀντὶ τοῦ ὡμοίωϲαι",
+   "english": "you likened [it] to ripe flax",
+   "objection": "The subject resembles flax; hōmoiōsai is perfect middle/passive, not active: 'you are like ripe flax' or 'you have been likened to ripe flax'.",
+   "verdict": "upheld",
+   "why": "eikas is perfect: you are like"
+  },
+  {
+   "key": "p01307:0",
+   "passage": "p01307",
+   "severity": "major",
+   "type": "name",
+   "original": "κατὰ δὲ Ἑκαταῖον Ἀβοτιεύϲ",
+   "english": "but according to Hecataeus, Aboticus",
+   "objection": "Hecataeus's form is Abotieus, not Aboticus, as the subsequent derivation also shows.",
+   "verdict": "upheld",
+   "why": "the form is the point"
+  },
+  {
+   "key": "p01337:1",
+   "passage": "p01337",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ἑανοῦ καϲϲιτέροιο",
+   "english": "robe (heanou) of tin",
+   "objection": "Here the word is adjectival: 'of soft/pliant tin', not a robe made of tin.",
+   "verdict": "upheld",
+   "why": "Il. 18.613: an adjective"
+  },
+  {
+   "key": "p01345:0",
+   "passage": "p01345",
+   "severity": "major",
+   "type": "grammar",
+   "original": "μιϲγόμεθ’ ἀλλήλων ὡϲ Ἄραροϲ Ῥοδανόϲ",
+   "english": "we mingle with each other, like the Rhone of the Arar",
+   "objection": "The comparison is with rivers mingling: 'as the Rhone mingles with the Arar', not 'the Rhone of the Arar'.",
+   "verdict": "upheld",
+   "why": "rivers mingling"
+  },
+  {
+   "key": "p01349:0",
+   "passage": "p01349",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εἴ μοι γένοιτο φᾶροϲ ἴϲον ἐν οὐρανῷ",
+   "english": "if I might have a cloak (phâros) equal to the sky",
+   "objection": "ἐν οὐρανῷ means 'in the sky/heaven', not 'equal to the sky'; render 'if I might have an equal cloak in heaven', leaving the comparison's referent to the context.",
+   "verdict": "rejected",
+   "why": "Aeschylus' line is 'equal to the sky'; the en is this edition's slip"
+  },
+  {
+   "key": "p01360:0",
+   "passage": "p01360",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἢ πάλιν εἴ τι τῶν σωματικῶν τὸ ἐνεργοῦν οἷον πνεῦμα ἢ πῦρ· οὐδὲ γὰρ ταῦτα εἰκός",
+   "english": "or again, if what is active were something bodily, such as breath or fire. For neither is this likely",
+   "objection": "The rejected possibility is divided activity even if the agent is bodily: 'Nor, if the agent is breath or fire, is it likely that these act separately by parts'; bodily agency itself is not rejected.",
+   "verdict": "upheld",
+   "why": "what is rejected is division by parts, not a bodily agent"
+  },
+  {
+   "key": "p01416:0",
+   "passage": "p01416",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τὸ σωθῆναι μόνον ... πλὴν ὅσον ἡμεῖς γε οὐ μόνοι τότε",
+   "english": "to be saved, and only that ... except that we at least were not the only ones saved then",
+   "objection": "μόνον describes Simonides as the sole survivor, as the contrast with οὐ μόνοι confirms: 'that he alone was saved,' not that salvation was his only reward.",
+   "verdict": "upheld",
+   "why": "Simonides alone was saved; the next clause depends on it"
+  },
+  {
+   "key": "p01419:0",
+   "passage": "p01419",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οὐ γὰρ τόν γε τοῦ παντὸς ἐσφαλμένον ὡς ἀνέλοι σοφώτατον ἀνδρῶν πιστεῦσαι θεμιτὸν περὶ τοῦ θεοῦ",
+   "english": "it is not permitted to believe, concerning the god, that he was entirely mistaken when he proclaimed [Socrates] the wisest of men",
+   "objection": "τὸν ... ἐσφαλμένον is the person proclaimed wisest, not the god: 'one cannot believe that the god would proclaim a wholly mistaken man the wisest of men.'",
+   "verdict": "upheld",
+   "why": "the mistaken one is the man proclaimed"
+  },
+  {
+   "key": "p01427:0",
+   "passage": "p01427",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οὕτω καὶ Σωκράτη φησὶ κρίνειν δίκαιον",
+   "english": "so too, he says, Socrates thought it right to judge",
+   "objection": "Socrates is the object of κρίνειν, not its subject: 'so too, he says, it is right to judge Socrates [by his example].'",
+   "verdict": "upheld",
+   "why": "Socrates is the object"
+  },
+  {
+   "key": "p01431:0",
+   "passage": "p01431",
+   "severity": "major",
+   "type": "omission",
+   "original": "λέγει περὶ Θεμιστοκλέους ἡμῖν",
+   "english": "what sort of things Aeschines, the companion of Socrates, and of Plato",
+   "objection": "The predicate and subject matter are missing: 'what sort of things Aeschines ... tells us about Themistocles.'",
+   "verdict": "upheld",
+   "why": "the end of the clause is dropped"
+  },
+  {
+   "key": "p01437:0",
+   "passage": "p01437",
+   "severity": "major",
+   "type": "addition",
+   "original": "τῆς δʼ ἐν Κορίνθῳ μάχης καὶ τῆς ἐν Λεχαίῳ μέσος ἄρχων Εὐβουλίδης",
+   "english": "between [that and] the battle at Corinth and the one at Lechaeum the archon Eubulides falls in between",
+   "objection": "The added reference to Socrates' death changes the chronology: Eubulides' archonship falls between the battle at Corinth and the battle at Lechaeum.",
+   "verdict": "upheld",
+   "why": "the chronology is between the two battles"
+  },
+  {
+   "key": "p01442:0",
+   "passage": "p01442",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Μαντινεῖς μὲν γὰρ, ὧν ἐν τῷ λόγῳ μέμνηται λέγων ὡς ἐπὶ Ἀρκάδων διῳκίσθησαν",
+   "english": "the Mantineans, whom he mentions in the speech, saying that they were split up into villages by the Arcadians [sic]",
+   "objection": "ἐπὶ Ἀρκάδων refers to the Arcadians as the people being discussed, not the agents of the dispersal: 'the Mantineans, whom he mentions in the speech as Arcadians, were dispersed.'",
+   "verdict": "upheld",
+   "why": "Plato Smp. 193a: the Arcadians are the ones dispersed"
+  },
+  {
+   "key": "p01443:0",
+   "passage": "p01443",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εἰ γὰρ μὴ συνίης ... εἰ ταῦτʼ ἀληθῆ Ἔφορος λέγει σοὶ φάσκων δοκεῖν, ὅτι οὐ λύεις ἀπορίαν, ἀλλὰ",
+   "english": "if you do not understand ... whether Ephorus says these things truly when he claims that they seem [so] to you, [it is] because you are not resolving the difficulty, but",
+   "objection": "The second εἰ introduces a parenthetical condition, and ὅτι supplies what Euthymenes fails to understand: 'if you do not understand—if Ephorus truthfully reports this as your opinion—that you are not resolving a difficulty, but ...'",
+   "verdict": "upheld",
+   "why": "the second ei is parenthetic and hoti gives what he fails to see"
+  },
+  {
+   "key": "p01448:0",
+   "passage": "p01448",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εἰ γὰρ ἤθελον ἃ τοῖς ἐναντίοισιν ἥνδανεν τότε, αὖθις δʼ ἃ τοῖσιν ἁτέροις δρᾶσαι",
+   "english": "if I had been willing to do what then pleased the opponents, and again what the others [wished] to do to them",
+   "objection": "δρᾶσαι depends on Solon's ἤθελον; ἥνδανεν is understood with the second party too: 'if I had wished to do what pleased one side then, and in turn what pleased the other.' The others are not the agents of an action against their opponents.",
+   "verdict": "rejected",
+   "why": "Solon fr. 36: the English gives the usual sense of the line"
+  },
+  {
+   "key": "p01449:0",
+   "passage": "p01449",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εἰδέναι μὲν φάσκοντες ἃ δράσουσι κατὰ, αὑτῶν δὲ κρατεῖν οὐ δύνασθαι",
+   "english": "claim to know what they are going to do against themselves, yet say they cannot master themselves",
+   "objection": "αὑτῶν belongs to κρατεῖν, 'control themselves'; it does not make them the victims of their acts. κατὰ appears to be a scan error for κακά: 'claim to know the evils they will do, but cannot control themselves.'",
+   "verdict": "upheld",
+   "why": "Eur. Med. 1078: kata is a scan error for kaka"
+  },
+  {
+   "key": "p01452:1",
+   "passage": "p01452",
+   "severity": "major",
+   "type": "grammar",
+   "original": "πολιτικὸς μὲν οὖν ἀμφοτέρας ἂν εἰρήκει τὰς δυνάμεις οὐχ ἅπαξ, ἀλλὰ πολλάκις",
+   "english": "A political orator, then, would have expressed both forces, [saying] not \"once\" but \"often\"",
+   "objection": "οὐχ ἅπαξ, ἀλλὰ πολλάκις modifies the act of expressing, not the words selected: 'a political orator would have expressed both effects not once but repeatedly.'",
+   "verdict": "upheld",
+   "why": "not once but often modifies the expressing"
+  },
+  {
+   "key": "p01480:0",
+   "passage": "p01480",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τῷ γένει δ’, ὥσπερ εἶπον, συμπεριγράφεται τὸ εἶδος",
+   "english": "along with the genus, as I said, the species is circumscribed as well",
+   "objection": "συμπεριγράφεται here means that the species is eliminated together with the genus, not merely circumscribed: 'when the genus is eliminated, the species is eliminated too.'",
+   "verdict": "upheld",
+   "why": "parallel to synanaireitai just before"
+  },
+  {
+   "key": "p01519:0",
+   "passage": "p01519",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "αἴθων δὲ κεραυνὸς ἐνέσκηψε μόρον",
+   "english": "the blazing thunderbolt struck down death",
+   "objection": "The thunderbolt inflicted death; it did not strike death down. Render 'the blazing thunderbolt brought death upon them'.",
+   "verdict": "upheld",
+   "why": "the thunderbolt brought death, it did not strike it down"
+  },
+  {
+   "key": "p01524:0",
+   "passage": "p01524",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "αἴθων δὲ κεραυνὸς ἐνέσκηψε μόρον",
+   "english": "the blazing thunderbolt struck down [their] doom",
+   "objection": "The thunderbolt inflicted their doom; doom is not what it struck down. Render 'the blazing thunderbolt brought death upon them'.",
+   "verdict": "upheld",
+   "why": "as p01519"
+  },
+  {
+   "key": "p01538:1",
+   "passage": "p01538",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ἢ αὐτίκα μάλα",
+   "english": "or nearly so",
+   "objection": "αὐτίκα μάλα means 'very shortly', anticipating the demonstration that Dionysus is later than Moses; it does not qualify the chronological claim as 'nearly so'.",
+   "verdict": "upheld",
+   "why": "autika mala looks forward to the demonstration"
+  },
+  {
+   "key": "p01580:0",
+   "passage": "p01580",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "μειοῖ δὲ τὸ πάθος ἐλπίς",
+   "english": "hope increases the passion",
+   "objection": "μειοῖ means 'diminishes': 'hope lessens the passion', the opposite of the English.",
+   "verdict": "upheld",
+   "why": "reversed: meioi means lessens"
+  },
+  {
+   "key": "p01581:0",
+   "passage": "p01581",
+   "severity": "major",
+   "type": "grammar",
+   "original": "μεμηνῦσθαί τινα Σωκράτει παρεπομένου δαίμονος αὐτῷ",
+   "english": "it was revealed to Socrates that a daimōn [spirit] attended him",
+   "objection": "τινα is 'certain things', the subject of 'were revealed'; the accompanying spirit is not the content of the revelation. Render 'certain things were revealed to Socrates by a spirit attending him'.",
+   "verdict": "upheld",
+   "why": "tina is what was revealed"
+  },
+  {
+   "key": "p01596:0",
+   "passage": "p01596",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "κἂν ὑπαλλάξῃς τὴν φύσιν, ὡς Στράτων",
+   "english": "even if you alter his nature, as Strato does",
+   "objection": "Nature is substituted for the deity: 'even if you substitute Nature [for him], as Strato does', not alter the deity's nature.",
+   "verdict": "upheld",
+   "why": "Strato puts nature in the god's place"
+  },
+  {
+   "key": "p01665:0",
+   "passage": "p01665",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τὸν οὔθ’ ὅλως καλὸν νομίζοντα τοὺς ἐν φιλοσοφίᾳ πιπράσκειν λόγους",
+   "english": "though you are a man who does not think it wholly wrong to sell the teachings of philosophy",
+   "objection": "This describes Socrates, the speaker, and says the opposite: 'I, who do not think it at all right to sell philosophical teachings'.",
+   "verdict": "upheld",
+   "why": "reversed: the participle describes Socrates, the speaker"
+  },
+  {
+   "key": "p01672:0",
+   "passage": "p01672",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τί οὖν ἔφη ὁ Ἀρίστιππος σὺ τοῦτον ἂν ἐργάσαιο;",
+   "english": "\"What then,\" said Aristippus, \"would this man do to you?\"",
+   "objection": "Subject and object are reversed: 'What, then, would you do to this man?'",
+   "verdict": "upheld",
+   "why": "subject and object reversed"
+  },
+  {
+   "key": "p01694:0",
+   "passage": "p01694",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τοῖς ἔργοις φησὶ καὶ τῇ περὶ τῶν φυσικῶν δόξῃ ὕστερον εἶναι ... ἀλλ’ ὑστέραν καὶ εὐτελεστέραν",
+   "english": "is later in his works and in his opinion about natural things ... later and cheaper",
+   "objection": "The commentator interprets 'ὕστερον' evaluatively: Anaxagoras is inferior in achievement and physical doctrine, and his opinion is inferior and less valuable, not chronologically later.",
+   "verdict": "upheld",
+   "why": "Alexander reads hysteros as inferior; eutelesteran proves it"
+  },
+  {
+   "key": "p01716:0",
+   "passage": "p01716",
+   "severity": "major",
+   "type": "grammar",
+   "original": "διὸ οὐδὲ ποιητικὸν τούτου ἐστίν",
+   "english": "and so the god is not productive of it either",
+   "objection": "The causal direction is reversed: 'therefore Strife does not produce the god either'; neuter ποιητικόν refers to Strife, not to the god.",
+   "verdict": "upheld",
+   "why": "neuter poietikon is Strife"
+  },
+  {
+   "key": "p01733:0",
+   "passage": "p01733",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἢ πάντα ἀληθῆ",
+   "english": "or that all are true",
+   "objection": "After μᾶλλον ('more'), ἢ means 'than': all things being false seems more possible than all being true. 'Or' loses this comparison.",
+   "verdict": "upheld",
+   "why": "after mallon, e means than"
+  },
+  {
+   "key": "p01738:0",
+   "passage": "p01738",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἀλλὰ μὴν οὐδὲ τῶν καθ’ αὑτὸ λεγομένων οὐδὲ τουτο",
+   "english": "But not even of things said per se is this so",
+   "objection": "The genitive marks membership: 'But this too is not among the things spoken of per se.' It excludes white man from that class, rather than denying something about per se things.",
+   "verdict": "upheld",
+   "why": "the genitive marks the class"
+  },
+  {
+   "key": "p01786:0",
+   "passage": "p01786",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τὸ γὰρ ἀριθμῷ τοῖς αὐτοῖς εἶναί ἐστι τούτοις τοῖς ὀνόμασιν ἢ λόγοις τὸ τῶν αὐτῶν εἶναι σημαντικοῖς.",
+   "english": "For to be the same in number with these [things] is for these names or accounts to signify the being of the same [things].",
+   "objection": "It should say: 'For these names or accounts, being numerically the same means signifying the same things.' εἶναι σημαντικοῖς means 'to signify', not 'to signify the being of'.",
+   "verdict": "upheld",
+   "why": "as Codex says"
+  },
+  {
+   "key": "p01795:0",
+   "passage": "p01795",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τὸ ἐντὸς φῶς πρὸς τὸ ἐκτὸς εὐθὺς τῇ ἐντὸς † χώρᾳ συμφύεσθαι",
+   "english": "rather than that the inner light is sent out to the outer, that it coalesces directly with the inner † place",
+   "objection": "The inner light coalesces with the outer light immediately in the inner region. The dative gives the location; the light does not coalesce with a place.",
+   "verdict": "upheld",
+   "why": "the inner and outer light coalesce, in the inner place"
+  },
+  {
+   "key": "p01797:0",
+   "passage": "p01797",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τότε αἰσθητὰ ἐν τούτοις αὐτὰ γίνεσθαι καὶ διαφέροντα <τὰ> ἀπὸ τοῦ ὕδατος ἀναίσθητα",
+   "english": "then they become perceptible in these and differ from the imperceptible [particles] in the water",
+   "objection": "The previously imperceptible particles from the water become perceptible and distinguishable in these things. They are the subject, not a separate set of particles from which the collected particles differ.",
+   "verdict": "upheld",
+   "why": "the imperceptible particles are the subject"
+  },
+  {
+   "key": "p01925:0",
+   "passage": "p01925",
+   "severity": "major",
+   "type": "name",
+   "original": "κατὰ Μαντίου",
+   "english": "Against Mantitheus",
+   "objection": "The name is Mantius (Mantios), not Mantitheus; translate 'Against Mantius'.",
+   "verdict": "upheld",
+   "why": "Mantiou is from Mantias"
+  },
+  {
+   "key": "p01932:0",
+   "passage": "p01932",
+   "severity": "major",
+   "type": "omission",
+   "original": "ἐν τῇ εν εἶναι τοὺς δοθέντας παρὰ τῶν Λακεδαιμονίων ὁμήρους",
+   "english": "in book 5 that they were the hostages given by the Lacedaemonians",
+   "objection": "The joined numerals ε ν mean book 5 and fifty hostages: 'in book 5 that the hostages given by the Lacedaemonians numbered fifty'; the number fifty is lost.",
+   "verdict": "upheld",
+   "why": "the fifty hostages of Aeschines 3.133; the numeral was lost"
+  },
+  {
+   "key": "p01965:0",
+   "passage": "p01965",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ᾧ ξυμβουλεύειν χὲρς ἄπο, νοῦς δὲ πάρα",
+   "english": "to whom counsel is away from the hand, but the mind is present",
+   "objection": "χὲρς is the subject of ἄπο ('is absent'): 'for giving counsel he lacks a hand, but has a mind'; counsel is not said to be away from the hand.",
+   "verdict": "upheld",
+   "why": "cheir is the subject of apo"
+  },
+  {
+   "key": "p01966:0",
+   "passage": "p01966",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τί σε χρὴ ταῦτα λέγεσθαι;",
+   "english": "why must these things be said to you?",
+   "objection": "σε is the subject of the middle infinitive: 'why must you say these things?' The addressee speaks rather than being spoken to.",
+   "verdict": "upheld",
+   "why": "Il. 13.275: se is the subject"
+  },
+  {
+   "key": "p01968:0",
+   "passage": "p01968",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "σκῆψιν μὲν Χείρωνες ἐλήλυμεν ὡς ὑποθήκας",
+   "english": "as a pretext we Cheirons have come as counsels",
+   "objection": "The fragment introduces the professed purpose of their coming: 'we Cheirons have come ostensibly to [give] instructions'; they have not come 'as counsels'.",
+   "verdict": "minor",
+   "why": "as counsels is close"
+  },
+  {
+   "key": "p01980:0",
+   "passage": "p01980",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εὐδαίμον’ ἔτικτέ σε μήτηρ ἰκρίων ψόφησις",
+   "english": "a happy mother bore you, rattle of the stands!",
+   "objection": "εὐδαίμον' agrees with σε, and the clatter is the mother: 'your mother, the clatter of the stands, bore you fortunate'.",
+   "verdict": "upheld",
+   "why": "the rattle is the mother"
+  },
+  {
+   "key": "p02007:0",
+   "passage": "p02007",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐνάτην περὶ γαῖαν",
+   "english": "the ninth around the earth",
+   "objection": "ἐνάτην agrees with γαῖαν: 'around the earth, the ninth [body]'; it is the earth that is ninth, not another body circling it.",
+   "verdict": "upheld",
+   "why": "the earth is the ninth"
+  },
+  {
+   "key": "p02011:0",
+   "passage": "p02011",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τί ποτʼ ἄρα ὁ ἀστὴρ ὅδε πορθμεύει σείριος;",
+   "english": "What can this blazing star be that travels across?",
+   "objection": "The question asks what the star conveys: 'What, then, does this blazing star bring?' It does not ask which star it is.",
+   "verdict": "rejected",
+   "why": "Eur. IA 6: the line asks what star this is"
+  },
+  {
+   "key": "p02019:0",
+   "passage": "p02019",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Ἐξεῦρον δὲ καὶ ἑτέραν ἄφεσιν ἐκ πείρας",
+   "english": "They also discovered from experience another release",
+   "objection": "The singular participle ποιησάμενος identifies the discoverer as the speaker: 'I also discovered from experience another release', not 'they'.",
+   "verdict": "upheld",
+   "why": "the singular participle makes it I"
+  },
+  {
+   "key": "p02025:0",
+   "passage": "p02025",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἱστορεῖν φησιν λητὰς",
+   "english": "says that he records",
+   "objection": "The reported account is attributed to the people of Ios (λητὰς evidently represents Ἰήτας): 'says that the people of Ios report', not that Aristotle himself records it.",
+   "verdict": "upheld",
+   "why": "letas is a scan error for Ietas, the people of Ios"
+  },
+  {
+   "key": "p02026:0",
+   "passage": "p02026",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τὰ στοιχεῖα ἐν ὕλῃ θέμενος",
+   "english": "placed the elements in matter",
+   "objection": "He posited the elements as matter, assigning them that role, rather than placing them inside matter.",
+   "verdict": "upheld",
+   "why": "thesthai en hyle means to posit as matter"
+  },
+  {
+   "key": "p02034:0",
+   "passage": "p02034",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἀποδεικτικὰς εἶναι προτάσεις καὶ ταύτας τὸν ἐπιστάμενον ἐπιστήμην ἔχειν",
+   "english": "[such] premises were demonstrative, and that one who knows has knowledge of these",
+   "objection": "ταύτας introduces the following premises; it is not the object of 'knowledge'. Read: 'these too were demonstrative premises: that one who knows possesses knowledge', followed by the second premise.",
+   "verdict": "upheld",
+   "why": "tautas introduces the two premises"
+  },
+  {
+   "key": "p02099:0",
+   "passage": "p02099",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ὄντα ἄνδρα ἀλαζόνα καὶ κοάλεμον καὶ εἴ τις ἄλλος θεολογεῖ κακῶς",
+   "english": "a boastful and stupid man, and whoever else speaks badly about the gods",
+   "objection": "εἴ τις ἄλλος is an emphatic comparison describing Euthyphro, not additional people: 'a boastful and stupid man, and as bad a theologian as anyone'.",
+   "verdict": "upheld",
+   "why": "ei tis allos is an emphatic comparison"
+  },
+  {
+   "key": "p02108:0",
+   "passage": "p02108",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τοσῷδε τοῖς δόξης ἐκ πολλῶν ἀκαίρων καὶ κενῶν γλιχομένοις ἄχθος φέρει",
+   "english": "so much does it bring a burden to those who crave reputation from many untimely and empty [pursuits]",
+   "objection": "ἄχθος φέρει with the dative means that he feels displeasure at these people, not that something burdens them: 'so much is he displeased with those who crave reputation from many untimely and empty pursuits'.",
+   "verdict": "rejected",
+   "why": "the English is the plain sense of the words; the objection's idiom is not secure"
+  },
+  {
+   "key": "p02141:0",
+   "passage": "p02141",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "οὐκ ηύπόρει ὀ ἀγαθός θεός τινα ἀποστεῖλαι",
+   "english": "the good God would not have been at a loss to send someone",
+   "objection": "The negation applies to having someone available to send: 'the good God would have had no one to send,' not that he would have had no difficulty sending someone.",
+   "verdict": "upheld",
+   "why": "reversed: he would have had no one to send"
+  },
+  {
+   "key": "p02145:0",
+   "passage": "p02145",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "οὕτως, φηςί, γεγένηται",
+   "english": "It did not happen this way",
+   "objection": "The Greek is affirmative: 'It happened this way, he says'; the translation inserts a negation and reverses the statement.",
+   "verdict": "upheld",
+   "why": "the edition's text has no negation"
+  },
+  {
+   "key": "p02182:0",
+   "passage": "p02182",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἀνάγκη αὐτοὺς ταῦτά τε, φησὶ, διδάξαι",
+   "english": "for them to teach",
+   "objection": "Here αὐτούς is the object of 'teach': if they refuse to answer, Celsus must teach them what their claims are and where they originated, not require them to teach.",
+   "verdict": "upheld",
+   "why": "they have refused to answer, so Celsus must teach them"
+  },
+  {
+   "key": "p02185:0",
+   "passage": "p02185",
+   "severity": "major",
+   "type": "grammar",
+   "original": "πλανᾶν νομίζετε ἠπατημένους τοὺς νενομοθετημένους ὑπ᾿ αὐτοῦ",
+   "english": "those who were given laws by him were deceived and led astray",
+   "objection": "πλανᾶν is active: 'those given laws by him, themselves deceived, lead others astray'; the English makes them only recipients of deception.",
+   "verdict": "rejected",
+   "why": "the English gives the sense; the objection's reading is unlikely"
+  },
+  {
+   "key": "p02198:0",
+   "passage": "p02198",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ἀνομολογουμένην εἶχε τῇ πίστει ταύτῃ συγκατάθεσιν",
+   "english": "held an assent that agreed with this belief",
+   "objection": "ἀνομολογουμένην means inconsistent, not agreeing: he adopted a position inconsistent with his belief that a king had been born.",
+   "verdict": "upheld",
+   "why": "reversed: anomologoumenen means inconsistent"
+  },
+  {
+   "key": "p02205:0",
+   "passage": "p02205",
+   "severity": "major",
+   "type": "grammar",
+   "original": "θειότερον παρὰ τοῖς πολλοῖς",
+   "english": "even more divine than [those of] the many",
+   "objection": "παρά with the dative means 'in the opinion of': 'more divine in the eyes of the many,' not more divine than other people's bodies.",
+   "verdict": "rejected",
+   "why": "more divine than those of the many is the sense, and Chadwick's"
+  },
+  {
+   "key": "p02225:0",
+   "passage": "p02225",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐξ ἀσημοτάτων ἡγούμενοι ἐθνῶν καὶ βασιλεῖς",
+   "english": "leaders and kings from the most obscure nations",
+   "objection": "ἐθνῶν belongs with the rulers, not with ἀσημοτάτων: 'rulers of nations and kings descended from the most obscure people.'",
+   "verdict": "upheld",
+   "why": "parallel with the rich and famous parents before it"
+  },
+  {
+   "key": "p02252:0",
+   "passage": "p02252",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οὐδενὸς πράγματος, οὗ μὴ σπουδαία ἐστὶν ἡ ἀρχὴ καὶ τῷ βίῳ χρήσιμος, γεγόνασιν αἱρέσεις διάφοροι",
+   "english": "there has never been a matter whose origin is not serious and useful to life in which different sects have not arisen",
+   "objection": "The extra 'not' reverses the claim. It should say 'No subject whose foundation is not serious and useful to life has given rise to different sects.'",
+   "verdict": "upheld",
+   "why": "reversed by a second not"
+  },
+  {
+   "key": "p02262:0",
+   "passage": "p02262",
+   "severity": "major",
+   "type": "grammar",
+   "original": "παραπλήσιον τοῖς ἐπιδεικνυμένοις γόησιν ἀπάτῃ ὀφθαλμῶν πεποιηκέναι",
+   "english": "like those who display tricks to sorcerers by deceiving the eyes",
+   "objection": "The sorcerers are the performers, not their audience. Render 'did something similar to conjurers giving displays by deceiving the eyes.'",
+   "verdict": "upheld",
+   "why": "the sorcerers are the performers"
+  },
+  {
+   "key": "p02266:0",
+   "passage": "p02266",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ἕτερα δὲ πολλῷ ἐλάττονα",
+   "english": "but other things far inferior",
+   "objection": "These statements are much less extreme than the shameless statements Celsus attributes to them, not worse: 'but other, much less extreme things.'",
+   "verdict": "minor",
+   "why": "lesser, not worse"
+  },
+  {
+   "key": "p02288:0",
+   "passage": "p02288",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οὐχ, ὡς ὁ Κέλσος καὶ οἱ παραπλήσιοι αὐτῷ βούλονται, „μετεμορφώθη“ ὁ θεὸς ἡμῶν",
+   "english": "it is not, as Celsus and those like him would have it, that our God 'was transfigured'; rather",
+   "objection": "The denial concerns Celsus's understanding of the transformation, not the transfiguration itself: 'our God was transfigured, but not in the way Celsus and those like him suppose.'",
+   "verdict": "rejected",
+   "why": "the English follows the Greek and Chadwick"
+  },
+  {
+   "key": "p02298:0",
+   "passage": "p02298",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐν αἷς τὰ ἀπὸ τῆς ἱστορίας γέγραπται, οὐχ ὡς ἀπὸ τῆς ἱστορίας",
+   "english": "in which the events of the history are written, it is possible to be led, not as from history",
+   "objection": "'Not as history' describes how the prophets write historical material, not how the reader is led. Render 'the prophecies, in which historical events are written about non-historically'; this is the evidence for allegorical interpretation.",
+   "verdict": "upheld",
+   "why": "not as history describes how the prophets write"
+  },
+  {
+   "key": "p02307:0",
+   "passage": "p02307",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ὡς μηδὲ τοὐλάχιστον καταλιπεῖν, μηδαμῶς φέρον ἴχνος τοῦ ἀπὸ τῆς φύσεως λόγου",
+   "english": "so as to leave out not even the least, though it bears no trace at all of the reason that comes from nature",
+   "objection": "Nature leaves no creature without a trace of its reason. Render 'so as not to leave even the smallest creature entirely without a trace of nature's reason'; 'though it bears no trace' reverses this.",
+   "verdict": "upheld",
+   "why": "reversed: nature leaves none without a trace"
+  },
+  {
+   "key": "p02313:0",
+   "passage": "p02313",
+   "severity": "major",
+   "type": "grammar",
+   "original": "κἂν κάκιον γίνηται διὰ τὸ λογικὸν ἁμαρτάνον μέρος τι τοῦ ὅλου",
+   "english": "even if the whole becomes worse because some part of it, the rational part, sins",
+   "objection": "μέρος τι is the subject of γίνηται: 'even if some part of the whole becomes worse because the rational creature sins,' not if the whole becomes worse.",
+   "verdict": "upheld",
+   "why": "meros ti is the subject"
+  },
+  {
+   "key": "p02313:1",
+   "passage": "p02313",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οἰκονομεῖ γὰρ ... ἐπιστρέφειν τὸ ὅλον πρὸς ἑαυτόν",
+   "english": "providence arranges ... to turn the whole back to itself",
+   "objection": "God is the subject of οἰκονομεῖ and the referent of masculine ἑαυτόν: 'God arranges ... to turn the whole back to himself,' not to providence.",
+   "verdict": "upheld",
+   "why": "masculine heauton: God (fixed with p02313:0)"
+  },
+  {
+   "key": "p02327:0",
+   "passage": "p02327",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐπῳδῶν, οἰκειουμένων κατὰ τὰς διαφόρους διαλέκτους καὶ τοὺς διαφόρους φθόγγους τῶν ὀνομάτων τοῖς πατράσι τῶν διαλέκτων",
+   "english": "incantations, which are appropriated, according to the different languages and the different sounds of the names, by the fathers of the languages",
+   "objection": "The incantations' sounds in each language are suited to that language's fathers. Render this relation to the fathers, not an act of appropriating incantations by the fathers.",
+   "verdict": "upheld",
+   "why": "the fathers are the dative of relation"
+  },
+  {
+   "key": "p02333:0",
+   "passage": "p02333",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ ὡσπερεὶ τὸ οὐκ ἂν διδόμενον συνάγων τοῦτό φησι· σαφῶς γε τῶν ἀπὸ μεγάλης ἐκκλησίας τοῦτο ὁμολογούντων",
+   "english": "he says this: \"Clearly those of the great church admit this",
+   "objection": "The genitive absolute gives Origen's objection, not a further quotation of Celsus: 'He says this as though drawing an ungranted conclusion, although those of the great church plainly acknowledge it.'",
+   "verdict": "upheld",
+   "why": "a genitive absolute cannot be Celsus' sentence; it is Origen's reply"
+  },
+  {
+   "key": "p02362:0",
+   "passage": "p02362",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἀπολύσας οὐκ οἶδ᾿ ὅπως τὰ πάντα αὐτοῦ",
+   "english": "having detached, I do not know how, [the fact that] all things are his",
+   "objection": "αὐτοῦ means 'from him' with ἀπολύσας: 'having, I know not how, detached all things from him.' The object is all things, not a fact about their ownership.",
+   "verdict": "upheld",
+   "why": "autou goes with apolysas"
+  },
+  {
+   "key": "p02377:0",
+   "passage": "p02377",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οὐδὲ τῷ κακῷ διακονεῖται ... τὸν θεὸν τῷ κακῷ διακονεῖσθαι",
+   "english": "nor does he serve evil ... God would serve evil",
+   "objection": "The verb is passive: 'nor is he served by evil' and 'God would be served by evil.' The English reverses the relationship.",
+   "verdict": "rejected",
+   "why": "diakoneisthai is middle: to serve"
+  },
+  {
+   "key": "p02378:0",
+   "passage": "p02378",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "καὶ ἔστιν ὃ ἐπίστασαι",
+   "english": "and there is something which you know",
+   "objection": "This says 'and what you know is the case.' It asserts the truth of the knowledge, not merely that something is known, which changes the logical argument.",
+   "verdict": "upheld",
+   "why": "the logical step is that what you know is the case"
+  },
+  {
+   "key": "p02402:0",
+   "passage": "p02402",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εἰ ἰσχυρότερός ἐστι θεοῦ υἱὸς",
+   "english": "If the Son of God is stronger",
+   "objection": "θεοῦ supplies the comparison: 'If a son is stronger than God.' Making it depend on 'Son' removes the assertion that the son is stronger than God.",
+   "verdict": "upheld",
+   "why": "theou is the comparison, as the parenthesis shows"
+  },
+  {
+   "key": "p02421:0",
+   "passage": "p02421",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "μήτ᾿ εἰς ἀνδρὸς ἰέναι",
+   "english": "they should neither come to manhood",
+   "objection": "εἰς ἀνδρὸς ἰέναι means going to a husband's house, hence marrying a man: 'neither marry a husband.' It does not mean reaching manhood.",
+   "verdict": "upheld",
+   "why": "eis andros is to a husband's house, paired with taking a wife"
+  },
+  {
+   "key": "p02470:0",
+   "passage": "p02470",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ τοὺς τόπους τούτους ἠθέτησεν ὡς οὐχ ὑπὸ τοῦ σωτῆρος εἰρημένους",
+   "english": "he would also have rejected these passages as not spoken by the Saviour",
+   "objection": "The Greek reports his actual rejection, not an unreal alternative: 'if Marcion ever acted consistently with himself, it was in rejecting these passages'; νομίσας likewise gives his actual reasoning.",
+   "verdict": "upheld",
+   "why": "no an: he did reject them"
+  },
+  {
+   "key": "p02471:0",
+   "passage": "p02471",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ νόμους ὑπεριδεῖν πάλαι τεθέντας ἐν Ῥωμαίοις, καὶ ἡνίκα ἑλληνίζειν τε καὶ θύειν ἀκίνδυνον ἦν, οὐ τὰ αὐτὰ ἐφρόνουν Σωκράτει",
+   "english": "and to disregard laws long established among the Romans, and if, at a time when practising the Hellenic religion and sacrificing carried no danger, they did not think as Socrates did",
+   "objection": "The final clause is the conclusion, not another condition: 'and disregard Roman laws established long ago, even when pagan worship and sacrifice were safe, they did not think as Socrates did.'",
+   "verdict": "upheld",
+   "why": "the last clause is the conclusion"
+  },
+  {
+   "key": "p02513:0",
+   "passage": "p02513",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ὡς δὲ ἀδικήσειν τοὺς ὑποδεξαμένους ἔφην",
+   "english": "When I said that he would wrong those who had received me",
+   "objection": "The understood subject of ἀδικήσειν is the speaker of ἔφην: 'When I said that I would wrong those who had received me.'",
+   "verdict": "upheld",
+   "why": "the subject of the infinitive is the speaker"
+  },
+  {
+   "key": "p02514:0",
+   "passage": "p02514",
+   "severity": "major",
+   "type": "name",
+   "original": "ἐμοὶ δὲ ταῦτα καὶ πρὸ Μὴς",
+   "english": "but I [received] this, and before Mes as well",
+   "objection": "Μὴς is evidently a scanning corruption of ᾠδῆς, echoed from ἀντ’ ᾠδῆς: 'but I received this even before a song'; no person named Mes is intended.",
+   "verdict": "upheld",
+   "why": "Mes is a scan error for odes"
+  },
+  {
+   "key": "p02529:0",
+   "passage": "p02529",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τί τοῖς νόμοις συμβαῖνον",
+   "english": "what happens to the laws",
+   "objection": "This means 'what is in accordance with the laws', not what happens to them.",
+   "verdict": "upheld",
+   "why": "symbainon means in accord"
+  },
+  {
+   "key": "p02580:0",
+   "passage": "p02580",
+   "severity": "major",
+   "type": "grammar",
+   "original": "χωρὶς μήπω γεγονότα ἀκούων",
+   "english": "since he understood \"apart\" as \"not yet having come to be,\"",
+   "objection": "χωρὶς belongs with γεγονότα: he interprets the elements as 'not yet having become separate', not the word 'apart' as meaning 'not yet having come to be'.",
+   "verdict": "upheld",
+   "why": "choris goes with gegonota"
+  },
+  {
+   "key": "p02618:0",
+   "passage": "p02618",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τῷ πάντ’ ὄνομ’ εἶναι",
+   "english": "whose name is all",
+   "objection": "πάντα is the subject and ὄνομα the predicate: 'everything is a name', not that the principle's name is 'all'.",
+   "verdict": "upheld",
+   "why": "Parmenides 8.38: all things are a name"
+  },
+  {
+   "key": "p02633:0",
+   "passage": "p02633",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εἰ τοῦ- τον ἔλεγεν εἶναι τὸν σῶμα ἀδιορίστως ὑποθέμενον",
+   "english": "if he said that this was what the man who posited body indeterminately [meant]",
+   "objection": "τοῦτον identifies a person, not what someone meant: 'if he said that this man was the one who posited body without further specification'.",
+   "verdict": "upheld",
+   "why": "touton is a person"
+  },
+  {
+   "key": "p02642:0",
+   "passage": "p02642",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ διὰ τοῦτο παντὸς τοῦ λαμβανομένου ἐστὶν ἔλαττον",
+   "english": "and therefore is smaller than anything taken",
+   "objection": "ἐστὶν is existential: 'and therefore there is something smaller than any magnitude taken'; the given magnitude is not itself smaller than every magnitude.",
+   "verdict": "upheld",
+   "why": "estin is existential"
+  },
+  {
+   "key": "p02679:0",
+   "passage": "p02679",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἅμα δὲ δῆλον, 15 ὅτι κἄν ὁτιοῦν δέοι μέρος μένειν",
+   "english": "and at the same time it is clear that, even if any part whatever had to remain",
+   "objection": "κἄν is καὶ ἄν with the potential optative δέοι, not 'even if': 'it is also clear that any part whatever would have to remain at rest'.",
+   "verdict": "upheld",
+   "why": "kan is kai an with the optative"
+  },
+  {
+   "key": "p02706:0",
+   "passage": "p02706",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οὐ μὴν ἢ ὑπὸ Ἐμπεδοκλέους οὕτως εἴρηται, ἢ τὸ ἀληθὲς ὧδε ἔχει",
+   "english": "but either it was not so meant by Empedocles, or the truth is not so",
+   "objection": "The negation covers both alternatives: 'but neither did Empedocles mean it this way, nor is this how the truth stands'; X asserts only that one or the other is false.",
+   "verdict": "upheld",
+   "why": "both alternatives are denied"
+  },
+  {
+   "key": "p02793:0",
+   "passage": "p02793",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "αὐτοκίνησίς ἐστιν ἡ φιλία, καὶ τὸ νεῖκος ὁμοίως",
+   "english": "Love is self-motion, and Strife likewise",
+   "objection": "Here αὐτοκίνησις is motion itself, contrasted with causes of motion: 'Love is motion itself, and Strife likewise', not self-movement.",
+   "verdict": "upheld",
+   "why": "contrasted with causes of motion"
+  },
+  {
+   "key": "p02879:0",
+   "passage": "p02879",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ὅτι μὲν οὗν οὔτε ἕν τι τῶν στοιχείων οὔτε ἕτερόν τι παρὰ ταῦτα σῶμα ἄπειρον εἶναι δυνατόν, κοινῷ τινι λόγῳ ἐλέγχει",
+   "english": "That neither one of the elements nor some other body besides these can be infinite, he refutes by a common argument",
+   "objection": "Here ἐλέγχει establishes the impossibility, rather than refuting it: 'He demonstrates by a general argument that neither an element nor any other body can be infinite.'",
+   "verdict": "upheld",
+   "why": "as written, he refutes what he proves"
+  },
+  {
+   "key": "p02936:0",
+   "passage": "p02936",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τοῖς δὲ ἔργοις ὕστερος",
+   "english": "but later in his works",
+   "objection": "Here ὕστερος means inferior in achievement: the following explanation criticizes his infinite principles against Empedocles' finite ones; translate 'but inferior in his results'.",
+   "verdict": "upheld",
+   "why": "the because clause shows hysteros means inferior here"
+  },
+  {
+   "key": "p02942:0",
+   "passage": "p02942",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐπειδὴ πάντα τὸ ἓν ὑπερβέβηκεν",
+   "english": "since all things have passed beyond the One",
+   "objection": "The One is the subject and all things the object: 'since the One transcends all things'.",
+   "verdict": "upheld",
+   "why": "the One is the subject"
+  },
+  {
+   "key": "p02965:0",
+   "passage": "p02965",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἀλλὰ ὑπὲρ τὴν ἑτερότητά ἐστι καὶ τὸ ὄν",
+   "english": "but is beyond otherness, and [so is] being",
+   "objection": "Both otherness and being are governed by ὑπέρ: the principle 'is beyond otherness and being', not merely beyond otherness as being also is.",
+   "verdict": "upheld",
+   "why": "hyper governs both"
+  },
+  {
+   "key": "p02975:0",
+   "passage": "p02975",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἔδει αὐτὸν μόνον εἶναι ζῶον",
+   "english": "he would have to be only an animal",
+   "objection": "μόνον qualifies Socrates, not 'animal': 'he alone would have to be an animal', excluding every other animal.",
+   "verdict": "upheld",
+   "why": "monon goes with him"
+  },
+  {
+   "key": "p03101:0",
+   "passage": "p03101",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ ἀπ’ αὐτῶν οὐκ ἀφαιρεθήσεται διὰ τὴν ὀλιγότητα τὸ μακάριον",
+   "english": "and blessedness will not be taken away from them because of their fewness",
+   "objection": "He will not be deprived, through limited means, of the blessedness arising from his noble actions; the scarcity concerns external goods, not the actions.",
+   "verdict": "minor",
+   "why": "the fewness is of his means"
+  },
+  {
+   "key": "p03110:0",
+   "passage": "p03110",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ πολλῶν ἔδει τοῦτον ὠνεῖσθαι",
+   "english": "and many people would have to buy it",
+   "objection": "πολλῶν is a genitive of price: 'one would have to buy it at a high price,' not 'many people would have to buy it.'",
+   "verdict": "upheld",
+   "why": "genitive of price"
+  },
+  {
+   "key": "p03117:0",
+   "passage": "p03117",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ἐν δὲ τῇ λέξει τῇ θερμὸν γὰρ εἶναι τὸ ὑγρὸν ἧττον τοῦ ἀέρος ὑγρὸν τὸ ὕδωρ λέγει",
+   "english": "And in the phrase 'for the moist is hot' he calls water less moist than air.",
+   "objection": "ἧττον qualifies θερμόν: 'In the phrase \"the liquid is less hot than air,\" by \"liquid\" he means water.' The comparison concerns heat, not moisture.",
+   "verdict": "upheld",
+   "why": "De Resp.: less hot than air; he glosses moist as water"
+  },
+  {
+   "key": "p03127:0",
+   "passage": "p03127",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ὀστεογενῆ τὸν μυελὸν Ἐμπεδοκλῆς λέγει",
+   "english": "Empedocles calls the marrow bone-generating",
+   "objection": "ὀστεογενῆ means 'generated from bone': Empedocles makes bone the source of marrow, not marrow the producer of bone.",
+   "verdict": "upheld",
+   "why": "-genes is passive, and the concessive needs it"
+  },
+  {
+   "key": "p03202:0",
+   "passage": "p03202",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "πλεῖστα δὲ Μούσας τέρψας",
+   "english": "having given very great delight with his Muses",
+   "objection": "The Muses receive the delight; they are not its instrument: 'having delighted the Muses greatly.'",
+   "verdict": "upheld",
+   "why": "the Muses are the object"
+  },
+  {
+   "key": "p03224:0",
+   "passage": "p03224",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τὸ μὴ πεφυλαχέναι τὴν ὑπόκρισιν τὴν Μήδειαν",
+   "english": "not having kept Medea in character",
+   "objection": "Medea is the subject of 'maintain'; the criticism is that she failed to maintain her pretence while plotting, not that the poet made her behave out of character.",
+   "verdict": "upheld",
+   "why": "Medea is the subject"
+  },
+  {
+   "key": "p03235:0",
+   "passage": "p03235",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "παρ’ Ὅμηρον ἱστορεῖ",
+   "english": "He relates, following Homer",
+   "objection": "παρ’ Ὅμηρον means 'contrary to Homer,' not 'following Homer'; the scholium marks a disagreement with Homer.",
+   "verdict": "upheld",
+   "why": "reversed: par' Homeron means against Homer"
+  },
+  {
+   "key": "p03244:0",
+   "passage": "p03244",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Νῦν εὐσέληνον φέγγος ἡ διφρήλατος",
+   "english": "Now the chariot-driven well-mooned light",
+   "objection": "ἡ διφρήλατος is a feminine subject, not an adjective modifying the neuter φέγγος: 'Now the chariot-borne [goddess] ... moonlit radiance ...'.",
+   "verdict": "minor",
+   "why": "gender of a one-line quotation"
+  },
+  {
+   "key": "p03252:0",
+   "passage": "p03252",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ὅταν ἐπεξέλθωσι τοῖς Ἀθηναίοις",
+   "english": "when [the Athenians] marched out against them",
+   "objection": "τοῖς Ἀθηναίοις is the target of the advance, not its subject: 'when they march out against the Athenians'.",
+   "verdict": "upheld",
+   "why": "tois Athenaiois is the target"
+  },
+  {
+   "key": "p03256:0",
+   "passage": "p03256",
+   "severity": "major",
+   "type": "grammar",
+   "original": "μετὰ Χαλκώδοντος τοῦ Ἄβαντος",
+   "english": "with Chalcodon's son, [the] Abantian",
+   "objection": "This names Chalcodon as the son of Abas: 'with Chalcodon son of Abas,' not a son of Chalcodon.",
+   "verdict": "upheld",
+   "why": "Chalcodon son of Abas"
+  },
+  {
+   "key": "p03296:0",
+   "passage": "p03296",
+   "severity": "major",
+   "type": "name",
+   "original": "Κλεισώνυμον",
+   "english": "Clitonymus",
+   "objection": "The name given is Cleisonymus (Kleisonymos), not Clitonymus.",
+   "verdict": "upheld",
+   "why": "the text names Cleisonymus"
+  },
+  {
+   "key": "p03320:0",
+   "passage": "p03320",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οὐ γὰρ ἐγὼ ἔτι ἐν δυνάμει ἦ",
+   "english": "for I would no longer be able",
+   "objection": "ἦ is the past indicative 'I was,' the very form illustrated here: 'for I was no longer able,' not a conditional 'would be'.",
+   "verdict": "upheld",
+   "why": "the past form is the point of the citation"
+  },
+  {
+   "key": "p03325:0",
+   "passage": "p03325",
+   "severity": "major",
+   "type": "grammar",
+   "original": "αὐτὸν δὲ τρίτον",
+   "english": "and himself the third",
+   "objection": "αὐτόν is the person killed, not the killer as a reflexive object: 'and him as the third [i.e. thirteenth]'.",
+   "verdict": "upheld",
+   "why": "Pindar: Heracles kills him, Neleus"
+  },
+  {
+   "key": "p03325:1",
+   "passage": "p03325",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ὁ τὴν κάλην ἔχων",
+   "english": "the one with the log",
+   "objection": "κάλη denotes a hernia (κήλη), not a log: 'the man with the hernia'.",
+   "verdict": "upheld",
+   "why": "Eupolis' list is of bodily marks; kale is kele"
+  },
+  {
+   "key": "p03344:0",
+   "passage": "p03344",
+   "severity": "major",
+   "type": "name",
+   "original": "Ἀσωνίδης",
+   "english": "Assaon",
+   "objection": "The text names Asonides, not Assaon.",
+   "verdict": "upheld",
+   "why": "the text names Asonides"
+  },
+  {
+   "key": "p03356:0",
+   "passage": "p03356",
+   "severity": "major",
+   "type": "grammar",
+   "original": "εἰς σύμφω- νον ἔχοντα τὴν ἄρχουσαν καταλήγουσαν",
+   "english": "have a consonant beginning the final syllable",
+   "objection": "The rule concerns words whose first syllable ends in a consonant, not a consonant beginning their final syllable.",
+   "verdict": "upheld",
+   "why": "archousa is the first syllable"
+  },
+  {
+   "key": "p03370:0",
+   "passage": "p03370",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τὰ πεπραγμένα ἐν τῇ Θεο- μαχίᾳ τολμηρότερον ἀφορμὰς ἔχει Ἄρην καὶ Ἄρτεμιν",
+   "english": "the events in the Battle of the Gods also have grounds [for presenting] Ares and Artemis rather recklessly",
+   "objection": "Ares and Artemis are the sources of the more reckless deeds in the Battle of the Gods; the clause does not concern grounds for presenting them recklessly.",
+   "verdict": "upheld",
+   "why": "Ares and Artemis are the starting-points"
+  },
+  {
+   "key": "p03388:0",
+   "passage": "p03388",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "οὐκ ἐμνήστευον οἱ Φαίακες ἐξ ἑτέρας",
+   "english": "the Phaeacians were not courting [her]",
+   "objection": "The Phaeacians did not seek brides from another [country]; the text does not say that they failed to court Nausicaa.",
+   "verdict": "upheld",
+   "why": "ex heteras"
+  },
+  {
+   "key": "p03410:0",
+   "passage": "p03410",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "τὸν ἄλλον λόγον εἶπεν εἰς τὸν Σωκράτην",
+   "english": "address the other speech to Socrates",
+   "objection": "Socrates is the subject of the speech: 'deliver the other speech about Socrates', not its addressee.",
+   "verdict": "upheld",
+   "why": "Socrates is the subject of the speech"
+  },
+  {
+   "key": "p03420:0",
+   "passage": "p03420",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "ἐπέστη δὲ καὶ τῇ πρὸς Λακεδαιμονίους εἰρήνῃ",
+   "english": "He also presided over the peace with the Spartans",
+   "objection": "Here ἐπέστη means that he opposed or obstructed peace with the Spartans, not that he presided over it.",
+   "verdict": "upheld",
+   "why": "reversed: Cleon opposed the peace"
+  },
+  {
+   "key": "p03425:0",
+   "passage": "p03425",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "καταπρησθέντας τὸ σῶμα ὡς Ἡράκλειτος ὁ Ἐφέσιος",
+   "english": "burned up in body, like Heraclitus of Ephesus",
+   "objection": "Here the bodily condition is swelling: 'with bodies swollen up, like Heraclitus of Ephesus', not burning.",
+   "verdict": "upheld",
+   "why": "pimpremi here is swelling: Heraclitus died of dropsy"
+  },
+  {
+   "key": "p03502:0",
+   "passage": "p03502",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "προϲπάϲχοντέϲ τιϲιν",
+   "english": "they are hostile to certain people",
+   "objection": "This means feeling affection or partiality toward certain people, not hostility: 'because they are attached to certain people'.",
+   "verdict": "upheld",
+   "why": "reversed: prospaschontes means partial to"
+  },
+  {
+   "key": "p03508:0",
+   "passage": "p03508",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ποδαπὰϲ ὑμᾶϲ εἶναι φάϲκων, ὦ μείρακεϲ, οὐκ ἂν ἁμαρτοῖν",
+   "english": "If I said where you come from, young men, I would not miss the mark.",
+   "objection": "ποδαπάς introduces a question, not a conditional assertion: 'What country could I say you come from, lads, without being mistaken?'",
+   "verdict": "upheld",
+   "why": "podapas is a question"
+  },
+  {
+   "key": "p03519:0",
+   "passage": "p03519",
+   "severity": "major",
+   "type": "omission",
+   "original": "εἰπεῖν, προβάτοιϲ μᾶλλον ἢ ἀνθρώποιϲ φιλοϲοφῆϲαι",
+   "english": "he had philosophised for sheep rather than for men",
+   "objection": "εἰπεῖν is omitted: Apollonius reports that Anaxagoras said he had philosophised for sheep rather than men, not simply that he had done so.",
+   "verdict": "minor",
+   "why": "eipein dropped"
+  },
+  {
+   "key": "p03534:0",
+   "passage": "p03534",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "οὐ φιλῶν Πρόδικον ταῦτά φηϲιν, ὅϲον μιϲῶν Σωκράτην",
+   "english": "not so much from disliking Prodicus as from hating Socrates",
+   "objection": "φιλῶν means liking: 'not so much out of affection for Prodicus as out of hatred for Socrates'.",
+   "verdict": "upheld",
+   "why": "reversed: philon means liking"
+  },
+  {
+   "key": "p03541:0",
+   "passage": "p03541",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Ἀπολλωνίῳ δὲ τόν τε Ἀπόλλωνα ἥκειν",
+   "english": "but to him Apollo came",
+   "objection": "The Greek explicitly says Apollo came to Apollonius. Replacing his name with 'him' after supplying Pythagoras misattributes the divine encounters; say 'but Apollo came to Apollonius'.",
+   "verdict": "upheld",
+   "why": "the Suda names Apollonius"
+  },
+  {
+   "key": "p03555:0",
+   "passage": "p03555",
+   "severity": "major",
+   "type": "grammar",
+   "original": "οἱ δὲ κωμικοὶ Κωρυκαῖον τὸν θεὸν εἰϲάγουϲι",
+   "english": "The comic poets bring on the Corycaean as a god.",
+   "objection": "τὸν θεόν is the object and Κωρυκαῖον its predicate: 'The comic poets introduce the god as a Corycaean'; the English reverses the roles.",
+   "verdict": "minor",
+   "why": "close"
+  },
+  {
+   "key": "p03586:0",
+   "passage": "p03586",
+   "severity": "major",
+   "type": "grammar",
+   "original": "Ὡραπόλλων, Φαινεβύθεωϲ, κώμηϲ τοῦ Πανοπολίτου νομοῦ",
+   "english": "Horapollo, son of Phainebythis, from a village of the Panopolite nome",
+   "objection": "κώμηϲ is in apposition to Φαινεβύθεωϲ: Phainebythis is the village, not his father. Translate 'Horapollo, from Phainebythis, a village of the Panopolite nome'.",
+   "verdict": "upheld",
+   "why": "Phainebythis is the village"
+  },
+  {
+   "key": "p03591:0",
+   "passage": "p03591",
+   "severity": "major",
+   "type": "grammar",
+   "original": "καὶ κατὰ Σιμωνίδου",
+   "english": "and in the manner of Simonides",
+   "objection": "κατά with the genitive means 'against Simonides'; 'in the manner of' would require the accusative.",
+   "verdict": "rejected",
+   "why": "Birds 919 has kata ta Simonidou; the English is right"
+  },
+  {
+   "key": "p03619:0",
+   "passage": "p03619",
+   "severity": "major",
+   "type": "grammar",
+   "original": "τὰϲ τῶν εἰϲιόντων ψυχὰϲ ὀξύνων, πρὶν εἰϲελθεῖν ἠγριωμέναϲ",
+   "english": "sharpens the souls of those who come in, [making them] savage before they enter",
+   "objection": "ἠγριωμέναϲ describes the souls' prior condition, not an effect he produces: 'sharpens the souls of those entering, which had been wild before they entered'.",
+   "verdict": "upheld",
+   "why": "the souls were savage before they came in"
+  },
+  {
+   "key": "p03624:0",
+   "passage": "p03624",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "κατ᾿ ἀριθμόν, ὡϲ τὰ πολυώνυμα, λῶποϲ, ἱμάτιον",
+   "english": "in number, like words with many names, lōpos, himation (cloak)",
+   "objection": "τὰ πολυώνυμα means things bearing several names, not words bearing names: 'numerically, as with things called by several names, such as lōpos and himation'. The identity belongs to the cloak, not its two names.",
+   "verdict": "upheld",
+   "why": "things with several names"
+  },
+  {
+   "key": "p03627:0",
+   "passage": "p03627",
+   "severity": "major",
+   "type": "name",
+   "original": "ἀπὸ τῶν ἐπὶ τὸν υφῶνα καταφερομένων ϲκηπτῶν",
+   "english": "from the lightning-bolts that descend in a typhoon",
+   "objection": "The damaged υφῶνα is Typhon, the target of the bolts: 'from the thunderbolts hurled down upon Typhon'. ἐπὶ τόν does not mean 'in a typhoon'.",
+   "verdict": "upheld",
+   "why": "Typhon, not a typhoon"
+  },
+  {
+   "key": "p03632:0",
+   "passage": "p03632",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "δῆλον δὲ ὅτι θάτερος αὐτῶν οὐ καλῶς λέγει",
+   "english": "It is clear that each of them speaks wrongly.",
+   "objection": "θάτερος means 'one of the two', not 'each': 'It is clear that one of them speaks wrongly'.",
+   "verdict": "upheld",
+   "why": "thateros means one of the two"
+  },
+  {
+   "key": "p03643:0",
+   "passage": "p03643",
+   "severity": "major",
+   "type": "omission",
+   "original": "ݲαݲσݲοݲς",
+   "english": "[...]",
+   "objection": "The numerical total is omitted; the transmitted numeral should be rendered as '1,276 affirmations', with a note if its reading is uncertain.",
+   "verdict": "rejected",
+   "why": "a garbled numeral marked as a gap"
+  },
+  {
+   "key": "p03645:0",
+   "passage": "p03645",
+   "severity": "major",
+   "type": "grammar",
+   "original": "ut genus, species, differentia, ad propria, vel accidentia, quamvis ad se invicem dici possunt, ad individua tamen sequaliter praedicantur",
+   "english": "such as genus, species and difference; and as for properties or accidents, although they can be predicated of one another, they are nonetheless predicated equally of individuals",
+   "objection": "The concessive clause concerns all five higher terms, not just properties and accidents: genus, species, difference, properties and accidents can be predicated of one another and are all predicated of individuals.",
+   "verdict": "upheld",
+   "why": "the clause covers all five"
+  },
+  {
+   "key": "p03688:0",
+   "passage": "p03688",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "non ponitur negatio,quoniam bene non loquitur,sed quoniam non bene loquitur",
+   "english": "the negation posited is not \"[that he] speaks not well\" but \"[that he] does not speak well.\"",
+   "objection": "The placements of negation are reversed. The source rejects 'well, he does not speak' (negating the verb) and requires 'he speaks not-well' (negating the mode 'well').",
+   "verdict": "upheld",
+   "why": "the two placements of the negative were swapped"
+  },
+  {
+   "key": "p03690:0",
+   "passage": "p03690",
+   "severity": "major",
+   "type": "grammar",
+   "original": "et ab eodem per hanc,introduclionis laudata in Categorias utilitas",
+   "english": "by the usefulness [of division] praised by the same [Porphyry] in his introduction to the Categories",
+   "objection": "It is the usefulness of the Introduction to the Categories that Porphyry praises on account of division, not the usefulness of division praised within that introduction.",
+   "verdict": "upheld",
+   "why": "it is the Introduction's usefulness that is praised"
+  },
+  {
+   "key": "p03695:0",
+   "passage": "p03695",
+   "severity": "major",
+   "type": "grammar",
+   "original": "si exspecie,superpositum genus semper species probare desiderat",
+   "english": "if from the species, a superordinate genus always requires to prove species",
+   "objection": "Subject and object are reversed: 'if from the species, a species always seeks to prove the genus placed above it'.",
+   "verdict": "upheld",
+   "why": "reversed"
+  },
+  {
+   "key": "p03760:0",
+   "passage": "p03760",
+   "severity": "major",
+   "type": "grammar",
+   "original": "erat opimior, quam scilicet ferebat Ennii aetas",
+   "english": "was indeed richer, as the age of Ennius evidently permitted",
+   "objection": "Quam introduces a comparison, not agreement: 'was fuller than the age of Ennius would tolerate.'",
+   "verdict": "rejected",
+   "why": "quam can be the relative; the comma and scilicet favour it"
+  },
+  {
+   "key": "p03770:0",
+   "passage": "p03770",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Flammeo vapore torrens torret",
+   "english": "The torrent parches with fiery heat",
+   "objection": "Torrens here is the participle 'scorching,' illustrating the sense of torreo, not a watercourse: 'scorching with fiery heat, it burns.'",
+   "verdict": "upheld",
+   "why": "as p00570"
+  },
+  {
+   "key": "p03781:0",
+   "passage": "p03781",
+   "severity": "major",
+   "type": "name",
+   "original": "Alta in Togatis",
+   "english": "Afranius",
+   "objection": "The quotation is attributed to Alta (apparently an OCR error for Atta), not Afranius; retain that attribution.",
+   "verdict": "upheld",
+   "why": "the text names Alta, that is Atta, the playwright of togatae"
+  },
+  {
+   "key": "p03788:0",
+   "passage": "p03788",
+   "severity": "major",
+   "type": "grammar",
+   "original": "duo principia sibi ignota",
+   "english": "two principles unknown to themselves",
+   "objection": "Sibi is reciprocal here: 'two principles unknown to each other,' not ignorant of themselves.",
+   "verdict": "upheld",
+   "why": "sibi is reciprocal: Marcion's two gods"
+  },
+  {
+   "key": "p03823:0",
+   "passage": "p03823",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "Ori- genes juxta Arium et Eunomium repugnat, eum vel prolatum esse, vel natum",
+   "english": "Origen, in agreement with Arius and Eunomius, objects that He was either emitted or born",
+   "objection": "Origen opposes that proposition: 'denies that he was either emitted or born,' not 'objects that' he was.",
+   "verdict": "upheld",
+   "why": "as written, reversed: Origen denies it"
+  },
+  {
+   "key": "p03835:0",
+   "passage": "p03835",
+   "severity": "major",
+   "type": "grammar",
+   "original": "et eumdem secundum Grae- cas litteras, et annui cursus numerum dicit in so- lis circulo contineri, quem ethnici sub eodem numero aliarum litterarum vocant Μείϋραν",
+   "english": "this same [name], according to the Greek letters, contains the number of the yearly course in the circle of the sun, [the name] which the pagans call Mithras",
+   "objection": "Eumdem and quem refer to the god, and contineri is passive: 'says that this same god is contained in the sun's circle, according to the Greek letters and the number of the year's cycle; the pagans call him Mithras.'",
+   "verdict": "upheld",
+   "why": "eumdem and quem are the god"
+  },
+  {
+   "key": "p03866:0",
+   "passage": "p03866",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "duo principia sibi ignota",
+   "english": "two principles unknown to themselves",
+   "objection": "The principles are unknown to one another: sibi is reciprocal here, not a reference to the people introducing them. Read 'two principles unknown to one another'.",
+   "verdict": "upheld",
+   "why": "as p03788"
+  },
+  {
+   "key": "p03888:0",
+   "passage": "p03888",
+   "severity": "major",
+   "type": "mistranslation",
+   "original": "facite, quasi sine gratia Dei difficilius possit impleri",
+   "english": "\"do [it],\"",
+   "objection": "Facite is an evident scanning error for facile ('easily'), as the contrast with difficilius shows. Read 'not merely that it be fulfilled easily, as Pelagius says'; there is no command to 'do it'.",
+   "verdict": "upheld",
+   "why": "facite is a scan error for facile"
+  },
+  {
+   "key": "p03896:0",
+   "passage": "p03896",
+   "severity": "major",
+   "type": "grammar",
+   "original": "antequam vera et integra liberlas nostra veniret, Dominus Jesus Christus, a justus voluntarie sactificavit Deo",
+   "english": "before our true and complete liberty came, the Lord Jesus Christ, the just man voluntarily sacrificed to God",
+   "objection": "Dominus Jesus Christus identifies 'our true and complete liberty'; justus is the main subject, contrasted with peccator. Read 'before our true and complete liberty, the Lord Jesus Christ, came, the righteous man voluntarily sacrificed to God'. The English instead makes Christ appear to be the man sacrificing.",
+   "verdict": "upheld",
+   "why": "Christ is the liberty"
+  }
+ ],
+ "changes": [
+  {
+   "passage": "p00017",
+   "field": "english",
+   "before": "I have Crassus as son-in-law, so that you may not be too much of a rhetorician.",
+   "after": "I have Crassus as son-in-law; don't you be too much of a rhetorician."
+  },
+  {
+   "passage": "p00031",
+   "field": "english",
+   "before": "by this motion of the shining etesian winds into the shallows of the sea",
+   "after": "by this motion of the shining [one], the etesian winds into the shallows of the sea"
+  },
+  {
+   "passage": "p00032",
+   "field": "english",
+   "before": "and how great the dominion of holding on to them",
+   "after": "and how great a thing it is to hold on to power"
+  },
+  {
+   "passage": "p00184",
+   "field": "english",
+   "before": "that he easily handed the war over to his successors",
+   "after": "that he left his successors an easy war"
+  },
+  {
+   "passage": "p00202",
+   "field": "english",
+   "before": "was preparing to repay what he sent me",
+   "after": "was preparing to repay what he would send me"
+  },
+  {
+   "passage": "p00236",
+   "field": "english",
+   "before": "from north to south 2,8",
+   "after": "from north to south 2,800"
+  },
+  {
+   "passage": "p00256",
+   "field": "english",
+   "before": "[In the consulship of] Julius Caesar, the censors,",
+   "after": "[... and] Julius Caesar, as censors,"
+  },
+  {
+   "passage": "p00270",
+   "field": "english",
+   "before": "at Lipara near Soli",
+   "after": "at Liparis near Soli"
+  },
+  {
+   "passage": "p00292",
+   "field": "english",
+   "before": "Riches have this antecedent [kind of] cause",
+   "after": "Riches are a cause of this antecedent kind"
+  },
+  {
+   "passage": "p00306",
+   "field": "english",
+   "before": "just as at Rome the tribunes of the plebs",
+   "after": "just as at Rome the tribunes of the plebs [were set] against the consuls' authority"
+  },
+  {
+   "passage": "p00343",
+   "field": "english",
+   "before": "He wrote to the Ephesians about his custody in the city of Rome",
+   "after": "He wrote to the Ephesians from his custody in the city of Rome"
+  },
+  {
+   "passage": "p00358",
+   "field": "english",
+   "before": "once they had turned away under suspicion",
+   "after": "once suspicion had been turned aside"
+  },
+  {
+   "passage": "p00391",
+   "field": "english",
+   "before": "nor are we turning to their theatrical trifles",
+   "after": "nor ought we to turn to their theatrical trifles"
+  },
+  {
+   "passage": "p00445",
+   "field": "english",
+   "before": "by his own mouth",
+   "after": "by Pelagius's own mouth"
+  },
+  {
+   "passage": "p00454",
+   "field": "english",
+   "before": "by his own mouth",
+   "after": "by Pelagius's own mouth"
+  },
+  {
+   "passage": "p00499",
+   "field": "english",
+   "before": "the genus is divided from accident by being predicated in respect of what it is and of how it is disposed",
+   "after": "genus is divided from accident by predication, the one in respect of what a thing is, the other of how it is disposed"
+  },
+  {
+   "passage": "p00541",
+   "field": "english",
+   "before": "We do not say these things with regard to the impious Photinus",
+   "after": "We do not say these things on behalf of the impious Photinus"
+  },
+  {
+   "passage": "p00570",
+   "field": "english",
+   "before": "The torrent with fiery heat would have burned up the offspring of the earth.",
+   "after": "Scorching (torrens) with fiery heat, it would have burned up the offspring of the earth."
+  },
+  {
+   "passage": "p00573",
+   "field": "english",
+   "before": "the Phocaeans, besieged by him",
+   "after": "the Phocaeans, conquered by him"
+  },
+  {
+   "passage": "p00649",
+   "field": "english",
+   "before": "But if no one can be harmed except by one weaker than himself",
+   "after": "But if only the weaker can be harmed"
+  },
+  {
+   "passage": "p00670",
+   "field": "english",
+   "before": "Against this most ready proof a defence is also necessary on our part",
+   "after": "For this most ready proof a defence is also necessary on our part"
+  },
+  {
+   "passage": "p00684",
+   "field": "english",
+   "before": "where he will brand him with error",
+   "after": "where he will brand himself with error"
+  },
+  {
+   "passage": "p00736",
+   "field": "english",
+   "before": "God is the true Son of God",
+   "after": "he is God, the true Son of God"
+  },
+  {
+   "passage": "p00846",
+   "field": "english",
+   "before": "This means not speaking about disputed matters on the basis of agreed things [only], but being able",
+   "after": "This means, on the basis of agreed things, not saying disputable things about agreed matters, but being able"
+  },
+  {
+   "passage": "p00850",
+   "field": "english",
+   "before": "but our (hamon) strength will not hold back",
+   "after": "but these will not hold back our (hamon) strength"
+  },
+  {
+   "passage": "p00926",
+   "field": "english",
+   "before": "when [the water] becomes greater because the hollows cannot hold it, it forces its way out",
+   "after": "when [the water] becomes greater, then, because the hollows cannot hold it, it forces its way out"
+  },
+  {
+   "passage": "p00956",
+   "field": "english",
+   "before": "that [heat petrifies] in general too",
+   "after": "that [cold does this] in general too"
+  },
+  {
+   "passage": "p00977",
+   "field": "english",
+   "before": "the whole from being some one shape",
+   "after": "the whole from being some one substance and shape"
+  },
+  {
+   "passage": "p00983",
+   "field": "english",
+   "before": "not heeding the usage",
+   "after": "not heeding the oracle"
+  },
+  {
+   "passage": "p00998",
+   "field": "english",
+   "before": "in the Asian meadow",
+   "after": "in the meadow of Asias"
+  },
+  {
+   "passage": "p01010",
+   "field": "english",
+   "before": "Bellerophon, having died, renamed the Tremileis Lycians.",
+   "after": "Bellerophon in the end renamed the Tremileis Lycians."
+  },
+  {
+   "passage": "p01061",
+   "field": "english",
+   "before": "of Pelasgos the earth-born, [son] of Arcas",
+   "after": "of Pelasgos the earth-born, the Arcadian"
+  },
+  {
+   "passage": "p01066",
+   "field": "english",
+   "before": "The Cilicians were also called Tharsos and Tharseis",
+   "after": "It was also called Tharsos, and the Cilicians [were called] Tharseis"
+  },
+  {
+   "passage": "p01072",
+   "field": "english",
+   "before": "who was living in Kabessos",
+   "after": "who was inside, [come] from Kabessos"
+  },
+  {
+   "passage": "p01081",
+   "field": "english",
+   "before": "from Melos the daughter of Manto",
+   "after": "from Melos, [child] of Manto"
+  },
+  {
+   "passage": "p01092",
+   "field": "english",
+   "before": "it is said [to be] beside the river Aigas",
+   "after": "it is named after the river Aigas"
+  },
+  {
+   "passage": "p01100",
+   "field": "english",
+   "before": "and of the belt which I wore",
+   "after": "and of the belt which he wore"
+  },
+  {
+   "passage": "p01106",
+   "field": "english",
+   "before": "Megareus son of Onchestus",
+   "after": "Megareus of Onchestus"
+  },
+  {
+   "passage": "p01119",
+   "field": "english",
+   "before": "In Lesser Hispania, the one beyond the Lusitanians, when they revolted again",
+   "after": "In Lesser Hispania, the outer one, when the Lusitanians revolted again"
+  },
+  {
+   "passage": "p01154",
+   "field": "english",
+   "before": "Molykreion: thus [it is]; Thucydides in the second [book] (c. 84) calls Molykria a city of Aetolia",
+   "after": "Molykreion: thus Thucydides in the second [book] (c. 84) calls Molykria, a city of Aetolia"
+  },
+  {
+   "passage": "p01155",
+   "field": "english",
+   "before": "for the adjectival kērykeios has kept the accent of kērykeios",
+   "after": "for the adjectival kērykeion has kept the accent of kērykeios"
+  },
+  {
+   "passage": "p01164",
+   "field": "english",
+   "before": "calls Tibyris a city of Italy",
+   "after": "calls Tibyris, a city of Italy"
+  },
+  {
+   "passage": "p01179",
+   "field": "english",
+   "before": "except the relatives: autou, tēlou, anchou, pantachou, allachou, homou",
+   "after": "except the relatives; so autou, tēlou, anchou, pantachou, allachou, homou"
+  },
+  {
+   "passage": "p01180",
+   "field": "english",
+   "before": "when questioned, saying 'what are these?' and 'how many are these?' until one hits on it",
+   "after": "when questioned, saying what these are and how many they are, until one hits on it"
+  },
+  {
+   "passage": "p01194",
+   "field": "english",
+   "before": "According as the heavy Spinners [spun for him]",
+   "after": "And the heavy Spinners spun [for him]"
+  },
+  {
+   "passage": "p01195",
+   "field": "english",
+   "before": "it should have been given the grave accent [on the final syllable] in the Aeolic manner",
+   "after": "it should have been given the recessive accent in the Aeolic manner"
+  },
+  {
+   "passage": "p01198",
+   "field": "english",
+   "before": "Ibycus says auction, for example \"for not in vain [auction] the son of Tydeus\"",
+   "after": "Ibycus says ausion, for example \"for not in vain (ausion) the son of Tydeus\""
+  },
+  {
+   "passage": "p01202",
+   "field": "english",
+   "before": "Alcman says \"and Kerkyros leads\" (Bergk fr. 89), from a nominative Kerkyr.",
+   "after": "Alcman says \"and he leads Kerkyr\" (Bergk fr. 89), [with the genitive Kerkyros] from a nominative Kerkyr."
+  },
+  {
+   "passage": "p01243",
+   "field": "english",
+   "before": "because [the name] does not have the [form] Adramys",
+   "after": "because Adramys does not have the t"
+  },
+  {
+   "passage": "p01266",
+   "field": "english",
+   "before": "Theopompus calls them Traroi",
+   "after": "Theopompus calls them Trares"
+  },
+  {
+   "passage": "p01273",
+   "field": "english",
+   "before": "but you expected that the kite was a talent's worth among us.",
+   "after": "but you gave a talent besides for the kite to be with us."
+  },
+  {
+   "passage": "p01281",
+   "field": "english",
+   "before": "he does the same to the Attic [wine] with zela",
+   "after": "Attic [wine] does the same as zela"
+  },
+  {
+   "passage": "p01284",
+   "field": "english",
+   "before": "and they also say Gortyna, like amyna",
+   "after": "and they also say Gortynan, like amynan"
+  },
+  {
+   "passage": "p01287",
+   "field": "english",
+   "before": "she took [him] by the wing as she cried around",
+   "after": "he took her by the wing as she cried around"
+  },
+  {
+   "passage": "p01296",
+   "field": "english",
+   "before": "and he would have plenty of wine, you will drink",
+   "after": "and whoever has plenty of wine, he will give [you] to drink"
+  },
+  {
+   "passage": "p01300",
+   "field": "english",
+   "before": "he shat upon the Nereid",
+   "after": "I shat upon the Nereid"
+  },
+  {
+   "passage": "p01302",
+   "field": "english",
+   "before": "you likened [it] to ripe flax",
+   "after": "you are like ripe flax"
+  },
+  {
+   "passage": "p01307",
+   "field": "english",
+   "before": "but according to Hecataeus, Aboticus",
+   "after": "but according to Hecataeus, Abotieus"
+  },
+  {
+   "passage": "p01337",
+   "field": "english",
+   "before": "robe (heanou) of tin",
+   "after": "pliant (heanou) tin"
+  },
+  {
+   "passage": "p01345",
+   "field": "english",
+   "before": "like the Rhone of the Arar",
+   "after": "as the Rhone with the Arar"
+  },
+  {
+   "passage": "p01360",
+   "field": "english",
+   "before": "or again, if what is active were something bodily, such as breath or fire. For neither is this likely",
+   "after": "or again, if what is active were something bodily, such as breath or fire, [were so divided]. For neither is this likely"
+  },
+  {
+   "passage": "p01416",
+   "field": "english",
+   "before": "to be saved, and only that, in return",
+   "after": "that he alone was saved, in return"
+  },
+  {
+   "passage": "p01419",
+   "field": "english",
+   "before": "it is not permitted to believe, concerning the god, that he was entirely mistaken when he proclaimed [Socrates] the wisest of men",
+   "after": "it is not permitted to believe, concerning the god, that he would proclaim a wholly mistaken man the wisest of men"
+  },
+  {
+   "passage": "p01427",
+   "field": "english",
+   "before": "so too, he says, Socrates thought it right to judge",
+   "after": "so too, he says, it is right to judge Socrates"
+  },
+  {
+   "passage": "p01431",
+   "field": "english",
+   "before": "Let us consider, then, what sort of things Aeschines, the companion of Socrates, and of Plato",
+   "after": "Let us consider, then, what sort of things Aeschines, the companion of Socrates and of Plato, tells us about Themistocles"
+  },
+  {
+   "passage": "p01437",
+   "field": "english",
+   "before": "between [that and] the battle at Corinth and the one at Lechaeum the archon Eubulides falls in between",
+   "after": "between the battle at Corinth and the one at Lechaeum the archon Eubulides falls"
+  },
+  {
+   "passage": "p01442",
+   "field": "english",
+   "before": "whom he mentions in the speech, saying that they were split up into villages by the Arcadians [sic]",
+   "after": "whom he mentions in the speech, saying, as of Arcadians, that they were split up into villages"
+  },
+  {
+   "passage": "p01443",
+   "field": "english",
+   "before": "whether Ephorus says these things truly when he claims that they seem [so] to you, [it is] because you are not resolving the difficulty, but",
+   "after": "(if Ephorus says truly that this is what you think) that you are not resolving the difficulty, but"
+  },
+  {
+   "passage": "p01449",
+   "field": "english",
+   "before": "claim to know what they are going to do against themselves, yet say they cannot master themselves",
+   "after": "claim to know the evils they are going to do, yet say they cannot master themselves"
+  },
+  {
+   "passage": "p01452",
+   "field": "english",
+   "before": "would have expressed both forces, [saying] not \"once\" but \"often\"",
+   "after": "would have expressed both forces not once but often"
+  },
+  {
+   "passage": "p01480",
+   "field": "english",
+   "before": "the species is circumscribed as well",
+   "after": "the species is done away with as well"
+  },
+  {
+   "passage": "p01519",
+   "field": "english",
+   "before": "the blazing thunderbolt struck down death",
+   "after": "the blazing thunderbolt hurled down death"
+  },
+  {
+   "passage": "p01524",
+   "field": "english",
+   "before": "the blazing thunderbolt struck down [their] doom",
+   "after": "the blazing thunderbolt hurled down [their] doom"
+  },
+  {
+   "passage": "p01538",
+   "field": "english",
+   "before": "is shown to be later than Moses, or nearly so",
+   "after": "is shown, or very shortly will be, to be later than Moses"
+  },
+  {
+   "passage": "p01580",
+   "field": "english",
+   "before": "hope increases the passion",
+   "after": "hope lessens the passion"
+  },
+  {
+   "passage": "p01581",
+   "field": "english",
+   "before": "it was revealed to Socrates that a daimōn [spirit] attended him",
+   "after": "certain things were revealed to Socrates by a daimōn [spirit] attending him"
+  },
+  {
+   "passage": "p01596",
+   "field": "english",
+   "before": "even if you alter his nature, as Strato does",
+   "after": "even if you substitute nature [for him], as Strato does"
+  },
+  {
+   "passage": "p01665",
+   "field": "english",
+   "before": "though you are a man who does not think it wholly wrong to sell the teachings of philosophy",
+   "after": "I, who do not think it at all right to sell the teachings of philosophy"
+  },
+  {
+   "passage": "p01672",
+   "field": "english",
+   "before": "\"would this man do to you?\"",
+   "after": "\"would you do to this man?\""
+  },
+  {
+   "passage": "p01694",
+   "field": "english",
+   "before": "is later in his works and in his opinion",
+   "after": "is inferior in his works and in his opinion"
+  },
+  {
+   "passage": "p01694",
+   "field": "english",
+   "before": "regards it as later and cheaper",
+   "after": "regards it as inferior and cheaper"
+  },
+  {
+   "passage": "p01716",
+   "field": "english",
+   "before": "and so the god is not productive of it either",
+   "after": "and so it is not productive of him either"
+  },
+  {
+   "passage": "p01733",
+   "field": "english",
+   "before": "\"or that all are true,\"",
+   "after": "\"than that all are true,\""
+  },
+  {
+   "passage": "p01738",
+   "field": "english",
+   "before": "\"But not even of things said per se is this so\"",
+   "after": "\"But this too is not among the things said per se\""
+  },
+  {
+   "passage": "p01786",
+   "field": "english",
+   "before": "For to be the same in number with these [things] is for these names or accounts to signify the being of the same [things].",
+   "after": "For these names or accounts, being the same in number is signifying the same [things]."
+  },
+  {
+   "passage": "p01795",
+   "field": "english",
+   "before": "rather than that the inner light is sent out to the outer, that it coalesces directly with the inner † place",
+   "after": "rather than that the inner light is sent out, that it coalesces with the outer directly in the inner † place"
+  },
+  {
+   "passage": "p01797",
+   "field": "english",
+   "before": "then they become perceptible in these and differ from the imperceptible [particles] in the water.",
+   "after": "then these [particles from the water], imperceptible [before], become perceptible in these and distinct."
+  },
+  {
+   "passage": "p01925",
+   "field": "english",
+   "before": "Against Mantitheus",
+   "after": "Against Mantias"
+  },
+  {
+   "passage": "p01932",
+   "field": "english",
+   "before": "in book 5 that they were the hostages given by the Lacedaemonians",
+   "after": "in book 5 that the hostages given by the Lacedaemonians were fifty"
+  },
+  {
+   "passage": "p01965",
+   "field": "english",
+   "before": "to whom counsel is away from the hand, but the mind is present",
+   "after": "for whom, in giving counsel, the hand is absent, but the mind is present"
+  },
+  {
+   "passage": "p01966",
+   "field": "english",
+   "before": "why must these things be said to you?",
+   "after": "why must you say these things?"
+  },
+  {
+   "passage": "p01968",
+   "field": "english",
+   "before": "we Cheirons have come as counsels",
+   "after": "we Cheirons have come to [give] counsels"
+  },
+  {
+   "passage": "p01980",
+   "field": "english",
+   "before": "a happy mother bore you, rattle of the stands!",
+   "after": "your mother, the rattle of the stands, bore you fortunate!"
+  },
+  {
+   "passage": "p02007",
+   "field": "english",
+   "before": "the ninth around the earth",
+   "after": "around the earth, the ninth"
+  },
+  {
+   "passage": "p02019",
+   "field": "english",
+   "before": "They also discovered from experience another release",
+   "after": "I also discovered from experience another release"
+  },
+  {
+   "passage": "p02025",
+   "field": "english",
+   "before": "Aristotle says that he records that Homer",
+   "after": "Aristotle says that the people of Ios record that Homer"
+  },
+  {
+   "passage": "p02026",
+   "field": "english",
+   "before": "placed the elements in matter",
+   "after": "posited the elements as matter"
+  },
+  {
+   "passage": "p02034",
+   "field": "english",
+   "before": "as Protagoras thought that [such] premises were demonstrative, and that one who knows has knowledge of these, and that one who has knowledge knows what knowledge is.",
+   "after": "as Protagoras thought that these too were demonstrative premises: that one who knows has knowledge, and that one who has knowledge knows what knowledge is."
+  },
+  {
+   "passage": "p02099",
+   "field": "english",
+   "before": "a boastful and stupid man, and whoever else speaks badly about the gods",
+   "after": "a boastful and stupid man, and as bad a theologian as anyone"
+  },
+  {
+   "passage": "p02141",
+   "field": "english",
+   "before": "the good God would not have been at a loss to send someone",
+   "after": "the good God would have had no one to send"
+  },
+  {
+   "passage": "p02145",
+   "field": "english",
+   "before": "\"It did not happen this way,\" he says",
+   "after": "\"It happened this way,\" he says"
+  },
+  {
+   "passage": "p02182",
+   "field": "english",
+   "before": "\"for them to teach both what sort",
+   "after": "\"to teach them both what sort"
+  },
+  {
+   "passage": "p02198",
+   "field": "english",
+   "before": "held an assent that agreed with this belief",
+   "after": "held an assent at odds with this belief"
+  },
+  {
+   "passage": "p02225",
+   "field": "english",
+   "before": "and leaders and kings from the most obscure nations",
+   "after": "and leaders of nations and kings from the most obscure [parents]"
+  },
+  {
+   "passage": "p02252",
+   "field": "english",
+   "before": "in which different sects have not arisen",
+   "after": "in which different sects have arisen"
+  },
+  {
+   "passage": "p02262",
+   "field": "english",
+   "before": "like those who display tricks to sorcerers by deceiving the eyes",
+   "after": "like sorcerers who give displays by deceiving the eyes"
+  },
+  {
+   "passage": "p02266",
+   "field": "english",
+   "before": "but other things far inferior",
+   "after": "but other things far lesser"
+  },
+  {
+   "passage": "p02298",
+   "field": "english",
+   "before": "in which the events of the history are written, it is possible to be led, not as from history, [to see]",
+   "after": "in which the events of the history are written, not as history, it is possible to be led [to see]"
+  },
+  {
+   "passage": "p02307",
+   "field": "english",
+   "before": "so as to leave out not even the least, though it bears no trace at all of the reason that comes from nature",
+   "after": "so as not to leave even the least bearing no trace at all of the reason that comes from nature"
+  },
+  {
+   "passage": "p02313",
+   "field": "english",
+   "before": "for even if the whole becomes worse because some part of it, the rational part, sins, providence arranges to make a purification of it and in time to turn the whole back to itself.",
+   "after": "for even if some part of the whole becomes worse because the rational being sins, he arranges to make a purification of it and in time to turn the whole back to himself."
+  },
+  {
+   "passage": "p02327",
+   "field": "english",
+   "before": "which are appropriated, according to the different languages and the different sounds of the names, by the fathers of the languages",
+   "after": "which are suited, according to the different languages and the different sounds of the names, to the fathers of the languages"
+  },
+  {
+   "passage": "p02333",
+   "field": "english",
+   "before": "he says this: \"Clearly those of the great church admit this, and accept as true the account of the creation of the world current among the Jews, at least about the six days and the seventh\", on which",
+   "after": "he says this, though those of the great church clearly admit it, and accept as true the account of the creation of the world current among the Jews, at least about the six days and the seventh, on which"
+  },
+  {
+   "passage": "p02362",
+   "field": "english",
+   "before": "having detached, I do not know how, [the fact that] all things are his",
+   "after": "having detached, I do not know how, all things from him"
+  },
+  {
+   "passage": "p02378",
+   "field": "english",
+   "before": "and there is something which you know",
+   "after": "and what you know is the case"
+  },
+  {
+   "passage": "p02402",
+   "field": "english",
+   "before": "If the Son of God is stronger",
+   "after": "If the Son is stronger than God"
+  },
+  {
+   "passage": "p02421",
+   "field": "english",
+   "before": "neither come to manhood",
+   "after": "neither marry a husband"
+  },
+  {
+   "passage": "p02470",
+   "field": "english",
+   "before": "if Marcion had done anything consistent with himself when he asserted that Scripture must not be allegorized, he would also have rejected these passages as not spoken by the Saviour. For he would have thought it necessary either",
+   "after": "if Marcion did anything consistent with himself when he asserted that Scripture must not be allegorized, it was that he also rejected these passages as not spoken by the Saviour. For he thought it necessary either"
+  },
+  {
+   "passage": "p02471",
+   "field": "english",
+   "before": "among the Romans, and if, at a time when",
+   "after": "among the Romans, then even at a time when"
+  },
+  {
+   "passage": "p02513",
+   "field": "english",
+   "before": "When I said that he would wrong those who had received me",
+   "after": "When I said that I would wrong those who had received me"
+  },
+  {
+   "passage": "p02514",
+   "field": "english",
+   "before": "but I [received] this, and before Mes as well.",
+   "after": "but I [received] this even before a song."
+  },
+  {
+   "passage": "p02529",
+   "field": "english",
+   "before": "but what happens to the laws",
+   "after": "but what accords with the laws"
+  },
+  {
+   "passage": "p02580",
+   "field": "english",
+   "before": "since he understood \"apart\" as \"not yet having come to be,\"",
+   "after": "since he took them as not yet having come to be apart,"
+  },
+  {
+   "passage": "p02618",
+   "field": "english",
+   "before": "whose name is all",
+   "after": "for which all things are a name"
+  },
+  {
+   "passage": "p02633",
+   "field": "english",
+   "before": "if he said that this was what the man who posited body indeterminately [meant]",
+   "after": "if he said that this man was the one who posited body indeterminately"
+  },
+  {
+   "passage": "p02642",
+   "field": "english",
+   "before": "and therefore is smaller than anything taken",
+   "after": "and therefore there is something smaller than anything taken"
+  },
+  {
+   "passage": "p02679",
+   "field": "english",
+   "before": "it is clear that, even if any part whatever had to remain",
+   "after": "it is clear that any part whatever would have to remain"
+  },
+  {
+   "passage": "p02706",
+   "field": "english",
+   "before": "but either it was not so meant by Empedocles, or the truth is not so",
+   "after": "but neither was it so meant by Empedocles, nor is the truth so"
+  },
+  {
+   "passage": "p02793",
+   "field": "english",
+   "before": "Love is self-motion",
+   "after": "Love is motion itself"
+  },
+  {
+   "passage": "p02879",
+   "field": "english",
+   "before": "he refutes by a common argument",
+   "after": "he proves by a common argument"
+  },
+  {
+   "passage": "p02936",
+   "field": "english",
+   "before": "but later in his works",
+   "after": "but inferior in his works"
+  },
+  {
+   "passage": "p02942",
+   "field": "english",
+   "before": "since all things have passed beyond the One",
+   "after": "since the One transcends all things"
+  },
+  {
+   "passage": "p02965",
+   "field": "english",
+   "before": "but is beyond otherness, and [so is] being",
+   "after": "but is beyond otherness and being"
+  },
+  {
+   "passage": "p02975",
+   "field": "english",
+   "before": "he would have to be only an animal",
+   "after": "he alone would have to be an animal"
+  },
+  {
+   "passage": "p03101",
+   "field": "english",
+   "before": "because of their fewness",
+   "after": "because of the fewness [of his means]"
+  },
+  {
+   "passage": "p03110",
+   "field": "english",
+   "before": "and many people would have to buy it",
+   "after": "and one would have to buy it at a high price"
+  },
+  {
+   "passage": "p03117",
+   "field": "english",
+   "before": "And in the phrase 'for the moist is hot' he calls water less moist than air.",
+   "after": "And in the phrase 'for the moist is less hot than the air', by 'moist' he means water."
+  },
+  {
+   "passage": "p03127",
+   "field": "english",
+   "before": "calls the marrow bone-generating",
+   "after": "calls the marrow bone-born"
+  },
+  {
+   "passage": "p03202",
+   "field": "english",
+   "before": "and having given very great delight with his Muses",
+   "after": "and having greatly delighted the Muses"
+  },
+  {
+   "passage": "p03224",
+   "field": "english",
+   "before": "They fault him for not having kept Medea in character, but [having had her] break into tears",
+   "after": "They fault him because Medea does not keep up her pretence, but breaks into tears"
+  },
+  {
+   "passage": "p03235",
+   "field": "english",
+   "before": "He relates, following Homer,",
+   "after": "He relates, contrary to Homer,"
+  },
+  {
+   "passage": "p03244",
+   "field": "english",
+   "before": "Now the chariot-driven well-mooned light",
+   "after": "Now the chariot-driven [goddess] ... well-mooned light"
+  },
+  {
+   "passage": "p03252",
+   "field": "english",
+   "before": "when [the Athenians] marched out against them",
+   "after": "when they marched out against the Athenians"
+  },
+  {
+   "passage": "p03256",
+   "field": "english",
+   "before": "They were also with Chalcodon's son, [the] Abantian, in Euboea.",
+   "after": "They were also with Chalcodon son of Abas in Euboea."
+  },
+  {
+   "passage": "p03296",
+   "field": "english",
+   "before": "Clitonymus",
+   "after": "Cleisonymus"
+  },
+  {
+   "passage": "p03320",
+   "field": "english",
+   "before": "for I would no longer be able",
+   "after": "for I was no longer able"
+  },
+  {
+   "passage": "p03325",
+   "field": "english",
+   "before": "and himself the third",
+   "after": "and him as the third"
+  },
+  {
+   "passage": "p03325",
+   "field": "english",
+   "before": "the one with the log",
+   "after": "the one with the hernia"
+  },
+  {
+   "passage": "p03344",
+   "field": "english",
+   "before": "Assaon",
+   "after": "Asonides"
+  },
+  {
+   "passage": "p03356",
+   "field": "english",
+   "before": "that have a consonant beginning the final syllable",
+   "after": "whose first syllable ends in a consonant"
+  },
+  {
+   "passage": "p03370",
+   "field": "english",
+   "before": "So that the events in the Battle of the Gods also have grounds [for presenting] Ares and Artemis rather recklessly.",
+   "after": "So that the rather reckless acts in the Battle of the Gods also have Ares and Artemis as their starting-points."
+  },
+  {
+   "passage": "p03388",
+   "field": "english",
+   "before": "because the Phaeacians were not courting [her]",
+   "after": "because the Phaeacians did not seek brides from elsewhere"
+  },
+  {
+   "passage": "p03410",
+   "field": "english",
+   "before": "why he did not also address the other speech to Socrates",
+   "after": "why he did not also deliver the other speech about Socrates"
+  },
+  {
+   "passage": "p03420",
+   "field": "english",
+   "before": "He also presided over the peace with the Spartans",
+   "after": "He also stood in the way of the peace with the Spartans"
+  },
+  {
+   "passage": "p03425",
+   "field": "english",
+   "before": "burned up etc.]",
+   "after": "swollen up etc.]"
+  },
+  {
+   "passage": "p03425",
+   "field": "english",
+   "before": "burned up in body",
+   "after": "swollen in body"
+  },
+  {
+   "passage": "p03502",
+   "field": "english",
+   "before": "either because they are hostile to certain people",
+   "after": "either because they are partial to certain people"
+  },
+  {
+   "passage": "p03508",
+   "field": "english",
+   "before": "If I said where you come from, young men, I would not miss the mark.",
+   "after": "What country could I say you come from, young men, and not miss the mark?"
+  },
+  {
+   "passage": "p03519",
+   "field": "english",
+   "before": "he had philosophised for sheep rather than for men",
+   "after": "he said that he had philosophised for sheep rather than for men"
+  },
+  {
+   "passage": "p03534",
+   "field": "english",
+   "before": "not so much from disliking Prodicus as from hating Socrates",
+   "after": "not so much from liking Prodicus as from hating Socrates"
+  },
+  {
+   "passage": "p03541",
+   "field": "english",
+   "before": "but to him Apollo came",
+   "after": "but to Apollonius Apollo came"
+  },
+  {
+   "passage": "p03555",
+   "field": "english",
+   "before": "The comic poets bring on the Corycaean as a god.",
+   "after": "The comic poets bring on the god as the Corycaean."
+  },
+  {
+   "passage": "p03586",
+   "field": "english",
+   "before": "Horapollo, son of Phainebythis, from a village of the Panopolite nome",
+   "after": "Horapollo, from Phainebythis, a village of the Panopolite nome"
+  },
+  {
+   "passage": "p03619",
+   "field": "english",
+   "before": "[making them] savage before they enter",
+   "after": "which were savage before they entered"
+  },
+  {
+   "passage": "p03624",
+   "field": "english",
+   "before": "like words with many names",
+   "after": "like things with many names"
+  },
+  {
+   "passage": "p03627",
+   "field": "english",
+   "before": "from the lightning-bolts that descend in a typhoon",
+   "after": "from the lightning-bolts hurled down upon Typhon"
+  },
+  {
+   "passage": "p03632",
+   "field": "english",
+   "before": "It is clear that each of them speaks wrongly.",
+   "after": "It is clear that one of them speaks wrongly."
+  },
+  {
+   "passage": "p03645",
+   "field": "english",
+   "before": "such as genus, species and difference; and as for properties or accidents, although they can be predicated of one another, they are nonetheless predicated equally of individuals",
+   "after": "such as genus, species, difference, properties and accidents, which, although they can be predicated of one another, are nonetheless predicated equally of individuals"
+  },
+  {
+   "passage": "p03688",
+   "field": "english",
+   "before": "the negation posited is not \"[that he] speaks not well\" but \"[that he] does not speak well.\"",
+   "after": "the negation posited is not \"[that] well he does not speak\" but \"[that] not-well he speaks.\""
+  },
+  {
+   "passage": "p03690",
+   "field": "english",
+   "before": "and by the usefulness [of division] praised by the same [Porphyry] in his introduction to the Categories",
+   "after": "and by the usefulness of the Introduction to the Categories, praised by the same [Porphyry] on account of it"
+  },
+  {
+   "passage": "p03695",
+   "field": "english",
+   "before": "a superordinate genus always requires to prove species",
+   "after": "a species always seeks to prove the genus placed above it"
+  },
+  {
+   "passage": "p03770",
+   "field": "english",
+   "before": "The torrent parches with fiery heat.",
+   "after": "Scorching (torrens) with fiery heat, it parches."
+  },
+  {
+   "passage": "p03781",
+   "field": "english",
+   "before": "Of this Afranius in the *Togatae*",
+   "after": "Of this Atta in the *Togatae*"
+  },
+  {
+   "passage": "p03788",
+   "field": "english",
+   "before": "two principles unknown to themselves",
+   "after": "two principles unknown to each other"
+  },
+  {
+   "passage": "p03823",
+   "field": "english",
+   "before": "objects that He was either emitted or born",
+   "after": "denies that He was either emitted or born"
+  },
+  {
+   "passage": "p03835",
+   "field": "english",
+   "before": "and says that this same [name], according to the Greek letters, contains the number of the yearly course in the circle of the sun, [the name] which the pagans call Mithras, with the same number in other letters.",
+   "after": "and says that this same [god], according to the Greek letters and the number of the yearly course, is contained in the circle of the sun; him the pagans call Mithras, with the same number in other letters."
+  },
+  {
+   "passage": "p03866",
+   "field": "english",
+   "before": "two principles unknown to themselves",
+   "after": "two principles unknown to each other"
+  },
+  {
+   "passage": "p03888",
+   "field": "english",
+   "before": "not, as Pelagius says, \"do [it],\"",
+   "after": "not, as Pelagius says, \"easily,\""
+  },
+  {
+   "passage": "p03896",
+   "field": "english",
+   "before": "before our true and complete liberty came, the Lord Jesus Christ, the just man",
+   "after": "before our true and complete liberty, the Lord Jesus Christ, came, the just man"
+  }
+ ]
+}

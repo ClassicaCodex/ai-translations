@@ -1,6 +1,8 @@
 # Licences
 
-Every translation is licensed as its source requires, and its header (`header.availability`) says so in full. `catalogue.csv` gives the licence and credit for each file.
+Every translation is licensed as its source requires, and its header (`header.availability`) says so in full. `catalogue.csv` gives the licence and credit for each file in `translations/`, and `testimonia/catalogue.csv` for each file in `testimonia/`.
+
+All 1,135 files in `testimonia/` are CC BY-SA 4.0. They come from Perseus and from Open Greek and Latin (First1KGreek, CSEL and the Patrologia Latina), the first two rows below. Each source edition's licence was checked: 1,038 by the edition's own header and 97 by its repository's statement.
 
 | Source | Source licence | Translations | Files |
 |---|---|---|---:|

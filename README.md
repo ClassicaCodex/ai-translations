@@ -2,14 +2,16 @@
 
 English translations of ancient and medieval passages that have no published English, made by AI and labelled as such.
 
-> **AI translation.** Every translation here was made by Claude (Anthropic) from the original text, then checked against the original by a second AI, Codex (OpenAI). Objections that held up were corrected. **No specialist has reviewed any of it.** Use these as plain working versions, not authoritative translations, and keep this label with them wherever you use them.
+> **AI translation.** Every translation in `translations/` was made by Claude (Anthropic) from the original text, then checked against the original by a second AI, Codex (OpenAI). Objections that held up were corrected. The `testimonia/` folder was checked only in part: see below. **No specialist has reviewed any of it.** Use these as plain working versions, not authoritative translations, and keep this label with them wherever you use them.
 
-The collection has 446 works in 12 languages: about 302,100 English words on 15,887 lines. The passages are the ones that three projects quote or cite and that had no English in the library:
+The `translations/` folder has 446 works in 12 languages: about 302,100 English words on 15,887 lines. The passages are the ones that three projects quote or cite and that had no English in the library:
 - the [Atlas of Ancient Myth](https://skirnirstudios.com/atlas-of-ancient-myth/);
 - [Magic in the Ancient Texts](https://skirnirstudios.com/magic-in-the-ancient-texts/);
 - a study of demons and angels.
 
 You can read them beside their originals at [skirnirstudios.com/translations](https://skirnirstudios.com/translations/), and import them into a [Classica Codex](https://github.com/ClassicaCodex/ClassicaCodex) library from its setup screens.
+
+**The [`testimonia/`](testimonia/README.md) folder** holds 18,211 more passages, in Greek and Latin, about 1.68 million English words from 1,135 editions. They are the English shown on [Testimonia](https://skirnirstudios.com/testimonia/). Codex checked only 5,467 of them, so they are kept apart, with their own README and format. About 1 passage in 23 that Codex read held a major error, and the 12,744 it did not read will have errors at about the same rate.
 
 | Language | Works | Lines | English words |
 |---|---:|---:|---:|
@@ -22,9 +24,9 @@ You can read them beside their originals at [skirnirstudios.com/translations](ht
 | Old French | 9 | 960 | 8,236 |
 | Hebrew and Aramaic | 6 | 81 | 9,931 |
 
-`catalogue.csv` lists every file, with its work, language, source edition, licence and the credit its licence requires.
+`catalogue.csv` lists every file in `translations/`, with its work, language, source edition, licence and the credit its licence requires.
 
-## How they were made and checked
+## How `translations/` was made and checked
 
 1. **Translation.** Claude translated each passage from the original text as the library holds it.
    - It worked line by line, one English line for each line or section of the original.
@@ -67,11 +69,13 @@ The major-error rates before correction were:
 
 ## Licences
 
-Each translation carries its source's terms, and its header names them.
+Each translation carries its source's terms, and its header names them. In `translations/`:
 - **409 files are CC BY-SA 4.0**, because their sources are.
 - **37 are CC BY 4.0:**
   - translations of CC BY sources (papyri.info and the Online Critical Pseudepigrapha);
   - translations of public-domain texts (Eisenstein's Otzar Midrashim).
+
+All 1,135 files in `testimonia/` are CC BY-SA 4.0.
 
 Credit the source edition named in the file and this AI translation. See `LICENSES.md` for each source.
 
@@ -80,7 +84,8 @@ Under current US law, purely AI-generated text may not be protected by copyright
 ## Files
 
 - **`translations/`:** one JSON file per work. The format is in `FORMAT.md`.
-- **`catalogue.csv`:** one row per file.
+- **`catalogue.csv`:** one row per file in `translations/`.
+- **`testimonia/`:** the Testimonia passages, one JSON file per source edition, with their own README and catalogue.
 - **`pending/`:** translations held back until a library can hold their original. Classica Codex does not read this folder.
 - **`method/`:** the briefs and every review decision.
 - **`tools/check_release.py`:** checks the collection before a release: every file's shape and licence, the catalogue, and that nothing private or restricted is in it.

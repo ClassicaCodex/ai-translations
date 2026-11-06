@@ -1,0 +1,853 @@
+{
+ "source_edition": "tlg0057.tlg089.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg0057.tlg089.1st1K-grc1",
+ "title": "In Hippocratis Epidemiarum I",
+ "author": "Galen",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg0057.tlg089.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p06764",
+   "ref": "1.1.pr.1",
+   "original": "ταῖς γὰρ ἄλλαις αἰτίαις μήθ’ ὁμοῦ πάντες ἀντιάζομεν μήθ’ ἡμέραν ὁλόκληρον ὑποκείμεθα, ἀλλὰ μόνος ἀὴρ ἅπαντας περιέχει καὶ ἀπὸ πάντων εἰσπνεῖται. γίνεσθαι γὰρ ἀδύνατον ὅτι μὴ τὰς τῶν ζώων σωμάτων εὐκρασίας μετὰ τῆς αὐτοῦ μεταβολῆς διατίθεσθαι καὶ μεταβάλλεσθαι. καὶ διὰ ταῦτα καθάπερ αὐτὸς διδάσκει ὁ Ἱπποκράτης. ἦρος μὲν τῆς ὥρας εὐκρατοτάτης οὔσης αἷμα τῶν χυμῶν εὐκρατότατος ὢν εὐπορεῖ καὶ αὐξάνεται. χειμῶνος δὲ τῆς ψυχροτάτης ὥρας οὕσης τὸ φλέγμα ψυχρότατος ὁ χυμὸς ὢν, ὥσπερ καὶ τοῦ θέρους τῆς ὥρας θερμοτάτης χυμὸς θερμότατος ἡ χολὴ ξανθή·",
+   "english": "For the other causes we neither all encounter together nor are subject to for a whole day, but the air alone surrounds everyone and is breathed in by all. For it cannot happen that the good temperaments of animal bodies are not disposed and changed along with its change. And for these reasons, just as Hippocrates himself teaches, in spring, since the season is the best tempered, blood, which is the best tempered of the humours, abounds and increases; in winter, since the season is the coldest, phlegm, which is the coldest humour [abounds], just as also in summer, the hottest season, the hottest humour, yellow bile;",
+   "notes": "The text is somewhat loose grammatically (e.g. masculine εὐκρατότατος with αἷμα, ψυχρότατος with φλέγμα); the verb for winter and summer is supplied from the spring clause. In the second sentence, ὅτι μή is taken as 'not'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06765",
+   "ref": "1.1.1.1",
+   "original": "ὅστις γοῦν ἀστρονομίας ἀπείρως ἔχει μάλιστα μὲν ἔστω μὴ πειθόμενος Ἱπποκράτους, προτρέποντος πρὸς αὐτὴν, ἕνεκα τῆς τῶν εἰρημένων χρήσεως. ἐπεὶ δὲ φιλάνθρωπον εἶναι δοκεῖ καὶ τοὺς τοιούτους ὠφελεῖν, ἐγὼ πειράσομαι τὴν ἐνδεχομένην ὑπογράψαι βοήθειαν, ᾗ εἰ προσέχοιεν τὸν νοῦν, ἁπάντων ὧν Ἱπποκράτης λέγει καρπώσονται τὴν χρῆσιν. τεμνομένου δὴ τοῦ παντὸς ἔτους ἐκ τεσσάρων καιρῶν κατ’ ἰσημερίαν τε καὶ τροπὰς, ἅπαξ τις ἐρωτήσας ἀστρονομικὸν ἄνδρα, τὰ τέσσαρα μέρη ﻿ ταῦτα ἐν τίσι γίνονται μησὶν, εἶτα εἰδὼς αὐτὰ δυνήσεται καὶ περὶ τῶν ἄλλων ἐπισημασιῶν τῶν καθ’ ἕκαστον ἄστρων ἀκούων ἕπεσθαι.",
+   "english": "Whoever, then, is inexperienced in astronomy should above all not disobey Hippocrates, who urges [us] towards it for the sake of using what has been said. But since it seems humane to help such people too, I will try to sketch what help is possible; if they pay attention to it, they will reap the use of all that Hippocrates says. Since the whole year is divided into four periods by the equinoxes and solstices, if someone once asks an astronomer in which months these four parts occur, then, knowing them, he will also be able to follow what he hears about the other signs given by each of the stars.",
+   "notes": "ἐπισημασίαι: the weather signs associated with the risings and settings of stars.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06766",
+   "ref": "1.1.9.1",
+   "original": "ὅταν οὖν ὁ ἀὴρ μήτε θερμαίνῃ ἐναργῶς μήτε ψυκταλίδα ἔχῃ τοιαύτην, ἀναγκαῖόν ἐστιν ἐν αὐτῷ διαμένειν τὴν ὑψωθεῖσαν ὁμίχλην οἵαπερ ἦν ἐξ ἀρχῆς καὶ γίγνεσθαι λευκὸν μὲν ἀκριβῶς ἐξ αὐτῆς νέφος, ἐπειδὰν ὑπὸ τῆς ἡλιακῆς αὐγῆς κινηθῆ. μεταξὺ δὲ λευκοῦ τε καὶ μέλανος, ὅταν μὴ τελέως αὐτὴν ὁ ἥλιος καταλάμπῃ. μὴ τοίνυν θαύμαζε διὰ τί τὰ σώματα τῶν ζώων ὁμοίαν ἴσχει ποτὲ τοιᾷδε καταστάσει τὴν ἐν αὐτοῖς διάθεσιν, ἀλλὰ πείθου λέγοντος Ἱπποκράτους, νότοι βαρυήκοοι, ἀχλυώδεις, καρηβαρικοὶ, νωθροὶ, διαλυτικοί. διηγεῖται γὰρ ἐν τῷ λόγῳ τῷδε τὰ παθήματα τοῦ σώματος, ἃ πάσχει μὲν ἐν ταῖς νοτίοις καταστάσεσιν, ὥστε ὥσπερ τὸ βαρυήκοοι καὶ διαλυτικοὶ καὶ νωθροὶ κατὰ τῶν ὑπὸ τοῦ νότου γινομένων ἐν τοῖς ἡμετέροις σώμασιν εἴρηται, προδήλως οὕτως ἡγεῖσθαι χρὴ καὶ τὸ ἀχλυῶδες λελέχθαι τῆς ἐν ἡμῖν ἀθροιζομένης ἀχλύος δι’ αὐτὸν δηλωτικὸν ὂν, οὐ τοῦ περιέχοντος.",
+   "english": "So when the air neither heats clearly nor has such a chill, the mist that has been raised must remain in it as it was from the beginning. When it is moved by the rays of the sun, a perfectly white cloud comes from it; [a cloud] between white and black, when the sun does not shine fully upon it. Do not wonder, then, why the bodies of animals sometimes have a condition in them similar to such a constitution [of the air], but believe Hippocrates when he says: 'South winds cause dullness of hearing, dimness, heaviness of the head, sluggishness, relaxation.' For in this statement he describes the affections of the body which it suffers in southerly constitutions. So, just as 'dull of hearing', 'relaxing' and 'sluggish' are said of what the south wind produces in our bodies, so plainly we must consider that 'dim' too has been said as indicating the dimness that gathers in us because of it, not [the dimness] of the surrounding air.",
+   "notes": "ψυκταλίδα: 'chill' is a conjectural sense for an unusual word; the text may be corrupt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06767",
+   "ref": "1.1.10.1",
+   "original": "οὐ γὰρ ἐν οἷς ἔτυχε μορίοις ἀθροιζόμενος τοῦ σώματος ὁ χυμὸς οὗτος ἐργάζεται καῦσον, ἀλλὰ περί τε τὴν γαστέρα καὶ ταύτης μάλιστα τὸ στόμα καὶ τοῦ ἥπατος τὰ σιμὰ καὶ ὁμοίως οὐχ ᾑμοῤῥάγει, ἴδιον εἴπερ τι ἄλλο τῶν ἀκριβῶν καύσων ἐστὶ τὸ δι’ αἱμοῤῥαγίας κρίνεσθαι. καλεῖ δ’ αἱμοῤῥαγίαν ὁ Ἱπποκράτης ἄνευ τοῦ προσθεῖναι τὸ μέρος ἐξ οὗ κενοῦται τὸ αἷμα, τὰς ἐκ τῶν μυκτήρων ἀποτελουμένας. οὐδὲν δὲ θαυμαστὸν ἀναστομοῦσθαί τε καὶ ἀναῤῥήγνυσθαι τὰς ἐνταῦθα φλέβας ὑπὸ τοῦ αἵματος ἐπὶ τὸ μετέωρον ἀναφερομένου διὰ τὴν θερμασίαν, ὑφ’ ἧς ἀναγκαῖόν ἐστιν αὐτὸ καὶ πνευματοῦσθαι καὶ τότε τὰς φλέβας ἀναστομοῦσθαί τε καὶ ἀναῤῥήγνυσθαι, διὰ τὸ τοῦ πνεύματος πλῆθος, ὃ καὶ τοὺς ἀσκούς τε καὶ τοὺς πίθους ῥήγνυσιν ἀθροιζόμενον ἐν τῷ γλεύκει ζέοντι.",
+   "english": "For this humour does not produce ardent fever when it gathers in just any parts of the body, but around the stomach, and especially its mouth, and the concave parts of the liver. Likewise [the patient] did not haemorrhage, while, if anything is, it is characteristic of true ardent fevers to reach their crisis through haemorrhage. Hippocrates calls 'haemorrhage', without adding the part from which the blood is emptied, the [haemorrhages] that take place from the nostrils. It is not surprising that the veins there are opened and burst by the blood being carried upwards because of the heat. By this heat the blood must also be turned into vapour (pneuma), and then the veins are opened and burst because of the quantity of vapour, which also bursts wineskins and jars when it collects in fermenting must.",
+   "notes": "The subject of ᾑμοῤῥάγει is unclear; perhaps 'it [the fever]' or the patients.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06768",
+   "ref": "1.1.11.1",
+   "original": "δυσκρασία δ’ ἰσχυρὰ, διὰ τὸ θερμοὺς ἄγαν ἢ ψυχροὺς ὑπάρχειν αὐτοὺς, ὥστ’ εἰκότως ἀνώδυνα τὰ χαῦνα καὶ χωρὶς ἑλκώσεώς ἐστιν οἰδήματα, διότι δὲ τοιαῦτ’ ἦν καὶ ῥᾳδίως ἐλύετο, διὰ ταῦτ’ οὐκ ἐξεπύησεν, ὥσπερ τὰ ἐπ’ ἄλλαις προφάσεσιν. ὀνομάζει δὲ προφάσεις ὁ Ἱπποκράτης ἐνίοτε μὲν ὡς ἔθος ἐστὶ τοῖς πολλοῖς, ἐπὶ τῶν ψευδῶς λεγομένων αἰτίων φέρων τοὔνομα, πολλάκις δὲ τὰς φανερὰς αἰτίας οὕτως καλεῖ, καί ποτε καὶ πάσας τὰς ἁπλῶς, ἀλλὰ νῦν γε τὰς ἐπὶ ἄλλαις προφάσεσιν ἐκπυήσεις εἴρηκεν, ὅσας ἐδίδαξεν αὐτὸς ἐν πυρετοῖς γινομένας, ἐν οἷς μὲν ἠθροισμένοι εἰσὶ χυμοὶ πολλοὶ παχεῖς καὶ ὠμοὶ, διὰ δὲ τὴν σφοδρότητα καὶ τὴν ὀξύτητα καὶ τὸ πλῆθος τῆς θερμασίας τῆς πυρετώδους ἀναφέρονται πρὸς τὴν κεφαλὴν, εἶτ’ ἀποτιθεμένης αὐτοὺς τῆς φύσεως εἰς τοὺς ἐπὶ τοῖς ὠσὶν ἀδένας αἱ καλούμεναι γίνονται παρωτίδες.",
+   "english": "[The other cause of pain is] a strong imbalance of temperament, because [the humours] are excessively hot or cold. So it is reasonable that the spongy swellings were painless and without ulceration. And because they were of this kind and were easily dispersed, for this reason they did not suppurate, as do those arising from other occasions (prophaseis). Hippocrates sometimes uses the name 'prophaseis' as most people do, applying the word to falsely alleged causes; but often he calls the evident causes so, and sometimes simply all causes. Here, however, by 'suppurations from other occasions' he means those that he himself taught occur in fevers. In these many thick, raw humours have gathered, and because of the violence, sharpness and quantity of the feverish heat they are carried up to the head. Then, when nature deposits them in the glands by the ears, the so-called parotid swellings arise.",
+   "notes": "The opening phrase is supplied from the context before, which names tension and strong imbalance as the causes of pain.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06769",
+   "ref": "1.2.4.1",
+   "original": "Πολλὰ λέγομεν ὕδατα γίνεσθαι κατά τινα καιρὸν, διὰ τὸ τοῦ χρόνου μῆκος, εἰ καὶ μὴ λάβρον ἐν αὐτῷ καταῤῥήσσοιτο. λέγομεν δὲ πολλὰ, κἂν ἐν ὀλίγῳ χρόνῳ ὑπέλθοι λάβρα. δύναται δὲ ταῦτα καὶ μεγάλα καλεῖσθαι, ἀλλ’ ὅταν γ’ ἐφεξῆς ἀλλήλλων εἴποι τις ὕδατα λάβρα καὶ μεγάλα γεγονέναι, καθάπερ Ἱπποκράτης συνέγραψεν, ἀκουσώμεθα λάβρα μὲν τὰ ἐξαιφνίδια, σφοδρά τε καὶ ὀλιγοχρόνια, μεγάλα δὲ τὰ μήτ’ ἐξαιφνίδια μήτ’ ὀλιγοχρόνια παντάπασιν, ὥσπερ γε μηδὲ πολυχρόνια. σαφηνείας δ’ ἕνεκεν οὐδὲν κωλύσει καὶ μακροτέρα βραχεῖ χρήσασθαι διηγήσει.",
+   "english": "We say that there are many rains at some period because of the length of time, even if no violent rain bursts down in it. And we also say 'many' if violent rains come in a short time. These can also be called 'great'. But when someone says, one after the other, that rains were 'violent and great', as Hippocrates wrote, let us understand by 'violent' those that are sudden, intense and short-lived, and by 'great' those that are neither sudden nor at all short-lived, though also not long-lasting. For the sake of clarity nothing will prevent [us] from using a slightly longer account.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06770",
+   "ref": "1.2.7.1",
+   "original": "Κόϊντος δὲ τοῖς ἐμπειρικοῖς ὁμοίως ἀρνούμενος ἐπίστασθαι τῶν οὕτω γινομένων παθῶν τὰς αἰτίας, ἀναφέρων δ’ εἰς πεῖραν μόνην αὐτὰς, τῶν προσηκόντων βοηθημάτων τῆς εὑρέσεως ἠπόρει, καίτοι δι’ αὐτὸ τοῦτο χρησίμης οὔσης ἀνεγνῶσθαι τῆς γενέσεως τῶν ἐπιδημιῶν νοσημάτων. ἐπισκεψώμεθα οὖν ἡμεῖς τὴν προκειμένην κατάστασιν, ἀναλαβόντες ἐξ ἀρχῆς. ἐγένετο δὲ, καθάπερ ὁ Ἱπποκράτης ἐδήλωσεν, ὑγρὰ καὶ ψυχρὰ, τὴν ἀρχὴν ἀπὸ φθινοπώρου ποιησαμένη. διὰ τοῦτ’ οὖν ἐν μὲν αὐτῷ τῷ φθινοπώρῳ καὶ τῷ μετ’ αὐτὸν χειμῶνι μετρίως διῆγον οἱ Θάσιοι. κατὰ δὲ τὸ ἔαρ ἐπειδὴ καὶ αὐτὸ ψυχρόν τε καὶ ὑγρὸν ἐγένετο, πρῶτοι πάντων ἐνόσησαν οἱ ὀφθαλμοὶ, διότι μὴ μόνον ὑγρὸν ἦν καὶ ψυχρὸν τὸ περιέχον, ἀλλὰ καὶ λαιλαπῶδες ἔμπροσθεν ἐγεγόνει.",
+   "english": "Quintus, who, like the Empiricists, denied knowing the causes of diseases that arise in this way and referred them to experience alone, was at a loss in finding the appropriate remedies; yet for this very reason it is useful to have read about the origin of epidemic diseases. Let us, then, examine the constitution before us, taking it up from the beginning. As Hippocrates showed, it was wet and cold, beginning from autumn. For this reason the Thasians fared moderately in the autumn itself and in the winter after it. But in spring, since it too was cold and wet, the eyes fell ill first of all, because not only was the surrounding air wet and cold, but it had also been stormy before.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06771",
+   "ref": "1.2.45.1",
+   "original": "Ἐπὶ τῆς προγεγραμμένης ῥήσεως ἔφην ἐνίους μὲν σκοπεῖσθαι τοὺς πεπασμοὺς ἀξιοῦν, ἐνίους δὲ καὶ ποιεῖσθαι καὶ γράφειν ἑκατέρους τὸ τέλος τῆς ῥήσεως διττῶς ἐξηγουμένους, τοὺς μὲν ἑτέρους σκοπεῖσθαι τοῖς ἰατροῖς, τοὺς δὲ ἑτέρους ποιεῖσθαι. χρησίμως δ’ ἔφην ἑκάτερον ἀσκεῖσθαι τοῖς ἰατροῖς, ὥστε καὶ σκοπεῖσθαι γεγραμμένον, εἰ πάντως ἀκολουθεῖ αὐτῷ καὶ τὸ ποιεῖσθαι. μιμητὴν γὰρ ἅμα καὶ ὑπηρέτην ὁ Ἱπποκράτης ἀξιοῖ τὸν ἰατρὸν εἶναι τῆς φύσεως. ὅτι μέντοι βέλτιόν ἐστι γράφειν ἐπὶ τῆς προτέρας ῥήσεως τὸ σκοπεῖσθαι δῆλον ἐποίησε κατ’ αὐτὴν εἰπὼν τοὺς πεπασμοὺς σημαίνειν ταχύτητα κρίσεως καὶ ἀσφάλειαν ὑγιεινήν.",
+   "english": "On the passage written above, I said that some think the coctions should be 'observed', while others [write] 'produced' as well. Each group writes [it so], explaining the end of the passage in two ways: the one [saying it is] to be observed by physicians, the other [that it is] to be produced. I said that it is useful for physicians to practise both, so that even if 'observe' is written, 'produce' certainly follows from it. For Hippocrates thinks the physician should be at once imitator and servant of nature. That it is better to write 'observe' in the earlier passage he made clear by saying in it that coctions signify speed of crisis and security of health.",
+   "notes": "The second clause is elliptical; the sense is taken as variant readings σκοπεῖσθαι / ποιεῖσθαι.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06772",
+   "ref": "1.2.55.1",
+   "original": "τοσοῦτον οὖν μοι μόνον ἐνταῦθα προσθεῖναι δεήσει διὰ τοὺς περὶ τὸν Καπίτωνα γράψαντας ἐν τῇ προκειμένῃ ῥήσει καὶ ὑποχονδρίου ξύντασις μετ’ ὀδύνης. οὐκ ὀρθῶς γὰρ ἀφεῖλον τὴν ἀπόφασιν, τὴν οὐ, διά τε τὸ ἀληθὲς αὐτὸ καὶ ὅτι κατὰ τὸ προγνωστικὸν Ἱπποκράτους εἴρηται, ὅταν ἐν τῷ ὑποχονδρίῳ ἐπὶ δεξιὰ ἢ ἀριστερὰ συντείνεταί τι μήτε σὺν ὀδύνῃ μήτε σὺν φλεγμονῇ, αἷμα διὰ τῶν ῥινῶν ῥυῆναι τούτοις προσδόκιμόν ἐστι. τῆς γὰρ ἐπὶ τὴν κεφαλὴν ῥοπῆς τῶν χυμῶν σημεῖόν ἐστιν ἡ τοῦ ὑποχονδρίου σύντασις χωρὶς ὀδύνης γινομένη. ὡς εἴ γε μετ’ ὀδύνης ᾖ, τῇ τῶν σπλάγχνων ἀκολουθεῖ φλεγμονῇ, ὅταν δὲ τῆς περὶ τὴν κεφαλὴν θερμασίας ἑλκούσης ἄνω τὸ αἷμα καὶ τοῦ ἥπατος ὠθοῦντος ἡ σύστασις γίγνηται, τὴν αἱμοῤῥαγίαν προσδέχεσθαι χρή.",
+   "english": "So I shall only need to add this much here, on account of Capito and his followers, who wrote in the passage before us 'and a tension of the hypochondrium with pain'. For they were wrong to remove the negation 'not', both because of the truth of the matter and because it is said in Hippocrates' Prognostic: 'When something in the hypochondrium on the right or left is tense, neither with pain nor with inflammation, a flow of blood through the nostrils is to be expected in these people.' For tension of the hypochondrium arising without pain is a sign of the humours tending towards the head. If it is with pain, it follows inflammation of the viscera. But when the tension arises because the heat about the head draws the blood upwards and the liver pushes it, one should expect the haemorrhage.",
+   "notes": "σύστασις in the last sentence is taken as σύντασις, 'tension'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p00786",
+   "ref": "1.2.70.quote1",
+   "original": "Οὖρα δὲ ὑδατώδεα πολλὰ, καθαρὰ, λεπτὰ μετὰ κρίσιν καὶ ὑποστάσιος πολλῆς γενομένης καὶ τῶν ἄλλων καλῶς κεκριμένων. ἀναμνήσομαι οἶσιν ἐγένετο, Βίωνι, ὃς κατέκειτο παρὰ Σιληνὸν, Κρατίῃ τῇ παρὰ Ξενοφάνους, Ἀρέτωνος παιδὶ, Μνησιστράτου γυναικί.",
+   "english": "Urine watery, copious, clear, thin after the crisis, when there had also been an abundant sediment and the other things had reached a good crisis. I shall record those in whom this occurred: Bion, who lay sick at Silenus' house; Cratia, at Xenophanes' house; the child of Areton; the wife of Mnesistratus.",
+   "notes": "This is the Hippocratic lemma quoted by Galen. 'Child of Areton' (Ἀρέτωνος παιδί) could also be read as describing Cratia, but the list format suggests a separate patient.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06773",
+   "ref": "1.2.83.1",
+   "original": "καὶ εἰ δὴ τούτῳ διέλιπεν ἡμέρας πέντε, πρόδηλον ὅτι τῷ κατὰ τὴν ἕκτην ἡμέραν κριθέντι [κατὰ τὴν δευτέραν ἡμέραν κριθέντος] διέλιπεν ἕξ. ἐγχωρεῖ δὲ κατ’ ἀρχὴν εὐθὺς ὑπὸ τοῦ βιβλιογράφου τὴν λέξιν ἁμαρτηθεῖσαν φυλαχθῆναι, καθάπερ καὶ ἄλλαι πολλαὶ τοῦτο πεπόνθασι, παρά τε τῷ Ἱπποκράτει καὶ ἄλλοις οὐκ ὀλίγοις. ὃ δὲ λέγω σφάλμα τοῦ βιβλιογράφου γενέσθαι, τοιόνδε ἐστίν. ἐνεδέχετο γεγράφθαι μὲν ὡδί πως τὴν λέξιν, διέλιπεν ἡμέρας ἓξ μὲν τῷ πρεσβυτέρῳ, τῷ δ’ ἑτέρῳ πέντε. τὸ γράψαι δὲ τὸν ἁμαρτάνοντα, διέλιπε πέντε, καὶ πιθανώτερον ἐπὶ τῷ πρεσβυτέρῳ, τὰς ἓξ διαλιπεῖν, τῷ δὲ νεωτέρῳ τὰς πέντε, τῆς δ’ ὑποστροφῆς ἄμα ἀμφοτέροις γενομένης κατὰ τὴν δωδεκάτην ἡμέραν.",
+   "english": "And if indeed for this one [the fever] intermitted five days, it is clear that for the one who had his crisis on the sixth day [having his crisis on the second day] it intermitted six. It is possible that the wording was miswritten by the copyist right at the beginning and was preserved so, as many other [passages] have suffered both in Hippocrates and in not a few others. The copyist's error I mean is this. The wording may have been written something like this: 'it intermitted six days for the elder, five for the other.' The one who erred wrote 'it intermitted five'. It is also more plausible that the elder had the six [days' intermission] and the younger the five, the relapse occurring for both together on the twelfth day.",
+   "notes": "The bracketed phrase 'κατὰ τὴν δευτέραν ἡμέραν κριθέντος' is bracketed in the edition and seems to be an intrusive gloss or corruption. The whole passage is confused.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06774",
+   "ref": "1.3.1.1",
+   "original": "ἐπεὶ τοῖσί γ’ ἄλλοις εὐφόρως πᾶσι καὶ θανατῶδες ἐν τοῖς ἄλλοις πυρετοῖς οὐκ ἐγένετο, οὔτε ἓν εἶδος ἐπεδήμησε νοσημάτων οὔτε μία κατάστασις ἓν ὅλῳ τῷ ἔτει διὰ παντὸς ἐγένετο. κατὰ δὲ τὸ ἐπικρατοῦν τῆς κράσεως ἤτοι ψυχρὰν καὶ ὑγρὰν ἤ τινα τῶν ἄλλων κράσεων ἡμεῖς λέγομεν. ὁ δ’ Ἱπποκράτης ἔγραψεν· ἦρος μὲν γὰρ ἄλλα νοσήματα, θέρους δ’ ἄλλα, καὶ φθινοπώρου μὲν ἄλλα, χειμῶνος δ’ ἄλλα συνέβη γενέσθαι καθ’ ἑκάστην ὧν ἔγραψε καταστάσεων. ἐπικρατεῖν δ’ ὅμως ἐν ὅλῳ τῷ ἔτει κατὰ μὲν τήνδε τὴν κατάστασιν τουτὶ τὸ νόσημα, καθ’ ἑτέραν δὲ τουτί.",
+   "english": "since for all the others [things went] tolerably, and nothing fatal occurred in the other fevers, neither did a single form of disease prevail, nor did a single constitution persist throughout the whole year. Rather, we call [the constitution] cold and wet, or one of the other mixtures, according to what predominates in the mixture. Hippocrates wrote [as he did] because in spring some diseases, in summer others, and in autumn some, in winter others happened to occur in each of the constitutions he described; yet nevertheless, over the whole year, in this constitution this disease prevailed, and in another that one.",
+   "notes": "Hippocrates' lemma, cited at the end of the text before the passage, runs into the opening clause of the passage, so the first sentence continues a quotation. 'ἓν ὅλῳ' is read as 'ἐν ὅλῳ'. The final sentence depends on 'ἔγραψεν' in indirect construction; it is rendered as part of what Hippocrates reported.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06775",
+   "ref": "1.3.2.1",
+   "original": "εἰσὶ γὰρ ὄντως ἐν τῷ μέσῳ τῶν συνεχῶν καὶ τῶν εἰς ἀπυρεξίαν παυομένων. εἰκότως οὖν ὅταν μὲν τοῖς συνέχοις παραβάλλωνται, διαλείποντες καλοῦνται, ὅταν δὲ τοῖς εἰς ἀπυρεξίαν λήγουσι, συνεχεῖς. ἐν δὲ τῇ προκειμένῃ ῥήσει πυρετῶν διαφορὰν γράφων ὁ Ἱπποκράτης ἐνίους μὲν αὐτῶν φησιν εἶναι συνεχεῖς, εἰσὶ γὰρ ὄντως πολλοὶ συνεχεῖς κατὰ ἀμφότερα τὰ σημαινόμενα τοῦ συνεχοῦς, ἐνίους δ’ ἤτοι τὴν νύκτα διαλιπεῖν ἢ τὴν ἡμέραν, ὧν τοὺς μὲν εἰς ἀπυρεξίαν μὴ λήγοντας ἔνιοι τῶν νεωτέρων ἰατρῶν μεθημερινοὺς ἢ καθημερινοὺς ὀνομάζουσι, τοὺς δὲ λήγοντας ἀμφημερινοὺς, τῆς τοιαύτης λεπτολογίας τῶν ὀνομάτων οὐκ οὔσης παρὰ τοῖς παλαιοτέροις.",
+   "english": "For they truly are midway between the continuous [fevers] and those that stop in a fever-free interval. Reasonably, then, when they are compared with the continuous ones they are called intermittent, and when [compared] with those ending in a fever-free interval, continuous. In the present passage Hippocrates, describing the varieties of fevers, says that some of them are continuous (for many truly are continuous in both senses of 'continuous'), and that some intermit either by night or by day. Of these, some of the more recent physicians call those that do not end in a fever-free interval *methēmerinoi* or *kathēmerinoi* [daily], and those that do end [in one] *amphēmerinoi* [quotidian], since such hair-splitting about names did not exist among the older [physicians].",
+   "notes": "The three Greek terms for daily fevers are kept in transliteration because Galen is distinguishing the words themselves.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06776",
+   "ref": "1.3.5.1",
+   "original": "καὶ νῦν δὴ πάλιν ἡ ῥῆσις αὕτη φησὶν, ἐν δὲ τῷ ἡμιτριταίῳ, συμπίπτει μὲν καὶ ὀξέα νοσήματα καὶ ἐστι τῶν ἄλλων οὗτος θανατωδέστατος. ὅτι μὲν οὖν θανατώδης ἐστὶν ὁ ἡμιτριταῖος ἄντικρυς εἴρηκεν αὐτὸς ὁ Ἱπποκράτης. ὅτι δὲ τῶν εἰς ἀπυρεξίαν ληγόντων οὐδείς ἐστι θανατώδης ἄντικρυς ἐν ἀφορισμοῖς ἐδήλωσεν εἰπών. πυρετοὶ ὁκόσοι μὴ διαλείποντες, διὰ τρίτης ἰσχυρότεροι γίνονται, ἐπικίνδυνοι. ὅτῳ δ’ ἂν τρόπῳ διαλείπουσι, σημαίνει ὅτι ἀκίνδυνοι. πῶς οὖν ἐκ τῶν εἰς ἀπυρεξίαν ληγόντων εἴπῃ τὸν ἡμιτριταῖον, ἑπόμενος Ἱπποκράτει ; καὶ μὴν οἱ λέγοντες, ἐάν τις ὥραις τέτρασι καὶ εἴκοσι ἀπύρετος γίγνηται, τὸν μέσον ἔχειν αὐτὸν ἡμιτριταῖον, ἐκ τῶν διαλειπόντων ποιοῦσι τοῦτον τὸν πυρετὸν τοιοῦτον.",
+   "english": "And now again this passage says: 'In the semitertian, acute diseases also occur, and this is the most deadly of the others.' That the semitertian is deadly, Hippocrates himself has said outright. That none of those ending in a fever-free interval is deadly, he made plain outright in the Aphorisms, saying: 'Fevers that do not intermit but become stronger every third day are dangerous; but in whatever way they intermit, this signifies that they are without danger.' How then could someone who follows Hippocrates say that the semitertian is among those ending in a fever-free interval? And indeed those who say that if someone becomes fever-free for twenty-four hours he has the middle semitertian make this fever one of the intermittent kind.",
+   "notes": "The sense of 'τῶν ἄλλων οὗτος θανατωδέστατος' ('the most deadly of the others') is awkward but follows the Greek. 'εἴπῃ' lacks an expressed subject; it is rendered as 'someone'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06777",
+   "ref": "1.3.9.1",
+   "original": "Οἱ φθίνοντες ἑκτικὸν πυρέττουσι πυρετὸν οὐδέποτε παυόμενον, οὗ τὴν φύσιν ἅπασαν, ὥσπερ καὶ τῶν ἄλλων, ἔμαθες ἐν τοῖς περὶ διαφορᾶς πυρετῶν. ἤδη δέ τισιν, αὐτῷ ἐπιπεπλεγμένον τινὰ τῶν περιοδικῶν, ἤτοι τῶν διὰ τρίτης ἢ καὶ τῶν καθ’ ἑκάστην ἡμέραν παροξυνομένων, ὡς δ’ Ἱπποκράτης φησὶ, καὶ τὸν διὰ πέμπτης, ὑπὲρ οὗ καὶ αὐτοῦ νόμιζέ σοι τὰ αὐτὰ λελέχθαι πρὸς ἡμῶν, ἃ καὶ περὶ τῶν ἑβδομαίων τε καὶ ἐναταίων ὀλίγον ἔμπροσθεν ἤκουσας.",
+   "english": "Consumptives have a hectic fever that never stops. You learned its whole nature, as also that of the others, in the [books] on the differences of fevers. But in some [patients] one of the periodic fevers is already combined with it, either one that has paroxysms every third day or one that has them every day, and, as Hippocrates says, also the one every fifth day. Regarding this too, consider that the same things have been said to you by us as you heard a little earlier about the seventh-day and ninth-day [fevers].",
+   "notes": "The construction of 'ἐπιπεπλεγμένον' is elliptical (the verb is understood); the sense is given.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06778",
+   "ref": "1.3.case6.1",
+   "original": "εἶτ’ ἐπιφέρει πεπλανημένως, ὅπερ ἐστὶν ἄνευ τῆς κατὰ περίοδον τάξεως, ὡς ποτὲ μὲν, εἰ οὕτως ἔτυχε, διὰ τρίτης ἢ τετάρτης ἡμέρας πυρέξαι, ποτὲ δὲ διὰ πέμπτης ἢ ἕκτης. παρακολουθῆσαι δ’ αὐτῷ διὰ παντὸς ἀγαθὰ σημεῖα τὰ περὶ τὴν ὄρεξιν τῶν σιτίων καὶ ὕπνων, ἄδιψόν τ’ εἶναι καὶ οὐρεῖν οὐκ ἄχροα. ταῦτα γὰρ αὐτὸς ὁ Ἱπποκράτης κατὰ τὴν λέξιν ἔγραψεν ὡδί· οὐκ ἀπόσιτος οὐδὲ διψώδης παρὰ πάντα τὸν χρόνον οὐδὲ ἄγρυπνος. ἅμα δὲ τὸ μὴ χολώδη καὶ θερμὸν εἶναι τὸν πλεονάζοντα χυμὸν ἐξ αὐτῶν ἐδηλοῦτο. διψώδεις γὰρ ὑπ’ ἐκείνου καὶ ἄγρυπνοι γίνονται καὶ μᾶλλον ἀπόσιτοι, τουτέστιν οὐκ ὀρεκτοί. εἰ μὲν οὖν ὥσπερ εὔχροα τὰ οὖρα διὰ παντὸς ἦν, οὕτως καὶ τῆς συστάσεως εἶχε μετρίως, οὐκ ἂν εἰς χρόνου μῆκος ἡ νόσος παρῆλθε.",
+   "english": "Then he adds 'irregularly', which means without periodic order, so that sometimes, as it happened, he had fever every third or fourth day, and sometimes every fifth or sixth. But good signs accompanied him throughout, concerning appetite for food and sleep: he was not thirsty and passed urine that was not without colour. For Hippocrates himself wrote this in so many words: 'not averse to food, nor thirsty throughout the whole time, nor sleepless.' At the same time these [signs] showed that the excess humour was not bilious and hot. For from that [humour] people become thirsty and sleepless and rather averse to food, that is, without appetite. If, then, just as the urine was well coloured throughout, it had also been moderate in consistency, the disease would not have run on to a long duration.",
+   "notes": "The patient is Cleonactes, named in the text before the passage.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06779",
+   "ref": "3.1.4.1",
+   "original": "εἰ δὲ διὰ μόνον τοῦτό τις ἡγεῖται τὸ νόσημα μὴ τελέως κριθῆναι, διότι δεκαταῖον ἵδρωσεν, οὐχ ἑνδεκαταῖος ὁ ὁ Πυθίων, οὐκ ὀρθῶς γινώσκει. τὸ γὰρ ἐλλιπὲς τῆς κρίσεως ἐκ τοῦ μηδέπω πεπέφθαι τὴν νόσον ἀναγκαῖον γίνεσθαι. πολλοὺς γοῦν καὶ αὐτὸς ὁ Ἱπποκράτης ἔγραψε καὶ ἡμεῖς ἐθεασάμεθα κριθέντας ἐν κρισίμοις ἡμέραις ἐλλιπῶς, διὰ μόνην τὴν τῶν οὔρων ἀπεψίαν. ἀμφοτέρων δ’ ἀλλήλοις συνελθόντων, τοῦ τε κατὰ μὲν δεκάτην ἡμέραν ἀσθενοῦς καὶ τῆς τῶν οὔρων ἀπεψίας, ἐχρῆν ἴσως μηδὲ κεκρίσθαι τὸν ἄνθρωπον ἢ μὴ ἐπὶ καλῷ τε καὶ κρισίμῳ.",
+   "english": "But if anyone thinks that the disease was not completely resolved for this reason alone, that Pythion sweated on the tenth day and not on the eleventh, he judges wrongly. For the incompleteness of the crisis necessarily arises from the disease not yet having been concocted. At any rate, Hippocrates himself recorded many, and we have seen many, who had incomplete crises on critical days because of the unconcocted state of the urine alone. But when both came together, the weakness of the tenth day and the unconcocted state of the urine, perhaps the man ought not to have had a crisis at all, or not a good and critical one.",
+   "notes": "'ὁ ὁ Πυθίων' contains a doubled article (dittography), which has been ignored.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06780",
+   "ref": "3.1.5.1",
+   "original": "ταῦτ’ εὐθέως ἐν ἀρχῇ πάντα τὰ συμπτώματά τε καὶ σημεῖα γεγονέναι τῷ Ἑρμοκράτει διελθὼν ὁ Ἱπποκράτης, εἶτα μηδὲν γράψας περὶ τῶν ἑξῆς ἡμερῶν, ἄχρι τῆς πέμπτης ἐνδείκνυται διαμεμενηκέναι ταῦτα πάντα καὶ τότε πρῶτον αὐτὸς ἄρξασθαι τῆς τῶν ἄλλων διηγήσεως, ὁπότε μεταβολή τις ἐν αὐτοῖς ἐγένετο· κατὰ τὴν πέμπτην γοῦν ἡμέραν φησὶν οὐρῆσαι πολλὰ λεπτά. καὶ τοίνυν μεταβῶμεν ἤδη πρὸς τὴν ἐκείνης διήγησιν. πέμπτῃ οὔρησε λεπτὰ, εἶχεν ἐναιώρημα, οὐχ ἵδρυτο, εἰς νύκτα παρέκρουσεν. ὁπότε πρῶτον, ἥ τε τῶν οὔρων ἐξ ἀρχῆς ἐγένετο μεταβολὴ καὶ παρεφρόνησεν ὁ ἄνθρωπος, ἔγραψεν ὁ Ἱπποκράτης, κατὰ τὴν πέμπτην ἡμέραν, ὑπερβὰς, ὡς εἴρηται, τὴν τῆς δευτέρας καὶ τρίτης καὶ τετάρτης διήγησιν, ὡς τῶν αὐτῶν ἐν αὐταῖς συμπτωμάτων μεινάντων, ἀναμνησθῶμεν οὖν περὶ τῶν λεπτῶν οὔρων ὧν εἶπεν ἐν προγνωστικῷ κατὰ τήνδε τὴν λέξιν.",
+   "english": "Having gone through all these symptoms and signs as occurring to Hermocrates right at the beginning, Hippocrates then wrote nothing about the following days. He thereby indicates that all these persisted until the fifth [day], and that he himself first began to narrate the rest at the point when some change occurred in them. At any rate, he says that on the fifth day [the patient] passed much thin urine. Let us now move on to the account of that [day]: 'On the fifth he passed thin urine; it had a suspended matter; it did not settle; towards night he became delirious.' Hippocrates recorded the fifth day as the time when the change in the urine from its original state first occurred and the man became deranged. As has been said, he passed over the account of the second, third and fourth [days], since the same symptoms remained in them. Let us recall, then, what he said about thin urine in the Prognostic, in these words.",
+   "notes": "The sentence beginning 'ὁπότε πρῶτον' is loosely constructed in the Greek and has been divided in translation.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06781",
+   "ref": "3.1.7.1",
+   "original": "ὑπολείπεται τοίνυν ἤτοι ψύξις σφοδρὰ κατὰ τὸν ἐγκέφαλον, ἢ ἀῤῥωστία δυνάμεως αἰτία τοῦ κώματος τῷ Ἑρμοκράτει γεγονέναι κατὰ τὴν ἑνδεκάτην ἡμέραν· ὁπότερον δ’ ἂν ᾖ τούτων, ἐσχάτως ἐστὶν ὀλέθριον. ἀνίατοι γὰρ ἐδείχθησαν αἱ τοιαῦται ψύξεις, ὅταν ἀκολουθήσωσι θερμοῖς καὶ ξηροῖς νοσήμασιν. εἰκότως οὖν ἔγραψεν ὁ Ἱπποκράτης, ἔδοξε πάντα κουφισθῆναι. χαλεπωτάτου γὰρ σημείου τοῦ κατὰ τὸ κῶμα λαβόντος ἀρχὴν ἐπὶ τῆς ἑνδεκάτης ἡμέρας, ἀδύνατον ἦν ἀναλαμβάνειν τὸ σῶμα τηνικαῦτα τὴν ὑγιεινὴν ἕξιν. οὐ μὴν οὐδὲ μέση τίς ἐστιν ἐν τοῖς τοιούτοις διάθεσις, ἀλλ’ ἐὰν ἐκπέσῃ τῆς ὑγιεινῆς καταστάσεως ἡ τοιαύτη τοῦ πυρετοῦ ἰδέα, πρὸς τὴν ἐναντίαν ἀφικνεῖται τὴν ὀλεθρίαν, ἐν ᾗ σβέννυται τὸ ἔμφυτον θερμόν.",
+   "english": "It remains, then, that either a violent chilling in the brain or a weakness of the [vital] faculty was the cause of Hermocrates' coma on the eleventh day. Whichever of these it is, it is extremely deadly. For such chillings have been shown to be incurable when they follow hot and dry diseases. With reason, then, Hippocrates wrote: 'everything seemed to be relieved.' For since the most grievous sign, the coma, had begun on the eleventh day, it was impossible for the body to recover its healthy state at that time. Nor is there any intermediate condition in such cases. Rather, if this kind of fever falls away from the healthy state, it passes to the opposite, deadly one, in which the innate heat is extinguished.",
+   "notes": "'Everything seemed to be relieved' appears to be taken by Galen as a deceptive or merely apparent relief. The reasoning is compressed.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06782",
+   "ref": "3.1.15.1",
+   "original": "Πῦρ μὲν ὁ Ἱπποκράτης τὸν πυρετὸν ὀνομάζει, καθότι δέδεικταί μοι πολλάκις ἤδη· καὶ μέντοι καὶ ὅτι κυριώτερον ὥσπερ καὶ πᾶσιν ἀνθρώποις ἔθος ἐστὶ τὰ μικρὰ τῶν αἰτίων προφάσεις καλεῖν, οὕτω καὶ αὐτὸς ἐνίοτε προσαγορεύει, καὶ τοῦτο δέδεικται.",
+   "english": "Hippocrates calls fever 'fire', as I have already shown many times. And indeed this too has been shown: that, just as it is the custom of all people to call minor causes, more properly, *prophaseis* [occasions], so he himself sometimes names them.",
+   "notes": "The position of 'κυριώτερον' ('more properly') is ambiguous.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06783",
+   "ref": "3.1.16.1",
+   "original": "καὶ τὸ πολὺ δὲ μᾶλλον εἰθίσμεθα λέγειν ἄκρατον αἷμα τὸ μέλαν, ὅπερ εὐθέως καὶ παχὺ κατὰ τὴν σύστασίν ἐστιν. ὅτι μὲν οὖν ἔδει τὸν προκείμενον ἄῤῥωστον, εἴπερ ἦν ἰσχυρὸς τὴν δύναμιν, φλεβοτομηθῆναι πρόδηλον. ὅτι δ’ οὐκ ἔγραψε περὶ τοῦ βοηθήματος ὁ Ἱπποκράτης οὐδὲν ἡ αὐτὴ ζήτησις ἔσται σοι τῇ κατὰ τὸν πρῶτον ἄῤῥωστον γεγραμμένῃ.",
+   "english": "And for the most part we are rather accustomed to call black blood 'unmixed', which is at once also thick in consistency. That the present patient ought to have been bled, if he was strong in his faculty, is obvious. As for why Hippocrates wrote nothing about the remedy, the inquiry for you will be the same as the one written concerning the first patient.",
+   "notes": "The Greek term rendered 'unmixed' is akraton, which the text before the passage glosses as 'badly mixed'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06784",
+   "ref": "3.2.pr.1",
+   "original": "μετὰ δὲ ταῦτα τοῖς ἑταίροις παρακαλέσασι πεισθεὶς ἐξηγήσεις ἐν ὑπομνήμασιν ἔγραψα τοῦ περὶ διαίτης ὀξέων, προτέρου μὲν ἄχρι τῆς τῶν βαλανείων χρήσεως μέρους τοῦ βιβλίου, ὃ καὶ γνησιώτατον εἶναι πεπίστευται, δευτέρου δὲ μετ’ αὐτὸ, καὶ γὰρ καὶ τοῦτο φαίνεται πολλὰ κατὰ τὴν Ἱπποκράτους γνώμην ἔχειν ἐν ἑαυτῷ θεωρήματα. μετὰ δὲ τοῦτο τοῦ περὶ χυμῶν ἐξήγησιν ἐποιησάμην διὰ ταχέων ἐν ἡμέραις ὀλίγαις, ἐπειγομένου πρὸς ἀποδημίαν τοῦ παρακαλέσαντος αὐτὸ γραφῆναι. δοξάντων δὲ καὶ τούτων ἔχειν καλῶς, ἐξέπεσε γὰρ εἰς πολλοὺς, ἐκ τούτου συνέβη μὴ μόνον τοὺς ἑταίρους, ἀλλὰ καὶ ἄλλους πολλοὺς τῶν φίλων ἰατρῶν προτρέψαι πάντων τῶν Ἱπποκράτους βιβλίων ἐξηγήσεις ποιήσασθαι.",
+   "english": "After this, persuaded by my companions, who urged me, I wrote explanations in commentaries on On Regimen in Acute Diseases: the first on the part of the book up to the use of baths, which is also believed to be the most genuine, and the second on what follows it, for this too evidently contains within itself many doctrines in accordance with Hippocrates' thought. After this I produced an explanation of On Humours, quickly, in a few days, since the person who had urged that it be written was hurrying to go abroad. And since these too were thought to be good, for they got out into the hands of many, it came about as a result that not only my companions but also many others among my physician friends urged me to produce explanations of all the books of Hippocrates.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06785",
+   "ref": "3.2.1.1",
+   "original": "τῷ Φιλίστῃ δὲ τούτῳ καὶ αὐτὸν ἐν τῷ χρόνῳ τὸν ἐγκέφαλον ἐν διαθέσει γεγονέναι μοχθηρᾷ. προσγενομένης δὲ τῆς ἐν τῷ πότῳ βλάβης οὕτως μέγα καὶ ἰσχυρὸν ἀπειργάσατο πάθος, ὡς ἀποκτεῖναι πεμπταῖον αὐτόν. ὅσα δὲ κατὰ τὰς ἡμέρας ταύτας ὁ Ἱπποκράτης ἔγραψε γενέσθαι συμπτώματα τῷ Φιλίστῃ, τὰ μὲν τῆς κατὰ τὴν νόσον ὀξύτητός ἐστιν, ὡς εἰ καὶ μηδὲν ἐγκέφαλος ἐβέβλαπτο, τὰ δὲ αὐτοῦ τοῦ ἐγκεφάλου. τῆς μὲν οὖν κατὰ τὴν νόσον ὀξύτητος τά τε κατὰ τοὺς ἐμέτους ἐστὶ συμπτώματα καὶ τῶν οὔρων ἡ ποιότης·",
+   "english": "[It is likely] that in this Philistes the brain itself had also been in a bad condition over time. When the damage from the drinking was added, it produced so great and severe an affection that it killed him on the fifth day. Of the symptoms that Hippocrates wrote occurred in Philistes during these days, some belong to the acuteness of the disease, as if the brain had not been harmed at all, and others to the brain itself. To the acuteness of the disease, then, belong the symptoms concerning the vomiting and the quality of the urine;",
+   "notes": "The first sentence is an accusative-and-infinitive construction depending on a verb in the preceding text; 'it is likely' is supplied.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06786",
+   "ref": "3.2.4.1",
+   "original": "εἰκὸς οὖν καὶ τὴν προκειμένην ἐν τῷ λόγῳ γυναῖκα διὰ τοῦτο ἀποθανεῖν τριταίαν, ἡνίκα καὶ τὰ ἄκρεα πελιδνὰ καὶ ψυχρὰ καὶ τῶν διαχωρημάτων ἐπίσχεσις ἐγένετο, ὥστ’ εἰκάζειν χρὴ τὴν δύναμιν αὐτῆς ἰσχυρὰν οὖσαν ἐξαρκέσαι μέχρι τῆς ε΄ ἡμέρας. τὸ δ’ ἄχρι τῆς ὀγδόης ἀδύνατον· ἀλλὰ μέχρι μὲν τούτων ἅλις, ἐννοήσας δέ τις ὡς, εἴθ’ Ἱπποκράτης αὐτὸς ἐνεκεχείριστο τὴν θεραπείαν τῆς γυναικὸς ταύτης εἴτε συνεπισκέπτετο τῷ θεραπεύοντι, πάντως ἂν εἰ καὶ μηδὲν ἄλλο, καταπλασμάτιον γοῦν ἐπέθηκεν ἢ διακλυσμάτιον ἔδωκεν αὐτῇ. πεισθήσεται γοῦν παραλελεῖφθαι κατὰ τὴν διήγησιν τά τ’ ἄλλα βοηθήματα προσαχθέντα ἐν τῇ νοσούσῃ καὶ τὴν φλεβοτομίαν, μόνον δὲ κλυστῆρα καὶ βαλάνου πρόσθεσιν οὐ προηγουμένως, ἀλλὰ κατὰ τὸ πάρεργον γεγράφθαι.",
+   "english": "It is likely, then, that the woman under discussion in the account would also have died for this reason on the third day, when her extremities became livid and cold and there was retention of the stools; so one must conjecture that her strength, being robust, held out until the fifth day. But [holding out] until the eighth was impossible. But enough on these matters. If someone reflects that, whether Hippocrates himself had undertaken the treatment of this woman or was examining [her] together with the one treating her, he would certainly, if nothing else, at least have applied a little poultice or given her a little enema, he will be persuaded that the other remedies applied to the sick woman, and the bloodletting, have been left out of the narrative, and that only the clyster and the insertion of a suppository have been written down, not as a primary matter but incidentally.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06787",
+   "ref": "3.2.5.1",
+   "original": "γίνεται γὰρ ἤτοι διὰ μέγεθος ὑπερβάλλον τῆς ἐν τοῖς σπλάγχνοις φλεγμονῆς ἢ σβεννυμένης τῆς ἐμφύτου θερμασίας. περὶ δὲ τῆς καθ’ ὑποχόνδρια ἐντάσεως ὑπολαπάρου φθάνομεν εἰρηκότες ὅτι τὴν χωρὶς ὄγκου τάσιν ὁ Ἱπποκράτης δηλοῖ διὰ τῆς εἰρημένης λέξεως. ἐνδείκνυται δ’ ἡ τοιαύτη τάσις τῶν μὲν ἔξω σωμάτων, ἅπερ οἱ κατ’ ἐπιγάστριόν εἰσι μύες, οὐδὲν φλεγμαῖνον, ἤτοι δὲ τὰς φρένας ἢ τὸ ἧπαρ ἢ τὸν σπλῆνα. κινδυνώδη δὲ ταῦτα σὺν τοῖς ἄλλοις.",
+   "english": "For it occurs either because of the excessive size of the inflammation in the viscera or because the innate heat is being extinguished. Concerning the tension of the hypochondria [described as] 'somewhat flabby' (hypolaparos), we have already said that by this expression Hippocrates indicates tension without swelling. Such tension indicates that none of the outer bodies, which are the muscles of the abdominal wall, is inflamed, but rather either the diaphragm or the liver or the spleen. These things are dangerous together with the others.",
+   "notes": "ὑπολάπαρος, Hippocrates' term, apparently 'somewhat soft/flabby'; Galen explains it as tension without swelling.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06788",
+   "ref": "3.2.5.2",
+   "original": "ποιεῖται γοῦν τὴν τῶν χαρακτήρων ἐξήγησιν ὡς διὰ τί ζ πρὸ τοῦ τελευταίου θ γέγραπται. τὸ δ’ ἕτερον ὃ τούτου προτέτακται δηλοῦν φησὶ τὸ ζητητέον εἶναι διὰ τί κατὰ τὴν ζ΄ ἡμέραν ἀπέθανε τῶν παροξυσμῶν αὐτῷ κατὰ τὰς ἀρτίους γεγονότων. εὔλογον γὰρ ἦν, ὡς αὐτὸς ὁ Ἱπποκράτης λέγει, τὴν κρίσιν τοῦ νοσήματος ἐν ταῖς παρεξοτικαῖς ἡμέραις γεγονέναι. ὧν γὰρ οἱ παροξυσμοὶ, φησὶν, ἐν ἀρτίαις, τούτων καὶ αἱ κρίσεις ἐν ἀρτίαις, ὧν δ’ ἐν περιτταῖς, καὶ τούτων πάλιν ἐν περιτταῖς ἡμέραις γίνεσθαι τὴν κρίσιν.",
+   "english": "At any rate he gives an explanation of the characters, [saying they mean] why a zeta (7) was written before the final theta (death). The other [character], which is placed before this, he says indicates that one must inquire why he died on the seventh day, when his paroxysms had occurred on the even days. For it would have been reasonable, as Hippocrates himself says, for the crisis of the disease to have occurred on the days of the paroxysms. For those whose paroxysms are on even days, he says, have their crises also on even days, and those whose [paroxysms are] on odd days, again have the crisis occur on odd days.",
+   "notes": "'He' is Heraclides of Tarentum (from context). The 'characters' are marginal signs in the Hippocratic case histories; ζ = seven, θ presumably for θάνατος 'death'. παρεξοτικαῖς appears corrupt; read as παροξυντικαῖς 'of paroxysm'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06789",
+   "ref": "3.2.6.1",
+   "original": "καὶ οἱ στρόφοι δὲ καὶ αἱ ὀδύναι συνενδείκνυνται, ὅταν ἐν τοῖς ὑψηλοῖς μέρεσι γίνωνται. εἰ δὲ καὶ κόπρον ἐμέουσιν, ὁρᾶται γὰρ τοῦτο γινόμενον, ἐναργέστατον ἔστω σοι γνώρισμα τοῦ πεπονθέναι τὰ λεπτὰ τῶν ἐντέρων. ἔστι δ’ ὀξύτατον τὸ πάθος καὶ διὰ τοῦτο νῦν ἔγραψεν ὁ Ἱπποκράτης αὐτὸ μετὰ τοῦ προσγράψαι, ὠφελεῖν οὐδὲν ἠδύνατο. μέμνησο δή μοι καὶ τούτου πρὸς τὸν περὶ τῆς φλεβοτομίας λόγον. οὐ γὰρ ἄλλο τι τῶν βοηθημάτων ἔγραψεν ἐπὶ τῶν ἐν τούτοις τοῖς βιβλίοις ἀῤῥώστων, οὔτ’ ἐκείνην, οὐ δήπου τῶν καμνόντων ἀβοηθήτων ἐῤῥιμμένων, ἀλλ’ ὡς οὐ χρῄζων γράφειν τὰ βοηθήματα καθ’ ἕκαστον, εἰ μή τί που τῶν σπανίως εἴη γεγονότων, ὡς ἐπὶ τοῦ φλεβοτομηθέντος ὀγδοαίου.",
+   "english": "Gripings and pains also indicate [it] in addition, when they occur in the upper parts. And if they even vomit faeces, for this is seen to happen, let this be for you the clearest sign that the small intestines are affected. The affection is extremely acute, and for this reason Hippocrates has now written about it, adding: 'he could help in no way.' Remember this too, please, in connection with the discussion of bloodletting. For he did not write any other of the remedies in the case of the patients in these books, nor that one, not, surely, because the patients were thrown aside without help, but because he did not need to write down the remedies in each case, unless perhaps something rarely done had occurred, as in the case of the one bled on the eighth day.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06790",
+   "ref": "3.2.8.1",
+   "original": "ὥσπερ καὶ ταῦτα μάτην εἶπόν τινες τῶν ἐξηγητῶν, οὕτω καὶ τήνδε τὴν ῥῆσιν κακῶς ἐκ τοῦ προῤῥητικοῦ ἐπιφέρουσι τοῖς νῦν εἰρημένοις εἰς ἐξήγησιν τῆς προκειμένης ἀῤῥώστου, καθ’ ἥν φησι, κοιλίης περίπλυσις ἐξέρυθρος, κακὸν μὲν ἐν πᾶσιν, οὐχ ἥκιστα δὲ τοῖς προκειμένοις, οὐκ εἰρηκότος Ἱπποκράτους ἐξέρυθρον τῇ γυναικὶ ταύτῃ γεγονέναι περίπλυσιν κοιλίης. ἔτι δὲ μᾶλλον ἀτόπως μνημονεύουσι καὶ τῆσδε τῆς ῥήσεως, ἐν πυρετοῖς καυσώδεσιν, ὑπο περιψύχουσι καὶ διαχωρήμασιν ὑδατοχόλοισι συχνοῖς, ὀφθαλμοῖσι λῆμαι σημεῖον κακὸν, ἄλλως τε καὶ ἢν κάτοχοι γένωνται. διαφέρειν δ’ οὐδέν φασιν ἢ κάτοχον εἰπεῖν ἢ κῶμα, μὴ γινώσκοντας ὡς αὐτὸς ὁ Ἱπποκράτης διορίζει τὸ βαθὺ κῶμα τοῦ μετ’ ἀγρυπνίας. τὸ μὲν οὖν βαθὺ κῶμα κοινωνίαν ἔχει τινὰ πρὸς τὴν καλουμένην κατοχὴν ὑπὸ τῶν περὶ τὸν Ἀρχιγένην τε καὶ Φίλιππον. οὐ μὴν ὅτι τὸ ἄγρυπνον, ὅ ταύτῃ τῇ γυναικὶ γενέσθαι φασὶν ἐν ἀρχῇ τοῦ νοσήματος, οὐ καθ’ ὃν χρόνον ὁ ὀφθαλμὸς παρεσπάσθη.",
+   "english": "Just as some of the commentators said these things to no purpose, so too they wrongly bring in this passage from the Prorrhetic, in addition to what has just been said, to explain the patient under discussion, where he says: 'a very red washing-out of the bowel is bad in all cases, and not least in those mentioned', although Hippocrates did not say that a very red washing-out of the bowel occurred in this woman. And still more absurdly they cite this passage too: 'In burning fevers, with slight chilling and frequent watery-bilious stools, rheum in the eyes is a bad sign, especially if they become cataleptic (katochoi).' And they say it makes no difference whether one says katochos or coma, not knowing that Hippocrates himself distinguishes deep coma from [coma] with sleeplessness. Deep coma, then, has some kinship with what Archigenes and Philippus and their followers call katochē. But not so the wakeful [coma], which they say occurred in this woman at the beginning of the disease, not at the time when the eye was distorted.",
+   "notes": "The final sentence is elliptical (οὐ μὴν ὅτι...); the sense rendered is conjectural. ὑπο περιψύχουσι presumably ὑποπεριψύχουσι.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06791",
+   "ref": "3.3.1.1",
+   "original": "ἀμέλει καὶ τὴν ἐσθῆτα συνεχῶς τινάσσουσιν οἱ ἄνθρωποι καὶ μάλισθ’ ὅταν ὑγρὸν καὶ θερμὸν ᾖ τὸ περιέχον ὡς τῆς ἀκινησίας σηπούσης αὐτήν. οὕτως δὲ καὶ ἡ τῶν ἀρτηριῶν κίνησις ἐν τοῖς ζώοις ἄλλα τέ τινα χρηστὰ καὶ τὴν τοιαύτην ὠφέλειαν παρέχεται. λέγει δὲ καὶ αὐτὸς ὁ Ἱπποκράτης ἐν τοῖς ἀφορισμοῖς, ὡς ἐν τοῖς ἔμπροσθεν ἔφην, ἐν ταῖς ἐπομβρίαις γίνεσθαι σηπεδόνας. ὅτι μὲν οὖν ἀναγκαῖον ἦν σαπῆναι τὰς ἐν τοῖς σώμασιν ὑγρότητας ἐκ τούτων δῆλον. ἴδωμεν δ’ ἐφεξῆς ἕκαστον τῶν κατὰ μέρος ἀκολουθήσαντες αὐτοῦ ταῖς ῥήσεσιν.",
+   "english": "Indeed, people constantly shake out their clothing too, especially when the surrounding air is moist and warm, since lack of motion makes it rot. In the same way the motion of the arteries in animals provides, among other useful things, this kind of benefit as well. And Hippocrates himself says in the Aphorisms, as I said earlier, that in rainy seasons putrefactions occur. That the moistures in the bodies had necessarily to putrefy is clear, then, from these things. Let us next look at each of the particulars, following his statements.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06792",
+   "ref": "3.3.32.3",
+   "original": "οὐ γὰρ οὕτως ἦν ἀμαθὴς ἑρμηνείας Ἑλληνικῆς, ὡς ἁμαρτάνειν ἐν αὐτῇ παισὶν ἄρτι μανθάνειν ἀρχομένοις, ἁμαρτήματα παραπλήσια. φαίνεται μὲν γὰρ πάθος τι φωνῆς δηλοῦσθαι τοῦ κατειλούμεναι γεγραμμένου, πρὸς τῷ κᾂν εἰ κατειλούμεναι γράψαιμεν, οὐ κατὰ τὴν Ἱπποκράτους εἶναι συνήθειαν, ἀήθεσι καὶ σπανίοις ὀνόμασι χρῆσθαι. τοῖς δὲ τὸ διεσταμμένον δηλοῦσθαι νομίζουσιν, ὅτι καὶ τοῦτο μάχεται, κατὰ τὸ προγνωστικὸν, αὐτὸς ἑρμηνεῦσαι τὸ διάστροφον βουληθεὶς οὕτως ἔγραψεν.",
+   "english": "For he was not so ignorant of Greek expression as to make mistakes in it similar to those of children just beginning to learn. For some affection of the voice appears to be indicated by the written [word] kateiloumenai; besides, even if we wrote kateiloumenai, it is not Hippocrates' custom to use unusual and rare words. To those who think that 'distorted' is meant, [one may reply] that this too conflicts, since in the Prognostic, when he wished to express 'distorted' (diastrophon), he wrote as follows.",
+   "notes": "διεσταμμένον is probably corrupt (perhaps for διεστραμμένον 'distorted'), translated so. The quotation follows in the next passage.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06793",
+   "ref": "3.3.70.3",
+   "original": "ἤρκεσε γοῦν εἰπεῖν Σαβίνῳ τοῦτο μόνον, τὸ δὲ χαροπὸν πάνυ ξηρὸν ὂν ἔχει ἐπικλινίαν πρὸς φθίσιν, οὔτε τὸν λογισμὸν εἰπόντι δι’ ὃν τοῦτο ἔγραψεν, οὔθ’ ὅτι τἄλλα μεθ’ ὧν γέγραπται τοῦτο, πάντ’ ἐστὶ ψυχροτέρας τε καὶ ὑγροτέρας κράσεως γνωρίσματα. μή τι οὖν ἀντὶ τοῦ γλαυκοῦ τὸ χαροπὸν ἔγραψεν ὁ Ἱπποκράτης παρενεχθεὶς ἐν τῇ προσηγορίᾳ; τί γὰρ ἂν ἄλλο τις εἴποι; τοῦτο μὲν οὖν ἐν κοινῷ προκείσθω σκοπεῖν. ἐπὶ δὲ τὰ κατάλοιπα τῆς ῥήσεως ἴωμεν. ἐν μὲν γὰρ τοῖς φθινώδεσι νοσήμασιν ἅμα τοῖς προειρημένοις καὶ τοὺς πτερυγώδεις ἔγραψεν, οὐ διὰ τὴν κρᾶσιν, ἀλλὰ διὰ τὴν μοχθηρὰν διάθεσιν τοῦ θώρακος.",
+   "english": "At any rate it was enough for Sabinus to say only this: 'the charopos [eye], being very dry, has an inclination toward consumption', without stating the reasoning for which he wrote this, or [noting] that the other things with which this is written are all signs of a colder and moister temperament. Did Hippocrates, then, perhaps write charopos instead of glaukos, having slipped in the name? For what else could one say? Let this be set before us to examine in common. Let us go on to the rest of the passage. For in consumptive diseases, together with the aforementioned, he also wrote of the 'wing-shouldered' (pterygōdeis), not because of the temperament but because of the bad condition of the chest.",
+   "notes": "χαροπός and γλαυκός are eye-colour terms of disputed sense (roughly bright/light-coloured vs. grey-blue); left transliterated.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06794",
+   "ref": "3.3.71.1",
+   "original": "τὸ δ’ ἐπὶ τῶν πυρετῶν πιθανὸν, ὅτι τε πολλῷ χρόνῳ κατωπτημένης τῆς παχείας ὕλης εἰκὸς ἦν εἰς μελαγχολικὸν περίττωμα μετάπτωσιν γενέσθαι καὶ ὅτι τοῦ ἔτους ἡ ὥρα φθινόπωρον ἦν. ἀλλ’ οὐκ ἂν ἀπέθνησκον πολλοὶ τεταρταίων πυρετῶν πλεονασάντων· καὶ γὰρ ἡμεῖς ἀκίνδυνον ἴσμεν ὅσον ἐφ’ ἑαυτῷ τὸν πυρετὸν τοῦτον, ὡς ὁ Ἱπποκράτης ἀπεφήνατο περὶ αὐτοῦ.",
+   "english": "What [is said] of the fevers is plausible, both because, the thick matter having been thoroughly baked over a long time, it was likely that a change into a melancholic residue would occur, and because the season of the year was autumn. But many would not have died when quartan fevers predominated; for we too know that this fever is, as far as it itself is concerned, without danger, as Hippocrates declared about it.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06795",
+   "ref": "3.3.71.2",
+   "original": "οἷον ἐν Κρανῶνι γενόμενόν ποτε εὐθέως ἄνθρακας ἐγέννησεν. εἰ δέ γε καὶ νῦν ἐγεγόνει τοιοῦτο, πλείστους ἂν διεφθάρκει τὸ πλῆθος τῶν μοχθηρῶν τε καὶ διασηπομένων χυμῶν, αὐξῆσάν τε καὶ προδιασῆψαν, ὥστε καὶ ψεῦδος εἶναι φαίνεται καὶ παρὰ τὴν Ἱπποκράτους γνώμην τὸ τὰς ἐν χειμῶνι γενομένας νόσους ἐν θέρει παύεσθαι πάντως, τοῦ προσγράφοντος αὐτὸ, τίνας Ἱπποκράτης ἡγεῖται τῶν ὡρῶν ἑκάστης οἰκείας νόσους νοσήσαντας. οὐ μὴν οὐδὲ τὰ τούτων ἐφεξῆς γεγραμμένα τῶν ἀναγκαίων ἐστὶν ἐνταυθοῖ λελέχθαι δι’ ἄλλων αὐτῷ καθόλου παρηγγελμένα, διὸ καὶ παραλείψω τελέως αὐτά.",
+   "english": "Such [a condition], having once occurred at Crannon, at once produced carbuncles. And if something of this kind had occurred now too, the mass of bad and putrefying humours, having increased and putrefied beforehand, would have destroyed very many. So it appears both false and contrary to the opinion of Hippocrates that diseases arising in winter cease altogether in summer, [the fault being] of the one who added it, [not knowing] which diseases Hippocrates considers proper to each of the seasons. Nor indeed are the things written next after these among what needs to be said here, since they have been prescribed by him in general terms elsewhere; therefore I shall pass over them entirely.",
+   "notes": "The clause 'τοῦ προσγράφοντος αὐτὸ, τίνας ... νοσήσαντας' is syntactically difficult and possibly corrupt; 'not knowing' is supplied to make sense of it.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06796",
+   "ref": "3.3.71.3",
+   "original": "Ἑκκαίδεκα μετὰ τὴν κατάστασιν ἀῤῥώστους ἔγραψεν ὁ Ἱπποκράτης, ὡς μέν τινες οἴονται τῶν ἐν αὐτῇ νοσησάντων, ἐπειδὴ καὶ αὐτὸς εἶπεν ἐπὶ τῇ τελευτῇ τῆς διηγήσεως τῶν κατ’ αὐτὴν γενομένων οὕτως. ἦν δὲ πᾶσι τοῖς ὑπογεγραμμένοις χαλεπώτατον μὲν τὸ ἔαρ. ἐγχωρεῖ δὲ καὶ ἐπὶ τῶν προγεγραμμένων εἰρῆσθαι τὸ ὑπογεγραμμένον, οὔσης γε τοιαύτης χρήσεως παρὰ τοῖς πολλοῖς. ἐν γὰρ τοῖς ιε΄ τούτοις ἀῤῥώστοις ἕτερον εἶδός ἐστι νόσων παρὰ τὰς εἰρημένας ὑπ’ αὐτοῦ κατὰ τὴν λοιμώδη κατάστασιν.",
+   "english": "After the constitution Hippocrates wrote up sixteen patients, who, as some think, were among those who fell ill in it, since he himself said at the end of his account of what happened during it, as follows: 'For all those written below, the spring was most severe.' But it is also possible that 'written below' was said of those written above, since such usage exists among most people. For in these fifteen patients there is a different kind of disease from those he described in the pestilential constitution.",
+   "notes": "The text gives sixteen and then fifteen patients; the discrepancy stands in the Greek.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06797",
+   "ref": "3.3.72.1",
+   "original": "πολλάκις δὲ τοιοῦτον οὖρον ἐθεασάμην οὐρηθὲν ἐπ’ οὐδενὶ κακῷ τοῦ κάμνοντος, ἀλλ’ ἔσθ’ ὅτε γε τοὐναντίον ἅπαν, ἐπὶ πέψει τοῦ νοσήματος. οὐ μὴν οὐδ’ ὤφθη ποτ’ οὖρον ὅλον οὕτω λιπαρὸν ὡς ἔλαιον. ὃ γὰρ ἄρτι διῆλθεν, οὖρον ἐοικὸς ἐλαίῳ κατὰ χροιὰν καὶ σύστασιν, ἥκιστα λιπαρὸν φαίνεται, καὶ αὐτὸς δὲ ὁ Ἱπποκράτης ἐν προγνωστικῷ φησι, καὶ τὰς λιπαρότητας δὲ τὰς ἄνω ἐφισταμένας ἀραχνοειδέας ἐπισκέπτεσθαι, συντήξεως γὰρ σημεῖον. ἄνωθεν μὲν οὖν ἐφισταμένας λιπαρότητας εἴδομεν πολλάκις. οὔτε δ’ ὅλον οὐρηθέν ποτε τοιοῦτον οὖρον οὔτε κατὰ τὸ μέσον αὐτὸ λιπαρότητας ἐμφερομένας, πολὺ δέ τι μᾶλλον οὐδ’ ὑποχωρούσας κάτω.",
+   "english": "I have often seen such urine passed with no harm to the patient, but sometimes, on the contrary, entirely the opposite: on the coction of the disease. Yet never has a whole urine been seen as oily as oil. For what was just described, urine resembling oil in colour and consistency, appears least oily; and Hippocrates himself says in the Prognostic: 'And one should also look at the oily films settling on top like cobwebs, for they are a sign of colliquation.' Oily films settling on top, then, we have often seen. But never has such urine been passed as a whole, nor [with] oily films carried in its middle, and much less [with them] settling to the bottom.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06798",
+   "ref": "3.3.73.1",
+   "original": "καὶ τοὐπίπαν δὲ μελαγχολικὸν αἷμα φαίνεται τὸ κενούμενον αὐταῖς εἶναι μετὰ τὸν τόκον, ὥστε καὶ τὰ οὖρα πάσαις ὁρᾶται κεχρωσμένα, καθάπερ ἀσβόλης τινὸς ἐμπεπτωκυίας αὐτῆς, ὅπερ ἀμέλει κᾀπὶ ταύτης τῆς γυναικὸς ἔγραψεν ὁ Ἱπποκράτης, ἐπὶ τῆς ια΄ ἡμέρας, εἰπὼν, οὖρα πολλὰ, λεπτὰ, μέλανα. καὶ οἶδά γέ τινα διὰ τοιούτων οὔρων πολλῶν ἐκκενωθέντων ὠφεληθεῖσαν, ἄλλοτε δὲ ταύτης οὐκ ἐξεκενώθη τὸ τοιοῦτον, μετέπεσε γὰρ ἂν αὐτοῖς εἰς τὸ ὑδατῶδες τὰ οὖρα πολλὰ, λεπτὰ, μέλανα.",
+   "english": "And in general the blood evacuated in them after childbirth appears to be melancholic, so that in all of them the urine is seen to be coloured, as if some soot had fallen into it; which indeed Hippocrates wrote also in the case of this woman, on the eleventh day, saying: 'urine abundant, thin, black'. And I know of a woman who was benefited by much such urine being evacuated; but in this woman's case such matter was not evacuated at other times, for otherwise the abundant, thin, black urine would have changed in them into watery [urine].",
+   "notes": "The last sentence is obscure and probably corrupt (αὐτοῖς, and the logic of the clause); the rendering is tentative.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06799",
+   "ref": "3.3.74.1",
+   "original": "Καὶ τούτου πάνθ’ εὑρήσεις ἀπ’ ἀρχῆς τά τε συμπτώματα καὶ τὰ σημεῖα θανατώδη γινόμενα καὶ τοὺς παροξυσμοὺς ἐν ἀρτίαις, ὡς αὐτὸς ὁ Ἱπποκράτης ἐπεσημήνατο, προσθεὶς τῇ τῆς ιβ΄ ἡμέρας διηγήσει, καθ’ ἣν ἀποθανεῖν αὐτὸν ἔφη, ἐν ἀρτίῃσιν οἱ πόνοι τούτῳ. καὶ γὰρ ὁ θάνατος ὑποπέπτωκε τῷ γενικῷ σημαινομένῳ τῆς κρίσεως, ὡς ἐδείχθη. πεφύλακται δὲ κᾀπὶ τούτου τοῦ ἀῤῥώστου τὸ τὰς κρίσεις γενέσθαι τοὐπίπαν, ἐν αἷς οἱ πόνοι μείζους. ἐν ἀρτίαις γὰρ αὐτῶν γενομένων ἠκολούθησε καὶ ὁ θάνατος ἐν ἀρτίᾳ.",
+   "english": "In this man's case too you will find that from the beginning all the symptoms and signs were deadly, and the exacerbations [fell] on even days, as Hippocrates himself noted, adding to the account of the twelfth day, on which he said he died: 'his pains were on even days'. For death falls under the general meaning of 'crisis', as was shown. And in this patient too it is observed that crises generally occur on the days on which the pains are greater; for since these occurred on even days, death too followed on an even day.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06800",
+   "ref": "3.3.74.3",
+   "original": "εἰ δὲ μηδὲ ἐκφωνεῖν οἷοί τε εἶεν, ἐσχάτης νεκρώσεως ἐστὶ τὸ τοιοῦτον γνώρισμα τῶν οὕτως ἐχόντων, μὴ οἰμωζόντων μήτε στεναζόντων μήθ’ ὅλως φθέγγεσθαι δυναμένων. Σαβῖνος δὲ καὶ ταῦτα τοῖς ἄλλοις τὸν μὲν οὐδ’ ὅλως ἔχοντα φωνὴν οὐδεμίαν ἄναυδον εἰρῆσθαι νομίζει, τὸν δ’ ἄφωνον ἐν ἴσῳ τῷ ἀπόπληκτον ὑπὸ τοῦ Ἱπποκράτους γεγράφθαι φησὶν, ὥσπερ οὐ δυναμένου καλέσαι τὸν οὕτω διακείμενον ἀπόπληκτον. οὐ μὴν οὐδὲ τἄλλα τὰ κατὰ διάθεσιν εἰρημένα συνᾴδει τῷ γεγονέναι τὸν προκείμενον ἄῤῥωστον ἀπόπληκτον.",
+   "english": "And if they could not even utter a sound, such a thing is a sign of the utmost deadening in those so affected, who neither groan nor sigh nor are able to make any sound at all. But Sabinus, in this as in other things, thinks that the one who has no voice at all is called 'speechless' (anaudos), and says that 'voiceless' (aphōnos) was written by Hippocrates as equivalent to 'apoplectic', as though he could not have called the person in that state apoplectic. Nor indeed do the other things said about his condition agree with the patient in question having been apoplectic.",
+   "notes": "'καὶ ταῦτα τοῖς ἄλλοις' is elliptical; rendered 'in this as in other things'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06801",
+   "ref": "3.3.79.1",
+   "original": "ὅ γ’ οὖν Ἀναξίων οὗτος μέχρι μὲν οὖν βήττων ἦν, οὐδὲν δ’ ἀπέπτυεν ὅλως, ἀπεπτοτάτην εἶχε τὴν πλευρῖτιν. ια΄ δ’ ἡμέρᾳ πτύειν ἀρξάμενος ἐδήλωσε πέττεσθαι τὴν νόσον, ἔπειτα κατὰ βραχὺ τῷ χρόνῳ προϊόντι οὕτως ἔγραψεν ὁ Ἱπποκράτης, κατὰ τὴν κζ΄ ἀνῆγε πέπονα πολλὰ, οὔροισιν ὑπόστασις λευκὴ καὶ διὰ τοῦτο τελέως ἐκρίθη τῇ λ΄ καὶ δ΄.",
+   "english": "This Anaxion, then, as long as he was coughing but spat up nothing at all, had his pleurisy wholly unconcocted. Beginning to spit on the eleventh day, he showed that the disease was being concocted; then gradually, as time went on, Hippocrates wrote thus: 'on the twenty-seventh he brought up much concocted matter; in the urine a white sediment'; and for this reason he had a complete crisis on the thirty-fourth.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06802",
+   "ref": "3.3.81.1",
+   "original": "Καὶ αὐτὸς ὁ Ἱπποκράτης ἐπεσημήνατο λέγων, οἱ παροξυσμοὶ καὶ οἱ πόνοι ἐν ἀρτίῃσι. διὰ τοῦτο γοῦν ἐκρίθη μετὰ τὴν κ΄ ἡμέραν ἱδρῶτι. τὰ δὲ κατὰ μέρος ὁ μεμνημένος ἁπάντων, ὡς ἔμπροσθεν ἐξηγησάμην ἔν τε τούτῳ τῷ βιβλίῳ καὶ τοῖς πρὸ αὐτοῦ δυσὶ καὶ πρὸ τούτων τῷ προγνωστικῷ τε καὶ προῤῥητικῷ, δυνατὸς ἂν εἴη πάντ’ ἐξευρίσκειν αὐτός.",
+   "english": "And Hippocrates himself noted it, saying: 'the exacerbations and the pains on even days'. For this reason, at any rate, he had a crisis with sweating after the twentieth day. As for the details, anyone who remembers everything, as I explained earlier both in this book and in the two before it, and before these in [my commentaries on] the Prognostic and the Prorrhetic, would be able to find them all out for himself.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06803",
+   "ref": "6.1.pr.1",
+   "original": "ὥσπερ οὖν τοῦτο προεῖπον, οὕτω καὶ τόδε προειπεῖν ἀναγκαῖόν ἐστιν, ὡς τὸ τῆς ἑρμηνείας εἶδος ἐν τῷ βιβλίῳ πάμπολυ διαλλάττει τοῦ κατὰ τὸ πρῶτον καὶ τρίτον τῶν ἐπιδημιῶν, ἃ σχεδὸν ἅπαντες ἡγοῦνται γεγράφθαι πρὸς ἔκδοσιν ὑφ’ Ἱπποκράτους μόνα. τῶν δ’ ἄλλων πέντε τὸ μὲν πέμπτον τε καὶ ἕβδομον ἐναργῶς εἶναι νόθα, τὸ δ’ ἕκτον τοῦτο καὶ πρὸ αὐτοῦ τὸ δεύτερον, ἐξ ὧν αὐτὸς Ἱπποκράτης ἑαυτῷ παρεσκευάσατο, φασὶν ὑπὸ Θεσσαλοῦ τοῦ υἱέος αὐτοῦ συντεθῆναι. καὶ τινὲς μὲν ἡγοῦνται καὶ αὐτόν τι παραγράψαι τὸν Θεσσαλὸν, τινὲς δὲ ἄλλους τῶν μετ’ αὐτόν. ἐν μὲν οὖν τῷ πρώτῳ καὶ τῷ τρίτῳ τῶν ἐπιδημιῶν καταστάσεις τέ τινας γράφει τοῦ περιέχοντος, ἐφ’ αἷς τὰ ἐπιδημήσαντα νοσήματα διηγοῦνται.",
+   "english": "Just as I said this beforehand, so it is necessary to say this too beforehand: that the style of expression in the book differs very greatly from that in the first and third [books] of the Epidemics, which almost everyone thinks are the only ones written by Hippocrates for publication. Of the other five, [they say] the fifth and seventh are clearly spurious, while this sixth and, before it, the second were, they say, compiled by his son Thessalus from the [notes] that Hippocrates himself had prepared for his own use. And some think that Thessalus himself also added something, others that others after him did. In the first and third books of the Epidemics, then, he describes certain constitutions of the surrounding air, in connection with which the diseases that were epidemic are recounted.",
+   "notes": "'διηγοῦνται' (plural, 'are recounted') is odd; perhaps for διηγεῖται.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06804",
+   "ref": "6.1.2.1",
+   "original": "Ὃ καλοῦσιν ἄμβλωσιν οἱ Ἀττικοὶ, τοῦτο συνήθως Ἱπποκράτης ἀποφθορὰν ὀνομάζει καὶ τὰ ῥήματα δὲ τὰ περικείμενα τῇ προσηγορίᾳ τῇδε καὶ τὰς ὑπὸ τῶν γραμματικῶν ὀνομαζομένας μετοχὰς ἀνάλογον αὐτῇ γράφει. τὸ δ’ ἀμβλώσκειν, ἴσως γάρ τις ἀγνοεῖ καὶ τοῦτ’ αὐτὸ, κατὰ τῆς ἀτελοῦς τῶν ἐμβρύων ἐκπτώσεως ἐπιφέρουσιν, ὅπως ἂν ᾖ γεγονυῖα, καὶ τὰ φάρμακα δὲ τὰ τοῦτο ἐργαζόμενα καλοῦσιν ἀμβλωτικά.",
+   "english": "What the Attic writers call *amblōsis* [miscarriage], Hippocrates usually names *apophthora*, and he writes the verbs belonging to this noun, and the forms the grammarians call participles, correspondingly. As for *amblōskein* (for perhaps someone is unaware of this very thing too), they apply it to the incomplete expulsion of embryos, however it has come about, and they call the drugs that bring this about *amblōtika* [abortifacients].",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06805",
+   "ref": "6.1.2.1",
+   "original": "ἐθεασάμην δὲ καὶ τὴν εἰς ἰσχίον ἐκ μήτρας ἀπόστασιν, ἀλλ’ οὐκ ἐπὶ πολλῶν, καίτοι πολλὰς ἐφ’ ὑστέρᾳ κακοπραγούσῃ χρονίως πασχούσας εἶδον. ὀκνηρῶς οὖν εἶχον ζητεῖν τὴν αἰτίαν οὗ μήπω τὴν ὕπαρξιν εὗρον ἀληθευομένην. ὁ γὰρ Ἀριστοτέλης ἀξιοῖ προεγνωσμένου βεβαίως τοῦ ὅτι, ζητεῖσθαι χρῆν τὸ διότι. πρὶν δ’ ὅτι γίνεται βεβαίως μαθεῖν, εἴ τις ζητοίη τὸ διότι, φανερός ἐστιν ἀδολεσχεῖν τε καὶ ληρεῖν προῃρημένος, οὐ τἀληθὲς εὑρεῖν ὀρεγόμενος.",
+   "english": "I have also seen the deposit from the womb to the hip, but not in many cases, although I saw many women suffering chronically from a womb in bad condition. So I was reluctant to seek the cause of something whose existence I had not yet found to be true. For Aristotle holds that the 'why' ought to be sought only when the 'that' is firmly known beforehand. If someone should seek the 'why' before learning firmly that a thing happens, he is plainly one who has chosen to babble and talk nonsense, not one who longs to find the truth.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06806",
+   "ref": "6.1.5.1",
+   "original": "ἐκλάμψεις οὖν τοῦ θερμοῦ βούλονται λέγειν αὐτὸν οἱ καλέσαντες ἑαυτοὺς Ἱπποκρατείους, ἐκ μεταφορᾶς ἀπὸ τῆς ἐκτὸς φλογὸς, ἥτις ὅταν ἐπικρατήσῃ τῆς ὕλης, ὥστε ἑαυτῇ συνεξομοιῶσαι πᾶσαν, ἐξέλαμψέ τε καὶ φανερὰ πᾶσιν ἐγένετο, κατακεκρυμμένη πρόσθεν, ἡνίκα τὴν ὕλην ὑγρὰν οὖσαν ἐξήραινεν. ὁ δέ γε Ζεῦξις, ὡσαύτως δ’ αὐτῷ καὶ τῶν ἐμπειρικῶν τινες, οὐχ οὕτως ἀκούουσι τὴν ἔκλαμψιν, ἀλλ’ ἑτέρῳ τινὶ τρόπῳ· μαθήσῃ δὲ τῆς τοῦ Ζεύξιδος ῥήσεως παραγραφείσης ὧδε. νήπια λέγει ὁ Ἱπποκράτης τὰ μέχρι ἥβης, ταῦτα δὲ κατὰ τὸν τοῦ ἡβάσκειν χρόνον ἐκλάμπει, ἐμφατικῶς ἄγαν τῇ μεταφορᾷ χρησάμενος. καὶ γὰρ σαρκοῦται τὰ τηνικαῦτα μᾶλλον καὶ εὐερνέστερα γίνεται καὶ τῷ χρώματι καὶ τῷ εἴδει χαριέστερα καὶ τῇ δυνάμει καὶ λογισμῷ βελτίονα.",
+   "english": "So those who have called themselves Hippocrateans want him to mean 'flarings-out' of the heat, by a metaphor from the external flame, which, when it has mastered its fuel so as to assimilate all of it to itself, flares out and becomes visible to all, having been hidden before, while it was drying out the fuel that was moist. But Zeuxis, and likewise some of the Empiricists with him, do not understand the 'flaring-out' in this way but in some other manner; you will learn it from the passage of Zeuxis quoted here: 'Hippocrates calls \"infants\" those up to puberty, and these flare out at the time of reaching puberty, using the metaphor very expressively. For at that time they put on more flesh, become more thriving, more graceful in colour and form, and better in strength and reasoning.'",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06807",
+   "ref": "6.1.8.1",
+   "original": "ὡσαύτως δὲ καὶ θερμὰς ἤτοι τὰς θερμότητος αἴσθησιν ἐχούσας ἢ παρηγορουμένας ὑπὸ τῶν ψυχόντων. ἔνιοι δὲ ψυχρὰς μὲν εἰρῆσθαί φασι τὰς βραχείας, θερμὰς δὲ τὰς μεγάλας, οὐ συνήθως τοῖς Ἕλλησιν ἀκούοντες τῶν σημαινομένων. ἐν τίνι δὲ τοῦ ἔτους ὥρᾳ ὁ Ἱπποκράτης ταῦτα ἔγραψεν ἀγνοοῦντες ἡμεῖς οὐδὲ περὶ τοῦ πότε συνέστησαν ἢ πῶς ἢ μέχρι πόσου παρέμειναν αἱ ὀδύναι δυνάμεθα σαφῶς εὑρεῖν. τὸ δ’ οὖν τὰς νεαρὰς μὲν αὐτῷ αἵματι γίνεσθαι τοὐπίπαν ἐν ἴσῳ, τοῦ ὑφ’ αἵματος θερμοῦ τε δηλονότι καὶ πολλοῦ, ἐπὶ δὲ τῶν παλαιῶν μὴ προσθεῖναι τὸν χυμὸν, ἐνδεικτικόν ἐστι τοῦ τὰς παλαιὰς ὑφ’ ἑτέρου τινὸς χυμοῦ γίνεσθαι ψυχροῦ καὶ τὰ ἀπὸ ἰσχίου δὲ ψυχρὰ γεγονέναι φησὶν αὐτοῖς, ἤτοι πάθη λέγων ἢ ἀλγήματα, ψυχροῦ δηλονότι καὶ ταῦτα ἐργαζομένου χυμοῦ.",
+   "english": "Likewise also 'hot' [pains] are either those that carry a sensation of heat or those relieved by cooling things. Some say that 'cold' is used of short [pains] and 'hot' of great ones, not understanding the meanings in the way usual among the Greeks. Since we do not know in what season of the year Hippocrates wrote these things, we cannot clearly find out when the pains arose, or how, or for how long they persisted. At any rate, his saying that the recent ones occur 'in general with blood itself, equally', that is, from blood which is evidently hot and abundant, while in the case of the old ones he did not add the humour, indicates that the old ones arise from some other, cold humour; and he says that the [affections] from the hip were cold in them, meaning either affections or pains, these too evidently produced by a cold humour.",
+   "notes": "The quoted phrase about 'blood itself... equally' (ἐν ἴσῳ) is obscure; rendering tentative.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06808",
+   "ref": "6.1.10.1",
+   "original": "τὸ μὲν οὖν τῶν ἄλλων ἧττον ἄν τις θαυμάσειε, τὸ δὲ Σαβίνου καὶ Ῥούφου τοῦ Ἐφεσίου, τοῖς Ἱπποκράτους συγγράμμασιν ὡμιληκότων ἀνδρῶν οὐ παρέργως, ἄξιον ὄντως ἐστὶ θαύματος, εἰ μὴ πολλάκις ἐθεάσαντο ῥίγους κρισίμου προηγησαμένην ἐπίσχεσιν οὔρου. περὶ ἧς νῦν ὁ Ἱπποκράτης γράφει, προγιγνώσκειν ἡμᾶς διδάσκων ἐσόμενον ἐν νόσῳ κρίσιμον ῥῖγος. ἐὰν ἐν ὀξεῖ πυρετῷ τἄλλα σοι σημεῖα σωτήρια φαίνηται καὶ κρίσιν ἐλπίζῃς ὑπόγυιον ἔσεσθαι, γινώσκειν σε χρὴ τῶν οὔρων ἐπισχεθέντων ἐξ ἀνάγκης ἔσεσθαι τὸ κρίσιμον ῥῖγος.",
+   "english": "One might wonder less at the others, but in the case of Sabinus and Rufus of Ephesus, men who engaged with the writings of Hippocrates not superficially, it is truly worthy of wonder if they did not often see retention of urine preceding a critical rigor. It is about this that Hippocrates now writes, teaching us to foreknow a critical rigor that will occur in a disease. If in an acute fever the other signs appear to you favourable and you expect a crisis to be imminent, you must know that, when the urine has been retained, the critical rigor will necessarily occur.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06809",
+   "ref": "6.1.13.1",
+   "original": "Ἀπὸ τῶν ἐν τῇ γῇ φυομένων οἱ ἄνθρωποι φύματα κεκλήκασιν τοὺς παρὰ φύσιν ὄγκους ὅσοι τοὐπίπαν ἄνευ τῆς ἔξωθεν αἰτίας γίνονται, μάλιστα οὖν ὀνομάζουσιν οὕτω τὰ πρὸς τὸν ἐκτὸς τόπον ἐπειγόμενα. τῷ δ’ οὐκ ἔχειν ἕτερον ὄνομα καὶ τὰ πλατέα καὶ βραχεῖ τοῦ κατὰ φύσιν ὑψηλότερα. καὶ ταῦθ’ ὡσαύτως ἐνίοτε προσαγορεύουσιν, ὅπερ καὶ Ἱπποκράτης ἐποίησεν, ἀγαθὰ μὲν εἶναι λέγων τὰ ἐξοιδοῦντα, τουτέστιν ἐφ’ ὦν ἀξιόλογος ἡ ἐξόγκωσις ἢ ὅσα τὴν αὔξησιν οὐκ ἐς τὴν ἔσω χώραν, ἀλλ’ εἰς τὴν ἔξω ποιεῖται, καθάπερ ἐν προγνωστικῷ γράφων εἶπεν· Ὅσα μὲν ἔξω τρέπεται ἄριστά ἐστιν ὡς μάλιστα ἐκκλίνοντα καὶ εἰς ὀξὺν ἀποκορυφοῦντα.",
+   "english": "From the things that grow (*phyetai*) in the earth, people have called *phymata* [growths] the swellings contrary to nature that arise in general without an external cause; and they name thus especially those that press toward the outside. Because there is no other name, also flat ones, raised a little above the natural level, they likewise sometimes call by this name, as Hippocrates also did, saying that those that swell outward are good, that is, those in which the swelling is considerable, or those that make their growth not into the inner region but outward, as he said writing in the Prognostic: 'Those that turn outward are best, inclining as much as possible and coming to a sharp head.'",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06810",
+   "ref": "6.1.29.1",
+   "original": "Κᾀνταῦθα πάλιν ἐπὶ τῇ τελευτῇ τοῦ λόγου προσέθηκε καὶ τὰ ἄλλα τοιαῦτα, διὰ τὸ μόνας αὐτῷ τὰς ἀξιολόγους διαφορὰς τῶν πυρετῶν ὑποτετυπῶσθαι. πρώτας μὲν οὖν ἔγραψε τὰς κατ’ αὐτὴν τὴν οἰκείαν τῶν πυρετῶν οὐσίαν, οὐσία δὲ αὐτῶν ἐστὶν, οὐ καθ’ Ἱπποκράτην μόνον καὶ τοὺς ἀρίστους ἰατροὺς, ἀλλὰ καὶ κατὰ τὴν κοινὴν πάντων ἀνθρώπων ἔννοιαν ἡ παρὰ φύσιν θερμασία, μάλιστα μὲν εἰς ὅλον ἐκτεταμένη τὸ ζῶον, εἰ δὲ μὴ, ἀλλὰ πάντως, ἤτοι γε ἐν τοῖς πλείστοις μορίοις ἢ ἐν τοῖς κυριωτάτοις ὑπάρχουσα·",
+   "english": "Here too, again, at the end of the statement he added 'and other such things', because he had only sketched the noteworthy differences of fevers. First, then, he wrote those according to the proper essence of fevers itself; and their essence, not only according to Hippocrates and the best physicians but also according to the common notion of all people, is heat contrary to nature, ideally extended through the whole animal, or if not, then at any rate present either in most parts or in the most important ones;",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06811",
+   "ref": "6.1.29.22",
+   "original": "ἐπὶ δὲ τοῦ νέφους δοκεῖ τετάχθαι κατὰ τόδε τὸ ἔπος ἐν Σαλμωνεῖ Σατύροις παρὰ Σοφοκλεῖ·",
+   "english": "It seems to be used of the cloud in this verse in Sophocles' *Salmoneus*, a satyr play:",
+   "notes": "The verse quoted is not included in the passage; the word under discussion is not stated here.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00787",
+   "ref": "6.1.29.24",
+   "original": "καὶ παρ’ Ἰβύκῳ·",
+   "english": "And in Ibycus:",
+   "notes": "Fragmentary unit introducing a quotation from the poet Ibycus. The quotation itself is not given.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06812",
+   "ref": "6.1.29.30",
+   "original": "ἐπεὶ δὲ οἱ μετὰ φλυκταινῶν ἀπὸ συμπτώματος ὀνομάζονται, πιθανῶς ἂν ἀκούοιμεν ἀπὸ συμβεβηκότος οὕτως αὐτὸν ὀνομάζειν τοὺς λοιμώδεις πυρετούς. ἔτι γὰρ ἀμέλει καὶ τοῦθ’ ἕν τι πυρετῶν εἶδος. ὅτι δ’ ἐν αὐτῷ φλύκταιναι γίνονται καὶ ὁ Θουκυδίδης μαρτυρεῖ γράφων οὕτως· καὶ τὸ μὲν ἔξωθεν ἁπτομένῳ σῶμα οὔτε ἄγαν θερμὸν ἦν οὔτε χλωρὸν, ἀλλ’ ὑπέρυθρον, πελιδνὸν, φλυκταίναις μικραῖς καὶ ἕλκεσιν ἐξηνθηκός. ὅσοι δὲ τοὺς τῆς ψυχῆς ἁπτομένους πυρετοὺς εἰρῆσθαί φασι πεμφιγώδεις, πόῤῥω τῆς προκειμένης τῶν πυρετῶν διαφορᾶς ἀπεχώρησαν. ὠνόμαζον γὰρ ἔνιοι τῶν παλαιῶν καὶ φρενιτικόν τινα πυρετὸν, ὥσπερ ἀμέλει καὶ ληθαργικὸν καὶ πλευριτικὸν καὶ περιπνευμονικόν.",
+   "english": "Since those [fevers] with blisters are named from a symptom, we might plausibly understand that he thus names pestilential fevers from an accompanying feature. For this too is indeed one kind of fever. That blisters arise in it Thucydides also testifies, writing thus: 'The body, to one touching it from outside, was neither very hot nor pale, but reddish, livid, broken out with small blisters and sores.' Those who say that fevers affecting the mind are called *pemphigōdeis* have departed far from the difference of fevers under discussion. For some of the ancients did name a certain fever phrenitic, just as also lethargic, pleuritic and peripneumonic.",
+   "notes": "*pemphigōdeis*: 'blistery' (or 'breathy'), Hippocrates' term under discussion.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06813",
+   "ref": "6.1.29.30",
+   "original": "πελιὰς πυρετὸς ἴσχει καὶ βρεγμὸς ἄλλοτε καὶ ἄλλοτε καὶ τὴν κεφαλὴν ἀλγέει καὶ τὰ σπλάγχνα ὀδύνη ἴσχει καὶ ἐμέει χολὴν καὶ ὅταν ὀδύνη ἔχῃ, ἐνορᾷν οὐ δύναται ὅτι βαρύνεται, καὶ ἡ γαστὴρ ξηρὴ γίνεται καὶ ὁ χρὼς πελιὸς ἅπας καὶ τὰ χείλεα οἷάπερ μόρα τρώξαντι καὶ τῶν ὀφθαλμῶν τὰ λευκὰ πελιὰ καὶ ἐξορᾷ ὥσπερ ἀπαγχόμενος, ὅτε δὲ ἧσσον τοῦτο πάσχει, καὶ μεταβάλλει πολλάκις. ἀλλὰ κᾀν τῷ περὶ νούσων Ἱπποκράτει γεγραμμένῳ τῷ δοκοῦντι τοῖς περὶ τὸν Διοσκορίδην ὑφ’ Ἱπποκράτους γεγράφθαι τοῦ Θεσσαλοῦ υἱέος εἴρηταί τις νόσος πελιή. τοῦ βιβλίου δέ ἐστιν ἡ ἀρχὴ ἥδε· οὐρέεται πολλὴν, ὅταν ὑπερθερμανθῇ ἡ κεφαλή. περὶ δὲ τῆς πελιῆς νόσου κατὰ λέξιν οὕτω γράφει. πελιὴν πυρετὸς ἴσχει ξηρὸς καὶ φρὶξ ἄλλοτε καὶ ἄλλοτε καὶ τὴν κεφαλὴν ἀλγέει καὶ τὰ σπλάγχνα ὀδύνη ἴσχει καὶ ἐμέει χολὴν, καὶ ὅταν ἡ ὀδύνη ἔχῃ, οὐ δύναται ἐνορᾷν, ἀλλὰ βαρύνεται, καὶ ἡ γαστὴρ ξηρὰ γίνεται καὶ ἡ χρόα πελιδνὴ καὶ τὰ χείλεα καὶ τῶν ὀφθαλμῶν τὰ λευκὰ πελιδνὰ καὶ ἐξορᾷ ὡς ἀγχόμενος.",
+   "english": "'Livid fever holds [the patient], and sweating now and then, and he has a headache, and pain holds the viscera, and he vomits bile; and when the pain holds him he cannot look, because he is weighed down; and the belly becomes dry, and the whole skin livid, and the lips as of one who has eaten mulberries, and the whites of the eyes livid, and he stares like one being strangled; at times he suffers this less, and he changes often.' But also in the [book] On Diseases written under Hippocrates' name, which Dioscorides and his followers think was written by Hippocrates the son of Thessalus, a certain livid disease is described. The beginning of the book is this: 'He urinates much, when the head is overheated.' About the livid disease he writes word for word thus: 'A dry fever holds the livid [disease], and shivering now and then, and he has a headache, and pain holds the viscera, and he vomits bile; and when the pain holds him he cannot look, but is weighed down; and the belly becomes dry, and the colour livid, and the lips and the whites of the eyes livid, and he stares like one being choked.'",
+   "notes": "First quotation is from Euryphon (named in preceding context). 'Thessalus' son' assumed: Greek τοῦ Θεσσαλοῦ υἱέος could mean 'son of Thessalus'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p00788",
+   "ref": "6.2.1.1",
+   "original": "διὸ καὶ τὴν δευτέραν συλλαβὴν τοῦ στενυγρῶσαι, ψιλοῦντες οὐ δασύνοντες ἀναγνωστέον ἐστίν. οὐ γὰρ ἔγκειται τὸ ὑγρὸν ἐν τῇ λέξει, καθάπερ ἄν τις οἰηθείη, μὴ γινώσκων ὑπὸ τῶν Ἰώνων τὸ στενὸν ὀνομάζεσθαι στενυγρόν. ἀλλὰ τοῦτό γε μαρτύριόν ἐστιν αὔταρκες, τὸ παρὰ τῷ Σιμωνίδῃ γεγραμμένον ἐν τοῖσδε τοῖς ἔπεσιν·",
+   "english": "Therefore the second syllable of *stenygrōsai* [to narrow] must also be read with smooth breathing, not rough. For the word does not contain *hygron* ('moist'), as someone might suppose who does not know that the Ionians call what is narrow (*stenon*) *stenygron*. But sufficient evidence of this is what Simonides wrote in the following verses:",
+   "notes": "The point concerns breathing: reading -υγρ- with rough breathing would wrongly suggest ὑγρόν 'moist'. The Simonides quotation is not included.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06814",
+   "ref": "6.2.16.1",
+   "original": "ἀλλ’ οὐδ’ ἐνταῦθα δυνατὸν γνῶναι πότερον διὰ τῶν τῆς δεξιᾶς μήτρας φλεβῶν ἡ ἔκκρισις ἢ διὰ τῶν τῆς ἀριστερᾶς ἢ δι’ ἀμφοτέρων ἐγένετο. ταύτῃ μὲν οὖν δυσδιάγνωστον ἢ ἄγνωστον ἔχει τὸ κατ’ ἴξιν. ἐφ’ ὧν δ’ ἐστὶ διαγνῶναι τὸ κατ’ ἴξιν κᾀπὶ τούτων ὡς ἔοικεν ὁ Ἱπποκράτης σκεπτέον εἶναί φησιν ᾗ διὰ παντὸς, ἐπὶ τῶν εἰς τὰ κάτω μόρια γινομένων ἀποστάσεων, ἀμείνους εἰσὶν αἱ κατ’ ἴξιν.",
+   "english": "But here too it is not possible to know whether the discharge took place through the veins of the right side of the womb, or through those of the left, or through both. In this way, then, the matter of correspondence of side (*kat' ixin*, \"in line\") is hard to diagnose or unknowable. But in those cases where it is possible to diagnose the correspondence of side, in these too, it seems, Hippocrates says one must consider whether, always, among the abscessions that occur into the lower parts, those on the same line are better.",
+   "notes": "*kat' ixin*: Hippocratic term for \"in a direct line\", i.e. on the same side of the body. The clause ᾗ διὰ παντὸς is awkward; it may be a corruption of εἰ διὰ παντὸς (\"whether always\"), and it is translated in that sense.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06815",
+   "ref": "6.2.18.1",
+   "original": "χλωράζειν τε τὰ κτήνη λέγομεν τὰ τὴν ἐαρινὴν βοτάνην ἐσθίοντα. λέγουσί γε μὴν καὶ τῶν ἀνθρώπων ἐνίους χλωροὺς, οὐκ ἔχοντας ὁμοίαν τῇ χλόῃ τὴν χρόαν, ἀλλὰ μᾶλλον ὠχράν. ἄδηλον οὖν ἐστὶ πότερον τὴν ὕπωχρον χρόαν ὁ Ἱπποκράτης ὀνομάζει χλωράν τε καὶ χλοερὰν, ὅπερ ὁρᾶται πάνυ πολλοῖς συμβαῖνον ἢ τὴν χλόῃ παραπλησίαν, ὃ πάνυ σπανίως φαίνεται γινόμενον. οὔσης οὖν ἀσαφοῦς καὶ αὐτῆς ταύτης λέξεως, ἔτι μᾶλλον ἀσάφεια γίνεται προσκειμένου τοῦ λαμπρόν.",
+   "english": "And we say that cattle which eat the spring grass \"turn green\" (*chlōrazein*). Yet people also call some human beings \"green\" (*chlōroi*), although their colour is not like that of fresh grass but rather pale yellow. It is unclear, then, whether Hippocrates calls \"green\" and \"grass-coloured\" the somewhat pale-yellow colour, which is seen to occur in very many people, or the colour resembling fresh grass, which is observed to occur very rarely. Since this very expression is itself unclear, the unclarity becomes still greater when \"bright\" is added.",
+   "notes": "*chlōros* can mean both \"green\" and \"pale yellow\"; the ambiguity is Galen's point.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06816",
+   "ref": "6.2.19.1",
+   "original": "τοῦτο δ’ οὕτως ῥηθὲν ἐν μὲν συγγράμματι προφανῶς ἐνδείκνυται τὸν γράψαντα χαίρειν αἰνιγματώδει λέξει· τὸν δ’ αὐτῷ τινὰ ὑπογραφὴν ἐν ὑπομνήματι πεποιημένον οὐκ ἄν τις μέμψαιτο. πολλὰ γὰρ οὕτως εἰώθαμεν ἡμῖν αὐτοῖς ὑποτυποῦσθαι συμβολικῶς. ἴσως οὖν καὶ νῦν ἑαυτῷ ταῦτ’ ἔγραψεν ὁ Ἱπποκράτης, ἐπὶ πλειόνων παθῶν ποιούμενος τὸν λόγον, ἐνταυθοῖ μὲν ἐπὶ τῆς ξηρᾶς βηχὸς ἐν περιπνευμονίας καὶ πλευρίτισι· καὶ γὰρ καὶ τὸ πνεῦμα τούτοις ὁμολογεῖ· τὰ δ’ ἔμπροσθεν ἡνίκα περὶ τῶν κατὰ τὸ πρόσωπον ἔγραψεν ἐπὶ πυρετῶν θερμῶν καὶ διακαῶν.",
+   "english": "Said this way in a treatise, this would plainly show that the writer delights in riddling language. But no one would blame someone who has made a sketch for himself in notes (*hypomnēma*). For we are accustomed to outline many things for ourselves in this symbolic way. Perhaps, then, Hippocrates wrote these things for himself here too, making his statement about several conditions: here about dry cough in pneumonias and pleurisies, since the breathing also agrees with these; and the earlier things, when he wrote about the signs in the face, about hot and burning fevers.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06817",
+   "ref": "6.2.26.1",
+   "original": "ὅπως δὲ μὴ πράγματ’ ἔχοιμι, πολλάκις ὑπὲρ τοῦ κατὰ τὸν ἡμιτριταῖον σημαινομένου καὶ γράφων καὶ τοῖς πυνθανομένοις ἀποκρινόμενος, ἓν ἰδίᾳ περὶ τούτου ἔγραψα βιβλίον· ἐν μέντοι τοῖς ἀφορισμοῖς χωρὶς τῶν τριταιοφυῶν μνημονεῦσαί φησιν ἁπλῶς ὁ Ἱπποκράτης. ὅσοις δὲ κρίσις γίνεται, τουτέοισιν ἡ νὺξ δύσφορος ἡ πρὸ τοῦ παροξυσμοῦ. ἡ δὲ ἐπιοῦσα εὐφορωτέρη ὡς ἐπὶ τὸ πολύ. κρίσιν δ’ οἱ μὲν ἤκουσαν, ὑφ’ ἧς ὀξύῤῥοπος γίνεται μεταβολή τις ἀξιόλογος, οἱ δ’ ἁπλῶς τὸν παροξυσμόν. εἰώθει δὲ ὄντως ἡ νὺξ δύσφορος ἡ πρὸ τοῦ παροξυσμοῦ γίνεσθαι σχεδὸν ἅπασι τοῖς διὰ τρίτης παροξυνομένης πυρετοῖς, ἄνευ τῶν ἀκριβῶν τριταίων.",
+   "english": "So as not to have trouble, writing many times about what is meant by semitertian (*hēmitritaios*) and answering those who asked, I wrote a single book specifically on this. In the Aphorisms, however, Hippocrates, he says, simply mentioned [them] apart from the quasi-tertians. \"In those in whom a crisis occurs, the night before the paroxysm is hard to bear; the following one is easier, for the most part.\" Some have understood \"crisis\" as that through which a significant, rapidly turning change occurs; others simply as the paroxysm. And indeed the night before the paroxysm is normally hard to bear in almost all fevers that have paroxysms every other day, except exact tertians.",
+   "notes": "The subject of \"he says\" (φησιν) in the second sentence is unclear; possibly a corruption.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06818",
+   "ref": "6.2.36.1",
+   "original": "καὶ ὅκου ἔρευξις λυσιτελεῖ καὶ ὅσα ἄλλα τοιαῦτα τὰς ἐφόδους ἀνεστομῶσθαι. ἀλλ’ οὐδὲ τοῦτο πάλιν οἰκείως ἐπιφέρεσθαι δόξει, οἷον ῥῖνες καὶ τὰ ἄλλα ὧν δεῖ καὶ τὰ ἐφεξῆς. ὅσοι τοίνυν αὐτὸ καθ’ ἑαυτὸ μόνον ὑποτετυπῶσθαί φασιν ἑαυτῷ τὸν Ἱπποκράτην. τὸ ὅκου ἔρευξις λυσιτελεῖ, νομίζουσιν αὐτὸν ἀξιοῦν ἐρυγὰς ἐνίοτε συμβουλεύειν κινεῖν. καὶ ἁρμόττειν γε αὐτάς φασιν ἐπὶ τῶν ἐμπνευματουμένων τὴν γαστέρα καὶ μάλιστα ἐφ’ ὧν οὐ διέρχεται κάτω τὸ φυσῶδες πνεῦμα.",
+   "english": "\"And where belching is beneficial, and other such things, the passages [should be] opened.\" But again this too will not seem to be appropriately joined to [the next words], \"such as nostrils and the other things which must,\" and what follows. Those, then, who say that Hippocrates sketched for himself, on its own, the [phrase] \"where belching is beneficial\" think that he deems it right sometimes to advise provoking belches. And they say that these are suitable for those whose stomach is distended with wind, and especially for those in whom the flatulent wind does not pass downwards.",
+   "notes": "The quoted lemma is obscure and the first sentence's syntax is elliptical.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06819",
+   "ref": "6.2.43.1",
+   "original": "τοῖς ἐμπυήμασιν ὅρος, τοῖσι μέλλουσιν ἐκπυΐσκειν, αἱ κοιλίαι ἐκταράσσονται. γνώρισμα τῶν μελλόντων ἐκπυΐσκειν τιθέμενοι τὴν ταραχὴν τῆς γαστρός. εἴη δ’ ἂν οὐ πάντων τῶν ἐκπυϊσκόντων, ἀλλὰ μόνων ὅσα ῥήγνυνται τῇ διὰ τῶν ἐντέρων ἐκκρίσει, τὸ σημεῖον τοῦτο γράφων ὁ Ἱπποκράτης. εἰ δ’ ἄνευ τοῦ διορίσασθαι περὶ ποίων λέγει τὴν ἑρμηνείαν ἐποιήσατο, θαυμαστὸν οὐδὲν, ἐὰν τοῦ κατ’ ἀρχὰς εἰρημένου μεμνήμεθα τοῦ γράφειν ἑαυτῷ ταῦτα παρασκευάς τινας εἰς συγγράμματα. μόνον γὰρ ἥκει πρὸς ἀνάμνησιν ὧν βούλεται δηλοῦν ἑαυτῷ, προκείμενον ἐν γραφῇ τὸ, κοιλίαι ἐκταράσσονται, λέγοντος αὐτοῦ κοιλίας ἐπιταράσσεσθαι τοῖς τοιούτοις ἐμπυήμασιν, ὧν μελλόντων ῥήγνυσθαι προδιϊδροῦταί τις ἰχὼρ λεπτὸς ἐκ τοῦ πύου, δι’ ὧν δακνόμενα τὰ ἔντερα ταραχὴν τινα τῆς γαστρὸς ἐρ γάζεται, τουτέστι δήξεις τε καὶ προθυμίας συνεχεῖς ἐπ’ ἀποκρίσεις·",
+   "english": "\"For suppurations, a limit: in those about to suppurate, the bowels are disturbed.\" [These readers] set disturbance of the belly as a sign of those about to suppurate. But Hippocrates would be writing this sign not of all who suppurate, but only of those [abscesses] that burst with discharge through the intestines. And if he made his statement without specifying which ones he means, it is nothing surprising, if we remember what was said at the beginning, that he wrote these things for himself as preparations for treatises. For the written words \"the bowels are disturbed\" serve only to remind him of what he wants to indicate to himself, namely that the bowels are upset in such suppurations, before whose bursting a thin serum (*ichōr*) seeps out in advance from the pus, by which the intestines are bitten and produce some disturbance of the belly, that is, griping and continual urges to evacuate;",
+   "notes": "\"ἐρ γάζεται\" read as ἐργάζεται.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06820",
+   "ref": "6.2.45.1",
+   "original": "οὗτος γὰρ ὡς κακῶς ἐξηγησαμένου τοῦ Γλαυκίου τὴν προκειμένην ῥῆσιν οὐδὲν μὲν ἐγκαλεῖ περὶ τῆς γραφῆς, καίτοι γ’ ἀπόρου καὶ ταύτης τῆς λέξεως φαινομένης αὐτῷ, ὅτι δὲ προσέθηκεν ἀποφάσεις τοῖς εἰρημένοις μέμφεται. φησὶ γὰρ ἀπορούμενον αὐτὸν καὶ μὴ δυνάμενον ἐξηγήσασθαι τὴν προκειμένην ῥῆσιν ἅπασι τοῖς προειρημένοις ἀποφάσεις προστεθεικέναι, ὡς εἰ καὶ οὕτως ἔγραψεν ὁ Ἱπποκράτης· κάτω στρογγύλος, οὐ πλατὺς, οὐ μακρὸς, οὐ λεπτός. ἡγεῖτο γὰρ Γλαυκίας ἀδύνατον εἶναι τὸν σπλῆνα ταῦτα τὰ πάθη δέξασθαι, μὴ δυνάμενα συνυπάρχειν, ὥσπερ ἀναγκαῖον ὂν ἐφ’ ἑνὸς ἀνθρώπου πάντων ἀκούειν αὐτῶν.",
+   "english": "For this man, [arguing] that Glaucias interpreted the passage in question badly, makes no complaint about the reading, although this wording too appeared puzzling to him, but he blames him for adding negations to what was said. For he says that Glaucias, being at a loss and unable to interpret the passage, added negations to all the preceding terms, as if Hippocrates had written thus: \"below, round, not broad, not long, not thin.\" For Glaucias thought it impossible for the spleen to take on these conditions, since they cannot coexist, as though it were necessary to understand all of them as applying to one person.",
+   "notes": "\"This man\" probably refers to Zeuxis, named in the preceding context.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06821",
+   "ref": "6.2.47.1",
+   "original": "ἀλλὰ καὶ τῶν συμβεβηκότων τοῖς κάμνουσιν ἔνια, πρὶν ἀκοῦσαι παρ’ αὐτῶν, ἐν μέσῳ σχήματι λέξεως, ἐρωτήσεώς τε καὶ ἀποφάσεως, ἐὰν εἰπὼν ἐπιτύχῃ, θαυμάζεται. λέλεκται δ’ ἅπαντα ταῦθ’ ἡμῖν ἑτέρωθι καὶ νῦν, ὡς ἔφην, Ἱπποκράτους αὐτὰ μόνα, τά τε πρῶτα κεφάλαια διερχομένου καὶ ἡμεῖς κατά τινα πρώτην τομὴν αὐτὰ διήλθομεν. εἰ δὲ τὰ κατὰ μέρος ἅπαντα λέγοιμι, τά τε εἰς τὸ προγνωστικὸν ὑπομνήματα καὶ τὰ περὶ κρίσεων, ἐνταῦθα μεταφέρειν ἀναγκασθήσομαι.",
+   "english": "But also, if the physician, speaking in a form of words midway between question and assertion, hits upon some of the things that have happened to the patients before hearing them from them, he is admired. All these things have been discussed by us elsewhere, and now, as I said, since Hippocrates goes through only these, the first headings, we too have gone through them in a kind of first division. But if I were to state all the particulars, I would be compelled to transfer here my commentaries on the Prognostic and the [works] on crises.",
+   "notes": "ἀποφάσεως here presumably means \"assertion/declaration\" rather than \"negation\".",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06822",
+   "ref": "6.2.49.1",
+   "original": "ἵστασθαι δὲ καὶ παύεσθαι τὴν αὔξησιν αὐτοῖς προτέροις τῶν ἀῤῥένων, οὐκέτι διὰ τὴν μαλακότητα τοῦ σώματος, ἀλλὰ διὰ τὴν ἀσθένειαν ὑπάρχει. δύναμις γὰρ ἐστιν ἐν τοῖς ζώοις φυσικὴ, τὴν αὔξησιν αὐτῶν ἐργαζομένη, δι’ ἣν ἀῤῥωστοτέρα μὲν οὖσα ἐπὶ πλέον αὔξεται, θᾶττον δὲ παύεται τῆς αὐξήσεως, ἀσθενοῦς ὑπαρχούσης. εἴπερ οὖν ὁ Ἱπποκράτης αὐτὸς ἔγραψε τὸ ἐμωλύνθη, τοιοῦτον ἂν φαίνοιτο σημαίνειν, οἷον κᾀν τῷ δευτέρῳ τῶν ἐπιδημιῶν, ἔνθα φησίν· ἀριστερὸν παρ’ οὖς οἴδημα, τῇ δ’ ὑστεραίῃ καὶ δεξιόν. ἧσσον δὲ τοῦτο καὶ συνελειαίνετο ταῦτα καὶ ἐμωλύνθη καὶ οὐκ ἀπεπυήσατο. τὸ γὰρ τῆς ὀξείας κινήσεως καὶ μεταβολῆς παυσάμενον καὶ ἀποψυχθὲν οὕτως ὠνόμασεν.",
+   "english": "That their growth also halts and ceases earlier than in males is due no longer to the softness of the body but to weakness. For there is a natural faculty in animals that produces their growth, owing to which [the body], being feebler, grows more, but ceases growing sooner, since [the faculty] is weak. If, then, Hippocrates himself wrote *emōlynthē*, it would appear to mean the same as in the second book of the Epidemics, where he says: \"A swelling beside the left ear, and on the next day also the right. This was less, and these became smooth together and *emōlynthē* and did not suppurate.\" For he so named what has ceased from acute movement and change and has cooled off.",
+   "notes": "*emōlynthē*: rare verb, apparently \"subsided/became sluggish\". The sentence about the faculty is confused (\"being feebler, grows more\"); the text may be corrupt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06823",
+   "ref": "6.3.1.1",
+   "original": "καὶ γὰρ καὶ ταῦτα φαίνεται ξηρότερα σφῶν αὐτῶν γινόμενα, μετὰ τὰς πολυχρονίους χρήσεις, ἡνίκα κατατετρίφθαι λέγομεν αὐτά. τινὲς μέντοι τὸ κατὰ συζυγίαν ἀκούειν τῶν γεγραμμένων οὐκ ἐννοήσαντες ὅλως ἕκαστόν τε τῶν προειρημένων ἰδίᾳ προχειριζόμενοι συμβουλεύειν ἐν τῇ ῥήσει ταύτῃ τὸν Ἱπποκράτην φασὶ τὰς δυνάμεις αὐτῶν ἐπισκοπεῖσθαι, οἷς εὐθέως ἡ τοῦ δέρματος ἀραιότης, πρώτη γὰρ αὕτη γέγραπται, γινώσκειν φασὶ προσήκειν τί δύναται, χάριν τοῦ καὶ ποιεῖν αὐτὴν ὁπότε χρείαν ἔχομεν, ἀναιρεῖν δ’, ὁπότ’ οὐκ εἴη χρεία.",
+   "english": "For these too are seen to become drier than they were, after long use, when we say they are worn out. Some, however, not thinking at all of taking the written items in pairs, and treating each of the things mentioned separately, say that in this passage Hippocrates advises examining their powers; for whom, straightaway, with the looseness of the skin (for this is written first), they say one ought to know what it can do, so as to produce it when we have need, and to remove it when there is no need.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06824",
+   "ref": "6.3.2.1",
+   "original": "καὶ θαυμάζω γε πῶς ἐπ’ ἐκείνων παρέλιπε τοῦ ταχέσι. καὶ γὰρ δρόμοι ταχεῖς καὶ γυμνάσια τοιαῦτα καὶ σαρκῶν ὄγκον καθαιρεῖ καὶ χυμῶν πλῆθος κενοῖ καὶ σχεδὸν ἅπασιν ὁμολογεῖται τοῦτο καὶ γυμνασταῖς καὶ ἰατροῖς. ὁ δ’ οὖν Ἱπποκράτης ἐφεξῆς ἔγραψε περὶ τῆς ἐπιτηδείου τροφῆς τοῖς καθαιρέσεως δεομένοις, ὡς εἴωθεν, ἐκ τοῦ παραδείγματος ἑνὸς ἑαυτῷ ὑπόμνησιν ποιησάμενος τοῦ καθόλου πᾶσιν ἁρμόττοντος. ἔστι δὲ τούτοις καθόλου τροφὰς διδόναι μὴ τροφίμους, ὁποῖόν ἐστι τὸ χοίρειον κρέας, ἀλλ’ ὀλιγοτρόφους, ὁποῖόν ἐστι τὸ τῆς ὄϊος, ὅπερ ἐστὶ τοῦ προβάτου.",
+   "english": "And I am indeed surprised that in their case he left out \"fast\". For fast runs and exercises of that kind both reduce the bulk of the flesh and empty out an excess of humours, and this is agreed by practically everyone, both trainers and physicians. Hippocrates, then, next wrote about the food suitable for those who need reduction, making for himself, as is his custom, a reminder from a single example of the general rule that fits all cases. The general rule for these people is to give foods that are not nourishing, such as pork, but of little nourishment, such as the meat of the *ois*, that is, of the sheep.",
+   "notes": "\"left out 'fast'\" (τοῦ ταχέσι): Galen apparently means that Hippocrates did not add the word \"fast\" to the exercises in that case; the genitive article with the dative form is awkward but evidently cites the word. *ois* is the Ionic/poetic word for sheep, which Galen glosses with the ordinary *probaton*.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06825",
+   "ref": "6.3.5.1",
+   "original": "ὅλην γὰρ τὴν προκειμένην ῥῆσιν προσγράψαντες, εἶτ’ ἐξηγησάμενοι τὰ κατὰ μέρος ἐν αὐτῇ, ταύτης τῆς λέξεως τὴν ἐξήγησιν οὐκ εἶπον, ὥσπερ οὐδὲ Ζεῦξις ἐκ τῶν παλαιῶν ἐξηγητῶν εἶς ὢν καὶ αὐτός. ἔνιοι δέ φασιν εἰρῆσθαι πρὸς Ἱπποκράτους. τὸ ὁμοίως γὰρ συμπίπτει, τοιοῦτόν τι δηλοῦν βουλομένου, ὥσπερ ἡ πλήρωσις βλάπτει καὶ διὰ τοῦτο δεῖ καθαιρεῖν αὐτὴν, οὕτω καὶ ἡ περαιτέρω τοῦ προσήκοντος κένωσίς ἐστι βλαβερὰ, παραπλησίως τῇ πληρώσει.",
+   "english": "For they wrote out the whole passage under discussion and then explained its details, but they gave no explanation of this phrase, just as Zeuxis, himself one of the ancient commentators, gave none either. Some say that it was said by Hippocrates [with this meaning]: \"it collapses likewise\", since he wanted to indicate something like this: just as repletion does harm, and for this reason one must reduce it, so too evacuation beyond what is proper is harmful, in the same way as repletion.",
+   "notes": "τὸ ὁμοίως γὰρ συμπίπτει quotes the Hippocratic lemma (\"for it collapses/falls in likewise\"); the construction of the sentence is loose. συμπίπτει plays on \"collapse\" of the body, as the following context shows.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06826",
+   "ref": "6.3.9.1",
+   "original": "Οὐδὲν ἀξιόλογον ἐκ ταύτης τῆς ῥήσεως ἔνεστιν ἡμῖν μαθεῖν. θαυμάσαιμι δ’ ἂν εἰ καὶ αὐτὸς ὁ Ἱπποκράτης οὕτως ἔγραψεν ἄνευ τοῦ προσγράψαι τὰ οὖρα, ὡς εἴ γε προσεγέγραπτο πλέον ἂν ἐκ τούτου εἰς ἀνάμνησιν ἔσχε τι, πρὸς ἡμᾶς δ’ ἐξ ἐπιμέτρου. καὶ τοῦτ’ ἔστιν ἀσαφὲς τό τε κατὰ τὴν ἀρχὴν τῆς ῥήσεως γεγραμμένον, ἣν τὸ πρῶτον ἐθεράπευσα.",
+   "english": "There is nothing worth mentioning for us to learn from this passage. I would be surprised if Hippocrates himself wrote it this way without adding the urine, since if it had been written in, he would have had something more from it as a reminder, and we would have had it as a bonus. Also unclear is what is written at the beginning of the passage: \"whom I treated first\".",
+   "notes": "\"whom I treated first\" (ἣν τὸ πρῶτον ἐθεράπευσα) is a quotation of the lemma; the feminine refers to a woman patient.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06827",
+   "ref": "6.3.12.1",
+   "original": "ὅταν ἄρχωνται ἀφροδισιάζειν, φυσᾶται ἡ γαστὴρ, βουλόμενοι τοὺς ἀρχομένους ἀφροδισίων, τουτέστι τοὺς πρῶτον ἐπιχειροῦντας τῷ ἔργῳ τούτῳ πάσχειν τὰ τῆς ῥήσεως ἐφεξῆς δηλούμενα. καίτοι τὴν γραφὴν ταύτην οὔτε βιβλίον τι παλαιὸν οὔτ’ ἐξηγητὴς οἶδεν. ἀλλ’ ὅμως οἱ περὶ τὸν Σαβῖνον ἐπὶ τῶν ἀρχομένων ἀφροδισιάζειν τὸν λόγον αὐτῷ εἶναί φασιν, καίτοι μνημονεύσαντος αὐτονομαστὶ τοῦ Ἱπποκράτους ἑνὸς ἀνθρώπου τοῦ Δαμαγόρου. τοῦτο δ’ εἴωθε ποιεῖν ὅταν ὀλίγοις τισὶ γενόμενον πρᾶγμα διέρχεται. καὶ χωρὶς δὲ τοῦ γεγραφέναι τι περὶ τούτων Ἱπποκράτει τὸ φαινόμενον ἐχρῆν ἐκ τῆς πείρας μαθεῖν. οὐ γὰρ συμβαίνει τοῖς ἀρχομένοις ἀφροδισίων ἐμφυσᾶσθαι τὴν κοιλίαν ἢ ψόφον ἴσχειν ἐν αὐτῇ, ἀλλὰ μᾶλλον ἐνίοις ἐν τῷ σπανίῳ τῶν παρακμαζόντων τε καὶ τὸ καλούμενον πάθημα φυσῶδές τε καὶ ὑποχονδριακὸν καὶ μελαγχολικὸν ἐχόντων, ἐμφυσᾶσθαι συμβαίνει μᾶλλον τὴν γαστέρα, ὅταν ἀφροδισίοις χρήσωνται.",
+   "english": "\"When they begin to have sex, the belly is inflated\", meaning that those who are beginning sexual activity, that is, those attempting this act for the first time, suffer what is indicated next in the passage. Yet neither any ancient book nor any commentator knows this reading. Nevertheless Sabinus and his followers say that his statement concerns those beginning to have sex, even though Hippocrates mentioned one man by name, Damagoras. This he is accustomed to do when he is describing something that has happened to a few people. And quite apart from whether Hippocrates wrote anything about these matters, one ought to have learned the phenomenon from experience. For it does not happen to those beginning sex that the belly is inflated or has rumbling in it; rather it is in some few of those past their prime, and of those who have the condition called flatulent, hypochondriac and melancholic, that it happens that the belly is inflated, when they have sex.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06828",
+   "ref": "6.3.12.1",
+   "original": "οἱ μὲν περὶ τὸν Σαβῖνον οὐκ ἀλόγως φασὶ τοῖς ἀφροδισιάζειν ἀρχομένοις τοῦτο συμβαίνειν· πρῶτον μὲν, ὅτι μέγας ὁ ξενισμὸς γίνεται περὶ τὸ σῶμα. γράφουσι γὰρ οὕτως αὐτοὶ, δι’ ὃν ξενισμὸν, φύσην, ἐπιληψίαν τε καὶ νεφρίτιδας αὐτοῖς, ἕτερά τε χρόνια γίνεσθαι. ἔπειτα δὲ καὶ ὅτι Δημόκριτος εἶπεν, ἄνθρωπος ἐξ ἀνθρώπου ἐν ταῖς συνουσίαις ἐκθόρνυται. καὶ μέντοι καὶ διότι φασὶ πολὺν ὀδαξησμὸν διὰ τὴν ἀλήθειαν τοῦ θερμοῦ καὶ τὴν δριμύτητα πάσχουσι καὶ κοινοῦ γε, ὡς λέγουσιν, ὄντος τοῦ λόγου θηλειῶν τε καὶ ἀῤῥένων, ἐπὶ θηλειῶν φασὶ σαφῆ τὴν αἰτίαν εἶναι.",
+   "english": "Sabinus and his followers say, not unreasonably [in their view], that this happens to those beginning to have sex: first, because a great disturbance from the unaccustomed arises in the body. For they themselves write thus: through this unaccustomed disturbance, flatulence, epilepsy and kidney disorders, and other chronic ailments arise in them. Next, because Democritus said: \"a human springs out of a human in intercourse.\" Further, because, they say, they experience much itching on account of the genuineness of the heat and its sharpness; and since the account, as they say, is common to females and males, in the case of females, they say, the cause is clear.",
+   "notes": "οὐκ ἀλόγως may be ironic, given Galen's later rejection. ξενισμός: disturbance caused by something unaccustomed. \"genuineness (ἀλήθειαν) of the heat\" is odd; perhaps corrupt (e.g. for ἀλέαν, 'warmth').",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06829",
+   "ref": "6.3.13.1",
+   "original": "Τίνας λέγει πιτυρώδεις ἄπορον εὑρεῖν, ἐάν τέ τις μὴ καθάπερ Ἡροδότου καὶ Κτησίου μόνον ὡς ἱστορίαν ἀναγινώσκῃ τὰ βιβλία τῶν παλαιῶν ἰατρῶν, ἀλλ’ ἕνεκα τοῦ πλεῖόν τι ἔχειν εἰς τὰ τῆς τέχνης ἔργα. πολλοὶ δὲ τῶν ἐξηγητῶν ἀμελήσαντες τούτου καὶ μάλισθ’ ὅσοι τὸ σοφιστικὸν εἶδος ζηλώσαντες ἐπὶ τὸ πρόχειρον ἀφικνοῦνται τῆς ἐξηγήσεως, ὃ κατὰ τὴν τῆς λέξεως ἔνδειξίν ἐστιν, οὐκέτι βασανίζοντες ἐπὶ τῶν νοσούντων τὴν τῶν λεγομένων ἀλήθειαν.",
+   "english": "Whom he calls *pityrōdeis* [\"branny\"] is difficult to discover, if one reads the books of the ancient physicians not merely as history, like those of Herodotus and Ctesias, but for the sake of gaining something more for the works of the art. Many of the commentators have neglected this, especially those who, emulating the sophistic style, arrive at the ready-to-hand explanation, which accords with what the wording indicates, no longer testing the truth of what is said on the sick.",
+   "notes": "The logic of ἐάν τέ τις seems to imply \"difficult to find, at least if one reads...\"; the τε has no answering clause.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06830",
+   "ref": "6.3.14.1",
+   "original": "καί μοι δοκεῖ τὰς προμηκεστέρας ὠνομακέναι φήρεα, τὰς δὲ στρογγυλωτέρας γογγρώνας, φήρεα μὲν εἰπὼν τὰ μὲν ἐμφέρειαν ἔχοντα φηρεῶν, οὕτω γὰρ ὠνομάκασιν ἔνιοι τῶν Ἰώνων σατύρους, οὓς γράφουσί τε καὶ πλάττουσι προμήκεις ἐξοχὰς ἔχοντας παρὰ τοῖς ὠσὶ, γογγρώνας δὲ τὰς περιφερεστέρας ἐξοχὰς μετὰ σκληρότητος, οἷαί περ εἰσὶν αἱ γινόμεναί τισι τῶν δένδρων ἐπιφύσεις, ἃς καλοῦσι γόγγρους, ὡς καὶ Θεόφραστος ἐν τῷ πρώτῳ τῶν περὶ φυτῶν ἔγραψε λέξιν οὕτως· ἔνια δὲ ἴσχει τοὺς καλουμένους ὑπό τινων γόγγρους ἢ τὸ ἀνάλογον, οἷον ἐλαία. λέγουσι δ’ ἔνιοι καὶ νῦν ἔτι κατὰ Θετταλίαν ἀκηκοέναι τινῶν γογγρώνας ὀνομαζόντων τὰς τοιαύτας σκληρότητας, ὅταν ἐν τραχήλῳ συστῶσιν, οὐ μὴν τά γε φήρεα λέγοντός τινος οὔτ’ αὐτὸς ἤκουσα κατά τι τῶν ἐθνῶν οὔτε τινὸς ἀκηκοότος ἐπυθόμην. καίτοι τινὲς τῶν ἐξηγητῶν φασι τὸν Ἱπποκράτην φήρεα καλεῖν τὰ ἐν Φηραῖς τῆς Πελοποννήσου πλεονάζοντα. τινὲς δὲ διὰ τοῦ ε τὴν πρώτην συλ λαβὴν γράφοντες ἅμα τῷ φ δηλονότι, φήρεα φασιν αὐτὸν ὀνομάζειν τὰ ἐν Φεραῖς τῆς Θετταλίας πολλάκις γινόμενα.",
+   "english": "And it seems to me that he has called the more elongated ones *phērea* and the rounder ones *gongrōnai*: saying *phērea* for those that bear a resemblance to *phēres*, for that is what some of the Ionians have called satyrs, whom they paint and sculpt with elongated projections beside the ears; and *gongrōnai* for the rounder projections with hardness, such as are the growths that form on some trees, which they call *gongroi*, as Theophrastus too wrote in the first book of his work on plants, in these words: \"some have what are called by some *gongroi*, or something analogous, such as the olive.\" Some say that even now in Thessaly they have heard people calling such hardnesses *gongrōnai* when they form in the neck; but I myself have not heard anyone in any of the nations saying *phērea*, nor have I learned of it from anyone who had heard it. Yet some of the commentators say that Hippocrates calls *phērea* those swellings that are common in Pherae in the Peloponnese. And some, writing the first syllable with an epsilon together with the phi, evidently, say that he names as *phērea* those that often occur in Pherae in Thessaly.",
+   "notes": "The text seems confused: the first group should presumably refer to a Peloponnesian place spelled with eta (Φηραί), the second to Thessalian Pherae spelled with epsilon (Φεραί); the lemma form with epsilon would then be *pherea*, but the text prints φήρεα both times. \"συλ λαβὴν\" read as συλλαβήν.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06831",
+   "ref": "6.3.16.1",
+   "original": "Αὐτὸ μὲν τὸ λεγόμενον εὔδηλόν ἐστιν. αἰτίαν δὲ αὐτοῦ χαλεπὸν εἰπεῖν, ὅτι μήτε ὁ Ἱπποκράτης ἔγραψε, καίτοι δυνάμενος, ἤτοι γε ἐξαιφνίδιον αὐτῷ γενέσθαι τὴν ὀδύνην εἰπὼν ἢ κατὰ βραχὺ λαβεῖν τὴν αὔξησιν, ἄρξασθαί τε ἐνεργοῦντι περὶ τὴν τῶν κλημάτων πλοκὴν ἢ μετ’ αὐτὴν εὐθέως ἢ κατ’ ἄλλον τινὰ χρόνον τῆς ἡμέρας ἢ τῆς νυκτός.",
+   "english": "What is said is itself quite clear. But its cause is hard to state, because Hippocrates did not write it, although he could have, by saying either that the pain came on him suddenly or that it increased little by little, and that it began while he was working at the plaiting of the vine-shoots, or immediately after it, or at some other time of the day or the night.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06832",
+   "ref": "6.3.19.1",
+   "original": "ἀνατραπήσονται γὰρ οὕτως αἱ τέχναι πᾶσαι καὶ τῶν ἀνθρώπων ὁ βίος. φαίνεται δ’, ὡς ἐν ἀφορισμοῖς ἐδίδαξε, τὰ ῥίγη πάντα τὴν ἀρχὴν ἐξ ὀσφύος τε καὶ νώτου λαμβάνοντα καὶ τουτὶ τὸ νῦν προκείμενον ἐπὶ τῇ τελευτῇ τῆς ῥήσεως. εἰ μὲν οὖν ὁ συνθεὶς τὸ βιβλίον, ὡς λέγουσι, Θέσσαλος ὁ τοῦ Ἱπποκράτους υἱὸς, ἐν τοῖς τοῦ πατρὸς ὑπομνήμασιν εὑρὼν ἐξεγράψατο, κακῶς ἐποίησεν ἐγγράψας αὐτὸ τῷ βιβλίῳ. τὰ γὰρ ὑπὸ τοῦ πατρὸς κεκριμένα χρόνῳ πολλῷ καὶ διὰ τῶν ἀφορισμῶν εἰς ἀπόφασιν καθολικὴν ἠγμένα βεβαιότερα νομίζειν αὐτὸν ἐχρῆν εἶναι τῶν, ὁπότ’ ἐζήτει, πρόσθεν οὐδέπω γινωσκομένων.",
+   "english": "For in this way all the arts and human life will be overturned. And it is evident, as he taught in the Aphorisms, that all rigors take their beginning from the loins and the back, and so does this one now under discussion at the end of the passage. If, then, the compiler of the book, Thessalus the son of Hippocrates, as they say, found this in his father's notes and copied it out, he did wrong in writing it into the book. For he ought to have regarded what his father had judged over a long time and brought to a universal statement in the Aphorisms as more reliable than what was not yet known earlier, when he was still investigating.",
+   "notes": "The second sentence is elliptical; the sense seems to be that the present rigor too is shown to start from the loins and back, in conflict with the reading criticised.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06833",
+   "ref": "6.3.24.1",
+   "original": "παράδειγμα δὲ τῶν τοπικῶν βοηθημάτων εἰρῆσθαί φασι ξηρὸν φάρμακον λευκὸν ἐντιθέμενον τῇ ῥινί. τῆς κηκίδος δὲ οὐκ οὔσης λευκῆς, ἔνιοι προσέθεσαν αὐτῇ καὶ τὴν στυπτηρίαν, γράψαντες οἷον κηκὶς, στυπτηρίη. τὸ δὲ τῇ ἢ τῇ περιεῖλον εἰκότως, ὡς μικρὸν ὂν καὶ οὐκ ἄξιον Ἱπποκράτους, εἴ γε δὴ σημαίνειν αὐτό φασιν, ὁπότερος ἂν μυκτὴρ αἱμοῤῥαγῇ, τούτῳ τὸ ξηρὸν φάρμακον ἐντιθέναι. φυλαττομένης δὲ τῆς παλαιᾶς γραφῆς αἰνιγματώδης ἡ λέξις γίνεται. τίνα γὰρ ἀπὸ ῥινῶν ἀξιοῖ λευκὰ κενοῦν ἢ καθαίρειν ἢ συμπέττειν ἢ αὐτόματα φερόμενα θεάσασθαι, παντάπασιν ἄπειρον εὑρεῖν, αὐτοῦ γε τοῦ Ἱπποκράτους μηδὲν προσθέντος τῷ λευκῷ.",
+   "english": "They say that a dry white drug inserted into the nose has been mentioned as an example of local remedies. But since oak-gall is not white, some added alum to it, writing \"such as oak-gall, alum.\" And they reasonably removed the \"on this side or that\", as being trivial and unworthy of Hippocrates, if indeed they say that it means that one should insert the dry drug into whichever nostril is bleeding. But if the old reading is kept, the phrase becomes riddling. For what white things he wants us to evacuate from the nose, or purge, or bring to concoction, or observe when they flow spontaneously, is quite impossible to discover, since Hippocrates himself added nothing to \"white\".",
+   "notes": "ἄπειρον (\"impossible/boundless\") is probably a slip for ἄπορον (\"hard to discover\"); sense unaffected.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06834",
+   "ref": "6.3.29.1",
+   "original": "ἔνιοι δὲ καὶ ἡμῖν ἀντιλέγειν ἐτόλμησαν, οὐ μόνον διὰ τὴν ἰσχνότητα τῆς γυναικὸς, ἀλλὰ καὶ διὰ τὴν ἀνορεξίαν, ὑπὸ τῆς φλεβοτομίας αὐτὴν βλαβήσεσθαι λέγοντες. καὶ τά γε τοιαῦτα κάλλιόν ἐστι μακρολογεῖν τοῦ ζητεῖν ἀκριβῶς εὑρεῖν ὁποτέρου τῶν Προδίκων Ἱπποκράτης μνημονεύει. ἀλλ’ ὡς εἶπον ἤδη πολλάκις, οἱ νεώτεροι τῶν ἰατρῶν ἐπὶ τὸ σοφιστικώτερον εἶδος ἀπεχώρησαν, ἀμελήσαντες μὲν τοῦ παραφυλάττειν μὲν ἀκριβῶς τὰ γινόμενα περὶ τοὺς ἀῤῥώστους, ζητεῖν δὲ αὐτῶν τὰς διαθέσεις καὶ τὰς αἰτίας ἐξ ὧν ἡ τῆς θεραπείας εὕρεσις γίνεται, κρινομένης καὶ αὐτῆς τῇ πείρᾳ τῆς γυναικὸς, ἧς ἐμνημόνευσα, τῇ μὲν πρώτῃ τῶν ἡμερῶν ἀφεῖλον τοῦ αἵματος, ὡς μίαν καὶ ἡμίσειαν λίτραν, αὖθις δὲ τῇ δευτέρᾳ μίαν, τῇ τρίτῃ δ’ οὐ πολλῷ πλέον ἡμίσεως μιᾶς λίτρας, οὐγκίαι γὰρ ἦσαν ὀκτώ.",
+   "english": "Some even dared to contradict us, saying that she would be harmed by the venesection, not only because of the woman's thinness but also because of her lack of appetite. And it is better to speak at length about such things than to inquire precisely which of the two Prodicuses Hippocrates mentions. But, as I have already said many times, the more recent physicians have gone off toward the more sophistical kind [of inquiry], neglecting to observe precisely what happens with the sick, and to seek out their conditions and the causes from which the discovery of treatment comes, [treatment] which is itself also judged by experience. From the woman whom I mentioned, on the first of the days I took about one and a half pounds of blood, again on the second one [pound], and on the third not much more than half a pound, for it was eight ounces.",
+   "notes": "\"pounds\" and \"ounces\" render λίτρα and οὐγκία (Roman libra and uncia). The sentence beginning \"But, as I have already said\" runs on awkwardly from the general remark into the case narrative; the syntax seems loose or the text disturbed. The remark about the two Prodicuses seems out of place here and may be misplaced from the following section.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06835",
+   "ref": "6.3.31.1",
+   "original": "τινὲς δ’ ἐξαίροντες τὸ πάλῃσιν, ἔνιοι δ’ ἐν ἀρχῇ προστιθέντες λιμῷ. περιόδους μὲν οὖν καλεῖ τοὺς βραδεῖς περιπάτους ἐπὶ πλείονα χρόνον ἐκτεινομένους, ὡς ἐν τῷ περὶ διαίτης ὀξέων αὐτὸς ἔφη. βραδεῖαν συχνὴν περίοδον πλανηθῆναι, καὶ Πλάτων μὲν μέμνηται τοῦ Προδίκου ὡς πολλοῖς περιπάτοις χρωμένου. τίνος δὲ νῦν Προδίκου μνημονεύει, πότερον τοῦ Λεοντίου ἢ τοῦ Σηλυβριανοῦ περιττὸν ζητεῖν. ἐν ἄλλῳ γὰρ λόγῳ τὰ τοιαῦτα πάντως διέρχομαι. νυνὶ δ’ οὔ που καιρὸς ἱστορικῶν ζητημάτων, ὅπου καὶ τῶν γεγραμμένων τισὶν ἐξηγήσεων οὐκ ὀλίγας περιλιπόντες ἀγαπῶμεν, ἐὰν ἐν ὀκτὼ βιβλίοις συμπληρώσωμεν τὴν ἐξήγησιν.",
+   "english": "Some remove \"by wrestlings\", and some put \"by hunger\" at the beginning. By \"rounds\" (periodoi), then, he means slow walks extended over a longer time, as he himself said in On Regimen in Acute Diseases: \"to wander a slow, frequent round.\" And Plato mentions Prodicus as one who made use of many walks. Which Prodicus he now mentions, whether the one from Leontini or the one from Selymbria, it is superfluous to inquire. For I deal with such matters fully in another work. Now, surely, is no time for historical questions, when we are content even after leaving out not a few of the interpretations written by some, if we complete the commentary in eight books.",
+   "notes": "Λεοντίου taken as \"of Leontini\" (Prodicus of Ceos is usually meant; text may be confused). Galen gives the quotation from On Regimen in Acute Diseases in Ionic form.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06836",
+   "ref": "6.3.33.1",
+   "original": "Ἕν τι τῶν εἰς ἀνάμνησιν ἄγειν δυναμένων τῆς ὅλης ἐπὶ τῶν πυρεττόντων ἀγωγῆς ἔγραψεν ὁ Ἱπποκράτης τοῦτο, δυνάμενον ἐνδείκνυσθαι καὶ αὐτὸ τὴν μοχθηρίαν τῆς Προδίκου προνοίας πυρεττόντων. οὐ γὰρ ἐξ ὧν διψῷεν οἱ ἐνθερμανθέντες εὔλογόν ἐστι πράττειν, ἀλλ’ ἐξ ὧν ἄδιψοι γενήσονται. ταῦτα δ’ ἐστὶ πρώτη μὲν ἡ ταῖς κινήσεσιν ἀντικειμένη τοῦ κάμνοντος σώματος ἡσυχία.",
+   "english": "Hippocrates wrote this as one of the things able to bring to mind the whole management of those with fever, and it too is able to show the badness of Prodicus' care of those with fever. For it is not reasonable to do things from which those who have been heated would become thirsty, but things from which they will become free of thirst. Of these the first is rest, the opposite of movement, for the sick body.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06837",
+   "ref": "6.3.40.1",
+   "original": "Τῆς παλαιᾶς γραφῆς οὔσης ταύτης, ἐπὶ τὸ σαφέστερον αὐτὸν μετατεθείκασι πολλοὶ τῶν ἐξηγητῶν, ἀντὶ τοῦ γενόμενα καὶ προγενόμενα γενομένη γράψαντες, ἵν’ ἐπὶ τὴν ἀπόσκηψιν ὁ λόγος ἀναφέρηται, πάντες δὲ ἤκουσαν τὴν σκῆψιν ἐπὶ τῆς ἀποσκήψεως εἰρῆσθαι. τάχα καὶ σφαλέντος τοῦ πρώτου γράψαντος βιβλιογράφου, ὡς ταῖς διανοίαις τὰ αὐτὰ κατὰ πάσας τὰς γραφάς ἐστι. βούλεται γὰρ ὁ Ἱπποκράτης λέγειν τὰς ἀποσκήψεις, ἐφ’ οἷς ἂν πάθεσι γινόμεναι λύειν αὐτὰ δύνανται, τούτων προγενομένας κωλύειν γενέσθαι. δοκεῖ δέ μοι δύνασθαι καὶ οὕτως ἀκούειν τῆς ῥήσεως, εἴ γε κατὰ τήνδε τὴν λέξιν εἴρητο.",
+   "english": "This being the old reading, many of the commentators have changed it toward greater clarity, writing genomenē instead of genomena and progenomena, so that the statement may refer to the aposkēpsis [the settling of disease into a part]; and all have understood skēpsis to be said in the sense of aposkēpsis. Perhaps the first scribe who wrote [it] even made a mistake, since in meaning the same things are present in all the readings. For Hippocrates means that aposkēpseis, in whatever affections they are able to resolve when they occur, prevent those [affections] from occurring if they happen beforehand. But it seems to me that the passage can also be understood in this way, if it had been stated in this wording:",
+   "notes": "Text-critical discussion of Greek word forms; the original terms are transliterated. The logic of the readings is compressed and possibly corrupt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06838",
+   "ref": "6.4.5.1",
+   "original": "ἐάσαντες οὖν τὴν ἐν λέξει λεπτολογίαν, ἐπὶ τὰ διδασκόμενα πράγματα μεταβαίνοντες τοιαῦτα τῇ προειρημένῃ γυναικὶ καὶ τοῖς ἄλλοις δὲ δηλονότι τοῖς οὕτω διακειμένοις συμφέρει χοιρείων τε κρεῶν ἐδωδῆς καὶ βοείων καὶ προβατείων ἀπέχεσθαι, τούτων μὲν ὡς ἰσχυρῶν τε καὶ δυσπέπτων, σκορόδου δὲ ὡς δριμέος τε καὶ διαβρωτικοῦ, βοῆς δὲ, ὡς οὐ μόνον τὰ προεῤῥωγότα τῶν ἀγγείων ἐπιῤῥίπτειν δυναμένης, ἀλλὰ καὶ τὰ μήπω πρότερον πεπονθότα τοῖς ἐν τοῖς ἀναπνευστικοῖς ὀργάνοις ἀδικεῖν, τάσιν τέ τινα καὶ θερμασίαν καὶ πνευμάτωσιν ἐν αὐτοῖς ἐργαζομένης. δῆλον δ’ ὅτι ταῦτα μὲν ὡς παραδείγματα εἴρηται τῷ Ἱπποκράτει, συμβουλεύει δ’ ἀπέχεσθαι πάντων μὲν τῶν δυσπέπτων, πάντων δὲ τῶν δριμέων, ἁπάντων δὲ τῶν κακοχύμων καὶ προσέτι τῶν βιαίαν τινὰ τάσιν ἐν τοῖς ἀναπνευστικοῖς ὀργάνοις ἐργαζομένων.",
+   "english": "So, leaving aside hair-splitting about the wording and passing on to the matters being taught: for the woman just mentioned, and clearly also for others in such a condition, it is beneficial to abstain from eating pork, beef and mutton, these as strong and hard to digest; from garlic as pungent and corrosive; and from shouting, since it is able not only to re-open vessels that have already ruptured but also to harm those not yet previously affected in the respiratory organs, producing a certain strain, heat and inflation in them. It is clear that these things are said by Hippocrates as examples, and that he advises abstaining from all things hard to digest, all pungent things, all things producing bad humours, and in addition those that produce some violent strain in the respiratory organs.",
+   "notes": "βοῆς (\"shouting\") plays on βοός (\"ox\") in the lemma; Galen takes the lemma's word both as beef and as shouting.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06839",
+   "ref": "6.4.9.5",
+   "original": "γενήσεται δὲ τοῦτο φυλάττοντος μὲν ἔν τε τῷ βλέμματι καὶ τῷ φλέγματι καὶ τῷ παντὶ τοῦ σώματος σχήματι τὸ σεμνὸν τοῦ ἰατροῦ, ἐκδιδάσκοντος δὲ τὸν κάμνοντα πείθεσθαι τοῖς πραττομένοις ὑφ’ ἑαυτοῦ. πολλοὶ δ’ εἰσὶ λόγοι καί σοι παραδείγματος ἕνεκεν οὐκ ὀκνήσω παραθέσθαι τινά. δυνήσεται γὰρ ὁ ἰατρὸς ἐπὶ προοιμίῳ πιθανῷ μετὰ ταῦτα πρὸς τὸν κάμνοντα διελθεῖν ὅσα περὶ τῶν τοιούτων Ἱπποκράτης ἔγραψε, πρῶτον μὲν ἐν τοῖς ἀφορισμοῖς εἰπών· δεῖ δὲ οὐ μόνον ἑωυτὸν παρέχειν τὰ δέοντα ποιέοντα, ἀλλὰ καὶ τὸν νοσέοντα καὶ τοὺς παρεόντας ἔξωθεν. ἐν δὲ τῷ πρώτῳ τῶν ἐπιδημιῶν ἡ τέχνη διὰ τριῶν, τὸ νόσημα, ὁ νοσέων, ὁ ἰατρὸς, ὑπεναντιοῦσθαι τῷ νοσήματι τὸν νοσέοντα μετὰ τοῦ ἰατροῦ. καὶ ὡς τριῶν ὄντων, ἰατροῦ καὶ νοσήματος καὶ κάμνοντος, ἐὰν ὁ νοσῶν ἐάσῃ μόνον πολεμεῖν τῷ νοσήματι τὸν ἰατρὸν ἢ καὶ πρὸς αὐτὸ μεταστὰς ἐναντιοῦται τῷ ἰατρῷ, συμβήσεται νικηθῆναι τὸν ἰατρὸν ὑπὸ τοῦ νοσήματος.",
+   "english": "This will come about if the physician preserves his dignity in his look, his phlegm, and the whole bearing of his body, and teaches the patient to obey what is done by him. There are many arguments, and for the sake of example I will not hesitate to set one before you. For after a persuasive preface the physician will be able next to go through with the patient what Hippocrates wrote about such matters, first saying in the Aphorisms: \"One must not only present oneself doing what is needed, but also the patient and the attendants and the externals.\" And in the first book of the Epidemics: \"The art [consists] of three things: the disease, the patient, the physician; the patient must oppose the disease together with the physician.\" And [he will say] that, since there are three, physician, disease and patient, if the patient leaves the physician alone to fight the disease, or even goes over to it and opposes the physician, the physician will be defeated by the disease.",
+   "notes": "φλέγματι (\"phlegm\") is surely an error, probably for φθέγματι, \"voice\"; translated literally here.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06840",
+   "ref": "6.4.10.1",
+   "original": "καὶ καθ’ ἑτέραν δὲ χρείαν ὕδωρ προθερμαίνοντες ψύχομεν, εἴ γε μήτε γεῦσιν ἔχοι μήτ’ ὀδμὴν μοχθηρὰν, ἀκριβῶς δ’ εἴη καθαρὸν, ὅταν αὐτοῦ πειραθῶμεν, ἤτοι γε πλέον ἐν τῇ γαστρὶ διαμένοντος ἢ πλήττοντος αὐτὴν ἢ ἐκφυσῶντος ἢ βαρύνοντος. ἔστι γὰρ ἀμέλει καὶ τοιαῦτα πολλὰ περὶ ὧν μάλιστά μοι δοκεῖ γεγραφέναι τὴν διάκρισιν ἀπὸ τῶν ἀρίστων ὑδάτων ὁ Ἱπποκράτης, ἔνθα φησίν· ὕδωρ τὸ ταχέως ψυχόμενον κουφότατον. οὐ γὰρ ἐπὶ τῶν βορβορωδῶν ἢ δυσωδῶν ἢ φαρμακῶδές τι κατὰ τὴν γεῦσιν ἐμφαινόντων ἡ τοιαύτη διάγνωσίς ἐστι χρήσιμος, ἅ γε προδήλως ἐμφαίνεται πᾶσιν, ἀλλ’ ἐφ’ ὦν οὐδὲν μὲν τούτων ἐστὶν, ἑτέρα δέ τις ἤτοι δι’ ἐπιμιξίαν ἀέρος μοχθηροῦ κακία περὶ τὸ ὕδωρ ἐστὶν, ἤ τις ἄλλη σύμφυτος αὐτῷ τῷ ὕδατι διαλεληθυῖαν ἔχουσα τὴν αἰτίαν.",
+   "english": "And for another purpose too we heat water beforehand and then cool it, if it has neither a bad taste nor smell and is perfectly clear, when we find by trial that it either stays too long in the stomach, or strikes it, or inflates it, or weighs on it. For there are indeed many such [waters], and it seems to me that it is especially for these that Hippocrates wrote the test for distinguishing them from the best waters, where he says: \"Water that cools quickly is lightest.\" For such a diagnosis is not useful for muddy or foul-smelling waters, or those showing some drug-like quality in taste, which are plainly evident to all, but for those in which none of these is present, yet some other defect exists in the water, either through admixture of bad air, or some other innate in the water itself, having a hidden cause.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06841",
+   "ref": "6.4.17.1",
+   "original": "ταῦτα δὲ οὐδὲ γινώσκουσι τὴν ἀρχὴν οἱ πολλοὶ τῶν ἐξηγησαμένων τὰ Ἱπποκράτους βιβλία. μάθοις δ’ ἂν οὕτως ἔχον ὃ λέγω καθ’ ὧν ἐγκαλεῖ Λύκος λόγων ἐν ἀφορισμοῖς αὐτῷ γράψαντι, τὰ αὐξανόμενα πλεῖστον ἔχειν τὸ ἔμφυτον θερμόν. ἀλλ’ ὅτι γε δι’ ἄγνοιαν ὧν ὁ Ἱπποκράτης ὀρθῶς ἔγραψε περὶ τῆς κατὰ τὰς θερμασίας διαφορᾶς ἐπηρεάζειν αὐτὸν ἐτόλμησε, δι’ ἑνὸς ὅλου βιβλίου δέδεικται τὴν ἐπιγραφὴν ἔχοντος ὅτι μηδὲν ἡμάρτηται κατὰ τὸν ἀφορισμὸν οὗ ἡ ἀρχὴ, τὰ αὐξανόμενα, πλεῖστον ἔχει τὸ ἔμφυτον θερμὸν, πλείστης οὖν δεῖται τροφῆς.",
+   "english": "But most of those who have commented on the books of Hippocrates do not even know these things at all. You could learn that what I say is so from the arguments by which Lycus accuses him for having written in the Aphorisms that growing bodies have the most innate heat. But that he dared to abuse him through ignorance of what Hippocrates rightly wrote about the difference among kinds of heat has been shown in a whole book bearing the title That There Is No Error in the Aphorism Beginning \"Growing Bodies Have the Most Innate Heat; They Therefore Need the Most Nourishment.\"",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06842",
+   "ref": "6.4.20.1",
+   "original": "βελτίων γὰρ ὕδατος οἶνος, οὐ μόνον εἰς τὴν γαστέρα πέψιν, ἀλλὰ καὶ πρὸς τὴν τῶν πεφθέντων ἀνάδοσιν αἱμάτωσίν τε καὶ θρέψιν, οὔρησίν τε καὶ διαπνοὴν, ἐπὶ τῶν ὑγιαινόντων σωμάτων. εὔδηλον δὲ ὡς ἐπὶ τούτων ὁ λόγος εἴρηται νῦν ὑφ’ Ἱπποκράτους, οὐδενὸς ἀγνοοῦντος ἡνίκα βλάπτει τοὺς πλείστους τῶν νοσούντων οἶνος. ἀλλὰ καὶ ἡ ἀγρυπνία κατὰ διττὸν τρόπον γινομένη διττὴν ἔχει καὶ τὴν ἐπὶ ταῖς ἐδωδαῖς τελευτήν. εἰ μὲν γὰρ πράττοντές τι διὰ νυκτὸς, ὡς ἐν ταῖς παννυχίσιν, ἐγρηγορότες διατελέωσι, κενοῦται μὲν τὸ σῶμα, βλάβη δ’ οὐδεμία σαφὴς γίνεται δυνάμεως.",
+   "english": "For wine is better than water, not only for digestion in the stomach but also for the distribution of what has been digested, for blood-making and nourishment, for urination and transpiration, in healthy bodies. It is clear that Hippocrates is now speaking of these, since no one is unaware of when wine harms most of the sick. Sleeplessness too, occurring in two ways, has also a twofold outcome with respect to foods. For if people stay awake doing something through the night, as at all-night festivals, the body is emptied, but no evident harm to its strength occurs.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06843",
+   "ref": "6.4.25.1",
+   "original": "Ὅτι διττὸν οἶδε κατὰ τὸ σῶμα ζώων τὸ θερμὸν ὁ Ἱπποκράτης, ἕτερον μὲν ὅπερ αὐτὸς ἔμφυτον ὀνομάζει, τὴν οὐσίαν ἔχον ἐν αἵματί τε καὶ ἐν τοῖς ἐναίμοις σπλάγχνοις, ἕτερον δὲ δριμὺ καὶ δακνῶδες καὶ πυρῶδες, ἐν ᾧ γένει καὶ ὁ πυρετός ἐστιν, ἐν πολλοῖς ἤδη τῶν συγγραμμάτων αὐτοῦ δέδεικται. γέγραπται δέ μοι καὶ καθ’ ἓν ὑπόμνημα τελέως περὶ τοῦδε, καθ’ ὃ τὴν ἐπιγραφὴν ἐποιησάμην, ὅτι μηδὲν ἡμάρτηται κατὰ τὸν ἀφορισμὸν, οὗ ἡ ἀρχὴ τὰ αὐξανόμενα πλεῖστον ἔχει τὸ ἔμφυτον θερμόν.",
+   "english": "That Hippocrates knows heat in the body of animals to be twofold, one which he himself calls innate, having its substance in the blood and in the blood-filled viscera, the other sharp, biting and fiery, to which class fever too belongs, has already been shown in many of his writings. And I have also written fully about this in a single treatise, to which I gave the title That There Is No Error in the Aphorism Beginning \"Growing Bodies Have the Most Innate Heat.\"",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06844",
+   "ref": "6.5.2.1",
+   "original": "διὸ καὶ τούτοις αὐτοῖς ἐπεφώνησεν, ἀπαίδευτος ἡ φύσις οὖσα οὐ μαθοῦσα τὰ δέοντα ποιεῖ. καλοῦνται μὲν οὖν οἱ μαθόντες ὁτιοῦν μάθημα πεπαιδεῦσθαι κατ’ ἐκεῖνο, τῇ φύσει δ’ ὑπάρχει πεπαιδευμένα τὰ μέγιστα ﻿ εἶναι χωρὶς τοῦ μαθεῖν, ὥσπερ ὁ Θουκυδίδης ἐπὶ τοῦ Θεμιστοκλέους εἶπεν. οἰκείᾳ γὰρ συνέσει καὶ οὔτε προμαθὼν εἰς αὐτοὺς οὐδὲν οὔτε ἐπιμαθὼν, τῶν δὲ παραχρῆμα, δι’ ἐλαχίστης βουλῆς κάλλιστος γνώμων καὶ τῶν μελλόντων ἐπὶ πλεῖστον τοῦ γενησομένου ἄριστος εἰκαστής.",
+   "english": "That is why he also added to these very things the remark: \"Nature, being untaught and without having learned, does what is needed.\" Now those who have learned any subject whatever are said to be educated in that subject, but nature has the most important things as if educated, without learning, just as Thucydides said of Themistocles: \"For by his native intelligence, having learned nothing about them beforehand nor afterwards, he was, of things present, with the least deliberation, the best judge, and of things to come, over the widest range of what would happen, the best guesser.\"",
+   "notes": "The sentence 'τῇ φύσει δ’ ὑπάρχει πεπαιδευμένα τὰ μέγιστα εἶναι' is awkward; rendered by sense. The Thucydides quotation (1.138) is somewhat garbled in this text (e.g. 'τῶν δὲ παραχρῆμα' lacks its partner phrase).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06845",
+   "ref": "6.5.5.1",
+   "original": "δέδεικται γὰρ ἡ μὲν ἀναπνοὴ τὴν συμμετρίαν τῆς ἐμφύτου θερμασίας φυλάττειν, ἡ δὲ τῶν σιτίων προσφορὰ τὸ διαῤῥέον τῆς σωματικῆς οὐσίας ἀναπληροῦν, καὶ εἴπερ εἶδός τι τοῦ σώματός ἐστιν ἡ ψυχὴ, προσηκόντως ἂν λέγοιτο φύεσθαι μέχρι τοῦ θανάτου. εἰ δέ ἐστιν ἑτέρα τις αὐτῆς οὐσία τῆς φύσεως, ἣν Ἀριστοτέλης μὲν ὀνομάζει θρεπτικὴν, ἐπιθυμητικὴν δὲ Πλάτων, ἀληθὲς ἂν εἴη τὸ εἰρημένον, οὐκ ἀληθὲς δὲ ἐπὶ τῆς διανοητικῆς ﻿ ψυχῆς. ὅτι μέντοι τὸ ἔμφυτον θερμὸν, ᾧ μάλιστα ἀναφέρει τὰ σωματικὰ τῶν ἔργων ὁ Ἱπποκράτης, ἐκπυρωθὲν οὐ μόνον οὐκ ἔστι δυνάμενον τὰς ἔμπροσθεν ἐνεργείας ἐπιτελεῖν, οὐδὲ τρέφειν ἡμᾶς, ὅπερ ἦν αὐτῷ κυριώτατον, ἀλλὰ διαφθείρει τε καὶ τήκει καθάπερ τὸ πῦρ, εὔδηλόν ἐστι τῷ λόγῳ σκοπουμένοις ἡμῖν καὶ τὰς ὑπὸ τῶν διακαῶν πυρετῶν συντήξεις τοῦ σώματος ἐναργῶς ὁρῶσι.",
+   "english": "For it has been shown that respiration preserves the due proportion of the innate heat, and the taking of food replenishes what flows away from the bodily substance; and if the soul is some form of the body, it could properly be said to grow until death. But if there is some other substance of it belonging to nature, which Aristotle calls nutritive and Plato appetitive, what has been said would be true, but not true of the rational soul. That, however, the innate heat, to which Hippocrates chiefly refers the bodily functions, when it becomes inflamed not only cannot carry out its former activities, nor nourish us, which was its most important [function], but destroys and melts [the body] as fire does, is quite clear to us when we examine it by reason and plainly see the wasting of the body caused by burning fevers.",
+   "notes": "'ἑτέρα τις αὐτῆς οὐσία τῆς φύσεως' is obscure; perhaps 'if the substance of nature is something other than it [the soul]'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p00789",
+   "ref": "6.5.11.1",
+   "original": "ψυχῆς περὶ παντὸς φροντὶς ἀνθρώποις, ἵν’ ᾖ δηλούμενον ἐξ αὐτῆς, περὶ παντὸς τοῖς ἀνθρώποις, ἀσκητέον ἐστὶ τὸν λογισμόν. αἱ γάρ τοι διανοήσεις ὀνομάζονται φροντίδες, ὅθεν καὶ τὸν Σωκράτην φροντιστὴν ἐκάλουν καὶ φροντίδας τὰ σοφὰ βουλεύματα τἀνδρὸς ὠνόμαζον, ὡς κᾀν ταῖς Ἀριστοφάνους Νεφέλαις ἔστιν εὑρεῖν, ἔνθα κωμῳδεῖ καὶ σκώπτει τὸν Σωκράτην ὡς ἀδολέσχην. εἰ δέ τῳ δόξῃ φιλοσόφου θεωρίας, οὐκ ἰατρικῆς, ὁ λόγος ἔχεσθαι, πρῶτον μὲν ἐνθυμείτω κοινὸν ἁπασῶν εἶναι τῶν λογικῶν αὐτὸ τεχνῶν ἐν αἷς τὸν λογισμὸν χρὴ γυμνάζειν, ὡς ἄλλοις τε πολλοῖς εἴρηται τῶν ἰατρῶν, Ἐρασιστράτῳ τ’ οὐκ ὀλιγάκις.",
+   "english": "'for human beings, concern of the soul about everything', so that what is meant by it is that human beings must exercise their reasoning about everything. For thoughts are called *phrontides* ('concerns'). Hence they also called Socrates a *phrontistēs* ('thinker') and named the man's wise deliberations *phrontides*, as one can find in Aristophanes' Clouds, where he ridicules and mocks Socrates as an idle babbler. If anyone thinks the discussion belongs to philosophical theory and not to medicine, let him first consider that this is common to all the rational arts in which one must exercise one's reasoning, as has been said by many other physicians, and not infrequently by Erasistratus.",
+   "notes": "The opening words are Dioscorides' reading of the Hippocratic text, περὶ παντός ('about everything') instead of περίπατος ('walking'), as the preceding context explains.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p06846",
+   "ref": "6.5.12.1",
+   "original": "τινὲς δὲ οὐκ ἐπὶ τραυμάτων μόνον, ἀλλὰ κᾀπὶ τῶν σφοδρῶς συντριβέντων ὀστῶν, μάλιστ’ ἐφ’ ὦν ἔξω τοῦ δέρματος ἀνέσχε τι μέρος αὐτῶν, ὡσαύ τως δὲ κᾀπὶ τῶν τοιούτων ἐξαρθρημάτων, ἁπασῶν τε τῶν μεγάλην θλάσιν ἐν τῷ σώματι ποιουσῶν πληγῶν τὸν λόγον εἰρῆσθαί φασι. τρώματα γὰρ ὀνομάζει Ἱπποκράτης τὰς μεγάλας βλάβας ἔκ τινος τῶν ἔξωθεν γενομένας, εἰ καὶ χωρὶς τραύματος. τῇ δὲ περὶ τοῦ συντρέχειν εἰς ταῦτα τὸ αἷμα καὶ πληροῦν τὸ ἐκκενωθὲν, αὕτη καὶ τοῖς ταῦτα λέγουσιν ἐξήγησις. ὅτι μὲν οὖν ὁ Ἱπποκράτης εἴθισται τρώματα καλεῖν τὰς τοιαύτας βλάβας ἐν πολλοῖς ἤδη τῶν βιβλίων αὐτοῦ μεμαθήκαμεν.",
+   "english": "But some say that the statement was made not only about wounds, but also about severely shattered bones, especially those of which some part has protruded outside the skin, and likewise about such dislocations, and about all blows that cause great bruising in the body. For Hippocrates calls 'wounds' (trōmata) the great injuries arising from some external cause, even if without a wound. And the explanation concerning the blood running together into these [parts] and filling what has been emptied is the same for those who say this too. Now that Hippocrates is accustomed to call such injuries 'wounds' we have already learned in many of his books.",
+   "notes": "'ὡσαύ τως' read as ὡσαύτως.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06847",
+   "ref": "6.5.13.1",
+   "original": "παρηγορεῖσθαι γὰρ ἐνίοτε κᾀκ τῶν τοιούτων τοὺς κάμνοντας, ἡγεῖσθαί τε θεραπείαν ἑαυτῶν ἐπιμελεστέραν γίνεσθαι καὶ μέντοι καὶ μείζονα τῶν ὄντων τὰ πάθη φαίνεσθαι τοῖς κάμνουσι χρήσιμόν εἶναί φασιν εἰς τὸ μὴ μέμφεσθαι τοῖς προνοουμένοις, ὡς οὐ ταχέως ἰωμένοις καὶ πρὸς τὸ πείθεσθαι τῇ κατὰ τὴν δίαιταν ἀκριβείᾳ. τινὲς δὲ προστιθέασιν ὅτι καὶ μισθοὺς μείζονας καὶ δῶρα θεραπευθέντες δώσουσι τοῖς ἰατροῖς οἱ μεγάλων παθῶν ἀπηλλάχθαι νομίζοντες. ὅπερ αὖ πάλιν ἐνίοις οὐ κατὰ τὴν Ἱπποκράτους προαίρεσιν εἶναι φαίνεται καὶ διὰ τοῦτο τὴν ῥῆσιν ὅλην ὑποπτεύουσιν ὡς παρεγγεγραμμένην. οὐδὲ τοῦτό ἐστιν εἰπεῖν περὶ τῆς προκειμένης ῥήσεως, ὅπερ ἔνιοι πιθανῶς ἔδοξαν εὑρηκέναι, τὴν παρηγορίαν τῆς ὀδύνης ἀπάτην εἰρῆσθαι νομίζοντες, ὡς οὐ ταὐτὸν ὂν ἰάσασθαί τε τὴν νοσώδη διάθεσιν, ἐκκόπταντας τὴν οἶον ῥίζαν αὐτῆς, ὀδύνην τε πραΰνειν παρηγορήσαντας.",
+   "english": "For they say that patients are sometimes comforted even by such things, and believe that more careful treatment of themselves is taking place; and moreover that it is useful for their afflictions to appear to the patients greater than they are, so that they do not blame those caring for them for not healing them quickly, and so that they comply with strictness in diet. Some add that patients who think they have been freed from great afflictions will, once treated, give larger fees and gifts to the physicians. This again seems to some not to accord with Hippocrates' intention, and for this reason they suspect the whole passage of being interpolated. Nor can one say about the passage before us what some seemed plausibly to have found, thinking that the relief of pain was called 'deception', on the grounds that it is not the same thing to cure the diseased condition by cutting out, as it were, its root, and to soothe pain by relieving it.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06848",
+   "ref": "6.5.17.1",
+   "original": "ἔνια μὲν γὰρ ἱκανῶς ἐστιν ἁλμυρὰ, τινὰ δὲ πικρὰ, τινὰ δὲ δριμέα, καθάπερ ὀξέα μὲν ἄλλα, γλυκέα δ’ ἄλλα. μικτὴ τοιγαροῦν, ὡς ἔφην, εἰ τῶν τοιούτων τις γεύοιτο, γενήσεται τῶν χυμῶν αὐτῶν ἡ διάγνωσις, ἔκ τε τοῦ κατὰ τὴν γλῶτταν ὑπάρχοντος ἤδη καὶ τοῦ ψαύοντος ἔξωθεν αὐτῆς. διὰ τοῦτ’ οὖν ὁ Ἱπποκράτης ἕν τι τῶν τοιούτων ἔγραψεν εἰς ἀνάμνησιν ἑαυτῷ, καθάπερ εἴωθε ποιεῖν ἐν τούτοις τοῖς ὑπομνήμασι.",
+   "english": "For some are quite salty, some bitter, some pungent, just as others are sour and others sweet. Therefore, as I said, if someone tastes such things, the discrimination of the flavours themselves will be mixed, arising both from what is already present on the tongue and from what touches it from outside. For this reason, then, Hippocrates wrote down one example of such things as a reminder to himself, as he is accustomed to do in these notes.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06849",
+   "ref": "6.5.18.1",
+   "original": "Οὐ κατὰ τὴν Ἱπποκράτους ἑρμηνείαν ἐστὶν ἄγγος ὀνομάσαι τὴν ὑστέραν, τὸ γοῦν λεγόμενον εὔδηλόν ἐστιν. ἐὰν γάρ τι τῶν εἰρημένων σημείων περὶ τοὺς τιτθοὺς γένηται, νοσώδη διάθεσιν εἶναι κατὰ τὴν ὑστέραν δηλοῖ. πολλάκις γὰρ ἤδη μεμαθήκατε περὶ τῆς κοινωνίας τῶν τιτθῶν πρὸς τὴν μήτραν.",
+   "english": "It is not in keeping with Hippocrates' manner of expression to call the womb a 'vessel'; at any rate what is meant is quite clear. For if any of the signs mentioned occurs in the breasts, it shows that there is a diseased condition in the womb. For you have already learned many times about the connection of the breasts with the uterus.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06850",
+   "ref": "6.5.33.1",
+   "original": "καὶ μέντοι καὶ καταπλαττομένη τοῖς φλεγμαίνουσιν ἕλκεσι φακὴ φαίνεται μὲν ἀναστέλλουσα καὶ ἀποκρουομένη τοὺς ἐπιῤῥέοντας χυμοὺς τῷ πεπονθότι μέρει, τῷ σύφειν δηλονότι ποιοῦσα. φαίνεται δὲ καὶ πεπτικὸν ἔχειν τὸ καὶ πυοποιὸν, ὅπερ ἥκιστα τοῖς ψυχροῖς ὑπάρχει. εἴτ’ οὖν αὐτὸς ὁ Ἱπποκράτης οὕτως ἔγραψεν, εἴτε τις ἄλλος ἐστὶν ὁ παρεγγράψας τήνδε τὴν ῥῆσιν, οὐκ ὀρθῶς ἐγίνωσκε περὶ φακῶν δυνάμεως.",
+   "english": "And moreover, when applied as a poultice to inflamed sores, lentil appears to repress and drive back the humours flowing into the affected part, doing this evidently by its astringency. But it also appears to have a concocting and pus-forming [property], which belongs least of all to cold things. So whether Hippocrates himself wrote thus, or someone else interpolated this passage, he did not judge correctly about the power of lentils.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06851",
+   "ref": "6.6.5.1",
+   "original": "νῦν δὲ καὶ περὶ τῶν ἄλλων, ὅσαι κατὰ τὸν αὐτὸν λόγον γίνονται, ποτὲ μὲν διὰ πάχος αἵματος, ποτὲ διὰ ψύξιν, ἀναμνήσθητε πολλάκις ἑωρακότες ἐπί τε τῶν κατὰ κοιλίαν ὀδυνῶν, ἐπί τε τῆς καλουμένης ἡμικραίρας, οἶνον ἀκρατέστερον αὐτίκα μὲν ὠφελήσαντα σαφῶς, ὕπνου δὲ ἐπιγενομένου τελέως παύσαντα· τεθέασθέ με διδόντα οἶνον οὐκ εὐθέως νήστει, ἀλλ’ ἐπὶ τροφῇ. νῦν δὲ ὁ Ἱπποκράτης ἔμιξεν ἀμφότερα καὶ τὴν τροφὴν καὶ τὸ πόμα. τοιοῦτον γάρ τι πρᾶμά ἐστιν ὁ κυκεὼν, ὡς καὶ παρ’ Ὁμήρου μεμαθήκατε. μιγνύντων μὲν ἄλλα τῷ οἴνῳ, κοινὸν δ’ ἐχόντων ἁπάντων αὐτόν. ἴσως καί τι τὸ μετ’ ἀλφίτων μὲν εἶναι τὸν οἶνον. ἐξ ἀνάγκης δὲ καί τι ἄλλο ἐκ τοῦ κυκεὼν ὀνόματος ἀξιώσει τις δηλοῦσθαι τοὺς παλαιούς, οὕτω μᾶλλον ἐπιδεικνὺς κεχρῆσθαι τῇ προσηγορίᾳ.",
+   "english": "But now, concerning the others too, which arise for the same reason, sometimes through thickness of blood, sometimes through chilling, remember that you have often seen, in pains of the belly and in what is called hemicrania, rather undiluted wine at once clearly helping, and, when sleep followed, stopping [the pain] completely; you have watched me give wine not immediately to a fasting person, but after food. Now Hippocrates has mixed both, the food and the drink. For the kykeōn (a mixed potion) is a thing of this sort, as you have learned also from Homer, people mixing other things with the wine, but all [mixtures] having it in common. Perhaps also it is something [meaning] wine with barley-meal. But necessarily someone will claim that the ancients also meant something else by the name kykeōn, thus rather showing that they used the term [more widely].",
+   "notes": "The last sentences are elliptical and possibly corrupt; 'πρᾶμα' read as πρᾶγμα. Sense of the final sentence uncertain.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06852",
+   "ref": "6.6.7.1",
+   "original": "Τὴν ἐπιληψίαν οἱ παλαιοὶ καὶ μεγάλην νόσον ἐκάλουν καὶ πάθος παιδίων, ὥσπερ αὐτὸς ὁ Ἱπποκράτης ἐν τῷ περὶ ὑδάτων καὶ ἀέρων καὶ τόπων, ἐπειδὴ κατὰ τὴν τῶν παίδων ἡλικίαν πλεονάζει, τινὲς δὲ Ἡρακλείαν αὐτὴν ἐκάλεσαν, οὐχ ὡς ἐπιλήπτου τοῦ Ἡρακλέους ὄντος, ἀλλ’ ἐοίκασιν οὗτοι ἐπονομάζειν ἐλλογίμοις ὀνόμασιν αὐτὴν, ὡσαύτως γε γνόντες ἐνδεικτικὸν μεγέθους ὄνομα ποιῆσαι τὴν Ἡρακλείαν.",
+   "english": "The ancients called epilepsy both 'the great disease' and 'the affliction of children', as Hippocrates himself does in Airs, Waters, Places, since it is most frequent at the age of childhood; and some called it 'the Heraclean [disease]', not because Heracles was epileptic, but these people seem to name it with distinguished names, likewise judging that making 'Heraclean' its name would indicate its magnitude.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  }
+ ]
+}

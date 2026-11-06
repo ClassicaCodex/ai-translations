@@ -1,0 +1,115 @@
+{
+ "source_edition": "tlg4034.tlg006.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg4034.tlg006.1st1K-grc1",
+ "title": "In Librum Quintum Ethicorum Nicomacheorum Commentarium",
+ "author": "Michael of Ephesus",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg4034.tlg006.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p03133",
+   "ref": "1.14",
+   "original": "Τουτέστιν ἅπαν κακὸν πόρρω τῆς δικαιοσύνης. ἡ δὲ παροιμία Θεόγνιδός ἐστιν, ὡς Θεόφραστός φησιν ἐν τῷ πρώτῳ Περὶ ἠθῶν λέγων, ἐν δὲ τῷ πρώτῳ τῶν Ἠθικῶν ὡς Φωκυλίδης αὐτοῦ μέμνηται, καὶ οὐδὲν θαυμαστὸν καὶ Φωκυλίδην αὐτῷ καὶ Θέογνιν χνήσασθαι. πολλοὶ γὰρ ἐν μὲν τοῖς οἰκείοις δύνανται τῇ ἀρετῇ χρῆσθαι.",
+   "english": "That is, every evil is far from justice. The proverb is Theognis', as Theophrastus says in the first book of his On Characters, while in the first book of the Ethics [he says] that Phocylides mentions it; and it is nothing surprising that both Phocylides and Theognis made use of it. For many are able to practise virtue in their own affairs.",
+   "notes": "\"χνήσασθαι\" is evidently a scanning error for \"χρήσασθαι\" (\"made use of\"), translated as such. The lemma glossed (\"every evil far from justice\") is not given in the passage. The sentence beginning \"For many...\" breaks off; Aristotle's point continues: \"but not in relation to others\". The reference to the \"first book of the Ethics\" is ambiguous; its subject is presumably Theophrastus.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p13812",
+   "ref": "1.25",
+   "original": "ὁμοίως καὶ ὁ μοιχεύσας ἢ χρήματα δέδωκεν ἢ δεινόν τι πέπονθε, καὶ ὁ διὰ φαρμακοδοσίας ἀνελών τινα ἐπίσης τούτοις ὅμοιόν τι πέπονθεν. ὁμοίως καὶ ὁ δοῦλον ἀπατήσας καὶ ὁ φονεύσας ἀντάλλαγμα δίδωσι. προαγωγὸς δὲ κυρίως λέγεται ὁ τὴν ἑαυτοῦ γυναῖκα μοιχᾶσθαι προτρεπόμενος· νῦν δὲ προαγωγίαν οὐ ταύτην ὁ Ἀριστοτέλης φησί, ἀλλὰ τὴν #x003E; ἄγνοιαν τοῦ οἰκείου ἀνδρὸς μοιχείαν τῆς μοιχευομένης. τῆς οὖν τοιαύτης μοιχείας λαθραίας οὔσης, ἐπειδὰν γνωσθῇ, διόρθωσις γίνεται καὶ τὸ διορθωτικὸν δίκαιον. εἰπὼν δὲ τίν εἰσὶ τὰ δι’ ἄγνοιαν ἀκούσια, λέγει καὶ τίνα τὰ βίᾳ, ὅτι αἰκίαι, θάνατοι, δεσμοί, καὶ ἔστι καὶ ἐπὶ τούτων τὸ ἐπανορθωτικόν·",
+   "english": "Likewise the adulterer has either paid money or suffered something terrible, and the one who has killed someone by administering poison has equally suffered something similar to these. Likewise both the one who has deceived a slave and the one who has committed murder give something in exchange. A procurer is properly so called who urges his own wife to commit adultery; but here Aristotle does not mean this procuring, but the adultery of the woman seduced [committed] without the knowledge of her own husband. Since such adultery, then, is secret, once it becomes known, a correction takes place, and [so does] corrective justice. Having said which involuntary [transactions] are due to ignorance, he also says which are due to force, namely assaults, killings, imprisonments; and in these cases too there is the rectificatory [justice];",
+   "notes": "The text before 'ἄγνοιαν' contains a stray code ('#x003E;'), probably standing for a lost word such as 'παρ'' or 'κατ''; translated as 'without the knowledge of'. The phrase rendered 'the one who has deceived a slave' (δοῦλον ἀπατήσας) presumably refers to Aristotle's 'enticing away of slaves' (δουλαπατία).",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p03134",
+   "ref": "1.45",
+   "original": "οὐδὲν οὖν τοιοῦτον ἐπιζητεῖ, ἀλλ' ὡς ἴσους λαβὼν σκοπεῖ, εἰ ὁ μὲν ἠδίκησεν ὁ δ’ ἠδικήθη, καὶ τίς καὶ ποία ἡ κατὰ τὴν βλάβην διαφορά, καὶ τὴν ἀνισότητα τὴν γενομένην κατὰ τὴν τῆς βλάβης διαφορὰν ἐπανορθοῦν πειρᾶται καὶ εἰς ἰσότητα ἁπλῶς ἐπανάγειν σπουδάζει, καὶ οὐ κατὰ τὴν ἀναλογίαν τῶν ὑποκειμένων εἰς κρίσιν προσώπων. χρῆται δὴ οὖν ὡς ἴσοις τῷ ἀδικήσαντι καὶ ἀδικηθέντι ἢ τῷ βλάψαντι καὶ βλαβέντι. ἰστέον δὲ ὅτι τὴν ἀδικίαν καὶ βλάβην ὁ Ἀριστοτέλης λέγει κἄν οἱ Πλατωνικοὶ ἀδικεῖσθαι μὲν λέγωσι τὸν τὴν ψυχὴν κακυνόμενον, βλάπτεσθαι δὲ τὸν εἰς σῶμα ἢ χρήματα. διὰ τοῦτο καὶ Σωκράτης κατηγορηθεὶς ἔλεγε “Σωκράτην Ἀθηναῖοι βλάψαι μὲν δύνανται, ἀδικῆσαι δὲ οὐ δύνανται”, τουτέστι φονεῦσαι μὲν δύνανται, κακῦναι δέ μου τὴν ψυχὴν οὐ δύνανται. ὅτι δὲ ὁ νομοθέτης οὐ πρὸς ποιότητα προσώπων βλέπων ἢ ὁ δικαστὴς ὁ μὲν νομοθετεῖ ὁ δὲ δικάζει, δῆλον ἐκ τοῦ μὴ γεγράφθαι τέως τῷ νομοθέτῃ ὅτι ὁ ὑβρίσας εὐγενῆ ἢ σπουδαῖον ἄρχοντα ζημιούσθω πλείω ζημίαν ἢ τυπτέσθω πλείους πληγάς, ὁ δὲ φαῦλον ἄρχοντα ἢ οὐκ εὐγενῆ ὑβρίσας ἐλάττω ζημιούσθω ἢ μετρίως κολαζέσθω.",
+   "english": "So he seeks nothing of this sort, but, taking them as equal, he considers whether the one did wrong and the other was wronged, and what and of what kind the difference is with respect to the harm; and he tries to correct the inequality that has arisen according to the difference in the harm, and is eager to bring [things] back to equality simply, and not according to the proportion of the persons who are subject to judgement. So he treats the one who did wrong and the one who was wronged, or the one who harmed and the one who was harmed, as equals. It should be known that Aristotle uses \"wrong\" and \"harm\" [interchangeably], even though the Platonists say that the one whose soul is made bad is wronged, while the one [injured] in body or property is harmed. For this reason Socrates too, when accused, said: \"The Athenians can harm Socrates, but they cannot wrong [him]\", that is, they can kill [me], but they cannot make my soul bad. That the lawgiver or the judge, the one in legislating and the other in judging, does not look to the quality of the persons is clear from the fact that it has not hitherto been written by the lawgiver that whoever has outraged a well-born or worthy magistrate is to be fined a larger fine or beaten with more blows, while whoever has outraged a base or not well-born magistrate is to be fined less or punished moderately.",
+   "notes": "\"uses 'wrong' and 'harm' [interchangeably]\": the Greek says only \"Aristotle speaks of wrong and harm\"; the sense \"as the same\" seems implied by the contrast with the Platonists. \"τέως\" (\"hitherto\") is odd here; perhaps it means \"anywhere\" or the text is corrupt.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p13813",
+   "ref": "1.60",
+   "original": "εἰ γὰρ δοῦλος ἐλεύθερον ἔπληξεν, οὐχ ἅπαξ δεῖ τὸν δοῦλον ἀντιπληγῆναι, ἀλλὰ καὶ πολλάκις. τί δέ ἐστι τὸ ἀντιπεπονθὸς τοῦτο δίκαιον, καὶ νῦν σαφῶς ἐδήλωσε παραθέμενος τὸ τοῦ Ῥαδαμάνθους· ἔστι δὲ τὸ ἔπος ἀπὸ τοῦ Ἡσιόδου. αἰτιᾶται δὲ καὶ ἐνταῦθα Ἀριστοτέλης τῶν Π υθαγορείων τὸ ἁπλῶς εἰπεῖν τὸ ἀντιπεπονθὸς δίκαιον καὶ μὴ διορίσαι μηδὲ προσθεῖναι τὸ κατὰ ἀναλογίαν· τὸ γὰρ ἁπλῶς ἀντιπάσχειν ἕκαστον ὃ πεποίηκεν οὐδαμῶς δίκαιον. οὗ σημεῖον παρέθετο τὸ μὴ ἐφαρμόζειν αὐτὸ μήτε τῷ διανεμητικῷ δικαίῳ μήτε τῷ διορθωτικῷ, εἰς ἃ τὸ δίκαιον διῄρηται.",
+   "english": "For if a slave has struck a free man, the slave must be struck in return not once but many times. What this reciprocal justice is, he has now also shown clearly by citing the [saying] of Rhadamanthys; the verse is from Hesiod. Here too Aristotle faults the Pythagoreans for stating reciprocal justice without qualification, and for neither defining it nor adding 'according to proportion'; for that each should simply suffer in return what he has done is in no way just. As a sign of this he adduced that it fits neither distributive justice nor corrective justice, into which justice has been divided.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p13814",
+   "ref": "1.98",
+   "original": "καὶ γὰρ τὸ φύσει ἀγαθὸν ἀγαθόν ἐστιν, ὡς πάντας ὠφελεῖν τοὺς κατὰ φύσιν ἔχοντας, καὶ οὐχ ἀπλῶς πάντας, ὡς καὶ τὸ τῇ ἑαυτοῦ φύσει γλυκὺ γλυκύ ἐστιν, ὡς γλυκάζειν ἅπαντας τοὺς ὑγιαίνοντας. τὸ δὲ καίτοι παρά γε τοῖς θεοῖς οὐδαμῶς ἴσως ἔχον πρὸς τὴν τοῦ Πλάτωνος δόξαν ἀπιδὼν εἶπε λέγοντος εἶναι καὶ ἐν τοῖς θεοῖς δίκαιον, καὶ πρὸ αὐτοῦ τὴν αὐτοδικαιοσύνην. εἰ γὰρ ἔστι, φησί, παρὰ τοῖς θεοῖς δίκαιον, τοῦτο οὐδέποτε μεταπίπτει οὐδὲ ἄλλοις μὲν τῶν θεῶν ἐστιν αὐτοδίκαιον ἄλλοις δ’ οὐ τοιοῦτον, διὰ τὸ πάντας αὐτοὺς ὁμοίως ἔχειν.",
+   "english": "For what is good by nature is good in such a way as to benefit all who are in a natural condition, and not simply all, just as what is sweet by its own nature is sweet in such a way as to taste sweet to all who are healthy. The [phrase] 'although among the gods perhaps not at all' he said with an eye to the opinion of Plato, who says that there is justice among the gods too, and before it justice-itself. For if, he says, there is justice among the gods, it never changes, nor is it justice-itself for some of the gods and not such for others, because they are all alike in condition.",
+   "notes": "",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p13815",
+   "ref": "1.119",
+   "original": "Εἰπὼν πρότερον περὶ τοῦ ἀδικεῖν καὶ ἀδικεῖσθαι ὅτι ἀδικεῖν ἐστι καὶ ἄδικός ἐστιν ὁ ἑκὼν ἀδικῶν, ἀδικεῖσ·θαι δὲ τὸ ἀκουσίως· πάσχειν, ἐπεὶ πρὸς ταῦτα τὰ τοῦ Εὐριπίδου ἀντιφθέγγεται λέγει γὰρ οὗτος ὅτι ἔστι καὶ ἐπὶ τοῦ ἀδικεῖσθαι τὸ ἑκούσιον καὶ εἰσὶν οἳ ἑκόντες ἀδικοῦνται), ζητεῖ ὁ Ἀριστοτέλης, ἆρα ἔστιν ἑκόντα ἀδικεῖσθαι, καὶ ὡς τὸ ἀδικ·εῖν ἑκούσιόν ἐστι τῷ ἑκουσίῳ γὰρ ὁ ἄδικος ὁρίζεται·",
+   "english": "Having earlier said about doing injustice and suffering injustice that doing injustice is [voluntary], and that the unjust man is the one who does injustice willingly, while suffering injustice is suffering involuntarily, since Euripides' [lines] speak against this (for he says that there is the voluntary in the case of suffering injustice too, and that there are those who are wronged willingly), Aristotle asks whether it is possible to be wronged willingly, and [whether], as doing injustice is voluntary (for the unjust man is defined by the voluntary),",
+   "notes": "Punctuation in the edition is irregular (stray dots, an unopened parenthesis); the sentence continues past the passage.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p13816",
+   "ref": "1.123",
+   "original": "Ζητήσας εἰ ἔστιν ἀληθὲς τὸ ἀδικεῖν τινα ἑαυτόν, ὡς ὁ Εὐριπίδης εἴρηκε, συνάγειν πειρᾶται διὰ τούτων ὅτι ἐνδέχεται ἀδικεῖν ἑαυτόν. ἀλλ’ εἰ τὸ ἀδικεῖν τῷ ἑκουσίῳ ὥρισται, εἰ ἀδικεῖ τις ἑαυτόν, ἑκουσίως ἀδικεῖ, ὥστε καὶ ἑκουσίως ἀδικεῖται· ἔστιν ἄρα τὸ ἑκουσίως ἀδικεῖσθαι, ὡς καὶ ὁ Εὐριπίδης εἶπεν.",
+   "english": "Having asked whether it is true that someone does injustice to himself, as Euripides has said, he tries by these [arguments] to conclude that it is possible to do injustice to oneself. But if doing injustice has been defined by the voluntary, then if someone does injustice to himself, he does injustice voluntarily, so that he also suffers injustice voluntarily; therefore being wronged voluntarily exists, as Euripides too said.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p13817",
+   "ref": "1.125",
+   "original": "τὸ δὲ πράττειν μὴ παρὰ τὴν βούλησιν ἃ πράττει ὡς δεικτικὸν παρέθετο τοῦ ἐπ’ αὐτῷ εἶναι τὸ μὴ πράττειν καὶ κινεῖν ἐπὶ τοῦτο τὰ ὀργανικὰ μόρια, καὶ αὐτός ἐστιν αἴτιος τοῦ ἡττᾶσθαι ὑπὸ τῆς ἡδονῆς. ὁ δὲ τὰ αὑτοῦ διδοὺς ὡς Ὅμηρός φησι δοῦναι τὸν Γλαῦκον τῷ Διομήδει χρύσεα χαλκείων. οὐδὲ ὁ Γλαῦκος, φησίν, ἠδίκησεν ἑαυτόν, ὅτι ἑκὼν δέδωκε τὰ ἑαυτοῦ· ὅτι δὲ ἑκὼν δέδωκε, δείκνυσι προσχρώμενος τῷ ἐπ’ αὐτῷ εἶναι τὸ μὴ δοῦναι τὰ ἑαυτοῦ.",
+   "english": "He added that [the incontinent man] does what he does not contrary to his wish, as indicating that it is in his power not to do [it] and [not] to move his bodily organs to this, and that he himself is the cause of being overcome by pleasure. And the one who gives away his own things, as Homer says that Glaucus gave Diomedes gold [armour] for bronze: not even Glaucus, he says, wronged himself, because he gave his own things willingly; and that he gave willingly he shows by appealing to its having been in his power not to give his own things.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p13818",
+   "ref": "1.132",
+   "original": "λέγουσι γὰρ οἱ νόμοι περὶ δικαίων καὶ ἀδίκων, τὸ δὲ γνῶναι τὰ ὑπὸ τῶν νόμων λεγόμενα οὐδὲν σπουδαῖον, ὥστε τὸ εἰδέναι τὰ δίκαια καὶ ἄδικα ῥᾴδιον καὶ οὐ χαλεπόν· οὐ γὰρ χαλεπὸν συνιέναι τὰ ὑπὸ τῶν νόμων λεγόμενα. λέγει δὲ πρὸς ταῦτα ὁ Ἀριστοτέλης· οὐκ ἔστι τοῖς δικαίοις τὸ δικαίοις εἶναι ἐν τῷ ἐξ ἀκοῆς γινώσκεσθαι ὅτι μὴ δεῖ τὴν παρακαταθήκην κατέχειν ἢ οὐ δεῖ κλέπτειν. τὸ γὰρ δίκαιον καὶ τὸ ἄδικον εἶναι τὸ μὲν καθ’ αὑτό, τὸ δὲ κατὰ συμβεβηκός.",
+   "english": "For the laws speak about just and unjust things, and knowing what is said by the laws is nothing of consequence, so that knowing just and unjust things is easy and not hard; for it is not hard to understand what is said by the laws. To this Aristotle replies: for just people, being just does not lie in knowing from hearsay that one must not retain a deposit or that one must not steal. For the just and the unjust are [so] in one way in themselves, in another incidentally.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p13819",
+   "ref": "1.136",
+   "original": "ἀλλὰ τοῖς μὲν ἀνιάτοις οὐδὲν τῶν τοιούτων ἀγαθῶν ὠφέλιμον, τισὶ δὲ μέχρι τινός εἰσιν ὠφέλιμα, τοῖς μεταξὺ οὖσι καὶ τοῖς μὴ πάντῃ διεστραμμένοις καὶ τοῖς νόμοις καὶ ἔθεσι μὴ φαύλοις πολιτευομένοις. τὰ μὲν οὖν λεγόμενα τοιαῦτα· ἐν δὲ τῇ λέξει τῇ οἷον ἴσως τοῖς θεοῖς τὸ ἴσως πρόσκειται διὰ τὸν Πλάτωνα λέγοντα ὅτι ἔστιν ἀρετὴ θεοῦ, ὥστε εἰ ἔχει ἀρετὴν ὁ θεός, ἔσται καὶ δίκαιόν τι ἐν αὐτῷ, εἰ δὲ τοῦτο, καὶ χρήματα. ὁ μὲν οὖν Πλάτων λέγει ἀρετὴν εἶναι ἐν τοῖς θεοῖς, Ἀριστοτέλης δὲ οὐκ ἀποδέχεται τὸ δόγμα φάσκων ἐν ἄλλοις, ἐὰν ἡ ἀρετὴ μετρῇ τε καὶ τάττῃ τὰ πάθη, ἔστι δὲ ἐν τοῖς θεοῖς ἀρετή, ἔσονται ἐν αὐτοῖς καὶ τὰ πάθη.",
+   "english": "But to the incurable none of such goods is beneficial, while to some they are beneficial up to a point: to those who are in between, and to those not entirely perverted, and to those living as citizens under laws and customs that are not bad. Such, then, is what is said; and in the phrase 'as perhaps for the gods' the 'perhaps' is added because of Plato, who says that there is a virtue of god, so that if god has virtue, there will also be something just in him, and if so, also wealth. Plato, then, says that there is virtue among the gods, but Aristotle does not accept the doctrine, saying elsewhere that if virtue measures and orders the passions, and there is virtue among the gods, there will also be passions in them.",
+   "notes": "",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p13820",
+   "ref": "1.148",
+   "original": "τοῦ Πλάτωνος ὁρίζοντος τὴν δικαιοσύνην ἐν τῇ ἰδιοπραγία τῶν τῆς ψυχῆς μερῶν, ἐπεὶ ἅπαξ ὁ Ἀριστοτέλης περὶ πάσης δικαιοσύνης εἰπεῖν προέθετο, μνημονεύει καὶ περὶ τοῦ τοιούτου δικαίου τοῦ τῶν μερῶν τῆς ψυχῆς. λέγει δὲ πρῶτον ὅτι τὸ τοιοῦτον δίκαιον κατὰ μεταφορὰν λέγεται δίκαιον, τουτέστιν οὐ κυρίως. οὐ πᾶν δὲ δίκαιόν ἐστι τῶν αὐτοῦ τισιν. οὐ γὰρ τὸ πολιτικὸν καὶ κυρίως λεγόμενον δίκαιον (τοῦτο δὲ ἦν τὸ ἀνὰ μέρος ἄρχειν καὶ ἄρχεσθαι) ἀλλὰ τὸ δεσποτικόν, ὃ οὐ κυρίως ἐν τοῖς δικαίοις ἠριθμεῖτο·",
+   "english": "Since Plato defines justice as each of the parts of the soul doing its own work, and since Aristotle had once and for all proposed to speak about every [kind of] justice, he also makes mention of this sort of justice, that of the parts of the soul. He says first that such justice is called justice by metaphor, that is, not properly. And it is not every [kind of] justice [that exists] between some of one's own [parts]. For it is not political justice, which is properly so called (this was ruling and being ruled in turn), but despotic [justice], which was not properly counted among the kinds of justice;",
+   "notes": "'οὐ πᾶν δὲ δίκαιόν ἐστι τῶν αὐτοῦ τισιν' is awkward; rendering uncertain.",
+   "reviewed": true,
+   "corrected": false
+  }
+ ]
+}

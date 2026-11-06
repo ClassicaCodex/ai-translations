@@ -1,0 +1,52 @@
+{
+ "source_edition": "stoa0040.stoa004.opp-lat1",
+ "source_urn": "urn:cts:latinLit:stoa0040.stoa004.opp-lat1",
+ "title": "Principia Dialecticae",
+ "author": "Augustine",
+ "language": "Latin",
+ "source_project": "patrologia-latina",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from stoa0040.stoa004.opp-lat1, as held by Open Greek and Latin's Patrologia Latina.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p04847",
+   "ref": "5",
+   "original": "itaque de bis primo disputatur, per qu:c de cæteris disputare conceditur. Igitur verbum quodlibet, excepto suno, de quo bene disputatur, ad facultatem dialectiæ pertinet, non ad dialecticam disciplinam. Ut defensiones Ciceronis suni x quidem i rhetoricæ facultatis, sed non bis docetur ipsa rhetorica.",
+   "english": "And so those things are discussed first through which it becomes possible to discuss the rest. Therefore any word at all, except its own [subject], about which there is good discussion, belongs to the faculty of dialectic, not to the discipline of dialectic. Just as the defences of Cicero belong indeed to the faculty of rhetoric, but rhetoric itself is not taught by them.",
+   "notes": "The text is heavily garbled by scanning: 'bis' read as 'his', 'qu:c' as 'quae', 'dialectiæ' as 'dialecticae', 'suno' and 'suni x quidem i' are corrupt. 'excepto suno' is uncertain; it is rendered tentatively as 'except its own [subject]' (perhaps 'excepto suo'). 'suni' is taken as 'sunt'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p00390",
+   "ref": "6",
+   "original": "Namsunt qui verbum a vero quidam dictum putent, sed prima syllaba salis animadversa, secundam negligi non oportere. Verbum enim cum dicimus, inquiunt, prima ejus syllaba veruin significat, secunda sonum. Hoc au:cm volunt esse bombum. Unde Ennius sonum pedumt bombum pedum dixit: et βοάσαι Græci clamare; et Virgilius, «Reboant silv:e » ( Georg. lib. 3, v. 223 ). l'argo verbum dictum est quasi a vero boando, hoc est verum sonando. Quod si iia est, præscribit quidem boc nomen, ne cum verbum faciamus, mentiamur : sed vereor ne ipsi qui dicunt ista , mentiantur.",
+   "english": "For there are some who think that *verbum* [word] was indeed named from *verum* [true], but that, though the first syllable has been sufficiently noticed, the second ought not to be neglected. For when we say *verbum*, they say, its first syllable signifies the true, the second sound. This [second syllable] they want to be *bombus* [a booming]. Hence Ennius called the sound of feet the *bombus* of feet; and the Greeks [say] *boēsai* for 'to shout'; and Virgil [says], 'The woods re-echo' (*reboant*) (Georgics 3.223). Therefore *verbum* was named as if from *vero boando*, that is, from sounding the true. If that is so, this name does indeed prescribe that when we make a word we should not lie; but I fear that those very people who say these things are lying.",
+   "notes": "Several scanning errors corrected silently: 'Namsunt' = 'Nam sunt', 'salis' = 'satis', 'veruin' = 'verum', 'au:cm' = 'autem', 'pedumt' = 'pedum', 'silv:e' = 'silvae', 'l'argo' = 'Ergo', 'iia' = 'ita', 'boc' = 'hoc'. The Greek βοάσαι is an aorist infinitive of βοάω, 'to shout'. The etymology plays on Latin forms, so the key words are kept in italics.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p04848",
+   "ref": "9",
+   "original": "Itaque rectissime a dialecticis dictum est, ambiguum esse omne verbum. Nee moveat quod apud Ciceronem calumniatur Hortensius, hoc modo : Ambigua se aiunt audire acute, explicare dilucide : item omne verbum ambiguum esse dicunt, quomodo igitur ambigua ambiguis explicabunl? nam hoc est in tenebras exstinctum lumen inferre.",
+   "english": "And so it has been said most rightly by the dialecticians that every word is ambiguous. Nor should it trouble [us] that in Cicero Hortensius cavils at this as follows: \"They say that they hear ambiguities acutely and explain them clearly; they also say that every word is ambiguous. How then will they explain ambiguities by ambiguities? For this is to carry a lamp that has gone out into the darkness.\"",
+   "notes": "'Nee' read as 'Nec', 'explicabunl' as 'explicabunt'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p04849",
+   "ref": "10",
+   "original": "At si utrumque confundat audientem vcl legentem, sivc quod cx arte, sive ex loquendi usu dicitur, nonne tertium genus recte annumerabitur? Cujus exemplum in sententia quidem apertius apparet, ut si quis dicat. Multi dactylico metro seripserunt, ut est Tullius : nam hic incertum est utrum Tullius pro exemplo dactyli pedis, an dactylico poetæ positum sit : quorum illud ex arte, hoc ex usu loquendi accipitur. Sed in simplicibus etiam verbis conlingit, licet tantum vocem hujus verbi grammaticus audientibus discipulis enuntiet, ut supra ostendimus.",
+   "english": "But if both confuse the hearer or reader, whether what is said is said according to the art or according to the usage of speech, will not a third kind rightly be added? An example of this appears more plainly in a sentence, as if someone were to say: \"Many have written in dactylic metre, as Tullius is.\" For here it is uncertain whether \"Tullius\" has been put as an example of the dactyl foot or of a dactylic poet; of these, the former is understood according to the art, the latter according to the usage of speech. But it happens in single words too, provided that the grammarian pronounces only the sound of this word to the pupils listening, as we showed above.",
+   "notes": "Scanning errors corrected (vcl, sivc, cx, seripserunt, conlingit). 'dactylico poetæ' presumably for 'dactylico poeta'. The final clause ('licet tantum vocem... enuntiet') is somewhat obscure.",
+   "reviewed": true,
+   "corrected": false
+  }
+ ]
+}

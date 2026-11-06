@@ -1,0 +1,61 @@
+{
+ "source_edition": "tlg0057.tlg081.1st1K-grc1",
+ "source_urn": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1",
+ "title": "Institutio logica",
+ "author": "Galen",
+ "language": "Greek",
+ "source_project": "first1k-greek",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-06",
+ "source": "Translated by Claude from tlg0057.tlg081.1st1K-grc1, as held by Open Greek and Latin's First1KGreek.",
+ "statement": "An AI-generated translation. No specialist has reviewed it.",
+ "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence.",
+ "passages": [
+  {
+   "id": "p06706",
+   "ref": "6.1",
+   "original": "κατὰ δὲ τοὺς πολυλημμάτους οὐχ ἁπλῶς ἐροῦμεν [ἀλλὰ] ‘ἓν λῆμμα’, ἀλλὰ προσθήσομέν οἱ ‘ἢ πλείω’, τὸν ὅλον λόγον ποιοῦντες τοιοῦτον ‘ἀντιστρέφει [δὲ] λόγος λόγῳ, ὧν ἓν 〈ἢ〉 πλείω λήμματα κοινά, τὸ δὲ λοιπὸ(ν καθ’ ἕτερο)ν ἀντίκειται τῷ τοῦ λοιποῦ συμπεράσματι’. καὶ μὴν κἀπὶ τῶν τρόπων ὁμοίως ἔ(χει)· ὀνομάζουσι δὲ τρόπον οἱ διαλεκτικοὶ τὰ τῶν λόγων σχήματα, οἷον ἐπὶ μὲν τοῦ (ἐκ συνημ)μένου καὶ τοῦ ἡγουμένου τὸ λῆγον περαίνοντος, ὃν ὁ Χρύσιππος ὀνομάζει πρῶτον ἀναπόδεικτον, ὁ τοιοῦτος τρόπος ἐστίν ‘εἰ τὸ {α}, τὸ {β}· τὸ δὲ {α}· τὸ ἄρα {β}’· ἐπὶ δὲ τοῦ ἐκ συνημμένου 〈καὶ τοῦ〉 ἀντικειμένου τῷ εἰς ὃ λήγει τὸ τοῦ ἡγουμένου ἀντικείμενον ἐπιφέροντος, ὃν καὶ αὐτὸν ὁ Χρύσιππος δεύτερον ἀναπόδεικτον ὀνομάζει, τοιοῦτός [δ’] ἐστιν ‘εἰ τὸ {α}, τὸ {β}· οὐχὶ δὲ τὸ δεύτερον· οὐκ ἄρα τὸ πρῶτον’, ὥσπερ γε κἀπὶ τοῦ τρίτου κατὰ τοῦτον, ὃς ἐξ ἀποφατικοῦ συμπεπλεγμένου καὶ ἑνὸς τῶν ἐν αὐτῷ τὸ ἀντικείμενον τοῦ λοιποῦ παρέχει, τοιοῦτος ὁ τρόπος ἐστίν ‘οὐχ ἅμα τὸ {α} καὶ τὸ {β}·",
+   "english": "In the case of arguments with many premisses we shall not simply say 'one premiss', but shall add to it 'or more', making the whole statement as follows: 'An argument converts with an argument when one or more of their premisses are common, and the remaining [premiss] of each is opposed to the conclusion of the other.' And indeed the same holds for the modes. The dialecticians call the schemata of arguments 'modes'. For example, in the case of the argument that from a conditional and its antecedent concludes the consequent, which Chrysippus calls the first indemonstrable, the mode is this: 'If the first, the second; but the first; therefore the second.' In the case of the argument that from a conditional and the opposite of its consequent infers the opposite of the antecedent, which Chrysippus likewise calls the second indemonstrable, [the mode] is this: 'If the first, the second; but not the second; therefore not the first.' So too in the case of the third according to him, which from a negated conjunction and one of its conjuncts yields the opposite of the remaining one, the mode is this: 'Not both the first and the second;",
+   "notes": "The letter variables α, β ('the first', 'the second') are rendered as ordinal placeholders, following Stoic usage. Several words are editorial restorations (in parentheses and angle brackets in the edition) and are translated; bracketed deletions ([ἀλλὰ], [δὲ], [δ’]) are omitted. The sentence breaks off in mid-schema and continues in the following passage.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06707",
+   "ref": "15.1",
+   "original": "ἀλλὰ μὴν 〈οἱ〉 ἐπὶ τῷ διεζευγμένῳ συλλογισμοὶ προσλήψεις ἔχουσι δύο, ἤτοι γε 〈ἕν〉 τι τῶν κατὰ τὸ διεζευγμένον ἢ καὶ τὰ ἄλλα πάντα πλὴν ἑνὸς οὐχ ὑπάρχειν. ὅτι δὲ πρὸς ἀπόδειξιν οἱ τοιοῦτοι συλλογισμοὶ 〈χρήσιμοι〉, δηλοῖ καὶ Πλάτων ἐν Ἀλκιβιάδῃ κεχρημένος κατὰ δύναμιν τῷ δευτέρῳ τῶν ὑποθετικῶν, ἔνθα φησίν ‘εἰ Ἀλκιβιάδης οἶδε τὰ δίκαια, ἤτοι παρ’ ἑτέρου μαθὼν ἢ αὐτὸς εὑρὼν οἶδεν’, εἶτα δείξας ὅτι μήτε παρ’ ἑτέρου μαθὼν μήτ’ αὐτὸς εὑρὼν ἐπιφέρει συμπέρασμα τὸ μὴ γιγνώσκειν Ἀλκιβιάδην τὰ δίκαια.",
+   "english": "Moreover, syllogisms based on the disjunctive have two additional premisses: either that some one of the disjuncts does not hold, or that all the others except one do not hold. That such syllogisms are useful for demonstration is shown also by Plato in the Alcibiades. There he uses what is in effect the second of the hypothetical [syllogisms], where he says: 'If Alcibiades knows what is just, he knows it either having learned it from another or having discovered it himself.' Then, having shown that he neither learned it from another nor discovered it himself, he draws the conclusion that Alcibiades does not know what is just.",
+   "notes": "'Some one' (ἕν) and 'useful' (χρήσιμοι) are editorial supplements. 'In effect' renders κατὰ δύναμιν, 'in force, virtually'.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p06708",
+   "ref": "16.1",
+   "original": "πολὺ δὲ πλῆθός ἐστιν, ὡς ἔφην, ἐν ἀριθμητικοῖς τε καὶ λογιστικοῖς τοιούτων συλλογισμῶν ὧν ἁπάντων ἐστὶ (κ)οινὸν ἔκ τινων ἀξιωμάτων τὴν αἰτίαν ἴσχειν συστάσεως, 〈ὧν〉 ἐν τοῖς εἰρημένοις λόγοις μνημονεύοντες εἰς τοὺς κατηγορικοὺς ἀνάγειν λόγους δυνησόμεθα τοὺς τοιούτους συλλογισμοὺς σαφέστερον πάλιν ἀρξάμενοι. ὄντος γὰρ ἀξιώματος τοῦδε καθόλου τὴν πίστιν ἔχοντος ἐξ ἑαυτοῦ ‘τὰ τῷ αὐτῷ ἴσα καὶ 〈ἀλλήλοις ἐστὶν ἴσα’〉, συλλογίζεσθαί τε καὶ ἀποδεικνύναι ἔστιν ὥσπερ Εὐκλείδης ἐν τῷ πρώτῳ θεωρήματι τὴν ἀπόδειξιν ἐποιήσατο τὰς τοῦ τριγώνου πλευρὰς ἴσας δεικνύων· ἐπεὶ γὰρ τὰ τῷ αὐτῷ ἴσα καὶ ἀλλήλοις ἴσα ἐστίν, δέδεικται 〈δὲ〉 τὸ πρῶτόν τε καὶ τὸ δεύτερον 〈τῷ τρίτῳ ἴσον〉, ἑκατέρῳ αὐτῶν ἴσον ἂν εἴη οὕτω τὸ πρῶτον. ὄντος δὲ πάλιν ἀξιώματος ἐξ ἑαυτοῦ πιστοῦ τοῦδε ‘ἂν ἴσοις ἴσα προστεθῇ, καὶ τὰ ὅλα ἴσα ἔσται’, ἐὰν ὡμολογημένων ἴσων ἀλλήλοις εἶναι τοῦ πρώτου καὶ δευτέρου προστεθῇ τι καθ’ ἑκάτερον ἴσον ἴσον, ἔσται καὶ τὸ ὅλον τῷ ὅλῳ ἴσον, ὡδί πως λεγόντων ἡμῶν ‘ἐπεὶ τὸ πρῶτον ἴσον ἐστὶ τῷ δευτέρῳ, πρόσκειται δὲ τῷ μὲν πρώτῳ τὸ {γ}, τῷ δὲ δευτέρῳ τὸ {δ} ἴσα ὄντα καὶ αὐτά, γενηθήσεται 〈καὶ〉 τὸ ὅλον τῷ ὅλῳ ἴσον’.",
+   "english": "There is, as I said, a great number of such syllogisms in arithmetic and calculation. What is common to all of them is that they get the ground of their validity from certain axioms. By keeping these in mind in the arguments discussed, we shall be able to reduce such syllogisms to categorical arguments; let us begin again more clearly. Since there is this axiom, universal and self-evident, 'things equal to the same thing are also equal to one another', one can reason and demonstrate as Euclid gave the proof in his first theorem, showing that the sides of the triangle are equal. For since things equal to the same thing are also equal to one another, and it has been shown that the first and the second are equal to the third, the first would thus be equal to each of them. Again, there is this self-evident axiom: 'if equals are added to equals, the wholes too will be equal.' If, when the first and second have been agreed to be equal to one another, something equal is added to each, the whole will also be equal to the whole. We say it something like this: 'Since the first is equal to the second, and to the first has been added C and to the second D, these too being equal, the whole will also be equal to the whole.'",
+   "notes": "'Validity' renders συστάσεως (literally 'constitution, standing'). The clause about Euclid's triangle is compressed: the conclusion 'the first would be equal to each of them' is odd as transmitted. The text may be corrupt.",
+   "reviewed": false,
+   "corrected": false
+  },
+  {
+   "id": "p00781",
+   "ref": "18.1",
+   "original": "ἐπείπερ ἐν τῷ γένει τῶν κατὰ τὸ πρός τι συλλογισμῶν εἰσιν ὥσπερ οἱ κατὰ τὸ μᾶλλόν τε καὶ ἧττον οὕτως καὶ οἱ κατὰ τὸ ὡσαύτως καὶ ἀνὰ λόγον, ἐπισκεπτ(έον εἰ) καὶ τούτων ἡ πίστις ἐκ τῶν καθόλου τινῶν ἀξιωμάτων εἴληπται· διαφερέτω δὲ μηδὲν ἢ ὡσαύτως εἰπεῖν ἢ ἴσως ἢ ὁμοίως. ἔστι δὲ τοιοῦτος ὁ λόγος οὗτος καὶ Πλάτωνος ἐν τῇ Πολιτείᾳ γεγραμμένος· ἀξιοῖ γὰρ Σωκράτης, ὡς πόλις γίγνεται καὶ λέγεται δικαία, οὕτω καὶ ψυχὴν γίγνεσθαί τε καὶ λέγεσθαι δικαίαν, ὡσαύτως δὲ καὶ πρᾶξιν καὶ νόμον [εἶθ’ ὁτιοῦν] καὶ πᾶν ὁτιοῦν τῶν δικαίων εἶναι λεγομένων κατὰ ταὐτὸν λέγεσθαι σημαινόμενον.",
+   "english": "Since in the genus of relational syllogisms there are, just as [there are] those based on the more and the less, so also those based on the 'likewise' and on proportion, it must be examined whether the credibility of these too is derived from certain universal axioms; and let it make no difference whether one says 'likewise' or 'equally' or 'similarly'. Of this kind is also the following argument, written by Plato in the Republic: for Socrates holds that, as a city comes to be and is called just, so a soul too comes to be and is called just, and likewise also an action and a law, and anything whatever of the things said to be just is said [so] with the same meaning.",
+   "notes": "The bracketed words [εἶθ’ ὁτιοῦν] ('or anything else') are bracketed by the editor as a probable intrusion and are not translated separately. ἐπισκεπτ(έον εἰ) is an editorial restoration.",
+   "reviewed": true,
+   "corrected": false
+  },
+  {
+   "id": "p00782",
+   "ref": "18.1",
+   "original": "εἷς δὲ τῶν κατὰ μέρος λόγων [ὁ αὐτὸς ἔσται] καὶ ὁ πενταπλάσιος· ἔστιν ἄρα καὶ οὗτος ὁ λόγος τοῦ 〈{γ} πρὸς τὸ〉 {δ}. τοὺς δὴ τοιούτους ἅπαντας συλλογισμοὺς τῷ γένει μὲν ἐκ τῶν πρὸς τι ῥητέον, ἐν εἴδει δὲ κατ’ ἀξιώματος δύναμιν συνισταμένους, ὥσπερ καὶ ὁ Ποσειδώνιός φησιν ὀνομάζειν αὐτοὺς συνακτικοὺς κατὰ δύναμιν ἀξιώματος.",
+   "english": "And one of the particular ratios [will be the same], namely the fivefold; therefore this too is the ratio of C to D. All such syllogisms, then, must be said to belong in genus to those from relation, but in species to be constituted by the force of an axiom, just as Posidonius too says that he names them 'conclusive by the force of an axiom'.",
+   "notes": "Letters {γ} and {δ} are the variables C and D (Greek gamma and delta); 〈γ πρὸς τὸ〉 is an editorial supplement. The words [ὁ αὐτὸς ἔσται] ('will be the same') are bracketed in the edition, perhaps as a doubtful repetition from the preceding sentence. The final clause could also be read 'Posidonius says that [people] call them' or 'that one should call them'.",
+   "reviewed": true,
+   "corrected": false
+  }
+ ]
+}
