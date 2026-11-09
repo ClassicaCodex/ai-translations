@@ -1,0 +1,964 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1127.tmp1127",
+ "edition_urn": "urn:cts:latinLit:tmp1127.tmp1127.ai-claude",
+ "source_edition": "tmp1127.tmp1127.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Breviatio Canonum: AI translation (Claude)",
+  "author": "Fulgentius Ferrandus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1127.tmp1127.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.head": "7: the second title number is illegible in the scan ('lit. i:'). 25, 53: 'Iii.'/'IiI.' read as 'tit.'; stray letters a/b (48, 53, 60) taken as footnote marks. 11, 38: *matrix* rendered 'mother church'; *diœcesis* rendered 'district' (the rural territory of a see). 50: the sense of 'apud suos acta poenitentia' is uncertain. Council names Suffetula, Zella, Septimunici, Macriana, Junca, Marazana are African councils, rendered from the place names given.",
+  "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.61": "61: the edition's alternative 'At si' for 'Ut si' is adopted in sense. 62: 'putiores' read as 'potiores' (more powerful/senior). 73 and 83: printed numbers '75' and '85' are scanning errors for 73 and 83. 87: the edition suggests 'convictus' (convicted) for 'confessus'. 97, 116: stray footnote marks; no council reference given. 101: the Carthage title number is illegible ('v-'). 120: 'deacons alone' looks odd (Laodicea 19 restricts the altar to clergy); the text may be corrupt. 93 cites the same title as 92, perhaps an error. Marazana, Thenae, Thysdrus, Zella and Septimunicia are African councils whose acts largely survive only through Ferrandus.",
+  "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.128": "130: printed 'mulierem' must stand for 'viduam' (widow), as the second clause shows; translated so. 131: no council reference is given; the trailing 'd' is a footnote mark. 137: 'Neocaesarea, title 44' is as printed, though Neocaesarea has far fewer canons. 141: 'orario non utantur' read for 'orarionon'. 140: 'ministri' probably means subdeacons, as in the Laodicean canon. 157: probably refers to one who desires a woman but does not act on it. 174: 'Montenses' is a name for Donatists at Rome. 184: 'ad angelos' means gatherings to invoke angels (cf. Laodicea 35). 198: 'locum sibi proximum' may mean a place near to him, i.e. a neighbouring place. Lines 184 and 196–198 are printed with numbers that differ from their references (181, 195–198); the printed numbers are kept as they stand.",
+  "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.200": "203: the title number is garbled ('tit. i i'); read as 11. 214: 'genus' read as 'genu'; 'flectitur' as subjunctive. 216: 'in dominicis' taken as 'in the Lord's houses' (churches); it could also mean 'on Sundays'. 217: 'tit. i b' read as title 1. 225: Laodicea canon 17 concerns not running psalms together; Ferrandus's wording ('unam canticum') is odd and the sense uncertain. 212, 215: 'Conc. Septimunic.' is an African (Byzacene) council at Septimunici, otherwise little known."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.head",
+   "text": "THE DIGEST OF CANONS OF FULGENTIUS FERRANDUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.1",
+   "text": "1. That neophytes are not to be ordained (Council of Nicaea, title 2; Council of Sardica, title 14; Council of Laodicea, title 3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.2",
+   "text": "2. That any layman elected to the episcopate must first spend a year in the church's ministry, passing through all the grades (Council of Suffetula)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.3",
+   "text": "3. That anyone who after baptism has enlisted in secular military service is to be barred from ordination (Council of Zella)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.4",
+   "text": "4. That a bishop is to be ordained by three [bishops], with the others consenting in writing and with the confirmation of the metropolitan or primate (Council of Nicaea, title 4, also title 6; Council of Antioch, title 19; Council of Laodicea, title 12; Council of Carthage under bishop Genethlius, title 10; general Council of Carthage, title 49; Council of Zella, from the letter of Pope Siricius)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.5",
+   "text": "5. That in ordaining a bishop other bishops are also to be added beyond the three, if someone has raised an objection (Council of Carthage, title 50)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.6",
+   "text": "6. That one bishop is not to ordain a bishop, except in the Roman Church (Council of Zella, from the letter of Pope Siricius)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.7",
+   "text": "7. That a bishop who, having received the laying on of hands, has refused the ministry is to remain excommunicate until he consents (Council of Antioch, title 17). But if, though willing, he is not received by the people, he must wait for a plenary synod, with his rank preserved (Council of Antioch, title [...])."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.8",
+   "text": "8. That a bishop who has been ordained but is not received is not to seize another church, but is to sit as a presbyter in the church where he had been a presbyter (Council of Ancyra, title 18)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.9",
+   "text": "9. That when a bishop has been ordained, the statutes of the councils are first to be impressed upon him (Council of Carthage, title 10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.10",
+   "text": "10. That an ordained bishop is to receive from the one who ordained him a signed letter, containing the day of his ordination together with the consul (Council of Milevis, title 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.11",
+   "text": "11. That for electing a bishop the judgement of the mother church is sufficient (Council of Septimunici; Council of Macriana)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.12",
+   "text": "12. That a bishop is not to be ordained in a country estate or a village (Council of Laodicea, title 35)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.13",
+   "text": "13. That a bishop is not to be ordained for a district that has never had a bishop, except with the consent of the bishop to whom that district belongs, and moreover by a plenary council and the authority of the primate (Council of Carthage, title 52, also 54; Council of Carthage in the basilica, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.14",
+   "text": "14. That a bishop ordained for a district is to hold that district alone (Council of Carthage, title 54)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.15",
+   "text": "15. That bishops, presbyters and deacons are not to be ordained unless they have made all their household Christians (Council of Carthage, title 3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.16",
+   "text": "16. That bishops, presbyters and deacons are to abstain from their wives (Council of Carthage, title 1; Council of Zella)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.17",
+   "text": "17. That no bishop is to leave the mother church and establish himself in [a church of] the district (Council of Carthage, title 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.18",
+   "text": "18. That bishops or clerics are not to move from city to city, nor from province to province (Council of Nicaea, title 11; Council of Sardica, title 2, also 3; Council of Antioch, title 3, also title 21; Council of Constantinople, title 2, also title 3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.19",
+   "text": "19. That bishops are to spend no more than three weeks in another's city (Council of Sardica, title 15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.20",
+   "text": "20. That those who wish to stay in another's city out of fear of persecution are not to be prevented (Council of Sardica, title 22)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.21",
+   "text": "21. That no bishop, even if elected by the people, is to take possession of a vacant church except by the authority of a plenary council (Council of Antioch, title 45)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.22",
+   "text": "22. That no bishop is to hold a see to which he has been given as *interventor* [interim administrator] for more than a year, but he himself is to seek a bishop for them (Council of Carthage, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.23",
+   "text": "23. That bishops serving as *interventores* are to call on congregations that have no bishop to accept a bishop. And if they neglect to accept one, the *interventor* is to be removed and they are to remain so until they seek a bishop for themselves (Council of Macriana)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.24",
+   "text": "24. That no bishop is to usurp another's congregation (Council of Carthage under Saint Gratus, title 9; Council of Carthage under bishop Genethlius, title 9; also Council of Carthage, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.25",
+   "text": "That a bishop who, without a judgement of bishops, has held some congregation which he thinks belongs to his see, is to lose his case (Council of Carthage, title 12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.26",
+   "text": "26. That no bishop is to dare to claim anything for himself in another's congregation (Council of Junca)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.27",
+   "text": "27. That a bishop is not to receive or ordain another's cleric (Council of Nicaea, title 12; Council of Sardica, title 19, also 20; Council of Antioch, title 22; Council of Carthage under Saint Gratus, title 2; also Council of Carthage, title 28)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.28",
+   "text": "28. That no bishop is either to ordain another's monk in a church, or to make him superior in his own monastery (Council of Carthage, title 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.29",
+   "text": "29. That a bishop is not to hold an ordination in the presence of catechumens (Council of Laodicea, title 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.30",
+   "text": "30. That a bishop who under the pressure of necessity has veiled a virgin before the age of twenty-five is in no way to be held liable under the council that fixed that number of years (Council of Carthage, title 18)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.31",
+   "text": "31. That the bishop's property is not to be bound up with the church's property, but he himself may dispose of it as he wishes (Council of Antioch, title 24)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.32",
+   "text": "32. That no bishop is to make outsiders his heirs, or heretics, even if they are kinsmen (Council of Carthage, title 15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.33",
+   "text": "33. That bishops or clerics are to confer nothing by gift on those who are not Catholics (Council of Carthage, title 23)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.34",
+   "text": "34. That bishops or presbyters are not to transfer to other places what belongs to the places where they are ordained, unless they have first given reasons (Council of Hippo Regius, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.35",
+   "text": "35. That bishops are to be compelled to restore to the Church whatever they have acquired in their own name; but whatever is given to them they may confer on whomever they wish (Council of Hippo Regius, title 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.36",
+   "text": "36. That the bishop is to have authority over the administration of church property (Council of Antioch, title 25)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.37",
+   "text": "37. That no one is to dare either to give or to receive offerings of produce owed to the church without the bishop's knowledge (Council of Gangra, titles 7, 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.38",
+   "text": "38. That the bishop of the mother church is not to usurp whatever has been given to the churches established in the district (Council of Hippo Regius, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.39",
+   "text": "39. That the sons of bishops are not to be joined in marriage to pagans, heretics or schismatics (Council of Carthage, title 21)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.40",
+   "text": "40. That the sons of bishops or clerics are neither to put on public shows nor to watch them (Council of Carthage, title 20)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.41",
+   "text": "41. That bishops are not to emancipate their sons unless [they are] already proven (Council of Carthage, title 22)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.42",
+   "text": "42. That bishops are not to go to the imperial court at will (Council of Sardica, title 9, also title 10, also title 11; Council of Antioch, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.43",
+   "text": "43. That any bishop who has asked the emperor for a public trial is to be deprived of his rank (Council of Carthage, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.44",
+   "text": "44. That each bishop may draw up petitions when something is to be sought from the public courts against heretics (Council of Marazana)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.45",
+   "text": "45. That a bishop is to do nothing without the metropolitan's counsel, except only what pertains to the governance of his own church (Council of Antioch, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.46",
+   "text": "46. That bishops are not to sail without a *formata* [letter of authorisation] from the primate (Council of Carthage, title 36)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.47",
+   "text": "47. That bishops are not to sell church property without the primate's counsel (Council of Carthage, title 5; Council of Hippo Regius, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.48",
+   "text": "48. That by the bishop's provision a place to live is to be chosen for virgins who have been orphans (Council of Carthage, title 40)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.49",
+   "text": "49. That the periods of penance for penitents are to be set by the judgement of bishops (Council of Carthage, title 39)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.50",
+   "text": "50. That by the bishop's judgement the period of penance or of reconciliation is to be set for a Donatist who, having done penance among his own, is converted (Council of Carthage, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.51",
+   "text": "51. That a bishop is to hear accused presbyters after summoning five bishops, [accused] deacons with three, but is to examine the cases of the others by himself alone (Council of Carthage, title 17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.52",
+   "text": "52. But that one bishop is not to claim the hearing for himself was enacted in another Council of Carthage."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.53",
+   "text": "53. That no excommunicated bishop, presbyter or deacon is to take communion (Council of Nicaea, title 5; Council of Sardica, title 17; Council of Carthage, title 8; Council of Antioch, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.54",
+   "text": "54. That if any bishop has been excommunicated by a synod, he is not to dare to take communion; and if he does, he is to have no hope of restoration (Council of Antioch, title 4; Council of Hippo Regius, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.55",
+   "text": "55. That a bishop, if he has a case, is to be heard by twelve bishops (Council of Carthage under Saint Genethlius, title 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.56",
+   "text": "56. That bishops appointed as judges in a case are to hear it on a fixed day (Council of Septimunici)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.57",
+   "text": "57. That if two bishops in one province have a dispute, they are not to summon bishops from another province to judge it (Council of Sardica, title 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.58",
+   "text": "58. That if the bishops' verdicts on an accused bishop are divided, the metropolitan of another province is to be summoned (Council of Antioch, title 14). What must be observed in accusations against bishops (Council of Carthage, title 15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.59",
+   "text": "59. That a bishop who has been judged may, if he wishes, appeal to the apostolic see (Council of Sardica, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.60",
+   "text": "60. That if he has appealed, no one is to be ordained to his see (Council of Sardica, title 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.61",
+   "text": "61. That if he appeals from the judges whom the primate has assigned, other judges, greater in number, are to be appointed. That if he appeals from these too, [the matter] is to be deferred to the verdict of a council (Council of Thenae)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.62",
+   "text": "62. That if a bishop condemned by the judgement of bishops is acquitted before more powerful bishops, this is to do no harm to them, if they judged in good faith (Council of Carthage, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.63",
+   "text": "63. That a bishop who has been condemned by all the bishops of the province is not to have the right of seeking a second judgement (Council of Antioch, title 15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.64",
+   "text": "64. That a bishop condemned by those bishops whom he has chosen as judges is not to dare to appeal elsewhere (Council of Carthage, title 3, likewise title 15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.65",
+   "text": "65. That the bishops who are assigned as judges in any case are themselves to choose the place of the hearing (Council of Zella)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.66",
+   "text": "66. That a deposed bishop is not to carry his case to the emperor (Council of Antioch, title 12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.67",
+   "text": "67. That an accused bishop, or anyone of the clergy who has been accused before the Church, is not to go over to the public courts (Council of Carthage, title 18)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.68",
+   "text": "68. That a bishop who has been summoned by a second or third authorisation and has disdained to come is to be suspended from the fellowship of the bishops (Council of Zella)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.69",
+   "text": "69. That no bishop, priest or deacon is to celebrate Easter with the Jews (Council of Antioch, title 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.70",
+   "text": "70. That bishops, priests or deacons are not to be lessees or estate managers (Council of Carthage, title 24)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.71",
+   "text": "71. That bishops or clerics are not to hold banquets in a church, unless [they are] travelling (Council of Carthage, title 38)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.72",
+   "text": "72. That bishops and priests are not to make the offering in their own house (Council of Laodicea, title 56)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.73",
+   "text": "73. That a bishop is not to suspend from communion someone who, he claims, confessed some sin to him alone (Council of Carthage, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.74",
+   "text": "74. That a bishop is not to choose his own successor (Council of Antioch, title 23)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.75",
+   "text": "75. That bishops are to attend a council, or, if they do not attend, are to present their excuses in the letter of summons or before the primate (Council of Laodicea, title 38; Council of Carthage, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.76",
+   "text": "76. That, except for the old who cannot be moved from their place and sick bishops, one who has been notified and does not attend a council is to be deprived of communion (Council of Marazana; Council of Thysdrus; likewise Council of Thenae; Council of Septimunicia)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.77",
+   "text": "77. That a bishop who, without having been entrusted with a delegation, presumes to attend a universal council, is not to be admitted to the council itself by those bishops who have been entrusted with the delegation (Council of Thysdrus)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.78",
+   "text": "78. That no bishop is to dare to set himself before those senior to him (Council of Milevis, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.79",
+   "text": "79. That chorbishops, that is, the bishops' deputies, are to ordain neither priests nor deacons, but only subdeacons (Council of Ancyra, title 13; Council of Antioch, title 10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.80",
+   "text": "80. That bishops' deputies are permitted to issue *formatae* (Council of Antioch, title 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.81",
+   "text": "81. That the bishop of the first see is not to be called prince of priests or supreme priest (Council of Carthage, title 34)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.82",
+   "text": "82. That Mauretania Sitifensis is to have its own primate (Council of Carthage, title 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.83",
+   "text": "83. That bishops of the first see are to be established by the bishops from the council of Carthage, when a dispute has arisen (Council of Carthage, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.84",
+   "text": "84. That the primates of the various provinces are to send the names of the bishops to the Church of Carthage (Council of Carthage, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.85",
+   "text": "85. That a priest is not to be ordained before the age of thirty years, however worthy he may be (Council of Neocaesarea, title 10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.86",
+   "text": "86. That one who was baptised in sickness is not to be ordained priest, unless perhaps on account of a good life or a scarcity of men (Council of Neocaesarea, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.87",
+   "text": "87. That an ordained priest, if he has confessed to some crime, or is one of those who have lapsed, is not to be received (Council of Nicaea, title 8; Council of Neocaesarea, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.88",
+   "text": "88. That a priest is not to attend the banquet of a second marriage (Council of Neocaesarea, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.89",
+   "text": "89. That no one is to dare to refuse communion from the offering of a married priest (Council of Gangra, title 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.90",
+   "text": "90. That a priest is not to dare to celebrate the rites in any place without consulting the bishop (Council of Carthage, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.91",
+   "text": "91. That a priest is not to consecrate virgins without consulting the bishop, and is never to make the chrism (Council of Carthage, title 43)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.92",
+   "text": "92. That the priests of a city are to order nothing without the bishop's command, nor do anything in any parish (Council of Ancyra, title 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.93",
+   "text": "93. That priests who abstain from meat are to touch it, so that they also eat vegetables that are cooked with meat (Council of Ancyra, title 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.94",
+   "text": "94. That priests are not permitted to issue *formatae* (Council of Antioch, title 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.95",
+   "text": "95. That priests are not to sell Church property without the bishop's knowledge (Council of Ancyra, title 15; Council of Hippo Regius, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.96",
+   "text": "96. That a priest who has incurred a charge is to be heard by six or seven bishops (Council of Carthage under the prelate Genethlius, title 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.97",
+   "text": "97. That a priest who sacrificed to idols and afterwards fought for the faith is indeed not to be deprived of his rank, yet is neither to offer the sacrifice nor to preach."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.98",
+   "text": "98. That a priest, if he takes a wife, is to be deposed; but if he has committed fornication, he is also to be compelled to do penance (Council of Neocaesarea, title 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.99",
+   "text": "99. That a priest or deacon who has deserted his own church and gone over to another is to be deposed if, after being recalled by his bishop, he has not returned (Council of Antioch, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.100",
+   "text": "100. That a priest or deacon who, having been removed from office by his own bishop, presumes to perform any part of the sacred ministry, is to have no hope of restoration (Council of Antioch, title 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.101",
+   "text": "101. That a priest or deacon who has separated himself from the Church and set up an altar in his own house is to be deposed (Council of Antioch, title 5; Council of Carthage, title [...])."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.102",
+   "text": "102. That priests and deacons alike, if they have been unjustly excommunicated, are permitted to appeal to the neighbouring bishops (Council of Sardica, title 18)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.103",
+   "text": "103. That priests from another region are not to offer the sacrifice when [local] priests are present (Council of Neocaesarea, title 12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.104",
+   "text": "104. That there ought to be seven deacons (Council of Neocaesarea, title 13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.105",
+   "text": "105. That deacons are not to be chosen by the judgement of the people (Council of Laodicea, title 13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.106",
+   "text": "106. That deacons are not to take communion before a priest (Council of Nicaea, title 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.107",
+   "text": "107. That a deacon is not to sit in the presence of a priest unless bidden (Council of Laodicea, title 19)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.108",
+   "text": "108. That a subdeacon is not to distribute the bread nor bless the cup (Council of Laodicea, title 25)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.109",
+   "text": "109. That a deacon or any cleric invited to an *agape* [love-feast] is not to carry off a portion (Council of Laodicea, title 21)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.110",
+   "text": "110. That a deacon or cleric is not to be a magician or enchanter, nor make amulets (Council of Laodicea, title 34)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.111",
+   "text": "111. That a deacon, or even a layman, is not to travel anywhere without a *formata* (Council of Laodicea, title 39)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.112",
+   "text": "112. That deacons or any clerics are not to travel abroad without the bishop's command (Council of Laodicea, title 40)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.113",
+   "text": "113. That deacons or clerics are not to attend the shows that are put on at weddings (Council of Laodicea, title 52)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.114",
+   "text": "114. That deacons, or any clerics, or even Christian laymen, are not to hold a banquet from shared contributions (Council of Laodicea, title 53)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.115",
+   "text": "115. That deacons, or any who are set in priestly ministry, are not to exact interest and profits, that is, the *sescupla* [fifty per cent] (Council of Laodicea, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.116",
+   "text": "116. That deacons who sacrificed and afterwards resisted are indeed to remain in their rank, but are to be barred from all ministry of the altar."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.117",
+   "text": "117. That a deacon who has fallen into bodily sin is to be kept back from the order of ministry (Council of Neocaesarea, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.118",
+   "text": "118. That if deacons or priests have been removed from ministry, hands are not to be laid on them either as penitents or as lay faithful (Council of Carthage, title 12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.119",
+   "text": "119. That those who have been agents, managers, and guardians and trustees of orphans are not to be ordained deacons, unless after they have laid down everything and rendered their accounts (Council of Carthage, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.120",
+   "text": "120. That deacons alone are permitted to enter the altar [area] and take communion [there] (Council of Laodicea, title 18)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.121",
+   "text": "121. That clerics are not to be ordained, nor virgins consecrated, before twenty-five years [of age] (Council of Carthage, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.122",
+   "text": "122. That clerics are not to live with women who are not related to them (Council of Nicaea, title 3; Council of Carthage under Saint Gratus, title 3; universal Council of Carthage)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.123",
+   "text": "123. That no cleric is to lend at interest (Council of Nicaea, title 14; Council of Carthage under Saint Gratus, title 12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.124",
+   "text": "124. That readers are not to wear the *orarium* [stole], whether they are reading or singing psalms (Council of Laodicea, title 22)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.125",
+   "text": "125. That clerics are not permitted to undertake the administration or management of households (Council of Carthage under Saint Gratus, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.126",
+   "text": "126. That a cleric or layman is not to take communion in another congregation (Council of Carthage under Saint Gratus, title 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.127",
+   "text": "127. That clerics are not to wander through other congregations without a *formata* and the bishop's knowledge (Council of Marazana)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.128",
+   "text": "128. That proud clerics are to be restrained (Council of Carthage under Saint Gratus, title 10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.129",
+   "text": "129. That lectors, when they have reached the years of puberty, are to be compelled either to take wives or to profess continence (Council of Carthage, title 27)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.130",
+   "text": "130. That a cleric is not to marry a widow. And that a layman who has married a widow is not to be admitted to the clergy (Council of Zella, from the letter of Pope Siricius)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.131",
+   "text": "131. That, apart from the canonical psalm-singers who go up into the pulpit and read from the book, no one else whatever is permitted to sing psalms in church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.132",
+   "text": "132. That clerics or those vowed to continence are not to approach widows or virgins without the order or permission of the bishop or presbyter (Council of Carthage, title 33)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.133",
+   "text": "133. That apothecaries or accountants are not to be ordained clerics (Council of Carthage under Saint Gratus, title 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.134",
+   "text": "134. That clerics are not to enter taverns for the sake of eating or drinking, unless the necessity of travel compels them (Council of Laodicea, title 7, also 24, also 25; Council of Carthage, title 35)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.135",
+   "text": "135. That clerics are not to linger in another city unless the bishop of the place or the presbyters of the places have examined their reasons [and found them] just (Council of Carthage, title 44)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.136",
+   "text": "136. That an accused cleric must plead his case within a year (Council of Carthage, title 13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.137",
+   "text": "137. That a man is not to become a cleric whose wife committed adultery while he was still a layman. And that a cleric is to leave an adulterous wife (Council of Neocaesarea, title 44)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.138",
+   "text": "138. That another church is not to admit a cleric who has been cast out (Council of Zella, from the letter of Pope Siricius)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.139",
+   "text": "139. That a cleric may not be excommunicated by the people, whether the bishop is present or absent (Council of Septimunicia)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.140",
+   "text": "140. That ministers have no permission to enter the sacristy (Council of Laodicea, title 21)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.141",
+   "text": "141. That ministers are not to use the *orarium*, nor leave the doors (Council of Laodicea, title 21; also 41)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.142",
+   "text": "142. That those who have not yet been promoted by the bishop are not to exorcise (Council of Laodicea, title 25)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.143",
+   "text": "143. That councils are to be held twice a year in each province (Council of Nicaea, title 5; Council of Antioch, title 20; Council of Carthage, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.144",
+   "text": "144. That a universal council is not to be held unless a common cause, that is, [one] of all Africa, requires it; that a synod is to be called plenary when the metropolitan bishop is present (Council of Antioch, title 16)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.145",
+   "text": "145. That those who have castrated themselves are to be removed from the clergy (Council of Nicaea, title 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.146",
+   "text": "146. What periods of penance are to be decreed for those who have lapsed (Council of Nicaea, title 16; Council of Ancyra, title 3; also 4, 5, 6, 7, 8, 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.147",
+   "text": "147. That betrothed girls, if they have been abducted by others, are to be returned to the first betrothed (Council of Ancyra, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.148",
+   "text": "148. How those who have lived irrationally ought to be received (Council of Ancyra, title 16)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.149",
+   "text": "149. That those who have lived like dumb animals are to pray among the energumens (Council of Ancyra, title 17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.150",
+   "text": "150. That whoever, professing virginity, violate their resolve are to fulfil the grade prescribed for the twice-married (Council of Ancyra, title 19)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.151",
+   "text": "151. That one who has committed adultery is to do penance for seven years (Council of Ancyra, title 20)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.152",
+   "text": "152. That fornicating women who kill their infants, or abort [them], are to do penance for ten years (Council of Ancyra, title 21)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.153",
+   "text": "153. That those who have committed homicide wilfully are to be reconciled at the very end of life (Council of Ancyra, title 22)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.154",
+   "text": "154. That one who has committed homicide by accident is to do penance for five years (Council of Ancyra, title 23)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.155",
+   "text": "155. That those who practise divination, or bring others of this art into their house, are to do penance for five years (Council of Ancyra, title 24)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.156",
+   "text": "156. That a woman who has married two brothers is to be reconciled at her end (Council of Neocaesarea, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.157",
+   "text": "157. That whoever does not carry out [his] desire is to be judged set free by divine grace (Council of Neocaesarea, title 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.158",
+   "text": "158. That catechumens who sin are to be cast out unless they correct themselves (Council of Neocaesarea, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.159",
+   "text": "159. That whoever believes that one who eats meat in faith is to be condemned is to be anathema (Council of Gangra, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.160",
+   "text": "160. That whoever holds the house of God in contempt is to be anathema (Council of Gangra, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.161",
+   "text": "161. That whoever condemns marriage is to be anathema (Council of Gangra, titles 9, 10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.162",
+   "text": "162. That if any woman takes on male dress, she is to be anathema (Council of Gangra, title 13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.163",
+   "text": "163. That those who put away wives or husbands are not to marry others, but are either to remain continent or be reconciled to each other (Council of Carthage, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.164",
+   "text": "164. That if any woman leaves her husband as if for the sake of religion, she is to be anathema (Council of Gangra, title 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.165",
+   "text": "165. That whoever fasts on the Lord's day for the sake of continence is to be anathema (Council of Gangra, title 18)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.166",
+   "text": "166. That whoever, being sound in body, breaks the common fasts is to be anathema (Council of Gangra, title 20)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.167",
+   "text": "167. That whoever holds the memorials of the martyrs in contempt is to be anathema (Council of Gangra, title 21)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.168",
+   "text": "168. That whoever, not taking communion nor joining in prayer, wish only to hear the divine Scriptures in church are to be cast out (Council of Antioch, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.169",
+   "text": "169. That whoever has faithfully done penance after various sins is to be recalled to communion (Council of Laodicea, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.170",
+   "text": "170. That reconciliation is not to be denied to stage-performers and actors (Council of Carthage, title 42)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.171",
+   "text": "171. That no one is to resort to false memorials of martyrs (Council of Carthage, title 17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.172",
+   "text": "172. That those who are called Cathari, on coming to the Church, if they are ordained, are to remain thus in the clergy (Council of Nicaea, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.173",
+   "text": "173. That Paulianists are to be baptized (Council of Nicaea, title 15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.174",
+   "text": "174. That those coming from the Novatians or Montenses are to be received by the laying on of a hand (Council of Zella, from the letter of Pope Siricius)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.175",
+   "text": "175. That it is not permitted to rebaptize a heretic baptized in the name of the Father, and of the Son, and of the Holy Spirit (Council of Carthage under Saint Gratus, title 1; also Carthage, title 48)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.176",
+   "text": "176. That heretics who remain in heresy are not to enter the house of God (Council of Laodicea, title 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.177",
+   "text": "177. That Novatians or even Quartodecimans are not to be received unless they have first condemned their heresy; and so that they are taught the creed and anointed with chrism (Council of Laodicea, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.178",
+   "text": "178. That whoever are converted from the heresy of those called 'according to the Phrygians' are to be baptized (Council of Laodicea, title 8)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.179",
+   "text": "179. That Catholics are not permitted to enter the cemeteries of heretics to pray (Council of Laodicea, title 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.180",
+   "text": "180. That no one belonging to the Church is to join his children in marriage with heretics (Council of Laodicea, title 30)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.181",
+   "text": "181. That Christians are not to judaize, nor rest on the sabbath (Council of Laodicea, title 28)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.182",
+   "text": "182. That no one is to contract marriage with heretics (Council of Laodicea, title 30)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.183",
+   "text": "183. That no one is to pray with heretics or schismatics, or go to false martyrs (Council of Laodicea, title 32; Council of Carthage, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.184",
+   "text": "184. That no one is to hold an assembly to [invoke] angels (Council of Laodicea, title 33)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.185",
+   "text": "185. That no one is to accept festival gifts from Jews or heretics (Council of Laodicea, title 35)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.186",
+   "text": "186. That no one is to accept unleavened bread from Jews (Council of Laodicea, title 36)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.187",
+   "text": "187. That no one is to celebrate festivals with pagans (Council of Laodicea, title 37)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.188",
+   "text": "188. That no Christian is to dare to dance or sing at weddings (Council of Laodicea, title 41)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.189",
+   "text": "189. That the clerics of the Donatists are to be received in their ranks (Council of Carthage, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.190",
+   "text": "190. That whatever churches of the Donatists have become Catholic are to belong to that see to which the Catholic [church] that was already there belonged (Council of Carthage, title 10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.191",
+   "text": "191. That when any bishop of the Donatists has been converted, the congregations that have both churches are to divide equally with the Catholic bishop (Council of Carthage, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.192",
+   "text": "192. That no one is to accept the blessings of heretics (Council of Laodicea, title 31)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.193",
+   "text": "193. That those who are baptized as small children among the Donatists are not to be barred from ordination if they have been converted (Council of Carthage, title 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.194",
+   "text": "194. That one who is entangled in any crimes is not to have the right to accuse (Council of Carthage under Saint Genethlius, title 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.195",
+   "text": "This was also decreed at the Council of Thenae."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.196",
+   "text": "195. That excommunicated persons, whether clerics or laymen, are not permitted to accuse (Council of Carthage, title 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.197",
+   "text": "196. That all slaves, or one's own freedmen, or all whom the public laws do not admit to accuse public crimes, and also actors, heretics, pagans and Jews, are not to be admitted to bring an accusation (Council of Carthage, title 3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.198",
+   "text": "197. That one who has not proved one charge is not to be admitted to [bring] another (Council of Carthage, title 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.199",
+   "text": "198. That an accuser, if he fears violence in the place where the accused is, is to choose a place near himself (Council of Hippo Regius, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.200",
+   "text": "199. That those to be baptised are to learn the creed of the faith (Council of Laodicea, title 44)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.201",
+   "text": "200. That those who are baptised in sickness are, once made well, to be taught the creed (Council of Laodicea, title 45)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.202",
+   "text": "201. That the baptised are to be anointed with chrism after baptism (Council of Laodicea, title 16)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.203",
+   "text": "202. That baptism is not to be refused to the sick, when they themselves cannot speak, if others have given testimony on their behalf (Council of Carthage, title 41)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.204",
+   "text": "203. That when it is not known whether infants have been baptised, they are to be baptised without any hesitation (Council of Carthage, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.205",
+   "text": "204. That pregnant women are to be baptised when they wish (Council of Neocaesarea, title 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.206",
+   "text": "205. That Christians are not to share baths with women (Council of Laodicea, title 29)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.207",
+   "text": "206. That after two weeks of Lent no one is to be received for baptism (Council of Laodicea, title 42)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.208",
+   "text": "207. That in Lent [the offering] is to be made only on Saturday and Sunday (Council of Laodicea, title 47)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.209",
+   "text": "208. That in Lent, on the Thursday of the last week, the fast is not to be broken (Council of Laodicea, title 48)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.210",
+   "text": "209. That in Lent the feast days of martyrs are not to be celebrated (Council of Laodicea, title 49)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.211",
+   "text": "210. That in Lent weddings are not to be celebrated (Council of Laodicea, title 50)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.212",
+   "text": "211. That no stranger is to be received without a bishop's *formata* [letter of authorisation] (Council of Antioch, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.213",
+   "text": "212. That on the Thursday of the holy week of Easter [the offering] is to be made a second time (Council of Septimunici)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.214",
+   "text": "213. That no one is to make the offering in the sacrifice without bread and wine (Council of Carthage, title 32)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.215",
+   "text": "214. That on the days of the fifty days [after Easter] the knee is not to be bent (Council of Sardica, title 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.216",
+   "text": "215. That no one is to dare to fast before Pentecost (Council of Septimunici)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.217",
+   "text": "216. That it is not permitted to hold an *agape* [love-feast] in the Lord's houses or in churches, or to spread couches inside (Council of Laodicea, title 27)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.218",
+   "text": "217. That the faith of the three hundred and eighteen Fathers is to be kept (Council of Constantinople, title 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.219",
+   "text": "218. That the statutes of the ancient councils are to be observed by all (Council of Zella)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.220",
+   "text": "219. That no one in prayers is to direct the prayer except to the Father, and that he is first to go over them with the better instructed (Council of Carthage, title 31; likewise, title 7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.221",
+   "text": "220. That there is to be one discipline in the sacraments throughout all Byzacena (Council of Maradia)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.222",
+   "text": "221. That women who among the Greeks are called *presbyterae* [elder women] (but among us elder widows, once-married women and enrolled women) may not be established in the church as if ordained (Council of Laodicea, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.223",
+   "text": "222. That women are not to approach the altar (Council of Laodicea, title 43)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.224",
+   "text": "223. That the holy offerings are not to be sent in place of *eulogiae* [blessed bread] (Council of Laodicea, title 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.225",
+   "text": "224. That the Gospels are to be read on Saturdays (Council of Laodicea, title 16)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.226",
+   "text": "225. That no single chant is to be joined together from various verses and passages of a book (Council of Laodicea, 17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.227",
+   "text": "226. That even during the most solemn days of Easter no sacrament is to be given to catechumens except the customary [sacrament] of salt (Council of Carthage, title 11)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.228",
+   "text": "227. That the Eucharist is not to be given to the bodies of the dead (Council of Carthage, title 12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.229",
+   "text": "228. That nothing apart from the canonical Scriptures is to be read in church (Council of Laodicea, title 57; Council of Carthage, title 45)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.230",
+   "text": "229. That it is permitted to read the passions of the martyrs on their feast days (Council of Carthage, title 46)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.231",
+   "text": "230. That the Church of Carthage alone is permitted to ordain another's cleric (Council of Carthage, title 54)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.232",
+   "text": "231. That all Churches are to hear the date of Easter from the Church of Carthage at the time of the council (Council of Carthage, title 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1127.tmp1127.opp-lat1.233",
+   "text": "232. That no one is to be ordained unless approved either by the examination of bishops or by the testimony of the people (Council of Carthage, title 19)."
+  }
+ ]
+}

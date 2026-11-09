@@ -1,0 +1,485 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp917.tmp917",
+ "edition_urn": "urn:cts:latinLit:tmp917.tmp917.ai-claude",
+ "source_edition": "tmp917.tmp917.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Epistolae: AI translation (Claude)",
+  "author": "SS Hilarius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp917.tmp917.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp917.tmp917.opp-lat1.head": "Line ab3: 'fuga sua' refers to Hilarus's own escape from Ephesus. Line 7: 'ex poenitentibus' vs. the variant 'ex poenitentes' (former penitents). Line 8: bracketed variants of the edition followed where they make better sense (alio, resecuerit, commodate, aditus, illicitis). Line 10: 'legali [legatorio]' variant noted in translation; 'pro populi habeatur [praebeatur] assensu' rendered 'taken in place of'. Line 16: 'exstaret' read for the variant 'dictaret'. Line 17: 'divinationes' read as the variant 'ordinationes'; the antecedent of 'in eodem loco, qui illi fuerat destinatus' is unclear, and is taken as the bishop first ordained by Silvanus. Line 20: 'Vincentio provinciae nostrae' seems to lack a title (probably dux); 'VOLo' read as 'voto'; 'jusfe' as 'juste'; 'vere [venerande]' rendered 'truly venerable'. Line ab14: the stray '4' is taken as a footnote mark.",
+  "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab17": "Letter II: the edition's date 'an. Dom. 495' is erroneous; the consuls Basiliscus and Herminericus place it on 30 December 465. Place names in the list of towns are partly corrupt in the scan ('Calcantesium' read as Cascantum, 'Virgiliensium' probably Vareia, 'Triciensium' Tritium); 'Civitatensium' is unidentified (rendered 'Civitas'). Where the edition gives bracketed variants, the reading that best fits the sense was followed: e.g. 'cavetur', 'humanitate' (kindness) rather than 'unitate', 'impetitorum' vs 'imperitorum' (kept 'unskilled'). In Letter III 'non metuit' was read without the negation, as the edition notes it is superfluous. 'Christi' in Letter II §III is absent from one manuscript. Letter IV: 'Nicaense castellum' is Nice; Cemenelum is Cimiez.",
+  "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab30": "In the letter to Leontius (ref 39), 'quod de tua sanctitate reparaverit' has no expressed subject; 'God' is understood. In ref 50, 'relro antepositum' is printed with the editor's alternative '[omne propositum]'; I have followed the latter. The last sentence of ref 50, 'nec affectio coercere', is compressed: it seems to mean that affection did not stop us from restraining, and I have bracketed the words supplied. 'sub adversione' is taken as 'sub adversione', 'in the presence of'. 'ad diem natalis nostri' presumably means the anniversary of Hilarus's consecration. 'Pappolus', 'Concordius', 'Joannes' and 'Fridericus' (perhaps the Visigothic prince Frederic) are left in plain English form.",
+  "urn:cts:latinLit:tmp917.tmp917.opp-lat1.51": "51: 'faciendomm mos' read as 'faciendorum mox'; 'acvo' as 'aevo'. 57: 'tesimus' read as 'tenemus'; date 'Datavi' as 'Data VI'. 64: the sentence 'Nam dignitatem ... Mamertus episcopus ... crevisse' lacks a main verb; '[knows]' supplied. 'Leonii' read as 'Leontii'. Letter X's opening sentence is grammatically loose ('quorum ... summam placuit esse').",
+  "urn:cts:latinLit:tmp917.tmp917.opp-lat1.65": "In I, 'quarum non fuit aut non fuerit Mamertus episcopus ordinatione contentus' is awkward; it seems to mean the four cities whose ordination Mamertus did not keep within (i.e. which he exceeded). 'Fuerit' may be a corruption."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.head",
+   "text": "LETTERS OF POPE HILARUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab1",
+   "text": "LETTER I"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab2",
+   "text": "OF HILARUS, DEACON OF THE HOLY ROMAN CHURCH AND LEGATE OF HOLY POPE LEO, TO PULCHERIA AUGUSTA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab3",
+   "text": "On the petty council of Ephesus, the factions of Dioscorus, and his own flight."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab4",
+   "text": "To the most glorious and most devout Pulcheria Augusta, Hilarus the deacon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.2",
+   "text": "It was my concern, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.3",
+   "text": "(The reader will find this letter, which is the 46th among Leo's letters, transcribed in volume LIV of our Patrology, col. 837.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab5",
+   "text": "LETTER I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab6",
+   "text": "OF POPE HILARUS TO THE BISHOPS OF TARRACONENSIS. ON THE SYNODAL DECREE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab7",
+   "text": "In the consulship of the most distinguished men Flavius Basiliscus and Herminericus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab8",
+   "text": "I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.5",
+   "text": "Since this religious assembly, gathered by the Holy Spirit, urges us to treat with more diligent care whatever is necessary for church discipline: if it please you, brothers, let us so establish, with the Lord's help, to remain for all time, what pertains to the proper order of ordinations, according to the precepts of divine law and the decrees of the Nicene canons, that no one may, without danger to his own standing, violate either the divine ordinances or the decrees of the apostolic see: for the guilt of such transgressions will fall upon us, who administer the office of the chief priest, if we are found idle in the causes of God; for we remember, as we ought to fear, how the Lord threatens the negligence of priests, since he who enjoys the greater honour offends with the greater guilt, and the loftiness of rank makes the faults of sinners heavier."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab9",
+   "text": "II."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.6",
+   "text": "Above all, then, care must be taken that no one aspire to the sacred grades, as was laid down earlier in previous proceedings, who has married a wife who was not a virgin. Also to be rejected is anyone who, against the apostolic precepts, has entered into marriage with a second wife."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab10",
+   "text": "III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.7",
+   "text": "Likewise those ignorant of letters, and those who have suffered some loss of limbs, and those who are [or: have been] penitents, are not to dare to aspire to the sacred orders. Whoever has been the consecrator of such men shall undo his own act."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab11",
+   "text": "IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.8",
+   "text": "But whatever anyone has done unlawfully, or found to have been admitted by his predecessors, he shall condemn, if he wishes to avoid danger to himself: for we wish in no case to exercise the severity of punishment. But whoever offends in the causes of God, either by obstinacy or by some excess, or himself refuses to abolish what he has done wrongly, will find upon himself whatever he has not cut away in another. And so that this may be kept more firmly from now on, if it please you, all of you lend your opinions, reasons and signatures, so that by synodal judgment the way may be closed to unlawful things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.9",
+   "text": "By all the bishops and presbyters it was acclaimed: \"Hear us, Christ: life to Hilarus!\" This was said six times. \"This we both confirm and teach\": said eight times. \"These things are to be held, these things are to be kept\": said five times. \"We give thanks for your teaching\": said ten times. \"We ask that these things be kept for ever\": said fifteen times. \"Through Saint Peter we pray that these things be kept for ever\": said eight times. \"May this presumption never occur\": said ten times. \"Whoever violates these things will find [it] upon himself\": said seven times. And when silence had been made, Bishop Hilarus said:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab12",
+   "text": "V."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.10",
+   "text": "Further, brothers, new and unheard-of seeds of perversity keep springing up in certain places (as has reached us by a definite report in letters sent to us from Spain). Indeed, some think that the episcopate, which is given only for prior merits, is not a divine gift but a hereditary gain; and they believe that, like perishable and mortal things, the priesthood can be handed on as if by legal [or: legacy] or testamentary right. For many priests, when placed at the brink of death, are said to substitute others in their place by naming them, so that a lawful election is not awaited, but the favour of the dead man is taken in place of the people's assent. Consider how grave this is, and therefore, if it please you, let us remove this licence too from the churches generally, lest (what is shameful to say) anyone think that what is God's is owed to a man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.11",
+   "text": "But so that what has been brought to us may also come to your knowledge, let the writings of our Spanish brothers and fellow bishops be read. Paulus the notary read aloud"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.12",
+   "text": "There is added in Justel's manuscript: And it was decreed that nothing further of this kind be presumed by priests."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab13",
+   "text": "LETTER"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab14",
+   "text": "OF THE BISHOPS OF TARRACONENSIS TO POPE HILARUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.14",
+   "text": "They complain to the Roman pontiff about an ordination of a bishop made by Silvanus, bishop of Calagurris, against the rules of the Fathers and the Nicene canons, and consult him on what they ought to do in this case, or by what means they ought to meet abuses of this kind."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.15",
+   "text": "To the most blessed lord, to be revered by us in Christ with apostolic reverence, Pope Hilarus, Ascanius the bishop and all the bishops of the province of Tarraconensis."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.16",
+   "text": "Even if no need of church discipline existed, we would truly have had to seek that privilege of your see by which, after the keys of the kingdom were received following the Saviour's resurrection, the singular preaching of most blessed Peter provided for the enlightenment of all throughout the whole world; and as the primacy of his vicar is pre-eminent, so it is to be feared and loved by all. Therefore, worshipping deeply in you the God whom you serve without complaint, we have recourse to the faith praised by the apostle's mouth, seeking answers from there whence nothing is commanded by error, nothing by presumption, but everything by pontifical deliberation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.17",
+   "text": "This being so, there is nevertheless among us a false brother, whose presumption we could no longer be silent about, and the necessity of the coming judgment has commanded us to speak. A certain Silvanus, bishop of Calagurris, situated in the farthest part of our province, by usurping ordinations not due to him, has driven our humility so far that we beg the sole remedy of your see against his most vain superstition. For seven or eight or more years ago, setting aside the rules of the Fathers and despising your institutions, he ordained a bishop with no people asking for one; and though we thought his over-hasty act could be healed by brotherly and peaceful admonition, he went on to worse. At last, against the ancient canons, against the decrees of the synod, fired only by a spirit of presumption, he made a bishop of a presbyter of another brother of ours, in the very place that had been assigned to that [first] man, on whom he had laid hands against his will and resistance, and who had already been joined to our assembly. Hence it came about that our brother the bishop of the city of Caesaraugusta reported to us about his most wretched rashness; his diligence and care would have provided well, if it had availed anything. For he very often forbade all the bishops placed in the vicinity to join themselves to the schismatic; but with damnable obstinacy that man alone did not blush to commit the whole of what was unlawful, and what we are ashamed to say."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.18",
+   "text": "Therefore, since these presumptions, which divide unity and create schism, must be met swiftly, we ask your see that we be instructed by apostolic words what you wish to be observed in this matter; so that, the brotherhood assembled and the decrees of the venerable synod brought forward, relying on your authority against the spirit of rebellion, we may, with God's help, understand what ought to be done about the ordainer and the ordained. It will surely be your triumph if, in the times of your apostolate, the catholic Church hears what the chair of Saint Peter holds, if the new seeds of tares are rooted out. And the signature: May divine eternity preserve your holy apostolate, praying for us, for perpetual ages."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab15",
+   "text": "LETTER"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab16",
+   "text": "OF THE BISHOPS OF TARRACONENSIS TO POPE HILARUS,"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.19",
+   "text": "To the most blessed Pope Hilarus, to be revered by us in Christ with apostolic reverence, Ascanius and all the bishops of the province of Tarraconensis."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.20",
+   "text": "What care your apostolate bears for the priests of your provinces we learned from the report of our son, the illustrious Vincentius, [duke] of our province; at his prompting our wish rose with ready devotion to the boldness of writing. So, offering due homage to your crown in a provincial written address, we ask by this that, with the condescension with which [you remember] others, you deign to keep our humility also in mind in your prayers, most blessed father, to be revered by us in Christ with apostolic reverence: begging this more especially, that you deign, having weighed our statements, to confirm our act, which is brought to your notice as much by the wish of almost the whole province as by the precedent of antiquity. The bishop of the city of the Barcinonenses, holy Nundinarius, has fulfilled the lot of the human condition. He, leaving to the venerable bishop our brother Irenaeus, whom he himself had earlier established in his diocese with our consent, what his poverty could possess, desired by the decision of his last will that he be substituted in his place; and the dead man's judgment does not waver as to his merit. For all the clergy and people of that city, and the best and most numerous of the provincials, hoped from us, with consent given, that he should keep his place. We, considering the judgment of the deceased, and approving his life, and the nobility and number of those who asked, and at the same time the benefit of the said Church, thought it best that to so great a priest, who had passed to things divine, a bishop of no lesser merit should be substituted, especially since it is established that the Church of that town in which he had previously been ordained has always been a diocese [i.e. dependency] of the Church of this city. Therefore we humbly pray your apostolate to confirm with your authority the decree of our humility, which seems to have been made by us justly. We had indeed long ago complained in our letters of the presumption of Bishop Silvanus, and we wonder that we have received no reply from your apostolate. Now, suggesting these same things, we ask that you deign to inform us with apostolic words what is to be observed in these matters. And lest perhaps, through the negligence of the bearer or the difficulty of the long journey, the writings of our humility on this business could not reach you, we have chosen to repeat our submission as well. And the signature: May divine eternity preserve your holy apostolate, praying for us, for perpetual ages, for all of us and for his Church, our truly venerable lord and apostolic pope."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab17",
+   "text": "LETTER II."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab18",
+   "text": "OF POPE HILARUS TO ASCANIUS AND THE OTHER BISHOPS OF THE PROVINCE OF TARRACONENSIS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.21",
+   "text": "I. That no bishop be ordained without the consent of the metropolitan bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.22",
+   "text": "II. That no bishop, leaving his own Church, pass to another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.23",
+   "text": "III. That Irenaeus, removed from the Church of Barcelona, return to his own."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.24",
+   "text": "IV. On removing bishops who have been unlawfully ordained, and that there be not two bishops in one Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.25",
+   "text": "V. On the condemnation of Irenaeus, if he does not return to his own Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab19",
+   "text": "Bishop Hilarus to Ascanius and all the bishops of the province of Tarraconensis."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.26",
+   "text": "After we received the letter of your love, in which you asked that the presumptions of Silvanus, bishop of the Church of Calagurris, be checked, and in which you again seek to have the all too unlawful wishes of the people of Barcelona confirmed, it appears that a letter was delivered to us from the notables and landholders of Turiaso, Cascantum, Calagurris, Vareia, Tritium, Legio and Civitas, with the signatures of various persons, by which they excused what your complaint had set forth about Silvanus. But their plea, though just, was equally not free from most just reproof, because it became clear that priests had been ordained in a number of cities without the knowledge of the metropolitan, our brother and fellow bishop Ascanius. Therefore, since we see that whatever has been reported by either side is confused by every kind of irregularity, having considered the necessity of the times, we decree that what has been done falls under pardon on this condition: that nothing henceforth be attempted against the precepts of the blessed Apostle, nothing against the ordinance of the Nicene canons."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab20",
+   "text": "I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.27",
+   "text": "This, then, we wish first to be kept, according to the rules of those same Fathers: that no one be consecrated bishop in any way without the knowledge and consent of our brother Ascanius, the metropolitan; for the ancient order held this, the authority of the three hundred and eighteen holy Fathers defined this; and whoever stretches out his hands against it confesses himself unworthy of the fellowship of those whose precepts he has resisted."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab21",
+   "text": "II."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.28",
+   "text": "In contempt of them, out of a proud spirit, that part also is disregarded by which it is provided that no one, leaving his own Church, presume to pass to another. This Bishop Irenaeus is attempting to commit, with you all too wrongly conniving and (to make it more grievous) actually supporting it; and this you desire to be strengthened by our authority, you who show that you are roused with great indignation chiefly over unlawful things. Your letter having therefore been read in the assembly of the brethren whom the feast of my anniversary had gathered, you will learn from the text of the proceedings, which we are sending likewise, the sentence pronounced on what has been decreed concerning the ordaining of bishops according to the statutes of the canons and of my predecessors."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab22",
+   "text": "III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.29",
+   "text": "Therefore, Bishop Irenaeus being removed from the Church of Barcelona and sent back to his own, and the wishes calmed by priestly restraint which, through ignorance of the Church's laws, desire to obtain what is not permitted, let a bishop at once be ordained for the people of Barcelona from their own clergy, such as it befits you above all, brother Ascanius, to choose and fitting to consecrate; lest, if perhaps something similar is done, our injunction strike back, not without reproach especially to your name, at what we learn has been committed to the injury of God, from whom in particular comes the grace of priestly dignities. Nor let the episcopal honour be thought a hereditary right, which is conferred on us solely by the kindness of our God [Christ]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab23",
+   "text": "IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.30",
+   "text": "The bishops now ordained, therefore (although those who were advanced without your knowledge deserved to be removed together with those who promoted them), we confirm on this condition: if none of them has been the husband of a widow, and if he has come to the marriage and vows of one virgin, as the ordinances of the Law also prescribe, saying: Let the priest take a virgin to wife, not a widow, not a divorced woman (Lev. 21; Ezek. 44); in accordance with which the blessed apostle Paul too, teacher of the Gentiles, did not keep silent in his own instruction about those who desire to become priests, saying: The husband of one wife (1 Tim. 3). By the tenor of this pronouncement you ought to be so instructed, dearest brothers, that among the other things to be guarded against you take care above all to keep these, which you know are commanded before all else. In these matters it must also be seen to that there be not two priests at the same time in one Church; and that no one ignorant of letters, or lacking some part of his limbs, or even anyone from among the penitents, be at all permitted to approach the sacred ministry. Nor should you think the petitions of the people of such weight that, in desiring to comply with them, you abandon the will of our God, who forbids us to sin. His indignation is the more gravely stirred by this, that his kindness is offended when unlawful things are done by those who are the interpreters of reconciliation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab24",
+   "text": "V."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.31",
+   "text": "So that everything may be corrected according to what we have written, we have sent the present letter by the hand of our subdeacon Trajan. But if Bishop Irenaeus, laying aside his wicked ambition, neglects to return to his own Church, which will be granted him not by judgement but by kindness, let him know that he is to be removed from the fellowship of bishops. May God keep you safe, dearest brothers. Given on the third day before the Kalends of January, Basiliscus and Herminericus, men of the highest rank, being consuls."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab25",
+   "text": "LETTER III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab26",
+   "text": "OF POPE HILARUS TO ASCANIUS, BISHOP OF TARRACO, WRITTEN PRIVATELY; IT IS ON THE SAME SUBJECT AS THE PRECEDING LETTER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.33",
+   "text": "To his most beloved brother Ascanius, Bishop Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.34",
+   "text": "We ought to be mindful of the divine grace toward us, which through the mercy of its condescension raised us to the priestly summit for this purpose: that, holding fast to its commands and set as it were in a watchtower of its priesthood, we should forbid what is unlawful and teach what is to be followed. Therefore, in the letter sent by our subdeacon Trajan, we admonish that what has been wrongly done be corrected. And we greatly wonder that your love not only did not check the petitions of the people of Barcelona with any authority, but even, in a letter sent to us, asked for the fulfilment of a perverse desire, making mention of a council in the opening of the letter, as though the excesses of a fault were lessened by the multitude of the unskilled. Even if each one, under the mark of his own name, had joined with you in reporting it, and had lent his own signature, yet the chief weight of the matter, which is displeasing, touched your love: for by reason of the place and honour due to you, the other priests ought to have been taught, not followed. Therefore, as I indicated in the general letter, let Irenaeus return to his own Church, and let a bishop be at once consecrated for the people of Barcelona from their own clergy, with whom, however, the statutes of the canons and the apostolic precepts agree. And although those priests who were ordained without the knowledge and consent of your love ought to have been removed together with those who promoted them, yet, so that we may decree nothing harsh in so great a necessity, we wish those who have been made bishops to remain, provided they are not found liable under the apostolic precepts and the statutes of the holy Fathers, and that henceforth nothing contrary to church discipline be committed, as has been done until now. It is the part of your care, dearest brother, to uphold everything by the authority due to you, and not only not to give assent to unlawful things, but also to restrain all that you find done against the rule; and above all, compel Irenaeus to return to his Church, as we decree in kindness alone. To it he ought rather to return of his own accord, if he fears being separated from the fellowship of priests. Nor let two bishops be permitted for one Church; we delegate this to be done more fittingly through the diligence of the aforesaid subdeacon, whom the authority of our arrangement has also caused to travel to the Spains for the preservation of church discipline. May God keep you safe, dearest brother."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab27",
+   "text": "LETTER IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab28",
+   "text": "OF POPE HILARUS TO THE BISHOPS LEONTIUS, VERANUS AND VICTURUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.35",
+   "text": "He delegates to them the dispute between the bishops Ingenuus and Auxanius, and decrees that the city of Cemenelum and the fortified town of Nice return to the government of one bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.36",
+   "text": "To his most beloved brothers the bishops Leontius, Veranus and Victurus, Pope Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.37",
+   "text": "We are moved by the claim of justice, which, though it ought to be kept by all who think rightly, is especially not to be rashly neglected by the priests of the Lord, by whose teachings it is fitting that the rest be instructed. Our brother and fellow bishop Ingenuus of Embrun, who has always been supported by the honour of metropolitan of the province of the Maritime Alps, recalls, as the attached documents show, that we, at the request of our brother and fellow bishop Auxanius, decreed certain things to his prejudice which would run counter to all the defences in this same case. For when the reports had been reviewed in our court which our brother and fellow bishop Veranus, with the other priests of the province, sent to my predecessor of holy memory, and when the reply of the apostolic see which had been sent at that time was laid open, it is clear that nothing ought to have been attempted afterwards, nor ought anything to be established to the injury of the synodal rules through the deception which was recently practised. For although even what was drawn from us is judged invalid, since it has been reported that the one who obtained it was himself unwilling to carry it out, nevertheless, that we may not be moved by hatred or favour, which ought to have no place in the hearing of cases, we delegate to your charity the examination of the attached complaint on this condition: that whatever is established to have been obtained from us by deception shall have no force against the venerable canons, nothing against the judgement of my predecessor of holy memory. For we do not wish, dearest brothers, the privileges of the churches, which must always be preserved, to be thrown into confusion; nor do we permit one priest to hold jurisdiction in the province of another: because by this no less is offence committed against the sanctions of the holy traditions than an assault is made on the Lord himself, whose expectation of the fruit of our ministry is placed not in the breadth of territories but in the gaining of souls. Let our brother and fellow bishop Ingenuus therefore have the pontifical authority of his province, for whose unlawful surrender he was formerly blamed by the apostolic see; and, with everything kept that, as we have said, the authority of my predecessor of holy memory defined concerning the churches of the city of Cemenelum and the fortified town of Nice, let it do no harm to the right of the churches that a bishop was recently consecrated in one of the said places by the aforesaid brother, to shut out, as he declared, the greed of another's ambition; but let the form of the established correction remain, so that the aforesaid places, which ought not to have been divided between two priests, return to the government of one bishop. May God keep you safe, dearest brothers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab29",
+   "text": "LETTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab30",
+   "text": "Letter of Pope Hilarus to Leontius, bishop of Arles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab31",
+   "text": "On the beginnings of his episcopate."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab32",
+   "text": "To his most beloved brother Leontius, Pope Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.38",
+   "text": "How much reverence is paid, in the Spirit of God who dwells in the priests subject to him, to the blessed apostle Peter and to his see, is known, I think, to all who keep the traditions of the fathers uncorrupted. Since we wish them to rejoice over the beginnings of our ordination, we have thought fit to make known to your holiness the works that the condescension of divine goodness has shown towards us: first, that you yourself, by the Lord's gift, may rejoice with the affection that we have always given each other; and then, that through the arrangement of your fraternity it may become known to all our brothers and fellow priests throughout the whole province that the right hand of the Lord has deigned to visit my lowliness, and has entrusted to me the government of the apostolic see, not for any merit but out of the most abundant bounty of his grace. Therefore, dearest brother, please bring what we have disclosed to your holiness in this present letter to the notice of all the brothers, as we have said, so that, as they make supplication to our Lord Jesus Christ, they may join with us both the joys of exultation and the prayers they offer, which will benefit the universal Church. May God keep you safe, dearest brother. Given on the eighth day before the Kalends of February (in the year of Christ 462), in the consulship of our lord Severus Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab33",
+   "text": "LETTER"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab34",
+   "text": "Of Leontius, bishop of Arles, to Pope Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab35",
+   "text": "He congratulates Hilarus on his pontificate, and asks him to protect the rights of the Church of Arles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.39",
+   "text": "That death has taken away Leo, your most holy predecessor, who kept watch against heresies and rooted out the darnel in the Lord's field, which alas grows all too thickly, we grieve; that [God] has made good the loss through your holiness, we rejoice. For a son rejoices at his mother's honour; and since the Roman Church is the mother of all, we had to rejoice that in so great a disturbance of affairs and weakness of the ages he has raised you over her, so that you may judge the peoples in equity and direct the nations on earth. So when that news was brought to us by Concordius, deacon of our Church, who was present when your holiness was raised to that lofty summit of honour, we gave thanks to our God, and resolved to greet you as soon as possible with this letter of our lowliness: so that in this way too the affection which has long grown between your holiness and us might be strengthened in the Lord, and might henceforth increase with the due reverence with which sons ought to attend on a father. Blessed, then, is he who comes in the name of the Lord. Now your holiness must labour and strive mightily to bring to its final limit what the most holy Pope Leo began, and, with the army of Gideon, through trumpets sounding in the mouths of the strong and lamps shaken and waved in a sturdy hand, may your holiness bring down the accursed walls of Jericho, so often anathematized and shaken. Moreover, since our Church of Arles has always been adorned by the apostolic see with ample favours and privileges, we ask your holiness that through you nothing be taken from us, but rather that it be increased, so that we may be able both to labour with you in the vineyard of the Lord God of Sabaoth and to break the efforts of the envious: who, if there were no authority to restrain them, will certainly grow worse from day to day, since the malice with which they hate us is ever rising. Given in the consulship of Severus Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab36",
+   "text": "LETTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab37",
+   "text": "Of Pope Hilarus to Leontius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab38",
+   "text": "He replies to the letter of Leontius, which he had written before he had received the preceding letter of Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab39",
+   "text": "To his most beloved brother Leontius, Pope Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.41",
+   "text": "My love, which abounds towards the Gallic Churches and all the Lord's priests in them, even those placed in a lower rank, is greatly increased by the fact that the first words of your conversation have been brought to me by the honourable man Pappolus, our son. From this, however, I gather that my letter, which I sent some time ago about the beginnings of my episcopate, had not yet been delivered to you when you wrote; you would certainly not have been silent about it, had not some cause delayed its bearers. I therefore inform you that I long ago carried out what both custom and love required, and I wish you to learn this more fully from the very copies of the letter that I sent, so that you may understand that I have in no way been slack in brotherly duty, and that we may in turn be eager for frequent exchanges, so that the care of writing may make up to us for being present together, dearest brother. You have not, then, let the grace of your affection go to waste, since I see you intent on that concern, wishing me to be zealous for the rules of the fathers' canons that are to be kept. Nothing more wholesome can be conceived than this desire: that in the one Church, in which there ought to be neither spot nor wrinkle, there should be one observance of discipline among all. If anything of instruction or correction must be added to it, it will be most rightly provided for by your diligence if, as you have been pleased to write, a person is sent to us so well instructed as to be able to inform our inquiry fully on every point. For I promise, as far as the grace of God grants me to promise, that I will take care of this for the general harmony of the Lord's priests, so that none may dare to seek their own interests, but all may strive to obtain the things that are Christ's. May God keep you safe, dearest brother."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab40",
+   "text": "LETTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab41",
+   "text": "Of Pope Hilarus to Leontius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.42",
+   "text": "He urges him to send a report about Hermes, who was said to have rashly usurped the bishopric of the Church of Narbonne."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab42",
+   "text": "To his most beloved brother Leontius, Pope Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.43",
+   "text": "We are surprised that your fraternity is so forgetful of the catholic law that, if you yourself either will not or cannot correct whatever wrongs [are done] against the statutes of our fathers in the province belonging to your primacy, you do not even allow us to correct them, because of your keeping silent. For we have learned by rumour, and have inquired as carefully as we could of the deacon John, who was commended to us in a letter from the magnificent man Frederic, our son, that by a most unjust usurpation one Hermes has with accursed rashness presumed upon the bishopric of the city of Narbonne. Your holiness ought to have reported this matter to us at once. On this matter, dearest brother, we urge that, if credit is to be given to these assertions, setting aside excuses, you send us a report signed by the hands both of your love and of our brothers, either by the bearer of this letter or by whomever you yourselves choose; so that you may learn from a letter in return what we are able to decide. May God keep you safe, dearest brother. Given on the third day before the Nones of November (in the year of Christ about 462)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab43",
+   "text": "LETTER VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab44",
+   "text": "Of Pope Hilarus to the bishops of the various provinces of Gaul."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.44",
+   "text": "I. He permits Hermes to preside over the Church of Narbonne on condition that he lacks the power of ordaining bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.45",
+   "text": "II. That councils be held every year from whatever provinces can [meet], and be convoked by Leontius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.46",
+   "text": "III. That bishops not travel into another province without letters from the metropolitan. And if they cannot obtain them, the bishop of Arles shall examine the case."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.47",
+   "text": "IV. Concerning the parishes of the Church of Arles which Leontius was claiming back, he refers the judgement to the bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.48",
+   "text": "V. That church estates not be alienated unless the reason for the alienation is first shown before a council."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.49",
+   "text": "To our most beloved brothers the bishops of the provinces of Vienne, Lyons, First and Second Narbonensis, and the Pennine Alps, Bishop Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.50",
+   "text": "Although it is not unknown to your love how great and what kind of things were some time ago committed in the Church of Narbonne and of Béziers, and the shamelessness of the presumption, reaching even to us, is no doubt plain to the regions of Gaul, yet it belongs to apostolic care not to keep silent about faults detected in our examination, lest by unfitting silence we seem to have a share of connivance with those who do wrong. Formerly, then, the governors of the aforesaid cities caused my predecessor of holy memory no less grief than they caused us even then, by daring to pursue unlawful petitions, which could scarcely be softened in our patience by mere lament over the necessities [of the time]. For by what precedents, as you too acknowledge, is it agreed to have been done, and what rebuke does it not most deserve, since it is repugnant to the decrees of the holy fathers and to the very ordinances of the canons? For our brother and now fellow bishop Hermes believed he was lawfully received by the Church of Narbonne because, he said, he was unworthily excluded by the people of Béziers, for whom he had been ordained. If he truly grieved that this had been done to him, and had known how to relieve his own injury by a lawful remedy, he ought rather to have hoped for vindication for what he suffered than for pardon for what he committed. Finally, if even now he would adopt the common mind of all the Lord's priests, if he would follow their example, if he would direct the eyes of his heart to these things, which have been laid to rest in some fashion out of regard for the Church's quiet, and would consider, for the peace and faith of the whole Church, the many ways in which errors were made: there is surely nothing that he himself would not also condemn, and he would be ashamed that he was granted what he would rightly have disapproved in another. For we know, and have long had no doubt about the conduct of the said brother, since, turning over in our mind the course of his past life and his whole purpose, we judge that he fell into the excesses for which we reproach him rather than committed them. Concerning these, a numerous council of the brothers presiding, gathered by God's grace from various provinces for the day of our anniversary in honour of the blessed apostle Peter, with our brothers and fellow bishops Faustus and Auxanius presiding and very many taking part, [doing] what concerns the vigour and authority of a judgement, we have, out of love of peace, so determined that in the sentence which, by the inspiration of Christ our Lord, we pronounced in the presence of both delegations sent from there, neither the charity of Gospel indulgence nor the rod of apostolic discipline was lacking. For indulgence did not make us remit entirely, nor did affection [keep us from] restraining."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.51",
+   "text": "I. From him who is now permitted to preside over the Church of Narbonne we have taken away the power of ordaining bishops, because of these things that were wrongly done. We have decided that this [power] belongs to our brother and fellow bishop Constantius, bishop of the Church of Uzès, because he is said to be first by seniority of office, in such a way that if he dies while Bishop Hermes is still living, this charge will fall to whomever the episcopal order finds to be first in rank. But when Bishop Hermes dies, [the right] of making bishops is to be restored at once to the Church of Narbonne, which lost it not because of the city but because of an act of presumption. Therefore let the sincere love in the Lord of your brotherhood, which shares with us the anxiety of pastoral care in its own sees, watchfully exercise diligence over the Churches entrusted to it, and remember what arose in the province of Narbonensis in such a way as to detest the deed rather than take it as an example. We do not wish this to be so henceforth, just as we know it was not so before. And so, dearest brothers, we must act with the necessary zeal so that the error which, with the help of Christ our Lord, we have lately abolished may never break out into similar or new excesses. This can certainly be guarded against in no other way than if we carry out the statutes of the venerable canons on holding assemblies, which a definite necessity has caused to be omitted until now. In these, as the needs of arising cases require, for the observance of church discipline, both what has been done otherwise may be corrected and what is to be followed may be laid down."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.52",
+   "text": "II. Every year, therefore, let an episcopal council be held, gathered from whatever provinces it can be. Let it be held at suitable places and times, according to the arrangement of our brother and fellow bishop Leontius, to whom we have delegated the charge of gathering the brothers, the metropolitans having been notified by his letters, so that if anything is found anywhere to have been committed against the apostolic precepts, either in ordaining bishops or in making priests or clerics of any rank, or if anything in their conduct is condemned, it may be cut away by the common authority of all. Let them meet especially at that festival which, with Christ our Lord presiding, is both to be revered by the holy and to be dreaded by the perverse. Nor will anyone be allowed to stray from the rules which the united brotherhood, in accordance with the definitions of the canons, has laid down for itself in common, since, with an examination impending every year, each will so direct his actions that the inquiry of the judgement ought to be desired by them rather than feared. In settling the more serious cases, however, and those that could not be concluded there, let the judgement of the apostolic see be consulted."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.53",
+   "text": "III. Nor can we pass over this either: that care must be taken with closer attention that no one dare set out for any province without letters from his own metropolitans. This ought also to be observed in every grade of clerical office in each Church. On the other hand, we provide for them in this way: that if, through some ill will, they have not deserved to obtain this, the bishop of Arles, examining everything with two metropolitans of the provinces concerned, shall determine what is to be observed according to the nature of the case. Nor shall he order a cleric belonging to another to be received, to the wrong of the other, without the testimony of his own bishop, according to the statutes of the canons. Let each and all of the brothers know that the present decrees must be obeyed; and by these our admonition also declares that the judgement of Christ our Lord will by no means fail to come upon those who, by avoiding the assembly in proud rebellion, are refuted by the testimony of their own conscience as having no confidence in their priestly innocence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.54",
+   "text": "IV. Besides, a petition of the same brother was presented to us, in which he states that parishes of the Church of Arles were transferred by his predecessor Hilary to others (which was not lawful), and asks that they be restored to their former jurisdiction by our authority. But, mindful of apostolic moderation, we have referred his complaint to your brotherhood to be heard, so that what he has hoped for from us may be put forward in your assembly, and what agrees with the church's rules may be decided."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.55",
+   "text": "V. At the same time we also wish the whole brotherhood to be warned on this point: that estates which are neither deserted nor loss-making, and which belong to the Church, from which it has been accustomed to relieve the needs of very many, should not be transferred to another by any legal title unless the reason for that alienation is first shown before a council, so that what ought to be done may be discussed in the common deliberation of all. God keep you safe, dearest brothers. Given on the third day before the Nones of December (A.D. 470), in the consulship of the most glorious Severus Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab45",
+   "text": "LETTER IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab46",
+   "text": "OF POPE HILARUS TO LEONTIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.56",
+   "text": "Concerning Bishop Mamertus, who had ordained a bishop for the people of Die outside his own bounds: that he should examine his case in a synod."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab47",
+   "text": "To his most beloved brother Leontius, Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.57",
+   "text": "How Bishop Mamertus of Vienne, coming against the decrees of the apostolic see, exceeded priestly restraint, we ought to have learned by a report from your love, so that we might pronounce on such acts of daring a timely judgement in keeping with the order of the church's rules. For, as far as was indicated in the words of our son, the illustrious man Gundioc, master of the soldiers, the said bishop, against the will of the people of Die, who by no means belonged to the number of his churches assigned to him by the authority of the apostolic see, as we hold in our archives, seized the city in hostile fashion, as is said, and presumed to consecrate a bishop. In this, dearest brother, if it is so, we could declare how manifold the fault is, were it not that, as we have said, both moderation and order of judgement had to be kept by us. And therefore, mindful of the charge which you know has been entrusted to your love, whatever has now been brought to our knowledge by a brief report you must examine as to what was done in the synodal assembly which, according to our statutes, is to be gathered every year with you presiding over it, and demand from the said [bishop] an account of his deed before the whole gathering of the brotherhood, and then inform us by the letters of all, so that we may ordain what is to be done, at the dictation of the Holy Spirit, to suppress unlawful attempts. God keep you safe, dearest brother. Given on the sixth day before the Ides of October (A.D. 463), in the consulship of the most illustrious Basilius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab48",
+   "text": "LETTER X."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab49",
+   "text": "OF POPE HILARUS TO THE BISHOPS OF THE VARIOUS PROVINCES OF GAUL."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab50",
+   "text": "That no one should overstep his bounds, and that councils should be convened every year through the agency of Bishop Leontius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.59",
+   "text": "To our most beloved brothers the bishops of the provinces of Vienne, Lyons, First and Second Narbonensis, and the Alpine [province], Bishop Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.60",
+   "text": "Although we remember that your brotherhood keeps what has been decreed by us and disregards nothing of what we have written, namely that, for church discipline and for the cases which without doubt often arise among the priests of the Lord, synodal councils should be held every year, the chief direction of which it has pleased [us] should rest above all with our brother and fellow bishop Leontius, bishop of the Church of Arles; and although we believe that nothing else can be done than what our ordinance, which will be pleasing to you, has decreed for the common house of the Lord: nevertheless by repeated letters we decree that the same things are to be observed now as well; especially since the bishop of the city of Vienne is entangled in a most grave offence, by consecrating a bishop for the people of Die to the wrong of our brother and fellow bishop Leontius. Postponing the sentence of fitting punishment for his deed, we replied to the report of the brothers [on] what had seemed [right] in the meantime. But since such great excesses have given us greater cause for anxiety, we have sent this writing to your whole charity also through our brother and fellow bishop Antonius, so that the common care of all, being warned by it, may ensure that none of the brothers, about to burst out to the wrong of another, oversteps the bounds set by the venerable Fathers. Therefore, confirming everything that was defined by us through our brothers and fellow bishops Faustus and Auxanius, be pleased to hold the annual gatherings, under the arrangement of our brother and fellow bishop Leontius, the metropolitans having been notified, and, as must often be said, in those places to which none of those travelling has any difficulty in coming. To this diligence provision must also be added, that suitability be fixed both of places and of times, so that whoever thinks so necessary and wholesome a decree of ours may be neglected may appear the less excusable, dearest brothers. But the confirmation of him whom the bishop of Vienne gravely presumed to ordain, though he belonged to another and by no means to himself, we have left to the will of our brother and fellow bishop Leontius, who, we trust, will weigh what is just not without humanity. God keep you safe, dearest brothers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab51",
+   "text": "LETTER XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab52",
+   "text": "OF POPE HILARUS TO THE BISHOPS WHO HAD EXAMINED THE CASE OF MAMERTUS IN SYNOD."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.ab53",
+   "text": "Order of Pope Hilarus concerning the Church of Die, where a bishop was ordained without right by the bishop of Vienne."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.61",
+   "text": "I. That Mamertus be warned through Bishop Veranus to abstain in future from ordinations not due to him, at the peril of his rank and privileges."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.62",
+   "text": "II. That he who was consecrated for the people of Die by Mamertus be confirmed at the discretion of Leontius, bishop of Arles, by whom he ought to have been consecrated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.63",
+   "text": "To our most beloved brothers Victurus, Ingenuus, Ydatius, Eustasius, Fonteius, Viventius, Eulalius, Veranus, Faustus, Auxanius, Proculus, Ausonius, Paulus, Memorialis, Coelestius, Projectus, Eutropius, Avitianus, Ursus, and Leontius, Hilarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.64",
+   "text": "While we were very anxious and held in much suspense by what the latest reliable report had brought us, the letter of your love was delivered, brought by our brother and fellow bishop Antonius, whom we approve as an interpreter worthy of so great an embassy; and it saddened us by the very opening of its contents. For we who believed that our anxiety was at rest, and in large part relieved, in the matters laid down concerning the bishop of Vienne by my predecessor of holy memory, have learned by clear statement, and wonder not without grief, that those definitions could now be overstepped by Bishop Mamertus through which he had seen a privilege acquired for [his] Church; especially since the moderation of our brother and fellow bishop Leontius ought to have offered a pattern of restraint to one who was ambitious. Or, if puffed up by a spirit of rivalry, he thought (as he ought not) that this was to be neglected, at least, taught by the example of his predecessor, he should have imitated the temperance of the one whose office he holds, and not by transgressing have violated what he could even now lose, if we did not hold to the restraints of patience. Whom has a rebellious mind ever profited? Or whom has the elation of pride not brought low? Higher is the grace of humility, to which, through poverty of spirit, the road of the heavenly kingdom is opened to the reward of promised blessedness. Nor let the transgressor think that what he has done is a trifling matter, if, being taught in the church's doctrines, he recognises what each deserves: for the one, according to the prophet's voice, is forbidden to dwell in the midst of the Lord's house; the other is declared to be ever joined to God, who looks upon him, and by whose consolation he is saved. Many sayings of the venerable ancients could be cited, which are shown to have been spoken in accordance with the truth; but examples are to be taken from more recent times, from the very case that has pressed itself upon us to speak. For Bishop Mamertus [knows] that the dignity of the Church of Vienne once grew through the transgression of a bishop of Arles, and that afterwards, to correct what was being wrongly done, it was settled by an inviolable definition, so that the one should not be found without honour, nor the other wholly stripped of its ancient honour through the fault of a predecessor. As, then, both the report of your love and the account of our brother and fellow bishop Antonius have disclosed, it is clear that the said [bishop], by wanting more, wishes to lose privileges enclosed within fixed bounds; who, taking advantage of the moderation of our brother and fellow priest Leontius, did not fear to consecrate unlawfully a bishop for the people of Die, even if he is deserving. In this it would have been fitting for his deed to be undone in such a way that, according to the nature of what was perpetrated, not without loss of his own rank, he should see the one whom he created without right also removed from the fellowship of priests, and should feel himself chastised with just punishment for what he is proved to have done most unworthily, lest the unpunished rashness of conceived audacity should think it had produced an example of licence. But for the peace of the Churches, mindful of apostolic wisdom, we wish the wounds of so great a transgression to be treated first with poultices, so that a member of our body, perhaps curable, may be brought back to its former soundness by gentler medicines; and let it not be thought that what is not meanwhile ordered to be cut off is being neglected. Gentleness always goes before severity in healing, nor is every fault at once checked with the knife, nor is something offered untried even when it could easily help. For now the suitability of the time, now the need of the sick one, now both the measure and the kind of the medicine itself must be sought, so that all the care of the healer, exercised with wisdom in repressing vices, may rejoice in the restoration of what it saves, and not lack moderation in what it cuts away. Let your brotherhood, then, having weighed these things gravely and prudently, not suppose that things can be overlooked by us by which he who is not undeservedly accused has risen up chiefly to our insult. For nothing of the right established by my predecessor of holy memory could be taken away from our brother Leontius, nothing that is owed to his honour could be removed, because it has also been decreed by the law of Christian emperors that whatever the bishop of the apostolic see should pronounce by his examination for the Churches and their rulers, for the peace of all the priests of the Lord and for the observance of discipline itself, in removing confusions, your charity with its peoples should know is to be received with reverence and kept firmly; nor could those things ever be overthrown which were supported by both priestly church precept and royal [precept]. Therefore, dearest brothers, the presumption of the said [bishop], which went forth to the wrong of our brother and fellow bishop Leontius, should be tolerated in such a way, free for the present meanwhile from deserved punishment, that if the transgressor abuses the remedies of satisfaction and pardon, and does not promise to heal the fault of the present excess by diligent observance in the future, then, should complaint return, the privileges of the Church of Vienne are to be transferred to the bishop of Arles by the same precedent by which they first passed away [from him]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.65",
+   "text": "I. Therefore, keeping to the character of our moderation, we have sent a letter to our brother and fellow bishop Veranus, that he should meet with the aforesaid [bishop] by our delegation, so that he may learn what you have reported about him: because it ought not to be burdensome to rebuke an erring brother for his own excesses, [we] who are known to be commanded to forgive often. But it is necessary, if we receive no sign of his correction (which is to be secured by that profession in which he testifies that the decision of the apostolic see is always to be kept, at the risk of his own rank, without any further transgression from now on), that the same four cities, with whose ordination Mamertus was not or shall not have been content, be brought back to the Church of Arles. This will also have to be done if anyone at any time after him, whom we now rebuke in charity and trust will abstain from unlawful things henceforth, should prove to be an imitator of this presumption."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp917.tmp917.opp-lat1.66",
+   "text": "II. Concerning him, indeed, who is known to have been ordained for the people of Die, although improperly, we have decided on grounds of justice that his priesthood be confirmed at the discretion of our brother and fellow bishop Leontius, by whom he ought duly to have been consecrated. May God keep you, dearest brothers, for a long age. Given on the sixth day before the Kalends of March (A.D. 464), in the year after the consulship of Basilius, a man of the highest rank."
+  }
+ ]
+}

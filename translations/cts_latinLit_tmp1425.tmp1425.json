@@ -1,0 +1,676 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1425.tmp1425",
+ "edition_urn": "urn:cts:latinLit:tmp1425.tmp1425.ai-claude",
+ "source_edition": "tmp1425.tmp1425.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "De Viris Illustribus Liber: AI translation (Claude)",
+  "author": "Isidorus Hispalensis",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1425.tmp1425.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.head": "Isidore's preface (pr.1) refers to writers recorded 'above', i.e. in the preceding catalogues of Jerome and Gennadius. The list numbering omits XXX before Apringius; supplied in brackets. Several names in the list and text are misprints or variant spellings in this edition, translated as the persons intended: 'Itatius'/'Itacius' = Hydatius; 'Herden(sis)' = Ilerda (Lérida); 'Itatus Clarus' = Ithacius Clarus; 'Toranius' = Tyrannius; 'Domiensis' = Dumiensis (Dumium); 'Tunnensis' = Tunnuna; 'Lucinianus' = Licinianus; 'Dorolitanus' = Dorylaeum. Ch. 11: the text reads 'Maximiano, Ammonitarum episcopo'; the opponent is generally identified as the Arian bishop Maximinus, and 'Ammonitarum' is taken as a corruption of 'Arianorum'. Ch. 14: 'praefecto vicario' is rendered 'deputy prefect'; the exact office (vicar of the prefect) is uncertain in this phrasing. Ch. 14: the quotation from Marcellinus continues into the next stretch.",
+  "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.14.17": "17: 'pIItiaris' read as patiaris; 'exprime- Te' as exprimere; 'de sessa' as de sella. 18: 'De in se' read as ne in se; 'nec infulam versus est' is odd, perhaps for 'nec infula privatus est'; rendered as 'turned out of his office'. 19: 'ob Decem' read as ob necem. 20: 'Eumerium' is Himerius of Tarragona. 21: 'Oranius' taken as Uranius. 25: the sentence beginning 'Hic autem ... oppressus' lacks a main verb; 'Gorpus' read as Corpus; 'die functionis' taken as 'from the day of his death'. 30: 'viii opere' read as vili opere; 'consecratia' as consecratis, with 'baptised' supplied. 35: 'obnitimur' read as obnititur.",
+  "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.27.37": "Scanning errors corrected: 'Aditus' read as Avitus (of Vienne); 'Marlinus' as Martinus (Martin of Braga/Dumium); 'atdicunt)' as '(ut dicunt)'. 'Tunnensis' taken as Tunnuna; 'Pacensis' as Pax Julia (Beja); 'Hermianensis' as Hermiane. In 38 'Franciæ episcopus' rendered 'a bishop of Gaul' (Eucherius was bishop of Lyon). In 37 'tractatus' rendered 'sermons'. In 56 'omnia studiorum ejus' is rendered loosely as 'all the fruits of his studies'.",
+  "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.42.ab1": "The text spells the name Lucinianus; the bishop of Cartagena is normally known as Licinianus, and that form is used here. In 64 'papam' is used of Licinianus in the older sense of 'bishop'; the clause on chrism and anointing is awkwardly expressed and may be corrupt. 'Ircavicensem' is taken as Arcavicensem (Arcavica). In 62 'mullus' is read as 'nutritus' (nourished/trained). In 63, 'addidit in libro Chronicorum' is taken as a continuation of an earlier chronicle (Victor of Tunnuna's)."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.head",
+   "text": "THE BOOK OF SAINT ISIDORE, BISHOP OF SEVILLE,"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.ab1",
+   "text": "ON ILLUSTRIOUS MEN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.ab1",
+   "text": "Preface."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.1",
+   "text": "1. Although very many of the most learned of the ancient commentators among the Greek and Latin writers have been recorded above, I think that I too should make a record of a few, whose reading I recall having touched upon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.1a",
+   "text": "I. Xystus, Roman pope."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.2",
+   "text": "II. Macrobius, deacon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.3",
+   "text": "III. Philastrius, bishop of Brescia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.4",
+   "text": "IV. Theodore, bishop of Mopsuestia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.5",
+   "text": "V. Hosius, bishop of Córdoba."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.6",
+   "text": "VI. Tyrannius Rufinus, presbyter of Aquileia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.7",
+   "text": "VII. Verecundus, African bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.8",
+   "text": "VIII. Victorinus, bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.9",
+   "text": "IX. Hydatius, bishop of Gallaecia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.10",
+   "text": "X. Eusebius, bishop of Dorylaeum."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.11",
+   "text": "XI. Cerealis, bishop of Castellum in Africa."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.12",
+   "text": "XII. Ferrandus, deacon of Carthage."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.13",
+   "text": "XIII. Peter, bishop of Lérida."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.14",
+   "text": "XIV. Marcellinus, presbyter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.15",
+   "text": "XV. Ithacius Clarus, Spanish bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.16",
+   "text": "XVI. Siricius, Roman pontiff."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.17",
+   "text": "XVII. Paulinus, presbyter of Milan, later bishop"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.ab2",
+   "text": "of Nola."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.18",
+   "text": "XVIII. Proba, wife of Adelphius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.19",
+   "text": "XIX. John Chrysostom, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.20",
+   "text": "XX. Sedulius, presbyter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.21",
+   "text": "XXI. Possidius, African bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.22",
+   "text": "XXII. Primasius, African bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.23",
+   "text": "XXIII. Proterius, bishop of Alexandria."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.24",
+   "text": "XXIV. Paschasinus, Sicilian bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.25",
+   "text": "XXV. Julianus Pomerius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.26",
+   "text": "XXVI. Eugippius, abbot of Lucullanum."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.27",
+   "text": "XXVII. Fulgentius, bishop of Ruspe in Africa."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.28",
+   "text": "XXVIII. Eucherius, bishop of Lyon in Gaul."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.29",
+   "text": "XXIX. Hilary, bishop of Arles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.30",
+   "text": "[XXX.] Apringius, bishop of Beja, in Spain."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.31",
+   "text": "XXXI. Justinian, emperor."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.32",
+   "text": "XXXII. Facundus, bishop of Hermiane."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.33",
+   "text": "XXXIII. Justinian, bishop of Valencia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.34",
+   "text": "XXXIV. Justus, bishop of Urgell."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.35",
+   "text": "XXXV. Martin, bishop of Dumium."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.36",
+   "text": "XXXVI. Avitus, bishop of Vienne."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.37",
+   "text": "XXXVII. Dracontius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.38",
+   "text": "XXXVIII. Victor, bishop of Tunnuna."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.39",
+   "text": "XXXIX. John, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.40",
+   "text": "XL. Gregory, Roman pope."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.41",
+   "text": "XLI. Leander, bishop of Seville."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.42",
+   "text": "XLII. Licinianus, bishop of Cartagena."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.43",
+   "text": "XLIII. Severus, bishop of Málaga."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.44",
+   "text": "XLIV. John, bishop of Girona."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.45",
+   "text": "XLV. Eutropius, bishop of Valencia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.46",
+   "text": "XLVI. Maximus, bishop of Zaragoza. Thus far Isidore. From here Braulio, bishop of Zaragoza."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.pr.47",
+   "text": "XLVII. Isidore, bishop of Seville."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.1.ab1",
+   "text": "CHAPTER ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.1.2",
+   "text": "2. Xystus, bishop of the city of Rome, and martyr, composed after the pattern of Solomon a book of Proverbs, in such brief speech that in each little verse a single maxim is set out. Into this little work heretics inserted certain things against the faith of the Church, so that under the name of so great a martyr the assertion of perverse doctrines might more easily be accepted. But let one who remembers that he is a catholic read it testing it, and accept those things which are not contrary to the truth. Some, however, think that this same book was composed by heretics, not by Xystus. But this opinion is refuted by the most blessed Augustine, who in a certain work of his states that this work was composed by that same martyr."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.2.ab1",
+   "text": "CHAPTER II."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.2.3",
+   "text": "3. Macrobius the deacon, following the zeal and genius of Saint Cyprian, gathered from both Testaments chapters suited [to be used] against the cunning of heretics, namely on the majesty of God the Father, and the coming of the Son of God, his incarnation, or passion, resurrection, and ascension into heaven, and likewise also on the choosing of the gentiles and the rejection of the Jews. Then he also added the other things pertaining to the benefit of life and to the discipline of religion, all these divided into a hundred chapters."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.3.ab1",
+   "text": "CHAPTER III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.3.4",
+   "text": "4. Philastrius, bishop of Brescia. Long before the most blessed Augustine he published a book On Heresies, setting out each one of them, whether those which raged among the people of the Jews before the incarnation of Christ, of which he counts twenty-eight, or those which arose against the catholic faith after the coming of the Lord the Saviour, which he describes as being a hundred and twenty-eight, as that same man of great glory, Augustine, most illustrious in learning, records of him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.4.ab1",
+   "text": "CHAPTER IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.4.5",
+   "text": "5. Theodore, bishop of the city of Mopsuestia, is reported to have shone so brilliantly and abundantly in the teaching of knowledge that it was proclaimed (if it is right to report it) that he wrote in Greek a total of a thousand volumes against the errors of all the heretics. The bishops of the Acephali, to the prejudice of the Council of Chalcedon, at the compulsion of the emperor Justinian, decreed that he be condemned after his death together with the bishops Ibas and Theodoret, although it is established by the testimonies of praiseworthy men that he was a most illustrious teacher of the Church. He lived until the reign of the elder Leo."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.5.ab1",
+   "text": "CHAPTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.5.6",
+   "text": "6. Hosius, bishop of the church of Córdoba, a city of the Spains, was practised in the powers of eloquence. He wrote to his sister a letter on the praise of virginity, adorned with fine and fluent eloquence; and he also composed another work on the interpretation of the priestly vestments which are in the Old Testament, worked out with excellent sense and ingenuity. At the Council of Serdica too he himself put forward very many opinions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.5.7",
+   "text": "7. But after a long old age, that is, after his hundred and first year, now at the very threshold of life, falling away from the bounds of the faith, he fell by the dart of the serpent. For, summoned by the emperor Constantius and terrified by threats, fearing that as an old and rich man he might suffer loss of property or exile, he at once consented to the Arian impiety, and, seized by a frenzy of impiety, condemned the word <i>homoousion</i>, which he together with the holy Fathers had handed down to the other churches to be followed; and indeed a cruel death soon ended his life, as he deserved."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.6.ab1",
+   "text": "CHAPTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.6.8",
+   "text": "8. Tyrannius Rufinus wrote to a certain presbyter Paulinus a book On the Blessings of the Patriarchs, in a threefold interpretation, quite concise and composed with clear brevity. But in the mystical sense he does not rightly interpret of our Lord the things which are written about Dan, the son of Jacob, since the assertion of the holy Fathers proves beyond doubt that these same things refer to the Antichrist."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.7.ab1",
+   "text": "CHAPTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.7.9",
+   "text": "9. Verecundus, an African bishop, skilled in the studies of liberal letters, published in dactylic verse two modest and short little books, of which he wrote the first On the Resurrection and the Judgement, and the other On Penance, in which in a mournful poem he laments his own sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.8.ab1",
+   "text": "CHAPTER VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.8.10",
+   "text": "10. Victorinus, a bishop, also himself composed in verse two very short little works: one against the Manichaeans, who reject the God of the Old Testament and deny the true incarnation of Christ; the other against the Marcionites, who invent two principles, that is, two gods: one evil, the just maker of creatures and requiter of deeds; the other good, receiver of souls and pardoner of crimes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.9.ab1",
+   "text": "CHAPTER IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.9.11",
+   "text": "11. Hydatius, bishop of the province of Gallaecia, following the chronicle of Eusebius, bishop of Caesarea, or of Jerome the presbyter, which to this day is shown to have been published up to the reign of Valens Augustus, then from the first year of Theodosius Augustus up to the eighth year of the reign of Leo carries on with a history joined to it, in which he chiefly recounts the cruel wars of the barbarian peoples which were oppressing Spain. He died under the emperor Leo, already in almost extreme old age, as is also shown by the evidence of his preface."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.10.ab1",
+   "text": "CHAPTER X."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.10.12",
+   "text": "12. Eusebius, bishop of the city of Dorylaeum. In the assembly of the Council of Chalcedon he presented a book against Dioscorus, the heretical bishop of the city of Alexandria, and recited before the synod there present all the errors and blasphemies of Dioscorus. For this same Dioscorus had cast down him and Saint Flavian, bishop of Constantinople, by a sentence of excommunication at the second synod of Ephesus, because they resisted heresy on behalf of the orthodox faith. Hence afterwards this same Eusebius at the synod of Chalcedon, uncovering the crimes and blasphemies of his countless evil deeds, called down upon him from the holy council the sentence of his condemnation, namely so that what he had unjustly inflicted on others might be justly turned back upon him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.11.ab1",
+   "text": "CHAPTER XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.11.13",
+   "text": "13. Cerealis, bishop of the church of Castellum. When he had come to Carthage, a city of the province of Africa, he debated on the faith of the Holy Trinity with Maximinus, bishop of the Arians, answering his propositions not with arguments of eloquence but from the testimonies of the holy Scriptures. This same little work of his survives, marked out in nineteen chapters of answers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.12.ab1",
+   "text": "CHAPTER XII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.12.14",
+   "text": "14. Ferrandus, deacon of the church of Carthage, is said to have flourished greatly in the sacred Scriptures, and is related to have exchanged many questions with the blessed Fulgentius in letters back and forth. To Pelagius and Anatolius, Roman deacons who consulted him whether it is lawful to condemn anyone after death, he issued a reply, in which among other things he spoke thus, saying: \"What good is it to disturb the Church for the sake of those who sleep? If anyone, while still in the body of this death, accused and condemned, was snatched from the Church before he could deserve to be absolved, he cannot be absolved by human judgement. If anyone, accused and absolved, passed to God in the peace of the catholic Church, he cannot be condemned any further by human judgement. If anyone accused was overtaken by a sudden summons before the day of the sacred examination, while placed within the bosom of mother Church, he is to be understood as reserved for the divine judgement, and concerning him no man can pronounce a clear sentence; if God has given him pardon, our severity does him no harm; but if He has prepared punishment, our kindness does him no good.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.13.ab1",
+   "text": "CHAPTER XIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.13.15",
+   "text": "15. Peter, bishop of the church of Lérida in the Spains, published prayers and masses suited to various feasts, with elegant sense and plain language."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.14.ab1",
+   "text": "CHAPTER XIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.14.16",
+   "text": "16. Marcellinus, a presbyter of Italy, wrote to the emperors Theodosius the Younger and Arcadius a single little work, in which he unfolds the proceedings of the bishops who assembled at Ariminum for the destruction of the <i>homoousion</i>; and who so troubled the whole world with the faithlessness of their impious doctrine that there were scarcely a few prelates who persevered in the inviolable observance of the faith. He also relates how Arius, while he was going to the synod to dispute with Alexander, having turned aside on the way to relieve himself, had his bowels poured out. Concerning the end too of Hosius, bishop of the city of Córdoba, who, through fear of the emperor, had betrayed the faith and become the champion of faithlessness and the follower of impiety, he sets out these things as follows. \"For after the impious betrayal of Hosius,\" he says, \"when Saint Gregory, bishop of Elvira, had been brought to the city of Córdoba according to the imperial decree, and was quite unwilling to communicate with him, Hosius, provoked, told Clementinus, deputy prefect of Constantius, to send him into exile. But he said: I do not dare to send a bishop into exile unless you first cast him down from his episcopate."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.14.17",
+   "text": "17. But when Saint Gregory saw that Hosius wished to pass sentence, he called on Christ with the whole heart of his faith, crying out thus: \"Christ God, who are to come to judge the living and the dead, do not allow a human sentence to be pronounced today against me, your least servant, who for the faith of your name, standing as a defendant, have been made a spectacle; but you yourself, I beg, judge today in your own cause, deign yourself to pronounce sentence by vengeance. Not that I, as if fearing exile, wish to escape, since for your name no punishment is heavy to me, but so that many may be freed from the error of betrayal when they see vengeance present.\" When he had said this, behold, suddenly Hosius, sitting in pride as if with royal power, while he was trying to pronounce the sentence, twisted his mouth, distorting his neck as well, and was dashed from his seat to the ground, and there and then breathed his last."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.14.18",
+   "text": "18. Then, as all marvelled, even that pagan Clementinus was terrified, and although he was the judge, yet fearing that he too might be judged with a like punishment, he threw himself at the holy man's feet, beseeching him to spare him, who had sinned against him through ignorance of the divine law, and not so much by his own will as by the command of the one ordering him. Hence it is that Gregory alone out of the number of those defending the whole faith was neither turned out of his office nor suffered exile, for everyone feared to judge him any further.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.15.ab1",
+   "text": "CHAPTER XV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.15.19",
+   "text": "19. Hydatius, a bishop of the Spains, distinguished in surname and in eloquence, wrote a certain book in the form of an Apologeticus, in which he exposes the detestable doctrines of Priscillian, the arts of his sorceries, and the disgrace of his lusts, showing that a certain Mark of Memphis, most learned in the magic art, was a disciple of Mani and the teacher of Priscillian. This man, however, together with Bishop Ursacius, on account of the death of that same Priscillian, whose accusers they had been, was deprived of the communion of the Church and condemned to exile, and there he met his last day, in the reign of Theodosius the Elder and Valentinian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.16.ab1",
+   "text": "CHAPTER XVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.16.20",
+   "text": "20. Siricius, a most illustrious pontiff and prelate of the Roman see, wrote a decretal little work addressed to Himerius, bishop of Tarragona. In it, among other ecclesiastical rules, he laid down that the baptism of heretics is by no means to be annulled by the Church. We have also found another letter of his sent to various bishops, in which he condemns the heretic Jovinian, and Auxentius, and the rest of their followers. He presided at Rome for fourteen years. He died in the reign of Theodosius and Valentinian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.17.ab1",
+   "text": "CHAPTER XVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.17.21",
+   "text": "21. Paulinus, a presbyter, expounded the Blessings of the patriarchs in a book composed with quite concise brevity according to a threefold kind of interpretation. He also, at Augustine's request, wrote a Life of Ambrose, flourishing with miracles and not unequal to the apostles in teaching and merits. For Bishop Constantius also composed a Life of Germanus, and Uranius published [an account of] the death of Paulinus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.18.ab1",
+   "text": "CHAPTER XVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.18.22",
+   "text": "22. Proba, wife of the proconsul Adelphius, a woman, is placed alone among ecclesiastical men for this reason, that she was occupied in the praise of Christ, composing a cento on Christ fitted together from Virgilian verses. We do not indeed admire her endeavour, but we praise her talent. This little work, however, is placed among the apocryphal Scriptures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.19.ab1",
+   "text": "CHAPTER XIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.19.23",
+   "text": "23. John, most holy bishop of the see of Constantinople, surnamed Chrysostom, whose speech imparts both very great compunction of heart and great sweetness of expression, composed many excellent little works in the Greek language. Of these the Latin world uses his two little books on the lapsed, written to a certain Theodore, full of laments and exhortations, since he had fallen from a good way of life. And because he had practised the life of a monk with him in one and the same monastery, he therefore reminded him in these books of the way of life led there, calling him back to his resolve and showing that no sinner or impious man should despair if he returns to penance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.19.24",
+   "text": "24. We have also read another book of his, whose title is That no one can be harmed by another except by himself. Also to the person of a certain most noble matron, Gregoria, is found a notable work of his on the conduct of life and the formation of character, or on the struggle of the virtues and the vices. There is also another book of his among the Latins on compunction of heart. Another too, written to a certain Eutropius, when, driven from the palace, he had fled for refuge to the altar."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.19.25",
+   "text": "25. He composed besides many and various treatises, which it would be very long to list. Of his study, if not all, yet very many streams of his eloquence have been translated from Greek into the Latin language. In the thirteenth year of his episcopate, he was crushed by the hostility of Theophilus, bishop of Alexandria. Our bishops, favouring the emperor Arcadius, condemned him though innocent, and having cast him out of his episcopate, thrust him into exile in Pontus. In the thirty-fifth year from the day of his death his body was recalled from exile to Constantinople, and was buried in the church of the Apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.20.ab1",
+   "text": "CHAPTER XX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.20.26",
+   "text": "26. Sedulius, a presbyter, published three books composed in dactylic heroic metre, of which the first resounds most powerfully with the signs and mighty works of the Old Testament, while the rest proclaim the mysteries or miracles of Christ's deeds."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.21.ab1",
+   "text": "CHAPTER XXI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.21.27",
+   "text": "27. Possidius, a bishop of the province of Africa. He set down in writing the life of Saint Augustine, and to this work he also appended a little index of his writings, listing how much that most blessed doctor wrote, where volumes of more than four hundred books are counted. Of homilies, letters and questions, however, there is no limit, so that hardly anyone could write out with his own hand as much of another's as he composed by his own labour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.22.ab1",
+   "text": "CHAPTER XXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.22.28",
+   "text": "28. Primasius, an African bishop, composed in scholastic style three books On Heresies addressed to Bishop Fortunatus, setting out in them what the most blessed Augustine had once left unfinished in his book On Heresies, death intervening: in the first showing what makes a heretic, in the second and third setting out what shows [someone to be] a heretic."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.23.ab1",
+   "text": "CHAPTER XXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.23.29",
+   "text": "29. Proterius, prelate of the Church of Alexandria, wrote letters to Leo, bishop of the Roman see, on the paschal festival. In the times of Leo Augustus, the successors of the heretic Dioscorus, at the instigation of Timothy, raised a riot and most cruelly killed him, and set up Timothy himself as bishop of Alexandria for themselves."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.24.ab1",
+   "text": "CHAPTER XXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.24.30",
+   "text": "30. Paschasinus, a bishop of Sicily, published one paschal letter addressed to the above-mentioned Pope Leo, in which he relates a miracle of the paschal mystery in these words: \"There is,\" he says, \"an estate called Meltinas, situated among steep mountains and very dense forests; there is a very small church there, built of cheap workmanship, in whose baptistery, on the most holy paschal night, at the hour of baptism, although there is no channel or pipe nor any water at all nearby, the font fills of itself; and when the few who are to be consecrated have been [baptised], although there is no outlet, the water departs of itself as it had come.\" He flourished under Theodosius the Younger, son of the emperor Arcadius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.25.ab1",
+   "text": "CHAPTER XXV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.25.31",
+   "text": "31. A certain Julian, a Gaul, surnamed Pomerius. He wrote eight books On the Nature of the Soul in the manner of a dialogue. The first of these contains what the soul is, or how it is believed to have been made in the image of God. In the second he discusses whether the soul is corporeal or incorporeal. In the third he discusses from what the soul was made for the first man. In the fourth, whether a new soul is made without sin, or, propagated from him, draws by origin the sin of the first man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.25.32",
+   "text": "32. In the fifth he describes what the faculty of the soul is. In the sixth he speaks of the source of that discord by which the spirit is opposed to the flesh, or the flesh to the spirit. In the seventh he writes on the difference of lives and deaths, or on the resurrection of flesh and soul, or on the death of the flesh and its resurrection. In the eighth he speaks of the things that will be at the end of the world, or of the questions usually raised about the resurrection, or of the ends of goods and evils."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.25.33",
+   "text": "33. This man, however, in the second book of this same work, agreeing with the errors of Tertullian, said that the soul is corporeal, striving to establish this by certain deceptive arguments. He also published one little book On the Instruction of Virgins, and three others On the Contemplation of the Future Life, or the Active Life, and also on vices and virtues."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.26.ab1",
+   "text": "CHAPTER XXVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.26.34",
+   "text": "34. Eugippius, abbot of the Lucullan town at Naples in Campania. He composed in a brief style a little book on the Life of the holy monk Severinus, sent to a certain deacon Paschasius. He also wrote a rule for the monks living in the monastery of Saint Severinus, which, when dying, he left them as if by right of testament. He flourished after the consulship of Importunus the Younger, in the reign of the emperor Anastasius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.27.ab1",
+   "text": "CHAPTER XXVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.27.35",
+   "text": "35. Fulgentius, an African, bishop of the church of Ruspe, renowned in the confession of the faith, most abundantly learned in the divine Scriptures, sweet also in speaking, subtle in teaching and discussing, wrote much. Of this we have read seven books of Responses on the grace of God and free will, in which, replying to Faustus, bishop of the city of Riez in Gaul, who agreed with the Pelagian perversity, he strives to destroy his deep cunning."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.27.36",
+   "text": "36. We have also read his book On the Holy Trinity, addressed to Felix the notary; also a book of the Rule of the True Faith, and another On the Mystery of the Incarnation of our Lord Jesus Christ. There are also two books of his On the Truth of Predestination, sent to bishops, in which it is shown that the grace of God goes before the human will in good [deeds], and that God, justifying some by the gift of his predestination, chooses them beforehand, but leaves others in their reprobate ways by a certain hidden judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.27.37",
+   "text": "37. There is also a book of his debate, in which the same blessed Fulgentius disputed about the faith with King Thrasamund. He also wrote one little book to Ferrandus, deacon of the church of Carthage, on Questions put to him. Besides these he composed many sermons, for priests to use in the churches. Very many other monuments of his intellect are also reported. We have plucked only these from the precious flowers of his teaching. Happier is the lot of the one to whom the Lord has granted the delights of all his books. He flourished under Thrasamund, king of the Vandals, while the emperor Anastasius reigned."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.28.ab1",
+   "text": "CHAPTER XXVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.28.38",
+   "text": "38. Eucherius, a bishop of Gaul, elegant in his thoughts and ornate in his words, published for Hilary, bishop of Arles, when he was seeking the solitude of the desert, a little work In Praise of that same desert, most brilliant and composed in sweet language; in this work we praise the teacher, who says few things, yet beautiful ones. Brevity, as someone has said, is sometimes a merit in some part of speaking, but in eloquence as a whole it wins no praise."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.29.ab1",
+   "text": "CHAPTER XXIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.29.39",
+   "text": "39. Hilary, bishop of Arles, wrote the Life of his father and predecessor, the most holy and venerable bishop Honoratus, set forth in pleasant and splendid language."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.30.ab1",
+   "text": "CHAPTER XXX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.30.40",
+   "text": "40. Apringius, bishop of the church of Beja in Spain, eloquent in speech and learned in knowledge, interpreted the Apocalypse of John the apostle with subtle understanding and brilliant language, almost better than the ancient churchmen seem to have expounded it. He also wrote some other things, which, however, have not come to the knowledge of our reading. He flourished in the times of Theudis, ruler of the Goths."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.31.ab1",
+   "text": "CHAPTER XXXI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.31.41",
+   "text": "41. The emperor Justinian published certain books on the Incarnation of the Lord, which he also sent through various provinces. He also composed a rescript against the Illyrian synod, and against the African bishops who defended the synod of Chalcedon, with perverse zeal: in it he strives to condemn the Three Chapters, that is, the sayings of Theodore, bishop of Mopsuestia, and the writings of Theodoret, and the letter which is said to be that of Ibas, bishop of Edessa."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.32.ab1",
+   "text": "CHAPTER XXXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.32.42",
+   "text": "42. Facundus, an African, bishop of the church of Hermiane, wrote twelve books in defence of the Three Chapters, by whose pen he made it clear that the aforesaid Three Chapters had been condemned to the prejudice of the apostolic faith and in assault upon the synod of Chalcedon, that is, the letter of Ibas, bishop of Edessa, addressed to Maris the Persian, and Theodore, bishop of Mopsuestia, and the sayings of Theodoret, bishop of Cyrrhus. He flourished after the consulship of Basilius, in the tenth year of the reign of the emperor Justinian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.33.ab1",
+   "text": "CHAPTER XXXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.33.43",
+   "text": "43. Justinian, from Spain, bishop of the church of Valencia, one of four brothers, bishops, born of the same mother, wrote a book of Responses to a certain Rusticus on Questions put to him: the first response of these is on the Holy Spirit; the second is against the Bonosians, who say that Christ is an adopted Son and not [God's] own; the third response is on the baptism of Christ, which it is not lawful to repeat; the fourth response is on the distinction between the baptism of John and that of Christ; the fifth response is that the Son, like the Father, is invisible. He flourished in Spain in the times of Theudis, ruler of the Goths."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.34.ab1",
+   "text": "CHAPTER XXXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.34.44",
+   "text": "44. Justus, bishop of the church of Urgell in Spain, and brother of the aforesaid Justinian, published a little book of exposition on the Song of Songs, discussing the whole of its meaning very briefly and clearly by allegory. His brothers Nebridius and Elpidius are also said to have written certain things; since they are unknown to us, we confess that they are rather to be passed over."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.35.ab1",
+   "text": "CHAPTER XXXV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.35.45",
+   "text": "45. Martin, most holy bishop of the monastery of Dumium, sailing from the regions of the East, came into Gallaecia, and there, when the peoples of the Sueves had been converted from Arian impiety to the catholic faith, he established the rule of faith and of holy religion, strengthened the churches, founded monasteries, and composed abundant precepts of pious instruction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.35.46",
+   "text": "46. I myself have read his book On the Differences of the Four Virtues, and another volume of Letters, in which he urges amendment of life and a life of faith, persistence in prayer and the giving of alms, and above all the cultivation of all the virtues, and piety. He flourished in the reign of Theodemir, king of the Sueves, in those times when Justinian held power in the empire and Athanagild in Spain."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.36.ab1",
+   "text": "CHAPTER XXXVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.36.47",
+   "text": "47. Avitus, bishop of Vienne, most learned in the knowledge of secular letters, published five little books composed in heroic metre, of which the first is On the Origin of the World, the second On Original Sin, the third On the Essence of God, the fourth On the Flood of the World, the fifth On the Crossing of the Red Sea. He also wrote to his sister Fuscina one book In Praise of Virginity, composed in most beautiful verse and fitted with an elegant epigram."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.37.ab1",
+   "text": "CHAPTER XXXVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.37.48",
+   "text": "48. Dracontius composed in heroic verses a Hexameron on the creation of the world; and indeed he composed and wrote it brilliantly."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.38.ab1",
+   "text": "CHAPTER XXXVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.38.49",
+   "text": "49. Victor, an African, bishop of the church of Tunnuna. He published, from the beginning of the world to the first year of the reign of Justin the Younger, a short and most excellent History of military and ecclesiastical affairs arranged by the yearly consuls, distinguished for its praise and its record, and most worthy of remembrance. For his defence of the Three Chapters he was driven from his church by Justinian Augustus and taken into exile in Egypt."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.38.50",
+   "text": "50. Summoned from there again to Constantinople, since he resisted the emperor Justinian and Eutychius, bishop of the city of Constantinople, who disparaged those same Three Chapters, he was again sent to a monastery of that city to be kept in custody, and remaining under that same condemnation (as they say), he died."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.39.ab1",
+   "text": "CHAPTER XXXIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.39.51",
+   "text": "51. John, of holy memory, bishop of Constantinople, a Cappadocian by nation, to whom the blessed Gregory wrote the book of the Pastoral Rule, was a man of inestimable abstinence, and so very lavish in almsgiving that the emperor Maurice, stirred against him by the zeal of avarice, decreed that the poor should be driven from the city."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.39.52",
+   "text": "52. He published in the Greek language a rescript on the sacrament of baptism to our lord and predecessor of good memory, bishop Leander, in which he sets down nothing of his own, but only repeats the opinions of the ancient Fathers on triple immersion. He flourished in the times of the emperor Maurice, and died while the same Augustus was reigning."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.40.ab1",
+   "text": "CHAPTER XL."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.40.53",
+   "text": "53. Gregory, pope, presiding over the apostolic see of Rome, full of the compunction of the fear of God and supreme in humanity, and endowed through the grace of the Holy Spirit with such light of knowledge that not only in present times but not even in times past was any of the teachers ever his equal. At the beginning of his episcopate he published the book of the Pastoral Rule, addressed to John, bishop of the see of Constantinople. In it he teaches what sort of man each should be who comes to the office of governing, or how, once he has come, he should strive to live and to teach those under him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.40.54",
+   "text": "54. He also, at the urgent request of bishop Leander, discussed the book of the blessed Job in its mystical and moral sense, and unfolded its whole prophetic history in thirty-five volumes from a broad fountain of eloquence. How great the mysteries of the sacraments that are opened in them, how great the precepts for the love of eternal life, or how great the ornaments of language that shine in them, no wise man will be able to set out, even if all his limbs were turned into tongues."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.40.55",
+   "text": "55. He also wrote certain letters to the aforesaid Leander, of which one is attached to those same books on Job under the title of a preface; another speaks of immersion in baptism, in which among other things it is written thus: 'It can in no way be blameworthy,' he says, 'to immerse an infant in baptism either once or three times, since by three immersions the Trinity of persons, and by one the singleness of the Godhead, can be signified.'"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.40.56",
+   "text": "56. That most holy man is said, however, to have written other moral books as well, and to have expounded the whole text of the four Gospels in sermons to the people, a work unknown to us, of course. Happy, though, and exceedingly happy, is he who has been able to know all the fruits of his studies. He flourished under the emperor Maurice Augustus. He died at the very beginning [of the reign] of Phocas, the Roman emperor."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.41.ab1",
+   "text": "CHAPTER XLI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.41.57",
+   "text": "57. Leander, born of his father Severianus, of the province of Carthaginiensis, a monk by profession, and from a monk made bishop of the church of Seville in the province of Baetica, a man pleasant in speech, most outstanding in intellect, and also most renowned in life and in teaching, so that by his faith and diligence the peoples of the Gothic nation were brought back from Arian madness to the catholic faith. For during the wanderings of his exile he composed two books against the doctrines of the heretics, very rich in learning in the sacred Scriptures, in which with a vehement pen he pierces and exposes the perversity of Arian impiety, showing, that is, what the catholic Church holds against them, and how far it differs from them in religion and in the sacraments of the faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.41.58",
+   "text": "58. There is also another praiseworthy little work of his against the teachings of the Arians, in which, setting out their statements, he opposes his own responses. Besides this he published one little book to his sister Florentina On the Instruction of Virgins and Contempt of the World, marked off with chapter headings. Indeed he also laboured with no small zeal on the Church Offices; for over the whole Psalter he wrote prayers in a double edition; and for the sacrifice, the lauds and the psalms he composed many things with a sweet sound."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.41.59",
+   "text": "59. He also wrote many letters: one to pope Gregory on baptism, another to his brother, in which he warns that death is not to be feared by anyone. To the other bishops also he issued very many familiar letters, which, if not very splendid in words, are yet sharp in their thoughts. He flourished under Reccared, a religious man and a glorious ruler, in whose times also he closed the end of his life by a wonderful death."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.42.ab1",
+   "text": "CHAPTER XLII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.42.60",
+   "text": "60. Licinianus, bishop of Carthago Spartaria, learned in the Scriptures: of whom indeed we have read many letters, one in particular on the sacrament of baptism, and very many to the abbot Eutropius, who was afterwards bishop of Valencia. But the rest of his industry and labour has not come to our knowledge at all. He was renowned in the times of Maurice Augustus. He died at Constantinople, killed (as they say) by poison from his rivals, but, as it is written: The just man, by whatever death he is overtaken, his soul shall be in refreshment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.43.ab1",
+   "text": "CHAPTER XLIII"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.43.61",
+   "text": "61. Severus, bishop of the see of Málaga, colleague and companion of bishop Licinianus, published one little book against Vincent, bishop of the city of Zaragoza, who had fallen away from the catholic [faith] to Arian perversity. There is also another little book of his, On Virginity, to his sister, which is called The Ring: of which indeed we confess we have known the title, [but] do not know the text. He was renowned in the times of the aforesaid emperor, in whose reign he also ended his life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.44.ab1",
+   "text": "CHAPTER XLIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.44.62",
+   "text": "62. John, bishop of the church of Gerona, a Goth by birth, born at Scallabis in the province of Lusitania. When he was a young man, he went to Constantinople, and there, having been nourished in Greek and Latin learning, after seventeen years he returned to the Spains, at the same time when, at the instigation of king Leovigild, Arian madness was raging. When the aforesaid king was driving him to the cruelty of that abominable heresy, and he resisted utterly, he was thrust into exile and banished to Barcelona, and for ten years suffered many plots and persecutions from the Arians."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.44.63",
+   "text": "63. Afterwards he founded a monastery which is called by the name Biclaro, where, having gathered a community of monks, he wrote a rule that would be of benefit to that monastery, but also quite necessary for all who fear God. He added to the book of Chronicles, from the first year of the reign of Justin the Younger up to the eighth year of Maurice, emperor of the Romans, and the fourth year of king Reccared, a very useful History, in a historical and well-ordered style; and he is said to write other things as well, which have not come to our knowledge."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.45.ab1",
+   "text": "CHAPTER XLV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.45.64",
+   "text": "64. Eutropius, bishop of the church of Valencia, while he was still living in the Servitan monastery and was father of the monks, wrote to pope Licinianus, whom we mentioned above, a very useful letter, in which he asks him why chrism is given to baptised infants, [and] after that an anointing. He also wrote to Peter, bishop of Arcavica, a letter on the discipline of monks, composed in wholesome language, and very necessary for monks."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.46.ab1",
+   "text": "CHAPTER XLVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1425.tmp1425.opp-lat1.46.65",
+   "text": "65. Maximus, bishop of the city of Zaragoza, is said to compose many things in verse and prose. He also wrote in a brief style a little history of the things that were done in the Spains in the times of the Goths, in a historical and well-ordered style, and he is said to write many other things too, which I have not yet read."
+  }
+ ]
+}

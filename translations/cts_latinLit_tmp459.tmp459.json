@@ -1,0 +1,251 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp459.tmp459",
+ "edition_urn": "urn:cts:latinLit:tmp459.tmp459.ai-claude",
+ "source_edition": "tmp459.tmp459.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Excerpta ex commentario in Jobum, qui manuscriptus Amstelodami exstabat, et putatur esse Hieronymi: AI translation (Claude)",
+  "author": "Pseudo-Hieronymus / Auctor incertus (Hieronymus Stridonensis?)",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp459.tmp459.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp459.tmp459.opp-lat1.head": "Heading: 'Meabomiiexstabat' read as 'Meibomii exstabat'; 'et.' presumably 'cel.' (celeberrimi). 'eat' read 'est'; 'tero' read 'vero'; 'Dea' read 'Deo'; 'hyporrisin' read 'hypocrisin'; 'committal' read 'committat'; 'solutos' read 'solutus'. Opening of 1.1.4: 'Jacob' must be 'Job'. 1.1.11 is fragmentary ('Multa fa....') and the last sentences are garbled; translation tentative. In 1.1.9 'Quod indignus sit' is obscure (Elihu's charge?). In 2.3.1 the clause about the cubs is corrupt ('catuli. Qui quod reprobi...'); rendered by sense. Superscript numerals are footnote marks and are omitted.",
+  "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.5.head": "19,25-27: 'qu(??)' read as 'qui'; 'Vivit autem, quod' taken as 'qui'; 'in est' after 'Quem visurus sum ego' is evidently 'id est', but the lemma seems truncated. 22,15-16: 'statum ejus subrui pravae constructionis' is corrupt; translated as 'statum subruit pravae constructionis' (Gregory's wording). 24,5-11: 'perversis (??)liis' read as 'filiis'; 'Alget ergo, et legitur' read as 'et tegitur' (covered); 'Operin entum' = 'Operimentum'. 26,2-4: 'Omnis, cui prudentia est. recta est. Plurima non est' is obscure, apparently glossing 'prudentiam tuam plurimam'; the rendering is tentative. 29,19-20: 'Quia amissam gloriam deplorat' is elliptical.",
+  "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.12.head": "31,25-28: 'hona' read as 'bona'; 'absconlito' as 'abscondito'. The sentence 'Tunc enim, quasi alta arbor... mortua' is obscure and probably corrupt; the subject is uncertain. 39: 'c(??)rv(??)' read as 'cervi' (deer). 42,15: the text is compressed and seems defective (e.g. 'Ergo ex perfectorum numero speciosae memorantur'; 'Que' read as 'Quae'; 'subsequent luce' read as 'subsequente luce'); the 140 refers to Job's years after his trial. Miscellany p. 3: 'annorum reconciliatio' is unclear, perhaps for 'amicorum' (of the friends); translated loosely as 'this reconciliation [of theirs]'. 'Septem procis' is evidently for 'septies pro eis' (seven times for them). 'durius in vita premuntur' is ambiguous: it may mean they are themselves more harshly pressed, or that they press harder on others."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.head",
+   "text": "FROM THE COMMENTARY ON JOB"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.head2",
+   "text": "Which was in manuscript at Amsterdam in the library of the celebrated Marcus Meibom, AND IS THOUGHT TO BE ST JEROME'S. Added here for the first time (in Vallarsi's words), and also enlarged and corrected in some places from another, Roman manuscript."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.head",
+   "text": "FROM THE PREFACE TO THIS COMMENTARY."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.head",
+   "text": "ON THE MANNER OF EXPOUNDING."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.1",
+   "text": "Some things here are said historically, and allegorically, and morally. Some cannot be taken literally, because they would be false, or impossible, or in conflict with one another; as, \"under whom those who carry the world are bowed\": as if giants carried the world. And: \"My soul has chosen hanging\"; as if so patient a man would want to end his life by hanging. And: \"Let the day perish on which I was born,\" etc. Sometimes one who neglects the sense of the letter hides the light of truth from himself, since by seeking something else within he loses what is outside: as when he says of works of mercy: \"If I have denied the poor what they wanted.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.2",
+   "text": "The divine word, just as it exercises the wise with mysteries, so it refreshes the simple with its surface, because it is like a river both shallow and deep, in which a horse may walk and an elephant swim."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.3",
+   "text": "The law was given to erring man: one disobedient to the law is put to shame by the example of a very great man who lived lawfully without the law. Hence: \"Be ashamed, Sidon,\" that is, the stability of those placed under the law, \"says the sea,\" that is, the Gentile world, which, by keeping the law, refutes the hearers of the law."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.4",
+   "text": "Moses is said to have written these things about Job, as about one who preceded [him], because in Genesis Jobab is read to have descended from Esau and to have succeeded Bela son of Beor in the kingship. But it is the custom of sacred Scripture, in [speaking of] the earlier fathers, to touch briefly on things that will follow long after, while it hastens on to other matters. So Job was not before the law, but in the time of the Judges. He himself is more truly believed to have written the deeds of his victory. Nor does it matter that it says, \"Job said\" or \"did this\": for it is the custom of the saints to speak of themselves as of others. For it is the Spirit who speaks in them about themselves, just as about others. Hence the angel [who appeared] to Moses is at one moment called an angel, as one who serves outwardly; at another, Lord, as the one who presides inwardly. Hence David too: \"Attend, my people, to my law.\" For the people or the law was not David's, but his who speaks in him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.5",
+   "text": "And he who had come for both peoples willed to be prophesied by a Gentile as well as by a Jew."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.6",
+   "text": "Fruitless talkativeness, like the leaves of words, is cut away from divine things, since a grove is forbidden to be planted in the temple of God. It is unworthy that the words of the heavenly oracle should be confined under the rules of Donatus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.7",
+   "text": "Job's virtue in tranquillity was great, known to himself and to God, but stirred by scourges, like spices, it gives off its fragrance to us. Hence faith too is compared to a grain of mustard, which is mild when not crushed, but if it is crushed, it grows hot, and what lay hidden in it comes out. Hence in the psalm: \"By day the Lord commanded his mercy, and by night declared it.\" The gift of mercy that is commanded in the quiet of the day is said to be made manifest in the night of adversity. Moreover he is scourged so that he might know how to give thanks even amid evils: which alone was certainly lacking [to him]. So what the enemy sought for evil, God permitted for good. And let no one think that the words of Job, whom God so commends, are ever to be blamed; in whom, as in a middle ground, the devil contends against the Lord. That he recounts his own good deeds, however, is not arrogance, but by them he strengthens himself so as not to despair, when through so many evils and the reproaches of his friends he was being driven to despair of his life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.8",
+   "text": "Job is struck with every kind of temptation. With losses of property, by which a man powerful in the world was thought likely to be shaken; but these he despises. With the loss of his children, but this he grieves with equanimity. With the striking of his flesh, which he bears patiently. And these were like the outward assault of war, and like enemies fighting face to face. But within, through his wife, as through a fellow citizen, his mind endures the poison of counsel; but her too he wisely instructs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.9",
+   "text": "His friends come to console, but leap forth to rebuke. Among them is also the last, the younger one. [Saying] that he is unworthy, he rebukes more sharply; for sometimes words disturb more than wounds. Here are enemies, as it were, from the flank. Through wounds patience is tested; the former he overcame by strength, the latter by reason."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.10",
+   "text": "Job's friends sinned more from ignorance than from malice. For so great a man did not have wicked friends, but since they cannot discern the cause of the blows, they slip into fault. For of blows, one is that by which the wicked man is struck to be punished; another, to be corrected; another, so that he may not commit future [sins]; another, so that, when health follows, the Saviour may be loved the more. If a good man is struck, his merits are increased: not knowing how to distinguish this, they believe the stricken man [was struck] for a fault. Hence they also return quickly to [seek] pardon. God humbles them so, that he would receive them back into grace only through the one whom they had despised."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.1.1.11",
+   "text": "Morally. \"Many ...\" The countless crowd of thoughts, which, like maidservants with their mistress, abandon their work and make a din when reason is absent, and when it returns work in silence. Namely by these, whereby the mind overcomes the mistress amid their multitude. \"Of the East\": and the angels clinging to the eastern light; we are their great companions, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.head",
+   "text": "FROM THE COMMENTARY ITSELF."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.1.head",
+   "text": "On Chapter 1, 1."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.1.1",
+   "text": "It is necessary that the cunning of the serpent should instruct the simplicity of the dove, and that simplicity should temper cunning. Hence Christ appeared in a dove and in fire: because those full of him so serve the gentleness of simplicity that they are kindled against evils with zeal for righteousness. \"Fearing God.\" Solomon: \"He who fears God neglects nothing.\" \"Turning away from evil.\" Again Solomon: \"He who offends in one thing loses many good things.\" The person is described as fit before his battle is told, so that such a one may be seen able to give back [blow for blow]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.2.head",
+   "text": "On Chapter 3, 8."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.2.1",
+   "text": "\"Let them curse it who curse the day.\" Morally. In the old translation: \"Let him curse it who curses the day, who is going to take the great whale.\" The devil, who is now night, will at the end appear as day, when he will be exalted above all that is called God or that is worshipped. But even now he destroys his malice who at the end by his coming will destroy his power: who in the waters of holy baptism extinguishes the great whale, that is, his strength. Or \"let them curse it,\" that is, the night: the elect angels, who announce [it] by condemning the darkness. \"Who curse the day,\" that is, who show that his feigned brightness, by which he presumed to become equal to God, is to be despised. \"Who are ready to rouse up,\" that is, to let [him] loose, so that he may act with all his strength against the Church. Now he is held bound and pressed down in the abyss, and he who in his pride exalted himself above others has sunk, laid beneath their dominion, so that now, with them as his ministers, he lies hidden bound, though at the end, loosed, he will wage open war."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.3.head",
+   "text": "On Chapter 4, 10, 11."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.3.1",
+   "text": "After he has gently admonished, he openly rebukes. \"The roaring of the lion,\" that is, the severity and terror of Job himself. \"The voice of the lioness,\" the talkativeness of his wife: \"the teeth of the cubs,\" the greed of his sons, has been destroyed. He harshly mocks these, as a thing condemned. He also compares Job to a tiger, for the spots of pretence. For the hypocrite, who seems upright, has hidden vices, which sometimes break out and vary his colour. The prey is the glory of the just, which he snatches for himself. So this man, thinking that holy Job had held the good things he knew in him through hypocrisy, says: \"The tiger has perished,\" that is, the variety of your pretence is extinguished, because the flattery of praise has been taken away. Instead of \"tiger\" here, in the Septuagint *myrmicoleon* is read, which in Latin is called \"lion of ants,\" or more expressly, \"ant and lion.\" It is a small animal which, hiding in the dust, lies in wait for ants and eats them; to birds and other animals it is an ant, by which it is eaten. By this he marks Job as having been timid towards the lofty, bold towards subordinates, but now his pride has no prey, because, struck, he is prevented from harming others. The same [applies] figuratively to heretics. The lion is the devil, for his savagery. The lioness is the city of the world, Babylon, joined to the lion; the cubs [are] those reprobates who are begotten by them, against whom the saints guard themselves. But the heretics, secure, think they have overcome everything, as if they said: \"We are not scourged because we conquer the strength of the devil, and his voice, that is, the glory of the world, and his teeth, that is, the persuasion of the reprobate.\" The tiger again is the devil, for his manifold cunning, or the *myrmicoleon*, who is weak against those who resist, strong against those who consent. They say he has perished, because he has no prey in them. This they repeat for joy, since what is said in joy is often repeated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.4.head",
+   "text": "On Chapter 19, 24."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.4.1",
+   "text": "What is written in lead is quickly erased. On flint it is written with difficulty, but it lasts. So Judaea quickly receives the words of God and abandons them: the Gentile world receives them with difficulty, but keeps them firmly."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.5.head",
+   "text": "On Chapter 19, 25-27."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.5.1",
+   "text": "For I know that my redeemer lives. He does not say \"creator\" but \"redeemer\", openly proclaiming him who, after he had created all things, redeemed us from captivity by his passion. And he lives, who died at the hands of the wicked. Whom I myself shall see, that is, our flesh after the resurrection will be the same and different: the same in nature, different in glory. It will be spiritual, because incorruptible, and palpable, because the essence of its true nature is not lost. This hope of mine is laid up in my bosom. We believe we hold nothing more surely than what we hold in our bosom. So he held his hope laid up in his bosom, because with true certainty he presumed upon the hope of the resurrection. He expressly indicates the truth of the resurrection. It is not that one dies and another rises, as those say who claim the future body will be invisible, but the very same. My redeemer lives, and through the resurrection I hope [for a body] like [his] for myself; just as the other rods remained dry, but the rod of Aaron, that is, the body of our priest, burst into the flower of the resurrection, by which flower that priest is shown who intercedes for us."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.6.head",
+   "text": "On Chapter 22, 11."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.6.1",
+   "text": "And that you would not be overwhelmed by the onrush of flooding waters. Tribulations are compared to flooding waters, because they rush in one upon another, like wave upon wave. You did not think you would be overwhelmed because you thought that God does not see these lower things. And do you still think so? Heretics think themselves wise and mock Catholics, [saying] that they do not fear God, because they do not see him bodily; nor do they think he sees earthly things from afar. Rather [they think] that he is higher than heaven and, as if hidden in a cloud, judges through the darkness. [They think] this because between us and heaven there are the regions of the air, and, intent on higher things, he sees the lowest less, or, going round the hinges of heaven, he does not look upon what is below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.7.head",
+   "text": "On Chapter 22, 15, 16."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.7.1",
+   "text": "Do you wish to keep the path of the ages? As humility is the path of the Redeemer, so pride is the path of the ages. And so wicked men tread the path of the ages, because through the desires of this life they walk about in pride. Who were taken away before their time: those who love the present life promise themselves longer stretches of that same life. But when death comes upon them and takes them away, it cuts off the stretches of their life which they had extended in their thoughts. And a river overturned their foundation. The wicked, while they do not see that present things are fleeting, fix their mind in love of the present life, and build for themselves in it, as it were, the foundation of a long dwelling. But a river overturned their foundation, because the very course of changeableness undermines the standing of their crooked building."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.8.head",
+   "text": "On Chapter 22, 16."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.8.1",
+   "text": "Who were taken away before their time. It should be known that God orders the years according to the merits of each, and disposes the end too: so that a bad man may live briefly, lest he harm more people, or a good man may live longer, so as to benefit more; or again a bad man [may live] longer, so as to increase the evils by which the good are tested, and a good man is taken away sooner, lest, if he lived longer, he be corrupted by wickedness. And God's sentence is changed, but not his eternal counsel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.9.head",
+   "text": "On Chapter 24, 5-11."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.9.1",
+   "text": "Others, like wild asses in the desert, go out to their work. For there are heretics who shun mingling with the people, but seek the retirement of a more secluded life, and infect [others] with the plague of their persuasion all the more, the more venerable they seem, as it were, from the merits of their life. They are compared to wild asses because, let loose in their own wills, they are strangers to the bond of faith and of reason. They go out to their work. For they carry out not God's work but their own, while they follow not right doctrines but their own desires. And watching for prey, they prepare bread for their children. They watch for prey who always try to snatch the words of the just to their own meaning, so as to prepare by them the bread of error for their perverse children. They reap a field not their own. By the name of field or vineyard the Church is signified, which perverse preachers reap, and they gather the vintage of its founder by oppressing him in his members; persecuting the grace of the Creator, when they snatch from it some who seemed upright, what else do they carry off but the ears or grape-clusters of souls? They send men away naked, taking away the clothes of those who have no covering in the cold. As clothes protect the body, so good works protect the soul. So the heretics, when they destroy the good works of certain people, take away their clothes. Who have no covering in the cold. Covering pertains to righteousness, cold to guilt. So he is cold, and covered, who from one work grows warm towards righteousness, from another grows cold towards guilt. But when heretics take good works away from such people, they bring it about that in the cold they have nothing to clothe themselves with. Whom the rains of the mountains water, that is, the streams of the preachers hallow. And having no covering, they embrace the stones. He means the strong men in the Church, such as the martyrs. So those who trust in no work of their own, but run in prayer to the protection of the holy martyrs, what do they do but, having no covering of good action, embrace the stones? They have done violence, plundering orphans, and have despoiled the poor common people. The heretics, plundering, do violence, because they rage with violence of words and deeds against the weak minds of the faithful. They despoil the poor common people because, while they do not prevail against the learned, they strip the unlearned of the covering of faith. From the naked, and those going about without clothing, and the hungry, they have taken the ears of grain. He who does neither good nor evil is naked and idle; he who does evil goes about naked, because he travels the road of wickedness without the covering of good work. From the hungry, who through penitence long for the food of the word, the heretics take the ears of grain, because in their minds they destroy the sayings of the Fathers, which are signified by the ears. For when sayings are delivered in figure, we strip from them the covering of the letter, like the husks of the beards, so that we may be fed by the marrow of the spirit. Among their heaps they took their midday rest, who, having trodden the winepresses, thirst. Those who persecute the Church tread the winepress. For when the unjust press down the just, they put under their feet grape-clusters, which, stripped of the flesh, run to heavenly things as into a storehouse. They tread and thirst who, by doing cruel things, become by that very fact more cruel, and strive to do worse things; and when heretics see them doing cruel things against Catholics, they take their midday rest among their heaps. Who, having trodden the winepresses, thirst: because they join themselves to the multitude of those whom they see doing grievous things and thirsting for still more grievous ones, and since they cannot stir up persecution by themselves, they rouse the powerful of the world to it; and while the zeal of these satisfies their desires, they rest in their deeds as if at midday."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.10.head",
+   "text": "On Chapter 26, 2, 3, 4."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.10.1",
+   "text": "Whose helper are you? Is it of the weak? etc. To help the weak belongs to charity; to wish to help the powerful belongs to pride. And the sense is: when you set out to help him under whose greatness you sink, the comfort you offer comes from display, not from piety. To whom have you given counsel? To give counsel to a fool belongs to charity; to give counsel to a wise man belongs to display; to give counsel to Wisdom itself belongs to perversity. Hence there follows: and prudence. All prudence that is right [is not abundant]; it is not abundant, because it does not seek to know more [than it should]. Was it not him who made the breath? Bildad, because he believed Job was scourged for his guilt, strove with proud rashness to penetrate the hidden judgement of God, which he ought to have venerated humbly. So he set himself above him in prudence, whose judgement he judged by not understanding it. But because Job, bearing the type of the Church, said a few things in correction of the proud, he suddenly expands into teaching through maxims, saying (v. 5): Behold, the giants groan beneath the waters. The giants are the proud; the waters are the peoples. The haughty, while they desire to attain the honour of eminence in this world, groan under the weights of the peoples. A man is placed beneath those peoples in mind, above whom he is placed in rank. And by these words it is shown that all pride lies at the bottom by the very fact that it raises itself on high."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.11.head",
+   "text": "On Chapter 29, 19, 20."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.11.1",
+   "text": "My root is open beside the waters. By the name of root hidden thought is signified. The root is opened beside the waters, since the thought of the mind is secretly opened to receive the streams of truth. And dew will linger on my harvest. Supply: \"I used to say.\" The harvest of the Church is meant when perfect souls, drawn out of their bodies like ripe crops cut from the earth, move to the heavenly granaries. Dew will linger on the harvest, because grace coming from above brings it about that we are worthy to be gathered from lower things. My glory will always be renewed: [he says this] because he laments lost glory; because those whom he had believed to be serving as soldiers of the new life, he finds to be slaves to old desires."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.12.head",
+   "text": "On Chapter 31, 25-28."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.12.1",
+   "text": "Understanding either grows sluggish with idleness or vanishes through elation, and therefore he says: If I rejoiced. When someone puts into practice what he understands, he often slips through the very fact that it is shown outwardly. But blessed Job, just as he did not exalt the gold of understanding, so neither [did he exalt] the light of his working. And this is: if I saw the sun. Rightly do the good alone not see their own goods, which they offer to others to be seen; nor the moon, that is, the reputation of good work, which shines for those walking in darkness. For Job did not exalt these, which are more to be feared. For then, like a tall tree, it is shaken more by the winds, [the understanding] which through intelligence was as if dead in the seed of works. As for praises, he not only did not become arrogant in words, but not even in so much as a thought. And this is: my heart rejoiced in secret. And because a thoughtless mind, lifted up by applause, sometimes praises what it has done, he adds: and I kissed my hand with my mouth. Which is the greatest iniquity. Every sin that comes from weakness does not lose the spirit, because it seeks pardon from God. But presumption, the further it is from humility, the graver it is in despair, and, while it attributes strength to itself, it does not seek it from God. — When the wicked admire good things, a lamp burns in the night. If the good too admire the best things, the sun shines. In the day, while good shines by bodily action, it is a lamp, that is, a light in an earthen vessel; while [it shines] by the contemplation of the mind, it is the sun from heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.13.head",
+   "text": "On Chapter 38, 7."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.13.1",
+   "text": "When the morning stars praised me together. Even the elect angels marvelled at the mystery of Christ's incarnation, because they were created first in time, not in the beginning. They are called morning stars, or because, often sent to exhort men, while they announce the morning to come, they drive the darkness of the present life from human hearts. These morning stars, together with the evening ones, also praise the power of the Redeemer, because they glorify the bounty of heavenly grace towards men redeemed at the end of the world. And all the sons of God shouted for joy. It is called jubilation when the gladness of the heart is not fully expressed by the power of the mouth. So the angels praise, who already see the breadth of so great a brightness on high; but men shout for joy, who, still below, endure the narrowness of their own mouth. These things, because the Lord knew they would be, he narrates as done. But because when the good rejoice, envy inflames the wicked, whom nevertheless the Lord restrains, he immediately adds concerning them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.14.head",
+   "text": "On Chapter 38, 31."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.14.1",
+   "text": "Will you be able to join the glittering stars, etc. It is clear that no man can do this; but when Job is questioned about these things, it is shown [to him] so that he may humbly take refuge in him who alone could do it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.15.head",
+   "text": "On the beginning of Chapter 39."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.15.1",
+   "text": "Ibexes are said to be small quadrupeds which move about among the rocks and give birth there; and when they fall, they catch themselves unharmed on their horns. In them the person of spiritual teachers is signified, who like ibexes give birth among the rocks, because in the teaching of the Fathers, who are called rocks for their solidity, they beget souls to conversion. They, like ibexes, feel the harm of no fall, while they are caught on their horns: because whatever ruin of temporal adversity befalls, they catch themselves on the testaments of sacred Scripture, and are saved as if by the catch of their horns. They are called deer, who live with their vices slain, as if with serpents killed, and from that very killing of vices burn more keenly for the fountain of life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.16.head",
+   "text": "On Chapter 42, 15."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.2.16.1",
+   "text": "And their father gave them an inheritance among their brothers. Therefore they are recorded as beautiful from the number of the perfect. They also, from the type of the imperfect, receive an inheritance as weak minds. So the sisters come to the inheritance with the brothers, because the weak are admitted to heavenly things with the strong. And Job lived after these things. He is empty of days who, however long he has lived, has spent the times of his life in vanity; but on the contrary he is called full of days whose days by no means pass away by perishing, but are kept from the daily reward of good work with the just Judge, even after they have passed or shall have passed. In the type of the Church, if we multiply 14 by ten, we arrive at the number one hundred and forty. And rightly is it reckoned to the Church as both 10 and 4 multiplied, because, keeping both testaments and living both according to the decalogue of the Law and according to the four books of the Gospel, it is extended to the summit of perfection. And Job is well said to live after the scourges, because the Church is first struck with the scourge of discipline, and afterwards strengthened by perfection of life. She also sees her sons and her sons' sons to the fourth generation: because in this age, which revolves in the four seasons of the year until the end of the world, she beholds offspring born to her through the mouths of preachers. She sees the sons of sons, when she recognises that others too are begotten by those same ones up to the end. She dies old and full of days, because, with the light following from the reward of daily works, the weight of corruption laid aside, she is changed to the incorruption of the spiritual homeland. She dies full of days, for whom the gliding years do not pass away, but are made solid by the recompense of abiding deeds. She dies full of days, because through these passing times she works that which does not pass. — In the custom of the old life women do not have an inheritance among males, because the severity of the law, choosing the strong and despising the weak, was eager to establish strict things rather than kind ones. But when the merciful Redeemer came, even the weak man is taken up with the perfect to the kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.head",
+   "text": "MISCELLANY"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.1",
+   "text": "Excerpts from various pages of the same manuscript codex."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.2",
+   "text": "Page 3. Like all the just, so Job foreshadowed Christ not only in words but in deeds, so as to show through his suffering the Christ who would suffer, that is, the head with the body, which is the Church. His wife signifies the carnal, who within the Church, the nearer they are by faith, press harder [upon the good] by their life. Job's friends [signify] heretics, who under the appearance of giving counsel wish to deceive, and while they speak as if for the Lord, oppose the truth. Job is interpreted 'grieving', by which the passion of Christ or the toil of the Church is expressed. Eliphaz, 'contempt of the Lord'; that is, heretics, who, while they think falsely of God, despise him in their pride. Bildad, 'oldness', that is, 'alone', because they speak not with good intention but from desire for glory: that is, not with the zeal of the new man, but with the depravity of the old life. Zophar, 'scattering of the watchtower' or 'scattering the watchman', because heretics seek by words to pervert minds that contemplate things above. So by despising God they keep themselves in oldness, and remaining in it, they harm those who keep watch with their evil words. But because they too sometimes return to the Church, this reconciliation [of theirs] shows it, for whom Job prays: because the sacrifices of heretics are not acceptable to God unless offered by the hands of the Church. Sacrifices are offered for them seven times, because, when they receive the sevenfold Spirit, they are expiated as if by seven offerings. Bulls and rams were offered for them. In the bull the neck of pride is signified; in the ram the leadership of the flock, because, springing away from the Church through pride, they drew weak flocks after them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.3",
+   "text": "Page 147. Sardonyx bears the likeness of red earth; sapphire bears the appearance of the air."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.4",
+   "text": "Page 148. And topaz from Ethiopia: because it shines with every colour, topaz is called as it were 'topadion'."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.5",
+   "text": "Page 150. It was the custom of the ancients that the elders should sit in the gate of the city and judge the cases of the innocent, if the people of the city were peaceable, into which it was not lawful for the quarrelsome to enter. Which the divine Job also did."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.6",
+   "text": "Page 158. The path of adversaries is compared to waves, because, troublesome with the insolent restlessness of the wicked, it falls like a storm to overwhelm, so to speak, the ship of the heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp459.tmp459.opp-lat1.3.7",
+   "text": "Page 169. To carry a book on the shoulder is to fulfil sacred Scripture by acting [on it]."
+  }
+ ]
+}

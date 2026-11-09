@@ -1,0 +1,1083 @@
+{
+ "batch": 1,
+ "reviewer": "Codex (OpenAI)",
+ "brief": "method/BRIEF-judge.md",
+ "sample": [
+  {
+   "source_edition": "stoa0022.stoa054a.opp-lat1",
+   "first_ref": "urn:cts:latinLit:stoa0022.stoa054a.opp-lat1.ab13",
+   "last_ref": "urn:cts:latinLit:stoa0022.stoa054a.opp-lat1.19"
+  },
+  {
+   "source_edition": "stoa0040.stoa008a.opp-lat1",
+   "first_ref": "urn:cts:latinLit:stoa0040.stoa008a.opp-lat1.ab1",
+   "last_ref": "urn:cts:latinLit:stoa0040.stoa008a.opp-lat1.4"
+  },
+  {
+   "source_edition": "stoa0040.stoa033c.opp-lat1",
+   "first_ref": "urn:cts:latinLit:stoa0040.stoa033c.opp-lat1.6",
+   "last_ref": "urn:cts:latinLit:stoa0040.stoa033c.opp-lat1.8"
+  },
+  {
+   "source_edition": "stoa0120e.stoa001.opp-lat1",
+   "first_ref": "urn:cts:latinLit:stoa0120e.stoa001.opp-lat1.9",
+   "last_ref": "urn:cts:latinLit:stoa0120e.stoa001.opp-lat1.11"
+  },
+  {
+   "source_edition": "stoa0121i.stoa002.opp-lat1",
+   "first_ref": "urn:cts:latinLit:stoa0121i.stoa002.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:stoa0121i.stoa002.opp-lat1.1.13"
+  },
+  {
+   "source_edition": "stoa0128b.stoa015.opp-lat1",
+   "first_ref": "urn:cts:latinLit:stoa0128b.stoa015.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:stoa0128b.stoa015.opp-lat1.7"
+  },
+  {
+   "source_edition": "stoa0128b.stoa016.opp-lat1",
+   "first_ref": "urn:cts:latinLit:stoa0128b.stoa016.opp-lat1.12",
+   "last_ref": "urn:cts:latinLit:stoa0128b.stoa016.opp-lat1.16"
+  },
+  {
+   "source_edition": "tlg0057.tlg049.1st1K-grc1",
+   "first_ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.1",
+   "last_ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.5.1"
+  },
+  {
+   "source_edition": "tlg0057.tlg103.1st1K-grc1",
+   "first_ref": "urn:cts:greekLit:tlg0057.tlg103.1st1K-grc1.1.head",
+   "last_ref": "urn:cts:greekLit:tlg0057.tlg103.1st1K-grc1.1.1"
+  },
+  {
+   "source_edition": "tlg0559.tlg015.1st1K-grc1",
+   "first_ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.4.1",
+   "last_ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.12.2.1"
+  },
+  {
+   "source_edition": "tlg0731.tlg003.1st1K-grc1",
+   "first_ref": "urn:cts:greekLit:tlg0731.tlg003.1st1K-grc1.1.1.1",
+   "last_ref": "urn:cts:greekLit:tlg0731.tlg003.1st1K-grc1.1.10.2"
+  },
+  {
+   "source_edition": "tlg1750.tlg001.1st1K-grc1",
+   "first_ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.13.head",
+   "last_ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.14.4"
+  },
+  {
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.13.1",
+   "last_ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.8.head"
+  },
+  {
+   "source_edition": "tlg2200.tlg00454.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00454.opp-grc1.17.2",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00454.opp-grc1.33.2"
+  },
+  {
+   "source_edition": "tlg2200.tlg00457.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00457.opp-grc1.46.3",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00457.opp-grc1.55.2"
+  },
+  {
+   "source_edition": "tlg2200.tlg00519.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00519.opp-grc1.16.1",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00519.opp-grc1.31.2"
+  },
+  {
+   "source_edition": "tlg2200.tlg00521.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00521.opp-grc1.14.1",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00521.opp-grc1.28.2"
+  },
+  {
+   "source_edition": "tlg2200.tlg00525.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00525.opp-grc1.2.28.1",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00525.opp-grc1.2.44.1"
+  },
+  {
+   "source_edition": "tlg2200.tlg00538.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00538.opp-grc1.1.head",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00538.opp-grc1.14.1"
+  },
+  {
+   "source_edition": "tlg2200.tlg00541.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00541.opp-grc1.32.1",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00541.opp-grc1.48.1"
+  },
+  {
+   "source_edition": "tlg2200.tlg00548.opp-grc1",
+   "first_ref": "urn:cts:greekLit:tlg2200.tlg00548.opp-grc1.69.2",
+   "last_ref": "urn:cts:greekLit:tlg2200.tlg00548.opp-grc1.73.2"
+  },
+  {
+   "source_edition": "tlg4072.tlg002.1st1K-grc1",
+   "first_ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.124.1",
+   "last_ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.125.1"
+  },
+  {
+   "source_edition": "tmp1054.tmp1054.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp1054.tmp1054.opp-lat1.9",
+   "last_ref": "urn:cts:latinLit:tmp1054.tmp1054.opp-lat1.9"
+  },
+  {
+   "source_edition": "tmp1057.tmp1057.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp1057.tmp1057.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:tmp1057.tmp1057.opp-lat1.4"
+  },
+  {
+   "source_edition": "tmp1124.tmp1124.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp1124.tmp1124.opp-lat1.1",
+   "last_ref": "urn:cts:latinLit:tmp1124.tmp1124.opp-lat1.1"
+  },
+  {
+   "source_edition": "tmp1163.tmp1163.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp1163.tmp1163.opp-lat1.84",
+   "last_ref": "urn:cts:latinLit:tmp1163.tmp1163.opp-lat1.85"
+  },
+  {
+   "source_edition": "tmp1223.tmp1223.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp1223.tmp1223.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:tmp1223.tmp1223.opp-lat1.1.18"
+  },
+  {
+   "source_edition": "tmp1231.tmp1231.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp1231.tmp1231.opp-lat1.183",
+   "last_ref": "urn:cts:latinLit:tmp1231.tmp1231.opp-lat1.227"
+  },
+  {
+   "source_edition": "tmp1292.tmp1292.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.8",
+   "last_ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab10"
+  },
+  {
+   "source_edition": "tmp206.tmp206.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp206.tmp206.opp-lat1.3.2",
+   "last_ref": "urn:cts:latinLit:tmp206.tmp206.opp-lat1.4.3"
+  },
+  {
+   "source_edition": "tmp221.tmp221.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp221.tmp221.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:tmp221.tmp221.opp-lat1.6"
+  },
+  {
+   "source_edition": "tmp325.tmp325.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp325.tmp325.opp-lat1.10",
+   "last_ref": "urn:cts:latinLit:tmp325.tmp325.opp-lat1.14"
+  },
+  {
+   "source_edition": "tmp378.tmp378.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp378.tmp378.opp-lat1.4",
+   "last_ref": "urn:cts:latinLit:tmp378.tmp378.opp-lat1.8"
+  },
+  {
+   "source_edition": "tmp586.tmp586.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp586.tmp586.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:tmp586.tmp586.opp-lat1.1.5"
+  },
+  {
+   "source_edition": "tmp733.tmp733.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp733.tmp733.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:tmp733.tmp733.opp-lat1.3"
+  },
+  {
+   "source_edition": "tmp740.tmp740.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp740.tmp740.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:tmp740.tmp740.opp-lat1.11"
+  },
+  {
+   "source_edition": "tmp768.tmp768.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp768.tmp768.opp-lat1.4.3",
+   "last_ref": "urn:cts:latinLit:tmp768.tmp768.opp-lat1.5.2"
+  },
+  {
+   "source_edition": "tmp797.tmp797.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.head",
+   "last_ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.17"
+  },
+  {
+   "source_edition": "tmp853.tmp853.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.14",
+   "last_ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.28"
+  },
+  {
+   "source_edition": "tmp945.tmp945.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.head",
+   "last_ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.11"
+  },
+  {
+   "source_edition": "tmp974.tmp974.opp-lat1",
+   "first_ref": "urn:cts:latinLit:tmp974.tmp974.opp-lat1.4",
+   "last_ref": "urn:cts:latinLit:tmp974.tmp974.opp-lat1.5"
+  }
+ ],
+ "fixed": [
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "grammar",
+    "original": "inquit Dominus de Judæis",
+    "english": "says the Lord of the Jews",
+    "explain": "De Judæis modifies 'says': 'says the Lord concerning the Jews', rather than a title 'Lord of the Jews'.",
+    "upheld_as": "minor"
+   },
+   "work": "Sermones Quatuor",
+   "author": "Augustine, Saint",
+   "source_edition": "tmp768.tmp768.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp768.tmp768.opp-lat1.4.7",
+   "before": "This cluster, sprung up in the land of promise or in the turf of virginity, the Jew once fixed on a carrying-pole, as if in a foreshadowing of the cross to come, to be bent beneath it, not to be refreshed by it. For already the psalm had spoken of them beforehand: Let their eyes be darkened so that they do not see, and bend their back always. So two men carried the cluster, one in front and the other behind; in the middle hung the offspring of the vine-shoot's growth. The first indicated the people of the Jews, the second represented the people of the Gentiles. The Jew indeed went ahead, but he set his back against the cluster. The Gentile walked behind, but he attended to the cluster with the eyes of faith, because he believed in the one hanging. They have turned, says the Lord of the Jews, their backs to me and not their faces. The first turned away, the second was fed; the one panted under the burden of sin, the other drank from heaven. So for the Jew the cluster was behind, for the Gentile in front; for them at the end, for us at the beginning; them it pursued to punishment, us it invited to food. And so they were dried up and withered, but we have eaten and drunk and been refreshed, through the same Jesus Christ who lives with the Father and with the Holy Spirit for ever and ever. Amen.",
+   "after": "This cluster, sprung up in the land of promise or in the turf of virginity, the Jew once fixed on a carrying-pole, as if in a foreshadowing of the cross to come, to be bent beneath it, not to be refreshed by it. For already the psalm had spoken of them beforehand: Let their eyes be darkened so that they do not see, and bend their back always. So two men carried the cluster, one in front and the other behind; in the middle hung the offspring of the vine-shoot's growth. The first indicated the people of the Jews, the second represented the people of the Gentiles. The Jew indeed went ahead, but he set his back against the cluster. The Gentile walked behind, but he attended to the cluster with the eyes of faith, because he believed in the one hanging. They have turned, says the Lord concerning the Jews, their backs to me and not their faces. The first turned away, the second was fed; the one panted under the burden of sin, the other drank from heaven. So for the Jew the cluster was behind, for the Gentile in front; for them at the end, for us at the beginning; them it pursued to punishment, us it invited to food. And so they were dried up and withered, but we have eaten and drunk and been refreshed, through the same Jesus Christ who lives with the Father and with the Holy Spirit for ever and ever. Amen.",
+   "reason": "De Judaeis goes with inquit: the Lord speaks about the Jews. 'The Lord of the Jews' reads as a title."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.1.1",
+   "before": "Proslambanomenos: defective zeta and tau lying on its side. Hypate hypaton: reversed gamma and upright gamma. Parhypate hypaton: defective beta and inverted gamma. Enharmonic lichanos hypaton: inverted alpha and inverted digamma. Hypate meson: sigma and sigma. Parhypate meson: rho and inverted sigma. Enharmonic lichanos meson: pi and reversed sigma. Mese: iota and lambda lying on its side. Trite synemmenon: theta and inverted lambda. Enharmonic paranete synemmenon: eta and lambda lying on its side reversed. Nete synemmenon: square omega lying on its back and zeta. Paramese: zeta and pi lying on its side. Trite diezeugmenon: square epsilon and inverted pi. Enharmonic paranete diezeugmenon: delta and pi lying on its side reversed. Nete diezeugmenon: phi lying on its side and drawn-down unfinished eta. Trite hyperbolaion: upsilon pointing downward and left half-alpha pointing upward. Enharmonic paranete hyperbolaion: inverted tau and right half-alpha pointing upward. Nete hyperbolaion: iota and lambda lying on its side, at the higher pitch.",
+   "after": "Proslambanomenos: defective zeta and tau lying on its side. Hypate hypaton: reversed gamma and upright gamma. Parhypate hypaton: defective beta and inverted gamma. Enharmonic lichanos hypaton: inverted alpha and inverted digamma. Hypate meson: sigma and sigma. Parhypate meson: rho and inverted sigma. Enharmonic lichanos meson: pi and reversed sigma. Mese: iota and lambda lying on its side. Trite synemmenon: theta and inverted lambda. Enharmonic paranete synemmenon: eta and lambda lying on its side reversed. Nete synemmenon: square omega lying on its back and zeta. Paramese: zeta and pi lying on its side. Trite diezeugmenon: square epsilon and inverted pi. Enharmonic paranete diezeugmenon: delta and pi lying on its side reversed. Nete diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Trite hyperbolaion: upsilon pointing downward and left half-alpha pointing upward. Enharmonic paranete hyperbolaion: inverted tau and right half-alpha pointing upward. Nete hyperbolaion: iota and lambda lying on its side, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.2.1",
+   "before": "Proslambanomenos: omicron with a line below and eta. Hypate hypaton: inverted mu and defective eta. Parhypate hypaton: inverted lambda and defective eta lying on its side. Enharmonic lichanos hypaton: inverted kappa and reversed defective eta. Hypate meson: reversed gamma and upright gamma. Parhypate meson: defective beta and inverted gamma. Enharmonic lichanos meson: inverted alpha and inverted digamma. Mese: sigma and sigma. Trite synemmenon: rho and inverted sigma. Enharmonic paranete synemmenon: pi and reversed sigma. Nete synemmenon: iota and lambda lying on its side. Paramese: omicron and kappa. Trite diezeugmenon: xi and inverted kappa. Enharmonic paranete diezeugmenon: nu and reversed kappa. Nete diezeugmenon: zeta and pi lying on its side. Trite hyperbolaion: square epsilon and inverted pi. Enharmonic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: phi lying on its side and drawn-down unfinished eta.",
+   "after": "Proslambanomenos: omicron with a line below and eta. Hypate hypaton: inverted mu and defective eta. Parhypate hypaton: inverted lambda and defective eta lying on its side. Enharmonic lichanos hypaton: inverted kappa and reversed defective eta. Hypate meson: reversed gamma and upright gamma. Parhypate meson: defective beta and inverted gamma. Enharmonic lichanos meson: inverted alpha and inverted digamma. Mese: sigma and sigma. Trite synemmenon: rho and inverted sigma. Enharmonic paranete synemmenon: pi and reversed sigma. Nete synemmenon: iota and lambda lying on its side. Paramese: omicron and kappa. Trite diezeugmenon: xi and inverted kappa. Enharmonic paranete diezeugmenon: nu and reversed kappa. Nete diezeugmenon: zeta and pi lying on its side. Trite hyperbolaion: square epsilon and inverted pi. Enharmonic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: phi lying on its side and drawn-down carelessly written eta.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.3.1",
+   "before": "Proslambanomenos: phi and digamma. Hypate hypaton: sigma and sigma. Parhypate hypaton: rho and inverted sigma. Enharmonic lichanos hypaton: pi and reversed sigma. Hypate meson: iota and lambda lying on its side. Parhypate meson: theta and inverted lambda. Enharmonic lichanos meson: eta and lambda lying on its side reversed. Mese: square omega lying on its back and zeta. Trite synemmenon: psi pointing downward and right half-alpha pointing downward. Enharmonic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: mu and drawn-down pi, at the higher pitch. Paramese: phi lying on its side and drawn-down unfinished eta. Trite diezeugmenon: upsilon pointing downward and left half-alpha pointing upward. Enharmonic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: iota and lambda lying on its side, at the higher pitch. Trite hyperbolaion: theta and inverted lambda, at the higher pitch. Enharmonic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: square omega lying on its back and zeta, at the higher pitch.",
+   "after": "Proslambanomenos: phi and digamma. Hypate hypaton: sigma and sigma. Parhypate hypaton: rho and inverted sigma. Enharmonic lichanos hypaton: pi and reversed sigma. Hypate meson: iota and lambda lying on its side. Parhypate meson: theta and inverted lambda. Enharmonic lichanos meson: eta and lambda lying on its side reversed. Mese: square omega lying on its back and zeta. Trite synemmenon: psi pointing downward and right half-alpha pointing downward. Enharmonic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: mu and drawn-down pi, at the higher pitch. Paramese: phi lying on its side and drawn-down carelessly written eta. Trite diezeugmenon: upsilon pointing downward and left half-alpha pointing upward. Enharmonic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: iota and lambda lying on its side, at the higher pitch. Trite hyperbolaion: theta and inverted lambda, at the higher pitch. Enharmonic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: square omega lying on its back and zeta, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.6.1",
+   "before": "Proslambanomenos: chi and right half-mu. Hypate hypaton: tau and reversed digamma. Parhypate hypaton: sigma and sigma. Enharmonic lichanos hypaton: pi and reversed sigma. Hypate meson: kappa and drawn-down half-delta. Parhypate meson: iota and lambda lying on its side. Enharmonic lichanos meson: eta and lambda lying on its side reversed. Mese: alpha and grave accent. Trite synemmenon: [square omega] lying on its back and zeta. Enharmonic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: omicron and kappa, at the higher pitch. Paramese: corrupted chi and left half-alpha pointing downward. Trite diezeugmenon: phi lying on its side and drawn-down unfinished eta. Enharmonic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: kappa and drawn-down half-delta, at the higher pitch. Trite hyperbolaion: iota and lambda lying on its side, at the higher pitch. Enharmonic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: alpha and grave accent, at the higher pitch.",
+   "after": "Proslambanomenos: chi and right half-mu. Hypate hypaton: tau and reversed digamma. Parhypate hypaton: sigma and sigma. Enharmonic lichanos hypaton: pi and reversed sigma. Hypate meson: kappa and drawn-down half-delta. Parhypate meson: iota and lambda lying on its side. Enharmonic lichanos meson: eta and lambda lying on its side reversed. Mese: alpha and grave accent. Trite synemmenon: [square omega] lying on its back and zeta. Enharmonic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: omicron and kappa, at the higher pitch. Paramese: corrupted chi and left half-alpha pointing downward. Trite diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Enharmonic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: kappa and drawn-down half-delta, at the higher pitch. Trite hyperbolaion: iota and lambda lying on its side, at the higher pitch. Enharmonic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: alpha and grave accent, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.10.1",
+   "before": "Proslambanomenos: inverted mu and defective eta. Hypate hypaton: reversed defective eta and reversed square epsilon. Parhypate hypaton: defective zeta and tau lying on its side. Hypaton diatonos: reversed gamma and upright gamma. Hypate meson: chi and right half-mu. Parhypate meson: phi and digamma. Meson diatonos: sigma and sigma. Mese: omicron-upsilon and kappa. Trite synemmenon: xi and inverted kappa. Synemmenon diatonos: iota and lambda lying on its side. Nete synemmenon: zeta and pi lying on its side. Paramese: kappa and drawn-down half-delta. Trite diezeugmenon: iota and lambda lying on its side. Diezeugmenon diatonos: zeta and pi lying on its side. Nete diezeugmenon: alpha and grave accent. Trite hyperbolaion: square omega lying on its back and zeta. Hyperbolaion diatonos: phi lying on its side and drawn-down unfinished eta. Nete hyperbolaion: omicron-upsilon and kappa, at the higher pitch.",
+   "after": "Proslambanomenos: inverted mu and defective eta. Hypate hypaton: reversed defective eta and reversed square epsilon. Parhypate hypaton: defective zeta and tau lying on its side. Hypaton diatonos: reversed gamma and upright gamma. Hypate meson: chi and right half-mu. Parhypate meson: phi and digamma. Meson diatonos: sigma and sigma. Mese: omicron-upsilon and kappa. Trite synemmenon: xi and inverted kappa. Synemmenon diatonos: iota and lambda lying on its side. Nete synemmenon: zeta and pi lying on its side. Paramese: kappa and drawn-down half-delta. Trite diezeugmenon: iota and lambda lying on its side. Diezeugmenon diatonos: zeta and pi lying on its side. Nete diezeugmenon: alpha and grave accent. Trite hyperbolaion: square omega lying on its back and zeta. Hyperbolaion diatonos: phi lying on its side and drawn-down carelessly written eta. Nete hyperbolaion: omicron-upsilon and kappa, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.12.1",
+   "before": "Proslambanomenos: reversed gamma and upright gamma. Hypate hypaton: chi and right half-mu. Parhypate hypaton: phi and digamma. Hypaton diatonos: sigma and sigma. Hypate meson: omicron-upsilon and kappa. Parhypate meson: xi and inverted kappa. Meson diatonos: iota and lambda lying on its side. Mese: zeta and pi lying on its side. Trite synemmenon: square epsilon and inverted pi. Synemmenon diatonos: square [omega] lying on its back and zeta. Nete synemmenon: phi lying on its side and drawn-down unfinished eta. Paramese: alpha and grave accent. Trite diezeugmenon: square omega lying on its back and zeta. Diezeugmenon diatonos: phi lying on its side and drawn-down unfinished eta. Nete diezeugmenon: omicron-upsilon and kappa, at the higher pitch. Trite hyperbolaion: xi and inverted kappa, at the higher pitch. Hyperbolaion diatonos: iota and lambda lying on its side, at the higher pitch. Nete hyperbolaion: zeta and pi lying on its side, at the higher pitch.",
+   "after": "Proslambanomenos: reversed gamma and upright gamma. Hypate hypaton: chi and right half-mu. Parhypate hypaton: phi and digamma. Hypaton diatonos: sigma and sigma. Hypate meson: omicron-upsilon and kappa. Parhypate meson: xi and inverted kappa. Meson diatonos: iota and lambda lying on its side. Mese: zeta and pi lying on its side. Trite synemmenon: square epsilon and inverted pi. Synemmenon diatonos: square [omega] lying on its back and zeta. Nete synemmenon: phi lying on its side and drawn-down carelessly written eta. Paramese: alpha and grave accent. Trite diezeugmenon: square omega lying on its back and zeta. Diezeugmenon diatonos: phi lying on its side and drawn-down carelessly written eta. Nete diezeugmenon: omicron-upsilon and kappa, at the higher pitch. Trite hyperbolaion: xi and inverted kappa, at the higher pitch. Hyperbolaion diatonos: iota and lambda lying on its side, at the higher pitch. Nete hyperbolaion: zeta and pi lying on its side, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.1.1",
+   "before": "Proslambanomenos: defective zeta and tau lying on its side. Hypate hypaton: reversed gamma and upright gamma. Parhypate hypaton: defective beta and inverted gamma. Chromatic lichanos hypaton: inverted alpha with a line and inverted digamma with a line. Hypate meson: sigma and sigma. Parhypate meson: rho and inverted sigma. Chromatic lichanos meson: pi with a line and reversed sigma with a line through the middle. Mese: iota and lambda lying on its side. Trite synemmenon: theta and inverted lambda. Chromatic paranete synemmenon: eta with a line and lambda lying on its side reversed with a line through the middle. Nete synemmenon: square omega lying on its back and zeta. Paramese: zeta and pi lying on its side. Trite diezeugmenon: square epsilon and inverted pi. Chromatic paranete diezeugmenon: delta, at the higher pitch, and pi lying on its side reversed with a line inside. Nete diezeugmenon: phi lying on its side and drawn-down unfinished eta. Trite hyperbolaion: upsilon pointing downward and left half-alpha pointing upward. Chromatic paranete hyperbolaion: inverted tau and right half-alpha pointing upward, with lines, at the higher pitch. Nete hyperbolaion: iota and lambda lying on its side, at the higher pitch.",
+   "after": "Proslambanomenos: defective zeta and tau lying on its side. Hypate hypaton: reversed gamma and upright gamma. Parhypate hypaton: defective beta and inverted gamma. Chromatic lichanos hypaton: inverted alpha with a line and inverted digamma with a line. Hypate meson: sigma and sigma. Parhypate meson: rho and inverted sigma. Chromatic lichanos meson: pi with a line and reversed sigma with a line through the middle. Mese: iota and lambda lying on its side. Trite synemmenon: theta and inverted lambda. Chromatic paranete synemmenon: eta with a line and lambda lying on its side reversed with a line through the middle. Nete synemmenon: square omega lying on its back and zeta. Paramese: zeta and pi lying on its side. Trite diezeugmenon: square epsilon and inverted pi. Chromatic paranete diezeugmenon: delta, at the higher pitch, and pi lying on its side reversed with a line inside. Nete diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Trite hyperbolaion: upsilon pointing downward and left half-alpha pointing upward. Chromatic paranete hyperbolaion: inverted tau and right half-alpha pointing upward, with lines, at the higher pitch. Nete hyperbolaion: iota and lambda lying on its side, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.2.1",
+   "before": "Proslambanomenos: omicron-upsilon with a line below, and eta. Hypate hypaton: inverted mu and defective eta. Parhypate hypaton: inverted lambda and defective eta lying on its back. Chromatic lichanos hypaton: inverted kappa and reversed defective eta. Hypate meson: reversed gamma and upright gamma. Parhypate meson: defective beta and inverted gamma. Chromatic lichanos meson: inverted alpha and inverted digamma. Mese: sigma and sigma. Trite synemmenon: rho and inverted sigma. Chromatic paranete synemmenon: pi and reversed sigma. Nete synemmenon: iota and lambda lying on its side. Paramese: omicron-upsilon and kappa. Trite diezeugmenon: xi and inverted kappa. Chromatic paranete diezeugmenon: nu and inverted kappa. Nete diezeugmenon: zeta and pi lying on its side. Trite hyperbolaion: square epsilon and inverted pi. Chromatic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: phi lying on its side and drawn-down unfinished eta.",
+   "after": "Proslambanomenos: omicron-upsilon with a line below, and eta. Hypate hypaton: inverted mu and defective eta. Parhypate hypaton: inverted lambda and defective eta lying on its back. Chromatic lichanos hypaton: inverted kappa and reversed defective eta. Hypate meson: reversed gamma and upright gamma. Parhypate meson: defective beta and inverted gamma. Chromatic lichanos meson: inverted alpha and inverted digamma. Mese: sigma and sigma. Trite synemmenon: rho and inverted sigma. Chromatic paranete synemmenon: pi and reversed sigma. Nete synemmenon: iota and lambda lying on its side. Paramese: omicron-upsilon and kappa. Trite diezeugmenon: xi and inverted kappa. Chromatic paranete diezeugmenon: nu and inverted kappa. Nete diezeugmenon: zeta and pi lying on its side. Trite hyperbolaion: square epsilon and inverted pi. Chromatic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: phi lying on its side and drawn-down carelessly written eta.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.3.1",
+   "before": "Proslambanomenos: phi and digamma. Hypate hypaton: sigma and sigma. Parhypate hypaton: rho and inverted sigma. Chromatic lichanos hypaton: pi and reversed sigma. Hypate meson: iota and lambda lying on its side. Parhypate meson: theta and inverted lambda. Chromatic lichanos meson: eta and lambda lying on its side reversed. Mese: square omega lying on its back and zeta. Trite synemmenon: psi pointing downward and right half-alpha pointing downward. Chromatic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: mu and drawn-down pi, at the higher pitch. Paramese: phi lying on its side and drawn-down unfinished eta. Trite diezeugmenon: upsilon pointing downward and left half-alpha pointing upward. Chromatic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: iota and lambda lying on its side, at the higher pitch. Trite hyperbolaion: theta and inverted lambda, at the higher pitch. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: square omega lying on its back and zeta, at the higher pitch.",
+   "after": "Proslambanomenos: phi and digamma. Hypate hypaton: sigma and sigma. Parhypate hypaton: rho and inverted sigma. Chromatic lichanos hypaton: pi and reversed sigma. Hypate meson: iota and lambda lying on its side. Parhypate meson: theta and inverted lambda. Chromatic lichanos meson: eta and lambda lying on its side reversed. Mese: square omega lying on its back and zeta. Trite synemmenon: psi pointing downward and right half-alpha pointing downward. Chromatic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: mu and drawn-down pi, at the higher pitch. Paramese: phi lying on its side and drawn-down carelessly written eta. Trite diezeugmenon: upsilon pointing downward and left half-alpha pointing upward. Chromatic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: iota and lambda lying on its side, at the higher pitch. Trite hyperbolaion: theta and inverted lambda, at the higher pitch. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: square omega lying on its back and zeta, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.4.1",
+   "before": "Proslambanomenos: defective eta reversed and square epsilon reversed. Hypate hypaton: inverted delta and tau lying on its side reversed. Parhypate hypaton: reversed gamma and upright gamma. Chromatic lichanos hypaton: inverted alpha and inverted digamma. Hypate meson: tau and reversed digamma. Parhypate meson: sigma and sigma. Chromatic lichanos meson: pi and reversed sigma. Mese: kappa and drawn-down half-delta. Trite synemmenon: iota and lambda lying on its side. Chromatic paranete synemmenon: eta and lambda lying on its side reversed. Nete synemmenon: alpha and grave accent. Paramese: eta and lambda lying on its side reversed. Trite diezeugmenon: zeta and pi lying on its side. Chromatic paranete diezeugmenon: delta and pi lying on its side reversed. Nete diezeugmenon: corrupted chi and left half-alpha pointing downward. Trite hyperbolaion: phi lying on its side and drawn-down unfinished eta. Chromatic paranete hyperbolaion: inverted tau and right half-alpha pointing upward. Nete hyperbolaion: kappa and drawn-down half-delta, at the higher pitch.",
+   "after": "Proslambanomenos: defective eta reversed and square epsilon reversed. Hypate hypaton: inverted delta and tau lying on its side reversed. Parhypate hypaton: reversed gamma and upright gamma. Chromatic lichanos hypaton: inverted alpha and inverted digamma. Hypate meson: tau and reversed digamma. Parhypate meson: sigma and sigma. Chromatic lichanos meson: pi and reversed sigma. Mese: kappa and drawn-down half-delta. Trite synemmenon: iota and lambda lying on its side. Chromatic paranete synemmenon: eta and lambda lying on its side reversed. Nete synemmenon: alpha and grave accent. Paramese: eta and lambda lying on its side reversed. Trite diezeugmenon: zeta and pi lying on its side. Chromatic paranete diezeugmenon: delta and pi lying on its side reversed. Nete diezeugmenon: corrupted chi and left half-alpha pointing downward. Trite hyperbolaion: phi lying on its side and drawn-down carelessly written eta. Chromatic paranete hyperbolaion: inverted tau and right half-alpha pointing upward. Nete hyperbolaion: kappa and drawn-down half-delta, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.6.1",
+   "before": "Proslambanomenos: chi and right half-mu. Hypate hypaton: tau and reversed digamma. Parhypate hypaton: sigma and sigma. Chromatic lichanos hypaton: pi and reversed sigma. Hypate meson: kappa and drawn-down half-delta. Parhypate meson: iota and lambda lying on its side. Chromatic lichanos meson: eta and lambda lying on its side reversed. Mese: alpha and grave accent. Trite synemmenon: square omega lying on its back and zeta. Chromatic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: omicron and kappa, at the higher pitch. Paramese: corrupted chi and left half-alpha pointing downward. Trite diezeugmenon: phi lying on its side and drawn-down unfinished eta. Chromatic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: kappa and drawn-down half-delta, at the higher pitch. Trite hyperbolaion: iota and lambda lying on its side, at the higher pitch. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: alpha and grave accent, at the higher pitch.",
+   "after": "Proslambanomenos: chi and right half-mu. Hypate hypaton: tau and reversed digamma. Parhypate hypaton: sigma and sigma. Chromatic lichanos hypaton: pi and reversed sigma. Hypate meson: kappa and drawn-down half-delta. Parhypate meson: iota and lambda lying on its side. Chromatic lichanos meson: eta and lambda lying on its side reversed. Mese: alpha and grave accent. Trite synemmenon: square omega lying on its back and zeta. Chromatic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: omicron and kappa, at the higher pitch. Paramese: corrupted chi and left half-alpha pointing downward. Trite diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Chromatic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: kappa and drawn-down half-delta, at the higher pitch. Trite hyperbolaion: iota and lambda lying on its side, at the higher pitch. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: alpha and grave accent, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.12.1",
+   "before": "Proslambanomenos: reversed gamma and upright gamma. Hypate hypaton: chi and right half-mu. Parhypate hypaton: phi and digamma. Chromatic lichanos hypaton: tau and reversed digamma. Hypate meson: omicron and kappa. Parhypate meson: xi and inverted kappa. Chromatic lichanos meson: nu and reversed kappa. Mese: zeta and pi lying on its side. Trite synemmenon: square epsilon and inverted pi. Chromatic paranete synemmenon: delta and pi lying on its side reversed. Nete synemmenon: phi lying on its side and drawn-down unfinished eta. Paramese: alpha and grave accent. Trite diezeugmenon: square omega lying on its back and zeta. Chromatic paranete diezeugmenon: corrupted chi and left half-alpha pointing downward. Nete diezeugmenon: omicron and kappa, at the higher pitch. Trite hyperbolaion: xi and inverted kappa, at the higher pitch. Chromatic paranete hyperbolaion: nu and reversed kappa, at the higher pitch. Nete hyperbolaion: zeta and pi lying on its side, at the higher pitch.",
+   "after": "Proslambanomenos: reversed gamma and upright gamma. Hypate hypaton: chi and right half-mu. Parhypate hypaton: phi and digamma. Chromatic lichanos hypaton: tau and reversed digamma. Hypate meson: omicron and kappa. Parhypate meson: xi and inverted kappa. Chromatic lichanos meson: nu and reversed kappa. Mese: zeta and pi lying on its side. Trite synemmenon: square epsilon and inverted pi. Chromatic paranete synemmenon: delta and pi lying on its side reversed. Nete synemmenon: phi lying on its side and drawn-down carelessly written eta. Paramese: alpha and grave accent. Trite diezeugmenon: square omega lying on its back and zeta. Chromatic paranete diezeugmenon: corrupted chi and left half-alpha pointing downward. Nete diezeugmenon: omicron and kappa, at the higher pitch. Trite hyperbolaion: xi and inverted kappa, at the higher pitch. Chromatic paranete hyperbolaion: nu and reversed kappa, at the higher pitch. Nete hyperbolaion: zeta and pi lying on its side, at the higher pitch.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too.",
+   "outside_sample": true
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ἦτα ἀμελητικὸν καθειλκυσμένον",
+    "english": "drawn-down unfinished eta",
+    "explain": "In lines [7], [9], [11], and [18], ἀμελητικόν describes a carelessly written or cursive eta; render 'drawn-down cursive eta', not an unfinished letter.",
+    "upheld_as": "minor"
+   },
+   "work": "Isagoge musica",
+   "author": "Alypius",
+   "source_edition": "tlg2135.tlg001.1st1K-grc1",
+   "ref": "notes",
+   "before": "'ἀμελητικόν' (of eta) is rendered 'unfinished'; its exact graphic sense is uncertain.",
+   "after": "'ἀμελητικόν' (of eta) is rendered 'carelessly written'; its exact graphic sense is uncertain.",
+   "reason": "ἀμελητικόν describes how the letter is written, carelessly, not that it is unfinished. The same rendering in stretches 1 and 2 of the work, outside the sample, is corrected too."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "unge [Baluz. ungue] ut voles",
+    "english": "anoint [Baluze's reading: with the nail] [him] as you wish",
+    "explain": "Ungue is an alternative spelling of the imperative unge, 'anoint [him]', in this athletic context; the variant does not mean 'with the nail'.",
+    "upheld_as": "minor"
+   },
+   "work": "Theodoretus Cyrensis",
+   "author": "Incertus",
+   "source_edition": "tmp797.tmp797.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.4",
+   "before": "Using this defence too, the devil could fittingly have said to God: I, Lord, creator of all things, did not take up the contest against you; for I know your dignity, I understand your power, I recognise your dominion, I confess my servitude, although I am known to be a runaway; and I concede the victory both to the angels and to all the heavenly multitude, from among whom I too, unhappy one, once came; but I took up the contest against this one, whom you formed from the mud, and made in your image, and honoured with reason, and established as a citizen of paradise, and showed to be lord of land and sea. Him I deceived by seduction, not by compulsion; him I do not cease to this very day to overcome, to throw down and to hand over to death; I persist in bringing him to the stadium and ordering [Baluze's reading: taking] him to wrestle with me: stand by yourself as a spectator; show him how to wrestle even with the skill that athletes employ, teach him the rules of the contest, anoint [Baluze's reading: with the nail] [him] as you wish; only do not give him help; for I am not so bold and deprived of my mind as to attempt to contend against you, the maker. These things the devil would justly say to Christ the Saviour, if it were not a man, but God, who was fighting on man's behalf.",
+   "after": "Using this defence too, the devil could fittingly have said to God: I, Lord, creator of all things, did not take up the contest against you; for I know your dignity, I understand your power, I recognise your dominion, I confess my servitude, although I am known to be a runaway; and I concede the victory both to the angels and to all the heavenly multitude, from among whom I too, unhappy one, once came; but I took up the contest against this one, whom you formed from the mud, and made in your image, and honoured with reason, and established as a citizen of paradise, and showed to be lord of land and sea. Him I deceived by seduction, not by compulsion; him I do not cease to this very day to overcome, to throw down and to hand over to death; I persist in bringing him to the stadium and ordering [Baluze's reading: taking] him to wrestle with me: stand by yourself as a spectator; show him how to wrestle even with the skill that athletes employ, teach him the rules of the contest, anoint [Baluze's reading: ungue, another spelling of the same word] [him] as you wish; only do not give him help; for I am not so bold and deprived of my mind as to attempt to contend against you, the maker. These things the devil would justly say to Christ the Saviour, if it were not a man, but God, who was fighting on man's behalf.",
+   "reason": "Ungue is the imperative of unguo, the by-form of ungo, so Baluze's reading is the same word, not the noun unguis."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "unge [Baluz. ungue] ut voles",
+    "english": "anoint [Baluze's reading: with the nail] [him] as you wish",
+    "explain": "Ungue is an alternative spelling of the imperative unge, 'anoint [him]', in this athletic context; the variant does not mean 'with the nail'.",
+    "upheld_as": "minor"
+   },
+   "work": "Theodoretus Cyrensis",
+   "author": "Incertus",
+   "source_edition": "tmp797.tmp797.opp-lat1",
+   "ref": "notes",
+   "before": "7.4: *ungue* is hard to make sense of beside *unge* ('anoint', as a trainer anoints an athlete); it is rendered as a noun only tentatively.",
+   "after": "7.4: Baluze's *ungue* is the imperative of *unguo*, another form of *unge* ('anoint', as a trainer anoints an athlete).",
+   "reason": "Ungue is the imperative of unguo, the by-form of ungo, so Baluze's reading is the same word, not the noun unguis."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "ἔχομαί σου τοῦ παιδὸς νῦν ἐγὼ καὶ οἶδε πάντες",
+    "english": "now I am holding your son, all these men see it",
+    "explain": "The speaker and these men all hold the boy: 'I and all these men now have hold of your son'; the Greek does not say that they see it.",
+    "upheld_as": "major"
+   },
+   "work": "Declamatio 41",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00541.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00541.opp-grc1.32.1",
+   "before": "I pass over the rest. But now I am holding your son, all these men see it, and we are about to sacrifice him. Defeat us, rescue his body, snatch him from our hands, or hide the young man in a cloud, make us think we have him when we do not. Do you see how helpless you are, and how, now that you are exposed, you have nothing you can do?",
+   "after": "I pass over the rest. But now I and all these men have hold of your son, and we are about to sacrifice him. Defeat us, rescue his body, snatch him from our hands, or hide the young man in a cloud, make us think we have him when we do not. Do you see how helpless you are, and how, now that you are exposed, you have nothing you can do?",
+   "reason": "οἷδε (printed οἶδε) is 'these men here', a second subject of ἔχομαι, not a verb of seeing."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "erroris sui faucibus velle servare",
+    "english": "keep the Apostle's simple teaching in the jaws of their error",
+    "explain": "The teaching is to be saved from the jaws of their error, not kept within them.",
+    "upheld_as": "major"
+   },
+   "work": "Contra Fulgentium Donatistam",
+   "author": "Auctor Incertus",
+   "source_edition": "tmp740.tmp740.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp740.tmp740.opp-lat1.10",
+   "before": "CHAPTER V. — The Donatist said: Ezekiel also spoke thus: And they will see that there are many who have turned away the water of the ancient pool, and have not looked to him who made it from the beginning, and have not seen him who founded it (Isa. 22, according to the Septuagint). Unheard-of madness of the faithless, neither to be willing to believe the divine words, nor to be willing to keep the Apostle's simple teaching in the jaws of their error.",
+   "after": "CHAPTER V. — The Donatist said: Ezekiel also spoke thus: And they will see that there are many who have turned away the water of the ancient pool, and have not looked to him who made it from the beginning, and have not seen him who founded it (Isa. 22, according to the Septuagint). Unheard-of madness of the faithless, neither to be willing to believe the divine words, nor to be willing to save the Apostle's simple teaching from the jaws of their error.",
+   "reason": "Faucibus is 'from the jaws', not 'in them': the faithless will not keep the Apostle's teaching safe from their error."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "εἰς κίνδυνον ἥκον- τες εἰσηνέγκατε προθύμως",
+    "english": "on behalf of those who had wronged you when they came into danger",
+    "explain": "The nominative participle refers to the Athenians: 'you contributed eagerly, entering danger on behalf of those who had wronged you'.",
+    "upheld_as": "major"
+   },
+   "work": "Declamatio 21",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00521.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00521.opp-grc1.20.2",
+   "before": "\"Why then,\" someone says, \"do you not state the other ways of ransoming that you claim to have found, Demosthenes?\" Because, men of Athens, though they exist, and are both honorable and customary, for I would not deny it, they require some time; and what is needed, I think, is speed. For example, if I say that money must be contributed, I shall persuade you, for no Athenian is so cruel or so unacquainted with spending for just causes that he would dare to shirk the expense. For if you contributed eagerly on behalf of those who had wronged you when they came into danger, how, when the effort is for some of your own citizens, could each of you regard giving a little silver as a loss? But, you see, a decree must pass, and the collectors must go to those who owe, and the people must elect envoys to confer with Philip about the fortunes of these men. These things take five or ten days or even more, and that, I think, is hard on those who long for their own kin.",
+   "after": "\"Why then,\" someone says, \"do you not state the other ways of ransoming that you claim to have found, Demosthenes?\" Because, men of Athens, though they exist, and are both honorable and customary, for I would not deny it, they require some time; and what is needed, I think, is speed. For example, if I say that money must be contributed, I shall persuade you, for no Athenian is so cruel or so unacquainted with spending for just causes that he would dare to shirk the expense. For if you came into danger on behalf of those who had wronged you and contributed eagerly, how, when the effort is for some of your own citizens, could each of you regard giving a little silver as a loss? But, you see, a decree must pass, and the collectors must go to those who owe, and the people must elect envoys to confer with Philip about the fortunes of these men. These things take five or ten days or even more, and that, I think, is hard on those who long for their own kin.",
+   "reason": "ἥκοντες is nominative and goes with the subject of εἰσηνέγκατε: the Athenians went into danger, not those who had wronged them."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "et ut ho- mini novo, cui haec Dominus Deus faciebat, sexto die",
+    "english": "for the new man, for whom the Lord God was making these things on the sixth day",
+    "explain": "In [7], the sixth day belongs to the new man seeing the moon, not to God making the lights: these were made on the fourth day, as the paragraph states.",
+    "upheld_as": "major"
+   },
+   "work": "Expositum De Die Paschae Et Mensis",
+   "author": "Julius Hilarianus",
+   "source_edition": "tmp221.tmp221.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp221.tmp221.opp-lat1.6",
+   "before": "VI. We have spoken briefly about the first day of the world and explained it. Now let us come to the reckoning of the moon. When three days had passed, on the fourth day, that is, the fifth day before the Kalends of April, the lights were established for signs and seasons, days and years, but not at the same time. For although they were made on one day, almighty God, to make the day bright for us, established the sun in the morning. Then, as night approached, He instituted the monthly moon, turning in a varied course into numbers and seasons. This moon was made at evening fourteen and three-quarters [days old], for this reason: that it might light up all the darkness of the first night and run through the whole night, and that for the new man, for whom the Lord God was making these things on the sixth day, just as the sun had already been made for the day, so the moon, advancing for the night, might seem to come forth as another work for him, lest, abandoned at the departure of light and the brightness of the sun, he should suffer unexpected and lonely darkness. For at that time, as the sun rises in the morning, it looks upon such a moon in the west; and at the beginning of night, after the departure of light and the completed course of the sun, the moon comes forth shield-round with the strength of its light. Not without reason, also, did the Lord God through Moses in Exodus command His people that Easter should be celebrated from the fourteenth moon of the first month, full at evening, until the twenty-first. For the Lord willed the week of Easter to begin from the fourteenth, full at evening, so that, as the day of Easter dawned, which is the first of that same week, the fifteenth moon would be for them the first day of unleavened bread. For the Lord declares this in Leviticus, saying: In the first month, on the fourteenth day of the month, between the evenings, [is] the Passover to the Lord, and on the fifteenth of this month the festival day of unleavened bread to the Lord (Lev. 23:5, 6, according to the Septuagint). For lunar days begin at evening and end at evening, since the moon, so that by its light it might temper the darkness of night for man who was still new, took its rise from the evening of the fifth day before the Kalends of April, the day of its birth, and until the next evening, that is, the fourth day before the Kalends of April, it showed the course of its first day. Therefore today, taught the lunar course by God, we keep the vigil of Easter and celebrate it as evening begins.",
+   "after": "VI. We have spoken briefly about the first day of the world and explained it. Now let us come to the reckoning of the moon. When three days had passed, on the fourth day, that is, the fifth day before the Kalends of April, the lights were established for signs and seasons, days and years, but not at the same time. For although they were made on one day, almighty God, to make the day bright for us, established the sun in the morning. Then, as night approached, He instituted the monthly moon, turning in a varied course into numbers and seasons. This moon was made at evening fourteen and three-quarters [days old], for this reason: that it might light up all the darkness of the first night and run through the whole night, and that on the sixth day, for the new man for whom the Lord God was making these things, just as the sun had already been made for the day, so the moon, advancing for the night, might seem to come forth as another work for him, lest, abandoned at the departure of light and the brightness of the sun, he should suffer unexpected and lonely darkness. For at that time, as the sun rises in the morning, it looks upon such a moon in the west; and at the beginning of night, after the departure of light and the completed course of the sun, the moon comes forth shield-round with the strength of its light. Not without reason, also, did the Lord God through Moses in Exodus command His people that Easter should be celebrated from the fourteenth moon of the first month, full at evening, until the twenty-first. For the Lord willed the week of Easter to begin from the fourteenth, full at evening, so that, as the day of Easter dawned, which is the first of that same week, the fifteenth moon would be for them the first day of unleavened bread. For the Lord declares this in Leviticus, saying: In the first month, on the fourteenth day of the month, between the evenings, [is] the Passover to the Lord, and on the fifteenth of this month the festival day of unleavened bread to the Lord (Lev. 23:5, 6, according to the Septuagint). For lunar days begin at evening and end at evening, since the moon, so that by its light it might temper the darkness of night for man who was still new, took its rise from the evening of the fifth day before the Kalends of April, the day of its birth, and until the next evening, that is, the fourth day before the Kalends of April, it showed the course of its first day. Therefore today, taught the lunar course by God, we keep the vigil of Easter and celebrate it as evening begins.",
+   "reason": "The edition sets sexto die off by commas, and the lights were made on the fourth day: the sixth day is when the moon was to appear to the new man, not when God made it."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "Egeat ergo episcopalibus subsidiis sibimet aliunde depensis",
+    "english": "Let it, then, go without episcopal assistance, which must be supplied to it from elsewhere",
+    "explain": "The city must depend on episcopal assistance supplied from elsewhere, not go without episcopal assistance.",
+    "upheld_as": "minor"
+   },
+   "work": "Canones Gelasio Ascripti",
+   "author": "SS Gelasius I",
+   "source_edition": "tmp945.tmp945.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.4",
+   "before": "The twofold slaughter of a bishop among the Latini has so confounded us with the atrocity of a horrifying crime that the settlement of our deliberation long hung in doubt, while we hesitated to thrust any bishop forward into parricidal precedents. Therefore, turning away from what has now become, as it were, a sacrilegious usage and custom, we have judged that religion should be provided for to this extent: that the parish be governed in turn by priests placed outside it. For those who live there have learned to kill their shepherds with the sword, and by an unheard-of crime (one that has never happened anywhere at all, even in provinces afflicted by continual and varied incursions of war) this city has been found which, without persecution, strikes down the prelates who minister the Christian faith to it. Care must therefore be taken that this deadly pestilence there be healed by the suspension of bishops of its own, and so at least the fuel of such great fury be withdrawn; and in this way that city, having no one on whom to rage, may either desist because of this suspension, or may not offer its dreadful contagion to others to imitate. Let it, then, go without episcopal assistance, which must be supplied to it from elsewhere, since it has stained with cruelly shed blood the sacred dignity conferred in its bosom; for in either case it must be punished with this penalty, whether it committed this outrage by domestic prompting or, incited by madness, from without. Let your love, then, provide the ministry of visitation to the church placed in this state; and, either meeting together or in turn, as the nature of affairs and the case shall require, present the divine ministries (or: mysteries) to the ungrateful, lest while we avoid the tares we seem to pass over the Lord's wheat.",
+   "after": "The twofold slaughter of a bishop among the Latini has so confounded us with the atrocity of a horrifying crime that the settlement of our deliberation long hung in doubt, while we hesitated to thrust any bishop forward into parricidal precedents. Therefore, turning away from what has now become, as it were, a sacrilegious usage and custom, we have judged that religion should be provided for to this extent: that the parish be governed in turn by priests placed outside it. For those who live there have learned to kill their shepherds with the sword, and by an unheard-of crime (one that has never happened anywhere at all, even in provinces afflicted by continual and varied incursions of war) this city has been found which, without persecution, strikes down the prelates who minister the Christian faith to it. Care must therefore be taken that this deadly pestilence there be healed by the suspension of bishops of its own, and so at least the fuel of such great fury be withdrawn; and in this way that city, having no one on whom to rage, may either desist because of this suspension, or may not offer its dreadful contagion to others to imitate. Let it, then, depend on episcopal assistance supplied to it from elsewhere, since it has stained with cruelly shed blood the sacred dignity conferred in its bosom; for in either case it must be punished with this penalty, whether it committed this outrage by domestic prompting or, incited by madness, from without. Let your love, then, provide the ministry of visitation to the church placed in this state; and, either meeting together or in turn, as the nature of affairs and the case shall require, present the divine ministries (or: mysteries) to the ungrateful, lest while we avoid the tares we seem to pass over the Lord's wheat.",
+   "reason": "Egeat is 'let it depend on'. The English 'go without... supplied from elsewhere' gives roughly the same practical sense, that the city has no bishop of its own and is served from outside, but says it less exactly."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "grammar",
+    "original": "ex qua semper ad regenerationem, atque consignationem plebs devota convenit",
+    "english": "to which the devout people have always come together for regeneration and confirmation",
+    "explain": "Ex qua means 'from which': the people come from this diocese for baptism and confirmation, not to it.",
+    "upheld_as": "minor"
+   },
+   "work": "Canones Gelasio Ascripti",
+   "author": "SS Gelasius I",
+   "source_edition": "tmp945.tmp945.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.8",
+   "before": "Although it is contained in the ancient rules that the parishes assigned to each church by the original arrangement can by no means be torn away, lest, through a very bad custom and with the rashness of a bad example growing, universal confusion should arise everywhere, and although by our decrees sent not long ago we ordered that everything seized in this way be restored, yet because the rashness of the invaders thinks a law can be created for itself if it joins persistence in retention to its crime, we wish that what we decreed between our brother and fellow bishop Constantius, priest of the Church of Camisca, and the men sent by the bishop of Ancona, be carried out by you. Then we prescribed what form is to be followed in other hearings. We therefore allow the state of parishes, which has endured with the firmness of perpetual age, to be changed by no presumption; because neither a bishop's negligence, nor a temporal objection which perhaps arises through carelessness, nor consent produced by indolence, nor an order obtained by a fraudulent petition, can tear apart a diocese once established, to which the devout people have always come together for regeneration and confirmation. (In Gratian is added, though perhaps these are the words of Gratian himself and not of Gelasius: \"for it is known to have been ordained of old that territory does not make a diocese.\")",
+   "after": "Although it is contained in the ancient rules that the parishes assigned to each church by the original arrangement can by no means be torn away, lest, through a very bad custom and with the rashness of a bad example growing, universal confusion should arise everywhere, and although by our decrees sent not long ago we ordered that everything seized in this way be restored, yet because the rashness of the invaders thinks a law can be created for itself if it joins persistence in retention to its crime, we wish that what we decreed between our brother and fellow bishop Constantius, priest of the Church of Camisca, and the men sent by the bishop of Ancona, be carried out by you. Then we prescribed what form is to be followed in other hearings. We therefore allow the state of parishes, which has endured with the firmness of perpetual age, to be changed by no presumption; because neither a bishop's negligence, nor a temporal objection which perhaps arises through carelessness, nor consent produced by indolence, nor an order obtained by a fraudulent petition, can tear apart a diocese once established, from which the devout people have always come together for regeneration and confirmation. (In Gratian is added, though perhaps these are the words of Gratian himself and not of Gelasius: \"for it is known to have been ordained of old that territory does not make a diocese.\")",
+   "reason": "Ex qua is 'from which'."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "καὶ τὴν φύσιν ἴδει κἀνταῦθα κρατεῖν",
+    "english": "and I knew that [my] nature prevails here too",
+    "explain": "The evidently misprinted ἴδει represents impersonal ἔδει: 'my nature had to prevail here too,' not 'I knew that my nature prevails.'",
+    "upheld_as": "minor"
+   },
+   "work": "Oratio 57",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00457.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00457.opp-grc1.46.3",
+   "before": "48. 'But I hate wickedness,' he says, 'and I knew that [my] nature prevails here too, and I heard arguments intended to help Malchus.' But that is not what Mareas says, nor the man who sits as his assessor, through whom everything is for money, everything for sale. And heavy is the snowfall of takings, with the plaintiff paying and the defendant paying, neither knowing what the other does, but both resting on the same hope. Nor is it possible for the losers to recover what they paid out, since the matter has been settled beforehand by certain oaths. Nothing is free: not a vote, not an admission, not a name, not a syllable, not a letter.",
+   "after": "48. 'But I hate wickedness,' he says, 'and [my] nature had to prevail here too, and I heard arguments intended to help Malchus.' But that is not what Mareas says, nor the man who sits as his assessor, through whom everything is for money, everything for sale. And heavy is the snowfall of takings, with the plaintiff paying and the defendant paying, neither knowing what the other does, but both resting on the same hope. Nor is it possible for the losers to recover what they paid out, since the matter has been settled beforehand by certain oaths. Nothing is free: not a vote, not an admission, not a name, not a syllable, not a letter.",
+   "reason": "As printed ἴδει fits no form of οἶδα the sentence can use; impersonal ἔδει with τὴν φύσιν κρατεῖν reads naturally. Either way he is excusing himself by his nature, so the sense moves less than a major error."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "καὶ τὴν φύσιν ἴδει κἀνταῦθα κρατεῖν",
+    "english": "and I knew that [my] nature prevails here too",
+    "explain": "The evidently misprinted ἴδει represents impersonal ἔδει: 'my nature had to prevail here too,' not 'I knew that my nature prevails.'",
+    "upheld_as": "minor"
+   },
+   "work": "Oratio 57",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00457.opp-grc1",
+   "ref": "notes",
+   "before": "48: ἴδει is read as ᾔδειν/ᾔδη ('I knew'); it could also be third person ('he knew'), and the sense of the sentence is unclear.",
+   "after": "48: ἴδει is read as ἔδει ('had to').",
+   "reason": "As printed ἴδει fits no form of οἶδα the sentence can use; impersonal ἔδει with τὴν φύσιν κρατεῖν reads naturally. Either way he is excusing himself by his nature, so the sense moves less than a major error."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "μᾶλλον ἐαυ- τὸν συκοφαντῶν καὶ κατηγόρων μεμφόμενος",
+    "english": "rather to accuse himself falsely and to find fault with his accusers",
+    "explain": "The genitives compare his slanderers and accusers with himself: he blames himself rather than them, not himself and his accusers.",
+    "upheld_as": "major"
+   },
+   "work": "Declamatio 48",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00548.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00548.opp-grc1.69.2",
+   "before": "70. You will see this wicked brother too, along with me, set forth as a bulwark for your safety. I judge this from the time since the disowning, in which, though so greatly oppressed, he has uttered nothing hurtful against his father, but continues to accept the blame and rather to accuse himself falsely and to find fault with his accusers. He admires his father and does not withhold from him what is due, but he reproaches his own fortune and is eager to wipe out his disgrace by noble deeds.",
+   "after": "70. You will see this wicked brother too, along with me, set forth as a bulwark for your safety. I judge this from the time since the disowning, in which, though so greatly oppressed, he has uttered nothing hurtful against his father, but continues to accept the blame and to find fault with himself rather than with those who slander and accuse him. He admires his father and does not withhold from him what is due, but he reproaches his own fortune and is eager to wipe out his disgrace by noble deeds.",
+   "reason": "συκοφαντῶν and κατηγόρων are genitives of comparison after μᾶλλον: he blames himself rather than those who slander and accuse him. The English made him attack his accusers, against the point of the passage."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "Omnem domum illius implebit a generationibus",
+    "english": "It will fill all its house from generation to generation",
+    "explain": "A generationibus gives what fills the house, parallel to a thesauris: 'will fill his whole house with produce,' not 'from generation to generation'.",
+    "upheld_as": "minor"
+   },
+   "work": "APENDIX AD EPISTOLAS FELICIS IV.",
+   "author": "SS Felix IV",
+   "source_edition": "tmp1054.tmp1054.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1054.tmp1054.opp-lat1.9",
+   "before": "For this reason we urge your love not to delay in always completing the good which you have begun, because it is not the beginning that is praised, but the end. For we urge you to love and search out wisdom, so that you may arrange and judge reasonably and wisely the things that have been entrusted to you, as the Lord says through the prophet: Be instructed, you who judge the earth. Fear the Lord, therefore, and keep his commandments, and love him with your whole heart, and your neighbour as yourself. God most high created wisdom in the Holy Spirit, and saw, and numbered the earth by it, and measured [it], and poured it out over all his works, and over all flesh according to his gift, he granted it to those who love him. The fear of the Lord is glory and glorying, and a crown of exultation. The fear of the Lord will delight the heart, and will give gladness and joy for length of days. It will go well at the last with him who fears the Lord, and on the day of his death he will be blessed. The love of God is honourable wisdom; and those to whom it has appeared in sight love it in the vision, and in the knowledge of its great works. The beginning of wisdom is the fear of the Lord; and it was created together with the faithful in the womb, and it walks with chosen women, and it is recognised with the just and faithful. The fear of the Lord is the piety of knowledge. Piety will guard and justify the heart; it will give delight and joy. It will go well with him who fears the Lord, and in the days of his end he will be blessed. To fear the Lord is the fullness of wisdom, and fullness [comes] from its fruits. It will fill all its house from generation to generation, and its storehouses from its treasures. The crown of wisdom is the fear of the Lord, filling up peace and the fruit of salvation; and he saw and numbered it, but both are gifts of God. Wisdom will distribute knowledge and the understanding of prudence, and it exalts the glory of those who hold it. The root of wisdom is to fear the Lord, and its branches are long-lived. In the treasures of wisdom are understanding and the piety of knowledge; but wisdom is an abomination to sinners. The fear of the Lord drives out sin; for he who is without fear will not be able to be justified. For the wrath of his passion is his overthrow. The patient man will hold out for a time, and afterwards there is a return of delight. A good mind will hide his words for a time, and the lips of many will tell of his mind. In the treasures of wisdom is the meaning of discipline; but the worship of God is an abomination to the sinner. Son, if you desire wisdom, keep justice, and God will grant it to you. For wisdom and discipline are the fear of the Lord; and what is well pleasing to him is faith and meekness, and he will fill up its treasures. Do not be stubborn and unbelieving towards the fear of the Lord, and do not approach him with a double heart. Do not be a hypocrite in the sight of men, and do not be made to stumble by your lips. Pay heed to them, lest perhaps you fall and bring a stumbling-block on your soul, and bring dishonour on yourself, and God reveal your hidden things. Strive always for faith and justice and for the salvation of the soul, and act manfully for the help of the brethren, so that you may receive a reward from the Lord. For it is written (Ecclus. 4): Son, observe the time, and keep away from evil. For your soul's sake do not be ashamed to speak the truth. For there is a shame that brings sin, and there is a shame that brings grace and glory. Do not accept a person against your own person, nor a lie against your own soul. Do not stand in awe of your neighbour in your fall, nor hold back a word in the time of salvation. Do not hide your wisdom in its beauty. For wisdom is recognised in the tongue, and understanding, and knowledge and teaching in words of truth (in the word of the sensible man), and firmness in works of justice. Do not contradict the truth in any way, and be ashamed of the falsehood of your ignorance. Do not be ashamed to confess your sins; and do not submit yourself to every man for sin. Do not resist against the face of the powerful; nor strive against the stream of a river. Contend for justice for your soul, and strive for justice even to death, and God will fight down your enemies for you. Do not be hasty in your tongue, and useless and slack in your works. Do not be like a lion in your house, overturning your household and oppressing those subject to you. Let not your hand be stretched out to receive and closed when it comes to giving. Supported by these authorities of the Scriptures, always stand upright, and do not turn aside from the way of truth, so that you may gain the grace of God and enjoy the friendship of good men; and the more readily your will (mind) departs from love of this world, the more it is both driven and called. For we both long to see you present, and, while you are absent, desire at least to converse with you by letter. Hence we also wish that blessed Peter, prince of the apostles, may happily bring you to his threshold, so that by the grace of the Almighty we may merit to enjoy your presence. Given on the twelfth day before the Kalends of November (in the year 530, at the end of October, Boniface, not Felix, was sitting at Rome), Lampadius and Orestes, most illustrious men, being consuls.",
+   "after": "For this reason we urge your love not to delay in always completing the good which you have begun, because it is not the beginning that is praised, but the end. For we urge you to love and search out wisdom, so that you may arrange and judge reasonably and wisely the things that have been entrusted to you, as the Lord says through the prophet: Be instructed, you who judge the earth. Fear the Lord, therefore, and keep his commandments, and love him with your whole heart, and your neighbour as yourself. God most high created wisdom in the Holy Spirit, and saw, and numbered the earth by it, and measured [it], and poured it out over all his works, and over all flesh according to his gift, he granted it to those who love him. The fear of the Lord is glory and glorying, and a crown of exultation. The fear of the Lord will delight the heart, and will give gladness and joy for length of days. It will go well at the last with him who fears the Lord, and on the day of his death he will be blessed. The love of God is honourable wisdom; and those to whom it has appeared in sight love it in the vision, and in the knowledge of its great works. The beginning of wisdom is the fear of the Lord; and it was created together with the faithful in the womb, and it walks with chosen women, and it is recognised with the just and faithful. The fear of the Lord is the piety of knowledge. Piety will guard and justify the heart; it will give delight and joy. It will go well with him who fears the Lord, and in the days of his end he will be blessed. To fear the Lord is the fullness of wisdom, and fullness [comes] from its fruits. It will fill all its house from its increase, and its storehouses from its treasures. The crown of wisdom is the fear of the Lord, filling up peace and the fruit of salvation; and he saw and numbered it, but both are gifts of God. Wisdom will distribute knowledge and the understanding of prudence, and it exalts the glory of those who hold it. The root of wisdom is to fear the Lord, and its branches are long-lived. In the treasures of wisdom are understanding and the piety of knowledge; but wisdom is an abomination to sinners. The fear of the Lord drives out sin; for he who is without fear will not be able to be justified. For the wrath of his passion is his overthrow. The patient man will hold out for a time, and afterwards there is a return of delight. A good mind will hide his words for a time, and the lips of many will tell of his mind. In the treasures of wisdom is the meaning of discipline; but the worship of God is an abomination to the sinner. Son, if you desire wisdom, keep justice, and God will grant it to you. For wisdom and discipline are the fear of the Lord; and what is well pleasing to him is faith and meekness, and he will fill up its treasures. Do not be stubborn and unbelieving towards the fear of the Lord, and do not approach him with a double heart. Do not be a hypocrite in the sight of men, and do not be made to stumble by your lips. Pay heed to them, lest perhaps you fall and bring a stumbling-block on your soul, and bring dishonour on yourself, and God reveal your hidden things. Strive always for faith and justice and for the salvation of the soul, and act manfully for the help of the brethren, so that you may receive a reward from the Lord. For it is written (Ecclus. 4): Son, observe the time, and keep away from evil. For your soul's sake do not be ashamed to speak the truth. For there is a shame that brings sin, and there is a shame that brings grace and glory. Do not accept a person against your own person, nor a lie against your own soul. Do not stand in awe of your neighbour in your fall, nor hold back a word in the time of salvation. Do not hide your wisdom in its beauty. For wisdom is recognised in the tongue, and understanding, and knowledge and teaching in words of truth (in the word of the sensible man), and firmness in works of justice. Do not contradict the truth in any way, and be ashamed of the falsehood of your ignorance. Do not be ashamed to confess your sins; and do not submit yourself to every man for sin. Do not resist against the face of the powerful; nor strive against the stream of a river. Contend for justice for your soul, and strive for justice even to death, and God will fight down your enemies for you. Do not be hasty in your tongue, and useless and slack in your works. Do not be like a lion in your house, overturning your household and oppressing those subject to you. Let not your hand be stretched out to receive and closed when it comes to giving. Supported by these authorities of the Scriptures, always stand upright, and do not turn aside from the way of truth, so that you may gain the grace of God and enjoy the friendship of good men; and the more readily your will (mind) departs from love of this world, the more it is both driven and called. For we both long to see you present, and, while you are absent, desire at least to converse with you by letter. Hence we also wish that blessed Peter, prince of the apostles, may happily bring you to his threshold, so that by the grace of the Almighty we may merit to enjoy your presence. Given on the twelfth day before the Kalends of November (in the year 530, at the end of October, Boniface, not Felix, was sitting at Rome), Lampadius and Orestes, most illustrious men, being consuls.",
+   "reason": "A generationibus parallels a thesauris and renders the Greek γενήματα, produce; the Douay has 'her increase'."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "δηλοῦσιν ὡς εἴρηται, τὸ [γὰρ] ξηρόν, τὸ ὑγρόν, τὸ σκοτεινόν, τὸ λαμπρόν",
+    "english": "they indicate, as has been said, the dry, the moist, the dark, the bright",
+    "explain": "In [12], the listed eye qualities are the subjects of 'reveal': dryness, moisture, darkness, brightness, etc. reveal what kind of thought is present.",
+    "upheld_as": "major"
+   },
+   "work": "Physiognomonica (epitome Matritensis)",
+   "author": "Adamantius Judaeus",
+   "source_edition": "tlg0731.tlg003.1st1K-grc1",
+   "ref": "urn:cts:greekLit:tlg0731.tlg003.1st1K-grc1.1.10.1",
+   "before": "Eyes that open wide and at the same time stand still as though thinking something signify of what kind their thought is; they indicate, as has been said, the dry, the moist, the dark, the bright, small and large, hollow, prominent, soft, fixed, and the other qualities beyond these, which have often been discussed.",
+   "after": "Eyes that open wide and at the same time stand still as though thinking something signify of what kind their thought is; as has been said, it is indicated by the dry, the moist, the dark, the bright, small and large, hollow, prominent, soft, fixed, and the other qualities beyond these, which have often been discussed.",
+   "reason": "With γάρ the qualities of the eye are the subject of δηλοῦσιν: they show what kind of thought it is. The English made the eyes indicate the qualities."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "Passio sanctorum Adriani cum aliis numero XXIII",
+    "english": "Passion of the saints of Adrian's company, with others, 23 in number",
+    "explain": "This commemorates Adrian himself with 23 others; 'of Adrian's company' substitutes an unnamed group for the named martyr.",
+    "upheld_as": "minor"
+   },
+   "work": "Antiquum Martyrologium Gallicanum",
+   "author": "Anomynus",
+   "source_edition": "tmp1231.tmp1231.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1231.tmp1231.opp-lat1.206",
+   "before": "VII Kalends of August: Feast of the saints Jovinian, Marcian [...] In Nicomedia, Passion of the saints of Adrian's company, with others, 23 in number.",
+   "after": "VII Kalends of August: Feast of the saints Jovinian, Marcian [...] In Nicomedia, Passion of the saints Adrian and others, 23 in number.",
+   "reason": "Sanctorum Adriani cum aliis is 'the saints Adrian with others'. Adrian was still named in the English, so the error is minor."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "Passio sanctorum Adriani cum aliis numero XXIII",
+    "english": "Passion of the saints of Adrian's company, with others, 23 in number",
+    "explain": "This commemorates Adrian himself with 23 others; 'of Adrian's company' substitutes an unnamed group for the named martyr.",
+    "upheld_as": "minor"
+   },
+   "work": "Antiquum Martyrologium Gallicanum",
+   "author": "Anomynus",
+   "source_edition": "tmp1231.tmp1231.opp-lat1",
+   "ref": "notes",
+   "before": "'of Adriani's company' is an interpretation.",
+   "after": "it is rendered 'the saints Adrian and others'.",
+   "reason": "Sanctorum Adriani cum aliis is 'the saints Adrian with others'. Adrian was still named in the English, so the error is minor."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "quorum canat est ludes",
+    "english": "of which praise is the chief",
+    "explain": "The damaged phrase evidently represents 'quorum caput est fides': 'of which faith is the head'; the argument concerns faith, not praise, as foremost among these goods.",
+    "upheld_as": "major"
+   },
+   "work": "Epistola Et Decreta",
+   "author": "SS Bonifacius II",
+   "source_edition": "tmp1057.tmp1057.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1057.tmp1057.opp-lat1.2",
+   "before": "Through our son Armenius, priest and abbot, we have received the letter of your fraternity, which, as it seems, you had sent to us while still unaware of the priestly office entrusted to me, in that charity by which we are bound in God; in it you had thought it right to ask that what you had requested of our predecessor of blessed memory, Pope Felix, for the strengthening of the catholic faith, should be carried through by my urging. But since the will on high has so disposed that what you had hoped to obtain from him through us you should rather obtain from us, we have not delayed to give a catholic reply to your petition, which you conceived out of praiseworthy concern. For you report that some bishops of the Gauls, while they now agree that the other goods come from the grace of God, would have faith alone, by which we believe in Christ, to be of nature, not of grace; and that it has remained in the free will of men from Adam, which it is wicked to say, and is not also now conferred on individuals by the bounty of divine mercy. You ask that, to remove the ambiguity, we should confirm by the authority of the apostolic see your confession, in which you, on the contrary, define, in accordance with catholic truth, that right faith in Christ and the beginning of all good will is inspired in the minds of individuals by the prevenient grace of God. And so, since many Fathers, and above the rest Bishop Augustine of blessed memory, and also our forebears the prelates of the apostolic see, are shown to have discussed this matter so very fully and with reason that it ought to be doubtful to no one any longer that faith itself also comes to us from grace, we have thought it right to refrain from a lengthy reply; above all since, according to those sentences which you have cited from the Apostle, where he says: 'I have obtained mercy, so that I might be faithful' (I Cor. VII); and elsewhere: 'To you it has been given for Christ's sake, not only that you believe in him, but also that you suffer for him' (Philip. I), it plainly appears that the faith by which we believe in Christ, like all good things, comes to individual men from the gift of grace on high, not from the power of human nature. We rejoice that your fraternity too, having held a conference with certain bishops of the Gauls, has judged this in accordance with the catholic faith: namely in those points in which, as you have reported, they defined with one consent that the faith by which we believe in Christ is conferred by the prevenient grace of the Godhead; rejecting also [the idea that there is] anything at all good according to God which anyone can either will, or begin, or perform, or complete without the grace of God, since our Saviour himself says: 'Without me you can do nothing.' For it is certain and catholic that in all good things, of which praise is the chief, divine mercy goes before us while we are still unwilling, so that we may will; is present in us when we will; and follows also so that we may endure in faith; as the prophet David says: 'My God, his mercy shall go before me' (Psal. LVIII); and again: 'My mercy is with him' (Psal. LXXXVIII); and elsewhere: 'His mercy shall follow me' (Psal. XXII). Likewise blessed Paul says: 'Or who has first given to him, and it shall be repaid to him? For from him and through him and in him are all things' (Rom. XI). Hence we greatly wonder at those who think otherwise, that they are still so weighed down by the remnants of the ancient error as to believe that one comes to Christ not by the gift of God but by nature; and that they say the good of nature itself, which is known to have been corrupted by Adam's sin, is the author of our faith rather than Christ; and do not understand that they are protesting against the Lord's sentence, which says: 'No one comes to me unless it has been given to him by my Father' (John VI); and are at the same time also opposing blessed Paul, who cries out to the Hebrews: 'Let us run to the contest set before us, looking to Jesus Christ, the author and finisher of faith' (Hebr. XII). This being so, we cannot find what they attribute to the human will, without the grace of God, for believing in Christ, since Christ is the author and finisher of faith. Therefore, greeting you with fitting affection, we approve your confession written above as consonant with the catholic rules of the Fathers. As for those who, as you report, would attribute the other [goods] to grace while faith comes first, we bind them by their own profession, so that they are compelled far rather to ascribe faith too to the gift of grace, without which there is nothing good that anyone can do according to God, as the blessed Apostle says: 'Everything that is not of faith is sin' (Rom. XIV). This being so, either they will attribute no good to grace, if they strive to withdraw faith from it; or if they say that any good is from grace, faith itself must necessarily be attributed to grace. For if there is nothing good without faith, and yet faith itself is denied to come from grace, then no good, God forbid, will have to be attributed to grace. For the apostle James says: 'Every good gift and every perfect gift is from above, coming down from the Father of lights' (Jac. I). And they themselves admit, as you say, that the other gifts are given through grace; and they do not doubt that all goods themselves subsist through faith. Faith itself, therefore, must necessarily be attributed to grace, since they cannot separate from it the good which they attribute to grace. These points having thus been briefly set out, we have not thought it necessary to reply to the remaining absurdities of the Pelagian error which that letter seems to contain, which you reported was sent to you by a certain bishop: for we hope from the divine mercy that through the ministry and teaching of your fraternity he will deign so to work in the hearts of all whom you reported as dissenting, that from this they may believe that all good will proceeds not from themselves but from divine grace, when they find that they now wish to defend what they were stubbornly striving to attack. For it is written: 'The will is prepared by the Lord' (Prov. XIX, according to the LXX), and elsewhere: 'I know that I cannot be continent unless God gives [it], and this itself was [a mark] of wisdom, to know whose gift this was' (Wis. VIII). May God keep you safe, dearest brother. Given on the eighth day before the Kalends of February, in the consulship of Lampadius and Orestes, men of senatorial rank (A.D. 530).",
+   "after": "Through our son Armenius, priest and abbot, we have received the letter of your fraternity, which, as it seems, you had sent to us while still unaware of the priestly office entrusted to me, in that charity by which we are bound in God; in it you had thought it right to ask that what you had requested of our predecessor of blessed memory, Pope Felix, for the strengthening of the catholic faith, should be carried through by my urging. But since the will on high has so disposed that what you had hoped to obtain from him through us you should rather obtain from us, we have not delayed to give a catholic reply to your petition, which you conceived out of praiseworthy concern. For you report that some bishops of the Gauls, while they now agree that the other goods come from the grace of God, would have faith alone, by which we believe in Christ, to be of nature, not of grace; and that it has remained in the free will of men from Adam, which it is wicked to say, and is not also now conferred on individuals by the bounty of divine mercy. You ask that, to remove the ambiguity, we should confirm by the authority of the apostolic see your confession, in which you, on the contrary, define, in accordance with catholic truth, that right faith in Christ and the beginning of all good will is inspired in the minds of individuals by the prevenient grace of God. And so, since many Fathers, and above the rest Bishop Augustine of blessed memory, and also our forebears the prelates of the apostolic see, are shown to have discussed this matter so very fully and with reason that it ought to be doubtful to no one any longer that faith itself also comes to us from grace, we have thought it right to refrain from a lengthy reply; above all since, according to those sentences which you have cited from the Apostle, where he says: 'I have obtained mercy, so that I might be faithful' (I Cor. VII); and elsewhere: 'To you it has been given for Christ's sake, not only that you believe in him, but also that you suffer for him' (Philip. I), it plainly appears that the faith by which we believe in Christ, like all good things, comes to individual men from the gift of grace on high, not from the power of human nature. We rejoice that your fraternity too, having held a conference with certain bishops of the Gauls, has judged this in accordance with the catholic faith: namely in those points in which, as you have reported, they defined with one consent that the faith by which we believe in Christ is conferred by the prevenient grace of the Godhead; rejecting also [the idea that there is] anything at all good according to God which anyone can either will, or begin, or perform, or complete without the grace of God, since our Saviour himself says: 'Without me you can do nothing.' For it is certain and catholic that in all good things, of which faith is the head, divine mercy goes before us while we are still unwilling, so that we may will; is present in us when we will; and follows also so that we may endure in faith; as the prophet David says: 'My God, his mercy shall go before me' (Psal. LVIII); and again: 'My mercy is with him' (Psal. LXXXVIII); and elsewhere: 'His mercy shall follow me' (Psal. XXII). Likewise blessed Paul says: 'Or who has first given to him, and it shall be repaid to him? For from him and through him and in him are all things' (Rom. XI). Hence we greatly wonder at those who think otherwise, that they are still so weighed down by the remnants of the ancient error as to believe that one comes to Christ not by the gift of God but by nature; and that they say the good of nature itself, which is known to have been corrupted by Adam's sin, is the author of our faith rather than Christ; and do not understand that they are protesting against the Lord's sentence, which says: 'No one comes to me unless it has been given to him by my Father' (John VI); and are at the same time also opposing blessed Paul, who cries out to the Hebrews: 'Let us run to the contest set before us, looking to Jesus Christ, the author and finisher of faith' (Hebr. XII). This being so, we cannot find what they attribute to the human will, without the grace of God, for believing in Christ, since Christ is the author and finisher of faith. Therefore, greeting you with fitting affection, we approve your confession written above as consonant with the catholic rules of the Fathers. As for those who, as you report, would attribute the other [goods] to grace while faith comes first, we bind them by their own profession, so that they are compelled far rather to ascribe faith too to the gift of grace, without which there is nothing good that anyone can do according to God, as the blessed Apostle says: 'Everything that is not of faith is sin' (Rom. XIV). This being so, either they will attribute no good to grace, if they strive to withdraw faith from it; or if they say that any good is from grace, faith itself must necessarily be attributed to grace. For if there is nothing good without faith, and yet faith itself is denied to come from grace, then no good, God forbid, will have to be attributed to grace. For the apostle James says: 'Every good gift and every perfect gift is from above, coming down from the Father of lights' (Jac. I). And they themselves admit, as you say, that the other gifts are given through grace; and they do not doubt that all goods themselves subsist through faith. Faith itself, therefore, must necessarily be attributed to grace, since they cannot separate from it the good which they attribute to grace. These points having thus been briefly set out, we have not thought it necessary to reply to the remaining absurdities of the Pelagian error which that letter seems to contain, which you reported was sent to you by a certain bishop: for we hope from the divine mercy that through the ministry and teaching of your fraternity he will deign so to work in the hearts of all whom you reported as dissenting, that from this they may believe that all good will proceeds not from themselves but from divine grace, when they find that they now wish to defend what they were stubbornly striving to attack. For it is written: 'The will is prepared by the Lord' (Prov. XIX, according to the LXX), and elsewhere: 'I know that I cannot be continent unless God gives [it], and this itself was [a mark] of wisdom, to know whose gift this was' (Wis. VIII). May God keep you safe, dearest brother. Given on the eighth day before the Kalends of February, in the consulship of Lampadius and Orestes, men of senatorial rank (A.D. 530).",
+   "reason": "Quorum canat est ludes is a misprint for quorum caput est fides, the reading of this letter of Boniface II, which the damaged letters fit; the point, that faith is the head of all goods, is the doctrine at issue."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "pariter Demetrium Dei amatorem Sciatensis civitatis episcopum; et alios suae portionis suadentes esse participes",
+    "english": "along with Demetrius, beloved of God, bishop of the city of Sciathos, and persuading others to be partners in their faction",
+    "explain": "Demetrium, like alios, is governed by suadentes: Antonius and Probianus persuaded Demetrius and others to join their faction; the English instead makes Demetrius a fellow recruiter.",
+    "upheld_as": "major"
+   },
+   "work": "Epistola Et Decreta",
+   "author": "SS Bonifacius II",
+   "source_edition": "tmp1057.tmp1057.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1057.tmp1057.opp-lat1.4",
+   "before": "Not relying on unreasonable confidence, nor ignorant of my own mediocrity, but with a contrite soul and a humble spirit, and with many tears, I offer you this my supplication, and I therefore think it acceptable before you, most blessed father: for formerly also those who supplicated God with tears prayed with confidence, as if with burnt offerings and rams and bulls, and indeed with ten thousand fat lambs: for 'God will not despise a contrite and humbled heart' (Psal. L). So neither will you, most holy father, hold me in contempt, surrounded as I am by many evils and looking only to God and, by paternal custom, to your piety. Since no ecclesiastical order can surpass that power of yours which was conferred on you by the Saviour of all and first shepherd, nothing is small or lowly to which your providence looks. The more you surpass all before God, the more you must reflect that this is the proof of those who love God, as Peter, after God the father and leader of the holy Church, testifies to you and to the whole world. For when the Lord said for the third time: 'Do you love me? Feed my sheep' (John XXI), he handed over the commands, showing [them] first to you, and then through you bestowed them on all the holy Churches throughout the whole world. Finally, it is for this reason that those who were made venerable before you, all who were found worthy to hold that holy see, while living in body in the glorious city of Rome, yet in spirit adorned all that was duly done and passed beyond [it]; and very many members of the body of the Church have been set free from the violence of slandering enemies by God and the venerable apostolic see. Hence I beseech you: judge the humble, and do justice to the poor, as it is written (Psal. LXXXI). For in secular life I formerly held a provincial rank in the service, and I passed my life humbly and modestly, as it was. But when Proclus of blessed memory, who had been made bishop of the Church of Larissa, went to his rest, and a prelate had to be ordained for that Church, a decree was made jointly by the clergy as well as the people, the metropolitan, and those whose assent was necessary for the act; and, according to ancient custom, three were chosen: Alexander, a priest of Sciathos, and ..., a priest, and my lowly self; and having obtained the better testimony I won the palm of election. But I, knowing myself, judged myself unworthy of so great a task; yet I gladly assented to it all by the grace and clemency of God, looking to the thief and the publican and very many other examples of this kind, whom God suddenly snatched from extreme evils and, as one must say, from the very depth of evils; by these I was encouraged, and a certain hope of a good purpose was given me. So all of them conferred the election on me in God, subscribing together to the decree. And since according to ancient custom the ordination had to take place not elsewhere but in the same city, the holy synod of the province assembled, together with the landowners of the whole city and the whole body of the Church, and with the common testimony of all, nothing departing from custom, I was ordained bishop in the church. For Probianus, beloved of God, bishop of the city of Demetrias, showed such eagerness in this matter, and so embraced what had been done, that he even took it upon himself to deliver praise in the Church of God on the person of my humble self. And so that, without my saying anything about myself, it may be understood from those who wanted and elected me that this ordination came about according to God. Therefore I beseech you, most blessed father, to deign to hear these things gently; for I do not put them forward out of love for the praise of my own lips, as it is written, since he who glories in himself cannot be approved before God, but so that, once you know these things, the calumny raised against me may plainly appear to you. How much the bishops of the province and the clergy of the holy Church then said, showing that they rejoiced at my election, I have judged superfluous for your ears. So while the enemy of all good things was quiet, and God did not look upon my sins, the Church suffered no disturbance, and the charity of all was covering offences, as it is written. But, incited from I know not where, Antonius, a God-fearing priest and steward, and Probianus the defamer, bishop of the city of Demetrias (I mean, most blessed one, that same Probianus who, pushing aside others hastening to speak my praises, himself delivered in the church before God the titles of my praise), along with Demetrius, beloved of God, bishop of the city of Sciathos, and persuading others to be partners in their faction, not ashamed of the subscriptions contained in the decree, nor Probianus of his own praise and the testimony of the whole Church, nor of what they had said or done, how they embraced my ordination, how my person had been pleasing to them even before the ordination, how they gladly accepted the ordination once performed, suddenly set out for the imperial city, and, composing a certain accusation, laid complaints before the most holy archbishop of that same city, Epiphanius, saying that my ordination did not at all accord with the holy canons, hoping that another bishop might be substituted in my place. As I begin to speak of these things, distress certainly holds me back. For if I tell what they have done against me, or the storm that now hangs over my life, or the things they threaten, since they are fiercer, [I fear] that someone may judge me insolent or bold for saying anything about the prelate of so great and so important a Church. But if I keep silent about them, woe is me; for where do I have help? But committing myself to the judgement of our great God and Saviour Jesus Christ, and of your beatitude, and of the piety of the most serene emperor, I could not keep silent. So when the accusation against me had reached the most holy archbishop Epiphanius (again and again I ask pardon for what I am about to say; judge it, most holy fathers, to be not of insolence or boldness but of necessity), he made a *commonitorium* [an instruction], as they call it, addressed to Andrew, a most religious man, deacon and notary of his holy Church, and sent it to the province of Thessaly, ordering me to withdraw from the sacred ministry as not ordained according to the canons; using no proof of the accusations nor canonical summons, he suspended the other bishops of the same province and the clergy of our holy Church from communion with me, and, what is the last straw, he did not even allow me to have food or necessities from the property of the Church: rather, what is usually done to the convicted he is known to have done to me before any examination of judgement took place. Indeed, for those who truly offend, very many mercies have been established by the Churches. These things, then, Andrew, the religious man I mentioned above, was ordered to carry out against me. And so that he might produce me in person to answer to the judgement of him who had suspended me from communion, he was ordered at the same time to produce Eustathius, bishop of the city of Gomphi, and Elpidius of Thebes, and also Stephen of Lamia, as if they were the instigators of my unlawful ordination. But Demetrius and Probianus, religious men, who had earlier been a great part of my election and ordination, he who was driving me to trial kept with him and supported wholly for my ruin. But the aforesaid religious man Andrew did not find me there, since I had set out a little before for the great city of Thessalonica; but having gathered the clergy and as many others as he could find, he read the *commonitorium* to them, and the letter addressed to them. Now the letter written to the clergy by that same most holy man was as follows:",
+   "after": "Not relying on unreasonable confidence, nor ignorant of my own mediocrity, but with a contrite soul and a humble spirit, and with many tears, I offer you this my supplication, and I therefore think it acceptable before you, most blessed father: for formerly also those who supplicated God with tears prayed with confidence, as if with burnt offerings and rams and bulls, and indeed with ten thousand fat lambs: for 'God will not despise a contrite and humbled heart' (Psal. L). So neither will you, most holy father, hold me in contempt, surrounded as I am by many evils and looking only to God and, by paternal custom, to your piety. Since no ecclesiastical order can surpass that power of yours which was conferred on you by the Saviour of all and first shepherd, nothing is small or lowly to which your providence looks. The more you surpass all before God, the more you must reflect that this is the proof of those who love God, as Peter, after God the father and leader of the holy Church, testifies to you and to the whole world. For when the Lord said for the third time: 'Do you love me? Feed my sheep' (John XXI), he handed over the commands, showing [them] first to you, and then through you bestowed them on all the holy Churches throughout the whole world. Finally, it is for this reason that those who were made venerable before you, all who were found worthy to hold that holy see, while living in body in the glorious city of Rome, yet in spirit adorned all that was duly done and passed beyond [it]; and very many members of the body of the Church have been set free from the violence of slandering enemies by God and the venerable apostolic see. Hence I beseech you: judge the humble, and do justice to the poor, as it is written (Psal. LXXXI). For in secular life I formerly held a provincial rank in the service, and I passed my life humbly and modestly, as it was. But when Proclus of blessed memory, who had been made bishop of the Church of Larissa, went to his rest, and a prelate had to be ordained for that Church, a decree was made jointly by the clergy as well as the people, the metropolitan, and those whose assent was necessary for the act; and, according to ancient custom, three were chosen: Alexander, a priest of Sciathos, and ..., a priest, and my lowly self; and having obtained the better testimony I won the palm of election. But I, knowing myself, judged myself unworthy of so great a task; yet I gladly assented to it all by the grace and clemency of God, looking to the thief and the publican and very many other examples of this kind, whom God suddenly snatched from extreme evils and, as one must say, from the very depth of evils; by these I was encouraged, and a certain hope of a good purpose was given me. So all of them conferred the election on me in God, subscribing together to the decree. And since according to ancient custom the ordination had to take place not elsewhere but in the same city, the holy synod of the province assembled, together with the landowners of the whole city and the whole body of the Church, and with the common testimony of all, nothing departing from custom, I was ordained bishop in the church. For Probianus, beloved of God, bishop of the city of Demetrias, showed such eagerness in this matter, and so embraced what had been done, that he even took it upon himself to deliver praise in the Church of God on the person of my humble self. And so that, without my saying anything about myself, it may be understood from those who wanted and elected me that this ordination came about according to God. Therefore I beseech you, most blessed father, to deign to hear these things gently; for I do not put them forward out of love for the praise of my own lips, as it is written, since he who glories in himself cannot be approved before God, but so that, once you know these things, the calumny raised against me may plainly appear to you. How much the bishops of the province and the clergy of the holy Church then said, showing that they rejoiced at my election, I have judged superfluous for your ears. So while the enemy of all good things was quiet, and God did not look upon my sins, the Church suffered no disturbance, and the charity of all was covering offences, as it is written. But, incited from I know not where, Antonius, a God-fearing priest and steward, and Probianus the defamer, bishop of the city of Demetrias (I mean, most blessed one, that same Probianus who, pushing aside others hastening to speak my praises, himself delivered in the church before God the titles of my praise), persuading Demetrius, beloved of God, bishop of the city of Sciathos, and others alike to be partners in their faction, not ashamed of the subscriptions contained in the decree, nor Probianus of his own praise and the testimony of the whole Church, nor of what they had said or done, how they embraced my ordination, how my person had been pleasing to them even before the ordination, how they gladly accepted the ordination once performed, suddenly set out for the imperial city, and, composing a certain accusation, laid complaints before the most holy archbishop of that same city, Epiphanius, saying that my ordination did not at all accord with the holy canons, hoping that another bishop might be substituted in my place. As I begin to speak of these things, distress certainly holds me back. For if I tell what they have done against me, or the storm that now hangs over my life, or the things they threaten, since they are fiercer, [I fear] that someone may judge me insolent or bold for saying anything about the prelate of so great and so important a Church. But if I keep silent about them, woe is me; for where do I have help? But committing myself to the judgement of our great God and Saviour Jesus Christ, and of your beatitude, and of the piety of the most serene emperor, I could not keep silent. So when the accusation against me had reached the most holy archbishop Epiphanius (again and again I ask pardon for what I am about to say; judge it, most holy fathers, to be not of insolence or boldness but of necessity), he made a *commonitorium* [an instruction], as they call it, addressed to Andrew, a most religious man, deacon and notary of his holy Church, and sent it to the province of Thessaly, ordering me to withdraw from the sacred ministry as not ordained according to the canons; using no proof of the accusations nor canonical summons, he suspended the other bishops of the same province and the clergy of our holy Church from communion with me, and, what is the last straw, he did not even allow me to have food or necessities from the property of the Church: rather, what is usually done to the convicted he is known to have done to me before any examination of judgement took place. Indeed, for those who truly offend, very many mercies have been established by the Churches. These things, then, Andrew, the religious man I mentioned above, was ordered to carry out against me. And so that he might produce me in person to answer to the judgement of him who had suspended me from communion, he was ordered at the same time to produce Eustathius, bishop of the city of Gomphi, and Elpidius of Thebes, and also Stephen of Lamia, as if they were the instigators of my unlawful ordination. But Demetrius and Probianus, religious men, who had earlier been a great part of my election and ordination, he who was driving me to trial kept with him and supported wholly for my ruin. But the aforesaid religious man Andrew did not find me there, since I had set out a little before for the great city of Thessalonica; but having gathered the clergy and as many others as he could find, he read the *commonitorium* to them, and the letter addressed to them. Now the letter written to the clergy by that same most holy man was as follows:",
+   "reason": "Demetrium is accusative, like alios, and both are objects of suadentes: Demetrius was one of those persuaded, not one of the persuaders."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "ver.tati quoque tandem aliquando dura colla summitte, qu per nebulas ct perstigia ex .Egypto, de incognitis provinciarum spatiis et longa intercapidine terrarum quasi venientem tibi nunlins paschae diem sacratissimum",
+    "english": "Submit your hard necks at last to the truth, which, through mists and illusions, as though coming to you from Egypt, from unknown stretches of provinces and long distances of lands, [comes as] a messenger of the most holy day of Easter",
+    "explain": "[2] The addressee announces an Easter date supposedly coming from Egypt; truth is not the arriving messenger.",
+    "upheld_as": "major"
+   },
+   "work": "De Computo Paschali",
+   "author": "Anonymus",
+   "source_edition": "tmp974.tmp974.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp974.tmp974.opp-lat1.5",
+   "before": "Let us return, then, to that sum in what was said above concerning that year [...], by which you learned that in the first year of the passover celebrated in Egypt the second moon fell on the Kalends of January. If you are willing to attend to it, you will remove this same day most fully. For the aforesaid sum contains 766,625 days. From these deduct 365 days, namely those of the last year of the cycles, so that it may appear that this day too, born of the septenary number from the increase of twelfths, was excluded through this sum. Learn also that the twenty-first moon of the eighty-fourth year is fully bare, without twelfths. And when you restore the aforesaid days to the sum above and divide it, you will find the second moon, which you know was marked on the Kalends of January at the head of the second cycle by the hand of the one who spoke. With these 365 days deducted, then, 766,260 days remain. Divide these by sixty and you will have 12,771; add this to the aforesaid sum, and there will be 779,301 days. Divide these by thirty and you will find 25,967, with 21 days over. These are the twenty-first moon of the eighty-fourth year. When the aforesaid 365 days are restored to that sum above, there will be 766,625 days, as above. Divide these by sixty and you will find 12,777, a twelfth; add this to the aforesaid sum, and you have 709,400 days, a dupondius, a twelfth. Divide these by thirty and you will have 25,980, with a dupondius and a twelfth over, just as the moon is headed at the head of the second cycle; and you will be brought to that same day which we have very often said must be removed at the end of the cycles. Whoever you are, then, wounded by the guile of madness or ignorant of this reckoning, recognise through what high and deep sum of division (or rather, to speak more truly, through what clear demonstration) this day was excluded from the septenary number. If you have been unable to remove a whole [day] in your reckoning, you are found a novice on both counts. Stop, I beg, stop now pressing wretched peoples into error through deceit with your little subversions. Submit your hard necks at last to the truth, which, through mists and illusions, as though coming to you from Egypt, from unknown stretches of provinces and long distances of lands, [comes as] a messenger of the most holy day of Easter, to be celebrated out of season and very often in vain. For when you glue the lunar course of these cycles into the sense of your heart, then you will find a true foundation from the first year of the passover sacrificed in Egypt, which you know to be quite consistent with both the true lunar lattices and the Easter headings. You already know from what was said above that the second moon was found and held at the head of the cycles on the Kalends of January. From those Kalends you will reckon to the day before the same Kalends of January of the following year, and there will be 365 days. To these add the second moon, which fell on those same Kalends, as he said [...], and they make 367 days. Divide these by sixty and you will find six days, a twelfth, two *selae*; add this to the aforesaid sum, and you have 373 days, a twelfth, two *selae*. Divide these by thirty and you will find twelve; there is over thirteen, a twelfth, two *selae*. You must reckon in the same way in the following year, which is called third in order. Twice 365 make 730 days. Put in, as above, the second moon of the first year, and you will have 732 days. Divide these by sixty and you will find twelve; two *selae* remain. Add this to the aforesaid sum and there will be 744 days; two *selae* remain. Divide these by thirty and you will find twenty-four days, with twenty-four over; two *selae* remain. In this way you will reckon each single year up to the eighty-third year; the eighty-fourth you recognise as noted at the end of the cycles. So you will be seen to put in eleven days and a twelfth in each of these years, and you will be known not to have erred at all in the windings of the lattices or in the lunar headings. For our Lord Christ, obeying his Father's command, so brought forth the kindly star of this moon that [...] it might thin the clouds of the darkness of night [...]. Borne on a clear course, free from errors [...], with secret causes at work, it now withdraws when full, to be filled again, and with its revolving courses is bounded once more. These, then, are the beginnings of the moon and its duties, divinely established in perpetual service; these were made foreknowing in signs and in seasons and in days and in years. Through this chaste and pure fabric, and as a foreshadowing of his majesty, the Lord signified with respect to the church that it is very often thinned by various misfortunes and is always diminished in the lapsed, yet, supported by the brightness of its splendour, it grows in the saints. To say it specifically: the church itself speaks thus of itself: 'I am dark,' it says, 'and comely, O daughters of Jerusalem.' And the Lord answered through the Prophet with a sonorous voice, saying: 'You are all beautiful as the sun, and perfect as the moon.' And again: 'Once I have sworn by my holy one, if I lie to David, his seed shall remain for ever, and his throne as the sun in my sight, and as the moon perfect for ever.' This whole mystery remains for the church in Christ and belongs to it. For we most attentively represent the most perfect course of the same moon, so that you may know it to be wholly bounded, in a way, within its lattices on each single day. From the Kalends of January, I say, you will reckon to the day before the day on which you are seeking the moon's age. But perhaps you say: why [reckon] to the day before and indicate the moon's age on the following day? Because you gather the sum from the Kalends of January and put in on top the age the moon had on them. Could you in any way count one day, split in two or doubled, as a single one in the number? So divide these by sixty, and put the result of your division above the number of days. Divide these likewise by thirty, and on any day, as I said, you will most skilfully mark what age the moon will be, [...] through each single day and year. It is true that the birthday of every Easter is generated only by the new day of the first month. But that this first month is commonly said by all to run from the third day before the Nones of March to the fourth day before the Nones of April, let it be shown by sure and ordered reasoning, so that the birth of Easter may be uncovered within these twenty-nine days and shown more clearly through the first annual cycle by true proofs. For from the making of the sun and moon, which took its beginning on the fifth day before the Kalends of April, we reckon that 340 free days ran to the coming fifth day before the Nones of March. To these days we add the fifteenth moon, the fullness in which the moon had been set by the Lord at evening on that same fifth day before the Kalends of April, and they make 355 days. Divide these by sixty, and you have five, eleven-twelfths;",
+   "after": "Let us return, then, to that sum in what was said above concerning that year [...], by which you learned that in the first year of the passover celebrated in Egypt the second moon fell on the Kalends of January. If you are willing to attend to it, you will remove this same day most fully. For the aforesaid sum contains 766,625 days. From these deduct 365 days, namely those of the last year of the cycles, so that it may appear that this day too, born of the septenary number from the increase of twelfths, was excluded through this sum. Learn also that the twenty-first moon of the eighty-fourth year is fully bare, without twelfths. And when you restore the aforesaid days to the sum above and divide it, you will find the second moon, which you know was marked on the Kalends of January at the head of the second cycle by the hand of the one who spoke. With these 365 days deducted, then, 766,260 days remain. Divide these by sixty and you will have 12,771; add this to the aforesaid sum, and there will be 779,301 days. Divide these by thirty and you will find 25,967, with 21 days over. These are the twenty-first moon of the eighty-fourth year. When the aforesaid 365 days are restored to that sum above, there will be 766,625 days, as above. Divide these by sixty and you will find 12,777, a twelfth; add this to the aforesaid sum, and you have 709,400 days, a dupondius, a twelfth. Divide these by thirty and you will have 25,980, with a dupondius and a twelfth over, just as the moon is headed at the head of the second cycle; and you will be brought to that same day which we have very often said must be removed at the end of the cycles. Whoever you are, then, wounded by the guile of madness or ignorant of this reckoning, recognise through what high and deep sum of division (or rather, to speak more truly, through what clear demonstration) this day was excluded from the septenary number. If you have been unable to remove a whole [day] in your reckoning, you are found a novice on both counts. Stop, I beg, stop now pressing wretched peoples into error through deceit with your little subversions. Submit your hard necks at last to the truth, you who, through mists and illusions, [come as] a messenger of the most holy day of Easter, as though it came to you from Egypt, from unknown stretches of provinces and long distances of lands, to be celebrated out of season and very often in vain. For when you glue the lunar course of these cycles into the sense of your heart, then you will find a true foundation from the first year of the passover sacrificed in Egypt, which you know to be quite consistent with both the true lunar lattices and the Easter headings. You already know from what was said above that the second moon was found and held at the head of the cycles on the Kalends of January. From those Kalends you will reckon to the day before the same Kalends of January of the following year, and there will be 365 days. To these add the second moon, which fell on those same Kalends, as he said [...], and they make 367 days. Divide these by sixty and you will find six days, a twelfth, two *selae*; add this to the aforesaid sum, and you have 373 days, a twelfth, two *selae*. Divide these by thirty and you will find twelve; there is over thirteen, a twelfth, two *selae*. You must reckon in the same way in the following year, which is called third in order. Twice 365 make 730 days. Put in, as above, the second moon of the first year, and you will have 732 days. Divide these by sixty and you will find twelve; two *selae* remain. Add this to the aforesaid sum and there will be 744 days; two *selae* remain. Divide these by thirty and you will find twenty-four days, with twenty-four over; two *selae* remain. In this way you will reckon each single year up to the eighty-third year; the eighty-fourth you recognise as noted at the end of the cycles. So you will be seen to put in eleven days and a twelfth in each of these years, and you will be known not to have erred at all in the windings of the lattices or in the lunar headings. For our Lord Christ, obeying his Father's command, so brought forth the kindly star of this moon that [...] it might thin the clouds of the darkness of night [...]. Borne on a clear course, free from errors [...], with secret causes at work, it now withdraws when full, to be filled again, and with its revolving courses is bounded once more. These, then, are the beginnings of the moon and its duties, divinely established in perpetual service; these were made foreknowing in signs and in seasons and in days and in years. Through this chaste and pure fabric, and as a foreshadowing of his majesty, the Lord signified with respect to the church that it is very often thinned by various misfortunes and is always diminished in the lapsed, yet, supported by the brightness of its splendour, it grows in the saints. To say it specifically: the church itself speaks thus of itself: 'I am dark,' it says, 'and comely, O daughters of Jerusalem.' And the Lord answered through the Prophet with a sonorous voice, saying: 'You are all beautiful as the sun, and perfect as the moon.' And again: 'Once I have sworn by my holy one, if I lie to David, his seed shall remain for ever, and his throne as the sun in my sight, and as the moon perfect for ever.' This whole mystery remains for the church in Christ and belongs to it. For we most attentively represent the most perfect course of the same moon, so that you may know it to be wholly bounded, in a way, within its lattices on each single day. From the Kalends of January, I say, you will reckon to the day before the day on which you are seeking the moon's age. But perhaps you say: why [reckon] to the day before and indicate the moon's age on the following day? Because you gather the sum from the Kalends of January and put in on top the age the moon had on them. Could you in any way count one day, split in two or doubled, as a single one in the number? So divide these by sixty, and put the result of your division above the number of days. Divide these likewise by thirty, and on any day, as I said, you will most skilfully mark what age the moon will be, [...] through each single day and year. It is true that the birthday of every Easter is generated only by the new day of the first month. But that this first month is commonly said by all to run from the third day before the Nones of March to the fourth day before the Nones of April, let it be shown by sure and ordered reasoning, so that the birth of Easter may be uncovered within these twenty-nine days and shown more clearly through the first annual cycle by true proofs. For from the making of the sun and moon, which took its beginning on the fifth day before the Kalends of April, we reckon that 340 free days ran to the coming fifth day before the Nones of March. To these days we add the fifteenth moon, the fullness in which the moon had been set by the Lord at evening on that same fifth day before the Kalends of April, and they make 355 days. Divide these by sixty, and you have five, eleven-twelfths;",
+   "reason": "Qu[i] is the addressee, and nuntius is nominative with it, while venientem agrees with diem: the opponent brings word of an Easter supposedly from Egypt. The English made the truth the messenger."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "grammar",
+    "original": "et Dominus per Prophetam voci sonorae respondit",
+    "english": "And the Lord answered through the Prophet with a sonorous voice",
+    "explain": "[2] Voci is dative: the Lord answers the Church's ringing voice, rather than answering with such a voice.",
+    "upheld_as": "minor"
+   },
+   "work": "De Computo Paschali",
+   "author": "Anonymus",
+   "source_edition": "tmp974.tmp974.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp974.tmp974.opp-lat1.5",
+   "before": "Let us return, then, to that sum in what was said above concerning that year [...], by which you learned that in the first year of the passover celebrated in Egypt the second moon fell on the Kalends of January. If you are willing to attend to it, you will remove this same day most fully. For the aforesaid sum contains 766,625 days. From these deduct 365 days, namely those of the last year of the cycles, so that it may appear that this day too, born of the septenary number from the increase of twelfths, was excluded through this sum. Learn also that the twenty-first moon of the eighty-fourth year is fully bare, without twelfths. And when you restore the aforesaid days to the sum above and divide it, you will find the second moon, which you know was marked on the Kalends of January at the head of the second cycle by the hand of the one who spoke. With these 365 days deducted, then, 766,260 days remain. Divide these by sixty and you will have 12,771; add this to the aforesaid sum, and there will be 779,301 days. Divide these by thirty and you will find 25,967, with 21 days over. These are the twenty-first moon of the eighty-fourth year. When the aforesaid 365 days are restored to that sum above, there will be 766,625 days, as above. Divide these by sixty and you will find 12,777, a twelfth; add this to the aforesaid sum, and you have 709,400 days, a dupondius, a twelfth. Divide these by thirty and you will have 25,980, with a dupondius and a twelfth over, just as the moon is headed at the head of the second cycle; and you will be brought to that same day which we have very often said must be removed at the end of the cycles. Whoever you are, then, wounded by the guile of madness or ignorant of this reckoning, recognise through what high and deep sum of division (or rather, to speak more truly, through what clear demonstration) this day was excluded from the septenary number. If you have been unable to remove a whole [day] in your reckoning, you are found a novice on both counts. Stop, I beg, stop now pressing wretched peoples into error through deceit with your little subversions. Submit your hard necks at last to the truth, which, through mists and illusions, as though coming to you from Egypt, from unknown stretches of provinces and long distances of lands, [comes as] a messenger of the most holy day of Easter, to be celebrated out of season and very often in vain. For when you glue the lunar course of these cycles into the sense of your heart, then you will find a true foundation from the first year of the passover sacrificed in Egypt, which you know to be quite consistent with both the true lunar lattices and the Easter headings. You already know from what was said above that the second moon was found and held at the head of the cycles on the Kalends of January. From those Kalends you will reckon to the day before the same Kalends of January of the following year, and there will be 365 days. To these add the second moon, which fell on those same Kalends, as he said [...], and they make 367 days. Divide these by sixty and you will find six days, a twelfth, two *selae*; add this to the aforesaid sum, and you have 373 days, a twelfth, two *selae*. Divide these by thirty and you will find twelve; there is over thirteen, a twelfth, two *selae*. You must reckon in the same way in the following year, which is called third in order. Twice 365 make 730 days. Put in, as above, the second moon of the first year, and you will have 732 days. Divide these by sixty and you will find twelve; two *selae* remain. Add this to the aforesaid sum and there will be 744 days; two *selae* remain. Divide these by thirty and you will find twenty-four days, with twenty-four over; two *selae* remain. In this way you will reckon each single year up to the eighty-third year; the eighty-fourth you recognise as noted at the end of the cycles. So you will be seen to put in eleven days and a twelfth in each of these years, and you will be known not to have erred at all in the windings of the lattices or in the lunar headings. For our Lord Christ, obeying his Father's command, so brought forth the kindly star of this moon that [...] it might thin the clouds of the darkness of night [...]. Borne on a clear course, free from errors [...], with secret causes at work, it now withdraws when full, to be filled again, and with its revolving courses is bounded once more. These, then, are the beginnings of the moon and its duties, divinely established in perpetual service; these were made foreknowing in signs and in seasons and in days and in years. Through this chaste and pure fabric, and as a foreshadowing of his majesty, the Lord signified with respect to the church that it is very often thinned by various misfortunes and is always diminished in the lapsed, yet, supported by the brightness of its splendour, it grows in the saints. To say it specifically: the church itself speaks thus of itself: 'I am dark,' it says, 'and comely, O daughters of Jerusalem.' And the Lord answered through the Prophet with a sonorous voice, saying: 'You are all beautiful as the sun, and perfect as the moon.' And again: 'Once I have sworn by my holy one, if I lie to David, his seed shall remain for ever, and his throne as the sun in my sight, and as the moon perfect for ever.' This whole mystery remains for the church in Christ and belongs to it. For we most attentively represent the most perfect course of the same moon, so that you may know it to be wholly bounded, in a way, within its lattices on each single day. From the Kalends of January, I say, you will reckon to the day before the day on which you are seeking the moon's age. But perhaps you say: why [reckon] to the day before and indicate the moon's age on the following day? Because you gather the sum from the Kalends of January and put in on top the age the moon had on them. Could you in any way count one day, split in two or doubled, as a single one in the number? So divide these by sixty, and put the result of your division above the number of days. Divide these likewise by thirty, and on any day, as I said, you will most skilfully mark what age the moon will be, [...] through each single day and year. It is true that the birthday of every Easter is generated only by the new day of the first month. But that this first month is commonly said by all to run from the third day before the Nones of March to the fourth day before the Nones of April, let it be shown by sure and ordered reasoning, so that the birth of Easter may be uncovered within these twenty-nine days and shown more clearly through the first annual cycle by true proofs. For from the making of the sun and moon, which took its beginning on the fifth day before the Kalends of April, we reckon that 340 free days ran to the coming fifth day before the Nones of March. To these days we add the fifteenth moon, the fullness in which the moon had been set by the Lord at evening on that same fifth day before the Kalends of April, and they make 355 days. Divide these by sixty, and you have five, eleven-twelfths;",
+   "after": "Let us return, then, to that sum in what was said above concerning that year [...], by which you learned that in the first year of the passover celebrated in Egypt the second moon fell on the Kalends of January. If you are willing to attend to it, you will remove this same day most fully. For the aforesaid sum contains 766,625 days. From these deduct 365 days, namely those of the last year of the cycles, so that it may appear that this day too, born of the septenary number from the increase of twelfths, was excluded through this sum. Learn also that the twenty-first moon of the eighty-fourth year is fully bare, without twelfths. And when you restore the aforesaid days to the sum above and divide it, you will find the second moon, which you know was marked on the Kalends of January at the head of the second cycle by the hand of the one who spoke. With these 365 days deducted, then, 766,260 days remain. Divide these by sixty and you will have 12,771; add this to the aforesaid sum, and there will be 779,301 days. Divide these by thirty and you will find 25,967, with 21 days over. These are the twenty-first moon of the eighty-fourth year. When the aforesaid 365 days are restored to that sum above, there will be 766,625 days, as above. Divide these by sixty and you will find 12,777, a twelfth; add this to the aforesaid sum, and you have 709,400 days, a dupondius, a twelfth. Divide these by thirty and you will have 25,980, with a dupondius and a twelfth over, just as the moon is headed at the head of the second cycle; and you will be brought to that same day which we have very often said must be removed at the end of the cycles. Whoever you are, then, wounded by the guile of madness or ignorant of this reckoning, recognise through what high and deep sum of division (or rather, to speak more truly, through what clear demonstration) this day was excluded from the septenary number. If you have been unable to remove a whole [day] in your reckoning, you are found a novice on both counts. Stop, I beg, stop now pressing wretched peoples into error through deceit with your little subversions. Submit your hard necks at last to the truth, which, through mists and illusions, as though coming to you from Egypt, from unknown stretches of provinces and long distances of lands, [comes as] a messenger of the most holy day of Easter, to be celebrated out of season and very often in vain. For when you glue the lunar course of these cycles into the sense of your heart, then you will find a true foundation from the first year of the passover sacrificed in Egypt, which you know to be quite consistent with both the true lunar lattices and the Easter headings. You already know from what was said above that the second moon was found and held at the head of the cycles on the Kalends of January. From those Kalends you will reckon to the day before the same Kalends of January of the following year, and there will be 365 days. To these add the second moon, which fell on those same Kalends, as he said [...], and they make 367 days. Divide these by sixty and you will find six days, a twelfth, two *selae*; add this to the aforesaid sum, and you have 373 days, a twelfth, two *selae*. Divide these by thirty and you will find twelve; there is over thirteen, a twelfth, two *selae*. You must reckon in the same way in the following year, which is called third in order. Twice 365 make 730 days. Put in, as above, the second moon of the first year, and you will have 732 days. Divide these by sixty and you will find twelve; two *selae* remain. Add this to the aforesaid sum and there will be 744 days; two *selae* remain. Divide these by thirty and you will find twenty-four days, with twenty-four over; two *selae* remain. In this way you will reckon each single year up to the eighty-third year; the eighty-fourth you recognise as noted at the end of the cycles. So you will be seen to put in eleven days and a twelfth in each of these years, and you will be known not to have erred at all in the windings of the lattices or in the lunar headings. For our Lord Christ, obeying his Father's command, so brought forth the kindly star of this moon that [...] it might thin the clouds of the darkness of night [...]. Borne on a clear course, free from errors [...], with secret causes at work, it now withdraws when full, to be filled again, and with its revolving courses is bounded once more. These, then, are the beginnings of the moon and its duties, divinely established in perpetual service; these were made foreknowing in signs and in seasons and in days and in years. Through this chaste and pure fabric, and as a foreshadowing of his majesty, the Lord signified with respect to the church that it is very often thinned by various misfortunes and is always diminished in the lapsed, yet, supported by the brightness of its splendour, it grows in the saints. To say it specifically: the church itself speaks thus of itself: 'I am dark,' it says, 'and comely, O daughters of Jerusalem.' And the Lord answered that ringing voice through the Prophet, saying: 'You are all beautiful as the sun, and perfect as the moon.' And again: 'Once I have sworn by my holy one, if I lie to David, his seed shall remain for ever, and his throne as the sun in my sight, and as the moon perfect for ever.' This whole mystery remains for the church in Christ and belongs to it. For we most attentively represent the most perfect course of the same moon, so that you may know it to be wholly bounded, in a way, within its lattices on each single day. From the Kalends of January, I say, you will reckon to the day before the day on which you are seeking the moon's age. But perhaps you say: why [reckon] to the day before and indicate the moon's age on the following day? Because you gather the sum from the Kalends of January and put in on top the age the moon had on them. Could you in any way count one day, split in two or doubled, as a single one in the number? So divide these by sixty, and put the result of your division above the number of days. Divide these likewise by thirty, and on any day, as I said, you will most skilfully mark what age the moon will be, [...] through each single day and year. It is true that the birthday of every Easter is generated only by the new day of the first month. But that this first month is commonly said by all to run from the third day before the Nones of March to the fourth day before the Nones of April, let it be shown by sure and ordered reasoning, so that the birth of Easter may be uncovered within these twenty-nine days and shown more clearly through the first annual cycle by true proofs. For from the making of the sun and moon, which took its beginning on the fifth day before the Kalends of April, we reckon that 340 free days ran to the coming fifth day before the Nones of March. To these days we add the fifteenth moon, the fullness in which the moon had been set by the Lord at evening on that same fifth day before the Kalends of April, and they make 355 days. Divide these by sixty, and you have five, eleven-twelfths;",
+   "reason": "Voci is dative: the Lord answers the church's ringing voice."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "semel juravi in sancto meo si David mentiar",
+    "english": "Once I have sworn by my holy one, if I lie to David",
+    "explain": "[2] Si introduces a negative oath: 'I will not lie to David'; it does not make the following promise conditional on lying.",
+    "upheld_as": "major"
+   },
+   "work": "De Computo Paschali",
+   "author": "Anonymus",
+   "source_edition": "tmp974.tmp974.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp974.tmp974.opp-lat1.5",
+   "before": "Let us return, then, to that sum in what was said above concerning that year [...], by which you learned that in the first year of the passover celebrated in Egypt the second moon fell on the Kalends of January. If you are willing to attend to it, you will remove this same day most fully. For the aforesaid sum contains 766,625 days. From these deduct 365 days, namely those of the last year of the cycles, so that it may appear that this day too, born of the septenary number from the increase of twelfths, was excluded through this sum. Learn also that the twenty-first moon of the eighty-fourth year is fully bare, without twelfths. And when you restore the aforesaid days to the sum above and divide it, you will find the second moon, which you know was marked on the Kalends of January at the head of the second cycle by the hand of the one who spoke. With these 365 days deducted, then, 766,260 days remain. Divide these by sixty and you will have 12,771; add this to the aforesaid sum, and there will be 779,301 days. Divide these by thirty and you will find 25,967, with 21 days over. These are the twenty-first moon of the eighty-fourth year. When the aforesaid 365 days are restored to that sum above, there will be 766,625 days, as above. Divide these by sixty and you will find 12,777, a twelfth; add this to the aforesaid sum, and you have 709,400 days, a dupondius, a twelfth. Divide these by thirty and you will have 25,980, with a dupondius and a twelfth over, just as the moon is headed at the head of the second cycle; and you will be brought to that same day which we have very often said must be removed at the end of the cycles. Whoever you are, then, wounded by the guile of madness or ignorant of this reckoning, recognise through what high and deep sum of division (or rather, to speak more truly, through what clear demonstration) this day was excluded from the septenary number. If you have been unable to remove a whole [day] in your reckoning, you are found a novice on both counts. Stop, I beg, stop now pressing wretched peoples into error through deceit with your little subversions. Submit your hard necks at last to the truth, which, through mists and illusions, as though coming to you from Egypt, from unknown stretches of provinces and long distances of lands, [comes as] a messenger of the most holy day of Easter, to be celebrated out of season and very often in vain. For when you glue the lunar course of these cycles into the sense of your heart, then you will find a true foundation from the first year of the passover sacrificed in Egypt, which you know to be quite consistent with both the true lunar lattices and the Easter headings. You already know from what was said above that the second moon was found and held at the head of the cycles on the Kalends of January. From those Kalends you will reckon to the day before the same Kalends of January of the following year, and there will be 365 days. To these add the second moon, which fell on those same Kalends, as he said [...], and they make 367 days. Divide these by sixty and you will find six days, a twelfth, two *selae*; add this to the aforesaid sum, and you have 373 days, a twelfth, two *selae*. Divide these by thirty and you will find twelve; there is over thirteen, a twelfth, two *selae*. You must reckon in the same way in the following year, which is called third in order. Twice 365 make 730 days. Put in, as above, the second moon of the first year, and you will have 732 days. Divide these by sixty and you will find twelve; two *selae* remain. Add this to the aforesaid sum and there will be 744 days; two *selae* remain. Divide these by thirty and you will find twenty-four days, with twenty-four over; two *selae* remain. In this way you will reckon each single year up to the eighty-third year; the eighty-fourth you recognise as noted at the end of the cycles. So you will be seen to put in eleven days and a twelfth in each of these years, and you will be known not to have erred at all in the windings of the lattices or in the lunar headings. For our Lord Christ, obeying his Father's command, so brought forth the kindly star of this moon that [...] it might thin the clouds of the darkness of night [...]. Borne on a clear course, free from errors [...], with secret causes at work, it now withdraws when full, to be filled again, and with its revolving courses is bounded once more. These, then, are the beginnings of the moon and its duties, divinely established in perpetual service; these were made foreknowing in signs and in seasons and in days and in years. Through this chaste and pure fabric, and as a foreshadowing of his majesty, the Lord signified with respect to the church that it is very often thinned by various misfortunes and is always diminished in the lapsed, yet, supported by the brightness of its splendour, it grows in the saints. To say it specifically: the church itself speaks thus of itself: 'I am dark,' it says, 'and comely, O daughters of Jerusalem.' And the Lord answered through the Prophet with a sonorous voice, saying: 'You are all beautiful as the sun, and perfect as the moon.' And again: 'Once I have sworn by my holy one, if I lie to David, his seed shall remain for ever, and his throne as the sun in my sight, and as the moon perfect for ever.' This whole mystery remains for the church in Christ and belongs to it. For we most attentively represent the most perfect course of the same moon, so that you may know it to be wholly bounded, in a way, within its lattices on each single day. From the Kalends of January, I say, you will reckon to the day before the day on which you are seeking the moon's age. But perhaps you say: why [reckon] to the day before and indicate the moon's age on the following day? Because you gather the sum from the Kalends of January and put in on top the age the moon had on them. Could you in any way count one day, split in two or doubled, as a single one in the number? So divide these by sixty, and put the result of your division above the number of days. Divide these likewise by thirty, and on any day, as I said, you will most skilfully mark what age the moon will be, [...] through each single day and year. It is true that the birthday of every Easter is generated only by the new day of the first month. But that this first month is commonly said by all to run from the third day before the Nones of March to the fourth day before the Nones of April, let it be shown by sure and ordered reasoning, so that the birth of Easter may be uncovered within these twenty-nine days and shown more clearly through the first annual cycle by true proofs. For from the making of the sun and moon, which took its beginning on the fifth day before the Kalends of April, we reckon that 340 free days ran to the coming fifth day before the Nones of March. To these days we add the fifteenth moon, the fullness in which the moon had been set by the Lord at evening on that same fifth day before the Kalends of April, and they make 355 days. Divide these by sixty, and you have five, eleven-twelfths;",
+   "after": "Let us return, then, to that sum in what was said above concerning that year [...], by which you learned that in the first year of the passover celebrated in Egypt the second moon fell on the Kalends of January. If you are willing to attend to it, you will remove this same day most fully. For the aforesaid sum contains 766,625 days. From these deduct 365 days, namely those of the last year of the cycles, so that it may appear that this day too, born of the septenary number from the increase of twelfths, was excluded through this sum. Learn also that the twenty-first moon of the eighty-fourth year is fully bare, without twelfths. And when you restore the aforesaid days to the sum above and divide it, you will find the second moon, which you know was marked on the Kalends of January at the head of the second cycle by the hand of the one who spoke. With these 365 days deducted, then, 766,260 days remain. Divide these by sixty and you will have 12,771; add this to the aforesaid sum, and there will be 779,301 days. Divide these by thirty and you will find 25,967, with 21 days over. These are the twenty-first moon of the eighty-fourth year. When the aforesaid 365 days are restored to that sum above, there will be 766,625 days, as above. Divide these by sixty and you will find 12,777, a twelfth; add this to the aforesaid sum, and you have 709,400 days, a dupondius, a twelfth. Divide these by thirty and you will have 25,980, with a dupondius and a twelfth over, just as the moon is headed at the head of the second cycle; and you will be brought to that same day which we have very often said must be removed at the end of the cycles. Whoever you are, then, wounded by the guile of madness or ignorant of this reckoning, recognise through what high and deep sum of division (or rather, to speak more truly, through what clear demonstration) this day was excluded from the septenary number. If you have been unable to remove a whole [day] in your reckoning, you are found a novice on both counts. Stop, I beg, stop now pressing wretched peoples into error through deceit with your little subversions. Submit your hard necks at last to the truth, which, through mists and illusions, as though coming to you from Egypt, from unknown stretches of provinces and long distances of lands, [comes as] a messenger of the most holy day of Easter, to be celebrated out of season and very often in vain. For when you glue the lunar course of these cycles into the sense of your heart, then you will find a true foundation from the first year of the passover sacrificed in Egypt, which you know to be quite consistent with both the true lunar lattices and the Easter headings. You already know from what was said above that the second moon was found and held at the head of the cycles on the Kalends of January. From those Kalends you will reckon to the day before the same Kalends of January of the following year, and there will be 365 days. To these add the second moon, which fell on those same Kalends, as he said [...], and they make 367 days. Divide these by sixty and you will find six days, a twelfth, two *selae*; add this to the aforesaid sum, and you have 373 days, a twelfth, two *selae*. Divide these by thirty and you will find twelve; there is over thirteen, a twelfth, two *selae*. You must reckon in the same way in the following year, which is called third in order. Twice 365 make 730 days. Put in, as above, the second moon of the first year, and you will have 732 days. Divide these by sixty and you will find twelve; two *selae* remain. Add this to the aforesaid sum and there will be 744 days; two *selae* remain. Divide these by thirty and you will find twenty-four days, with twenty-four over; two *selae* remain. In this way you will reckon each single year up to the eighty-third year; the eighty-fourth you recognise as noted at the end of the cycles. So you will be seen to put in eleven days and a twelfth in each of these years, and you will be known not to have erred at all in the windings of the lattices or in the lunar headings. For our Lord Christ, obeying his Father's command, so brought forth the kindly star of this moon that [...] it might thin the clouds of the darkness of night [...]. Borne on a clear course, free from errors [...], with secret causes at work, it now withdraws when full, to be filled again, and with its revolving courses is bounded once more. These, then, are the beginnings of the moon and its duties, divinely established in perpetual service; these were made foreknowing in signs and in seasons and in days and in years. Through this chaste and pure fabric, and as a foreshadowing of his majesty, the Lord signified with respect to the church that it is very often thinned by various misfortunes and is always diminished in the lapsed, yet, supported by the brightness of its splendour, it grows in the saints. To say it specifically: the church itself speaks thus of itself: 'I am dark,' it says, 'and comely, O daughters of Jerusalem.' And the Lord answered through the Prophet with a sonorous voice, saying: 'You are all beautiful as the sun, and perfect as the moon.' And again: 'Once I have sworn by my holy one: I will not lie to David; his seed shall remain for ever, and his throne as the sun in my sight, and as the moon perfect for ever.' This whole mystery remains for the church in Christ and belongs to it. For we most attentively represent the most perfect course of the same moon, so that you may know it to be wholly bounded, in a way, within its lattices on each single day. From the Kalends of January, I say, you will reckon to the day before the day on which you are seeking the moon's age. But perhaps you say: why [reckon] to the day before and indicate the moon's age on the following day? Because you gather the sum from the Kalends of January and put in on top the age the moon had on them. Could you in any way count one day, split in two or doubled, as a single one in the number? So divide these by sixty, and put the result of your division above the number of days. Divide these likewise by thirty, and on any day, as I said, you will most skilfully mark what age the moon will be, [...] through each single day and year. It is true that the birthday of every Easter is generated only by the new day of the first month. But that this first month is commonly said by all to run from the third day before the Nones of March to the fourth day before the Nones of April, let it be shown by sure and ordered reasoning, so that the birth of Easter may be uncovered within these twenty-nine days and shown more clearly through the first annual cycle by true proofs. For from the making of the sun and moon, which took its beginning on the fifth day before the Kalends of April, we reckon that 340 free days ran to the coming fifth day before the Nones of March. To these days we add the fifteenth moon, the fullness in which the moon had been set by the Lord at evening on that same fifth day before the Kalends of April, and they make 355 days. Divide these by sixty, and you have five, eleven-twelfths;",
+   "reason": "Si David mentiar is the Hebrew oath form of Psalm 88(89):36, 'I will not lie to David'; as a conditional the English made the promise depend on a lie."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "τῶν Φιλίππου παρ’ ἡμῖν ἀεὶ κεκρατηκότα πρέσβεων",
+    "english": "always got the better of Philip's ambassadors among you",
+    "explain": "[5] 'Among us': the imagined foreign speakers recall Demosthenes defeating Philip's ambassadors in their own cities, not in Athens.",
+    "upheld_as": "minor"
+   },
+   "work": "Declamatio 19",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00519.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00519.opp-grc1.20.1",
+   "before": "If you were to send embassies to them, calling on them [to march] against Philip (for it will come, the right moment for this too will come), do you not think they will all at once say: 'You are a fine lot to talk of friendship with us! You handed over Demosthenes, a sleepless and hard-working orator who always got the better of Philip's ambassadors among you, to your enemies, without fearing the gods, without feeling shame before men, or before the very platform among you from which he delivered those many fine speeches. What then should we expect from you? Shall we fight alongside you, men who do not know how to remember a kindness?'",
+   "after": "If you were to send embassies to them, calling on them [to march] against Philip (for it will come, the right moment for this too will come), do you not think they will all at once say: 'You are a fine lot to talk of friendship with us! You handed over Demosthenes, a sleepless and hard-working orator who always got the better of Philip's ambassadors among us, to your enemies, without fearing the gods, without feeling shame before men, or before the very platform among you from which he delivered those many fine speeches. What then should we expect from you? Shall we fight alongside you, men who do not know how to remember a kindness?'",
+   "reason": "παρ' ἡμῖν is 'among us', the foreign speakers. The slip changes where Demosthenes won, not what is said of him."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "grammar",
+    "original": "τίς ἔσται κατηγορῶν ἀληθῆ;",
+    "english": "who will there be when he accuses [it] truly?",
+    "explain": "[7] Philip remains the subject: 'How formidable will he be when his accusations are true?', not 'Who will there be?'",
+    "upheld_as": "minor"
+   },
+   "work": "Declamatio 19",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00519.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00519.opp-grc1.22.1",
+   "before": "For this reason I am shifting the reproach from you onto myself; or rather, I am freeing you from reproach and winning undying glory for myself by not allowing you to do any wrong. For do not let Philip be able to say this, whether in jest or in earnest, whether to those who come to him or to the Greeks through ambassadors: 'The Athenians handed over their popular leader to me.' I do not want that man to have such words at his disposal. For if even now, by slandering the city, he has won over not a few, who will there be when he accuses [it] truly? Let it be said throughout the inhabited world: 'He gave himself up for the common glory; as Leos [gave] his daughters, as Codrus himself, as once long ago [he gave] the cost of a chorus, so Demosthenes gave his life.'",
+   "after": "For this reason I am shifting the reproach from you onto myself; or rather, I am freeing you from reproach and winning undying glory for myself by not allowing you to do any wrong. For do not let Philip be able to say this, whether in jest or in earnest, whether to those who come to him or to the Greeks through ambassadors: 'The Athenians handed over their popular leader to me.' I do not want that man to have such words at his disposal. For if even now, by slandering the city, he has won over not a few, what will he be when his accusations are true? Let it be said throughout the inhabited world: 'He gave himself up for the common glory; as Leos [gave] his daughters, as Codrus himself, as once long ago [he gave] the cost of a chorus, so Demosthenes gave his life.'",
+   "reason": "Philip stays the subject: τίς ἔσται is 'what will he be'."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "πάλιν αὐτὸ τοῦτο ἄξιόν μοι θανάτου τὸ δεῖν με μακρὰν οὕτως ἀναμεῖναι βουλήν",
+    "english": "then this very thing in turn makes me deserve death: that I should have to wait for so long a deliberation",
+    "explain": "[8] The long wait is itself reason enough for him to choose death; it does not make him deserving of death.",
+    "upheld_as": "minor"
+   },
+   "work": "Declamatio 19",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00519.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00519.opp-grc1.22.2",
+   "before": "23. Very well. If I am handed over by you, men of Athens, so many evils and still more will surround the city; but if, on deliberation, you decide to refuse Philip and to fear what is just more than the defeat that has befallen [us], then this very thing in turn makes me deserve death: that I should have to wait for so long a deliberation. For what do you need these five days for? Tell me. So that you may learn from so-and-so whether this Demosthenes here is useful and deserves to be saved by the Athenians? And why do I live, if after so long a political career I am unknown? It cannot be. I prevent wretched assemblies by a noble death. I will not give grounds for the charge that the people of the Athenians, the quickest of all at finding what is needed, spent five days on matters so obvious.",
+   "after": "23. Very well. If I am handed over by you, men of Athens, so many evils and still more will surround the city; but if, on deliberation, you decide to refuse Philip and to fear what is just more than the defeat that has befallen [us], then this very thing in turn is reason enough for me to die: that I should have to wait for so long a deliberation. For what do you need these five days for? Tell me. So that you may learn from so-and-so whether this Demosthenes here is useful and deserves to be saved by the Athenians? And why do I live, if after so long a political career I am unknown? It cannot be. I prevent wretched assemblies by a noble death. I will not give grounds for the charge that the people of the Athenians, the quickest of all at finding what is needed, spent five days on matters so obvious.",
+   "reason": "ἄξιόν μοι θανάτου here is that the wait makes death worth it to him, as the next sentences show, not that he deserves death."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "τὸ μὲν ἐμὸν μέρος ἐστὲ μὲν ἐπὶ Θρᾴκης [Xαλκίδος] σώζονται δὲ Φωκεῦσιν αἰ πόλεις",
+    "english": "as far as my part goes, the cities in Thrace [Chalcidice] and those of the Phocians are being kept safe",
+    "explain": "[14] Ἐστέ addresses the Athenians: 'so far as depended on me, you would still be in Thrace, and the Phocians' cities would be safe.'",
+    "upheld_as": "minor"
+   },
+   "work": "Declamatio 19",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00519.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00519.opp-grc1.28.2",
+   "before": "29. 'And how,' someone says, 'is it not madness to want to die now, when it is possible to wait for Philip's decision, if indeed he takes [you]? Perhaps he will spare you when he takes you, such great kindness has he shown to many.' Will Philip spare Demosthenes? Will he not kill him? And remembering what? The speeches on behalf of the Olynthians? Which? The first, or the second, or the third? Or rather those on behalf of the Phocians, some of which the people heard, others the law court? By which he knows that, as far as my part goes, the cities in Thrace [Chalcidice] and those of the Phocians are being kept safe; and because of these splendid [speeches] Philip will not put up with being wronged.",
+   "after": "29. 'And how,' someone says, 'is it not madness to want to die now, when it is possible to wait for Philip's decision, if indeed he takes [you]? Perhaps he will spare you when he takes you, such great kindness has he shown to many.' Will Philip spare Demosthenes? Will he not kill him? And remembering what? The speeches on behalf of the Olynthians? Which? The first, or the second, or the third? Or rather those on behalf of the Phocians, some of which the people heard, others the law court? By which he knows that, as far as my part goes, you are [still] in Thrace [Chalcidice] and the cities of the Phocians are kept safe; and because of these splendid [speeches] Philip will not put up with being wronged.",
+   "reason": "ἐστέ is 'you are': the Athenians still hold their place in Thrace. The English kept the gist, that his speeches kept Athens' interests there and the Phocian cities safe."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "veteris videlicet testamenti corripiens mala",
+    "english": "reproving the evils of the old covenant",
+    "explain": "[15] 'Of the Old Testament' identifies the prophetic reading and its order, not the evils: 'the Old Testament reading, rebuking evils and announcing things to come.'",
+    "upheld_as": "minor"
+   },
+   "work": "Expositio Brevis Antiquae Liturgiae Gallicanae",
+   "author": "Germanus Parisiensis Episcopus",
+   "source_edition": "tmp1223.tmp1223.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1223.tmp1223.opp-lat1.1.7",
+   "before": "The prophetic reading keeps its proper order, reproving the evils of the old covenant and announcing things to come, so that we may understand that it is the same God who thundered in prophecy, who also taught in the Apostle and shone forth in the splendour of the Gospel.",
+   "after": "The prophetic reading, that is, of the Old Testament, keeps its proper order, reproving evils and announcing things to come, so that we may understand that it is the same God who thundered in prophecy, who also taught in the Apostle and shone forth in the splendour of the Gospel.",
+   "reason": "Veteris videlicet testamenti explains which reading, the Old Testament's; the evils are not the old covenant's. The prophets' rebuke of evils survived in the English, so the error is minor."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "Ne minores a majoribus accusationibus impetantur.",
+    "english": "That the lesser should not assail the greater with accusations.",
+    "explain": "Line 6 reverses the agents and recipients: the heading says that the lesser should not be assailed with accusations by the greater.",
+    "upheld_as": "major"
+   },
+   "work": "Epistolae [Dubiae]",
+   "author": "SS Felix I",
+   "source_edition": "stoa0121i.stoa002.opp-lat1",
+   "ref": "urn:cts:latinLit:stoa0121i.stoa002.opp-lat1.1.2",
+   "before": "II. — That the lesser should not assail the greater with accusations.",
+   "after": "II. — That the lesser should not be assailed with accusations by the greater.",
+   "reason": "Minores a majoribus impetantur is passive: the lesser are not to be assailed by the greater. The English reversed it."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "dii ciionis tuae scripta",
+    "english": "The letter of your Beloved",
+    "explain": "The damaged text represents dilectionis tuae scripta, an affectionate address to the recipient: 'your affectionate letter,' not a letter from his beloved.",
+    "upheld_as": "minor"
+   },
+   "work": "Epistolae [Dubiae]",
+   "author": "SS Felix I",
+   "source_edition": "stoa0121i.stoa002.opp-lat1",
+   "ref": "urn:cts:latinLit:stoa0121i.stoa002.opp-lat1.1.7",
+   "before": "The letter of your Beloved has made me rejoice greatly (St Leo, Letter 31) and exult in the Lord, for it clearly shows how much you love the catholic faith and how much you detest heretical error. For heresy is exceedingly impious and an enemy of the truth of the Gospel; it seeks not to harm some part, but to tear up the very foundations of the Christian religion. For whomever it seizes for itself it causes to fall not only into this vice but into many other vices; and at the urging of the ancient enemy himself they become persecutors not only of the Church but also of her priests. Let us therefore take care with one mind to correct and pursue such people, and let us strive to free the Church, her faithful and the priests of the Lord from their enemy. Our almighty Redeemer will grant strength to charity and justice (St Gregory, Letter 56, Book 4); he himself will grant us, though placed far from one another, the unity of his Spirit, by whose craftsmanship the Church, like an ark, has been built on the four sides of the world and bound together with a frame of timbers that do not rot and with the pitch of charity, so that it may be disturbed by the hostility of no spirit and by the swell of no wave coming from outside. But just as, under the guidance of his grace, we must ask that no wave coming upon us from outside should throw us into confusion, so we must pray with our whole heart, dearest brother, that the right hand of his providence may drain for us the accumulated bilge-water within. For the devil, our adversary, who rages against the humble, goes about like a roaring lion, seeking whom he may devour (1 Peter 5); he no longer, as we see, [merely] circles the sheepfolds, but fixes his teeth so firmly in certain necessary members of the Church that no one doubts that, unless the whole provident company of shepherds runs together with one accord, the Lord acting, he will very soon tear apart the whole fold (God forbid).",
+   "after": "The letter of Your Love has made me rejoice greatly (St Leo, Letter 31) and exult in the Lord, for it clearly shows how much you love the catholic faith and how much you detest heretical error. For heresy is exceedingly impious and an enemy of the truth of the Gospel; it seeks not to harm some part, but to tear up the very foundations of the Christian religion. For whomever it seizes for itself it causes to fall not only into this vice but into many other vices; and at the urging of the ancient enemy himself they become persecutors not only of the Church but also of her priests. Let us therefore take care with one mind to correct and pursue such people, and let us strive to free the Church, her faithful and the priests of the Lord from their enemy. Our almighty Redeemer will grant strength to charity and justice (St Gregory, Letter 56, Book 4); he himself will grant us, though placed far from one another, the unity of his Spirit, by whose craftsmanship the Church, like an ark, has been built on the four sides of the world and bound together with a frame of timbers that do not rot and with the pitch of charity, so that it may be disturbed by the hostility of no spirit and by the swell of no wave coming from outside. But just as, under the guidance of his grace, we must ask that no wave coming upon us from outside should throw us into confusion, so we must pray with our whole heart, dearest brother, that the right hand of his providence may drain for us the accumulated bilge-water within. For the devil, our adversary, who rages against the humble, goes about like a roaring lion, seeking whom he may devour (1 Peter 5); he no longer, as we see, [merely] circles the sheepfolds, but fixes his teeth so firmly in certain necessary members of the Church that no one doubts that, unless the whole provident company of shepherds runs together with one accord, the Lord acting, he will very soon tear apart the whole fold (God forbid).",
+   "reason": "Dii ciionis is dilectionis: 'your Love' is a form of address to the recipient, so this is his own letter."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "cum adaint multa a sacris corporibus apostolorum martyrumque vela, mina",
+    "english": "while many veils are lacking from the sacred bodies of the apostles and martyrs",
+    "explain": "The OCR-damaged adsint means 'are available': many cloths from the apostles' and martyrs' sacred bodies are available, not lacking.",
+    "upheld_as": "major"
+   },
+   "work": "Registri Epistolarum [Appendix]",
+   "author": "Gregorius I Magnus",
+   "source_edition": "tmp1292.tmp1292.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.14",
+   "before": "4. Just as the mind of the faithful venerates us, unworthy as we are, out of reverence for the blessed apostle Peter, so it befits our weakness always to recognise itself and earnestly to decline the burdens of veneration offered to it. For out of the love of the faithful a custom has broken out, beyond merit, toward the rulers of this see, that when their bodies are carried for burial, they cover them with dalmatics, and the people tear up these same dalmatics to be shared among themselves out of reverence for [their] holiness; and while many veils are lacking from the sacred bodies of the apostles and martyrs, that which is kept with great reverence is taken from the body of sinners. On this matter I establish by the present decree that the bier on which the body of the Roman pontiff is carried for burial be covered with no cloth. I decree that the presbyters and deacons of this see take charge of this decree of mine. But if anyone of their order neglects to see to this, let him be anathema. And all answered: Let him be anathema.",
+   "after": "4. Just as the mind of the faithful venerates us, unworthy as we are, out of reverence for the blessed apostle Peter, so it befits our weakness always to recognise itself and earnestly to decline the burdens of veneration offered to it. For out of the love of the faithful a custom has broken out, beyond merit, toward the rulers of this see, that when their bodies are carried for burial, they cover them with dalmatics, and the people tear up these same dalmatics to be shared among themselves out of reverence for [their] holiness; and although many veils from the sacred bodies of the apostles and martyrs are at hand, that which is kept with great reverence is taken from the body of sinners. On this matter I establish by the present decree that the bier on which the body of the Roman pontiff is carried for burial be covered with no cloth. I decree that the presbyters and deacons of this see take charge of this decree of mine. But if anyone of their order neglects to see to this, let him be anathema. And all answered: Let him be anathema.",
+   "reason": "Adaint is adsint, and 'vela, mina' is one word split by the scan, velamina: although many coverings from the bodies of apostles and martyrs are at hand, people take relics from the bodies of sinners. The English, reading mina as minus, said the veils were lacking."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "cum adaint multa a sacris corporibus apostolorum martyrumque vela, mina",
+    "english": "while many veils are lacking from the sacred bodies of the apostles and martyrs",
+    "explain": "The OCR-damaged adsint means 'are available': many cloths from the apostles' and martyrs' sacred bodies are available, not lacking.",
+    "upheld_as": "major"
+   },
+   "work": "Registri Epistolarum [Appendix]",
+   "author": "Gregorius I Magnus",
+   "source_edition": "tmp1292.tmp1292.opp-lat1",
+   "ref": "notes",
+   "before": "'mina' read as 'minus' ('lacking')",
+   "after": "'vela, mina' read as one word, velamina ('veils'), and 'adaint' as adsint ('are at hand')",
+   "reason": "Adaint is adsint, and 'vela, mina' is one word split by the scan, velamina: although many coverings from the bodies of apostles and martyrs are at hand, people take relics from the bodies of sinners. The English, reading mina as minus, said the veils were lacking."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "deferre",
+    "english": "to accept",
+    "explain": "Deferre here means to tender or pay the fee: the prohibition covers demanding or offering payment, not demanding or accepting it.",
+    "upheld_as": "major"
+   },
+   "work": "Registri Epistolarum [Appendix]",
+   "author": "Gregorius I Magnus",
+   "source_edition": "tmp1292.tmp1292.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.15",
+   "before": "5. Following the ancient rule of the Fathers, I establish that nothing is ever to be received for ordinations, neither for the giving of the pallium, nor for the handing over of documents, nor under the name of *pastellus* [a fee], which a new pretence devised through ambition. For since the pontiff lays his hand on the bishop to be ordained, while the minister reads the Gospel reading and the notary writes the letter of his confirmation, just as it does not befit the pontiff to sell the hand which he lays on, so the minister or notary ought not to sell his voice or his pen at his ordination. For the ordination, the pallium, the documents and the *pastellus* I altogether forbid the one who is to be ordained or has been ordained to give anything. If anyone presumes to demand or to accept anything from these aforesaid things under the name of a fee, he will lie under guilt in the strict judgement of almighty God. But if he who has been ordained, not by agreement, neither pressed nor asked, after receiving the documents and the pallium, wishes to give something to anyone of the clergy solely as a token of thanks, we in no way forbid this to be accepted, because his offering, which did not proceed from the ambition of the receiver, brings no stain of guilt.",
+   "after": "5. Following the ancient rule of the Fathers, I establish that nothing is ever to be received for ordinations, neither for the giving of the pallium, nor for the handing over of documents, nor under the name of *pastellus* [a fee], which a new pretence devised through ambition. For since the pontiff lays his hand on the bishop to be ordained, while the minister reads the Gospel reading and the notary writes the letter of his confirmation, just as it does not befit the pontiff to sell the hand which he lays on, so the minister or notary ought not to sell his voice or his pen at his ordination. For the ordination, the pallium, the documents and the *pastellus* I altogether forbid the one who is to be ordained or has been ordained to give anything. If anyone presumes to demand or to offer anything from these aforesaid things under the name of a fee, he will lie under guilt in the strict judgement of almighty God. But if he who has been ordained, not by agreement, neither pressed nor asked, after receiving the documents and the pallium, wishes to give something to anyone of the clergy solely as a token of thanks, we in no way forbid this to be accepted, because his offering, which did not proceed from the ambition of the receiver, brings no stain of guilt.",
+   "reason": "Deferre is to offer or pay, not to accept: the decree makes the giver guilty as well as the one who demands."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "omission",
+    "original": "τά γε πρὸς σέ",
+    "english": "those who are nothing like me",
+    "explain": "The comparison is qualified: 'those who are nothing like me in their relations with you.' This qualification is omitted.",
+    "upheld_as": "minor"
+   },
+   "work": "Oratio 54",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00454.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00454.opp-grc1.17.3",
+   "before": "But the whole thing is an old hatred, hidden for the rest of the time but revealed in the time of his office. Otherwise, why did he not reproach me for not coming to him at the same intervals of days as I go to the others, nor say: 'You do wrong not to visit us often, but to treat me as you treat those who are nothing like me'? He said nothing of the kind, but he would gladly have said, had it been allowed, 'It is better for you, old man, to stay at home than to bestir yourself like this.'",
+   "after": "But the whole thing is an old hatred, hidden for the rest of the time but revealed in the time of his office. Otherwise, why did he not reproach me for not coming to him at the same intervals of days as I go to the others, nor say: 'You do wrong not to visit us often, but to treat me as you treat those who are nothing like me, at least in their dealings with you'? He said nothing of the kind, but he would gladly have said, had it been allowed, 'It is better for you, old man, to stay at home than to bestir yourself like this.'",
+   "reason": "τά γε πρὸς σέ qualifies the comparison, and the English left it out."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "πρός γε τῶν ἄλλων πολλοὺς πολλοὶ πόδες ἤνεγκον",
+    "english": "many feet carried many people every day to many others",
+    "explain": "The messengers came from the others, not to them: πρός with the genitive marks their origin.",
+    "upheld_as": "minor"
+   },
+   "work": "Oratio 54",
+   "author": "Libanius",
+   "source_edition": "tlg2200.tlg00454.opp-grc1",
+   "ref": "urn:cts:greekLit:tlg2200.tlg00454.opp-grc1.33.1",
+   "before": "And yet many feet carried many people every day to many others, both inviting them and reproaching them for not coming, and this did not make his office any smaller; but if anyone had been sent to me, it would have been cast down at once and trampled underfoot, and would not have been what it was.",
+   "after": "And yet every day many feet brought many [messengers] from the others, both inviting him and complaining that he did not come, and this did not make his office any smaller; but if anyone had been sent to me, it would have been cast down at once and trampled underfoot, and would not have been what it was.",
+   "reason": "πρός with the genitive is 'from', and the participles agree with τῶν ἄλλων: others sent to the governor, inviting him. The contrast with 'if anyone had been sent to me' survives either way, so the error is minor."
+  }
+ ],
+ "noted": [
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "quorum canat est ludes",
+    "english": "of which praise is the chief",
+    "explain": "The damaged phrase evidently represents 'quorum caput est fides': 'of which faith is the head'; the argument concerns faith, not praise, as foremost among these goods.",
+    "upheld_as": "major"
+   },
+   "work": "Epistola Et Decreta",
+   "source_edition": "tmp1057.tmp1057.opp-lat1",
+   "ref": "urn:cts:latinLit:tmp1057.tmp1057.opp-lat1.head",
+   "note": "'Of which faith is the head': the edition prints 'quorum canat est ludes', which makes no sense; the translation follows 'quorum caput est fides', which the damaged letters fit.",
+   "reason": "Quorum canat est ludes is a misprint for quorum caput est fides, the reading of this letter of Boniface II, which the damaged letters fit; the point, that faith is the head of all goods, is the doctrine at issue."
+  }
+ ],
+ "not_upheld": [
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ζητῶν τὸν ἑαυτοῦ",
+    "english": "he seeks his own son",
+    "explain": "In this context of bereaved fathers, ζητῶν means 'missing' or 'longing for his own son', rather than searching for him."
+   },
+   "work": "Declamatio 41",
+   "source_edition": "tlg2200.tlg00541.opp-grc1",
+   "reason": "Among fathers who have lost their sons, 'seeks his own son' already carries the sense of looking for a son who is lost; it is a defensible rendering of ζητῶν."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "ad mare novissimum",
+    "english": "to the last sea",
+    "explain": "Here novissimum denotes the western sea, contrasted with the eastern sea: 'to the western sea'."
+   },
+   "work": "Contra Fulgentium Donatistam",
+   "source_edition": "tmp740.tmp740.opp-lat1",
+   "reason": "'The last sea' is what the Vulgate's mare novissimum says, as the Douay version has it; that it means the western sea is the sense of the Hebrew, not the wording of the Latin being translated."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "grammar",
+    "original": "〈ἠνόχλουν αὐτὸν〉",
+    "english": "[were troubling them]",
+    "explain": "In [6], the supplied restoration has the singular object αὐτόν, referring to Jeremiah: '[were troubling him]', not the plural 'them' referring to the Egyptians."
+   },
+   "work": "De prophetarum vita et obitu (Dorothei recensio)",
+   "source_edition": "tlg1750.tlg001.1st1K-grc1",
+   "reason": "The words are the editor's supplement, and the translator's note already says that it reads 'him' and was rendered 'them' for the sense: the beasts troubling the Egyptians is why Jeremiah prayed for them."
+  },
+  {
+   "objection": {
+    "severity": "minor",
+    "type": "mistranslation",
+    "original": "Τῶν θεραπευτικῶν σκοπῶν",
+    "english": "one of the aims of therapy",
+    "explain": "[2] Here σκοποί are considerations used to decide treatment, rather than its goals; render 'one of the criteria for treatment' and similarly in the subsequent occurrences."
+   },
+   "work": "De consuetudinibus",
+   "source_edition": "tlg0057.tlg103.1st1K-grc1",
+   "reason": "A σκοπός in Galen's therapeutics is what the physician aims at in choosing a treatment; 'aims of therapy' is a defensible rendering."
+  },
+  {
+   "objection": {
+    "severity": "major",
+    "type": "mistranslation",
+    "original": "τῆς βοηθείας ἢν ἐβοήθησεν αὐτῷ τὴν πρὸς ἐμὲ χάριν αἰτιώμενος",
+    "english": "had attributed the help that the man gave him to the man's gratitude towards me",
+    "explain": "The governor said he had helped Julian out of gratitude towards the speaker; the English reverses benefactor and recipient."
+   },
+   "work": "Oratio 54",
+   "source_edition": "tlg2200.tlg00454.opp-grc1",
+   "reason": "The Greek allows either reading, since αὐτῷ can refer to the governor. The English follows the sentence before, in which the man had done the governor a service: the governor credited that service to the man's goodwill towards the speaker, which is why he could not plead ignorance of their friendship."
+  }
+ ]
+}

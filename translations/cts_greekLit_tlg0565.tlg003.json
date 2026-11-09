@@ -1,0 +1,511 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0565.tlg003",
+ "edition_urn": "urn:cts:greekLit:tlg0565.tlg003.ai-claude",
+ "source_edition": "tlg0565.tlg003.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-07",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "De Fasciis: AI translation (Claude)",
+  "author": "Soranus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0565.tlg003.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.head": "1.1: the first word, printed ῷέντεϲ, is read as θέντεϲ. 1.2: the sense of the bandage name διάκρισις is uncertain. 4.2: the edition's '(Tab I 14)' is taken as a scanning error for I 4. 5.2: the bandage name is garbled (θατc) and could not be recovered. 11.1, 12.1, 13.1: σφαιρίον is taken as the rounded tip of the nose. 14.1 and later: σιμή, literally 'snub' or 'turned up', is rendered 'curving'; the exact course of this turn is unclear. 19.2: the name is garbled (ϲμμιτϲ); possibly σύμμικτος ('mixed'), but this is uncertain. 22.2: the sense of the name πλήξ is unclear; it may mean 'blow'. 23.1: the stated use, 'a medical bandage', is oddly general, and the text may be faulty. 24.1: ἐπὶ πόϲιν is read as ἐπὶ πᾶϲιν ('on top of all'), since 'at the feet' makes no sense here.",
+  "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.24.2": "24.2: the plain heading names the bandage just described; bandage names here are generally kept in italics. 26.1: *geneion* and *anthereon* (25.1) are both rendered 'chin'. 26.2: the text prints τετειάc, taken as a scanning error for γενειάς; the same reading is assumed for τερανίς (31.2) as γερανίς. 27.1: the word printed άδοϲ is unclear and is kept as *ados*; its sense could not be determined, and it may be corrupt. 34.1: the clause on the turn being bisected 'below the crossings' is obscure, and the rendering is tentative. 36.2: *periskeles* normally refers to leg-wear or drawers; its sense for this shoulder-strap bandage is uncertain, so it is kept. 37.2: *keraunios* (perhaps 'thunderbolt') is left untranslated. 41.1: the construction of the stitched strips is difficult, and the rendering is tentative. Editor's deletions at 28.1 (ἐπὶ) and 45.1 (ἐφ' ὧν) are followed.",
+  "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.49.2": "49.2: χείρ can mean hand or arm; 'arm' is chosen because section 49 concerns the phlebotomy site on the arm. 51.1: τὸν ἀντικείμενον may mean the thumb itself ('the opposing [digit]') or the bandage of that name described in 52; μετακόνδυλον is a rare anatomical term and its exact extent is uncertain. 51.2: ἀ γόμενος is read as ἀγόμενος, but the sense in a title is unclear and the word may be corrupt. 53.1: 'the middle of the body' (μέσου τοῦ σώματος) apparently means the middle of the limb. 56.1: ἁρμόσαι ('fit') is odd here; ἐπιδῆσαι ('bandage'), the usual verb in this formula, may have been intended. 58.2: the bracketed letters in φοίνιξ[ιρα] are not translated; they look like a miswritten anticipation of σειρά, which the edition appears to delete. Scanning errors were read as ἐόμβος = ῥόμβος, ϲκἐπαρνοc = ϲκέπαρνοϲ, μονοκιῶλου = μονοκώλου, and θέτεϲ = θέντεϲ."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.head",
+   "text": "Soranus, On Bandages"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.1.1",
+   "text": "1. Placing the end at the mid-brow so that it hangs down, we bring the turn straight over the *bregma* [the front of the top of the head] to the nape, and [then] in a circle around the forehead. Then, doubling [it] back at the mid-brow, [we bring it] straight over the *bregma* to the nape and secure it first, so that it will suit cases where we want to bandage the *bregma*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.1.2",
+   "text": "*Diakrisis* [parting]. (Plate I 1)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.2.1",
+   "text": "2. Placing the end at the nape, we bring the turn straight over the *bregma* to the mid-brow, [then], doubling it back, we pass it obliquely over the *bregma* to the nape, under the end. Passing it again obliquely over the *bregma* to the mid-brow, under the reverse fold, we bring it along the first [turns] until the whole head is covered, then [give] a circular forehead turn, so that it will suit cases where we want to bandage the whole head."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.2.2",
+   "text": "*Pilion* [cap]. (Plate I 2)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.3.1",
+   "text": "3. Placing the end at the nape, we bring the turn straight over the *bregma* to the mid-brow, then, doubling it back, [we bring it] beside the first [turn] on one side to the nape, then beside it on the other side to the forehead, doing this until the whole head is covered, and securing the reverse folds with a circular [turn] around the forehead, so that it will suit cases where the *skaphion* [crown of the skull] needs covering."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.3.2",
+   "text": "*Skaphion* [bowl]. (Plate I 3)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.4.1",
+   "text": "4. Placing the end at the nape, we bring the turn circular around the forehead, transverse over the *bregma*, either under the lobes of the ears or over the ear, and we advance upward alongside the other [turns], called forehead turns, and downward [alongside] the transverse ones, until the middle area is filled in, so that it will suit cases where we want to bandage the forehead."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.4.2",
+   "text": "*Mitra* [headband]. (Plate I 4)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.5.1",
+   "text": "5. Placing the end at the mid-brow, we bring the turn straight over the *bregma* to the nape and obliquely to the temple, then, doubling it back to the nape in the same way, we secure the loops with a circular forehead turn, so that it will suit cases where we want to bandage the head, along with the *bregma*, in a seemly way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.5.2",
+   "text": "[...]. (Plate II 5)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.6.1",
+   "text": "6. Placing the end at the nape, we bring the turn obliquely over the *bregma* and the temple, under the lobe of the ear, to the nape, then obliquely over the other temple and the *bregma*, under the other lobe, to the nape, and circular around the forehead, so that it will suit cases where we want to bandage the temples and the forehead along with the *bregma*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.6.2",
+   "text": "*Hemirhombos* [half-rhombus]. (Plate II 6)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.7.1",
+   "text": "7. Placing the crossed noose at the mid-brow, [and] the looped one on the temples, we weave in the previously described *hemirhombos*, or the *lagos* [hare] bandage without ears, so that it will suit cases where we want to hold the head still during operations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.7.2",
+   "text": "*Lagos* [hare] with ears. (Plate II 7)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.8.1",
+   "text": "8. Placing the end of the bandage at the mid-brow so that it hangs down, we bring the turn up straight over the *bregma* to the nape; then, having woven in the *hemirhombos* before the forehead turn, we double the hanging [end] back three times at the mid-brow, so as to preserve the likeness of a royal tiara, so that it will suit cases where we require seemliness or, as the ancients say, a royal emblem."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.8.2",
+   "text": "*Basiliskos* [little king]. (Plate II 8)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.9.1",
+   "text": "9. Placing the end beside the nape, we bring the turn obliquely over the *bregma* and the eye, under the lobe of the ear, as far as the nape, and circular around the forehead. It is also possible, by advancing from below upward or by bandaging from two ends, to provide a different benefit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.9.2",
+   "text": "One-sided *ommatosis* [eye bandage]. (Plate III 9)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.10.1",
+   "text": "10. Placing the end beside the nape, we bring the turn obliquely over the *bregma* and the eye, under the lobe of the ear, as far as the nape, and again obliquely over the *bregma* and the other eye, under the lobe of the ear, as far as the nape, and circular around the forehead. It is also possible to bandage advancing from below upward and from two ends, if the condition allows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.10.2",
+   "text": "Two-sided *ommatosis*. (Plate III 10)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.11.1",
+   "text": "11. Placing the end on the bridge of the nose so that it hangs down, we bring the turn straight over the *bregma* to the nape, and circular to the lobes of the ears, across the tip of the nose, as far as the nape; then, doubling back the hanging [end], we secure it straight over the *bregma* as far as the nape, so that it will suit cases where the bridge of the nose needs bandaging."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.11.2",
+   "text": "Nose. (Plate III 11)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.12.1",
+   "text": "12. Placing the end at the nape, we bring the turn obliquely over the *bregma* and the mid-brow, under the nostrils, and opposite to the first, obliquely over the mid-brow and the *bregma* to the nape, then circular across the tip of the nose and the forehead, so that it will suit cases where we want to bandage the mid-brow along with the nostrils."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.12.2",
+   "text": "Hawk or eagle. (Plate III 12)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.13.1",
+   "text": "13. Placing the end at the nape, we bring the turn obliquely over the *bregma* and the cheekbone, under the nostrils, and opposite [to it], obliquely over the other cheekbone and the *bregma* as far as the nape, then circular across the tip of the nose, so that it will suit cases where we want to bandage the nostrils."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.13.2",
+   "text": "*Hemirhombos* on the nose. (Plate IV 13)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.14.1",
+   "text": "14. Placing the end at the nape, we bring the turn obliquely over the *bregma*, straight over the cheek, curving over the chin as far as the nape, and circular around the forehead. Likewise this one too may be bandaged advancing from below upward and from two ends, so that it will suit cases where we want to bandage the jaw on one side or the cheek in part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.14.2",
+   "text": "One-sided *phorbea* [halter]. (Plate IV 14)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.15.1",
+   "text": "15. Placing the end beside the nape, we bring the turn obliquely over the *bregma*, straight over the cheek, curving under the chin as far as the nape; then obliquely over the *bregma*, straight over the other cheek, curving under the chin as far as the nape, and circular around the chin and the forehead. It is also possible to bandage this one too advancing from below upward and from two ends, so that it will suit cases where we want to level the jaw or want to bandage both cheeks."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.15.2",
+   "text": "Two-sided *phorbea*. (Plate IV 15)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.16.1",
+   "text": "16. Placing the end at the nape, we bring the turn obliquely over the *bregma*, straight over the eye, then a chin turn, circular [under] the chin as far as the nape, and circular around the forehead. It is also possible to bandage advancing from below upward and from two ends, alike in form but different in what it undertakes to do."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.16.2",
+   "text": "One-sided *ophthalmos* [eye]. (Plate IV 16)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.17.1",
+   "text": "17. Placing the end at the nape, we bring the turn obliquely over the *bregma* and the mid-brow, under the lobe of the ear, as far as the nape, then under the lobe of the other ear, obliquely over the *bregma* and the mid-brow to the nape, so that it will suit cases where we want to bandage the mid-brow and the cheekbones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.17.2",
+   "text": "*Charax* [stake]. (Plate V 17)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.18.1",
+   "text": "18. Having bandaged the *charax*, as said above, we add a circular wrapping around the chin and the forehead, so that it will suit those who are suffering at the same time in the mid-brow, the chin and the forehead."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.18.2",
+   "text": "*Phalara* [harness bosses]. (Image damaged)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.19.1",
+   "text": "19. Having bandaged the *charax*, we add a circular wrapping over the upper lip, under the lobes of the ears, bringing the circular chin turn to the nape, so that it will suit cases where we want to bandage the mid-brow, the cheekbones, the lips and the chin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.19.2",
+   "text": "[...]. (Plate V 19)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.20.1",
+   "text": "20. Having bandaged the *phalara*, we additionally weave in the *phorbea* mentioned, so that the *phalara* are seen on the face and the rhombus on the *bregma*, so that it will suit cases where, along with the parts already mentioned, the cheeks and a trepanned *bregma* need bandaging."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.20.2",
+   "text": "*Rhombos phalara* [rhombus *phalara*]. (Plate V 20)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.21.1",
+   "text": "21. Placing the end at the nape, we bring the turn obliquely over the *bregma*, straight over the eye, curving over the chin as far as the nape; then obliquely over the *bregma*, straight over the other eye, curving over the chin, and circular around the forehead. It is also possible to bandage this one advancing from below upward and working from two ends."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.21.2",
+   "text": "Two-sided *ophthalmos*. (Plate V 21)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.22.1",
+   "text": "22. Having bandaged the *hemirhombos* so that the crossing is placed on the forehead, we weave in the *charax* and the two-sided *phorbea*, without the chin turn and forehead turn, so that it will suit cases where we want to bandage a head that is affected in several parts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.22.2",
+   "text": "*Plex*. (Plate VI 22)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.23.1",
+   "text": "23. Placing the end beside the nape, we bring the turn obliquely over the *bregma* as far as the cheekbone, then, doubling it, under the lobe of the ear to the other cheekbone. Then, doubling it, bringing it obliquely over the *bregma* as far as the nape, we weave in the two-sided *phorbea*, so that it will suit cases where someone needs a medical bandage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.23.2",
+   "text": "*Polyrhombos* [many-rhombus]. (Plate VI 23)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.24.1",
+   "text": "24. Placing the end under the chin, we bring the turn straight over the nostril and the *bregma* to the nape, then circular under the lobes of the ears. And bringing a curving [turn] over the bridge of the nose, weaving in the two-sided *phorbea*, we advance alongside these [turns] until the whole head is covered except for the eyes. On top of all, we pass three successive reverse folds straight over the *bregma* as far as the mid-brow, which we arrange in the same manner in this way, so that it will suit the same cases as the *plex*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.24.2",
+   "text": "*Perikephalaia* [helmet]. (Plate VI 24)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.25.1",
+   "text": "25. Splitting the strip from both ends, so that the middle part is left continuous, and placing the middle over the cheeks, we bring the rear ends to the crown and the front ends to the *bregma*, and, securing these as well to one another, we tie them off, so that it will suit cases where we wish to bandage the chin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.25.2",
+   "text": "*Pareias* [cheek bandage]. (Plate VI 25)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.26.1",
+   "text": "26. Splitting the strip from both ends, so that the middle part is left continuous, and placing the middle of it on the chin, we bring the lower ends straight over the cheeks to the *bregma*, and the upper ends [crosswise] transversely over the jaw to the nape, and securing these as well [we tie them off to one another], so that it will suit cases where we wish to bandage the chin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.26.2",
+   "text": "*Geneias* [chin bandage]. (Plate VII 26, XVI 26a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.27.1",
+   "text": "27. Having applied the *hemirhombos* turn, so that the crossing is placed on the mid-brow, we weave in the two-sided *phorbea*, without the *ados* and the forehead [turn], so that it will suit cases where we wish to bandage a trephined *bregma* without pressure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.27.2",
+   "text": "*Rhombos*. (Plate VII 27)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.28.1",
+   "text": "28 [31]. Placing the end under the unaffected armpit, we bring the turn obliquely over the chest and collarbone to under the armpit, then opposite over the collarbone and the back as far as the unaffected armpit, so that it will suit cases where we wish to bandage the collarbone at the armpit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.28.2",
+   "text": "One-sided *seira* [cord]. (Plate VII 28)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.29.1",
+   "text": "29 [32]. Having applied the one-sided *seira*, we bring the turn in addition, circular over the breastbone, and oblique over the back and collarbone to under the armpit; then opposite and oblique over the collarbone and breastbone as far as the armpit, so that it will suit cases where we wish to bandage the collarbone or armpit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.29.2",
+   "text": "Two-sided *seira*. (Plate VII 29)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.30.1",
+   "text": "30 [29]. Wrapping the end around above the elbow, we bring the turn circular over the chest, and oblique over the back and collarbone and chest as far as the armpit, so that it will suit a broken collarbone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.30.2",
+   "text": "One-sided *geranis* [crane]. (Plate VIII 30)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.31.1",
+   "text": "31 [30]. Having wrapped on the two-sided *seira*, we bring the turn in addition circular over the chest, also securing the upper arms laid alongside the ribs, so that it will suit broken collarbones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.31.2",
+   "text": "First two-sided *geranis*. (Plate VIII 31)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.32.1",
+   "text": "32 [28]. Having wrapped on the one-sided *geranis*, we bring the turn in addition, circular over the breastbone, upper arm and back, and oblique over the breastbone and collarbone; then, with a transverse passage underneath, we bring it obliquely over the collarbone and back as far as the armpit, so that it will suit broken collarbones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.32.2",
+   "text": "[Another] two-sided *geranis*. (Plate VIII 32)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.33.1",
+   "text": "33. Placing the end on the flank, we bring the turn obliquely over the chest and collarbone to under the armpit, and opposite and oblique over the collarbone and back to the flank, and then circular over the epigastrium, and oblique over the back to the flank and [over] the other collarbone to under the armpit, and opposite and oblique over the collarbone and chest to the flank, and circular over the loins, so that it will suit cases where we wish to bandage the parts under the ribs and the loins together with the collarbones and armpit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.33.2",
+   "text": "*Thorax*. (Plate VIII 33)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.34.1",
+   "text": "34. Having applied the *thorax*, we bring the turn in addition circular and transverse over the back and ribs, so that the turn appears to be bisected by the adjacent circular [turn] below the crossings, so that it will suit cases where we wish to bandage the middle of the chest together with the parts mentioned."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.34.2",
+   "text": "Another *thorax*. (Plate IX 34)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.35.1",
+   "text": "35. Placing the end beside the navel, from the loins, so that it hangs down, we bring the turn over the collarbone to the lower back or navel; then, with a circular turn, securing the chest and bringing the ends to the other collarbone, we secure [them], so that it will suit cases where we wish to bandage the chest."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.35.2",
+   "text": "*Thorax analemptos* [supporting *thorax*]. (Plate IX 35)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.36.1",
+   "text": "36. Taking two small strips split on both sides as far as the middle, and placing the continuous parts over the collarbones, [we bring] some of the split parts straight, others alongside the ribs, and the opposite ones oblique over the breastbone and back; we secure the ends above the flanks with a circular wrapping, and, doubling back the tips, we secure them to those lying above."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.36.2",
+   "text": "*Thorax* with *periskeles*. (Plate IX 36)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.37.1",
+   "text": "37. With the small strip split down the middle, so that the head passes through, we place it around the neck and wrap it thus: giving [a turn] straight over the breastbone and oblique over the spine, we weave in the *thorax*, and in front again, doubling back the hanging ends, we secure them to those lying above."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.37.2",
+   "text": "*Keraunios*. (Plate IX 37)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.38.1",
+   "text": "38. With the bandage rolled from both ends, placing the middle on the back of the neck, we bring the turns obliquely over the collarbones to the breastbone, and, interweaving them with one another, [we bring them] circular under the armpits to the back, then, bringing them to the breastbone, we interweave them, doing the same until the whole chest is bandaged."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.38.2",
+   "text": "One-sided *harmatelatikos* [charioteer's bandage]. (Plate X 38)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.39.1",
+   "text": "39. With the bandage rolled from both ends, placing the middle on the back of the neck, we bring the turns forward over the collarbones to the breastbone, and, interweaving them with one another, [we bring them] circular under the armpits to the back, likewise interweaving those on the spine [with] those in front, doing the same until the whole chest is bandaged."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.39.2",
+   "text": "Two-sided *harmatelatikos*. (Plate X 39)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.40.1",
+   "text": "40. With two small strips rolled from both ends, placing their middles laid over one another on the back of the neck, bringing two of the turns forward and interweaving them with one another on the breastbone, we bring them under the armpits and interweave them with the rear ones, crossing those on the spine, and interweaving those on the breastbone again along the side, until the whole chest is bandaged."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.40.2",
+   "text": "Four-part *harmatelatikos*. (Plate X 40)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.41.1",
+   "text": "41. With a strip stitched by its middle along one side to a whole [strip], and another transverse [strip] stitched on at the breastbone, once the breast has been bound in, we bring [the turns], the straight ones up to the neck and secure them, and the transverse ones to the spine, the tips of both to one another, so that it will suit cases where we wish to bandage the breast."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.41.2",
+   "text": "Four-tailed *analemptris* [supporter]. (Plate X 41, XVII 41a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.42.1",
+   "text": "42. To a four-tailed strip, around the stitching at the middle, we stitch another strip transversely; then, after it has been applied, as has been said, we secure the ends on the spine, [so that] it neither slips off nor wrinkles, so that the bandage will suit the same cases as the one described above."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.42.2",
+   "text": "Six-tailed *analemptris*. (Plate X 42, XVI 42a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.43.1",
+   "text": "43. Placing the end on the flank, we bring the turn obliquely over the groin to under the perineum, then, reversing it, oblique over the thigh and groin, and circular over the flanks and hips, so that it will suit cases where we wish to bandage the groin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.43.2",
+   "text": "One-sided *boubōniakos* [groin bandage]. (Plate XI 43, XVII 43a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.44.1",
+   "text": "44. Having applied the single *boubōniakos*, we bring the turn in addition obliquely over the other groin and thigh to under the perineum, then opposite and oblique over the groin to the flank, and circular over the hips, so that it will suit cases where we wish to bandage the groin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.44.2",
+   "text": "Two-sided *boubōniakos*. (Plate XI 44)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.45.1",
+   "text": "45. Stitching one strip to the middle of another, [so that] a shape resembling the letter tau is formed, we gird the patient with the transverse [strip], and, the straight [strip] being placed over the perineum and scrotum and split a little way, so that the penis passes through, we secure the end to the belt, so that it will suit conditions affecting the scrotum."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.45.2",
+   "text": "Three-tailed *kteis*. (Plate XI 45)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.46.1",
+   "text": "46. Having stitched together the two small strips, as has been described, and girding the patient with the transverse [one], bringing [the] straight [one] over the anus, we split it from its end, so that the penis and scrotum are enclosed between, and the ends are thrown over the belt from above downward, so that they are secured to themselves on the outside, so that it will suit conditions affecting the anus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.46.2",
+   "text": "Four-tailed *kteis*. (Plate XII 46)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.47.1",
+   "text": "47. To the straight part of the stitched piece described above, stitching the middle of another strip a little way from the first, and having applied the four-tailed [bandage], as has been said, we bring in addition the turns of the first strip over the thighs, and we throw the ends over the belt [and] secure them to those of the straight part, so that it will suit the same cases as the one described above."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.47.2",
+   "text": "Six-tailed *kteis*. (Plate XII 47)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.48.1",
+   "text": "48. Girding the patient with a strip, and throwing another strip over the belt from above downward, so that it is placed on the right side, we bring the turn obliquely over the pubes above the penis; [then] bringing it [around] the shaft, we bring it obliquely across to the left side, and passing it through the belt from above outward, we knot the ends above the pubes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.48.2",
+   "text": "*Sphendone* [sling] for the penis. (Plate XII 48)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.49.1",
+   "text": "49. Placing the end on one side [on] the upper arm, we bring the turn obliquely over the site of the phlebotomy, and circular over the upper arm, then in the opposite direction oblique over the site of the phlebotomy, and circular over the upper arm, so that it will suit conditions at the said site."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.49.2",
+   "text": "*Sphendone* [sling] for the arm. (Plate XIII 49)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.50.1",
+   "text": "50. Placing the end on the wrist, we bring the turn obliquely over the metacarpus and transversely across the hollow of the hand, then [in the opposite direction obliquely] over the metacarpus, and circular over the wrist, so that it will suit cases where we want to bandage the wrist."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.50.2",
+   "text": "*Karpodesmos* [wrist bandage]. (Plate XIII 50, XVII 50a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.51.1",
+   "text": "51. Having bandaged the *antikeimenos*, we bring the turn with the remainder [of the bandage] obliquely over the metacarpus and circular over the index finger; then in the opposite direction obliquely over the metacarpus, and we do the same over all the fingers, so that it will suit cases where we want to bandage the *metakondylon* [finger segment beyond the knuckle] and the metacarpus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.51.2",
+   "text": "*Palaistrikos* [wrestler's bandage], applied. (Plate XIII 51, XVIII 51a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.52.1",
+   "text": "52. Placing the end on the wrist, we bring the turn obliquely over the metacarpus, wrapping it around the thumb, then obliquely over the front parts of the hand and circular over the wrist, so that it will suit cases where we want to bandage the thumb."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.52.2",
+   "text": "*Antikeimenos* [opposing bandage]. (Plate XIII 52)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.53.1",
+   "text": "53. Wrapping the end around the limb, we bring the turn obliquely over the middle of the body and circular over the part below. This turn is made at the elbow and the knee, but it suits the mid-limb, keeping the same purpose as the one described above."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.53.2",
+   "text": "*Skeparnos* [adze]. (Plate XIV 53)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.54.1",
+   "text": "54. Placing the end on the limb, we bring the turn circular and slightly oblique, drawing it from below upward until what needs the bandaging is covered, so that it will suit cases where we want simply to bandage the mid-limb."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.54.2",
+   "text": "*Enkyklios* [circular bandage]. (Plate XIV 54)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.55.1",
+   "text": "55. Placing the end on the limb, we bring the turn oblique and circular, and opposite to the first from the other side, with a further circular turn, so that it will suit fractures with a wound."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.55.2",
+   "text": "*Rhombos* [rhombus] for the mid-limb. (Plate XIV 55, XVIII 55a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.56.1",
+   "text": "56. Placing the end above the knee, we bring the turn obliquely over the kneecap and circular over the shin, counter-obliquely over the kneecap, and circular over the shin or the back of the knee and the kneecap, so that it will suit cases where we want to fit the knee."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.56.2",
+   "text": "*Chelone* [tortoise]. (Plate XIV 56)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.57.1",
+   "text": "57. Wrapping the end around the end of the single limb, we bring the turn circular and oblique at equal intervals as far as the extremity; and giving a circular turn opposite to those laid beneath, we bring it circular and oblique, keeping the same intervals, so that it will suit the cases where the *seira* also [suits]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.57.2",
+   "text": "*Polyrhombos* for a single limb. (Plate XV 57, XVIII 57a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.58.1",
+   "text": "58. Wrapping the end around the end of the limb, we bring the turn obliquely over the middle place and circular over the part below, and in the direction opposite to the first, oblique and circular, descending by steps we bring similar turns alongside the same ones, so that it will suit limbs that have recently formed callus, for the sake of security."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.58.2",
+   "text": "*Phoinix* [palm tree] *seira*. (Plate XV 58, XVIII 58a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.59.1",
+   "text": "59. Placing the end at the ankle, we bring the turn obliquely over the ankle; then, passing it under the hollow of the foot, [we bring it] in the opposite direction obliquely over the ankle and circular over the shin, so that it will suit cases where the ankle needs bandaging."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.59.2",
+   "text": "*Krepis* [boot]. (Plate XV 59, XVII 59a)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.60.1",
+   "text": "60. Placing the end under the ankle, we bring the turn obliquely over the ankle, under the hollow of the foot, obliquely over the heel and circular over the ankle; then in the opposite direction obliquely over the ankle, under the hollow of the foot and the heel, and circular over the ankle, so that it will suit cases where we want to bandage the ankle together with the heel."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1.60.2",
+   "text": "*Peripternis* [heel bandage]. (Plate XV 60, XVII 60a)"
+  }
+ ]
+}

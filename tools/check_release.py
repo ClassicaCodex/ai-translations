@@ -36,6 +36,8 @@ for path in sorted(glob.glob(os.path.join(ROOT, "translations", "*.json"))):
         problems.append(f"{name}: translator or edition identifier is not the collection's")
     if "AI-generated" not in d["header"]["statement"] or "No specialist has reviewed it" not in d["header"]["statement"]:
         problems.append(f"{name}: the header does not carry the AI label")
+    if "whole_work" in d and (d["whole_work"] is not True or "only in samples" not in d["header"]["statement"]):
+        problems.append(f"{name}: a whole work whose header does not say it was checked only in samples")
     av = d["header"]["availability"]
     if not (av.startswith("CC BY-SA 4.0") or av.startswith("CC BY 4.0")):
         problems.append(f"{name}: licence is neither CC BY-SA 4.0 nor CC BY 4.0")
@@ -125,8 +127,14 @@ for path in glob.glob(os.path.join(ROOT, "**", "*"), recursive=True):
     text = open(path, encoding="utf-8", errors="replace").read()
     rel = os.path.relpath(path, ROOT).replace(os.sep, "/")
     ancient = rel.startswith("testimonia/passages/") or rel.startswith("method/reviews/testimonia")
+    # A whole work's English and notes are ancient text too (Jonathan is Saul's son there), so for those files the names
+    # are looked for in everything else: the identifiers and the header.
+    whole = files.get(rel, {}).get("whole_work") is True
     for pat in PRIVATE + ([] if ancient else NAMES):
-        m = re.search(pat, text, re.I)
+        hay = text
+        if whole and pat in NAMES:
+            hay = json.dumps({k: v for k, v in files[rel].items() if k not in ("nodes", "notes")}, ensure_ascii=False)
+        m = re.search(pat, hay, re.I)
         if m:
             problems.append(f"{os.path.relpath(path, ROOT)}: private detail or local path ({m.group(0)!r})")
 

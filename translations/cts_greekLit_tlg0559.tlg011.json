@@ -1,0 +1,645 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0559.tlg011",
+ "edition_urn": "urn:cts:greekLit:tlg0559.tlg011.ai-claude",
+ "source_edition": "tlg0559.tlg011.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "De mensuris: AI translation (Claude)",
+  "author": "Hero of Alexandria",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0559.tlg011.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.head": "Title: ΠΡΩΝΟΣ read as ΗΡΩΝΟΣ (Hero's). Many of the computations are faulty or corrupt as transmitted: the round stone (16 less a quarter is 12, not 4); the timber problems mix feet and digits; the tapering timber's '30 feet' does not follow; the raft's result η (8) presumably stands for 8000; the column procedure is confused and its result (22) does not follow from 12 × 10; in the second ship problem 'prow and stern … 36' does not match 6 + 6; the castrensian conversion yields 24,320 without explanation. 16.1.2 and 16.1.3 appear to be displaced fragments from other problems (the vault calculation is left unfinished). In 18.1.2 two figures (10 Italian modii, 13 modii) stand side by side, perhaps alternative values. In 21.1.1 the method (product over sum) does not fit an inflow less an outflow; translated as written. σκούτα (Latin scutum?) and τυμπανεύς kept in italics; σύναρμα rendered 'joined thickness', sense uncertain.",
+  "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.22.1": "Throughout, the half-sign of the edition (encoded as U+2220΄) is rendered 1/2. 23.1.1: 'μοδίους γ δακτύλων πε γ΄ καὶ ξεστῶν ιϛ' is obscure; apparently each *modius* is reckoned at 85 1/3 cubic digits (256/3) and 16 *sextarii*; translated literally. Several of the fractional values for the pipes do not compute exactly; translated as given. 24.1.1 and 25.1.1: the text reads ζ (7) and η (8); the arithmetic (100 × 70, 100 × 80) requires 7000 and 8000, so the thousands sign has evidently dropped out. 27.1.1: 2209 / 16 is 138 remainder 1, and the partial products listed sum to 2208, yet the text gives 139 digits; '8 1/2 1/16 feet' also does not match. 28.1.1: 2 1/2 squared is given as 5 and 7 1/4 squared as 14 1/2, as in the text; 'the air' (τὸν ἀέρα) apparently means the empty space or volume enclosed. 28.2.1: βησαλικόν rendered 'brickwork' (from *bessalis*, a type of brick); the phrase 'τὸ ἐξ εὐλόγου' ('the reasonable [amount]') is unclear. 29.1.1: 1/21 of 320 is about 15 1/4, not 15 1/6 1/14 exactly. 31.1.1: 'Make the perpendicular and the base' presumably means 'add them'.",
+  "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.33.1.1": "The numbers are often garbled in the transmitted text, and the stray signs printed as ?? or (??) could not be read; they are given as [?]. 35.1.1: the closing figure ,ββ (2002) conflicts with the computed area of 154; the text seems corrupt. 36.1.1: the volume computation is confused (2744 × 11/21 would give about 1437). 38.1.1: several figures are inconsistent with one another (e.g. 129 vs 123 vs 149). 42.1.1: τετραπεδικοῦ is taken as the trapezoidal face, whose height is meant. 47.1.1: the numbers are taken as 1 myriad 5552 = 15,552 and 6 myriads 2208 = 62,208, the latter being the sum rather than the cube alone. 48.1.1: 94 1/4 is in fact the circumference, not the area, of a circle of diameter 30.",
+  "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.49.1.1": "τετρασίριον (line 1) is unidentified, apparently a vaulted structure; kept in italics. In line 1, ὕψους ('of height') is puzzling in context. In line 5, λαγῶνας ('flanks') is of uncertain sense here, and βήσαλος is taken as brick. In line 12, παρασκελής is taken as 'with unequal legs'; κατατείνουσα is rendered 'side'. ἄκαινα is a land-measuring rod, here defined as 12 feet. The edition's sign Γο is taken as *uncia* and Α as *litra*. In line 18, the talent's division 'into 6 *lepta*' looks corrupt. In line 34, the text first says the *hydria* gives the *kypros* 20 *sextarii*, presumably the *mares* is meant. Many of the Hebrew etymologies are fanciful and are translated as given. In line 51, τρανότητα ('clarity') is an odd sense here.",
+  "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.9.1": "In the last passage the figures are inconsistent: 72/10 = 7 1/5 *sextarii*, yet the 'small *gomor*' of the preceding entry is 6, and the three measures of 2 1/3 1/15 (= 2 2/5) total 7 1/5. 'γ δεκάτωσις' ('threefold/third tithing') is obscure. The clause 'ἐπεὶ πᾶν δέκατον ... ἄρτου ὀνομα ῑῡ' appears corrupt; ι (iota) = 10, and ῑῡ may be the nomen sacrum ΙΥ (Jesus), the 'bread'; rendering is tentative."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.head",
+   "text": "Hero's On Measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.1.1.1",
+   "text": "There are three kinds of measures: linear, plane and solid. Linear is everything measured by length; plane is what is measured in length and breadth; and solid is that which brings together the sum of the [cubic] feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.2.1",
+   "text": "Measurement of lime."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.2.1.1",
+   "text": "Let us measure a lime pit thus: let the length be 10 feet, the breadth 8 feet, and the depth 3 feet. Multiply the depth by the breadth: the result is 24 feet. [Multiply] these by the length: the result is 240 feet. The solid content of the lime pit will be that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.3.1",
+   "text": "Measurement of a well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.3.1.1",
+   "text": "Let us measure a well thus, whose depth is 20 feet, the diameter of the hollow 4 feet, and the thickness [of the wall] 1 foot. Double the thickness: the result is 2 feet. Add these to those of the hollow: the result is 6. Multiply [by itself]: the result is 36. From these take away the quarter: there remain 27. Multiply the 4 [feet] of the hollow by 4: the result is 16 feet. From these take away the quarter: there remain 12 feet. Again take these away from the 27: there remain 15. Multiply the 15 feet by the depth, that is, by the 20: the result is 300 feet. You will find the well to be that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.4.1",
+   "text": "Measurement of a squared stone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.4.1.1",
+   "text": "Let us measure a squared stone thus, whose length is 5 feet, breadth 3 feet, thickness 2 feet: the 2 by the 3: the result is 6. These by the 5: the result is 30 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.5.1",
+   "text": "Measurement of a round stone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.5.1.1",
+   "text": "Let us measure a round stone thus, whose length is 15 feet and perimeter 4 feet: make 4 by 4, the result is 16. Take away the quarter of these: the result is 4 feet. These 4 by the length: the result is 60 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.6.1",
+   "text": "Measurement of a squared timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.6.1.1",
+   "text": "Let there be a squared timber whose length is 20 feet, breadth 16 digits, and thickness 12 digits. Do thus: multiply the breadth by the thickness: the result is 192 digits. These by the length: the result is 3840 digits."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.7.1",
+   "text": "Measurement of a round timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.7.1.1",
+   "text": "Let us measure a round timber thus, whose length is 30 feet and diameter 16 digits: these 16 digits by themselves: the result is 256; take away the quarter of them: there remain 192. These by the length: the result is 5760. Divide these by 192: the result is 30 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.8.1",
+   "text": "Measurement of a tapering timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.8.1.1",
+   "text": "Let us measure a tapering timber thus, whose length is 12 feet, the breadth 11 digits, the middle 9 digits, and the thickness 8 digits. Do thus: squared; half of the 8 is 4; these by the 9: the result is 36. These by the length: the result is 432 digits; these are 30 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.9.1",
+   "text": "Measurement of an equilateral timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.9.1.1",
+   "text": "Let us measure an equilateral timber thus, whose length is 30 feet and perimeter 36 digits: make 36 by 36: the result is 1296; the twelfth of these: the result is 108. These by the length: the result is 3240 digits."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.10.1",
+   "text": "Measurement of a raft."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.10.1.1",
+   "text": "Let us measure a raft thus: let the joined thickness be 10 cubits, the breadth 20 cubits, and the length 40 cubits. Do thus: the joined thickness by the breadth: the result is 200 cubits. These by the length: the result is 8[000] cubits."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.11.1",
+   "text": "Measurement of a column."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.11.1.1",
+   "text": "Let us measure a column thus, whose length is 10 feet, the greater diameter 4 feet, and the lesser 2 feet: add the 4 and the 2: the result is 6; keep half of these, 3. Double these and make 6. Because the 4 was taken away, add the 2 to the 4; together with the 6 above, the result is 12. Multiply by the 10: the result is 22 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.12.1",
+   "text": "Measurement of a wall."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.12.1.1",
+   "text": "Let us measure a wall thus, whose length is 20 feet, height 12 feet, thickness 2 feet: make the thickness by the height: the result is 24 feet. These by the length: the result is 480 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.13.1",
+   "text": "Measurement of a *tympaneus* (gable piece)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.13.1.1",
+   "text": "Let us measure a *tympaneus* thus, whose base is 14 feet, perpendicular 7 feet, and thickness 2 feet. Do thus: multiply the 7 by the 14: the result is 98. Take away the quarter of these: there remain 73 1/2. Multiply the 2 by the 73 1/2: the result is 147 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.14.1",
+   "text": "Measurement of a round *scuta* (shield-shaped slab)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.14.1.1",
+   "text": "Let us measure a round *scuta* whose diameter is 10 feet. Let us make 10 by 10: the result is 100. Take away the quarter of these: the remainder is 75 feet. Likewise for a half-*scuta* we shall find 37 1/2 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.15.1",
+   "text": "Measurement of a tower."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.15.1.1",
+   "text": "Let us measure a tower thus, whose height is 60 feet, inner diameter 20 feet, thickness 2 feet: double these: the result is 4. Add the 20: the result is 24 feet. These by themselves: the result is 576. Take the quarter of these [away]: there remain 432. Make the 20 feet of the hollow by 20: the result is 400. Take away the quarter of these: there remain 300. Take these away from the 432: there remain 132 feet. These by the [feet] of the height: the total is 7920 feet. The tower is that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.16.1",
+   "text": "Measurement of a vault."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.16.1.1",
+   "text": "Let it be thus: a vault having its curve along the back, that is, the crown, of 20 feet, and the [curve] underneath, at the belly, of 18 feet, and the descent of the vault 24 feet; to find the solid content of the vault. Do thus: add the 20 feet at the top and the 18 feet at the belly: together the result is 38 feet; half of these: the result is 19 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.16.1.2",
+   "text": "Multiply the length by the breadth: the result is 24 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.16.1.3",
+   "text": "Measure thus, if the bedding has 20 cubits, and the height 3 1/3 cubits, the walkway 2 1/6 cubits, the run 73 cubits: add the cubits of the bedding and of the walkway and of the height, and multiply these by the run, and you will find the truth, totalling 436 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.17.1",
+   "text": "Measurement of a ship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.17.1.1",
+   "text": "Let us measure a ship thus: let there be a ship having a length of 40 cubits, breadth 12 cubits, and depth 4 cubits; to find how many *modii* the ship holds. Do thus: multiply the length by the breadth: the result is 480 cubits. Multiply these ten times, and multiply the result again by the 4 cubits of the depth; and you will find that the ship holds 19,200 Italian *modii* of grain. If someone speaks in terms of camp (*castrensis*) *modii*, convert the *modii* into *sextarii* and reckon the *modius* of grain at 24 *sextarii*: the result is 24,320 *modii* of grain. A foot holds 2 *modii* of grain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.18.1",
+   "text": "Another measurement of a ship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.18.1.1",
+   "text": "Let us measure a ship thus, if it has 40 cubits in length, and the diameter of the prow is 6 cubits, of the stern 6 cubits, of the belly 8 cubits, height 4 cubits: add prow and stern: the result is 36 cubits. Add the 6 and the 8: the result is 14; half of these: the result is 7. These by the depth: the result is 28 cubits. These by the length: the result is 1120 cubits. A cubit holds 3 *artabae*: the result is 3360 *artabae*. The *artaba* holds 2 1/4 *modii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.18.1.2",
+   "text": "A cubit holds 10 Italian *modii*, 13 *modii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.19.1",
+   "text": "Measurement of a pool."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.19.1.1",
+   "text": "Let us measure a pool thus: let there be a pool having a length of 40 feet, breadth 20 feet, and depth 4 feet; to find how many *metretae* the pool holds. Do thus: multiply the length by the breadth: the result is 800 feet. Multiply these by the depth: the result is 3200. Say that the pool holds that many *metretae*, for 1 foot holds 1 *metretes*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.19.1.2",
+   "text": "The *metretes* holds 8 *choes*, and the *chous* holds 9 *sextarii*: the result is 23 myriads and 400."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.20.1",
+   "text": "Measurement of a cistern."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.20.1.1",
+   "text": "Let there be a cistern into which 2 channels enter; one fills it in one hour, and the other fills it in 4 hours. In how many hours will they fill the cistern together? Do thus: 1 and 4, 5. Set the cistern at 12 feet; divide the 12 by 5: and you will find that they will fill it in 2 1/3 1/15 hours."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.21.1",
+   "text": "The measurement another way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.21.1.1",
+   "text": "Into a cistern there flowed through an opening a 7th part, and it let out an outflow of an 11th part, and it held 100 jars; to say in how many days the cistern was filled. Do thus: multiply the [numbers] given you, that is 7 [by] 11: the result is 77. Multiply the 100 by the 77: the result is 7700. Now put 7 and 11: the result is 18. The 18th of the 7700: the result is 427 2/3 1/9; so it is clear that the cistern was filled in 427 2/3 1/9 days."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.22.1",
+   "text": "Measurement of a pool."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.22.1.1",
+   "text": "Let us measure a pool thus, whose round [part] has a diameter of 24 feet [and] a depth of 8 feet. Multiply the diameter 24 by 24: the result is 576 feet. From these take away the 4th, 144: there remain 432 feet. [Multiply] these by the depth: the result is 3456 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.23.1",
+   "text": "Measurement of water by the *uncia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.23.1.1",
+   "text": "We determine the measurement of water by the *uncia* by means of the foot-measure and of pipes. The foot has a length of 16 digits and of 12 *unciae*: the result is 256 square digits and 144 [square] *unciae*. And the solid foot, according to the rule and tradition of the engineers, holds 3 *modii* of 85 1/3 digits and of 16 *sextarii*. From these is found the difference between the pipes, how much water each of them receives. A pipe of 12 digits has an area of 113 1/7 digits: this makes 1/4 1/8 1/16 of a foot, 63 1/2 *unciae*, 1 1/4 1/16 *modii*. And [a pipe] of 10 digits has an area of 78 1/2 1/14 digits: this makes 1/4 1/18 of a foot, 44 *unciae*, 1/2 1/4 1/6 of a *modius*. And [a pipe] of 8 digits has an area of 50 1/4 1/28 digits: this makes 1/8 1/14 of a foot, 28 *unciae*, 1/2 1/12 of a *modius*. And [a pipe] of 6 digits has an area of 28 1/3 digits: this makes 1/10 1/80 of a foot, 16 *unciae*, 1/3 of a *modius*. And [a pipe] of 4 digits has an area of 12 1/2 digits: this makes 1/21 of a foot, 7 *unciae*, 1/7 of a *modius*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.24.1",
+   "text": "Measurement of a theatre."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.24.1.1",
+   "text": "Let us measure a theatre thus. Let there be a theatre whose greater circumference is 100 feet and the smaller 40 feet; to find how many people it holds. Do thus: add together the greater circumference and the lesser: the result is 140 feet; half of these: the result is 70 feet. We counted the tiers of the theatre and found them to be 100. Multiply the 100 by the 70: the result is 7000 feet. The theatre holds this many men, that is, 7000."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.25.1",
+   "text": "The calculation another way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.25.1.1",
+   "text": "Let there be a theatre whose greater circumference is 100 feet and the lesser 80 feet; to find how many people are seated. Do thus: the 100 by the 80: the result is 8000. This many men are seated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.25.1.2",
+   "text": "It should be known that one man sits in each 1 foot, that is, in 16 digits."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.26.1",
+   "text": "Measurement of a hippodrome."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.26.1.1",
+   "text": "Let us measure a hippodrome thus, so that we may know how many men it holds. Let it have a length of 200 feet; double these: the result is 400. Count the tiers of one side; for example, let it have 50. Double these too: the result is 100. The 100 by the 400 makes 4 myriads; so it is clear that we must say that the hippodrome holds 4 myriads."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.27.1",
+   "text": "Measurement of the foot."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.27.1.1",
+   "text": "We must find what foot by foot comes to. Do thus: the foot has 16 digits; take these again: the result is 16 by the 16, 256. Resolve these into the 16: the result is 16 digits, 1 foot. So we have one foot from our saying 16 once, and another foot from the multiplication of 16 by 16. So foot by foot is [found for] 1 1/2 by the 1 1/2 thus: set down 16 and the 1/2, 8: the result is 24; by themselves: the result is 576; the 16th of these: the result is 36 digits, which are 2 1/4 feet. 1/2 1/4 by the 1/2 1/4: do thus: 1/2 of the 16: the result is 8; and 1/4 of the 16: the result is 4; together 4 and 8 make 12. Multiply 12 by 12: the result is 144. Multiply also the foot, that is, the 16 digits, by the 16: the result is 256. Now consider what the 144 are of the 256: we say 1/2 1/16; so it is clear that 1/2 1/4 by 1/2 1/4 makes 1/2 1/16. 2 by 2: do thus: twice 16, 32; by 32: the result is 1024; the 16th of these: the result is 64. Resolve into the foot, that is, into the 16 digits: 4 [times] 16 makes 64; so that two by two feet makes 64 digits: the result is 4 feet. 2 1/2 1/4 1/8 1/16 by the 2 1/2 1/4 1/8 1/16: do thus: twice 16, 32; the 1/2 of the 16, 8; the 1/4 of the 16, 4; the 1/8 of the 16, 2; the 16th of the 16, 1: together 47. These by themselves: the result is 2209. Divide these out into the 16 thus: ten times 100, 1000; six times 100, 600; ten times 30, 300; six times 30, 180; ten times 8, 80; six times 8, 48; remainder 1: the result is 139 digits, 8 1/2 1/16 feet. Let this then suffice for showing the exact calculation of the foot."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.28.1",
+   "text": "Measurement of a segment greater than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.28.1.1",
+   "text": "Let it have a diameter of 13 1/2 feet, a width of 2 1/2, a perpendicular of 7 1/4 feet: the result is 195 feet, thus: thirteen times 13, 169; and the 1/2 of the 13, 6 1/2: the result is 175 1/2 feet. And of the width, 2 1/2 by 2 1/2: the result is 5; and of the perpendicular, 7 1/4 by 7 1/4: the result is 14 1/2; together the result is 195 feet. To find the air: do thus: the diameter by itself, these eleven times: the result is 2002 feet; the 28th of these: the result is 71 1/2 feet; these by the width: the result is 178 1/2 1/4 feet. And the excess of the perpendicular, the 1/2 of the foot, by the diameter, these by the width: the result is 17 feet; together 195 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.28.2.1",
+   "text": "The brickwork: add together the diameter and the thickness: the result is 15 feet; these eleven times: the result is 165; the 7th of these: the result is 23 1/2 1/14 feet. And when you have taken away from the excess of the perpendicular the reasonable [amount], that is, the 6 1/2 1/4 feet, there remains to you the 1/2 of a foot. Add these together, since on this side and on that the 1/2 of the foot is in excess: the result is 1 foot. Add it to the 23 1/2: the result is 24 1/2 feet. These by the width and by the thickness, 1 1/2: the result is 91 1/2 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.29.1",
+   "text": "Another measurement of a [segment] greater than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.29.1.1",
+   "text": "Let there be a segment, and let it have a base of 24 feet and a perpendicular of 16 feet, which is greater than a semicircle. Do thus: add together base and perpendicular: the result is 40 feet; these by the 16 of the perpendicular: sixteen times 40 makes 640; the 1/2 of these: the result is 320. Add to them also the 21st: the result is 15 1/6 1/14; together the result is 335 1/6 1/14 feet. The area is this many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.30.1.1",
+   "text": "Measurement of a segment less than a semicircle, whose base is 12 feet and perpendicular 4 feet. Do thus: add together base and perpendicular: the result is 16 feet; the 1/2 of these: the result is 8. These 8 by the perpendicular: the result is 32 feet. And again take the 1/2 of the base: the result is 6 feet; by themselves: six times 6 makes 36; the 14th of these: the result is 2 1/2 1/14 feet. Add these to the 32: the result is 34 1/2 1/14 feet. The area is this much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.31.1",
+   "text": "The calculation another way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.31.1.1",
+   "text": "Make the perpendicular and the base [together]: the result is 16 feet; the 1/2 of these: the result is 8; these by the perpendicular: the result is 32 feet; add the 16th: the result is 34 feet. And we shall find the perimeter thus: add together the half of the diameter and the perpendicular: the result is 10; these by the 22: the result is 220 feet; the 14th of these: the result is 15 1/2 1/7 1/14 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.32.1",
+   "text": "Measurement of a segment greater than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.32.1.1",
+   "text": "Let there be a segment, and let it have a base of 20 feet and a perpendicular of 30 feet; to find its area. Do thus: since it is greater than a semicircle, I complete the circle and find the perpendicular of the lesser segment thus: I take the 1/2 of the diameter: the result is 10 feet; these by themselves: the result is 100 feet; I divide these by the 30 of the perpendicular: the result is 3 1/3 feet; I add these to the 30: the result is 33 1/3; I take away from these the 30: there remain to me 3 1/3; let this be the perpendicular of the lesser segment. Now I find the area of the whole circle: the result is 873 1/2 feet, as has been shown before; and I find [the area] of the lesser segment, as I taught before, and take it away from the whole circle, and let the remainder be the area of the greater segment, as I said before."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.33.1",
+   "text": "Measurement of another segment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.33.1.1",
+   "text": "Let there be a segment, and let it have a base of 40 feet and a perpendicular of 10 feet; to find its perimeter. Do thus: always add together the diameter and the perpendicular: the result is 50 feet; take away from these, as a general rule, the 1/4: the result is 12 1/2; remainder 37 1/2; to these add, as a general rule, the 1/4: the result is 9 1/4 1/8; add together: the result is 46 1/2 1/4 1/8 feet. So much will the perimeter of the segment be. We took away 1/4 and added 1/4 because the perpendicular is the fourth part of the base."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.34.1",
+   "text": "Measurement of another segment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.34.1.1",
+   "text": "Let there be a segment having a base of 14 feet; to find its perimeter. Do thus: the base eleven times; these by 22: the result is 22 feet. And the area: 14, of which the 1/28: the result is 77 feet; and this is reasonable."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.35.1",
+   "text": "Measurement of a circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.35.1.1",
+   "text": "Let there be a circle whose diameter is 14 feet; to find the perimeter. These, once for all, three times and the 1/7: the result is 44 feet. And the area: these 14 by themselves: the result is 196 feet; these eleven times: the result is 2156 feet; of which the 1/14: the result is 154 feet; take away: there remain of the area 2002 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.36.1",
+   "text": "Measurement of a sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.36.1.1",
+   "text": "Let there be a sphere having a diameter of 14 feet; to find its solid content. Do thus: the 14 by themselves: the result is 196 feet; these again by the 14: the result is 2744; the 1/21 of these, 130 1/2 1/7 approximately, for the 1/2 is in excess; of these is the solid content; of which let the 1/21 be the solid content. And to find its surface. Do thus: the diameter by itself; these eleven times: the result is 2156 feet; of these the 1/14: the result is 154 feet; these four times: the result is 616 feet; since the surface of the sphere makes the area of 4 circles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.37.1",
+   "text": "The measurement another way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.37.1.1",
+   "text": "The diameter by the perimeter; and this is the surface of the sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.38.1",
+   "text": "Measurement of a quarter of a conch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.38.1.1",
+   "text": "Let there be a quarter part of a conch whose diameter is 10 1/2 1/4 feet, the perpendicular 6 1/4 feet, the thickness 1 1/4 feet, and the centre 5 1/2 1/4 feet. Do thus: add together the diameter and the thickness: the result is 12 feet; these eleven times: the result is 132 feet; again these eleven times: the result is 1452 feet; of these the 1/14: the result is 103 [?] 1/7 1/21 feet. These by the thickness, 1 1/4: the result is 129 1/3 1/4 1/7 1/21 1/28 1/84 feet, which is the solid content of the brickwork. Now add the excess of the perpendicular; do thus: the 12 of the diameter with the thickness make 13 1/4; of which the 1/7: the result is 1 [?] 1/7 1/21 1/28; together the result is 14 [?] 1/4 1/7 1/21 1/28 feet. These by the 1 1/4: the result is 18 1/6 1/14 1/28 feet; these by the excess of the perpendicular of the 14; add these to the 123 [?] and the other fractions. Take away the deficiency of the centre, the 6 digits, doing thus: the diameter eleven times; of which the 1/7: the result is 18; from which the 3 1/4: remainder 17 1/4; these by the breadth; add also the two thicknesses: the result is 24 1/16 feet; these by the 6 digits: the result is 9 feet; take away from the 149: remainder 140 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.39.1",
+   "text": "Measurement of a pyramid."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.39.1.1",
+   "text": "Let there be a pyramid on a square, whose base is 24 feet and the edges 18 feet; to find the solid content of the pyramid. I do thus: I take the square of the base of the pyramid: the result is 576 feet; and the 18 of the edge by themselves: the result is 324 feet; take the 1/2 of the [square] on the base, the 288: the remaining difference is 36 feet; of which the square root is 6 feet; let this be the perpendicular of the pyramid. To find the solid content: the 1/3 of the perpendicular: the result is 2 feet; these by the area of the base: the result is 1152 feet. So much is the solid content of the pyramid."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.40.1",
+   "text": "Another measurement of a pyramid."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.40.1.1",
+   "text": "A pyramid set on an equilateral triangle. Let us measure thus: let each side of the base have 30 feet; by themselves: the result is 900; of these the 1/3; and the [edges] by themselves: the result is 400. From these take away the 300: remainder 100; of which the square root is 10. So much is the perpendicular. And the area: the 1/3 of the triangle of the base; these by the perpendicular. So much is the solid content."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.41.1",
+   "text": "Measurement of a square pyramid."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.41.1.1",
+   "text": "Let us measure a pyramid on an equilateral square thus: the edges are each 16 feet, and the base 18 feet; to find its perpendicular. Multiply one side of the base [by itself]; these twice; of which the fourth. And one of the edges by itself; from these take away: the remainder is 94. So much is the perpendicular. And the solid content: the 18 by themselves; these by the perpendicular; of these the third. So much is the solid content."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.42.1",
+   "text": "Measurement of a square pyramid broken off, that is, half-finished."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.42.1.1",
+   "text": "The sides of the top are each 4 feet, the edges each 15 feet, and the sides of the base each 28 feet; to find the solid content. Take away the top from the base: remainder 24; of which the 1/2; by themselves; and the edge [by itself]; take away the 144: remainder 81; so much is the perpendicular of the trapezium. And again take away the top; of which the 1/2; by themselves: the result is 144; from which the 81 of the trapezium: remainder 63; of this the square root; so much is the perpendicular. And the solid content: add together top and base; of which the 1/2, 16; by themselves; take the top from the base; of which the 1/2; by themselves; of these the 1/3: the result is 48; add to the 256: the result is 304; these by the perpendicular: the result is 2128 feet. So much is the solid content."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.43.1.1",
+   "text": "Measurement of an isosceles cone, whose diameter is 14 feet and the side 10 feet. Do thus: taking the perimeter, the 44, multiply by the 10; of which the 1/2: the result is 220. So much is the surface."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.44.1.1",
+   "text": "Measurement of a truncated cone, whose lower diameter is 19 feet, the upper 5 feet, the height 7 feet; to find the surface. I seek first the edges, without which the surface is not possible. From the greater diameter I take away the lesser; and we take the 1/2: the result is 7, which is the base of a right-angled triangle whose perpendicular is 7 feet; so that the hypotenuse is 9 1/4 1/8 feet, which is indeed the edge. And I add together each time the two diameters: the result is 24; these by the edge, so that the result is 225; these eleven times; of these the 7th part: the result is 353 1/2 1/14 feet. So much will the surface be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.45.1",
+   "text": "Another measurement of a sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.45.1.1",
+   "text": "Let there be the surface of a segment of a sphere having a diameter of 24 feet and a perpendicular of 5 feet. I do thus: the 1/2 of the base; these by themselves; and the perpendicular by itself; mixing [them], the result is 169 feet; these four times, these eleven times; of these the 1/14: the result is 531 1/7 feet. So much is the surface. And the solid content we shall find thus: the base by itself; from these I take away a 4th part: remainder 432 feet. To these 432 I add a [?] part: the result is 288 feet; together 720. So much is the solid content. A more accurate solution than this we have not found."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.46.1",
+   "text": "Another general measurement of a sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.46.1.1",
+   "text": "The regular surfaces have been measured; the irregular ones are divided up into triangles or into segments, as the figure allows. But if it is not plane, but irregular, as of a statue, [one should] wrap a linen cloth or papyrus around [it] and, stretching it out, measure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.47.1.1",
+   "text": "General measurement of a sphere, whose base is 24 feet and the perpendicular 36 feet. I take the 1/2 of the base; by themselves three times; these by the perpendicular: the result is 15,552 feet; and add the cube of the perpendicular, the 36: the result is 62,208 feet; these eleven times: the result is 68 myriads 4288; divide these 68 myriads 4288 by 21: the result is 3 myriads 2585 1/7. So much is the greater segment of the sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.48.1",
+   "text": "Measurement of a greater segment of a sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.48.1.1",
+   "text": "Of a greater segment of a sphere, whose perpendicular is 24 feet and the base 24 feet, the whole sphere is completed. The 1/2 of the base; by themselves; divide these by the perpendicular: the result is 6 feet; so the perpendicular of the lesser segment added in the drawing will be 6; so that the whole is 30 feet. Measure then a circle whose diameter is 30 feet: the result is 94 1/4 feet; these by the diameter: the result is 2828 feet; of these the 1/4: the result is 707; from these 707 I took away the area of the lesser segment: the result is 90 feet. So the greater segment will be 617 feet, and the lesser [?] feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.49.1.1",
+   "text": "Measurement of a *tetrasirion*, whose diameter is 9 1/2 feet, the perpendicular 7 feet, and the length 13 feet. Add the diameter and the length; of these the 1/2; these by themselves; and these again eleven times: the result is 1391 1/2 feet; of these the 1/14: the result is 99 1/4 feet. These by the perpendicular: the result is 694 1/2 1/4; and add the 1/14 of these: the result is 49 1/2 1/8 feet; so that the result is 744 1/2 in height. If you wish to find its brickwork, add the diameter and the length; of these the 1/2: the result is 11 1/4 feet; these three times and the 1/7: the result is 35 1/4 feet; these by the perpendicular: the result is 246 1/4 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.50.1",
+   "text": "Measurement of a hexagon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.50.1.1",
+   "text": "If the hexagon has a diameter of 10 units, a length of 10 units, and a perpendicular of 5 units, how much is the solid content of the air? Do it thus: these by themselves; these nineteen times; of these the 1/21. And the surface of the space: the diagonal by itself; these eleven times; of these the 1/14. So much is the surface of the hexagon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.51.1",
+   "text": "Measurement of a hexagon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.51.1.1",
+   "text": "On subtracting the air inside: if it has a length of 6 feet, a breadth of 6 feet, and a perpendicular of 3 feet, excluding the thickness of the brick, do it thus: multiply the length by the breadth: the result is 36 feet; these by the perpendicular: the result is 108 feet; these twice: the result is 216; of these the 1/3: the result is 72 feet; and you find the flanks."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.52.1",
+   "text": "Measurement of an octagon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.52.1.1",
+   "text": "Let it be required to draw an equilateral and equiangular octagon. Make a square figure and look at its diagonal; and when you find the 1/2 of the diagonal, take [it] from corner to corner, and you find [how] to set up the sides."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.53.1",
+   "text": "Another measurement of an octagon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.53.1.1",
+   "text": "Let there be an equilateral and equiangular octagon with side 24. These by themselves; these by 29; divide these by 6; so much is the area. And the perimeter: three times the diameter of the circle, and the 1/14; and you find the side exactly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.54.1",
+   "text": "Measurement of plots of land."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.54.1.1",
+   "text": "Let there be an isosceles triangular plot of land. Let us measure thus: the half of the base by the length of the side, and you will find the true [value]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.55.1.1",
+   "text": "A triangular plot of land with unequal legs let us measure thus: the left side having 365 *akainai*, the right side 310 *akainai*, and the base 200 *akainai*: add together the two sides, and [take] the 1/2 of these by the 1/2 of the base; and you will find the true [value]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.56.1.1",
+   "text": "A round plot of land shaped like a threshing floor let us measure thus, whose perimeter is 540 *akainai* and the diameter 180 *akainai*. Do it thus: the 1/3 of the diameter by the circumference; and you will find the true [value]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.57.1.1",
+   "text": "Let us measure a plot of land which has a square and two triangles off it: the square separately and the triangles separately, in two figures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.58.1.1",
+   "text": "A hexagonal plot of land let us measure thus: the middle [part] as a square and the middle ones as triangles, as also the rest, and likewise octagonal plots too; and the triangles separately."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.59.1.1",
+   "text": "A plot of land of different breadths in four places let us measure thus: the breadth has 20 *akainai*, that near the middle 15 *akainai*, further 12 *akainai*, and the narrow part 8 *akainai*; adding them all together, divide [by] four; and you will find 13 1/2 1/4. These again by the length; and you will find the true [value]. The *akaina* has 12 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.1",
+   "text": "On weights."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.1.1",
+   "text": "Talent. This amounts to 125 *litrai*; but in terms of the small units of coinage, cut into small pieces, it is divided into 6 *lepta*, which are called *assaria*, which is interpreted from Hebrew as 'diminished'. The silver piece was 60 *assaria*. Those 2 that were cast by the widow into the treasury were *denarii*, which were also called two *lepta*; for the *assaria* were very tiny."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.2.1",
+   "text": "*Centenarium*, from the Roman *centum*, which is 100."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.3.1",
+   "text": "*Litra* is from Hebrew; for *li* means 'to me', and *tra* 'it matters'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.4.1",
+   "text": "The *uncia* has 2 staters, and in Hebrew it is called *chouza*. The stater is 1/2 *uncia*, and two didrachms, which are called *epikephalaia*, and in the Roman tongue *capitium*; for they call the head *caput*. The didrachm is two drachms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.5.1",
+   "text": "Shekel, from the Hebrew *sekel*, which is 'weight'; it has two of the so-called *lepta*, which are 2 drachms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.6.1",
+   "text": "Two didrachms are two shekels according to the holy shekel, which make one stater."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.7.1",
+   "text": "The stater, or weight, makes up the measure of 2 didrachms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.8.1",
+   "text": "The shekel is also called *quadrans*; and *quadrans* is interpreted from Hebrew as 'bundle'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.9.1",
+   "text": "The shekel itself is 1/4 of the *uncia*, 1/2 of the stater, and has 2 drachms; for the drachm is 1/8 of the *uncia*. The drachm is also called *holke*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.10.1",
+   "text": "The hair of Absalom's shearing was of the weight of 125 shekels, which is 31 *unciae* and 1 shekel, or 2 1/2 *litrai* and one shekel."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.11.1",
+   "text": "Obol. This is an eighth of the *uncia*, made of iron. It was an arrowhead; for before the coming of Christ, since their life was spent in wars, they had need [of them] against their enemies, and by such things they conducted their affairs, each giving 5 or 10 arrows and buying bread or something else. By weight this is 1/8 of the *uncia*. There was also another obol, a coin struck from silver, which was very small, an eightieth of the *uncia*; and the didrachm is 20 obols, which is 1/4 of the *uncia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.12.1",
+   "text": "The bronze is coined silver, whence among the Alexandrians silver coins are called bronzes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.13.1",
+   "text": "The drachm is 1/8 of the *uncia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.14.1",
+   "text": "*Mna* instead of *mane*; for in Hebrew silver is called *mane*. The Italian [mina] is 40 staters, that is, 20 *unciae*, 1 2/3 *litrai*; the Theban is 60 staters, that is, 2 1/2 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.15.1",
+   "text": "There were many types of silver coins of old, which they called *nummi* from Numa, from whom also [comes] *nomisma*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.16.1",
+   "text": "The *miliaresion* is the silver [coin], which is 1 military payment; for *militia* is military service."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.17.1",
+   "text": "The *follis* makes up 125 silver pieces; among the Romans it is called a purse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.18.1",
+   "text": "The *mares* is a Pontic measure of 2 *hydriai*, and the *hydria* among them is 10 *sextarii*, so that the *kypros* is 20 Alexandrian *sextarii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.19.1",
+   "text": "The *kypros* is a measure of 2 *modii*, and it is said among the Pontians to be 5 *choinikes*; the *choinix* is 2 *sextarii*, so that the *kypros* is 20; for the great *modius* among them is 24 *sextarii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.20.1",
+   "text": "*Litra* among the Romans is rendered *libra*, which is derived among them [as meaning] equality or equal balance; it has 12 *unciae*. The name of the *uncia* was derived from Greek, from *onkos*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.21.1",
+   "text": "The *litra* is 288 *grammata*, and each *gramma* is 6 *keratia*; these are seeds from the fruit of the carob tree, and this seed, if it is full-grown, makes the weight of 2 well-grown barleycorns, so that the *litra* is 3456 grains of barley, 1728 *keratia*, 288 *grammata*, 12 *unciae*; and the *uncia* is 24 *grammata*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.22.1",
+   "text": "Again, otherwise, the *uncia* is divided among the Hebrews into 2 staters, the stater has 2 shekels, the shekel has two *lepta*, and the *lepton* is 1 *holke*, 1/8 of the *uncia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.23.1",
+   "text": "Among some the obol is also [called] *nomisma*, from the kings' having thought (*nomisai*) that the world is governed by it. We call it *argyrion* because it is struck from silver (*argyros*). The great one, which was called the silver piece, is 100 *denarii*, and each *denarius* is 60 *assaria*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.24.1",
+   "text": "Silver is called *mane* among the Hebrews."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.60.25.1",
+   "text": "*Xestes* is from Greek, from the large measures being shaved (*xeesthai*) down into small ones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.1",
+   "text": "On measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.1.1",
+   "text": "Kor: 30 *modii*; among the Hebrews it is called *chor*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.2.1",
+   "text": "Lethek: 15 *modii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.3.1",
+   "text": "Gomor: likewise 15 *modii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.4.1",
+   "text": "Bath: a measure of 50 *sextarii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.5.1",
+   "text": "*Mnas*: ten *modii* of wheat or barley; it is taken from the Roman *medium*, which is 'middle'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.6.1",
+   "text": "*Medimnos*: the Salaminian ones of 5 *modii*, the Sicilian of 4 1/2."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.7.1",
+   "text": "*Saton*: a heaped *modius*; among the Hebrews feminine, among the Greeks neuter. It is a heaped *modius* among the Hebrews, and on account of the heaping, the overflow, the 1/4 of the *modius*, is called *sao*, that is, 'taking, lifting'. The *modius* among the Hebrews is 22 *sextarii*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.8.1",
+   "text": "*Kabos*: sometimes the 1/4 of the *modius*, sometimes the 1/5, sometimes the 1/6. *Kaba* in Hebrew is 'he cut', and it was so named because the *modius* is cut into small parts; among the Greeks it was called *kabos* on account of its clarity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.9.1",
+   "text": "*Choinix* and *hyphei* are one measure but called by a double name: in Hebrew masculine, in Greek feminine. It is the 1/8 of the *modius* among the Cypriots, which *modius* among them is of 17 *sextarii* and a cup. The *hyphei* is called, from Hebrew itself, *ophen*, which is the measure of the 2 handfuls of the hand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.10.1",
+   "text": "*Drax*: the handful of one hand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.11.1",
+   "text": "*Artaba* among the Hebrews: 72 *sextarii*; and likewise the *metretes* too is 72 *sextarii* by the holy measure, both the liquid *metretes* and the *artaba* of grain. The *artaba* was named from the Egyptian *ortob*, which is 'well gathered'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.12.1",
+   "text": "3 measures [make] the small *gomor*, which is of 6 *sextarii*, so that it is the 1/10 of the *artaba*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg011.1st1K-grc1.61.13.1",
+   "text": "Three measures of fine flour. Each of these three measures held a *gomor*, and the *gomor* was a tenth of the large measure, that is, of the *artaba*, which comes to 7 1/5 *sextarii*; so that in the same measure of the *gomor* there were in turn three measures, which came to 2 1/3 1/15 *sextarii* [each]. And the measure is of this kind; for the manna, or *gomor*, was supplied in measure, which in respect of the priesthood is a threefold tithing, and in respect of the symbol of the name, since every tenth of a measure is indicated by iota, which is the name of the bread, IU, in which measure the three measures gathered together into one showed the consubstantiality of the holy Trinity itself."
+  }
+ ]
+}

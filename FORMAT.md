@@ -33,14 +33,15 @@ Each file in `translations/` is one JSON object for one work, in UTF-8. The `tes
 - **`translator`:** always "Claude (AI-generated)". Classica Codex marks any edition whose translator says "(AI-generated)" as AI-made wherever it shows it.
 - **`model`:** the model that translated.
 - **`made`, `updated`:** dates.
+- **`whole_work`:** present, and `true`, only in a file that translates the whole work: every line of the source edition. Files without it hold only cited passages.
 - **`header`:** the edition's bibliographic header:
   - `source` says what it was translated from;
   - `statement` is the label;
   - `availability` is the licence and the credit it requires.
 - **`nodes`:** the translated lines, in the source edition's order.
   - Each `ref` is the source edition's own reference, verbatim: a book and line, a manuscript leaf and line (`52v.9c`), a Talmud folio and line (`68b.13`), and so on. A line can be matched to its original by that reference alone.
-  - Only cited passages are translated, so a file covers some of a work, not all of it.
-- **`notes`:** the translators' notes on doubtful readings, disputed words and damaged text, keyed by the first reference of the passage they belong to.
+  - A file without `whole_work` covers only the cited passages of a work. A whole work's file has one line for every line of its source edition, headings included.
+- **`notes`:** the translators' notes on doubtful readings, disputed words and damaged text, keyed by the first reference of the passage they belong to. In a whole work, a note belongs to the stretch of about 1,200 words that begins at its reference.
 
 ## Conventions in the English
 

@@ -1,0 +1,337 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg1750.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg1750.tlg001.ai-claude",
+ "source_edition": "tlg1750.tlg001.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "De prophetarum vita et obitu (Dorothei recensio): AI translation (Claude)",
+  "author": "Vitae Prophetarum",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg1750.tlg001.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.1.head": "Headings give the supposed meanings of the prophets' names. Several scanning errors read as intended: ἐπισρέψωμεν (ἐπιστρέψωμεν), χλιάσιν (χιλιάσιν), ἐπιστέψει (ἐπιστρέψει), χαὰβ (Ἀχαάβ), ερουσαλήμ (Ἱερουσαλήμ). In 6.2 the clause beginning ἥν τότε Ἠλίας is syntactically broken (the text seems to have lost a transition to the Elijah episode); translated as a new sentence. 'Oak of Lebanon' (Λιβάνου βαλάνου) is as printed; other recensions read 'oak of Deborah'. 'Dabeir' is the inner sanctuary (debir) of the temple. Place names Belemoth, Bithacharam, Kariathmaous, Sour, Saar, Betabaren, Bethitouchar transliterated as given.",
+  "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.9.head": "Habakkuk entry in 'before' begins mid-sentence. 'θύγατερερουσαλήμ', 'αβυλῶνα', 'ερουσαλήμ' read as θύγατερ Ἱερουσαλήμ, Βαβυλῶνα, Ἱερουσαλήμ. Zechariah blessing 'him' after Cyrus: referent ambiguous (Cyrus or Zerubbabel). 'Sphertelleim' is a transliteration of the Hebrew title of Judges (Sepher Shophetim). Sabarthatha, Sopha, Noeman, Bethzaria and Bishop Ephidus not securely identified. 'Kingdoms' = Samuel–Kings; 'Paraleipomena' = Chronicles.",
+  "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.13.head": "13.2: \"αβαὼν\" read as Γαβαών (Gabaon); \"αὐτῷ\" in the oracle clause taken loosely as referring to the people. 14.2: the supplement 〈ἠνόχλουν αὐτὸν〉 reads literally \"were troubling him\"; rendered \"them\" for sense. \"Ἀντιγόνου καὶ τολεμαίου\" read as Πτολεμαίου; \"σραὴλ\" as Ἰσραήλ. \"περιθεὶς αὐτὰ… κύκλῳ\" is obscure; \"[the city]\" is a conjecture. \"πανευώνυμον\" (most auspicious/well-omened) is uncertain.",
+  "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.head": "15.2: 'Sarira' and the field 'Maour' are unidentified. 'Σὴθ' is rendered Shem following the sense (forefathers of Abraham with Arphaxad); the text has Seth. 15.7: the bracketed phrase 'all the days of his life' appears misplaced in the edition. 16.3: 'πεντα... τεσσαρακοντάκις' rendered 'forty times'; 'Δαίμων ... ἐλάνθανεν' probably means a demon came over him and he forgot he had become human, though the sense is uncertain. 16.4: the bracketed phrase is a doublet in the edition; 'as his son' likely means Daniel received the same name as Nebuchadnezzar's son (Belshazzar/Belteshazzar share Βαλτάσαρ in Greek).",
+  "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.17.2": "17.2: 'Thesbis' (Tishbe) and 'Sobacha' (Elijah's father) kept as given. 18.1: 'ἐν αλγάλοις' read as ἐν Γαλγάλοις (Gilgal); 'διὰ τῶν δήλων' taken as the Urim (δῆλοι, LXX term for the priestly oracle). 19.1: 'ἐξ ερουσαλήμ' read as ἐξ Ἱερουσαλήμ; 'ἐπὶ τοῦ Ἐλάμ' is obscure, perhaps a corruption of Αιλάμ (the temple porch/vestibule). 21.1: the identification of Ahijah with 'Adonias' is as the text gives it. 22.1: Joath is the unnamed man of God of 1 Kings 13; 'Samarin' unidentified (other recensions: Samareim). 23.1: 'Synatha' unidentified."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.1.head",
+   "text": "On Hosea. [The name means] \"Being saved.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.1.1",
+   "text": "This Hosea is the first of the twelve prophets, and he was found worthy to speak about the Master Christ as follows: \"When they are afflicted, they will rise early [to come] to me, saying: Come, let us return to the Lord our God, for he has torn, and he will heal us; having struck, he will bind us up; he will make us whole after two days; on the third day we shall rise up before him, and we shall know.\" From this passage the apostle Paul says to the Corinthians: \"For I handed on to you first of all what I also received, that Christ died for our sins according to the scriptures, and that he was buried, and that he was raised on the third day according to the scriptures\"; it is not possible to find [this] anywhere else. The prophet further says, fittingly with regard to the Master Christ: \"My flesh is from them.\" Again he says: \"Ephraim has surrounded me with falsehood, and the house of Israel and Judah with impiety. Now God has known them, and a holy people of God shall be called\" from the tribe, because of the Master Christ who was shown forth from it according to the flesh; [here] he named Judah the holy people of God. Further again the same prophet [says]: \"From the hand of Hades I will rescue them. Where is your penalty, O death? Where is your sting, O Hades?\" The apostle Paul used this passage concerning the resurrection."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.1.2",
+   "text": "This Hosea was from Belemoth of the tribe of Issachar, and he was buried in his own land in peace."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.2.head",
+   "text": "On Amos. [The name means] \"Strengthening.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.2.1",
+   "text": "This [is] the second, Amos, and he too was found worthy to speak about the coming of the Master Christ as follows: \"For behold, I am the one who strengthens the thunder and creates the wind and announces to men his Christ.\" He further says: \"On that day I will raise up the fallen tent of David, and I will rebuild its fallen parts, and I will rebuild it as in the days of old, so that the rest of mankind may seek out the Lord, and all the nations upon whom my name has been called, says the Lord who does these things.\" James the apostle recalls this passage in the Acts of the Apostles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.2.2",
+   "text": "Amos was from Tekoa, and Amaziah frequently beat him. Finally his son killed him, striking him on the temple with a club, and while still breathing he came to his own land, and after two days he died, and was buried there."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.3.head",
+   "text": "On Micah. [The name means] \"General.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.3.1",
+   "text": "This Micah [is] the third, who too was found worthy to foretell the coming of the Master Christ, and he says: \"And you, Bethlehem, house of Ephrathah, you are the least to be among the thousands of Judah; from you shall come forth for me one to be ruler in Israel, and his goings forth are from the beginning, from the days of old.\" Taking this passage, the chief priests and scribes of the Jews, when Herod demanded of them where the Christ was to be born, said: \"In Bethlehem.\" For this reason he then sent the magi to Bethlehem. The prophet himself further says: \"He will return and have compassion on us; he will sink our sins, and cast all our iniquities into the depths of the sea; he will give truth to Jacob, mercy to Abraham, as he swore to our fathers in the days of old.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.3.2",
+   "text": "Micah was from Morasthi, of the tribe of Ephraim. Having done much [in opposition] to Ahab, he was killed by Joram his son by [being thrown from] a cliff, because he rebuked him for the impieties of his fathers; and he was buried in his own land alone, near the common burial ground of the Anakim."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.4.head",
+   "text": "On Joel. [The name means] \"Self-chosen strength.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.4.1",
+   "text": "This Joel the prophet too was found worthy to foretell the mystery concerning the Master Christ; for he speaks as follows: \"And it shall be after these things, I will pour out of my Spirit upon all flesh, and your sons and your daughters shall prophesy, and your elders shall dream dreams, and your young men shall see visions; and upon my male servants and upon my female servants in those days I will pour out of my Spirit, and I will give wonders in the heaven above and on the earth blood and fire and vapour of smoke. The sun shall be turned into darkness, the moon into blood, before the great and manifest day of the Lord comes. And it shall be: everyone who calls upon the name of the Lord shall be saved.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.4.2",
+   "text": "The blessed Peter recalls this passage as being fulfilled in the Acts of the Apostles, when the descent of the Holy Spirit upon the apostles took place on the day of Pentecost."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.4.3",
+   "text": "Joel was from the land of Reuben, from the field of Bethomoron, and he died in peace and was buried there."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.5.head",
+   "text": "On Obadiah. [The name means] \"Serving the Lord.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.5.1",
+   "text": "This Obadiah, the fifth, also speaks, being found worthy to speak about the mystery concerning Christ as follows: \"For the day of the Lord is near upon all the nations.\" On the obvious level it is said of the Scythians, that is, of Gog and Magog; but more properly it fits the Master Christ, for he adds shortly after: \"But on Mount Zion there shall be salvation.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.5.2",
+   "text": "Obadiah was from the land of Shechem, from the field of Bithacharam. He was a disciple of Elijah, and after enduring much on his account he is preserved. He was the third captain of fifty, whom Elijah spared, and he went down to Ahaziah; and after this, leaving the king's service, he prophesied, and died and was buried with his fathers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.6.head",
+   "text": "On Jonah. [The name means] \"Prayer of the Lord\"; the same [is] \"baptizer.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.6.1",
+   "text": "This Jonah [is] the sixth, who not by words but by deed and type foreshowed the resurrection of Christ. For the Lord says: \"As Jonah remained in the belly of the sea monster three days and three nights.\" For just as the sea monster vomited out Jonah uncorrupted, so too the tomb vomited out the Master into a better life."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.6.2",
+   "text": "Jonah was from the land of Kariathmaous, near Azotus, a city of the Greeks by the sea; and having been cast up from the sea monster and having gone to Nineveh, on his return he did not stay in his own land, but taking his mother with him he settled as a sojourner in Sour, a country of foreign nations. For he said: \"In this way I shall take away my reproach, because I spoke falsely in prophesying against Nineveh, the great city.\" At that time Elijah, rebuking also the house of Ahab, and having called down a famine upon the land, fled. And coming, he found the widow with her son and stayed with them, for he could not stay with the uncircumcised; and he blessed her. When Jonah died, God raised him again from the dead through Elijah; for he wished to show him that it is not possible to run away from God. And having risen, Jonah after the famine came into the land of Judah, and when his mother died on the way he buried her beside the oak of Lebanon. He died in the land of Saar, and was buried in the cave of Kenaz, who had become judge of one tribe in the days of the anarchy. And he gave a portent concerning Jerusalem and the whole land: when they see a stone crying out piteously, the end is near; and when they see all the nations in Jerusalem, then the city will be destroyed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.7.head",
+   "text": "On Nahum. [The name means] \"Consolation.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.7.1",
+   "text": "This Nahum, the seventh, was also found worthy to foretell the resurrection of the Master Christ, and he says: \"Celebrate your feasts, O Judah, pay your vows to the Lord, for they shall no longer pass through [you] to decay. It is finished, it is taken away; he has come up who breathes into your face, who rescues you from affliction.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.7.2",
+   "text": "Nahum was from Elkesei, beyond Betabaren, of the tribe of Simeon. After Jonah he gave a portent to Nineveh, that it would perish by fresh waters and subterranean fire; which also happened. For the lake surrounding it flooded it in an earthquake and destroyed it; and fire coming from the desert burned its higher part. He died in peace and was buried in his own land."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.8.head",
+   "text": "On Habakkuk. [The name means] \"Embrace.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.8.1",
+   "text": "This Habakkuk, the eighth, was also found worthy to speak about the resurrection of Christ as follows: \"Look, you scoffers, and gaze and marvel and vanish, for I am working a work in your days which you will not believe if someone tells it in full.\" Paul fittingly took this passage concerning the resurrection of the Master Christ at Antioch of Pisidia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.8.2",
+   "text": "Habakkuk was of the tribe of Simeon, from the field of Bethitouchar. Before the captivity he saw [a vision] concerning the capture of Jerusalem, and he mourned. When Nebuchadnezzar came to Jerusalem, he fled to Ostracine and was a sojourner in the land of Ishmael. But when the Chaldeans returned, and the remnant that was in Jerusalem went down to Egypt, he was living in his own land. And he served the reapers of his field. When he had taken the food, he prophesied to his own people, saying: \"I am going to a distant land and I shall come quickly; but if I delay, bring [food] to the reapers.\" And having been in Babylon and having given the meal to Daniel, he came upon the reapers as they were eating, and said nothing of what had happened. He understood that the people would return from Babylon quite soon. And two years before the return he dies, and was buried alone in his own field in Judaea. And he foretold concerning the end of the temple, that it would come about by a western nation. \"Then,\" he says, \"the veil of the Dabeir and the capitals of the two pillars will be taken away, and no one will know where they will be. But they will be carried away by an angel into the desert, where the tent of witness was pitched at the beginning; and by them the Lord will be known at the end, and he will give light to those pursued by the serpent in darkness, as from the beginning.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.9.head",
+   "text": "On Zephaniah. [The name means] \"Watching.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.9.1",
+   "text": "This Zephaniah, the ninth, was also found worthy to prophesy about the Master Christ, for he speaks as follows: \"The Lord will appear against them, and he will utterly destroy all the gods of the nations of the earth, and they will worship him, each from his own place, all the islands of the nations.\" Again he says: \"For I will turn upon the peoples a tongue for its generations, so that all may call on the name of the Lord, to serve him under one yoke. From the ends of the rivers of Ethiopia they will bring sacrifices to me.\" And again he says: \"Rejoice greatly, daughter of Jerusalem; be glad and delight with all your heart, daughter of Jerusalem. The Lord has taken away your wrongdoings, he has redeemed you from the hand of your enemies; the Lord will reign in your midst; you will not see evils any more.\" All of these fit more properly the Master Christ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.9.2",
+   "text": "Zephaniah was of the tribe of Simeon, from the field of Sabarthatha. He prophesied about the city and about the end of Israel and the shame of the impious; and when he died he was buried in his field."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.10.head",
+   "text": "On Haggai. [The name means] \"Feast.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.10.1",
+   "text": "This Haggai, the tenth, was also found worthy to foretell about the Master Christ, saying, as though to the person of Zerubbabel, the things that fit the Master Christ: \"And I will make you a seal, because I have chosen you, says the Lord Almighty,\" just as John the evangelist also says: \"For him God the Father has sealed.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.10.2",
+   "text": "Haggai came as a young man from Babylon to Jerusalem and openly prophesied about the return of the people. And he saw in part the building of the temple; and when he died he was buried near the tomb of the priests with honour, as they [were]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.11.head",
+   "text": "On Zechariah. [The name means] \"Remembrance of God.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.11.1",
+   "text": "This Zechariah, the eleventh, was also found worthy to foretell the coming of Christ, saying as follows: \"Rejoice greatly, daughter of Zion; proclaim, daughter of Jerusalem: behold, your king comes, just and saving, himself meek and mounted on a beast of burden and a young colt.\" He spoke this passage hyperbolically of Zerubbabel, but it had its fulfilment properly in the Master Christ. He says further: \"And I will say to him: What are these wounds between your hands? And he will say: Those with which I was struck in the house of my beloved.\" And a very little after: \"I will strike the shepherd, and the sheep of the flock will be scattered.\" The Lord recalls this passage at the time of the passion, when he was about to be handed over, having said it of himself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.11.2",
+   "text": "Zechariah came from the Chaldeans already advanced [in years], and there he prophesied many things to the people and gave portents as proof. He said to Josedek, \"You will also serve as priest in Jerusalem.\" He also blessed Shealtiel over a son and gave him the name Zerubbabel. And in the time of Cyrus he gave a portent for victory. And he foretold concerning his service which he would perform for Jerusalem, and blessed him greatly. The matters of his prophecy he saw in Jerusalem: he set forth [prophecies] about the end of the nations and of the temple, the idleness of prophets and priests, and a twofold judgement. And he died at a great old age, and was buried close to Haggai [near Eleutheropolis, forty stadia away, in the field of Noeman, in the times of Bishop Ephidus. It was revealed that he is Zechariah son of Barachiah, whom Isaiah mentions; and the name of the field where he lies is Bethzaria, a hundred and fifty stadia distant from Jerusalem.]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.12.head",
+   "text": "On Malachi. [The name means] \"Angel.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.12.1",
+   "text": "This Malachi, the twelfth, was also found worthy to prophesy the things concerning the dispensation of the Master Christ. He too speaks thus: \"For from the east to the west my name has been glorified among the nations. And in every place incense is offered to my name, and a pure sacrifice; for my name is great among the nations, says the Lord Almighty.\" And again he says: \"Behold, I will send my messenger, and he will survey the way before your face.\" This passage the Lord took as referring to himself and to John the Baptist. The same prophet says further: \"And for you who fear my name the sun of righteousness will rise, with healing in its wings, and you will go out and leap like calves let loose from bonds, and you will trample the lawless, for they will be ashes under your feet on the day which I am making, says the Lord Almighty. And behold, I am sending you Elijah the Tishbite before the great and manifest day of the Lord comes,\" just as the Lord said to the Jews: \"And if you are willing to accept it concerning John, he is Elijah who is to come.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.12.2",
+   "text": "This Malachi was born after the return in Sopha, and while still very young he led a good life. And since all the people honoured him as holy and gentle, they called him Malachi, which is interpreted \"angel.\" For he was also comely in appearance; and moreover, whatever he himself said in prophecy, an angel of the Lord appeared that same day and repeated it, as happened in the days of anarchy, as is written in Sphertelleim, that is, in the book of Judges. And while still young he was gathered to his fathers in his field."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.12.3",
+   "text": "[These, then, are the twelve prophets who are counted in one book; from it we shall proceed to the four great ones, each of whom has his own book, and indeed also to the other famous prophets whose writings are not extant, having first considered these matters.]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.12.4",
+   "text": "Next we shall proceed to the four great [prophets], having completed with God's help the twelve. All the prophets prophesied and reminded the Jews of the promises of God which he made to the fathers: how he promised to bless all the nations in the seed of Abraham through the dispensation of the Master Christ; and how God formerly redeemed them from the slavery of the Egyptians with a high arm, and gave them the land of promise; and how they would be led away captive to Babylon by Nebuchadnezzar, and would return again in glory, and would again suffer evils at the hands of Antiochus and the surrounding nations, and how they would overcome these too by divine power; and that then the one awaited from the seed of Abraham would come for the salvation of the whole world, according to the promises from of old. This is the work of the prophets. Some of them wrote their own books themselves, as David composed the book of the Psalms, and Daniel in the captivity was commanded to write what was revealed to him through visions; or some others too. But the rest did not write for themselves; rather there were scribes in the temple who wrote down the word of each prophet as in a daybook. And whenever a prophet was sent by God to proclaim, either about Jerusalem, that it was about to be taken captive, or about Samaria, or about other places, or about the return, or about Antiochus, or about the surrounding nations, or about the Master Christ himself, on the day he prophesied they wrote under the word of that prophet what he proclaimed about one matter. And again after a time, if he proclaimed about another matter, they wrote again, appending it to his word, making what he proclaimed the beginning of a chapter; and so they composed his whole book. Hence one can find in their books a chapter fitting the captivity of Babylon or the return, and immediately another about Christ, and again one speaking about the captivity and the return [or another on a subject, and again another about something else, and again another on the former subject]. And to put it simply: unless you read attentively, you will find everything confused. And not only these prophetic writings, but also the Kingdoms were written in this way in the temple piecemeal: in the time of Saul the things up to Saul, and in the time of David the things up to David. Likewise the deeds of each king were written in his own time. Likewise they wrote also in the archives of the kings, which we call Paraleipomena. Moses wrote the Pentateuch, a history of things past, present and to come. Joshua in turn [wrote] his own book; Judges in turn [was written] in the temple, that is, in the tabernacle, and likewise Ruth. Solomon in turn wrote his own works, the Proverbs, the Songs and Ecclesiastes, having received the gift of wisdom from God and admonishing every person to live wisely in this life; for he had not received the gift of prophecy. So we have set in order as many prophets as we found worthy to speak about the Master Christ. Let us write further about the other four prophets too, as much as they were found worthy to say about the dispensation of the Master Christ, to which the whole aim of divine Scripture looks. Let us then bring forward first the most loud-voiced Isaiah, who was found worthy both in figure and in word to see and foretell the mystery of Christ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.13.head",
+   "text": "On Isaiah."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.13.1",
+   "text": "This is the great Isaiah, the son of Amoz, who saw in figure the things of the mystery of Christ, when he saw the Lord sitting on a throne, high and lifted up; and seraphim stood around him, six wings to the one and six wings to the other, covering themselves, and they cried one to another: \"Holy, holy, holy, Lord Sabaoth, the whole earth is full of his glory.\" Upon this one of the seraphim was sent and took a coal from the altar with the tongs, and touched his lips, saying: \"This will take away your sins\"; [so he was] clearly taught, through the vision shown and the hymn and the figure, to foretell the mystery of Christ. And again he also speaks in word thus: \"As a sheep he was led to slaughter, and as a lamb before its shearer [he was] dumb.\" The Ethiopian eunuch, having read this passage, asked Philip to have it interpreted for him, and he very quickly interpreted it as spoken by the prophet about the Master Christ. Again he says: \"A man being under a blow and knowing how to bear sickness.\" And again: \"For he did no lawlessness, nor was deceit found in his mouth, and the Lord wills to cleanse him from the blow and to show him light.\" And again: \"Thus says the Lord: Behold, I will lay in the foundations of Zion a costly stone, chosen, a cornerstone, precious, for its foundations. And whoever believes in him shall not be put to shame.\" And again: \"There shall be on that day the root of Jesse, and he who rises to rule the nations; in him the nations will hope.\" And again: \"The Spirit of the Lord is upon me, because he has anointed me.\" The Lord, having read this in the synagogue on the sabbath, said: \"Amen, I say to you, today this scripture has been fulfilled in your ears.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.13.2",
+   "text": "Isaiah was from Jerusalem; he died under Manasseh, sawn in two, and was laid beneath the oak of Rogel, near the crossing of the waters which King Hezekiah destroyed by blocking them up. And God made the sign of Siloam for the sake of the prophet, because before he died, growing faint, he prayed to drink water, and at once it was sent to him from it; for this reason it was called Siloam, which is interpreted \"sent.\" And in the time of Hezekiah, before he made the cisterns and the pools, at the prayer of Isaiah a little water came out, because the people were besieged by foreigners, and so that the city should not perish for lack of water. For the enemies were asking where they were drinking from; and having encamped against the city they sat down beside Siloam. So whenever the Jews prayed together with Isaiah, the water came out; therefore to this day it comes out suddenly, so that this great mystery may be shown. And since this happened through Isaiah, for remembrance's sake the people of the Jews also buried him near Siloam carefully and with honour, so that through his holy prayers, even after his death, they might likewise have the enjoyment of the water, for an oracle had also been given to them about him, to do so. The tomb is next to the tomb of the kings, behind the tomb of the Jews, on the side towards the south. For Solomon made the tombs of David, laying them out to the east of Zion, which has an entrance from Gabaon, twenty stades distant from the city. He made it winding, complex, unsuspected; and to this day the entrance is unknown to most of the priests and to the whole people. There King Solomon kept the gold from Ethiopia and the spices. And since Hezekiah showed the secret of David and Solomon to the gentiles and defiled the bones of his forefathers, for this reason God cursed his seed to be in slavery to his enemies, and God made him fruitless and childless from that day."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.14.head",
+   "text": "On Jeremiah."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.14.1",
+   "text": "This Jeremiah too was found worthy to foretell the mystery of Christ, speaking thus: \"And they took the thirty pieces of silver, the price of him who was priced, whom they priced from the sons of Israel, and they gave them for the potter's field, as the Lord commanded me.\" The evangelist Matthew also mentions this passage as fulfilled at the time of the Passion. Again the same prophet says: \"Behold, days are coming, says the Lord, and I will make with the house of Israel and the house of Judah a new covenant, not according to the covenant which I made with their fathers, on the day when I took them by the hand to lead them out of the land of Egypt; for they did not abide in my covenant, and I disregarded them, says the Lord, giving my laws into their mind, and I will write them upon their heart, and I will be their God, and they shall be my people. And they shall not teach each his brother and each his neighbour, saying: Know the Lord, for all shall know me, from the least to the greatest of them, for I will be merciful to their iniquities and I will remember their sins no more.\" The apostle also mentions this passage in the Epistle to the Hebrews."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.14.2",
+   "text": "Jeremiah was from Anathoth, and in Taphnai of Egypt he died, stoned by the people. He lies in the place of Pharaoh's dwelling, because the Egyptians honoured him, having been benefited through him. For he prayed for them. For the beasts of the waters [were troubling them], which the Egyptians call Ephoth and the Greeks crocodiles. And those who are faithful to God pray in that place to this day, and taking the dust of the place they heal people's bites, and many drive away the very beasts in the water. We heard from the children of Antigonus and Ptolemy, old men, that Alexander of the Macedonians, standing at the prophet's tomb and learning the mysteries concerning him, moved his remains to Alexandria, placing them around [the city] with honour, and the race of asps was kept out of that land, and likewise out of the river; and so he put in the snakes called *argolai* (that is, snake-fighters), which he brought from Argos in the Peloponnese, whence they are also called *argolai*, that is, \"right-hand ones of Argos\"; and they have a most sweet and most auspicious voice."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.14.3",
+   "text": "This Jeremiah gave a sign to the priests of Egypt, that their idols must be shaken and fall down through a saviour, a child born of a virgin and lying in a manger. Therefore even now they deify a virgin in childbed, and, placing an infant in a manger, they worship it. And when King Ptolemy inquired the reason, they said that it is a mystery handed down from our fathers, delivered to our fathers by a holy prophet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.14.4",
+   "text": "This prophet Jeremiah, before the capture of the temple, seized the ark of the law and the things in it, and had them deposited in a rock, and said to those standing by: \"The Lord has departed from Sinai into heaven, and the lawgiver will come again from Zion in power; and let this be a sign to you of his coming, when all the nations worship a piece of wood.\" He said that no one will bring out this ark except Aaron, and no one any longer of priests or prophets will open the tablets in it, except Moses, the chosen one of God. And on the day of the resurrection the ark will rise first, and will come out of the rock, and will be placed on Mount Sinai. And all the saints will be gathered to it, there awaiting the Lord, fleeing the enemy who wishes to destroy them. In that rock he sealed the name of God with his finger, and the impression became like an engraving of iron, and a bright cloud covered the name, and no one perceives the place, nor can anyone read it, to this day and until the consummation. The rock is in the desert, where the ark first came to be, between the two mountains in which Moses and Aaron lie. And at night a cloud like fire forms around the place, after the ancient pattern, because the glory of God will never cease from his law. For this reason God gave Jeremiah grace, that he himself might bring his mystery to its completion, so that he might become a partner of Moses and Aaron; and they are together to this day, since Jeremiah too is of priestly seed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.head",
+   "text": "On Ezekiel."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.1",
+   "text": "This Ezekiel, prophesying in Babylon, was himself also deemed worthy to foretell the dispensation in Christ, and he says: \"And I will deliver them from all their lawless deeds, and I will cleanse them, and they shall be my people, and I will be their God; and my servant David [shall be] ruler in their midst, and he shall be one shepherd of all, because they shall walk in my ordinances.\" And again he says: \"And he said to me: This water that goes out to the sea toward the east, and it went down to Arabia and came to the sea, to the water of the outlet, and it will heal the waters; and every soul of the living creatures that teem, and upon everything to which it comes, there the river shall live.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.2",
+   "text": "This Ezekiel is from Sarira, of the priests, and he died in the land of the Chaldeans during the captivity, after prophesying much to those in Judaea. The ruler of the people of Israel there killed him, being rebuked by him for the worship of idols. And the people buried him in the field of Maour, in the tomb of Shem and Arphaxad, the forefathers of Abraham. And the tomb is a double cave, for Abraham made the tomb of Sarah in Hebron in its likeness. It is called double because it is winding and hidden from ground level, and it is an upper chamber above the ground, hanging in the rock."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.3",
+   "text": "This prophet gave a portent to the people, that they should watch the river Chobar: when it failed, the sickle of desolation would come to the end of the earth, and when it flooded, [it would signal] the return to Jerusalem."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.4",
+   "text": "For the holy man lived there, and many gathered to him. And once, when a multitude was with him, the Chaldeans feared that the Hebrews might rise in revolt and come against them to destroy them. And the prophet made the water part, so that they might escape to the other side. But those of the enemies who dared to pursue were drowned."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.5",
+   "text": "This prophet through prayer provided them, of its own accord, with an abundant supply of fish, and when many were failing he besought that life come to them from God. When the people were perishing, he worked signs and stopped the enemy, striking them with terror from heaven, when Israel was saying: \"We are lost, our hope has perished.\" And by the portent of the bones of the dead he persuaded them that there is hope for Israel, both here and in the age to come. While judging Israel, he showed them what was happening in Jerusalem and in the temple. He was snatched away from there, and came to Jerusalem, and told what was happening in the temple at that very hour, to convict those who disobeyed God."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.6",
+   "text": "He, like Moses, saw the pattern of the temple, and the wall and the outer wall, and the gate through which the Lord will enter and go out. And the gate will be shut, and in him all the nations will hope."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.15.7",
+   "text": "He judged in Babylon the tribe of Dan and that of Gad, because they acted impiously toward the Lord, persecuting those who kept the law; and he worked a great portent against them, that the snakes devoured their infants and all their cattle because of their impiety. And he said that because of them the people would not return to their land, but would be in Media until the end of their error; and from among them was the one who killed him [all the days of his life]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.16.head",
+   "text": "On Daniel."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.16.1",
+   "text": "This Daniel, prophesying in Babylon, was himself also deemed worthy to foretell the Master Christ, and says thus: \"And you shall know and understand: from the going forth of the word for answering you and for building Jerusalem until Christ the ruler, seven weeks and sixty-two weeks,\" and so on. And again: \"And a stone was cut out without hands, and struck the image, and the stone became a great mountain and filled the earth.\" And again: \"And behold, with the clouds of heaven one like a son of man coming, and he reached the Ancient of Days, and to him were given the honour and the authority,\" and the rest that was said."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.16.2",
+   "text": "This Daniel was of the tribe of Judah, of those prominent in the royal service, but while still a child he was brought in the captivity from Judaea to the land of the Chaldeans. He was born in Upper Beth-horon; and he was a man so chaste that the Jews thought him a eunuch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.16.3",
+   "text": "He mourned much over the people and over the city of Jerusalem, and in fasts he abstained from all desirable food, eating the seeds of the earth. And he was a man lean and spare in appearance, but beautiful in the grace of the Most High. He prayed much for Nebuchadnezzar, at the entreaty of Belshazzar his son, when he became a beast and a brute, that he might not perish. For his front parts with the head were like an ox, and his feet with the hind parts a lion. And it was revealed to the holy man concerning this mystery that he had become a brute because of his irrational love of pleasure and his stiff-neckedness, and that like an ox he would become a beast of burden of Beliar, and a lion because of the rapacious, tyrannical and bestial nature of his ways. These things rulers have in youth, but at the end they become beasts, seizing, destroying, striking, killing, tyrannising, acting impiously, and receiving the recompense for these things from God the righteous judge. And the holy man knew through God that he ate grass like an ox, and that he had no desire for food of human nature. For this reason Nebuchadnezzar himself, after the digestion of his food, coming into a human heart, wept and besought the Lord all the day and night, praying forty times. But a demon came upon him, and he forgot that he had become human. And his tongue was taken from him so that he could not speak, and, understanding, he immediately shed tears, and his eyes were like dead flesh from weeping; for many going out of the city gazed at him."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.16.4",
+   "text": "But Daniel alone did not wish to see him, because for the whole time of his transformation he was in prayer for him. For he said: \"He will become a man again, and then I will see him\"; and they did not believe him. So Daniel, praying to the Most High during the seven years, asked that the \"times\" he had spoken of should become [praying to the Most High he made them become] seven months. And the mystery of the seven times was fulfilled upon him, for, restored in seven months to what he was before, for six years and five months he prostrated himself before the Lord and confessed his impiety and all his lawlessness; and after the forgiveness of his lawless deeds [the Lord] gave him back his kingdom, and he neither ate bread nor meat nor drank wine, making confession to the Lord, because Daniel had commanded him to appease the Lord with soaked pulses and greens. For this reason he called him Belteshazzar, as [he called] his son. And he wished to appoint him co-heir with his children. But the holy man said: \"Far be it from me to leave the inheritance of my fathers and to join myself to the inheritance of the uncircumcised.\" And for the other kings of the Persians he worked many wonders which were not written down. He died and was buried alone, with honour, in the royal cave. And he gave a portent in the mountains above Babylon: \"When the one to the north smokes, then the end of Babylon will come; [but when pure water comes out toward the east, then God, appearing on earth as a man, will take upon himself all the lawless deeds of the world when he is impaled by the priests of the law. And at once the grace of the Spirit will be poured out on earth upon all the nations.] But when it burns with fire, then there will be the end of the earth. And if waters flow in the south, the people will return to their land. But if blood flows, there will be slaughter by Beliar in all the earth.\" And the holy one of God fell asleep in peace."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.17.head",
+   "text": "On Elijah."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.17.1",
+   "text": "This is Elijah, the first of men to show men how to run up to heaven; the first of men to show [this], he who was allotted the earth as his dwelling and ran straight through heaven all at once; who, being mortal, vied with the immortals; who walked on the ground and, like a spirit, dwelt in heaven with angels; who through his sheepskin mantle passed on double gifts to his disciple Elisha; the long-lived and ageless man; who is kept as a general against the Antichrist; who will stand against him and expose his deceit and his arrogance; who at the consummation will turn all men from his error to God; he who is deemed worthy to be the forerunner of the second and glorious coming of the Master Christ, who in the measure of his ministries vies with the angels."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.17.2",
+   "text": "He was from the land of the Arabs, of the tribe of Aaron, living in Gilead, because Thesbis was a dwelling for the priests. When he was about to be born, Sobacha his father saw that angels of shining white appearance were greeting him, and that they were wrapping him in fire and giving him a flame of fire to eat. And he went and reported [it] in Jerusalem, and the oracle said to him: \"Do not be afraid; for his dwelling will be light and his word judgement, and he will judge Israel with sword and fire.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.18.head",
+   "text": "On Elisha."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.18.1",
+   "text": "This Elisha was from Abelmaoul, in the land of Reuben. And in his case a portent occurred: when he was born, the golden heifer in Gilgal bellowed shrilly, so that it was heard in Jerusalem, and the priest declared through the Urim: \"A prophet has been born in Jerusalem, who will destroy their carved images and their molten images.\" And when he died he was buried in Samaria."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.19.head",
+   "text": "On Zechariah."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.19.1",
+   "text": "Zechariah son of Jehoiada the priest. He was from Jerusalem, and Joash the king of Judah killed him near the altar, and the house of David poured out his blood in the midst, at the Elam. And the priests took him and buried [him] with his father."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.20.head",
+   "text": "On Nathan."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.20.1",
+   "text": "This Nathan the prophet was from Gibeon in the time of David, and it was he who taught him the law of the Lord; and he saw that David would transgress in the matter of Bathsheba, and as he hurried to come and tell him, Beliar hindered him. For as he was going along the road, he found a dead man lying naked, slaughtered; and he stayed there on his account. He died and was buried in his own land, in Gibeon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.21.head",
+   "text": "On Ahijah."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.21.1",
+   "text": "This Ahijah was in Shiloh, where the old tabernacle was, from the city of Eli; and he died and was buried near the oak of Shiloh. The same man is also called Adonias."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.22.head",
+   "text": "On Joath."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.22.1",
+   "text": "This Joath was from the land of Samarin; the lion struck him, and he died, and he was buried in Bethel near the false prophet who had led him astray."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.23.head",
+   "text": "On Azariah."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.23.1",
+   "text": "This Azariah was from the land of Synatha; he turned back the captivity of Judah from Jerusalem, and when he died he was buried in his own field."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.23.2",
+   "text": "And Jephthah, and David, and Samuel, each of them, when he died, was buried in his own city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1.23.3",
+   "text": "End of [the account of] the prophets, that is, of their birth and their way of life and their death."
+  }
+ ]
+}

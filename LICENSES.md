@@ -4,6 +4,8 @@ Every translation is licensed as its source requires, and its header (`header.av
 
 All 1,135 files in `testimonia/` are CC BY-SA 4.0. They come from Perseus and from Open Greek and Latin (First1KGreek, CSEL and the Patrologia Latina), the first two rows below. Each source edition's licence was checked: 1,038 by the edition's own header and 97 by its repository's statement.
 
+The 111 whole works in `translations/` are CC BY-SA 4.0 too, from the same two rows: 70 from the Patrologia Latina, 38 from First1KGreek, 2 from CSEL and 1 from Perseus. Each source edition's licence was checked: 110 by the edition's own header, and the Perseus text, which has no statement of its own, by its repository's statement.
+
 | Source | Source licence | Translations | Files |
 |---|---|---|---:|
 | Perseus Digital Library (Greek and Latin) | CC BY-SA 4.0 | CC BY-SA 4.0 | see catalogue |

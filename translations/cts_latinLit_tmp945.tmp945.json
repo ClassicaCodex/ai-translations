@@ -1,0 +1,657 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp945.tmp945",
+ "edition_urn": "urn:cts:latinLit:tmp945.tmp945.ai-claude",
+ "source_edition": "tmp945.tmp945.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Canones Gelasio Ascripti: AI translation (Claude)",
+  "author": "SS Gelasius I",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp945.tmp945.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp945.tmp945.opp-lat1.head": "ab3/ab5: 'CELAIUS ... LT' read as 'GELASIUS ... ET'. 4: 'Latinorum' taken as a place or people name (the Latini, perhaps a town); identity uncertain. 'fit' read as 'ut'; 'reperia' as 'reperta'; 'ingratis' could also be read as a corruption. 5: the opening 'Nos ausus impil commovere Aselli' seems corrupt; translated as if 'Nos ausus impii commovit Aselli'. 'creditarius' rendered 'trustee' (sense uncertain). 'praecipuum dictum' seems corrupt (perhaps 'reum'); rendered 'principal culprit'. 'Ii. bellarius incisus' read as 'libellarius' (a register?), sense uncertain. 'conscientiam suspicione non exuit' is syntactically loose. 'ad fatendum' read as 'ad fatendum' (to confess). 8: 'Camiscanae Ecclesiae' (Camisca?) not identified. 11: 'spalis' unclear (perhaps 'spatiis', boundaries/areas); a stray '1' after 'pars' omitted.",
+  "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab16": "ab16 onward: 'Ennatio' and 'Eucharisti' kept as names read (Eucharistus). In 17 the parenthesis opened at 'quia' is unclosed in the edition; construed as ending after 'commento'. In 18 'vementes' read as 'venientes'; the subject of 'desiderat' is unclear, taken as Placidia. In 20 the first sentence is awkwardly constructed (perhaps 'didicerat' corrupt for 'detulerat'); 'Tempus Bonum' taken as the woman's name. In 22 the heading speaks of converted Jews, though the text calls Telesinus still of Jewish belief. 'Yarulanae' as printed; the editor's 'Verulanae' (Veroli) noted. 'SIRACUSIO' taken with Constantius as 'of Syracuse'. Footnote numerals omitted.",
+  "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab34": "Canon 27: 'utilitatem dominicam' may mean the interest of the (Church's) lord/estate owner. Canon 31 is corrupt ('humanitatis innuitur ... non maculent'); rendered as best the sense allows. Canon 32: 'S. Viii' read as 'S. Viti' (St Vitus), uncertain; 'V. H.' taken as vir honestus/honorabilis. Canon 34: 'decernentes' is grammatically awkward; sense approximated. Canon 37: 'dilectionis tuae' taken as 'of your beloved [church]'. Heading ab55 says two portions, though the canon divides into four. Vivana (ab37) not identified.",
+  "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab56": "41: 'deponat errorem, et vacua est' is elliptical; rendered literally. 46: 'Stomensis' taken as Histonium following the edition's gloss. 48: the passage from 'calcatis omnibus rationibus' to 'auferri' is syntactically broken and probably corrupt; rendered as nearly as the words allow. 51: 'Diotrensis' (Diotra) could not be identified. 53: 'dilectos' read as 'delectos' (chosen persons); the construction lacks a governing verb, supplied in brackets. 58: 'lecta' is obscure (perhaps for 'septa', fences); rendered as '[obstacles]'.",
+  "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab81": "ab82/59: Forum Populi read for 'Foropopulensis' (likely Forlimpopoli). The test of eating meat (59) and 'quorum sit vita' are as printed; the meat-eating test presumably relates to a belief about the affliction (epilepsy). 59 'nosse sufficere' read for 'nosse sufficere'; 'aliquoum' taken as 'alicujus'. 60: 'ut ex nolentibus fiant nolentes' is evidently corrupt; rendered by sense; 'post minores' obscure. 61: 'Claculas' taken as an estate name. ab95: Hereleuva is Theodoric's mother; the opening clause of 69 ('Qui ... supplicaret') lacks a clear subject. 70: 'amer' read as 'aliter'; 'otiri' as 'oriri'; the final sentences are syntactically loose and rendered by sense."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.head",
+   "text": "SECOND APPENDIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab1",
+   "text": "CANONS ATTRIBUTED TO GELASIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab2",
+   "text": "NOTICE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.1",
+   "text": "Among the ancient pontiffs scarcely anyone is found, if you except Gregory the Great and perhaps also Leo, under whose name so many decrees are read inscribed in the old collectors. I have undertaken to present all of them, or nearly all, here as if in a single view. This is not because I think them all genuine offspring of Gelasius. My purpose is plainly the same as that of the other collectors of councils before me, who judged that even the less genuine pieces should be given, provided others had held them genuine. In collecting them I have used chiefly the volumes of Burchard, Ivo and Gratian. I have sometimes added brief notes of my own, which mostly concern variants taken from manuscript codices. I could also have added judgements on the individual pieces. But since I would have had to give the reasons for what I said, that task would have drawn me out too long. Those who wish may consult the excellent work of Carlo Sebastiano Berardi of Oneglia, priest and director of studies in jurisprudence at the royal academy of Turin, entitled: «The genuine canons of Gratian distinguished from the apocryphal», Turin 1752, divided into four volumes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab3",
+   "text": "GELASIUS TO THE BISHOPS MAJORICUS AND JOHN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab4",
+   "text": "That the body of the Lord is not to be received without the cup."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.2",
+   "text": "We have learned, moreover, that certain people in that same region take only a portion of the sacred body and abstain from the blood of the sacred cup. Since they are, beyond doubt, taught to be bound by some superstition or other, let them either receive the sacraments whole or be kept away from them wholly, because the division of one and the same mystery cannot come about without great sacrilege."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab5",
+   "text": "GELASIUS TO THE BISHOPS MAJORICUS AND JOHN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab6",
+   "text": "On those who killed their two bishops, so that they should go without a bishop any longer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.4",
+   "text": "The twofold slaughter of a bishop among the Latini has so confounded us with the atrocity of a horrifying crime that the settlement of our deliberation long hung in doubt, while we hesitated to thrust any bishop forward into parricidal precedents. Therefore, turning away from what has now become, as it were, a sacrilegious usage and custom, we have judged that religion should be provided for to this extent: that the parish be governed in turn by priests placed outside it. For those who live there have learned to kill their shepherds with the sword, and by an unheard-of crime (one that has never happened anywhere at all, even in provinces afflicted by continual and varied incursions of war) this city has been found which, without persecution, strikes down the prelates who minister the Christian faith to it. Care must therefore be taken that this deadly pestilence there be healed by the suspension of bishops of its own, and so at least the fuel of such great fury be withdrawn; and in this way that city, having no one on whom to rage, may either desist because of this suspension, or may not offer its dreadful contagion to others to imitate. Let it, then, depend on episcopal assistance supplied to it from elsewhere, since it has stained with cruelly shed blood the sacred dignity conferred in its bosom; for in either case it must be punished with this penalty, whether it committed this outrage by domestic prompting or, incited by madness, from without. Let your love, then, provide the ministry of visitation to the church placed in this state; and, either meeting together or in turn, as the nature of affairs and the case shall require, present the divine ministries (or: mysteries) to the ungrateful, lest while we avoid the tares we seem to pass over the Lord's wheat."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab7",
+   "text": "GELASIUS TO JOHN THE BISHOP."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.5",
+   "text": "The deeds of the impious Asellus, who was discharging the office of archdeacon, have stirred us. For when the bishop had been mortally wounded by a cruel blow, he ought above all others to have guarded the church and [seen] that nothing was taken from the bishop's house; and he even allowed the man himself to be killed in the immediate tumult, when he ought to have been kept to confess whether he had done these things of his own will or driven on by someone's urging, and [when] the church's property ought first to have been demanded from him, since this same man is said to have been the trustee of the murdered prelate. Who would not plainly understand that the principal culprit was removed so quickly for this reason, so that he should not betray his accomplices, and the church's property, being unknown, might more easily be laid open to plunder? For the bishop's register is reported to have been found cut, and the good man Asellus, so worthy of his rank, compelled the church's ministers, under pressure, to celebrate a decree in his own favour (something never before attempted) before any report of the outrage was sent, according to the path of ancient custom, to the notice of the apostolic see. What Christian would doubt how intolerable an evil this is? Though, even when a bishop has died by the common lot, it is the custom that his passing be announced before anything else, a suitable visitation be appointed, and only then the replacement of the bishop be discussed, here this one man has appeared who, once the bishop of religion was slain, at once gave thought to his own advancement rather than taking care to report what had been done. Here, although what is going on is hidden from outside, yet the abruptness of the power he has seized does not free his conscience from suspicion, since he is likewise seeking the place of the deceased. Meanwhile, lest anyone ever dare to usurp what no one before him has dared, let him be removed by our authority from the office he held, until what we decide to ordain permanently concerning such a man is more fully reconsidered. And if he is convicted of having taken away anything belonging to the church's right, let him be compelled by every means to restore it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab8",
+   "text": "GELASIUS TO ELPIDIUS THE BISHOP."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.6",
+   "text": "The sacrosanct religion which holds the catholic discipline claims such reverence for itself that no one should dare to approach it except with a pure conscience. For how will the heavenly Spirit, when invoked, come to the consecration of the divine mystery, if the priest who prays for him to be present is himself condemned as full of criminal deeds?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab9",
+   "text": "GELASIUS TO HELPIDIUS, BISHOP OF VOLTERRA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab10",
+   "text": "That bishops should not dare to go to the court without the authority of the Roman pontiff."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.7",
+   "text": "With what daring, with what rashness do you write back that you are preparing to set out for Ravenna, when the canons plainly command that no bishop at all should make for the court without first seeing and consulting us? (The bishops of Pistoia, Lucca and Fiesole, aged either in years or in office, are shown to have done this lately.) How do you, who appear to have held the priesthood for only a few days, think that what is not lawful is lawful for you, unless it is that you are hurrying to lose this office, of which you show yourself unworthy by these excesses?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab11",
+   "text": "GELASIUS TO THE BISHOPS MAXIMUS AND EUSEBIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.8",
+   "text": "Although it is contained in the ancient rules that the parishes assigned to each church by the original arrangement can by no means be torn away, lest, through a very bad custom and with the rashness of a bad example growing, universal confusion should arise everywhere, and although by our decrees sent not long ago we ordered that everything seized in this way be restored, yet because the rashness of the invaders thinks a law can be created for itself if it joins persistence in retention to its crime, we wish that what we decreed between our brother and fellow bishop Constantius, priest of the Church of Camisca, and the men sent by the bishop of Ancona, be carried out by you. Then we prescribed what form is to be followed in other hearings. We therefore allow the state of parishes, which has endured with the firmness of perpetual age, to be changed by no presumption; because neither a bishop's negligence, nor a temporal objection which perhaps arises through carelessness, nor consent produced by indolence, nor an order obtained by a fraudulent petition, can tear apart a diocese once established, from which the devout people have always come together for regeneration and confirmation. (In Gratian is added, though perhaps these are the words of Gratian himself and not of Gelasius: \"for it is known to have been ordained of old that territory does not make a diocese.\")"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab12",
+   "text": "GELASIUS TO EPIPHANIUS THE BISHOP."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.9",
+   "text": "We have sent an order to the other bishops that they judge those who are reported to have violated churches unworthy of entry into them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab13",
+   "text": "GELASIUS TO THE BISHOPS VICTOR, CONSTANTINUS, MARTYRIUS, FELICISSIMUS, SORANUS AND TIMOTHEUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.10",
+   "text": "Our brother and fellow bishop Epiphanius has informed us by his report that Henenatus and Maurus, burgesses of the city of Benevento, have burst out in insult to religion with an exceedingly bitter and punishable defiance. When their *curialis* [member of the town council] fled to the precincts of the church, they did not allow him to be safe even there or secure from injury, daring to admit into their reckless minds what has never been permitted even to the powers or to princes: having seized on the priest's absence, they violently dragged out a man placed in the sanctuary, resisting and crying out. According to what he has disclosed to us by his report, he has rightly judged them unworthy of holy communion. And if the commission of so great a crime is truly established, our authority too agrees in this matter. For one who did not hesitate to commit sacrilege there ought not rightly to be admitted there to supplicate. Let no one, within thresholds devoted to such veneration, think both things lawful for himself at his own will's choice, claiming for himself both humility and fury. And therefore, dearest brothers, if a clear complaint makes them guilty, bar the aforesaid men from all the churches of your parishes by the authority of our command, so that not only may those proved to have burst out in injury of the holy places deservedly receive punishment according to the nature of their deed, but others too may be recalled from such presumption by fear of this penalty."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab14",
+   "text": "Berardi argues both sides on the genuineness of this letter and leaves the matter undecided; to me nothing truly suspicious appears."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab15",
+   "text": "GELASIUS TO JUSTUS THE BISHOP."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.11",
+   "text": "Let your love take care, having faithfully inquired into the truth of all matters, that if a definite decision was issued long ago on the *spalis* (?) about which the dispute is said to have arisen, it be kept inviolate. Otherwise, if nothing is found ever to have been settled, then, regarding prescription of time, if either party disagrees, let it provide an oath; yet in such a way that the party said to have held possession up to now be allowed to offer the oath."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab16",
+   "text": "GELASIUS TO MARTYRIUS AND JUSTUS, BISHOPS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab17",
+   "text": "On slaves ordained without the consent of their masters."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.12",
+   "text": "It is laid down by the ancient rules and by a recent synodal explanation that persons bound to servitude are not to be girded with the belt of the heavenly service. But I do not know whether you are carried away by ignorance or by will, so that on this count hardly any of the bishops seems free [of blame]. For a frequent complaint from very many people so resounds about us that it is thought nothing at all has been established on this matter. For the agents of the illustrious man, our son Amandianus, complain gravely that men subject to his right have been ordained, some still as clerics, others already as deacons, although not only after the recent [ruling], which is known to have been completed by the assembly of so many bishops with the assent of all to a most salutary provision, ought such persons not to be received, but also, if any had perhaps been received into the worship of the divine service before, through ignorance, they ought to have been removed altogether and, stripped of the religious privilege, compelled by just admonition [to return] to their masters' possessions. And therefore, dearest brothers, those whom the agents of the aforesaid man show to belong to him while in clerical office, once examined and proved to be bound, restore without delay, keeping to the course of the laws, so that if anyone is found to be already a priest, he remain in the same rank with the loss only of his *peculium* (private property). A deacon, however, shall either provide a substitute or, if he has none, be returned. Let the remaining offices know that no one can be freed from his bond if he is convicted, so that, with order kept, neither the rights of masters nor the privileges [of the Church] be disturbed on that account."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab18",
+   "text": "GELASIUS TO RUFINUS AND JUSTUS, BISHOPS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.13",
+   "text": "The honorati and leading men of the city of Yarula (perhaps Veroli) have petitioned us at length with prayers, as is contained in the attached [document], to which they also lent their own signatures, [saying] that they have been worn down by the deacon Agnellus with a grievous kind of insults, so that they even assert (as they themselves say) that they were driven into the matter of perjury; and therefore, dearest brothers, in accordance with the substance of the petition, once the aforesaid deacon has promptly been brought before your judgement, with Laurentius, defender of the Roman Church, pressing [the case], and the assertion of the truth examined, if the integrity of the petitioners is established, either let the deacon prove his charges, or know that his insolence must be punished, so that, excluded on account of such excesses of the aforesaid shameless rashness, a fitting punishment may follow him, and he who entangled himself in vulgar abuse may be kept from access to holy communion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab19",
+   "text": "GELASIUS TO CRESCONIUS, ILLUSTRIOUS MAN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.14",
+   "text": "We wish you by all means to see to this: that none of the bishops of Sicily presume to take more than two solidi from the parishes belonging to him under the name of *cathedraticum* (the bishop's due), nor compel the priest or clergy of their parishes to prepare banquets for them beyond their means."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.15",
+   "text": "Ivo cites both, part 3, chapters 135 and 136, and from Ivo Gratian, [Causa] 16, q. 3, chapter Dilectio; [and] chapter Illud te modis, [Causa] 10, q. 5. This last fragment Gratian attributes not to Gelasius but to Pelagius; but since Gratian is easily judged to have taken it from Ivo, and Ivo reads Gelasius, Gratian too must have written the same. The canon, however, is at odds with the discipline in force in the age of either Gelasius or Pelagius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab20",
+   "text": "GELASIUS TO JUSTINUS THE ARCHDEACON AND FAUSTUS THE DEFENDER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab21",
+   "text": "That a bishop may not alienate the property of the Church by any device, and that privileges ought by every means to be kept intact."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.17",
+   "text": "We have decided that the affairs or patrimony of the church of Volterra, which we have found up to now neglected, or scattered after the condemnation of Eucharistus, through whose corruption it had been dispersed, should be delegated to your care, so that by the diligence with which we judge you watchful for the church's interests, you may restore the estates to their former cultivation; that you may recover any slaves that have been sold or given away, and also possessions which you see held by the bishops Ennatius and Oppilio or others by any right (since estates cannot be alienated by a bishop against the decrees of the synod by any device), let them nonetheless be recovered; let the buyers have recourse to him who presumed to dispose of anything of the church's property by unlawful sale; and so that you deliver the annual rents to the bishop, whose privileges ought by every means to be kept intact, so that by his dispensation the customary portions may be paid out, in such a way that the bishop distribute by his own ordering the fourth portion, which belongs to them, according as he knows each one's position and merit. Likewise it is to be done with the offering of the faithful, that the bishop pay out a fourth to the clergy at the discretion of his own choice. The portion for the buildings also is to be paid out by your disbursement, with the bishop's knowledge and direction, so that you allow nothing at all to arise to the detriment of anything. But if you see your bishop commit anything to the harm of your church, or in those things forbidden by our instruction, at once bring it to our ears by a report, so that we may decide what should be done. It has seemed right, not only to us but to our predecessors, that tithes are by just order owed only to the congregations where holy baptism is given."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab22",
+   "text": "GELASIUS TO HERCULENTIUS, STEPHEN AND JUSTUS, BISHOPS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab23",
+   "text": "On the same matter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.18",
+   "text": "A frequent and constant complaint resounds about us concerning those bishops who, mindful neither of the ancient rules nor of our decrees recently sent, do not refuse persons bound and obligated to estates who come to the belt of the clerical office. For recently the agents of the illustrious lady Placidia complained by presenting a petition that Sabinus, [bishop] of the city of Marcelliana or Casilinum, had advanced Antiochus, a slave belonging to their patroness, carried off while his mistress was absent, as far as the honour of the priesthood, and had adorned his brother Leontius with the privilege of clerical office. And therefore, dearest brothers, we assign to you by our authority the hearing of the case brought between the aforesaid agents and those who are reclaimed as of the lowest condition, so that, all the truth examined, if he cannot in fact wash away by reasoned rebuttal the stain charged against him, by all means return the cleric Leontius, whom no rank fixed by the laws protects, to follow the obligation of his condition. As for Antiochus, since through the priesthood he can no longer be taken back, if [the lady] wishes to place him in her own church in the honour he holds, let her have him not as returned to her, but as received for the celebration of the ministries."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab24",
+   "text": "GELASIUS TO PHILIP AND CASSIODORUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.19",
+   "text": "The case of Caelestinus is such as I think you also are not unaware of: since he, convicted of complicity in the murder of a parent and a bishop, as is shown by the tenor of the records, was by the judgement of all in no way considered worthy of the office of the altar, and for so detestable a crime communion was forbidden him for one year, so that by fitting penitence he might take care to cut off [the guilt] of so great a crime. And even had this not been ordered by us, he himself, thinking rather of the sacrament of the divine body, ought to have returned to it with a purer mind. That time, however, we think either completed or now nearly passed; after which there is no doubt that the opportunity of communion lies open to him, so that the synodal sentence may be ended, and, so that it may profit him more, he can be cleansed by greater satisfaction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab25",
+   "text": "GELASIUS TO SECUNDINUS OF VISINUM."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab26",
+   "text": "On the correction of one who has accused [someone] of the magic art."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.20",
+   "text": "We consider it altogether unseemly that grievous insults should be inflicted by the voices of ministers of the Church, since laymen generally shrink from such actions. For the honourable woman Tempus Bonum had learned from her teacher Paul the deacon [the charges] — she reports that she was not only assailed with accusations, but also [accused of] having joined in the knowledge of the condemned art of magical cursing. And therefore, brother, we have appointed you judge between the aforesaid, so that, if this insolence convicts the aforesaid deacon, after he has been proved to have assailed the woman unseemly and uncivilly, you either bind him to prove what he has thrown out, or restrain him with fitting correction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab27",
+   "text": "GELASIUS TO BISHOP QUINIGESIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab28",
+   "text": "That converted Jews be honoured."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.22",
+   "text": "The most distinguished man Telesinus, although he appears to be of the Jewish belief, strives to show himself such to us that we must rightly call him ours; he has specially asked, on behalf of his relative Antonius (Antius), that we should commend him to your love; and therefore it is fitting that our brother [i.e. you] hold this in regard to our will and instructions, that he not only be in no way oppressed, but also, in whatever he needs, rejoice to be helped by your love."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab29",
+   "text": "GELASIUS THE POPE TO BISHOP QUINIGESIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab30",
+   "text": "That property under litigation not be transferred to any person before the outcome of the hearing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.23",
+   "text": "Since property under litigation cannot be transferred to any person at all until, through the outcome of a lawful hearing, it can be recognised by judicial debate to whom it is rather owed, let no one be allowed to exact rents from that property, but, the property being kept in the same state in which it is seen (as has been said) to have been placed before, whoever thinks something may belong to him, let him bring suit by a juridical examination, all prejudgements being removed from it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab31",
+   "text": "GELASIUS TO CONSTANTIUS OF SYRACUSE AND LAURENTIUS,"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab32",
+   "text": "BISHOPS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab33",
+   "text": "How carefully [the case] of the slaves of Jews must be examined."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.24",
+   "text": "Judas, who was the slave of one of the Jewish profession, whom he [the master] claims to have bought as his property a few years ago, has reported that he has now fled to the church of Venafro, as the tenor of the attached petition shows, because he says that, though a Christian from infancy, the sign of circumcision was recently inflicted on him by his aforesaid master. Therefore let your care diligently and faithfully examine the truth of the matter between both, so that neither religion be seen to be violated, nor the slave, lying under this pretext, strive to escape the rights of his lawful master."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab34",
+   "text": "GELASIUS TO THE BISHOPS MAJORICUS, SERANUS AND JOHN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab35",
+   "text": "That no one, contrary to ecclesiastical satisfaction, should hold communion with the excommunicated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.25",
+   "text": "Let Caelestinus, presbyter of our brother and fellow bishop Seranus, who, breaking out against the bishop's judgement and against the commands of the apostolic see, presumed to administer holy communion to the aforesaid persons, though he could not have been ignorant of the sentence of his own bishop, be removed at once from ecclesiastical office, so that none of the ministers of the Church may venture to go against the bishops' decrees."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab36",
+   "text": "POPE GELASIUS TO FAUSTUS, MASTER OF THE SOLDIERS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.26",
+   "text": "We read that Christ raised the dead; we do not read that he absolved those who died in error. And he who alone had the sure power of doing this gives charge chiefly to the blessed apostle Peter: Whatever you bind upon earth will be bound also in heaven, and whatever you loose upon earth will be loosed also in the heavens (Matth. 16). 'Upon earth,' he says; for he never said that one who had died in this binding was to be loosed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab37",
+   "text": "GELASIUS TO JOHN, BISHOP OF VIVANA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab38",
+   "text": "An example of punishment against those who falsely pretend to have just cases."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.27",
+   "text": "The wife and daughter of Felix have come to Rome (since it had to be so). For when this man first betook himself to the basilica of the barbarians, boasting that he had a good case, we ordered him to come out on this condition: that if he set out his conduct faithfully and reasonably, we would allow nothing at all harsh or severe to be done against him; but otherwise, if he were proved to have acted against good faith and the interest of the [Church's] lord, he should blame himself and submit to fitting disposition. When our son the honourable (spectabilis) Orthasius arrived, he was so convicted on each and every point that he could not open his mouth, and confessed with his own voice that the charges brought against him were true; and so he is held, committed to custody."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab39",
+   "text": "GELASIUS TO BISHOP HONORIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab40",
+   "text": "Concerning persons of ecclesiastical right, that they may not make themselves a document of a will."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.28",
+   "text": "We also wish it not to escape your sincerity that it has been reported to us that Ampliatus the lessee, who is known not only to be a slave of the Church but to have been so long entangled in accounts that, even if he were freeborn, he would be held liable in every way until he had rendered all his reckonings, has with rash daring attempted to draw up a document of a will, though there is no doubt that all his peculium (private property) is bound by law to ecclesiastical right. Therefore let your fraternity oppose these presumptions in our stead, and not allow it to be done by any subterfuge at all. And if anything human should happen to him, since he is said to be very old, let your unanimity at once without delay hand over his substance, under faithful inventory, only to his sons to whom the patrimony is shown to have been entrusted, until they are compelled to render the lord's share undiminished for all the periods during which he is known to have managed this patrimony."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab41",
+   "text": "GELASIUS TO BISHOP HONORIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.29",
+   "text": "Mindful of the divine recompense, do not doubt that it belongs to a bishop's conscience not to deny pious care for the benefit of the needy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab42",
+   "text": "GELASIUS TO THE BISHOPS CRESCONIUS, JOHN AND MESSALA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab43",
+   "text": "The statutes of predecessors ought to be kept."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.30",
+   "text": "Just as it is fitting for successors to keep the statutes of their predecessors that are lawful and just, so too they ought to correct wrongdoings."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab44",
+   "text": "GELASIUS TO JOHN, BISHOP OF SORA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.31",
+   "text": "It is indeed certain, and established by our precepts, that no one should think a public procession may be held in a church or oratory that is not read to have been dedicated by permission of our see, lest founders leap forth by stealthy subterfuges against the statutes of the rules. But since Magetia, an honourable (spectabilis) woman, has represented to us by the offering of a petition that she has buried the bodies of her kin on her own estates: dearest brother, it is intimated [as an act] of humanity, since burials and tombs alone do not stain the earlier statutes, that you should know that ministrations are to be provided for the solemnity in the places included in the petition, so that divine offices are celebrated only in the name of the departed, with public attendance and procession ceasing. Given on the Ides of April."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab45",
+   "text": "POPE GELASIUS TO BISHOP SENECIO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab46",
+   "text": "That in a church which one builds he may claim nothing for himself above others."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.32",
+   "text": "The devotion of a pious mind is to be welcomed, by which Julius, a most distinguished man (V. H.), is said to have founded a church on the Juvian estate of his own property, which he desires to be consecrated in honour of St Vitus the confessor in his name. Therefore, dearest brother (if you do not doubt that it belongs to your diocese), it is fitting that it be dedicated according to custom, after first the solemn donation has been conferred which he testifies he has assigned to the ministers of the church of the aforesaid gift; and he is to know without doubt that, apart from the access of procession which is owed to every Christian, he will have nothing of his own right there. Given on the 13th day before the Kalends of August."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab47",
+   "text": "On the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.33",
+   "text": "Frigentius, moreover, has represented to us by a petition that on his property, which is called Sextilianum, he has founded a basilica of the saints Michael the archangel and Martin the confessor for his protection. And therefore, dearest brother, if it belongs to your parish, bestow the blessing on the aforesaid basilica with solemn veneration. Yet the founder shall claim nothing for himself from this basilica except the access of procession, which is owed to all Christians in common."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab48",
+   "text": "Let bishops be consecrated by their metropolitan, and he himself by them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.34",
+   "text": "Since some are not ashamed through unlawful ambitions to disturb the rights of churches, and with rash presumption to invade the privileges which antiquity decreed for metropolitan or provincial bishops, and for this reason even desire to maintain a rupture of apostolic communion, so that, divided from its authority, they may exercise their own usurpations with impunity, not considering that they will render account to the eternal Judge both for the injury to catholic integrity and for the prejudice to the traditions of the fathers, not without the ruin of perpetual damnation, if they persist in this obstinacy: we have thought it right to instruct your charity, that all of you brothers in common, whether established throughout Dardania or in any neighbouring province, who remember that you are under your metropolitans, and being appointed by them, should with one mind establish bishops, as ancient custom demands; and in turn, if the metropolitan should happen to die by the human condition, you should resolve by all means that he be consecrated by the bishops of the province, as the established form has handed down; and you should not allow anyone to claim for himself what was granted to you by ancient arrangement; so that even amid the very storms of opposing wills you may in no way cease to keep the rules of the ancients, as there is no doubt our fathers steadfastly did in the time of various persecutions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab49",
+   "text": "GELASIUS TO BISHOP ANASTASIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.36",
+   "text": "It befits a bishop, when entreated, to come to the aid of those bereft of the help of their own defence, and of those who cannot attend to their own affairs because of the weakness of their age, since the Godhead itself has commanded that protection be given to orphans. And therefore, by our delegation, you will give help to Maximus and Januarius, of the clerical office (who say they are destitute of the support of parents or relatives), so that, protected by the effort of your execution against the wickedness of their adversaries, they may not suffer harmful contrivances."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab50",
+   "text": "GELASIUS TO BISHOP FORTUNATUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab51",
+   "text": "Let the Church protect those whom it has taken into its defence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.37",
+   "text": "We judge it utterly irreligious and execrable if anyone does not bring up even strangers taken into his protection with all good faith and the whole integrity of his mind. But since the deacon Olympius of your beloved [church] is reported to be the maternal uncle of Felix and Olympus, and took them as little children to be raised in the place of a guardian, we judge it worse than robbery that he has left them, as they assert, banished from their parents' modest goods, keeping some and selling others against the laws and rights."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab52",
+   "text": "GELASIUS TO JUSTINUS THE ARCHDEACON AND FAUSTINUS THE DEFENDER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab53",
+   "text": "That nothing of the Church's property is to be alienated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.38",
+   "text": "For we have thought it in the interest of you and your reputation that, in place of your bishop, someone be appointed by him together with you, who may arrange everything equally in his name: so that you recall all the estates to your care, and do not think that any land of the Church should be assigned to any cleric as his portion, lest it be diminished through carelessness and negligence; but bring to the bishop the sum of all rent collected from all estates, rural and urban. From this collection, however, let account be kept of what is seen to be needed for the causes or expenses of necessities that arise, so that it may be set aside from the total; and let four portions by all means be made either of the offering of the faithful or of this rent: so that the bishop takes one for himself, distributes another to the clerics according to his judgement and choice, has the third paid out to the poor in all conscience; and the fourth, which belongs to the buildings, we decree is to be weighed out by your disbursement at the bishop's direction. If anything should remain under the annual expense, let a suitable keeper be chosen by both sides and let it be handed over to storehouses, so that if a greater building need arises, there may be as a help what could be kept by the diligence of various times; or else let a property be bought which serves common benefits."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab54",
+   "text": "GELASIUS TO THE CLERGY, ORDER AND PEOPLE OF BRINDISI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab55",
+   "text": "That two portions of revenues and offerings be entrusted to the clerics."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.39",
+   "text": "Having granted you the bishop you asked for, our brother and now fellow bishop Julian, it was necessary (since he was soon sent back to his church) to send our letter to you as well, from which you might learn that he was instructed never to presume unlawful ordinations; and further on: Let him divide the revenues and offerings of the faithful into four parts, of which he is to keep one for himself, distribute another to the clerics according to the diligence of their duties, the third to the buildings; the fourth he is to have faithfully paid out to the poor and to strangers: and he will render account of these to the divine examination."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab56",
+   "text": "GELASIUS TO THE EASTERN BISHOPS, ON THE CONDEMNATION OF DIOSCORUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab57",
+   "text": "Absolution is not to be sought when a sentence is passed unjustly."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.41",
+   "text": "Let the one on whom a sentence has been passed lay aside his error, and it is void; but if it is unjust, he ought to be as little concerned about it as an unjust sentence is unable to weigh on anyone before God and his Church. So let him not desire to be absolved from that by which he sees he is in no way bound."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab58",
+   "text": "GELASIUS TO THE BISHOPS GERONTIUS AND PETER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab59",
+   "text": "Bishops ought to assist those who implore their protection."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.42",
+   "text": "Although we ought not, as far as we can, to refuse ourselves to any who place their hope in us, yet we consider that the causes of widows and orphans are to be pursued more, and more earnestly, since divine declaration makes it plain that they are to be protected by us, or by all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab60",
+   "text": "GELASIUS TO THE BISHOPS LEONTIUS AND PETER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.44",
+   "text": "Whoever hopes that remedies can be brought to him in his affairs through the intercession of our name, it befits us to be at his service with ready zeal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab61",
+   "text": "GELASIUS TO THE CLERGY, ORDER AND PEOPLE OF BRINDISI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.45",
+   "text": "Having granted you the bishop you asked for, our brother and now fellow bishop Julian, it was necessary, since he was soon sent back to his church, to send our letter to you as well, from which you might learn that he was instructed never to presume unlawful ordinations. He is not to allow a man twice married, or one who did not take a virgin as his wife, or one unlettered, or one under obligation, or one maimed in any part of the body, or one in any way branded, to approach holy orders. He must also take the same care regarding strangers and unknown persons, or those seeking [ordination], since such are barred from the venerable offices; and he is not to dare, on any ground, to transfer to another any of the sacred vessels or ornaments, or finally anything at all that is known to belong to the church. Let him divide the revenues and offerings of the faithful into four parts, of which he is to keep one for himself, distribute another to the clerics according to the diligence of their duties, the third to the buildings; and he will render account of these to the divine examination. Those to be admitted to holy orders he is to promote with this observance: he is to know that priests and deacons are to be ordained at the fast of the fourth, seventh and tenth month, on the evening of Saturday. Nor is he to presume to confer the sacrament of venerable baptism except at the feast of Easter and at Pentecost, apart from those suffering from illness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab62",
+   "text": "GELASIUS TO BISHOP CAELESTINUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab63",
+   "text": "That clerics of the same church be promoted to the ministry of a church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.46",
+   "text": "The priests, deacons and all the clergy of the city of Histonium have informed us by a petition submitted to us that in the church of the blessed martyr Bishop Eleutherius (which is shown to have been built within the parish of the said city) the priest who had been appointed has died, and that in his place Julian, a deacon of that church, ought to be ordained as soon as possible, because of the renown of that place. And therefore, dearest brother, if there is nothing in his life or conduct that goes against the statutes of the canons, you will honour the above-named with the rank of priest, knowing that you have made him in the name of visitor, not of cardinal bishop. Likewise you will also put in the deacon Felicissimus as substitute for the ministry of that church, if his way of life allows, so that a place of procession so renowned may lack neither priest nor minister for the consecration of the mysteries."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab64",
+   "text": "POPE GELASIUS TO COUNT EZECHIAS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab65",
+   "text": "A cleric is not to be heard by a secular judge."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.47",
+   "text": "To Christians what is asked to be granted by their high rank ought always to be welcome, since it is not fitting to deny a benefit to those who serve God. Silvester and Faustinianus, then, who declare that they have been clerics from the cradle, complain that they are being oppressed by violence by Theodora, for they say that, though freeborn and, by God's authority, released from the bonds of their former condition, they are being consigned again to the lot of the vilest servitude; and that, by royal authority and against the public laws, while they were held bound by the clerical belt, they were summoned by the archdeacon of the city of Grumentum, although it is established that one who sues a soldier of heaven must follow only his court. And therefore, beloved son, having paid you the address of greeting, I commend the above-named clerics to you, so that, if their opponents refuse to come to the judgement of those delegated, they may be fenced about by the protection of your sublimity; lest either fraud, or a violent constraint hostile to the laws, impose anything on them, since it is plain that one who flees judgement distrusts [his] justice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab66",
+   "text": "GELASIUS TO THE BISHOPS CRISPINUS AND SABINUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab67",
+   "text": "A cleric is to be summoned only to the judgement of bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.48",
+   "text": "Silvester and Faustinianus, clerics of the church of Grumentum, have complained to us in tearful representation that the freedom granted them by the kindness of their master is being assailed by the oppression of his heirs, and that, though they have served in clerical office almost from the cradle, while their manumitter was still alive, and still remain in that same function, they are not allowed to render service to the divine mysteries; whereas (if truth bears out the petition) the inheritance is taken away by the laws, as from unworthy persons, from those who go against the act of their father and author, nor are those who take the inheritance allowed to rise up against the decision of their author. And therefore, dearest brothers, since they also complain that they have been oppressed by the archdeacon of the said church, who in their absence promised that they would follow the governor's judgement, trampling on every principle, and, sued against divine and public laws, he thought their forum was taken from them: let whoever it is that harasses a cleric come to your judgement, so that the rights of the church, which former emperors confirmed by constant enactment, may not be denied to clerics who are sued."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab68",
+   "text": "POPE GELASIUS TO BISHOP FABIANUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab69",
+   "text": "That no fixed number be imposed on those to be baptised, nor the cathedraticum be demanded beyond the old custom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.49",
+   "text": "Nor is it thought just that a fixed number be imposed on those to be baptised, since however many have asked, or have hastened to regeneration, are not to be turned away at another's will. And therefore, dearest brother, you will by all means remove such a superfluous regulation, so that each may be baptised either in the church nearest to him or in one chosen at his own mind's discretion. You are to know also that the cathedraticum is to be demanded from the priest of that place no more than is established to be of old custom; and regarding the things conferred by the devotion of the offerers on the day of dedication, you will keep the custom which is prescribed generally for all churches."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab70",
+   "text": "POPE GELASIUS TO THE BISHOPS PHILIPPUS AND GERONTIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab71",
+   "text": "The parish clergy ought to be present at the election of a bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.51",
+   "text": "The people of Diotra have lamented in a petition given to us that they have long been scattered without the governance of their own ruler. And, as is asserted, the one who is said to be already approved by you is thought to have been elected by a few, and those of little account, whereas it belongs to you to urge all by constant admonition to agree, all together and without any objection, on one man whom they see to be worthy of the episcopate. And therefore, dearest brothers, you ought quite often to call together various priests and deacons from all the parishes of the said place, and the whole crowd, so that, not as anyone pleases, but with minds in agreement and with you admonishing them, they may seek for themselves, with regard to God alone, such a person as no opposition can draw away from what has been laid down."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab72",
+   "text": "GELASIUS TO BISHOP BONIFACE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab73",
+   "text": "That slaves fleeing from their masters to a church ought to seek intercession, not a hiding place."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.53",
+   "text": "Servants who fear their masters, if they take refuge within the precincts of a church, ought to seek intercession, not a hiding place, lest this very presumption of delay increase the rashness of their resistance. For our son, the honourable (spectabilis) man Peter, complains that his slave has stayed a long time in the church of St Clement, and that, when he had arranged for oaths to be given to him, the slave would on no account come out. And therefore [we direct] that chosen persons of the said man be sent at once, together with the one he chooses, and when they have given oaths for his impunity, you will make him return at once to his master by all means; or, if he should perhaps persist in this obstinacy, let him be handed back against his will after the oath given to him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab74",
+   "text": "GELASIUS TO THE BISHOPS RUFINUS AND APRILIS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.54",
+   "text": "Who would say that either the laws of the emperors, or the rules of the Fathers, or present admonitions ought to be despised, except one who thinks only that his offence will pass unpunished? For the agents of our daughter, the illustrious and magnificent lady Maxima, have complained to us by the representation of a petition that Silvester and Candidus, her bondsmen by origin, were ordained deacons by the bishop of Lucera against the constitutions mentioned above, and despite a prior objection. Therefore, dearest brothers, know that the excess of so great a transgression is to be inquired into rather shrewdly; and if it is established that the complaint is supported by the truth, let those who were not lawfully created [another reading: consecrated] despite a prior objection be at once removed from the sacred offices."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab75",
+   "text": "THE SAME TO THE SAME."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab76",
+   "text": "That it is not permitted to despise the laws of the emperors or the rules of the Fathers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.55",
+   "text": "But who would say that the laws of the emperors, or the rules of the Fathers, or fatherly admonitions ought to be despised, except one who thinks only that his offence will pass unpunished?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab77",
+   "text": "GELASIUS TO KING THEODORIC."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab78",
+   "text": "The laws of the Roman emperors are to be kept by all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.56",
+   "text": "It is certain that your magnificence wishes the laws of the Roman emperors, which you have commanded to be observed in the affairs of men, to be kept much more with regard to reverence for the blessed apostle Peter, for the increase of your own prosperity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab79",
+   "text": "POPE GELASIUS TO BISHOP PALLADIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab80",
+   "text": "A rank received in a time of soundness is not lost through infirmity that follows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.58",
+   "text": "The precepts of the canons by which ecclesiastical discipline is governed, just as they do not allow those infirm in body to attain the priesthood, so also, if anyone has been established in it and is then injured, he cannot lose what he received in the time of his soundness. For the priest Stephen has lamented to us in a petition submitted, as is contained below, that the rank of priest was conferred on him long ago, many years since, and that he truly received it on the judgement that his body was unblemished; but that recently, because of the devastation of the province (which the savagery of barbarians following different creeds, and the wavering of minds, have brought upon Tuscany above all), while he was striving to escape the threatening swords by the help of flight, leaping over [obstacles] set with sharp stakes that lay in his way, he pierced, as he reported, the lower parts of his body, which, even with treatment applied, could scarcely be healed [another reading: closed up] in two years. And therefore, dearest brother, restore to the above-named his place and rank, so that he may perform the most holy mysteries as he was accustomed. For it is not fitting that he be deprived of the order received earlier, in which he is shown to have later fallen into bodily infirmity by the working of chance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab81",
+   "text": "GELASIUS TO BISHOPS RUSTICUS AND FORTUNATUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab82",
+   "text": "Let one who is frequently dashed to the ground be suspended from the government of the church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.59",
+   "text": "Recently the clergy of the church of Forum Populi, together with Bishop Sabinus and Pelagius and laymen, disclosed by their own report that their prelate is troubled by a certain grave affliction, by whose onset they said he was frequently dashed down. So that this might not seem to bring scandal upon the faithful, and disturb the Church of God established everywhere with this offence, especially since they affirmed that they had come here with that same man's consent, we sent letters to your Love, that you should render a fitting visitation to the church whose ruler is held bound by such a misfortune. But since that same bishop has now come here and spreads [the claim that] all that has been put about concerning him is false, [we direct that], in view of the divine judgement, and with regard to your conscience and reputation, the truth of the matter be most carefully investigated: whether at any time, that is, either in the house or in procession, or in any other place whatever, he is shown to have suddenly collapsed, and to have uttered confused sounds, and to have thrown out foam from his mouth; let it be inquired with as much examination as can be made. Yet whether this deed cannot be confirmed by anyone's testimony, or it is said never to have happened, it must not be thought sufficient [merely] to know [this], but [there must be] certain and manifest proof, because so great a matter must not be dealt with lightly. Let your Love, brother Rusticus, act in keeping with your custom and fittingly for a great bishop, by arranging that he be with you for thirty days, and compelling him to eat meat without distinction, as a necessary test."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab83",
+   "text": "GELASIUS TO BISHOP VICTOR."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab84",
+   "text": "When the higher [clergy] have refused to be ordained, let [men] be promoted from the lower orders."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.60",
+   "text": "Your communication has consulted [us] about the promotion of your clergy, reporting that the deacons refuse to come to the rank of priest (which you mention your church lacks). Therefore, since ecclesiastical moderation and gravity do not permit that the unwilling be made [priests] against their will, that ordination can be accomplished [thus]: if you have any among the acolytes or subdeacons who are more mature in age and whose life is commendable, take care to promote them to the priesthood, so that those who would not advance in their own orders may be ranked below their inferiors, after the lesser; and let the priests obtain the emoluments themselves more readily than the deacons, so that, constrained at least by this reason, they may strive to seek both the honour which they had shunned, and the income."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab85",
+   "text": "POPE GELASIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab86",
+   "text": "The will of the testator must be kept."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.61",
+   "text": "Consideration of the Church's advantage requires this: that the will be kept according to the testator's disposition."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab87",
+   "text": "GELASIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab88",
+   "text": "What bishops have given, let succeeding bishops in no way presume to take away."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.62",
+   "text": "We have decided this should be established: that whatever gifts preceding bishops have given to clerics or to those serving them, from the church's property for use or from their own for ownership, succeeding bishops should in no way presume to take away. If, however, there has been any fault, let the penalty be applied according to the character of the persons, or the rule of the earlier canons, against the person, not against the property."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab89",
+   "text": "POPE GELASIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab90",
+   "text": "He does not lie who has no intention of deceiving."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.63",
+   "text": "The blessed apostle Paul must not, God forbid, be believed to have deceived, or to have contradicted himself, because, though he had promised that he would go to the Spaniards, being occupied by divine disposition with greater causes he could not fulfil what he promised. For as far as his own will was concerned, he declared what he truly wished to accomplish. But as far as the secrets of the divine counsel are concerned (which, as a man, he could not know in full, though filled with the Spirit of God), he passed it over, forestalled by the supreme disposition. Nor, because the blessed apostle Peter, out of reverence for the divine, answered the Lord himself, \"You shall never wash my feet\", will he be thought, God forbid, to have deceived, or not to have kept to his own word; for he soon yielded to the same divine will, and what he had said would not be done, he, constrained by the causes of human salvation, allowed with willing mind to be done."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab91",
+   "text": "GELASIUS TO AGILULPHUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.64",
+   "text": "But I pray that you will deign to protect the patrimony of the blessed apostle Peter situated in Dalmatia, and that whatever my brother and fellow bishop Honorius may suggest to you for its advantage, or the lessees think should be made known, you will order to be granted as far as possible."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab92",
+   "text": "GELASIUS TO JANUARIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.66",
+   "text": "But I confidently enjoin the causes through which you may receive the continued benefits of the blessed apostle Peter. Let your Nobility therefore grant aid and protection to the property of his poor, and support its lessees with kindly favour, so that you may receive from him a corresponding return for what you have provided, to whose merits and honour you devotedly pay these [services]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab93",
+   "text": "GELASIUS TO FIRMINA, ILLUSTRIOUS LADY."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.67",
+   "text": "It is most certain that it belongs to the increase of your reward if estates which have been improperly seized either by barbarians or by Romans are restored by your arrangements for the sustenance of the needy. Such a multitude of them has flowed together to Rome from the various provinces that have been laid waste by the disaster of wars that, God is witness, we can scarcely suffice for them. You see, then, how much good work you will gain, if the estates which each person conferred on the blessed apostle Peter for his own soul are freed by your protection, after God, and restored. I ask that you deign to receive with a grateful mind the blessed gifts of his benediction, which I have sent out of affection."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab94",
+   "text": "GELASIUS TO THE AGENTS OF URBICUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.68",
+   "text": "It is established that you have paid to the church's administration, from the rent of the estate *Claculae*, which you hold by title of lease, from the produce of the year of the consulship of Asterius and Praesidius, men most distinguished, for the third indiction, thirty gold *solidi*. I have recorded [this] on the fifth day before the Kalends of August, in the consulship of Flavius, a man most distinguished."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab95",
+   "text": "GELASIUS TO QUEEN HERELEUVA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.69",
+   "text": "When [someone] was to petition my lord son, the most excellent king, with my letter for the sustenance of the poor, I hastened to send Peter, defender of the Church. On his coming I did not fail to greet your Sublimity also, earnestly begging that, for the increase of your well-being and prosperity, you deign to help the causes of the needy. Given on the fifth day before the Kalends of March."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.ab96",
+   "text": "GELASIUS TO PETER, BISHOP OF POTENZA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp945.tmp945.opp-lat1.70",
+   "text": "According to what the letter of your bearer indicated, we have learned that you have an unusual matter in hand. He reported that a certain deacon has committed incest, known in the neighbourhood by many indications. But because no one can prove that defilement canonically, the said deacon refuses on that account to undergo any judgement of his deserts. To this I, wrapped up in many unavoidable cares, reply reasonably as follows, as briefly as I can. No judgements among men would be necessary if all truths were plain to everyone. It follows therefore that proof must be sought by the judge through the order of judgement, where the truth of the fault is otherwise not known. But when the fault is not unknown, we order that neither a synod be gathered for him on this account, nor a trial conducted. Rather let only a measured sentence be dealt with in council, which does not seem to exceed the deserts of the fault. As was said to the ancients, an eye for an eye, a tooth for a tooth: and a balanced measure was therefore commanded in the law, so that the condemnation of punishment might be weighed according to the deserts of the fault. Perhaps some less capable [persons] waver over what we have set out above because they have it written in our laws, \"Concerning hidden things let no one be judged or judge.\" But let such persons consider with watchful mind that what is denied concerning hidden things is, by tacit understanding, granted concerning manifest things. It is therefore consistently clear that this is said of those hidden things which bring no scandal upon the Church. If, after scandal has happened to arise from a crime, it must in no way be passed over, so that the Church may rest pacified by satisfaction, and the fault, punished thus publicly, may remain settled, so that [others] may also have fear. For that is satisfaction by which each innocent person is shown [innocent] to those by whom he was believed guilty."
+  }
+ ]
+}

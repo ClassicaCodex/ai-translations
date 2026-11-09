@@ -1,0 +1,377 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1292.tmp1292",
+ "edition_urn": "urn:cts:latinLit:tmp1292.tmp1292.ai-claude",
+ "source_edition": "tmp1292.tmp1292.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Registri Epistolarum [Appendix]: AI translation (Claude)",
+  "author": "Gregorius I Magnus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1292.tmp1292.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.head": "The text is heavily marred by scanning errors (e.g. 'Juaune' for 'Joanne', 'jugatis' for 'jugalis', 'r;:cere' for 'facere', 'ditioni' restored from 'di- doni', 'nunc ejusque' read as 'ejusdem'); translated as evidently intended. Ref 2: 'coetum' read as 'caelum', 'amem' as 'autem'. Ref 7: the sentence 'tanto ... quanto et ea ipsa ...' is elliptical in Latin; the bracketed words supply the implied sense. 'aut praeviderit ordinandum' is obscure. 'Tusiacum' and 'Mortinetum' (royal estates) are unidentified. The privilege for Saint-Médard is generally regarded as a forgery.",
+  "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.8": "Line .8: 'Tiberius Silvae candidae' read as Silva Candida; 'SuteHius' read Sutellius (uncertain). Line .12 numbered '5' in the scan, evidently '2'. Line .13: 'titulos' here means boundary markers/placards of claim, not title-churches; 'manibus' taken as 'by force'. Line .14: 'vela, mina' read as one word, velamina ('veils'), and 'adaint' as adsint ('are at hand'); 'tegmine' for 'eglliine'. Line .15: *pastellus* is an obscure fee term. Line .17: 'Faterna', 'Ferensis' (Fera?) unidentified; 'Lum nosus' read Luminosus, 'Raldinius' Baldinus. Line .18: 'D Inlasi' read Damasi; 'Prudentis' taken as Pudens (Pudentiana). The dating and subscriptions of the privilege are generally regarded as spurious.",
+  "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.19": "Line 20: 'consecratas feminas ducere praesumant mulieres' is awkward; 'mulieres' is taken as predicate ('as wives'). Canon I: 'presbyterum' read as 'presbyteram' (wife or woman of a presbyter); as printed it would mean 'a presbyter'. Canon XIII: sense of 'de cameris' (chambers? treasuries?) is unclear; kept as *camerae*. In the Lateran constitution (lines 40–48) the edition prints variant readings in square brackets (e.g. [denegamus], [notitiam], [divinum], [presbyteri et diaconi dixerunt], [alias, 3]); the main text has been translated, except for evident insertions such as [seu] and [sint]. 'Diurnum' (daily work) has the variant 'divinum' (divine work). Line 43: the clause 'et eorum consilio et judicio finiantur' has a variant 'concilia sine praejudicio finiat'. Line 51: 'contra vatum' read as 'contra votum'; 'diremit' as 'direxit' (sent); 'mistum se non esse' taken as 'he was not implicated' (mixtum); 'dicta de alu ieribus' read as 'de mulieribus'. Heading ab15 is scrambled by the scan and has been reordered.",
+  "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab17": "Line 52: the year of consulship and the indiction in the opening date are garbled in the scan ('anco i 1', 'indictione ł'); the petition itself is dated year 14, post-consulship 13, fourth indiction, so the council's date was probably similar. 'Fausaneose' read as Fausiana (Sardinia); 'Telesino' as Telesia. The phrase 'dilectionem tuam ne post se rediret' is awkward and probably corrupt; rendered literally. Heading X: 'quam solvi fecit' is obscure (perhaps corrupt for 'scribi' or 'solemniter'); left as [...]. The 'in the name of the lord emperor' formula is presumably a dating clause. In XI the dating under Justin/Justinian does not fit Gregory, suggesting the formula belongs to an earlier pope.",
+  "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab20": "Line 55: 'septimo' is taken as the seventh milestone from Constantinople (the Hebdomon); the Latin has only 'septimo'. 'Secundianas' is translated as written; it is presumably a corrupt form of a palace name. 'in late anis' is read as 'in Lateranis'. Line 58: Prov. 30:33 is the correct reference; the edition prints XXX, 35. Line 60: 'sementinam' is read as 'seminiam' or 'seminis', in the sense of 'seed'. Line 63: the ending is garbled. It is read as 'quae corpori libent similiter caveamus/caedamus', so the sense is tentative."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.head",
+   "text": "APPENDIX TO THE LETTERS OF SAINT GREGORY."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.1",
+   "text": "I. A creed of faith dictated by the blessed Pope Gregory."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.2",
+   "text": "I believe in one God almighty, Father, and Son, and Holy Spirit, three persons, one substance: the Father unbegotten, the Son begotten, and the Holy Spirit neither begotten nor unbegotten, but coeternal, proceeding from the Father and the Son. I confess the only-begotten Son, consubstantial [with the Father] and born of the Father outside time; maker of all things visible and invisible; light from light; true God from true God; the splendour of glory; the image of [his] substance. He, remaining the Word before the ages, was made perfect man near the end of the ages, conceived and born of the Holy Spirit and the Virgin Mary. He took on our nature without sin. And under Pontius Pilate he was crucified and buried; on the third day he rose from the dead. On the fortieth day he ascended into heaven. He sits at the right hand of the Father, from where he will come to judge the living and the dead. He will set before the eyes of all all the hidden things of each one. He will give to the saints the everlasting rewards of the heavenly kingdom, but to the wicked the punishments of eternal fire. He will renew the world through fire. I confess one faith, one baptism, one apostolic and universal Church, in which alone sins can be forgiven, in the name of the Father, and of the Son, and of the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab1",
+   "text": "II. On the deposition of Laurence the archdeacon, and the appointment of Honoratus in his place."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.3",
+   "text": "In the time of Pope Gregory, in the seventh year of the consulship of Maurice Augustus, Laurence, who had been first in the order of the diaconate of the apostolic see, was deposed for his pride and his wrongdoings, which we have thought best to pass over in silence; and Honoratus was made archdeacon in the presence of all the priests and deacons, notaries, subdeacons and the whole clergy, in the golden basilica."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab2",
+   "text": "III. The document that was left concerning the greater litany, in the basilica of Saint Mary."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.4",
+   "text": "The solemnity of our yearly devotion reminds us, most beloved sons, that we ought, with the Lord's help, to celebrate with careful and devout minds the litany which is called by all the greater [litany], through which, as we pray to his mercy, we may deserve to be cleansed in some measure from our transgressions. For it is fitting for us to consider, most beloved, by what varied and continual calamities we are pressed for our faults and offences, and how in turn the medicine of heavenly kindness comes to our aid from time to time. So when Friday comes, setting out from the title-church of the blessed martyr Laurence which is called [the church] of Lucina, let us hasten to the blessed Peter, prince of the apostles, praying to the Lord with hymns and spiritual songs, so that there, celebrating the sacred mysteries, we may deserve to give thanks to his kindness, as far as we are able, both for his former and for his present benefits."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab3",
+   "text": "IV. A privilege granted to the monastery of Saint Médard."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab4",
+   "text": "On Gairaldus, abbot of Saint Médard, and on his monastery at Soissons, which he adorns with the most ample privileges"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.5",
+   "text": "Gregory to all the bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.6",
+   "text": "To the most precious stones that deservedly shine in the diadem of Christ, and to all the members of the holy Church of God, whose universal head is Christ, Gregory, who, although raised to the pontificate of the holy Roman see, is yet the most humble servant of the servants of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.7",
+   "text": "When the hearts of catholic kings, through the prompting of divine grace, are kindled with so ardent a desire for the things to which they ought to be urged by pontifical admonitions that these things are asked by them of their own accord, they ought to be granted with a mind as eager and glad as [the request is remarkable, since] the very things they desire ought to have been requested of them if they had been unwilling to do them. Accordingly, in keeping with the letters of our most excellent children the kings Brunhild and her grandson Theuderic, we grant by the decree of our authority privileges of this kind to the monastery of holy Mary, Mother of God, and of the blessed Peter, prince of the apostles, and also of Stephen, Christ's first martyr, which is situated in the city of the Soissonnais, where Saint Médard rests and where the venerable man Abbot Gairaldus is known to preside; and we more fully confirm the privileges which were granted and bestowed on that place under the bonds of anathema by the lord Pope John of good memory, with the concurrence of the clemency of the illustrious kings, namely Chlothar and Sigebert, the husband of this our daughter: these we grant and confirm. We decree that no king, bishop or judge, nor anyone endowed with any dignity whatever, may, under the pretext of any occasion whatever, diminish or take away or apply to his own use the things which have been granted or shall be conferred on the place by the most excellent kings or by any others who fear God; but we will that all things which have been offered, or shall happen to be offered, to the monks serving God be possessed for all time undiminished and without any disturbance, to be of benefit in every way to the uses of those for whose support they were granted. We also grant that when the abbot dies, no one else be ordained there by any cunning of stealthy intrusion, except the one whom the common consent of the monks has chosen, or has foreseen should be ordained. But let the aforesaid monks beware of the simoniac heresy, lest, overborne by the power of kings or bishops, they receive a tyrant in place of a shepherd. This we altogether forbid to be done, and we forbid the same abbot to presume to give anything for the sake of his ordination, lest on this pretext the things which are offered, or have been offered, by the faithful to holy places be consumed. And since the fame of the religious life of the monks serving God, over whom the man of venerable life Gairaldus is known to preside, has reached our ears, favouring the just petitions of the most excellent kings Brunhild and Theuderic, out of love for the lord Médard we grant so great a dignity of divine honour and security, to endure for all time. Therefore by divine authority, in the place of the blessed Peter, prince of the apostles, with the consent of all the Roman pontiffs and the will of the whole Roman senate, at the urging of the apostolic man Ansericus, bishop of the city of the Soissonnais, and with the favourable judgement of all the bishops of Gaul, we decree that none of the archbishops or archdeacons trouble the brothers of the aforesaid basilica concerning the ordination of their abbot or the taking up of ecclesiastical grades; but according to the prerogative of that place just now recited to you, decreed in the time of our most blessed predecessor the lord Pope John and confirmed by apostolic authority, let the brothers themselves carry out the ordination of their abbot and receive the dignity of ecclesiastical grades. Let them also celebrate the consecrations of the fonts and the rites of the scrutiny in that monastery. Let them also seek the blessing of chrism and oil, of altar, chalice and corporal from whatever bishop they wish, so that so great an honour may not be interrupted by any ruler for the sake of any pretext or necessity, lest this place of such sublimity become cheap, consecrated as it is by the merits of holy Mary and of the blessed Peter, and also of the first martyr and of the lord Médard; which [place] we establish as the head of the monasteries of all Gaul, and we do not allow it to be subject to the jurisdiction of anyone. But just as this Roman see proclaims its oversight to the whole world, and sends new customs to all, and is free of service to any person, so let the aforesaid place, every most evil custom of kings, bishops and judges being removed, show to other monasteries an example of divine religion and integrity, and let it enjoy full freedom over these things. Let its rulers and sons, present and to come, placed only under the protection of kings, proclaim the admonition of Saint Peter and of his successors, the pontiffs of this holy Roman see, by [its] authority. And if necessity presses, let them come [to it]. For this purpose, for brothers to be sent on the road of so long a journey, our daughter Queen Brunhild has given fifteen free manses and as many servile ones, by a precept made in full integrity forever, near the end of the Alps, and for this reason has assigned many other revenues from lands situated along the course of the same journey. And she gave the royal fiscs of Tusiacum and Mortinetum jointly for the maintenance of the brothers, and she has so secured by her precept all the estates given, or to be given, to God and to Saint Médard, that whoever wishes to live, or has settled, on the lands of the lord Médard, whether slave or free, whosesoever he may be, is removed from the lordship of anyone else and attached to the service of the holy Mother of God, and has no further leave to return. And if he flees, let him be reckoned as a slave of the same holy Church of God. Concerning the altars also, in keeping with the ordinance of the lord Pope John, we confirm by apostolic authority that whoever is ruler of the aforesaid monastery shall also be head of the altars and of all the churches belonging to it, and that from these lights be provided for the principal altar of the aforesaid saints, and hospitality to pilgrims be practised with reverence. We add also another edict: if the abbot is to be deposed on account of a capital crime, let him not be deposed until those deposing him seek apostolic authority, and let there then be three metropolitans with their suffragans and a great many abbots. And at that council let the accusers each be present with three witnesses, and so, by the examination of a true judgement, let them prove that they have seen [it], solemnly affirming it in the hearing of the council. Finally let the abbot himself give the reasons for his defence, and clear himself by the bond of an oath upon the sacred mysteries of the four Gospels. Then, if he is convicted, let him be deposed by way of correction; but if not, let him be restored to his honour, and receive the mysteries of ecclesiastical dignity, and during the sacred solemnities of masses perform the blessing and preaching according to the ordinances of the lord Pope John, and lead the life of his conduct with better examples. For the monks too we set forth this sentence: that none of them be oppressed through the envy or hatred of the abbot, which God forbid, or be punished by the censure of outside persons. But if [one] offends by the fault of a principal vice, let him be reproved privately within the cloister of the same monastery by the abbot himself and the spiritual brothers, and be separated from the body of the holy congregation. And if, through persisting obstinacy, he is cut off, we order that he receive letters of request and enter whatever monastery he wishes, or for the sake of penance seek the leave of this apostolic see, and, having received letters from the lord pope, return free to his own monastery. All these things, therefore, which are contained in the privilege of this apostolic authority and of our precept, we establish under anathema as to be observed by the rulers and sons of the aforesaid monastery, present and future, and by all monasteries subject or associated to that place. But if anyone, whether of kings, bishops, judges or any secular persons whatever, violates or contradicts or treats with negligence the decrees of this apostolic authority and of our precept, or troubles or disturbs the brothers, or orders things otherwise, of whatever dignity or eminence he may be, let him be deprived of his honour, and as a corrupter of the catholic faith or a destroyer of the holy Church of God, let him be cut off from the fellowship of Christendom and from the body and blood of our Lord Jesus Christ, and with the anathema of all the curses by which unbelievers and heretics have been condemned from the beginning of the world until the present, let him be damned with Judas, the betrayer of the Lord, in the lowest hell, unless by worthy penance he wins back for himself the mercy of the aforesaid saints and restores the common concord of the brothers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.8",
+   "text": "I, Gregory, bishop of the holy Roman see, have subscribed to this privilege. Etherius, archbishop of Arles, has subscribed. Gregory, bishop of Porto, has subscribed. Andrew, bishop of Albano, has subscribed. Augustine, bishop of the people of Kent, has subscribed. Anastasius, bishop of Tivoli, has subscribed. Sergius, bishop of Palestrina, has subscribed. Peter, bishop of Anagni, has subscribed. Agnellus, bishop of Sutri, has subscribed. Mellitus, bishop of London, has subscribed. John, bishop of the people of Velletri, has subscribed. Tiberius, bishop of Silva Candida, has subscribed. Marinianus, bishop of the Church of Ravenna, has subscribed. Vitulinus, bishop of Siponto, has subscribed. John, bishop of the Syracusans, has subscribed. Sabinianus, bishop of the people of Todi, has subscribed. Eulogius, bishop of Alexandria, has subscribed. Dominicus, bishop of Carthage, has subscribed. Fortunatus, bishop of the Neapolitans, has subscribed. John, bishop of Sorrento, has subscribed. Primaevius, bishop of the people of Norcia, has subscribed. Felix, bishop of the people of Porto, has subscribed. Gloriosus, bishop of the people of Ostia, has subscribed. Constantius, bishop of Narni, has subscribed. Constantius, bishop of Milan, has subscribed. Sutellius, bishop of the people of Bordeaux, has subscribed. Vitalis, bishop of the people of Besançon, has subscribed. Boniface, bishop of Piacenza, has subscribed. Syagrius, bishop of the people of Autun, has subscribed. Flavius, archbishop of Reims, has subscribed. Ansericus, bishop of the Soissonnais, has subscribed. King Theuderic has subscribed. Queen Brunhild has subscribed. I, Peter, [notary] of the holy Roman see, have subscribed and sealed. Given on the seventh day before the Kalends of June, in the year from the Incarnation of the Lord 594, in the second indiction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab5",
+   "text": "V. Decrees of Saint Gregory, Pope I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab6",
+   "text": "I. On the office of the deacons of the apostolic see. — II. Who, or"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab7",
+   "text": "of what kind, should serve in the pontiff's bedchamber. — III. If any of the clergy presumes to set up title-markers. — IV. On not veiling the bier of the Roman pontiff. — V. That nothing be given or received for ordination or the pallium, etc. — VI. If any of the servants of the Church desires to be converted to the service of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.10",
+   "text": "In the reign of our Lord Jesus Christ for ever, in the times of the most pious and most serene lords Maurice Tiberius and Theodosius, Augusti, in the thirteenth year of the empire of the same lord Maurice, in the thirteenth indiction, on the fifth day of the month of July. Pope Gregory, sitting before the most holy body of blessed Peter with all the bishops and the presbyters of the Roman Church, with the deacons and all the clergy standing by, said:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.11",
+   "text": "In the holy Roman Church, over which divine dispensation has willed me to preside, a very reprehensible custom has long since arisen, that certain singers are chosen for the ministry of the holy altar, and, being set in the order of the diaconate, serve in the modulation of the voice, when it would be fitting for them to be free for the office of preaching and the care of alms. Hence it often happens that, while a pleasing voice is sought for the sacred ministry, the seeking of a fitting life is neglected, and the singer-minister provokes God by his conduct while he delights the people with his voice. In this matter I establish by the present decree that in this see the ministers of the holy altar are not to sing, and are to discharge only the office of the Gospel reading during the solemnities of the Mass. The psalms and the remaining readings I decree are to be performed by subdeacons, or, if need be, by the minor orders. But if anyone attempts to go against this decree of mine, let him be anathema. And all answered: Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.12",
+   "text": "2. A shameful custom grew up in a time of indiscretion, that lay boys and secular persons attend the pontiffs of this see in the private services of the bedchamber; and since the pastor's life ought always to be an example to his disciples, the clergy for the most part do not know what kind of life their pontiff leads in private, which, as has been said, secular boys nevertheless know. On this matter I establish by the present decree that certain persons chosen from the clergy, or even from the monks, attend to the service of the pontifical bedchamber, so that he who is in the place of governance may have such witnesses as see his life in private conduct and, from diligent observation, take an example for their advancement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.13",
+   "text": "3. A new and very reprehensible custom has broken out in this Church, that when the rectors of its patrimony suspect that urban or rural estates may belong to its right, they set up title-markers in the manner of the fisc, and defend what they reckon belongs to the poor not by judgment but by force. And although the Truth says through his preachers: [Do] nothing through contention (Phil. 2:3), they go even beyond the evil of litigious contention; and any property, when it is reckoned that it may belong to the Church, is held by violence. Therefore I establish by the present decree that if any of the clergy ever presumes of his own accord to set up title-markers in a dispute over a rural or urban estate, let him be anathema. And all answered: Let him be anathema. And he who presides over the Church, if he himself orders this to be done, or neglects to punish with fitting severity what was done without his order, let him be anathema. And all answered: Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.14",
+   "text": "4. Just as the mind of the faithful venerates us, unworthy as we are, out of reverence for the blessed apostle Peter, so it befits our weakness always to recognise itself and earnestly to decline the burdens of veneration offered to it. For out of the love of the faithful a custom has broken out, beyond merit, toward the rulers of this see, that when their bodies are carried for burial, they cover them with dalmatics, and the people tear up these same dalmatics to be shared among themselves out of reverence for [their] holiness; and although many veils from the sacred bodies of the apostles and martyrs are at hand, that which is kept with great reverence is taken from the body of sinners. On this matter I establish by the present decree that the bier on which the body of the Roman pontiff is carried for burial be covered with no cloth. I decree that the presbyters and deacons of this see take charge of this decree of mine. But if anyone of their order neglects to see to this, let him be anathema. And all answered: Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.15",
+   "text": "5. Following the ancient rule of the Fathers, I establish that nothing is ever to be received for ordinations, neither for the giving of the pallium, nor for the handing over of documents, nor under the name of *pastellus* [a fee], which a new pretence devised through ambition. For since the pontiff lays his hand on the bishop to be ordained, while the minister reads the Gospel reading and the notary writes the letter of his confirmation, just as it does not befit the pontiff to sell the hand which he lays on, so the minister or notary ought not to sell his voice or his pen at his ordination. For the ordination, the pallium, the documents and the *pastellus* I altogether forbid the one who is to be ordained or has been ordained to give anything. If anyone presumes to demand or to offer anything from these aforesaid things under the name of a fee, he will lie under guilt in the strict judgement of almighty God. But if he who has been ordained, not by agreement, neither pressed nor asked, after receiving the documents and the pallium, wishes to give something to anyone of the clergy solely as a token of thanks, we in no way forbid this to be accepted, because his offering, which did not proceed from the ambition of the receiver, brings no stain of guilt."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.16",
+   "text": "6. We know that many from the household of the Church or of laymen hasten to the service of almighty God, so that, free from human servitude, they may live more intimately in divine service in monasteries; if we let them go indiscriminately, we give all an occasion of fleeing the lordship of the Church's right. But if we unwisely hold back those hastening to the service of almighty God, we are found denying certain things to him who gave all things. Hence it is necessary that whoever desires to be converted from servitude under the right of the Church or of secular service to the service of God be first tested while placed in lay dress; and if his conduct and way of life bear witness to his good desire, let him be permitted without retraction to serve almighty God in a monastery, so that he who seeks a stricter servitude in divine obedience may depart free from human service."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab8",
+   "text": "Subscription of the bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.17",
+   "text": "Gregory, by the grace of God bishop, has subscribed to these decrees. Marinianus, bishop of the city of Ravenna, has subscribed. Paul, bishop of the city of Nepi. John, bishop of the city of Sorrento. Gratianus, of the city of Nomentum. John, bishop of the city of Faterna. Agnellus, bishop of the city of Terracina. Romanus, bishop of the city of Blera. Dominicus, bishop of the city of Centumcellae. Pelagius, bishop of the city of Anagni. Felix, bishop of the city of Porto. John, bishop of the city of Velletri. Candidus, bishop of the city of Foligno. Luminosus, bishop of the city of Ferentino. Baldinus, bishop of the city of Roselle. Secundinus, bishop of the city of Taormina. Martianus, bishop of the city of Fera. Honobonus, bishop of the city of Albano. Dominicus, bishop of the city of Otricoli. Constantius, bishop of the city of Narni. Fortunatus, bishop of the city of Naples. Anastasius, bishop of the city of Tivoli. Proculus, bishop of the city of Palestrina."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab9",
+   "text": "Subscription of the presbyters."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.18",
+   "text": "Laurentius, presbyter of Saint Silvester, has subscribed. John, presbyter of Saint Vitalis. Speciosus, presbyter of Saint Clement. Deusdedit, presbyter of Saints John and Paul. Andromachus, presbyter of the Apostles. Graeseus, presbyter of Saint Lawrence. Rusticus, presbyter of Saint Susanna. Vibilus, presbyter of Saint Marcellus. Peter, presbyter of Saints Julius and Callistus. Spectatus, presbyter of Saint Vitalis. Stephen, presbyter of Saint Mark. Felix, presbyter of Saint Sixtus. Peter, presbyter of Saint Balbina. Justus, presbyter of Saints Nereus and Achilleus. Speciosus, presbyter of Saint Damasus. Maurus, presbyter of Saint Prisca. Placitus, presbyter of Saint Sabina. Victor, of Saint Cecilia. John, of Saint Chrysogonus. Aventius, of Saint Praxedes. Andrew, of Saint Mark. John, of Saints John and Paul. Agapitus, of the Apostles. Felix, of Saint Sabina. Bonus, of Saint Eusebius. Bassus, of Saint Pudens. John, of Saint Silvester. Albinus, of Saints Marcellinus and Peter. Antonius, of Saint Balbina. Candidus, of Saint Clement. Romanus, of Saint Marcellus. Leo, of Saint Damasus. Aventius, of Saint Cyriacus. Fortunatus, of the Four Crowned Saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab10",
+   "text": "VI. Other decrees of Saint Gregory, Pope I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.19",
+   "text": "Gregory, bishop by the grace of God, subscribed these decrees, and bishops and presbyters, fifty-eight in number, confirmed [them]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.20",
+   "text": "Gregory, the most holy apostolic pope, sitting in synod before the body of the most blessed Peter, said: \"I speak of this grieving greatly and groaning, because I hear that some of the Christians settled in the regions of the West act rashly against the catholic faith and the statutes of the Fathers, so that they presume to take consecrated women as wives, and are joined in marriage to their kinswomen. This must be cut away with the spiritual sword and, if it pleases your holiness, torn out by the roots, so that the crop of the good farmer, mixed with the bristling thickets of the wicked, may not be fouled.\" The most holy bishops and venerable presbyters answered: \"We truly recognise that the heart of your apostolate is kindled by the grace of the Holy Spirit, so that you may wipe the filth of so great a wretchedness from the minds of the faithful.\" After this unanimous response from all, Gregory the apostolic pope, before the venerable body of the aforesaid prince of the apostles of Christ, delivered judgement and said:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.21",
+   "text": "I. If anyone takes a presbyteress in marriage, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.22",
+   "text": "II. If any presbyter or deacon takes a wife, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.23",
+   "text": "III. If anyone takes in marriage a nun, whom they call a handmaid of God, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.24",
+   "text": "IV. If anyone takes his spiritual co-mother in marriage, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.25",
+   "text": "V. If anyone takes his brother's wife in marriage, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.26",
+   "text": "VI. If anyone takes his niece in marriage, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.27",
+   "text": "VII. If anyone takes his stepmother or his daughter-in-law in marriage, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.28",
+   "text": "VIII. If anyone takes his cousin in marriage, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.29",
+   "text": "IX. If anyone takes as wife [a woman] from his own kindred, in which he has had kinswomen, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.30",
+   "text": "X. If anyone abducts a virgin or steals her away, let him be anathema together with those who consent with him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.31",
+   "text": "XI. If anyone abducts or steals away as wife a virgin to whom he is not betrothed, let him be anathema together with those who abet him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.32",
+   "text": "XII. If anyone consults soothsayers, haruspices or enchanters, or makes use of amulets, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.33",
+   "text": "XIII. If anyone in any respect violates the precepts previously issued by the apostolic Church concerning *camerae* and various places, and does not observe them in all things, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.34",
+   "text": "XIV. If anyone commits homicide, let him do penance for ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.35",
+   "text": "XV. If anyone persists in crime, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.36",
+   "text": "XVI. If anyone of the clergy lets his tonsure grow out, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.37",
+   "text": "XVII. And all answered to each chapter three times: \"Let him be anathema.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab11",
+   "text": "Subscription of the blessed Pope Gregory."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.38",
+   "text": "I, Gregory [bishop] of the holy catholic and apostolic Roman Church, have subscribed this constitution promulgated by you. Agnellus, bishop of the city of Ferentino, has subscribed this constitution promulgated by us. And the rest subscribed. Farewell, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab12",
+   "text": "VII. The Third Roman, or Lateran, Council, in the time of Saint Gregory, Pope I, in which, in the year of the Lord 601, he issued the following constitution on behalf of monks."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.39",
+   "text": "Gregory, bishop, servant of the servants of God, to all bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.40",
+   "text": "How necessary it is to provide for the quiet of monasteries and to deal with their lasting security, our former office, which we exercised in governing a monastery, teaches us. And since we have learned that in very many monasteries the monks have suffered many prejudicial acts and burdens from prelates, it is fitting that the foresight of your fraternity should arrange their future quiet by a wholesome ordinance, so that those living there in the service of God may, with his grace also aiding, persevere with a free mind. But so that no one may presume to cause the monks any trouble on the basis of a custom which rather needs correcting, it is necessary that the bishops, through the zeal of [your] fraternity, should keep what we have taken care to list below in such a way that no occasion may henceforth be found in it for causing disturbance. We therefore forbid, in the name of our Lord Jesus Christ and by the authority of blessed Peter, prince of the apostles, in whose stead we preside over this Church, we prohibit, that any of the bishops or laymen should henceforth presume to diminish in any way [or] on any pretext the revenues, goods or charters of the monasteries, or the cells or estates that belong to them, or to practise frauds or any encroachments. If any dispute should perhaps arise about land coming to the share of their churches and the monasteries, and it could not be settled peacefully, let it be ended without wilful delay before chosen abbots and other fathers who fear the Lord, with the holy Gospels set before them. (See book VIII, letter 5.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.41",
+   "text": "When the abbot of any community has died, let no outsider be chosen, but [one] from the same community, whom the harmonious fellowship of the brethren has chosen for itself by its own will; and let the one who has been chosen be ordained without fraud or any venality. But if they cannot find a suitable person among themselves, let them carefully see to [having one] ordained for themselves in the same way from other monasteries. Nor, once an abbot has been established, let any person be set over [him] on any pretext, unless perhaps crimes exist (which God forbid) which the sacred canons are shown to punish."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.42",
+   "text": "Likewise care must be taken that monks should not be taken from there, against the abbot's will, to govern other monasteries, or for sacred orders or the office of a cleric."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.43",
+   "text": "We also wholly forbid inventories of the goods and charters of a monastery to be made by the bishop's church officers; but whenever the matter requires, let the abbot of the place, with other brethren, deal with the matters of the goods found, and let they be settled by their counsel and judgement. Also, when the abbot dies, let the bishop in no way involve himself in listing and arranging the goods of the monastery that have been acquired, or in seeking out those given. We also wholly forbid public masses to be held by him in the monastery, lest in the retreats and dwellings of the servants of God any occasion for a popular gathering be given, or a new entry of women take place, which is wholly unprofitable for their souls; nor let him dare to set up a [bishop's] chair there, or to have any power at all of commanding, or of making any appointment however slight, unless he has been asked by the abbot of the place, so that the monks may always remain in the power of their abbots; and let him not hold any monk in any church, or promote him to any rank, without the testimony or consent of the abbot."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.44",
+   "text": "We therefore decree that this page of our writing is to be kept firm and inviolate by all bishops for all future time, so that they [may be] content, with the Lord's help, with their own churches only, and that the monasteries may in no way be subject to ecclesiastical conditions or compulsory services or any secular duties, nor serve any canonical rights, but, with vexations removed in all burdens, may carry out the daily work with the utmost devotion of mind."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.45",
+   "text": "All the bishops answered: \"We rejoice in the freedom of the monks, and we confirm what your beatitude has now decreed concerning them.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab13",
+   "text": "Subscriptions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.46",
+   "text": "I, Gregory, bishop of the catholic and apostolic Roman Church, have subscribed this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.47",
+   "text": "I, Agnellus, bishop of the holy Church of Ferentino, have subscribed this constitution promulgated by you. I, Humilis, bishop of Velletri, have subscribed this constitution promulgated by you."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.48",
+   "text": "And so all the other bishops, twenty in number; fourteen presbyters and four deacons, on the nones of April, in the fourth indiction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab14",
+   "text": "The Fourth Roman Council, under Pope Gregory I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab15",
+   "text": "In the case of Andrew, a monk, impostor and forger, held in the year of the Lord 601."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.50",
+   "text": "Council. In this council Andrew was condemned, a Greek living in monastic habit at the basilica of Saint Paul, who was exposed as an impostor and forger. Gregory [writes] more on this matter in book IX, letter 69 (now letter 74 of book XI), to Eusebius of Thessalonica."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab16",
+   "text": "VIII. On the case of Maximus the transgressor, his penance and satisfaction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.51",
+   "text": "Maximus the usurper was raised [to the see] in Dalmatia by the soldiers against the will of the lord Pope Gregory, in the eleventh indiction, and persisted in contumacy and presumption for seven years. After this, after the chastisement and scourges of the most blessed and apostolic Pope Gregory, he set out from Dalmatia and came to the city of Ravenna to the most blessed Archbishop Marinianus, and threw himself down stretched out within the city in the middle of the paved street, crying and saying: \"I have sinned against God and against the most blessed Pope Gregory.\" And when he had done penance for three hours, the exarch Callinicus and Castorius, chartulary of the Roman Church, ran up with Archbishop Marinianus, and, being raised up, he began to do fuller penance before them. Then he took him to the holy body of the blessed Apollinaris, and he swore concerning all the things that had been said against him about women or about simoniacal schism that he was not implicated. Then Castorius the chartulary, returning, brought with him a deacon of the same Maximus, named Stephen, as reporter of all the satisfaction Maximus had made. Then the most blessed Pope Gregory, moved to mercy, sent the pallium in confirmation of the same bishop, that is on the seventh day before the Kalends of September, in the second indiction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab17",
+   "text": "IX. Permission to make a will granted to Probus, abbot of Saint Andrew's."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.52",
+   "text": "In the name of the Lord God our Saviour Jesus Christ, in the reign of our lord Maurice Tiberius, perpetual Augustus, in the thirteenth year, and in the [...] year of the consulship of the same lord, on the third day before the Nones of October, in the [...] indiction, with the most blessed and apostolic Pope Gregory presiding, and sitting with him the most reverend Menna, bishop of Telesia, Basil of Capua, Constantius of Nomentum, Montanus of Sabina, Victor of Fausiana; John, priest of the title-church of Saints Gervasius and Protasius; Deusdedit, priest of the title-church of Saints John and Paul; Andromachus, priest of the title-church of Eudoxia; Rusticus, priest of the title-church of Saint Susanna; Vibulus, priest of the title-church of Saint Marcellus; Probinus, priest of the title-church of Saint Cyriacus; John, priest of the title-church of Saints John and Paul; Agapitus, priest of the title-church of Eudoxia; Felix, priest of the title-church of Saint Sabina; Gratiosus, priest of the title-church of Saints Nereus and Achilleus; Boniface, priest of the title-church of Saint Sixtus. With the deacons and clergy also standing by, Paterius the *secundicerius* (second officer of the notaries) said: \"Probus, abbot of the monastery of Saints Andrew and Lucia, wishes, if you so order, to be presented before your sight.\" Gregory, bishop of the holy catholic Church of the city of Rome, said: \"Let him come.\" And when he had entered, he said: \"It is fitting that you declare why you wished to be present.\" Probus the abbot said: \"I have a petition in my hands. I ask of the blessedness of my lord that you order it to be received and read out to you.\" Gregory said: \"Let it be done.\" When it had been received, Paterius read it out in these words: \"In the name of the Lord our God Jesus Christ, in the reign of the lord Maurice Tiberius, most pious Augustus, in the fourteenth year, after the consulship of the same our lord the thirteenth, on the third day before the Kalends of October, in the fourth indiction. The things which I now wish to make known to your blessedness were long ago well known to my lord, and I know that your conscience is witness to me of what I submit: for when some years ago I passed from the lay state to the religious office, I had resolved to live as a solitary in my cell for God, and there to spend the few days of life that remain; for which reason I did not previously arrange or dispose of anything of my small property, knowing that my son could succeed me both on intestacy and by will. But one day, when I had entered among others to attend upon my lord, you suddenly and unexpectedly ordered me to enter the monastery and to take up the burdens of abbot. And rising at once, with no time granted me to deliberate or consider, I was compelled to walk off to the monastery with the monks there and then. Since therefore I could arrange nothing beforehand concerning my small property, I tearfully beg that, permission being granted by the enactment of your decree, I may be allowed to dispose of all my possessions according to my will, so that my obedience may neither harm me nor be damaging to my poor son. For it is known to all that the provision of the law forbids those to arrange anything concerning their property after they have entered a monastery who had beforehand the freedom to dispose of their goods; but not those whom the insistence of their superiors compels to submit to something they had never contemplated. For just as the intent of the law opposes this in those who act deliberately, so it comes to the aid of those who are compelled by a greater [authority]. This suggestion and supplication of mine I dictated to be written by Aemilianus, notary of the holy Roman Church, known to me, and I, Probus your servant, subscribed it with my own hand and presented it to you, my most blessed lord Pope Gregory. I, Probus your servant, have subscribed this petition offered by me.\" Gregory said: \"Now that the text of the petition offered has become known to us, let Probus the abbot withdraw for a little, so that we may deliberate with our brothers and sons what should be decided about what he asks.\" When he had withdrawn, and his petition had been discussed at length, he said: \"Let Probus the abbot, whom we had made to be absent for a little, come again, so that we may decree what has seemed good to us in common with our brothers and sons.\" And when he had been presented, he said: \"Where truth agrees with reason, to fulfil the desires of a petitioner is no less just than kind. Having weighed, then, the tenor of the petition offered by you, we recall that everything you have said in it is so. For it had never before even entered our thoughts that we should lay upon you the charge of abbot in any monastery. But one day, when we were discussing with our sons the ordering of the monastery over which you are known to preside, and had long been seeking a person suited to this office, as you came in unexpectedly it suddenly arose in our heart and in the hearts of those who were with us for the discussion that we ought, with God's favour, to appoint you abbot there. Since it is clear that this was imposed on you against your resistance, and our exhortations were able to bend the firmness of your will, it was necessary, lest perhaps you might have had time to go back, that we should send you, already ordained abbot, to that very monastery, of which you had not previously even been a monk. So that this obedience may bring neither sadness to your beloved self nor loss to others, we grant you by the statutes of this our decree free permission to alienate all your possessions, or to dispose of them as you wish. By it you are to know that you have the same power to dispose of them as pleases you that you could have had before you entered the monastery. Nor need you fear that the office of abbot, which, as has been said, you are known to have taken up suddenly and unwillingly, stands in any way in your way, as though you had no freedom in ordering and disposing of your possessions; for it was our insistence, as we have said, that compelled your beloved self, lest it turn back. Accordingly, so that no suspicion may make you doubtful about the things you wish to arrange, we decree that no one, ever, of our Church or of your monastery, or under any other name, on the ground of the state of monastic conversion or of the abbot's office, by any device or under the pretext of any excuse whatever, may act against the tenor of the present decree; but we establish that everything you arrange or dispose of concerning all your property is to be kept intact and, God willing, without any opposition, just as if you had not entered the monastery.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab18",
+   "text": "X. The promise of a certain bishop anathematizing his heresy, which he caused to be [...] in the name of the lord emperor, at Constantinople, on the tenth day of the month of February, in the fifth indiction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.53",
+   "text": "Whenever the eye of the heart, covered by the cloud of error, is made clear by the light of heavenly illumination, one must strive with great caution lest the author of schism secretly rush in and with the weapon of error again cut off from the root of unity those who had returned to it. And therefore I, so-and-so, bishop of such-and-such a city, having recognized the snare of division in which I was held, turning it over with myself in long reflection, have returned with ready and spontaneous will, under the guidance of divine grace, to the unity of the apostolic see. And lest I be thought to have returned with a mind not pure or in pretence, I pledge under penalty of the loss of my order and under the bond of anathema, and I promise to you, and through you to Saint Peter, prince of the apostles, and to his vicar the most blessed Gregory, or to his successors, that I will never return, through anyone's persuasions or in any other way, to the schism from which I have been snatched by the liberating mercy of our Redeemer, but that I will always remain in all things in the unity of the holy catholic Church and in the communion of the Roman pontiff. Therefore I swear and say by God almighty, and by these four holy Gospels which I hold in my hands, and by the safety and genius of our illustrious lords who govern the state, that I will always and without doubt remain, as I have said, in the unity of the catholic Church, to which by God's favour I have returned, and in the communion of the Roman pontiff. But if, which God forbid, I should separate myself from this unity by any excuse or argument, incurring the guilt of perjury, may I be found bound to eternal punishment, and may I have my portion in the world to come with the author of schism. This charter of my confession and promise I dictated to be written by my notary, with the consent of the priests and deacons and clerics who, binding me in this unity, have followed in all the above with equally ready will and are to subscribe with their own hands; and subscribing with my own hand I have handed it to you. Done in such-and-such a place, on the day and under the consuls written above. Subscription of that bishop. I, so-and-so, bishop of such-and-such a city, having taken an oath to keep all the above, have subscribed this confession and promise of mine."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab19",
+   "text": "XI. Copy of a grant of the pallium."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.54",
+   "text": "Gregory to his most beloved brother Peter. We know that it accords with all reason that we should adorn with the vesture of the pallium those whom, by the inspiration of divine mercy, the honour of the priesthood illumines in those cities in which it is established that this was also granted by the apostolic see to those who in past times deserved to become bishops. Therefore by the present authority we grant to your charity the use of the pallium, as your predecessors are known to have had it, and we will that all those things concerning the privilege of your honour which are known to have been preserved for your Church in earlier times should remain, so that you may have no grief at all at anything diminished of its privileges. And the subscription of the lord pope: \"God keep you safe.\" Given on the tenth day before the Kalends of October, in the reign of the lord Justin [another reading: Justinian] Augustus. And the lord pope subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab20",
+   "text": "XII. On the crowning of Phocas, and the killing of Maurice with his sons."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.55",
+   "text": "In the name of the Lord God and our Saviour Jesus Christ, in the sixth indiction, on the 23rd day of the month of November, in the times of the lord and most blessed pope Gregory, Phocas was crowned, and Leontia Augusta, at the seventh [milestone], in the palace which is called Secundianae; and the emperor Maurice was killed with all his male sons, that is, Theodosius, already crowned, Tiberius, Peter, Paul and Justinian, together with Peter, brother of the aforesaid Maurice Augustus; and also some of the nobles who adhered to him, that is, Constantius, patrician and curator, and Placidas, and also George, the emperor's notary. The image of the aforesaid Phocas and Leontia, the Augusti, came to Rome on the seventh day before the Kalends of May, and they were acclaimed in the Lateran in the basilica of Julius by all the clergy and senate: \"Hear us, Christ: life to Phocas Augustus and Leontia Augusta!\" Then the lord, most blessed and apostolic pope Gregory ordered that image to be placed in the oratory of the holy martyr Caesarius within the palace. (John the Deacon, book IV, ch. 20.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab21",
+   "text": "XIII. Fragments of letters which Gratian attributes to Saint Gregory."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.56",
+   "text": "Gregory to Augustine, bishop of the English."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.57",
+   "text": "Further, let priests and deacons (Dist. 4, can. 6), and all the others whom the dignity of an ecclesiastical grade adorns, take up the resolve of fasting from Quinquagesima, so that they may both add something to the measure of the holy institution and surpass the observance of those who stand in the lay order in devotion as they do in rank."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.58",
+   "text": "But concerning the Sunday itself we hesitate as to what should be said, since all laymen and people of the world on that day seek meat dishes more eagerly than usual on other days; and unless they gorge themselves with a kind of new greed until midnight, they do not think they are otherwise taking up the observance of this holy season. This is certainly to be ascribed not to reason but to pleasure, or rather to a certain blindness of mind; hence they cannot be turned away from such a custom, and therefore they are to be left indulgently to their own disposition, lest perhaps they become worse if they are forbidden such a custom. For, as Solomon says: He who blows his nose hard draws out blood (Prov. 30:33)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.59",
+   "text": "And after a little:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.60",
+   "text": "It is fitting that on the days on which we abstain from the flesh of animals, we should also fast from all things which derive their origin from the seed of flesh, namely milk, cheese and eggs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.61",
+   "text": "And after a little:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.62",
+   "text": "But the right to fish is left to the Christian in such a way that it may afford him a comfort in weakness, not a fire of luxury. In short, let one who abstains from meat by no means prepare more costly banquets of sea creatures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.63",
+   "text": "Wine also is permitted to be drunk in such a way that we entirely avoid drunkenness; otherwise it remains that we should likewise cut off all things that please the body."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab22",
+   "text": "On the character, life and death of Pope Agapitus (From an old codex of the Register of Saint Gregory the pope kept in the Vatican Library.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.64",
+   "text": "Pope Agapitus, a catholic vessel, the trumpet of the Gospel, the herald of justice, washed clean with his catholic prayers the sacred coverings of the altar and of the see, which had been defiled by the sacrilegious tales of Anthimus (De consecr. dist. 1, c. 23)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.ab23",
+   "text": "Fragment of a letter cited by John the Deacon, book II, ch. 16."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1292.tmp1292.opp-lat1.65",
+   "text": "We know that many from ecclesiastical or secular service hasten to the service of almighty God, so that, free from human servitude, they may live more intimately in divine service in monasteries. If we let them go indiscriminately, we give everyone occasion to flee the lordship of ecclesiastical or secular right. But if we rashly hold back those hastening to the service of almighty God, we are found to deny certain things to him who gave all. Hence it is necessary that whoever desires to turn from the servitude of service under ecclesiastical or secular right to the service of God should first be tested while placed in lay dress; and if his conduct and way of life bear witness to his good desire, let him be permitted without any retraction to serve almighty God in a monastery, so that he who seeks to undergo a stricter servitude in divine obedience may depart free from human service. And if in the monastic habit too he has lived irreproachably according to the rules of the Fathers, after the times fixed by the sacred canons let him now freely be advanced to any ecclesiastical office, provided, however, that he has not been stained by those crimes which in the Old Testament are punished with death."
+  }
+ ]
+}

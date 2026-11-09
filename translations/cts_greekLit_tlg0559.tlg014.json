@@ -1,0 +1,787 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0559.tlg014",
+ "edition_urn": "urn:cts:greekLit:tlg0559.tlg014.ai-claude",
+ "source_edition": "tlg0559.tlg014.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-07",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Fragmenta Heroniana: AI translation (Claude)",
+  "author": "Hero of Alexandria",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0559.tlg014.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.head": "Numerals: many thousand and myriad signs are missing in this text, and the fraction 2/3 is often garbled as (??). These are read from the arithmetic, e.g. 3,000 cubits at 4.23 and 6.10, 2/3 at 4.16, 4.18, 5.15, 6.7 and 8.8, and 96 at 5.9 and 6.6, where the stand-in character for the numeral 90 has been resolved or the first digit is unreadable. At 5.11 the '1' must mean 1 myriad (10,000).\n\n5.14: this mile is reckoned at 5,000 feet, unlike the 4,500 of Table I.\n\n5.19: the text gives 3,824 fingers, but 24 cubed is 13,824 (as at 7.4.2); a myriad sign is apparently lost.\n\n7.1.1: the figures are inconsistent. 24 by 12 akainai does not give 200, and 20 parts of 12 does not match 24 akainai or a width of 120 feet. They seem to mix 10-foot and 12-foot akainai. 'Land feet' takes γεικῶν as γαϊκῶν, a doubtful reading. The 2,400 is translated as printed.\n\n4.3.1: σκουτλώσεις (inlaid panel-work or revetment) and στροφίολοι (here 'fillets') are rare technical terms, and their exact sense is uncertain.\n\n4.14 and 7.4: the sign after the numeral is read as 1/2.\n\n7.4.2: ἀγελαῖοι, literally 'of the herd, common', is rendered 'ordinary'; the sense here is unclear, perhaps cubic fingers taken as a mass.\n\n4.26: the 'preamble' referred to is not in this extract.",
+  "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.10.1": "8.12: βαϲμικάϲ is read as βαϲιλικάϲ, 'royal'. 8.14: ἀναβιβαϲμόϲ is taken as the running tally of cord-lengths; this sense is inferred from context. 8.17.2: the text as printed gives 200 fathoms, repeating the previous line; 300 is read because the sequence and the 1 1/2 *modioi* require it. 9.1: κῶλον is rendered 'rump' from context and later Greek usage; the sense is uncertain. 13.6: the fathom is given as 4 feet, but 11.8 and 11.22 give 4 1/2, so the 1/2 may have dropped out here. The tables are not consistent with one another: 10.2 and 10.5 make the plethron 1/6 of a stadion, whereas 11.14 and 13.12 make the stadion half a plethron.",
+  "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.19.head": "Fr. 19: the opening word is read as πιθοειδές ('jar-shaped'; scanned ΠθιΘοειδές). The square of 3 1/2 is given as 12 (exactly 12 1/4), and the following 135 is rounded (exactly 134 3/4). Fr. 21: the fraction after the lower diameter is unreadable in the scan (β΄ ??); 2 1/2 is required by the sum 5 1/2. The sign before θ΄ in 499 is garbled and is read as the numeral 90. Fr. 22: εἴτου is read as σίτου ('of grain'). The figure 21,320 does not follow from 'at 4 *xestai*', so the δ΄ looks corrupt; the result implies about 14.4 *xestai* to the *modios*. 'The foot takes 2 *modioi*' also differs from the 3 *modioi* of frr. 21, 25 and 26. Fr. 23: the fraction after 13 is unreadable (ιγ΄ ??); 13 1/3 would fit if 3 ordinary *modioi* equal 4 Italian, but this is a conjecture. The 36 is not used in the calculation, and 3 *artabai* at 2 *modioi* do not give the 10 *modioi* stated, so the *artaba* figure may be corrupt. Height and depth are both given as 4. Fr. 24: κόλυμβος is rendered 'pool', though the editor's heading says *fossa* ('ditch'). Fr. 27: the passage is obscure. μο. ϋ is corrupt, and *modioi* is a tentative expansion; ἀγελαῖοι ('common') is of uncertain sense here."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.head",
+   "text": "I. Fragments on linear and square measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.head",
+   "text": "4. Heronian Table I. (See prolegomena §§ 15–20.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.1",
+   "text": "Introductions of Hero."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.1.1",
+   "text": "The first geometry, as the ancient account teaches us, was occupied with the measurement and distribution of lands, and from this it was also called geometry. For the idea of measurement was discovered among the Egyptians because of the rising of the Nile: for many plots of land that were visible before the rising it made invisible by the rising, and many became visible after the withdrawal, and it was no longer possible for each person to distinguish his own property. From this the Egyptians devised this measurement of the land left behind by the Nile. They use in the measurement, for each side of the plot, sometimes the so-called *schoinion* [measuring cord], sometimes the reed, sometimes the cubit, and sometimes other measures as well. And since the matter was useful to people, the practice was carried further, so that the handling of measurements and distributions extended to solid bodies as well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.2.1",
+   "text": "For the discussion of measurement, then, it is necessary to know the type of the measures by which one wishes to measure, and the form of each figure, and how one must measure. We shall first set out the type of the measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.2.2",
+   "text": "On linear measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.3.1",
+   "text": "Now, linear is everything measured according to length alone, such as the fillets in inlaid panel-work and the mouldings in woodwork, and whatever is measured by length alone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.4.1",
+   "text": "The kinds of measures are these: finger, palm, *dichas* [two-palm measure], span, foot, *pygon* [short cubit], cubit, pace, *xylon* [timber-length], fathom, reed, *akaina* [measuring rod], *hamma* [cord-length], plethron, iugerum, stade, *diaulos* [double stade], mile, *schoinos* [long distance measure], parasang."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.5.1",
+   "text": "The smallest of these is the finger, and all lesser [divisions] are called fractions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.6.1",
+   "text": "Now, the palm has 4 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.7.1",
+   "text": "The *dichas* [has] 2 palms, 8 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.8.1",
+   "text": "The span has 3 palms, 12 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.9.1",
+   "text": "The foot called royal and Philetaerian has 4 palms, 16 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.10.1",
+   "text": "The Italic foot has 13 1/3 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.11.1",
+   "text": "The *pygon* has 5 palms, 20 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.12.1",
+   "text": "The cubit has 6 palms, 24 fingers. It is also called the wood-sawyer's cubit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.13.1",
+   "text": "The pace has 1 2/3 cubits, 10 palms, 40 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.14.1",
+   "text": "The *xylon* has 3 cubits, 4 1/2 feet, 18 palms, 72 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.15.1",
+   "text": "The fathom has 4 cubits, 6 Philetaerian feet, 7 1/5 Italic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.16.1",
+   "text": "The reed has 6 2/3 cubits, 10 Philetaerian feet, 12 Italic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.17.1",
+   "text": "The *hamma* has 40 cubits, 60 Philetaerian feet, 72 Italic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.18.1",
+   "text": "The plethron has 10 *akainai*, 66 2/3 cubits, 100 Philetaerian feet and 120 Italic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.18.2",
+   "text": "19. The *akaina* has 10 Philetaerian feet, or 160 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.20.1",
+   "text": "The iugerum has 2 plethra, 20 *akainai*, 133 1/3 cubits, in Philetaerian feet 200 in length and 100 in width, and in Italic feet 240 feet in length and 120 in width, so that it makes 28,800 surface [feet] in square measure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.21.1",
+   "text": "The stade has 6 plethra, 60 *akainai*, 400 cubits, 600 Philetaerian feet and 720 Italic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.22.1",
+   "text": "The *diaulos* has 12 plethra, or 2 stades, 120 *akainai*, 800 cubits, 1,200 Philetaerian feet and 1,440 Italic feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.23.1",
+   "text": "The mile has seven and a half stades, 45 plethra, 450 *akainai*, 750 fathoms, 1,800 paces, 3,000 cubits, 4,500 Philetaerian feet and 5,400 Italic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.24.1",
+   "text": "The *schoinos* has 4 miles, 30 stades."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.25.1",
+   "text": "The parasang has 4 miles, 30 stades; the measure is Persian."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.4.25.2",
+   "text": "26. But these [figures] are according to the old exposition; the value now prevailing we have set out in the preamble of the work."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.head",
+   "text": "5. Heronian Table II. (See prolegomena § 21.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.1.1",
+   "text": "Now, the kinds of linear measure are 11: finger, *oungia* [Roman inch], palm, span, foot, cubit, pace, fathom, *akaina*, plethron, stade."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.2.1",
+   "text": "The smallest of these is the finger, and all lesser [divisions] are called fractions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.3.1",
+   "text": "The *oungia* has 1 1/3 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.4.1",
+   "text": "The palm has 4 fingers, 3 *oungiai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.5.1",
+   "text": "The span has 3 palms, 12 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.6.1",
+   "text": "The foot has 4 palms, 16 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.7.1",
+   "text": "The cubit [has] 6 palms, 24 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.8.1",
+   "text": "The pace has 10 palms, 40 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.9.1",
+   "text": "The fathom has 96 fingers, 6 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.10.1",
+   "text": "The *akaina* has 160 fingers, 10 Philetaerian feet, and is called in Latin *pertica*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.11.1",
+   "text": "The Greek plethron has 100 feet in length and 100 in width, in square measure 1 [myriad]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.12.1",
+   "text": "The Greek iugerum has 240 feet in length and 120 in width, so that it makes 2 myriads 8,800 surface [feet] in square measure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.13.1",
+   "text": "The stade has 6 plethra, 60 *akainai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.14.1",
+   "text": "The mile has 5,000 feet, 2,000 paces, 500 *akainai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.15.1",
+   "text": "The *oungia* has in square measure 1 2/3 1/9 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.16.1",
+   "text": "The palm has in square measure 16 fingers; and the solid palm has 27 *oungiai*, 64 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.17.1",
+   "text": "The square span has 81 *oungiai*, 144 fingers; and the solid span has 729 *oungiai*, 1,728 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.18.1",
+   "text": "The square foot has 144 *oungiai*, 256 fingers, and the solid [foot] 1,728 *oungiai*, 4,096 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.19.1",
+   "text": "The solid cubit has 5,832 *oungiai*, 216 palms, 3,824 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.20.1",
+   "text": "The pace has in square measure 100 palms, 900 *oungiai*, 1,600 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.5.21.1",
+   "text": "The square fathom has 36 feet, and the square *akaina* has 100 Philetaerian feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.head",
+   "text": "6. Heronian Table III. (See prolegomena § 22.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.1.1",
+   "text": "One must know that the finger is first, just as the unit also is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.2.1",
+   "text": "The palm has 4 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.3.1",
+   "text": "The foot has 4 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.4.1",
+   "text": "The cubit has 1 1/2 feet, that is, 6 palms, 24 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.5.1",
+   "text": "The pace has 1 cubit and 1 foot, which is 2 1/2 feet, 10 palms, 40 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.6.1",
+   "text": "The fathom has 2 paces and 1 foot, which is 4 cubits, that is, 6 feet, 24 palms, 96 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.7.1",
+   "text": "The *akaina* has 1 2/3 fathoms, which is four paces, that is, 6 cubits and 1 foot, that is, 10 feet, 40 palms, 160 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.8.1",
+   "text": "The plethron has 10 *akainai* — they make 16 fathoms 4 feet — that is, 40 paces, or 66 cubits and 1 foot, 100 feet, 400 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.9.1",
+   "text": "The stade has 6 plethra, 60 *akainai*, 100 fathoms, 240 paces, 400 cubits, 600 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.6.10.1",
+   "text": "The mile has 7 and a half stades, 45 plethra, 450 *akainai*, 750 fathoms, 1,800 paces, 3,000 cubits, 4,500 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.7.head",
+   "text": "7. Heronian Table IV. (See prolegomena § 23.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.7.1",
+   "text": "Hero's *Metrica*"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.7.1.1",
+   "text": "The iugerum has 200 *akainai*, of 2,400 land feet. For in length it has 24 *akainai*, and it is divided into 20 parts of 12 each, making 240 feet. In width it has twelve *akainai*, making 120 feet; and if the length [is multiplied] by the width, the result is 28,800 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.7.2.1",
+   "text": "The *akaina* has 12 feet, making 48 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.7.3.1",
+   "text": "The foot has 4 palms, 16 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.7.4.1",
+   "text": "The linear cubit has one and a half feet; the stone cubit likewise has 1 1/2 feet, 24 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.7.4.2",
+   "text": "5. If the width, the 24, [is multiplied] by the 24, the result is 576 fingers; these [multiplied] by the thickness make 13,824 ordinary fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.head",
+   "text": "8. Heronian Table V. (See prolegomena §§ 24–27.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.1.1",
+   "text": "The measures were devised from human limbs: finger, knuckle, palm, span, foot, cubit, pace, fathom and the rest."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.2.1",
+   "text": "The smallest of all is the finger, which is also called the unit; and it is sometimes divided into a half and a third and other fractions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.3.1",
+   "text": "After the finger, which is the smallest part of all, comes the knuckle, which has two fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.4.1",
+   "text": "Then the palm, which some call a fourth because it has four fingers, or because it is a fourth of the foot, and some a third because it is a third of the span; for the span has three fourths, and the foot four."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.5.1",
+   "text": "The *dichas* has two palms, that is, eight fingers, four knuckles, and is called two-thirds of a span. And *lichas* is the name for the opening of two fingers, I mean the thumb and the forefinger; some also call this *kynostomon* [dog's mouth]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.6.1",
+   "text": "The span has three palms, that is, 12 fingers, six knuckles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.7.1",
+   "text": "The foot has one span and 1/3, that is, 4 palms, eight knuckles, or 16 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.8.1",
+   "text": "The cubit has two feet, that is, two 2/3 spans, eight palms, 16 knuckles, 32 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.9.1",
+   "text": "The simple pace has 3 1/3 spans, or 2 1/2 feet, or 10 palms, or 20 knuckles, or 40 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.10.1",
+   "text": "The double pace has 5 feet, or 6 2/3 spans, or 20 palms, or 40 knuckles, or 80 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.11.1",
+   "text": "The stone cubit has 2 spans, or one foot and a half, or 6 palms, or 12 knuckles, or 24 fingers; so too does the [cubit] of sawn timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.12.1",
+   "text": "The fathom with which sown land is measured has 9 1/4 royal spans, or six feet and 1 1/4 spans, [and] palms, that is, fists, 27 and a thumb: that is, the 26 with the hand clenched, and the last or first with the great finger of the hand also extended, which is also called a quarter of a span, and it has three fingers. After you make a fathom on a reed or on some piece of wood, you must next make a rope, that is, a *sokarion* [measuring cord], of ten fathoms, and in this way measure the place you are going to measure; for the *sokarion* for sown land must have ten fathoms, and that for meadow and for perimeter boundaries 12."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.13.1",
+   "text": "And with the ten-fathom rope the place of a *modios* [a measure of land] has only 200 fathoms, but with the twelve-fathom [rope] it has 288 fathoms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.14.1",
+   "text": "However, the smallest and level places must be measured with the ten-fathom rope; but the perimeters of estates and of lands measured all the way round [must be measured] with the twelve-fathom rope, because within those perimeters there are often found dry torrent-beds and streams and thickets and useless places. And if they are measured with the ten-fathom rope as well, there must be deducted either from the tally of the *sokaria* one *sokarion* for every 10 *sokaria*, or from the *modios*-reckoning one *modios* for every ten *modioi*, for the reasons stated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.15.1",
+   "text": "You must know that the sowing *modios* has forty *litrai* [units of weight]; and each single *litra* sows land of 5 fathoms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.16.1",
+   "text": "For breadth and length of five fathoms make one *litra*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.16.2",
+   "text": "Breadth and length of 10 fathoms make 2 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.16.3",
+   "text": "Breadth and length of 15 fathoms make 3 *litrai*. These continue on the same reckoning, adding five fathoms and one *litra* each time, up to:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.16.4",
+   "text": "Breadth and length of 100 fathoms make 20 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.16.5",
+   "text": "Breadth and length of 200 fathoms make 40 *litrai*. These continue on a reckoning of hundreds of fathoms up to: Breadth and length of 1,000 fathoms make 200 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.1",
+   "text": "200 fathoms are the place of one *modios*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.2",
+   "text": "300 fathoms are the place of one *modios* and 1/2."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.3",
+   "text": "400 fathoms are the place of 2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.4",
+   "text": "500 fathoms are the place of 2 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.5",
+   "text": "600 fathoms are the place of 3 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.6",
+   "text": "700 fathoms are the place of 3 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.7",
+   "text": "800 fathoms are the place of 4 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.8",
+   "text": "900 fathoms are the place of 4 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.8.17.9",
+   "text": "1,000 fathoms are the place of 5 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.9.head",
+   "text": "9. Fragment on the fathom. (See prolegomena § 28.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.9.1.1",
+   "text": "You must know that the fathom has 9 1/4 spans, or 28 palms, the first palm having the addition of a knuckle. Another way: let a man of middle build, neither short nor tall, standing upright, stretch his right hand upward, and where the tips of his fingers reach, there is the measure of a just fathom. Another way: let the man of middle stature take a rope or a reed and tread on its end with the toes of his foot. Then let him bring the rope up to his shoulder, and then in this way let him bend it back behind him as far as his rump, and he will make a thoroughly exact fathom."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.head",
+   "text": "10. Heronian Table VI. (See prolegomena § 29.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.1.1",
+   "text": "There are also these measures: finger, knuckle, palm, *dichas*, span, foot, cubit, pace, fathom, *sokarion*, plethron, iugerum, diaulos, stadion, *akaina*, mile, *schoinos*, and parasang."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.2.1",
+   "text": "The plethron [is] 1 1/2 1/6 *sokaria*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.3.1",
+   "text": "The iugerum 3 and 1/3."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.4.1",
+   "text": "The diaulos 2 stadia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.5.1",
+   "text": "The stadion 10 *sokaria*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.6.1",
+   "text": "The *akaina* 16 spans."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.7.1",
+   "text": "The mile 7 1/2 stadia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.10.8.1",
+   "text": "The *schoinos* 4 miles and the parasang 4."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.head",
+   "text": "11. Heronian Table VII. (See prolegomena § 30.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.1",
+   "text": "What are the parts of the measurements of magnitudes that measure off the wholes?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.1.1",
+   "text": "The parts of the measurements of magnitudes that measure off the wholes are these: finger, palm, span, foot, cubit, pace, fathom. The smallest of all is the finger; and it is also divided into parts: for sometimes [there are] both 1/2 and 1/3 and the remaining fractions. There are also other parts devised by some, these: *ampelos*, *passon*, *akaina*, plethron, iugerum, stadion, mile, *schoinos*, Persian *schoinos* and Greek *schoinos*, and the rest."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.1.2",
+   "text": "What is each of the aforesaid worth?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.2.1",
+   "text": "Following the old exposition, but leaving out what is superfluous, we have set out below the value that now prevails."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.3.1",
+   "text": "The palm has 4 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.4.1",
+   "text": "The span has three palms, 12 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.5.1",
+   "text": "The foot has 1 1/3 spans, 4 palms, 16 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.6.1",
+   "text": "The cubit has 2 feet, 2 2/3 spans, 32 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.7.1",
+   "text": "The pace has one cubit, 2 feet, 2 2/3 spans."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.8.1",
+   "text": "The fathom has 2 1/4 paces, 2 1/4 cubits, 4 1/2 feet, 6 spans, 72 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.9.1",
+   "text": "The *ampelos* has 1 1/9 fathoms, 2 1/2 paces, 5 feet, 6 2/3 spans, 20 palms, 80 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.10.1",
+   "text": "The *passon* has 1 1/5 *ampeloi*, 1 1/3 fathoms, 3 paces, 3 cubits, 6 feet, 8 spans, 24 palms, 96 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.11.1",
+   "text": "The *akaina* has 2 *passa*, 2 1/3 1/15 *ampeloi*, 2 1/2 1/6 fathoms, 6 paces, 6 cubits, 12 feet, 16 spans, 48 palms, 192 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.12.1",
+   "text": "The plethron has 100 *akainai*, 200 *passa*, 240 *ampeloi*, 266 2/3 fathoms, 600 paces, 600 cubits, 1,200 feet, 1,600 spans, 4,800 palms, 19,200 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.13.1",
+   "text": "The iugerum has 480 *ampeloi*, 400 *passa*, 533 1/3 fathoms, 2 plethra, 200 *akainai*, 1,200 paces, 1,200 cubits, 2,400 feet, 3,200 spans, 9,600 palms, 38,400 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.14.1",
+   "text": "The stadion has 120 *ampeloi*, 100 *passa*, 133 1/3 fathoms, 1/2 of a plethron, 50 *akainai*, 300 paces, 300 cubits, 600 feet, 800 spans, 2,400 palms, 9,600 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.15.1",
+   "text": "The mile has 7 1/2 stadia, 3 1/2 1/4 plethra, 375 *akainai*, 750 *passa*, 900 *ampelia*, 1,000 fathoms, 2,250 paces, 2,250 cubits, 4,500 feet, 6,000 spans, 18,000 palms, 72,000 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.16.1",
+   "text": "In brief, each stands as stated above, according to the present state of land-measurement, that is, of the census register."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.17.1",
+   "text": "After the finger, which is the smallest part of all, comes the palm, which some also call a fourth because it has four fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.18.1",
+   "text": "After this, the span of 3 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.19.1",
+   "text": "Then, in summary, the foot has 4 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.20.1",
+   "text": "Then the cubit has 2 feet, 8 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.21.1",
+   "text": "The pace is equal to the cubit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.22.1",
+   "text": "The fathom has 4 1/2 feet, 18 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.23.1",
+   "text": "The *akaina* 12 feet, 48 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.24.1",
+   "text": "The *ampelos* has 5 feet, 20 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.25.1",
+   "text": "The *passon* has 6 feet, 24 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.26.1",
+   "text": "The plethron 1,200 feet, 4,800 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.27.1",
+   "text": "The iugerum 2,400 feet, 9,600 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.28.1",
+   "text": "The stadion 600 feet, 2,400 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.11.29.1",
+   "text": "The mile 4,500 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.head",
+   "text": "12. Fragment on square and cubic measures, appended to the preceding table. (See prolegomena § 32.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.1",
+   "text": "Linear, area and solid measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.1.1",
+   "text": "The linear palm has 4 fingers, the plane 16 fingers, and the solid 64 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.2.1",
+   "text": "The linear foot has 4 palms, 16 fingers;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.3.1",
+   "text": "the plane [foot] has 16 palms, 256 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.4.1",
+   "text": "The solid foot has 64 palms, 4,096 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.5.1",
+   "text": "The linear cubit has 2 feet, 8 palms, 32 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.6.1",
+   "text": "The plane cubit has 4 feet, 64 palms, 1,024 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.12.7.1",
+   "text": "The solid cubit has 8 feet, 512 palms, 32,768 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.head",
+   "text": "13. Heronian Table VIII. (See prolegomena § 31.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.1.1",
+   "text": "[The] palm has 4 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.2.1",
+   "text": "The span 3 palms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.3.1",
+   "text": "The foot 1 1/3 spans."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.4.1",
+   "text": "The cubit 2 feet, 2 2/3 spans."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.5.1",
+   "text": "The pace has one cubit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.6.1",
+   "text": "The fathom 2 1/4 paces, 4 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.7.1",
+   "text": "The *ampelos* 1 1/9 fathoms, 2 1/2 paces."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.8.1",
+   "text": "The *passon* 1 1/5 *ampeloi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.9.1",
+   "text": "The *akaina* 2 *passa*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.10.1",
+   "text": "The plethron 100 *akainai*, 200 *passa*, 266 2/3 fathoms, 600 paces."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.11.1",
+   "text": "The iugerum 2 plethra."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.12.1",
+   "text": "The stadion is the half of a plethron."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.13.13.1",
+   "text": "The mile 7 1/2 stadia, 3 1/2 1/4 plethra."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.head",
+   "text": "II. Fragments on cubic measures. (See prolegomena §§ 38, 39.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.head2",
+   "text": "18. Measurement of a ship, from Hero's stereometric introduction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.1.1",
+   "text": "A ship of which the length is 24 cubits, the base 6 cubits, and the lower base 4 cubits: to find how many *keramia* [jar-measures] it holds. Do as follows: the base by the base makes 24; this again by the 24 of the length makes 576; of these always [take] the 1/3: it makes 192; add these to the 576: it makes 768, which are *keramia*. And the *keramion* holds 10 *modioi*: it makes 7,680 *modioi*. That many *modioi* the ship holds."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.19.head",
+   "text": "19. Measurement of a jar, from another stereometric collection."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.19.1.1",
+   "text": "Let us measure a jar-shaped figure, of which the greater diameter is 4 feet, the lesser 3 feet, and the height 9 feet: to find how many *amphoreis* it will hold. I do as follows: I add the two diameters: it makes 7; of which the 1/2 makes 3 1/2; this by itself makes 12 feet; this eleven times makes 135; of which the 1/14 makes 9 1/2 1/7 feet; this to the height, in proportion to the 9, makes 86 1/2 1/7 1/7. That many *amphoreis* it holds. And the *amphoreus* contains 48 in number Italian *xestai* [sextarii]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.20.head",
+   "text": "20. A similar problem from the same book."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.20.1.1",
+   "text": "Of a spherical jar the diameter at the lip is 5 feet, and the depth 8 feet: to find how many *amphoreis* it will hold. I do as follows: the half of the diameter makes 2 1/2 feet; I take this three times: it makes 7 1/2; to this I add the depth: together it makes 15 1/2 feet; this by itself makes 240 1/4 feet; this eleven times makes 2,642 1/2 1/4 feet. Now I divide: of which the 1/21 makes 125 1/2 1/3 1/84 feet. That many *amphoreis* it will hold, because the solid foot holds an *amphoriskos*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.21.head",
+   "text": "21. A third problem of the same kind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.21.1.1",
+   "text": "Of another jar the lower diameter is 2 1/2 feet, the upper 3 feet, and the depth has 6 feet: to find how many *amphoreis* it holds. Do as follows: add the two diameters: it makes 5 1/2 feet; of which the 1/2 makes 2 1/2 1/4; this by itself makes 7 1/2 1/16 feet; this by the depth, by the 6 feet, makes 45 1/4 1/8; this eleven times makes 499 1/8. Now I divide: of which the 1/14 makes 35 1/2 1/7 1/112 feet. That many *amphoriskoi* it will hold. And the *amphoriskos* has 1 solid foot. And the solid foot holds 48 in number Italian *xestai*: it makes 3 *modioi*, each *modios* [being] of 16 in number Italian *xestai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.22.head",
+   "text": "22. Measurement of a ship, from Hero's book *On Measures*. Measurement of a ship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.22.1.1",
+   "text": "Let us measure a ship as follows. Let there be a ship having a length of 40 cubits, a breadth of 12 cubits, and a depth of 4 cubits: to find of how many *modioi* the ship is. Do as follows: multiply the length by the breadth: it makes 480 cubits; multiply these tenfold; and multiply the result again by the 4 cubits of the depth; and you will find that the ship holds 19,200 Italian *modioi* of grain. But if someone speaks in terms of *kastresioi* [military] *modioi*, resolve the *modioi* into *xestai*, and reckon the *modios* of grain at 4 *xestai*: it makes 21,320 *modioi* of grain. The foot takes 2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.23.head",
+   "text": "23. A similar problem from the same book."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.23.1.1",
+   "text": "Another measurement of a ship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.23.1.2",
+   "text": "Let us measure a ship as follows. If it has 40 cubits in length, the depth 4, the diameter of the prow 6 cubits, of the stern 6 cubits, of the belly 8 cubits, the height 4 cubits: multiply the prow by those of the stern: it makes 36. Add the 6 and the 8: it makes 14, of which the half makes 7; these by the depth make 28 cubits; these by the length make 1,120 cubits. The cubit holds 3 *artabai*: it makes 3,360 *artabai*. The *artaba* has 2 *modioi*. The cubit holds 10 *modioi*, 13 [...] Italian *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.24.head",
+   "text": "24. Measurement of a pool, from the same book."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.24.1.1",
+   "text": "Measurement of a pool."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.24.1.2",
+   "text": "Let us measure a pool as follows. Let there be a pool having a length of 40 feet, a breadth of 20 feet, and a depth of 4 feet: to find how many *metretai* the pool holds. Do as follows: multiply the length by the breadth: it makes 800 feet; multiply these by the depth: it makes 3,200 feet. Say that it takes that many *metretai*. And the *metretes* holds 8 *choes*, and the *chous* holds 9 *xestai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.25.head",
+   "text": "25. Fragment of a Heronian passage which is entitled"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.25.1.1",
+   "text": "Reckoning of water by the *oungia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.25.1.2",
+   "text": "The solid foot, according to the formulation and tradition of the engineers, takes 3 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.26.head",
+   "text": "26. A similar passage from the Euclidean table (above, fr. 14)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.26.1.1",
+   "text": "And the solid foot holds 1 *keramion*, 3 *modioi*, each *modios* [being] of 16 in number Italian *xestai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.27.head",
+   "text": "27. Uncertain fragment on the sextarius."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg014.1st1K-grc1.18.27.1.1",
+   "text": "If the breadth [is taken], the 24 by the 24, it makes 576 fingers. These by the thickness make 13,824 common fingers, 48 liquid *xestai*. But the dry [measure] holds 35 Italian *modioi*(?). By 35 it makes 1,225. And multiply these eleven times: it makes 13,475."
+  }
+ ]
+}
