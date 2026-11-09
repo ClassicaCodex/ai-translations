@@ -1,0 +1,560 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg4072.tlg002",
+ "edition_urn": "urn:cts:greekLit:tlg4072.tlg002.ai-claude",
+ "source_edition": "tlg4072.tlg002.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Commentarius in dimensionem circuli: AI translation (Claude)",
+  "author": "Eutocius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg4072.tlg002.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.head": "Greek numerals are converted to Arabic figures; 'Μ' marks myriads and 'μ' units (μονάδες). The multiplication tables (3.7–3.9, 3.18–3.21) are badly garbled in the digitised text, with partial products scattered across lines; where the figures could not be reliably reconstructed they are left in the Greek numerals as printed. In 3.15 and 3.24 'Ϛ ιε΄' is read as 1/6 1/15, which agrees with the arithmetic (349,450 − 349,428 49/64 ≈ 21 7/30). In 2.1 Eutocius reports the objection of an unnamed critic ('someone'). The heading in 'head' is the French title of the printed edition.",
+  "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.27.1": "The tables of multiplications are badly preserved in this edition: the myriad signs (Μ) have lost the numbers written above them, and columns are interleaved. Myriad signs are given as 'M' and the figures transcribed as printed; totals are given in full where the computation confirms them. Line 3.34 is garbled (e.g. 'ζ΄' cannot be right) and is transcribed as printed. In 3.27 the edition's ᾱροβ (1172) appears for ᾱρξβ (1162) in places; the computation confirms 1162 1/8 for ΕΓ and 1172 1/8 for ΘΕ. In 3.39, the header's βτλδ (2334 1/4) is right; in 3.40, βτλθ (2339 1/4) is right. In 3.55 'ἐνὶ' is evidently a corruption of 'ἐπὶ' ('multiplied by'). In 3.69 the bisecting line ΑΖΗ is called ΑΖ in what follows, and 'remaining angle ΗΖΓ … ΑΓΗ' is translated as printed, though the sense requires angle ΓΖΗ equal to angle ΑΓΗ.",
+  "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.70.1": "The multiplication tables (lines 3.71–3.84, 3.86–3.98, 3.100–3.111, 3.113–3.122) are badly garbled in this edition: the myriad coefficients written above Μ have been lost in scanning and the columns are run together. In these tables the numerals are converted but Μ ('myriad') is left as 'M' and the order of the original is kept; they cannot be reliably reconstructed line by line. In the running text, the squares are given at their full values where the scan has dropped the myriad coefficients (e.g. 'Μ γϠκα' = 8,473,921), as can be checked from the arithmetic. The μ before excess figures is taken as the sign for units ('by'). Evident slips corrected: αωκυ for αωκγ (1823); ΓΑ for ΓΛ (3.112); ΑΙ for ΑΓ (3.121); ιβζ for βιζ (2017, 3.123); ξϚ΄ read as 66. In 3.123 'μκζ L΄ Ϛ΄' is rendered 27 1/2 1/6 as written, though one seventy-first of 2017 1/4 is about 28 2/5; the figure is probably corrupt, and the sense of 'which' there is uncertain.",
+  "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.124.1": "*Okytokion* ('Quick Delivery') is a lost work of Apollonius; *Keria* ('Honeycombs') a lost work of Sporus. Magnus and his *Logistica* are otherwise little known. In the final line, παραναγνωσθείσης may mean 'revised' or 'collated' by Isidore."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.head",
+   "text": "EUTOCIUS: COMMENTARY ON THE TREATISE ON THE MEASUREMENT OF THE CIRCLE"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.head2",
+   "text": "COMMENTARY OF EUTOCIUS OF ASCALON ON ARCHIMEDES' MEASUREMENT OF THE CIRCLE."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.1.1.1",
+   "text": "It would be the next step, for one fulfilling my purpose of taking up the clearer parts of Archimedes' writings, those needing briefer attention, and of making, in whatever way possible, whatever in them needs further working out, to continue what we wrote earlier on [the work] On the Sphere and Cylinder, since it would truly be something to pray for to attend also to the greater matters that need more thought. Next in order, with respect to what is proposed, would be the little book written by Archimedes that bears the title Measurement of the Circle, in which we learn the man's intention from the title itself: for he wishes to show to what rectilinear area a circle would be equal, a matter long investigated by the famous philosophers before him. For it is plain that this would be the thing sought, which Hippocrates of Chios and Antiphon sought diligently and so found for us those paralogisms which, I think, are known exactly to those who have examined the History of Geometry of Eudemus and have shared in the honeycombs of Aristotle. But this book, as Heraclides says in his Life of Archimedes, is necessary for the needs of life; for it shows that the circumference is three times the diameter and exceeds it further by less than a seventh part, but by more than ten seventy-firsts. He says, then, that this has been shown approximately, but that [Archimedes] found, by means of certain spirals, a straight line equal to the circumference of a given circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.2.head",
+   "text": "On the 1st theorem."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.2.1.1",
+   "text": "The first theorem appears to hold no difficulty even for those trained to some extent in mathematics, since Archimedes' own words are set out clearly and keep the conclusion fully in accord with the proposition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.2.2.1",
+   "text": "But it seems to someone that he has misused, for the demonstration, a thing not yet proved. For having set out a right-angled triangle, he says: 'Let it have one of the sides about the right angle equal to the radius, and the remaining one equal to the circumference'; but [this person says] that taking a straight line equal to the circumference of a circle has not been proved by him already, nor handed down by anyone else. Yet one must see that nothing beyond what is fitting is written by Archimedes. For that the circumference of the circle is some magnitude is plain, I think, to everyone, and that it is one of the things extended in one dimension; and a straight line is of the same kind. So even if it has not yet appeared possible to produce a straight line equal to the circumference of a circle, nevertheless that there is by nature some straight line equal [to it] is questioned by no one. What is proposed by Archimedes, then, is this: that the right-angled triangle having its sides as stated before is equal to the circle. So in setting out what is proposed he would be judged guilty of no misuse; rather he would seem admirable in this too, providing for problems of such enormous size a clear and easy solution."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.2.3.1",
+   "text": "As has been said, the first theorem needs no investigation. For that the triangle ΠΟΡ is greater than half the figure ΑΖΟΜ, and that in general it is possible to circumscribe a rectilinear figure about a given circle such that the segments between the arcs of the circle and the sides of the circumscribed rectilinear figure are less than the given area, has been clearly stated in what we wrote on the first book of On the Sphere and Cylinder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.head",
+   "text": "On the 3rd theorem."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.1.1",
+   "text": "In this theorem we are repeatedly instructed to find the square root of the given number. To find this exactly for a number that is not a square is impossible; for a number multiplied by itself makes a square number, but a number together with a fraction, multiplied by themselves, no longer makes a whole number, but also a fraction. How one must find approximately the side whose square is the given number has been stated by Heron in the Metrica, and stated by Pappus and Theon and several others commenting on the Great Syntaxis of Claudius Ptolemy, so that we need not investigate this at all, since those eager to learn may gather it from them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.2.1",
+   "text": "'And the angle ΓΕΖ [is] a third of a right angle.' For if, bisecting the arc of the hexagon and cutting off half of it at Γ, we join ΕΖ, the angle ΓΕΖ will be a third of a right angle. For the arc cut off at Γ, being half that of the hexagon, is a twelfth of the circle. So the angle ΓΕΖ too, being at the centre, is a twelfth of four right angles; therefore a third of a right angle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.3.1",
+   "text": "'So ΕΖ has to ΖΓ the ratio that 306 [has] to 153.' That ΕΖ is double ΖΓ is plain from this: if we extend ΖΓ beyond Γ, lay off [a line] equal to it, and join [its end] from Ε, the angle at Γ will be constructed as two thirds of a right angle. And the angle at Ε is also two thirds of a right angle. And the angle at Ζ is also two thirds; so ΓΕΖ is half an equilateral triangle, and because the base of the equilateral triangle, being equal to ΕΖ, is bisected at Γ, ΕΖ is double ΖΓ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.4.1",
+   "text": "'And [ΕΓ] has to ΓΖ the ratio that 265 [has] to 153.' For since ΕΖ is assumed to be 306, if we multiply this by itself, it will be 93,636. And ΓΖ is 153, so the square on it will be 23,409. Since, then, the square on ΕΖ is equal to the squares on ΕΓ, ΓΖ, if from the square on ΕΖ, being 93,636, we subtract the square on ΓΖ, being 23,409, the square on ΕΓ will be left as 70,227, whose square root is 265 and a further fraction, very small and imperceptible; for the square of 265 falls short of the exact [value] by 2 units. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.5.1",
+   "text": "ΕΖ 306; ΖΓ 153; and 265"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.6.1",
+   "text": "times 306; times 153; times 265"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.7.1",
+   "text": "Μ αω Μ ετ Μ Μ β ᾱ"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.8.1",
+   "text": "αωλϚ ε βφ ρν Μ β γχ τ"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.9.1",
+   "text": "total 93,636; τ ρνθ ατκε"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.10.1",
+   "text": "total 23,409"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.11.1",
+   "text": "remainder, the square on ΕΓ: total 70,225"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.12.1",
+   "text": "70,227; so it falls short by"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.13.1",
+   "text": "2 units of the exact [value]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.14.1",
+   "text": "Let then the angle ΖΕΓ be bisected by ΕΗ; so as ΖΕ is to ΕΓ, ΖΗ is to ΗΓ, by the third theorem of the sixth book of Euclid's Elements. And componendo, as ΖΕ, ΕΓ together are to ΕΓ, ΖΓ is to ΓΗ, and alternando, as ΖΕ, ΕΓ together are to ΖΓ, ΕΓ is to ΓΗ. But ΕΖ, ΕΓ together are greater than 571; for ΖΕ is assumed to be 306, and ΕΓ 265 and a further fraction; so they are greater than 571. And ΖΓ is 153; so ΖΕ, ΕΓ together have to ΖΓ a greater ratio than 571 to 153; so ΕΓ too has to ΗΓ a greater ratio than 571 to 153."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.15.1",
+   "text": "'So ΗΕ has to ΗΓ in square the ratio that 349,450 [has] to 23,409.' This will be derived thus: since it has been shown that ΕΓ has to ΓΗ a greater ratio than 571 to 153, if one assumes ΕΓ to be 571 and ΓΗ 153, the square on ΕΓ will be 326,041 and the square on ΓΗ 23,409, and both together, being equal to the square on ΕΗ, will be 349,450. Their square root is 591 1/8 very nearly; for the square of 591 1/8 falls short of the exact [value] by 21 1/6 1/15 units very nearly. So ΕΗ has to ΗΓ in square the ratio that 349,450 [has] to 23,409, and in length that which 591 1/8 very nearly [has] to 153. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.16.1",
+   "text": "ΕΓ 571; ΗΓ 153; 591 1/8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.17.1",
+   "text": "times 571; times 153; times 591 1/8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.18.1",
+   "text": "Μ Μ εφ Μ ετ Μ Μ εφξβ L΄"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.19.1",
+   "text": "Μ ε δϠο ε βφ ρν Μ ε ηρϥ ῑᾱ δ΄"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.20.1",
+   "text": "571; τ ρνθ; 591 1/8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.21.1",
+   "text": "total 326,041; total 23,409; 62 1/2, 11 1/4, 1/8, 1/64"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.22.1",
+   "text": "from these is obtained the square on; total 349,428 1/2 1/4 1/64"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.23.1",
+   "text": "ΕΗ, 349,450. So it falls short of the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.24.1",
+   "text": "exact [value] by 21 1/6 1/15 units"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.25.1",
+   "text": "very nearly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.26.1",
+   "text": "'Again, [let] the angle ΗΕΓ [be bisected] by ΘΕ; for the same reasons, then, ΕΓ has to ΓΘ a greater ratio than 1162 1/8 to 153.' For because of the bisection of the angle it comes about that as ΗΕ is to ΕΓ, ΗΘ is to ΘΓ. And componendo, as ΗΕ, ΕΓ together are to ΕΓ, ΗΓ is to ΓΘ, and alternando, as ΗΕ, ΕΓ together are to ΗΓ, ΕΓ is to ΓΘ. And ΕΓ is 571 and a further fraction, and ΕΗ 591 1/8 and a further fraction; so they are greater than 1162 1/8. And ΗΓ is 153; so ΗΕ, ΕΓ together have to ΗΓ a greater ratio than 1162 1/8 to 153."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.27.1",
+   "text": "'Therefore ΘΕ has to ΘΓ a greater ratio than 1172 1/8 to 153.' For since ΕΓ has been shown to have to ΘΓ a greater ratio than 1162 1/8 to 153, if one supposes them to be in that ratio, the square on ΕΓ will be 1,350,534 1/2 1/64, and the square on ΓΘ 23,409. So the square on ΕΘ, being equal to the squares on ΕΓ, ΓΘ, will be 1,373,943 1/2 1/64, whose square root is very nearly 1172 1/8; for the square on it falls short of the exact square by 66 1/2 units. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.28.1",
+   "text": "ΕΓ 1162 1/8 | ΘΓ 153 | 1172 1/8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.29.1",
+   "text": "times 1162 1/8 | times 153 | times 1172 1/8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.30.1",
+   "text": "M M M 2,125 | M 5,300 | M M M 2,125"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.31.1",
+   "text": "M M 6,212 1/2 | 5,000 2,500 150 | M M 7,212 1/2"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.32.1",
+   "text": "M 6 3,627 1/2 | 300 150 9 | M 7 4,148 1/2 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.33.1",
+   "text": "2,124 1/4 | total 23,409 | 2,200 144 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.34.1",
+   "text": "125 12 1/2 1/7 1/2 1/4 1/64 | 125 10 2 1/2 8 1/2 1/4 1/4 1/64"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.35.1",
+   "text": "total 1,350,534 1/2 1/64 | total 1,373,877 1/64"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.36.1",
+   "text": "the square on ΕΘ, equal to the squares on ΕΓ, ΓΘ, is | so it falls short of the ex-"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.37.1",
+   "text": "1,373,943 1/2 1/64"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.38.1",
+   "text": "-act [square] by 66 1/2 units."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.39.1",
+   "text": "'Again, [let] the angle ΘΕΓ [be bisected] by ΕΚ; therefore ΕΓ has to ΓΚ a greater ratio than 2334 1/4 to 153.' For again, because of the bisection of the angle ΘΕΓ, as ΘΕ is to ΕΓ, ΘΚ is to ΓΚ. And componendo, as ΘΕ, ΕΓ together are to ΕΓ, ΘΓ is to ΓΚ; alternando, as ΘΕ, ΕΓ together are to ΘΓ, ΕΓ is to ΓΚ. And since ΘΕ has been shown to be 1172 1/8 and a further fraction, and ΕΓ 1162 1/8 and a further fraction, ΘΕ, ΕΓ together are greater than 2334 1/4. And ΘΓ is assumed [to be] 153. So ΘΕ, ΕΓ together have to ΘΓ a greater ratio than 2334 1/4 to 153."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.40.1",
+   "text": "'Therefore ΕΚ has to ΓΚ a greater ratio than 2339 1/4 to 153.' For again, since ΕΓ is assumed [to be] 2334 1/4 and ΓΚ 153, the square on ΕΓ will be 5,448,723 1/16, and the square on ΓΚ 23,409. The square on ΚΕ is equal to these; so it will be 5,472,132 1/16, whose square root is very nearly 2339 1/4; for the square on it falls short of the exact [square] by 41 1/2 units. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.41.1",
+   "text": "ΕΓ 2334 1/4 | ΓΚ 153 | 2339 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.42.1",
+   "text": "times 2334 1/4 | times 153 | times 2339 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.43.1",
+   "text": "M M M 8,500 | M 5,300 | M M M M 8,500"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.44.1",
+   "text": "M M 9 1,275 | 5,000 2,500 150 | M M 9 2,775"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.45.1",
+   "text": "M 9,000 127 1/2 | 300 150 9 | M 9,000 277 1/2"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.46.1",
+   "text": "8 1,200 120 16 1 | total 23,409 | M 8 2,700 270 81 2/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.47.1",
+   "text": "500 70 7 1/2 1 1/16 | 500 70 7 1/2 2/4 1/16"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.48.1",
+   "text": "total 5,448,723 1/16 | total 5,472,090 1/2 1/16"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.49.1",
+   "text": "From these is gathered the square on"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.50.1",
+   "text": "so it falls short of the exact [square]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.51.1",
+   "text": "ΕΚ [as] 5,472,132 1/16 | by 41 1/2 units"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.52.1",
+   "text": "'Further, [let] the angle ΚΕΓ [be bisected] by ΕΛ; therefore ΕΓ has to ΓΛ a greater ratio than 4673 1/2 to 153.' For again, because of the bisection of the angle, as ΚΕ is to ΕΓ, ΚΛ is to ΛΓ; and componendo, as ΚΕ, ΕΓ together are to ΕΓ, ΚΓ is to ΓΛ; alternando, as ΚΕ, ΕΓ together are to ΓΚ, ΕΓ is to ΛΓ. And ΚΕ is 2339 1/4 and a further fraction, and ΕΓ 2334 1/4 and a further fraction; so ΚΕ, ΕΓ together are greater than 4673 1/2. And ΚΓ is 153; so ΕΚ, ΕΓ together have to ΚΓ a greater ratio than 4673 1/2 to 153. But as ΚΕ, ΕΓ together are to ΚΓ, so is ΕΓ to ΓΛ; therefore ΕΓ too has to ΓΛ a greater ratio than 4673 1/2 to 153."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.53.1",
+   "text": "Since, then, the angle ΖΕΓ, being a third of a right angle, is a twelfth part of four right angles, and the angle ΗΕΓ is half of it, the angle ΗΕΓ would be a twenty-fourth. And the angle ΘΕΓ is half of this, so that it is a 48th. And the angle ΚΕΓ is half of this; so it is a 96th; and the angle ΛΕΓ, being half of it, is a 192nd."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.54.1",
+   "text": "'Let, then,' he says, 'the angle ΓΕΜ be placed equal to it, and let ΖΓ be produced to Μ'; therefore the angle ΛΕΜ, being double the angle ΛΕΓ, is a 96th of four right angles; so that ΛΜ is a side of the polygon circumscribed about the circle having 96 sides."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.55.1",
+   "text": "Since, then, ΕΓ has been shown to have to ΛΓ a greater ratio than 4673 1/2 to 153, and ΑΓ is double ΕΓ, and ΛΜ [double] ΛΓ, ΑΓ too therefore has to ΛΜ a greater ratio than 4673 1/2 to 153; inversely, therefore, ΛΜ has to ΑΓ a smaller ratio than 153 to 4673 1/2. And since ΛΜ is a side of the polygon having 96 sides, the perimeter of the polygon is 14,688; for 96 multiplied by 153 makes this; therefore the perimeter of the polygon has to the diameter ΑΓ a smaller ratio than 14,688 to 4673 1/2. Therefore the perimeter of the polygon is three times the diameter of the circle and exceeds it further by 667 1/2 units. And these are less than a seventh of the diameter by a seventh part of one unit; for seven times 667 1/2, which is 4672 1/2, is less than the diameter by 1 unit. Since, then, the polygon is less than three times and a further seventh in excess, and the perimeter of the circle is less than that of the polygon, much more, therefore, is the circumference of the circle three times the diameter and exceeds it further by less than a seventh part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.56.1",
+   "text": "Next, constructing the remaining part of the theorem, he says: 'Let there be a circle about the diameter ΑΓ, and [let] the angle ΒΑΓ [be] a third of a right angle.' This will be so if, cutting off from Γ the line ΓΒ equal to the [side] of the hexagon, we join ΑΒ; for the angle standing on the arc of the hexagon is two thirds of a right angle at the centre, and a third at the circumference."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.57.1",
+   "text": "Since, then, the angle ΑΒΓ is right, and the angle ΒΑΓ a third [of a right angle], the angle ΑΓΒ is therefore two thirds. So if, producing ΓΒ beyond Β and cutting off [a line] equal to it, we join [it] to Α, the triangle will be equilateral, and because the perpendicular ΑΒ bisects the base, ΑΓ is double ΓΒ. If then we again take ΑΓ [as] 1560, ΓΒ will be 780, and the square on ΑΓ will be 2,433,600, and the square on ΓΒ 608,400. And if we subtract the square on ΓΒ from the square on ΑΓ, there will be left as remainder the square on ΑΒ, 1,825,200, whose square root is very nearly 1351; for the square on it exceeds the exact [square] by 1 unit. Therefore he says: 'ΑΒ has to ΒΓ a smaller ratio than 1351 to 780.' The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.58.1",
+   "text": "ΑΓ 1560 | ΓΒ 780 | 1351"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.59.1",
+   "text": "times 1560 | times 780 | times 1351"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.60.1",
+   "text": "M M M | M M 6 | M M M 1"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.61.1",
+   "text": "M M M | M 6 6,400 | M M M 5,300"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.62.1",
+   "text": "M M 3,600 | total 608,400 | M M 5 2,550"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.63.1",
+   "text": "1,351"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.64.1",
+   "text": "total 2,433,600"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.65.1",
+   "text": "total 1,825,201"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.66.1",
+   "text": "if we subtract the square on ΒΓ from the [square]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.67.1",
+   "text": "it exceeds the exact [square]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.68.1",
+   "text": "on ΓΑ, 1,825,200 remain. | by 1 unit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.69.1",
+   "text": "'Let the angle ΒΑΓ be bisected by ΑΖΗ.' Since, then, the angle ΒΑΗ is equal to the angle ΗΓΒ, for they stand on the same arc, but [is] also [equal] to the angle ΗΑΓ, the angle ΗΓΒ too is therefore equal to the angle ΗΑΓ. And the right angle ΑΗΓ is common; and therefore the remaining angle ΗΖΓ is equal to the remaining angle ΑΓΗ. Therefore the triangle ΑΗΓ is equiangular with the triangle ΓΗΖ; therefore as ΑΗ is to ΗΓ, ΓΗ is to ΗΖ and ΑΓ to ΓΖ. For the sides of equiangular triangles are proportional, and those subtending the equal angles are corresponding."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.70.1",
+   "text": "'But as ΑΓ is to ΓΖ, ΓΑ and ΑΒ together are to ΓΒ; and therefore as ΒΑ and ΑΓ together are to ΓΒ, ΑΗ is to ΗΓ.' For since the angle ΒΑΓ has been bisected by ΑΖ, as ΒΑ is to ΑΓ, ΒΖ is to ΖΓ. And componendo, as ΒΑ and ΑΓ both together are to ΑΓ, ΒΓ is to ΓΖ; and alternando, as ΒΑ and ΑΓ together are to ΒΓ, ΑΓ is to ΓΖ. And ΑΒ is less than 1351, ΑΓ is 1560, and ΒΓ is 780; therefore ΑΒ and ΑΓ together have to ΒΓ a lesser ratio than 2911 to 780; and therefore ΑΓ too has to ΓΖ a lesser ratio than 2911 to 780. But as ΑΓ is to ΓΖ, ΑΗ is to ΗΓ; therefore ΑΗ too has to ΗΓ a lesser ratio than 2911 to 780. For these reasons, then, the [square] on ΑΗ will be 8,473,921, and that on ΗΓ 608,400. And the [square] on ΑΓ is equal to these; so it too will be 9,082,321; of which the square root is very nearly 3013 1/2 1/4, for the [square] on it exceeds the exact square by 368 1/16. For these reasons, then, he says that ΑΓ has to ΓΗ a lesser ratio than 3013 1/2 1/4 to 780. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.71.1",
+   "text": "ΑΗ 2911; ΗΓ 780; 3013 1/2 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.72.1",
+   "text": "times 2911; times 780; times 3013 1/2 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.73.1",
+   "text": "M M M 2 MM 6 MM 9 1500 750"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.74.1",
+   "text": "M M 9900 M 6 6400 M 135 2 1/2"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.75.1",
+   "text": "9039 1 1/2 1/2 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.76.1",
+   "text": "M 9110; together M 8400"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.77.1",
+   "text": "1500 5 1 1/2 1/4 1/8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.78.1",
+   "text": "2911"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.79.1",
+   "text": "750 2 1/2 1/2 1/4 1/8 1/16"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.80.1",
+   "text": "together M 3921"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.81.1",
+   "text": "together M 2689 1/16"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.82.1",
+   "text": "the [squares] on ΑΗ, ΗΓ: M 2321"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.83.1",
+   "text": "it exceeds the exact [square]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.84.1",
+   "text": "by 368 1/16."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.85.1",
+   "text": "'Let the angle ΓΑΗ be bisected by ΑΘ.' Because of the bisection of the angle, then, and the similarity of the triangles and the proportionality of the sides, and by componendo and alternando, as ΗΑ and ΑΓ together are to ΗΓ, ΑΘ is to ΘΓ. And ΑΗ was taken as less than 2911, and ΑΓ as less than 3013 1/2 1/4; therefore ΗΑ and ΑΓ together are less than 5924 1/2 1/4. And ΗΓ is 780; therefore ΗΑ and ΑΓ together have to ΗΓ a lesser ratio than 5924 1/2 1/4 to 780; so that ΑΘ too has to ΘΓ a lesser ratio than 5924 1/2 1/4 to 780. So ΑΘ has to ΘΓ a lesser ratio than 455 1/2 1/4 to 60, for each is a thirteenth part of each; and [taking] four times these, ΑΘ has to ΘΓ a lesser ratio than 1823 to 240; for this is why he says that each is 4/13 of each. And since ΑΘ is 1823, the [square] on it is 3,323,329. And ΘΓ is 240, and the [square] on it 57,600; and the [square] on ΑΓ is equal to those on ΑΘ, ΘΓ; therefore it is 3,380,929; of which the square root is 1838 9/11, for the [square] on it exceeds the exact [square] by about 321. So ΑΓ has to ΘΓ a lesser ratio than 1838 9/11 to 240. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.86.1",
+   "text": "ΑΘ 1823; ΘΓ 240; 1838 9/11"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.87.1",
+   "text": "times 1823; times 240; times 1838 9/11"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.88.1",
+   "text": "MMM 3 M 8 MMM 8 111 9/ 90 10"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.89.1",
+   "text": "MMM 6 2400 MMM 4/7 6400 88 8 72 8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.90.1",
+   "text": "together M 7600"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.91.1",
+   "text": "MM 6 460 MM 4900 240 3 3 2 8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.92.1",
+   "text": "3 2469 9/11"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.93.1",
+   "text": "332 8 6400 240 64 8 8"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.94.1",
+   "text": "together M 3329 9 9 9"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.95.1",
+   "text": "equal to these is the [square] on ΑΓ; 111 9/ 8 3 3 8 81sts 99ths"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.96.1",
+   "text": "it is M 929. 90 10 72 8 2 8 8 99ths 121sts"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.97.1",
+   "text": "together M 1250 1/3 ... 170 about"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.98.1",
+   "text": "therefore it exceeds the exact [square] by about 321."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.99.1",
+   "text": "'Further let the angle ΘΑΓ be bisected by ΚΑ.' Again, then, because of the bisection of the angle and the similarity of the triangles and the proportionality of the sides, and by componendo and alternando, as ΘΑ and ΑΓ together are to ΓΘ, ΑΚ is to ΚΓ. But ΘΑ and ΑΓ together are less than 3661 9/11, since ΘΑ is taken as 1823, and ΑΓ as 1838 9/11. And ΘΓ is 240; therefore ΘΑ and ΑΓ together have to ΘΓ a lesser ratio than 3661 9/11 to 240; so that ΑΚ too has to ΚΓ a lesser ratio than 3661 9/11 to 240. And since 11/40 of 3661 9/11 is 1007, and of 240 is 66, ΑΚ therefore has to ΚΓ a lesser ratio than 1007 to 66. And the [square] on ΑΚ is 1,014,049, and that on ΚΓ 4356, and the [square] on ΑΓ, being equal to these, is 1,018,405; of which the square root is very nearly 1009 1/6, for the [square] on it exceeds the exact [square] by 12 1/3 1/36. Therefore ΑΓ has to ΓΚ a lesser ratio than 1009 1/6 to 66. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.100.1",
+   "text": "ΑΚ 1007; ΚΓ 66; 1009 1/6"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.101.1",
+   "text": "times 1007; times 66; times 1009 1/6"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.102.1",
+   "text": "M 7 3600 360 M 9166 1/2 1/6"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.103.1",
+   "text": "360 36"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.104.1",
+   "text": "7049 9081 1 1/2"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.105.1",
+   "text": "together 4356"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.106.1",
+   "text": "together M 4049 166 1/2 1/6 1 1/2 1/36"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.107.1",
+   "text": "together M 8417 1/3 1/36"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.108.1",
+   "text": "equal to these is the [square] on ΑΓ,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.109.1",
+   "text": "it exceeds the exact [square]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.110.1",
+   "text": "M 8405."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.111.1",
+   "text": "by 12 1/3 1/36."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.112.1",
+   "text": "'Further let the angle ΚΑΓ be bisected by ΑΛ.' For the same reasons, then, as ΚΑ and ΑΓ together are to ΚΓ, ΑΛ is to ΛΓ. And ΑΚ is less than 1007, ΑΓ less than 1009 1/6, and ΚΓ is 66. Therefore ΚΑ and ΑΓ together have to ΚΓ a lesser ratio than 2016 1/6 to 66. And therefore ΑΛ has to ΛΓ a lesser ratio than 2016 1/6 to 66. And since ΑΛ is taken as 2016 1/6 and the [square] on it as 4,064,928 1/36, and ΛΓ as 66 and the [square] on it as 4356, and the [square] on ΑΓ is equal to these, it will therefore be 4,069,284 1/36; of which the square root is very nearly 2017 1/4, for the [square] on it exceeds the exact [square] by 13 1/2 1/20. So ΑΓ has to ΓΛ a lesser ratio than 2017 1/4 to 66. The multiplications are set out below:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.113.1",
+   "text": "ΑΛ 2016 1/6; ΛΓ 66; 2017 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.114.1",
+   "text": "times 2016 1/6; times 66; times 2017 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.115.1",
+   "text": "MMM 2333 1/3 3600 360 MMM 4500"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.116.1",
+   "text": "360 36"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.117.1",
+   "text": "M 161 1/2 1/6; together 4356; M 172 1/2"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.118.1",
+   "text": "M 2060 36 1 M 4070 49 1 1/2 1/4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.119.1",
+   "text": "333 1/3 1 1/2 6 1 1/36 502 1/2 1 1/2 1/4 1/16"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.120.1",
+   "text": "together 4,064,928 1/36; together 4,069,297 1/2 1/16"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.121.1",
+   "text": "the [square] on ΑΓ, being equal to these, exceeds the exact [square]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.122.1",
+   "text": "it is 4,069,284 1/36; by 13 1/2 1/20."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.123.1",
+   "text": "Since, then, ΑΓ has to ΓΛ a lesser ratio than 2017 1/4 to 66, inversely ΛΓ has to ΓΑ a greater ratio than 66 to 2017 1/4. And since the arc ΓΒ is a sixth of the circle, ΗΓ is therefore a twelfth part, ΘΓ a twenty-fourth, ΚΓ a forty-eighth, and ΛΓ a ninety-sixth; so that the straight line ΛΓ is a side of a polygon having 96 sides. And ΛΓ is 66; therefore the perimeter of the polygon has to the diameter of the circle a greater ratio than 6336 to 2017 1/4. And this is three times and exceeds further by 284 1/4, which is more than ten seventy-firsts; [a seventy-first] is very nearly 27 1/2 1/6, and ten times these is 277; therefore the circumference of the circle is much greater than three times and ten seventy-firsts [of the diameter]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.124.1",
+   "text": "So then, as far as was possible, the numbers stated by him have been adequately explained; but one should know that Apollonius of Perga too, in the *Okytokion*, demonstrated it by means of other numbers, bringing it closer to the approximation. This seems to be more exact, but it is not useful for Archimedes' purpose; for we said that his purpose in this book was to find the approximation for the needs of everyday life. So neither will Sporus of Nicaea be found to be bringing a well-timed reproach against Archimedes for not having found exactly to what straight line the circumference of the circle is equal, on the grounds of what he himself says in the *Keria*, namely that his own teacher, meaning Philo of Gadara, brought it to more exact numbers than those stated by Archimedes, I mean the 1/7 and the 10/71; for all of them in succession seem to have been ignorant of his purpose. And they have used multiplications and divisions of myriads, which it is not easy for one who has not been trained through the *Logistica* of Magnus to follow. But if anyone at all wished to bring it to a smaller [margin], he ought to do this following what is stated in the *Mathematical Syntaxis* of Claudius Ptolemy, by means of the degrees and minutes and the chords in the circle; and I would have done this myself, had I not considered, as I have often said, that it is not possible by what is stated here to find exactly a straight line equal to the circumference of the circle, and that, if one attends to the approximation and to a small margin, what Archimedes has stated here suffices."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg002.1st1K-grc1.3.125.1",
+   "text": "Commentary of Eutocius of Ascalon on Archimedes' Measurement of the Circle, the edition having been read over by the Milesian engineer Isidore, our teacher."
+  }
+ ]
+}

@@ -1,0 +1,641 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1406.tmp1406",
+ "edition_urn": "urn:cts:latinLit:tmp1406.tmp1406.ai-claude",
+ "source_edition": "tmp1406.tmp1406.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "In Libros Veteris Ac Novi Testamenti Proemia: AI translation (Claude)",
+  "author": "Isidorus Hispalensis",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1406.tmp1406.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.head": "Line 9: the scanned text has a long editorial footnote (by the editor MAR., on Deuteronomy as 'repetition', on Wisdom and Ecclesiasticus, citing Jerome, Augustine and Cassian) spliced into the middle of Isidore's sentence; it has been left out and only Isidore's text translated. Line 4: 'nos sequuntur' read as 'Hos sequuntur'. Line 15: '[Forte hæ]' is an editorial suggestion to read 'hae' for 'haec'. Line 14: the Greek hymn is garbled in the scan; read as 'Hagios' (the Sanctus). Line 30: a relative 'quae' appears to be missing at the start ('Namque [quae] in historia'), supplied in brackets. Line 29: 'Dibrehaiamin' = Hebrew dibre hayyamim. Page numbers from the printed edition have been omitted throughout.",
+  "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.11.ab1": "35: 'cleri' read as 'ceteri' (the others). 37: the bracketed '[Forte deprehendit]' is an editorial conjecture ('perhaps \"detects\"') for 'reprehendit'; it is omitted from the translation. 40: 'Panarelon' read as Panaretos ('all-virtuous'). The attribution of Wisdom to Jesus son of Sirach is as the text gives it. 44: 'sive quadrupedum' ('or of the four-footed beasts') makes little sense here and may be corrupt; it is perhaps related to the 'burden of the beasts of the south' (Isaiah 30:6). 49: 'Ullam' read as 'ollam' (pot). 52: 'Olda mulier' is followed by no verb; 'prophesied' is supplied. The figure LXXII years for Jeremiah's prophecy is as printed, though it is chronologically implausible; the numeral may be corrupt. 'Eliacim, et Joacim' is as given: Eliakim and Jehoiakim are the same king, so one of the names may stand for Jehoiachin.",
+  "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.ab1": "76: 'postquam jam Domini patribus prophetavit' is obscure and may be corrupt; rendered literally. 'sive' in 'sive myrtela' and 'sive fabros' is taken as 'and', since these are further items of the vision, not alternatives. 55: 'sive aquilam' rendered 'and also an eagle' for the same reason. 56: the edition's marginal conjecture 'magna' (for 'magnam') does not change the sense much. 68: 'invisi' is read with the variant 'invidi' (hostile/envious). 63 ('ultimo tempore'), 70 ('quis iste' for 'quit iste') and 54 ('aurigam') correct obvious scanning errors. The text's dating of Obadiah and Micah under Josiah is given as printed, although it conflicts with 64, where Micah is placed under Jotham.",
+  "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.30.77": "78: Isidore conflates Zechariah's two women carrying the ephah (here 'amphora') with the lead weight and the flying scroll. 80: 'Darii regis Medorum' as in the text; Zechariah's Darius is usually the Persian king. 85: 'Machabaei triumphos' read as the triumphs of (Judas) Maccabeus. 89: 'moralem' read with 'disciplinam'; the punctuation of the edition is awkward. 96: 'pontifices' rendered 'bishops' (1 Peter's 'elders'); 'ad modicum' rendered 'for a while', perhaps alluding to 1 Cor. 7:5 / 1 Pet. 3:7; sense uncertain.",
+  "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.36.98": "99: 'resurrectionem elementorum' is as printed; the sense presumably refers to the dissolution and renewal of the elements (2 Pet. 3), but it is translated as given. 108: 'set et' read as 'sed et'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.head",
+   "text": "THE PREFACES OF SAINT ISIDORE, BISHOP OF SEVILLE, TO THE BOOKS OF THE OLD AND NEW TESTAMENTS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.ab1",
+   "text": "Prologue."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.1",
+   "text": "1. The full extent of the New and Old Testaments, which the Catholic Church receives in the canon, according to the ancient tradition of those before us, is this."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.2",
+   "text": "2. First, namely, the five books of Moses: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, that is, the recapitulation of the law and, as it were, a second law."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.3",
+   "text": "3. After this come the books of Joshua son of Nun and of Judges, and the little book whose title is Ruth, which seems to belong not to the history of the Judges, as the Hebrews assert, but rather to the beginning of Kings."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.4",
+   "text": "4. These are followed by the four books of Kings. To these indeed the two books of Paralipomenon are attached alongside, because they contain the causes of the same events which are known to be in the books of Kings."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.5",
+   "text": "5. There are, moreover, other volumes which in what follows weave together histories of times differing from one another, such as the book of Job, and [those] of Tobit, Esther, Judith and Ezra, and the two books of Maccabees."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.6",
+   "text": "6. But all of these, except the book of Job, follow the history of Kings, and then pursue the annals of the Jews, each in its own times, containing the sad or happy things that befell the Jewish people after the destruction of Jerusalem."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.7",
+   "text": "7. Of these, indeed, the Hebrews do not receive Tobit, Judith and Maccabees. The Church, however, counts them among the canonical scriptures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.8",
+   "text": "8. Next come the Prophets, among whom is the one book of Psalms, and the three books of Solomon, namely Proverbs, Ecclesiastes and the Song of Songs. Also those two excellent little books of holy instruction, I mean Wisdom and the other which is called Ecclesiasticus; although they are said to have been composed by Jesus son of Sirach, yet because of a certain likeness of style they have been headed with the name of Solomon. These, however, are known to hold in the Church an authority equal to the other canonical books."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.9",
+   "text": "9. There remain the books of the sixteen prophets, of whom four are those who composed the larger volumes, that is, Isaiah, Jeremiah, Ezekiel and Daniel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.10",
+   "text": "10. The other twelve are short and joined together, and for this reason compressed into a single volume. Their names are these: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi. Some, however, separating the Lamentations of Jeremiah, have cut them off from his volume, and so accept forty-five books of the Old Testament."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.11",
+   "text": "11. Next comes the New Testament, the first part of which is the four books of the Gospels, namely Matthew, Mark, Luke and John. Then follow the fourteen Epistles of the apostle Paul, that is, to the Romans, two to the Corinthians, to the Galatians, to the Ephesians, to the Philippians, two to the Thessalonians, to the Colossians, two to Timothy, and one each to Titus, to Philemon and to the Hebrews."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.12",
+   "text": "12. Also the three Epistles of the apostle John, two of Peter, and one each of Jude and James."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.13",
+   "text": "13. Also the Acts of the Apostles, and the Apocalypse of John. So in the order of both Testaments there are seventy-two books."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.14",
+   "text": "14. For these are the new and old things which are brought out of the Lord's treasury, from which all the mysteries of the sacraments are revealed. These are the two Seraphim who, singing unceasingly in confession of the Holy Trinity, burst forth into the hymn 'Holy, [holy, holy]'."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.15",
+   "text": "15. These also are the two olive trees in Zechariah, which stand on the right and left of the lampstand, and with the richness and splendour of the Holy Spirit illuminate the whole world with the clarity of doctrine."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.16",
+   "text": "16. These are the sacred writings, these the books complete in number and authority; nothing else is to be compared with them. Whatever lies outside these is in no way to be received among these holy and divine [books]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.pr.1.17",
+   "text": "17. Having therefore set out the order and number of the books of the Old and New Testaments, let us now add to them, quickly and briefly, short prefaces describing them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.ab1",
+   "text": "HERE BEGIN THE PREFACES."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.1.ab1",
+   "text": "On Genesis."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.1.18",
+   "text": "18. Genesis, according to the faithfulness of history, describes the making of the world and the creation of man, the flood and the division of the earth, the confusion of tongues too, and the deeds of all the patriarchs, up to the entry of Israel into Egypt."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.2.ab1",
+   "text": "On Exodus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.2.19",
+   "text": "19. Exodus contains the servitude of the Hebrews and the ten plagues of Egypt, the departure of the people and the protecting cloud, the crossing of the Red Sea and Pharaoh drowned with his chariots, and the song of glory, also the entry into the desert, the food of manna on which they were fed, the striking of the rock, and the waters turned to sweetness, the battle with Amalek, the commandments of the Decalogue, the ark of the Covenant, and the dedication and offering of the tabernacle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.3.ab1",
+   "text": "On Leviticus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.3.20",
+   "text": "20. In Leviticus are described the law of sacrifices, the variety of victims, the vestments of the high priests and the ministries of the Levites; the distinction of foods, too, and the various purifications of sins or [their] victims are set in order."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.4.ab1",
+   "text": "On Numbers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.4.21",
+   "text": "21. In Numbers the tribes that came out of Egypt are counted, and their journeys; a reckoning of the men of full age who came out of Egypt is included; the prophecy of Balaam, and the sacred meanings of the forty-two stations in the desert are indicated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.5.ab1",
+   "text": "On Deuteronomy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.5.22",
+   "text": "22. In Deuteronomy, which is the second law, are related the things that were said to the people by Moses between Paran and Tophel and Laban and Hazeroth, as far as Kadesh-barnea: namely commandments and promises, curses on sins, and promises of blessedness. There Moses sings his song. There he gives his blessing to the children of Israel; and there, having seen the land of promise, he dies and is buried."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.5.23",
+   "text": "23. Some of the Hebrews, however, count only four books of the law, that is, Genesis, Exodus, Leviticus, Numbers. Deuteronomy they call a repetition of the same books, and as it were a kind of meditation on the law. For this reason only: that those four contain the particular causes of the events, but this one [the causes] of all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.6.ab1",
+   "text": "On Joshua."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.6.24",
+   "text": "24. In the book of Joshua son of Nun the children of Israel, led by Joshua, cross the Jordan and are circumcised a second time, and then, the nations of the Canaanites having been overthrown, they receive the lots of their inheritance by the division of the land."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.7.ab1",
+   "text": "On the book of Judges."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.7.25",
+   "text": "25. In the book of Judges are contained the sins and servitudes of Israel, the cries of the people and the mercies of God. The successes and reverses of wars are described."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.8.ab1",
+   "text": "On the book of Ruth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.8.26",
+   "text": "26. The book of Ruth weaves the history of that Moabite woman, from whose stock the family of David descended. The Hebrews attach this little book to the book of Judges, because they record that the things written in it took place in the days of the Judges; but the Latins, on the contrary, because it traces the descent of King David, sprung from that same Moabite Ruth, contend that it belongs more truly to the body of the book of Kingdoms."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.9.ab1",
+   "text": "On the book of Kings."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.9.27",
+   "text": "27. The book of Kings, although among the Latins it has been cut into four parts because of its length, among the Hebrews is divided into two volumes. Of these the first, Samuel, writes that the ark of the Lord passed from the Jews to the gentiles, that the priesthood of Eli was mystically transferred to Samuel, and the rule of King Saul to David."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.9.28",
+   "text": "28. Malachim, for its part, sets out the kings of Judah and of the Israelite nation and their deeds in order of time, and relates that Israel itself was carried away to the Assyrians because of the error of idolatry; at the end it tells that Nebuchadnezzar came to Jerusalem, led away captive the prince and the people, and overthrew the city and the temple."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.10.ab1",
+   "text": "On Paralipomenon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.10.29",
+   "text": "29. Paralipomenon among the Hebrews is contained in one volume under a single title, and is called by them Dibre hayyamim, that is, 'Words of the Days'; among us, however, because of its length it has been cut into two parts. This is a history containing the order of generations and times. In it, indeed, no small learning in the holy Scriptures is contained."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.10.30",
+   "text": "30. For [the things] which in the history of the Old Testament were either entirely omitted in their places, or perhaps not fully set out, are explained in this summarily and briefly; its sequence runs joined alongside the law or Kingdoms, reaching to that very time at which the text of Kingdoms also ends. For beginning from the first making of the world, it extends through the order of events to the ruin of Jerusalem, over three thousand and seventy-two years, through seventy-two generations."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.11.ab1",
+   "text": "On the Book of Job."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.11.31",
+   "text": "31. The book of Job contains the losses, the bereavements and the scourges of that same holy man, and the insulting words of those who consoled [him], and also his laments, in which he bewails the misery of the whole world; also God's consolations to him out of the whirlwind, and his double repayment of goods in the end. By his sufferings and words he expressed the image of Christ; his wife, however, signifies a type of the carnal, who, placed within the Church, scandalise the life of the spiritual by their conduct."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.11.32",
+   "text": "32. His friends, however, presented a likeness of heretics and a figure of perverse doctrines. Further, Elihu, who presses against Job with heavy reproach, signifies those who preach arrogantly within the holy Church, and through swelling of heart and pride of knowledge display whatever they bring forth by examples of arrogance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.12.ab1",
+   "text": "On the Psalter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.12.33",
+   "text": "33. The book of Psalms, although it is enclosed in one volume, was nevertheless not produced by one and the same author. For there are ten prophets who wrote them at different times, that is, Moses, David, Solomon, Asaph, Heman, Ethan, Jeduthun, and the sons of Korah, Assir, Elkanah, Abiasaph, or Ezra. Some are also thought to be by Haggai and Zechariah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.12.34",
+   "text": "34. Concerning those that are without titles, the tradition of the ancients is this: that the others which follow without a title are believed to belong to the author whose heading has gone before. This book is marked with allegorical and typological sacraments; and specially, the instrument of almost all the psalms sounds forth this: that Christ was born, that he suffered, that he rose again."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.12.35",
+   "text": "35. It should be known that among the Hebrews all the psalms were mixed together and out of order; but Ezra first gathered them into one volume and arranged them in order and number, and through a hidden sacrament of mystery set some before others in order, though they appear later in time. For according to the course of history the third psalm is later than the fiftieth, but on account of a mystery it is earlier in order. So the others too are arranged, because the Holy Spirit pre-ordained them as he wished."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.13.ab1",
+   "text": "On the Books of Solomon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.13.36",
+   "text": "36. Solomon produced three volumes: the first of these is the book of Proverbs; the second, which is called Ecclesiastes; the third, whose title is the Song of Songs. In these three books he set out the disciplines of three kinds by which one arrives at knowledge of things. In the first, ethics, that is, moral [teaching]; after this physics, which comprehends the nature of nature; lastly theoretics, that is, contemplative [teaching]. For in Proverbs, teaching morals, he put forth a deeper understanding through a certain common manner of speaking, and fitted the keeping of the commandments and the instruction of heavenly doctrine into concise verses and short sentences."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.13.37",
+   "text": "37. Proverbs are [sayings] explaining or signifying some things under the words for other things, which are understood otherwise than they are said, more in the force of the sentences than in the sound of the words; the Greeks call them paroimiai. In Ecclesiastes, examining the nature of things, he censures all things in the world as transient and vain; and having perceived the fragility of all things, he admonished [us] to renounce the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.13.38",
+   "text": "38. In the Song of Songs, passing beyond visible things and contemplating those which are heavenly or divine, he declares, under the figure of bridegroom and bride, the unity of Christ and the Church, and, stirring the soul to the love of heavenly things, calls it to be carried forward to fellowship with God. Nor should this be omitted, which is handed down by our teachers: that among the Hebrews there was this observance, that they allowed no one to read this book except a man already of perfect knowledge and tested faith, lest perhaps, through the weakness of childhood and inexperience in faith, knowledge [of it] should not so much instruct unsteady minds as rather turn them to bodily desires."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.13.39",
+   "text": "39. For it was customary for all the Scriptures to be handed down to boys by their teachers, even those they call deuteroseis; only these four were reserved to the last, that is, the beginning of Genesis on the creation of the world, also the beginning of Ezekiel, in which he wrote about the cherubim, and its end, in which the description of the temple is contained, and the Song of Songs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.14.ab1",
+   "text": "On the Book of Wisdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.14.40",
+   "text": "40. The book of Wisdom, which is called Panaretos, announces by open manifestation the coming of Christ, who is the wisdom of God the Father, and his passion. Jesus son of Sirach produced it, in which he also set down a number of precepts for living."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.15.ab1",
+   "text": "On Ecclesiasticus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.15.41",
+   "text": "41. Ecclesiasticus wrote fully and copiously the discipline of nearly all morals, and the conduct of holy religion. It was called Ecclesiasticus because it was delivered in the midst of the assembly of the people, that is, before the church. On account of its great similarity of thought and equality of eloquence it is headed with the title of Solomon. It is agreed that this book too was produced by Jesus son of Sirach, and was held in equal veneration among the other books of the holy Scriptures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.16.ab1",
+   "text": "On Isaiah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.16.42",
+   "text": "42. Isaiah the prophet, whose name is interpreted 'salvation of the Lord': after a coal sent from the altar purged his lips, he was made worthy of the prophecy of the Holy Spirit. He beholds two seraphim, in the figure of the two Testaments, with twelve wings, that is, apostles, who by their preaching run through the whole world with winged speed, covering the face and feet of God seated on the throne, that is, concealing the things which were before the beginning of the world, or which are to come after the form of this world has passed away."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.16.43",
+   "text": "43. After the vision of Judah and Jerusalem, however, he turns the word of prophecy against the other nations which are round about it, and, according to the character of their places and the diversity of their life, announces what evils were to come upon them. For after the captivity of Jerusalem he threatens the ruin of Babylon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.16.44",
+   "text": "44. Then the slaughter of the Philistines, the devastation of Moab, the destruction of Damascus, and the upheaval of Egypt, and the desolation of the desert of the sea, also the siege of Edom, the flight and destruction of Arabia, the overthrow of the valley of Zion, also the subversion of Tyre, or of the four-footed beasts. But figuratively, in the vision of Judah the Synagogue is cast off and the Church is joined to the Lord. In the ruin of Babylon the confusion and pride of the whole world are rebuked, and its end is shown. In the devastation of Moab the error of worldly knowledge is turned into silence and mourning."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.16.45",
+   "text": "45. In the overthrow of Egypt the idolatries of the whole world are destroyed, and the building of the Lord's temple is proclaimed. In the crushing of the Philistines is shown the mourning of those who cast off the yoke of Christ and raise themselves against the knowledge of God. Further, through Damascus the preaching to the nations and the ruin of the Jewish people are shown. Through the burden of the desert of the sea the trial of this world is declared, and the things which are to come upon it are shown."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.16.46",
+   "text": "46. Through Idumaea the sun of justice rises for the nations, and darkness comes upon the Jewish people. Through Arabia is proclaimed the water of baptism to be given to those who have fled the errors of the nations or their blasphemies. Through the valley of Zion is proclaimed the perdition of Jerusalem, and of the heretics who have fallen from the height of the Church. Through Tyre it is preached to the nations that, laying aside the error of the world, they should be converted to Christ the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.16.47",
+   "text": "47. The rest of his [prophecies] concern either Christ, or the Church of the nations, or the consummation of the world. He prophesied for about seventy years, under four kings of Judah succeeding one another in order and by descent, that is, Uzziah, Jotham, Ahaz, and lastly Hezekiah, under whom a great part of his volume is woven, up to the end of the prophecy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.17.ab1",
+   "text": "On Jeremiah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.17.48",
+   "text": "48. Jeremiah the prophet, whose name is interpreted 'exalted one of the Lord', [is] simple in speech and easy to understand; in all his words and sufferings he displayed the image of our Redeemer. After he, as a type of Christ, destroyed the kingdoms of the devil and built up the rule of justice or faith, he is commanded to prophesy over all the nations, namely Egypt and the Philistines, Moab and Ammon, Edom and Damascus, and Kedar, and over the kingdoms of Assyria, and also over Elam and Babylon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.17.49",
+   "text": "49. Among these things he sees the watching rod of divine correction and power; also a pot set on fire, that is, the Jewish people burning with the fire of carnal desires. He also beholds two baskets of figs, prefiguring two peoples."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.17.50",
+   "text": "50. He also goes down into the potter's house, and sees the marring of the former vessel and the making of a new one, to signify the failing of the former people and the succession of the one to come. He also takes the cup of punishment and holds it out to all the nations. He takes a loincloth too, as an example of the Jewish people, and, when it has rotted, casts it away, for dispersion across the rivers of the nations. He also shows the golden cup of Babylon, through which the world was made drunk with the deadly draught of idolatry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.17.51",
+   "text": "51. He is also commanded to cast into the Euphrates a scroll tied to a stone, to show the destruction of Babylon, or, figuratively, of the whole world. He also rebukes sinners and calls [them] to conversion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.17.52",
+   "text": "52. Finally he laments the ruin of Jerusalem, the destruction of the temple, and the dispersion of the nation; and these things he not only foretold but also saw present. He began in the twelfth year of Josiah king of Judah, at the time when Huldah the woman also [prophesied]; and his prophecy extended through four kings, under Josiah, and Eliakim, and Jehoiakim, and Zedekiah, under whom Jerusalem was overthrown. He prophesied for seventy-two years and three months, apart from that time when, after the overthrow of Jerusalem, he was in Egypt with the people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.ab1",
+   "text": "On Ezekiel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.53",
+   "text": "53. Ezekiel, which is rendered in Latin \"strength of God\": he, figuring Christ typologically, stands beside the river of the world and beholds glorious mysteries."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.54",
+   "text": "54. He sees the likeness of the glory of God, and four living creatures in the likeness of the Gospels, and wheels containing one another as a type of the Testaments. He also sees the charioteer, that is, Christ, glowing below with the fire of judgement and above with the brightness of amber, that is, of divinity. He also eats the book of the divine law, in which is written the lament of the penitent, and the song of the righteous, and the woe of those who did not do penance after sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.55",
+   "text": "55. Next he takes a brick, on which besieged Jerusalem is portrayed in a picture, or on which, under the type of Christ, the mysteries of that same Jerusalem, that is, of the whole Church, which was formed from the side of Christ, are portrayed. This prophet also takes the sleep of the left side, as a type of the death of sinners, who, placed on the left, will endure eternal punishments; and at last he is commanded to sleep on the right side instead of the left, because of the hope of those who, through a change of conduct, will obtain the glory of the resurrection. Meanwhile he also beholds two rods joined to each other, in the likeness of the circumcision and of the Gentiles; and also an eagle under Nebuchadnezzar, as a figure of the Antichrist, seizing the empires of the whole world with great wings and the swiftness of flight."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.56",
+   "text": "56. Besides this, under the guise of the prince of Tyre, he laments the blessedness of the devil, which he lost, and bewails his great ruin with lamentation. Finally, carrying a reed or a measuring line, he measures, under the guise of the saints, the mystical Jerusalem."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.57",
+   "text": "57. Among these mystical things he adds certain moral ones: he accuses the false prophets, and instructs the watchmen not to keep silent about wickedness. He also proclaims to sinners the penalties of four vengeances, and prophesies that souls will return to their bodies. He also shows that each one will render account to the Lord for himself, and that the stain of a father's sin can no longer be spread to his offspring."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.18.58",
+   "text": "58. Among these things, under Oholah and Oholibah, he rebukes all the shamefulness of Samaria and Jerusalem, and casts in their teeth their disgraceful birth. Often too he calls the captive peoples to penance, and urges the people, after their transgression, to turn and return. He prophesied in the thirty-fifth year of his age and the fifth of the captivity, living in exile in Chaldaea; and there he completed his prophecy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.19.ab1",
+   "text": "On Daniel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.19.59",
+   "text": "59. Daniel, which is interpreted \"judgement of God\", and who is also the clearest of all the prophets concerning Christ. Indeed, he not only foretold that he would come, as the others did, but also fixed the time of the incarnation and of the passion by the order of kings and the number of years, so that he seems not so much to foretell the future as to narrate things already done. He frequently sees visions of four kingdoms, and presents their differences under various images."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.19.60",
+   "text": "60. He also shows concerning the Antichrist that he is the little horn, that is, he will reign for a short time, and, having subjugated ten kings, will reign alone in the last times. He writes much on the consummation of Jerusalem or of the world, and on the day of judgement and the kingdom of the saints. At the end of the volume of his prophecy he places the story of Susanna and the tales of Bel and the dragon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.19.61",
+   "text": "61. Among the Hebrews this book is written in Hebrew letters, but in the Chaldaean language. He prophesied in Babylon, at the same time as Ezekiel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.20.ab1",
+   "text": "On Hosea."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.20.62",
+   "text": "62. The prophet Hosea, which is understood as \"saving\", the first among the twelve prophets, deeper than the rest in his sayings and more laborious to understand. He speaks to those tribes which are called Ephraim and Samaria, the house of Joseph and Israel; but through Ephraim he rebukes the heretics, who, departing from the unity of the Church, have become partakers of idols."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.20.63",
+   "text": "63. Through Samaria he shows the figure of these same heretics, who falsely claim to be keepers of God's commandments, and under the pretext of truth cultivate falsehood. In the historical sense he declared that the Jews would believe in Christ in the last time. He also foretold the third day of the Lord's resurrection. He prophesied in the days of Uzziah king of Judah, and of Jeroboam king of Israel, at the same time as Isaiah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.21.ab1",
+   "text": "On Joel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.21.64",
+   "text": "64. The prophet Joel, which is interpreted \"beginning\". He, delivering his prophecy only to Judah and Jerusalem, at the beginning of his volume calls Jerusalem to mourning after luxurious feasts, and proclaims its destruction. He also foretells the calling of the Gentiles, and that the Holy Spirit will come upon the gathered believers. He prophesied under Jotham king of Judah, at the same time as Micah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.22.ab1",
+   "text": "On Amos."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.22.65",
+   "text": "65. Amos, which is interpreted \"burden\", prophesied against Samaria and Jerusalem, describing the three and four crimes of the nations under the figure of the whole world. The first crime, then, is that all sinned in Adam. The second, that, unmindful of reason, they did not understand the law implanted in nature. The third is that of those who did not obey the law that was given. The fourth, inexpiable, is that of those who did not believe in Christ; for which crimes the Lord thunders that he will bring fire, that is, the sentence of eternal judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.22.66",
+   "text": "66. He foretells the coming of Christ in the Lord's own voice thus: I who make firm the thunder, and create the wind, and announce Christ among men. The rest, which he says about Amaziah and Jeroboam, or Israel, is to be referred tropologically to the heretics. He prophesied under King Uzziah, at the time when Hosea and Isaiah [did]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.23.ab1",
+   "text": "On Obadiah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.23.67",
+   "text": "67. Obadiah, which is interpreted \"servant of the Lord\", the shortest of all the prophets in number of words, but equal in the grace of mysteries. Speaking against Idumaea, he mystically rebukes the pride of Edom, that is, the audacity of the former people, because it killed its brother Jacob, that is, Christ, born of the stock of the Hebrews. On Mount Zion, which is Jerusalem, he announces future salvation and the Holy One, who is Christ; and on the mount of Esau, by which the church of the Gentiles is figured, he thunders that the kingdom will be the Lord's. He prophesied under Josiah king of Judah, at the same time as Micah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.24.ab1",
+   "text": "On Jonah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.24.68",
+   "text": "68. Jonah, which is interpreted \"dove\", figures by his words as much as by his shipwreck the passion and death of Christ, and his resurrection: whether in that he was thrown from the ship into the sea, as from the cross into the earth, or in that, swallowed in the belly of the whale, he was hidden three days and nights as in the burial of the earth, or in that, in the figure of Nineveh, he foretold penance to the world. In what follows, however, he bears the type of the Jews, who not only did not want the salvation of the Gentiles to come, but, when it came, were hostile [to it]. Nineveh also signifies the image of the Gentiles, while Jonah in this place [signifies that] of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.24.69",
+   "text": "69. For just as the salvation of the Ninevites provoked Jonah to jealousy, so the redemption of the Gentiles became a stumbling block to the Jews. Fittingly too he is read to have sat opposite the east of the city under the shade of the ivy, because that same people, separating itself from the salvation of the Church, wasting with resentment, strives to move its tongue against Christ, that is, the Orient of the Church, sitting under the shade of the law; and that shade was withered by a worm, because, when Christ came, the old things passed away, and behold, all things were made new. He prophesied under Uzziah king of Judah, when Hosea, and Amos, and Isaiah also prophesied."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.25.ab1",
+   "text": "On Micah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.25.70",
+   "text": "70. The prophet Micah is interpreted \"who is this?\". He threatens Samaria with the wrath of the Lord on account of idols, and announces that destruction will come upon the people of Israel. He also shows the place in which Christ would be born. He prophesied under Josiah, at the same time as Zephaniah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.26.ab1",
+   "text": "On Nahum."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.26.71",
+   "text": "71. Nahum, which is \"comforter\", proclaims that the idols of the Gentiles are to be destroyed, and also Jerusalem, the city of blood; after whose destruction he proclaims the feet of him who announces peace, that is, the coming of the Saviour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.27.ab1",
+   "text": "On Habakkuk."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.27.72",
+   "text": "72. Habakkuk, \"embracing\" or \"strong wrestler\", at the beginning of his volume describes the devil with his members and his ways; but at the end he foretells the coming and passion of the Saviour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.28.ab1",
+   "text": "On Zephaniah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.28.73",
+   "text": "73. Zephaniah, \"watchman of the mysteries of the Lord\" and \"hiding\", sees the captivity of the city of Jerusalem that was to come at the hands of the Romans, through the sound of a cry from the Fish Gate, and through the crushing of the hills, that is, of Mount Zion, which is the hill of Jerusalem; he also foretells the overthrow of other nations, and thunders out the terror of divine judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.28.74",
+   "text": "74. He speaks also against Moab and Ammon, but through them, as neighbours to the people of God and near to the catholic sacraments, the heretics are rebuked. He prophesies the third day of Christ's resurrection, and announces that at Christ's coming the whole world will serve the Lord under one yoke. He prophesied under Josiah, at the same time as Jeremiah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.29.ab1",
+   "text": "On Haggai."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.29.75",
+   "text": "75. Haggai, which is interpreted \"solemn\". In the text of his prophecy he commanded that the temple of the Lord be restored, foretells the crushing of the nations, or predicts the shaking of the whole world, and under the figure of Zerubbabel prophesies the coming of Christ. He prophesied in the seventieth year of the people's captivity, preceding Zechariah in his prophecy by only two months."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.30.ab1",
+   "text": "On Zechariah."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.30.76",
+   "text": "76. Zechariah, who is named \"memory of the Lord\", after he had already prophesied to the fathers of the Lord, saw a man sitting on a red horse, in the figure of the body of Christ, rosy with the blood of the passion, and myrtles, signifying the people of the Gentiles; he also beholds four horns, and smiths, in the figure of the nations, which, scattering Judah and Israel, pressed them down with a heavy weight."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.30.77",
+   "text": "77. He likewise beholds Jesus, clothed in the filth of the flesh and in mortality, and, these being taken away, clothed in immortality and glory. He also sees a stone, which is Christ, having seven eyes, that is, the fullness of the sevenfold Spirit. Among these things he beholds a brand and a firebrand put out, that is, the devil. He sees a lampstand, in the figure of Christ, with seven lamps, which are the Churches; and also two olive trees, placed at the right and at the left of the lampstand, signifying the type of the two Testaments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.30.78",
+   "text": "78. The same [prophet] also takes up two rods, of the cord and of beauty, as a type of the Jews and the Gentiles. Then he beholds two women, that is, the peoples of the heretics, or of the Jews, lifting up on their wings a jar, that is, the devil's teaching, and a mass of lead, which is the most heavy weight of sin, and a flying scroll, on which the sins and punishments of men are written."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.30.79",
+   "text": "79. He also sees four chariots, running under the one yoke of the preaching of the Gospel. After this he beholds horses sent out to preach to the world: the first red, by the suffering of martyrdom; the second black, by the squalor of penance; the third white, by the brightness of baptism; the fourth dappled, by the exposition and teaching of the faith. He also sees trumpets, bearing the figure of the saints, through which the Lord sounds to the world, and a corner, in which two peoples from opposite sides are joined, and a peg, figuratively Christ, fixed in the hearts of the peoples; he describes also a shepherd, the Antichrist, who has his work and intent on the left."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.30.80",
+   "text": "80. [He describes] also a horse, in the figure of the people of the heretics, and its rider, the devil. He also foretells a fountain in the house of the true David, opened in the washing of regeneration. Whatever else he writes concerns either the coming of the Lord, or his passion, or the end of the world, or the judgement. He prophesied in the second year of Darius king of the Medes, at the same time as Haggai also, in the seventieth year of the desolation of the temple and of the captivity of the people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.31.ab1",
+   "text": "On Malachi."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.31.81",
+   "text": "81. Malachi, which is interpreted \"angel of the Lord\", at the beginning of his prophecy shows the hatred of the Jews in Esau, and the love of the younger people in Jacob. In what follows he rejects the old sacrifices of the Jews, and announces that sacrifice is to be transferred to the Gentiles. At the end [he announces] the coming of the Lord, and also the day of judgement, the rewards of the just and the punishments of the wicked. He also foretells John, sent before the first coming of the Lord, and announces that Elijah is to be sent before the second coming."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.31.82",
+   "text": "82. Among these things he sets out a number of moral matters suited to discipline, in which he rebukes the people, and the priests who despise the name of the Lord and violate his sacraments with polluted offerings and sacrifices. He also warns beforehand that bishops ought to be learned and without blemish, and to instruct the peoples in the truth without respect of persons; he also reproves the quarrelsome, and commands that tithes and first-fruits be paid by the peoples of the Church to [their] preachers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.31.83",
+   "text": "83. He also rebukes those who despise their wives and are bound in love of other women; likewise those who, lamenting their own misery, praise the happiness of those who enjoy the prosperity of this world. He prophesied last, in Babylon, at the time when Haggai and Zechariah [did]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.32.ab1",
+   "text": "On Ezra."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.32.84",
+   "text": "84. Ezra writes that the people, when the time of captivity was completed, returned to Jerusalem under the rule of Cyrus king of the Persians; and that under Zerubbabel and Jesus son of Josedech, the high priest, and Nehemiah, the walls of Jerusalem and the temple and the altar were renewed, the right of the priests was also restored, and the worship of holy religion, which was richly adorned with much wealth of the nations and with gifts from the princes of the Persians."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.33.ab1",
+   "text": "On the Maccabees."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.33.85",
+   "text": "85. The books of the Maccabees, although they are not held in the canon of the Hebrews, are nevertheless numbered by the Church among the histories of the divine volumes. They record the battles between the leaders of the Hebrews and the nations of the Persians, also the fighting on the Sabbaths, and the noble triumphs of Maccabeus, and also the treaty of friendship with the leaders of the Romans, and the proceedings of embassies."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.34.ab1",
+   "text": "On the four Gospels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.34.86",
+   "text": "86. The preaching of the Gospels, although it is fourfold, is nevertheless one, because it proceeded from one and the same mouth of the Godhead. For these are the four rivers flowing from the one fountain of paradise, which run down in a fourfold union, and supply the streams of heavenly preaching through the whole world, and pour in the greenness of grace and faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.34.87",
+   "text": "87. This is that chariot of the Lord in Zechariah, in which, borne through the whole world, he subjects to himself the necks of all nations under a gentle yoke. These are also those whom the prophetic vision described under the form of four living creatures, that is, of a man, a lion, an ox and an eagle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.34.88",
+   "text": "88. For the first, namely Matthew, as a man, sets out the order of [Christ's] human birth. The second, namely Mark, like a roaring lion, thunders out at once at his beginning the strength of divine power. The third, namely Luke, putting first the sacrifice of the priest, suggests the death as of a calf. The fourth, namely John, gazing at heaven in the manner of an eagle, eagerly flies over the earth, and penetrates the birth of the Word with a hidden understanding of the mystery. But of these, those three creatures that walk on the earth, following the active life, have pursued only those things which the man Christ did in time on earth. The fourth, however, looks upon heavenly things with the keen gaze of contemplation, and set out few of [Christ's] works but very many sacraments of [his] divinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.34.89",
+   "text": "89. Matthew, then, at the beginning following the royal lineage of Christ, and thereafter following rather the moral discipline, composed few signs and more precepts for living. Mark, likewise, the abbreviator of Matthew, wove anew with a swift pen those things which Peter taught on the road about the way of ruling one's life; walking evenly between Luke and Matthew, he nevertheless records more from Matthew, keeping not only the order of events but also of words."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.34.90",
+   "text": "90. Luke, however, keeping rather the order of history, relates the mighty works of Christ's deeds more abundantly than the others. Last, John, unfolding the things of [divine] nature, flew past the heavens and the angels, and found the Word of God, and announced that he was in the beginning."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.34.91",
+   "text": "91. Of these, the first and the last preached those things which they heard from the mouth of Christ, or heard to have been done or performed by him; the remaining two in the middle only those things which they learned from the apostles. Of these Matthew first wrote a Gospel in Judaea, then Mark in Italy, third Luke in Achaea, last John in Asia. Of these Matthew alone set down the history of his preaching in the Hebrew style; the rest issued theirs in the eloquence of the Greek tongue."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.35.ab1",
+   "text": "On the Epistles of Paul."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.35.92",
+   "text": "92. The apostle Paul set down the style of his preaching in fourteen Epistles. Of these he wrote some to seven Churches because of the type of the sevenfold Church, preserving, rather than exceeding, the number of the sacrament, on account of the sevenfold efficacy of the Holy Spirit. He wrote to the Romans, to the Corinthians, to the Galatians, to the Ephesians, to the Philippians, to the Colossians, to the Thessalonians, to the Hebrews; the rest he afterwards issued to individual persons, so as to turn that very number seven back again to the sacrament of unity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.35.93",
+   "text": "93. The arguments of these Epistles are these: first, he praises the faith of the Roman people; he chastises the Corinthians with a twofold teaching; among the Galatians he excludes the works of the law through the grace of faith; he extols the Ephesians in the faith which they received; he praises the Colossians because they persevered in the faith; he congratulates the Philippians on having kept the Gospel; he glories that the Thessalonians, in the first Epistle, grew in faith and works, and in the second, bravely endured persecutions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.35.94",
+   "text": "94. He also instructs the Churches through Timothy and Titus. He entreats Philemon concerning the reformed slave Onesimus. Last, he strengthens the Hebrews, who believed in Christ and afterwards, frightened by Jewish persecutions, withdrew from the faith, and calls them back to the grace of the Gospel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.36.ab1",
+   "text": "On the Epistles of blessed Peter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.36.95",
+   "text": "95. The apostle Peter wrote two Epistles, which are called canonical. He wrote to those who, believing from the circumcision, were in the dispersion among the Gentiles. These seem to some rather plain, although they are filled with such deep meanings that those who can search out the sense of divine knowledge through them see great teachings and great mysteries revealed to them, as through a kind of small receptacle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.36.96",
+   "text": "96. In the first Epistle he writes of the power of regeneration, and of the prophets who foretold the endurance of the Church in sufferings to come. Then he admonishes the bishops to live in chastity and, like little children, to remain without guile. He also shows that the saints are living stones, and a people of acquisition, and a royal priesthood. Among these things he lays down for the people an order of living well: he exhorts women to be subject and not to go about in costly attire, husbands also to cleave to their wives for a while, to be frequent in prayer, and to live in harmony with all. Besides this he writes of the mystery of the ark, or the sacrament of baptism, through which man is freed from the deeds of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.36.97",
+   "text": "97. And he commands the faithful to obey the precepts of the divine will alone, and no longer to serve the desires of the flesh. He also teaches clergy and people to serve one another in turn, and that no one should dread the sufferings of Christ; and that judgement begins from the house of God, and that the saints are crowned. He also admonishes them to observe mutual gentleness and humility towards one another, and to guard against the snares of the devil with all care, adding that every good work of one who begins is brought to completion through God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.36.98",
+   "text": "98. In the second Epistle he addresses the faithful, as if slain in this world, and exhorts all to pass from worse things to better. He also writes that the memories of the just are to be cherished anew, and he recalls the false prophets of both Testaments, who are teachers of falsehood. Then he brings in the example of the flood to signify the destruction of the impious, and of those who, cast into the pleasures of sins, have been made slaves of corruption."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.36.99",
+   "text": "99. He also writes that in the last times scoffers abound, and he proclaims that with God a thousand years are counted as one day. Among these things [he writes of] the resurrection of the elements, and the renewal of heaven and earth. At the end he speaks of the Epistles of Paul, which certain unlearned men, since they do not understand them, overturn with a perverse sense."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.37.ab1",
+   "text": "On the Epistle of blessed James."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.37.100",
+   "text": "100. James the brother of the Lord wrote one Epistle, pertaining to the edification of the Church, whose teachings seem to pour into readers an immense clarity of knowledge."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.38.ab1",
+   "text": "On the Epistles of blessed John."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.38.101",
+   "text": "101. The apostle John wrote three Epistles, of which the first, commending the duty of charity, is wholly concerned with the love of God and brotherly love."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.38.102",
+   "text": "102. The second also, which he wrote to the Elect Lady, urges zeal for love; it also marks out seducers, and admonishes that heretics are to be avoided."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.38.103",
+   "text": "103. The third he writes to Gaius, in which he praises him for his zeal for truth and his work of mercy; then he marks out the insolence of a certain Diotrephes, and bears witness to Demetrius for his truth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.39.ab1",
+   "text": "On the Epistle of the holy apostle Jude."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.39.104",
+   "text": "104. The Epistle of Jude rebukes those who blaspheme against Christ, and certain unchaste men, by the example of the impious who through pride and luxury were handed over to everlasting burning; concerning these he admonishes the Church to reprove them and to exhort them to penitence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.40.ab1",
+   "text": "On the Acts of the Apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.40.105",
+   "text": "105. The history of the apostles describes the faith and the work of the newborn Church, and its writer is shown to be Luke the evangelist. It contains those things which were wrought or done in Judaea or among the Gentiles through the grace of the Holy Spirit, by Peter as well as by the other apostles, and especially by Paul."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.41.ab1",
+   "text": "On the Apocalypse."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.41.106",
+   "text": "106. John, after he is commanded to write to the seven Churches, beholds the Son of Man sitting on the throne, and the twenty-four elders, and the four living creatures coming forth before the throne, and also in the right hand of the one seated a book sealed with seven seals, in which war, want, death, the cry of the slain, and also the end of the world and of the age are marked."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.41.107",
+   "text": "107. Then he describes the twelve thousands of the servants of God, who are sealed on their foreheads; there seven angels sound trumpets, with hail and fire mixed with blood following upon the earth. There too a third part of the earth is burned up, and a third part of the sea becomes blood; and the shining stars themselves lose a third part of their brightness; there from the smoke of the pit locusts of demons are brought forth, receiving power to harm those who are not sealed with the blood of the Lamb."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.41.108",
+   "text": "108. Besides this, the Evangelist eats the book of the Testament, most sweet in the preaching of the mouth and bitter in the difficulty of the work. And he measures the heavenly temple, and describes the words of the twenty-four elders, and also the ark of the Testament, and the woman clothed with the sun, and the battle in heaven of Michael with the dragon, and the fall of the dragon. He beholds moreover the figure of Antichrist, having seven heads of kingship, and horns of power, and the number of his name."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1406.tmp1406.opp-lat1.1.41.109",
+   "text": "109. Among these things he also tells of the new song of the Testament, and sees angels carrying bowls, and likewise discerns the destruction of the beast, and the blessedness of those who have kept the garments of their body clean, without the pleasure of the flesh. Then he recounts the destruction of the harlot Babylon, and the marriage of the Lamb, the coming of judgement, the destruction of Antichrist, and the everlasting punishment of the devil. At the last he records the resurrection of the dead, and the renewal of heaven and earth, and the description of Jerusalem, also the pure river of baptism, and the tree of life, the Lord Jesus Christ."
+  }
+ ]
+}

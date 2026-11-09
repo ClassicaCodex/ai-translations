@@ -1,0 +1,441 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2135.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg2135.tlg001.ai-claude",
+ "source_edition": "tlg2135.tlg001.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Isagoge musica: AI translation (Claude)",
+  "author": "Alypius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2135.tlg001.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.head": "Section 4 (fixed and movable notes) interrupts the introduction to the Lydian tables, which looks like a displacement in the transmitted text. 'Upper' and 'lower' signs in 1.3 are the vocal and instrumental notations; in the tables each pair gives the vocal sign first, then the instrumental. 'At the higher pitch' (ἐπὶ τὴν ὀξύτητα) means the sign is marked for the upper octave. 'Omicron-upsilon' renders ου. In 2.6 'ἰῶτα καὶ πλάγιον' lacks a word: [lambda] is supplied from the parallel tables. In 2.7 'γάμμα καὶ' lacks a word: [nu] is supplied from the parallel tables. Evident scanning slips have been read as ἀπεστραμμένον, ἡμίαλφα, ἦτα and τὴν ὀξύτητα. In 2.3 and 2.8, nete hyperbolaion is given as 'square omega' without 'lying on its back', unlike the parallel entries; this is translated as printed. Page numbers of the edition are omitted.",
+  "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.9.1": "Many scanning errors corrected silently (e.g. Δυδίου for Λυδίου, Προσλαμβανάμινος, ἦια for ἦτα, νεστραμμένον for ἀνεστραμμένον). In 2.12.1 (synemmenon diatonos) 'square ... lying on its back' lacks the letter; omega is supplied from the parallel entries. In 2.9.1 the note at the hypate meson position ('mu and drawn-down pi') breaks the expected pattern and may be corrupt. In 3.1.1 'δέλτα ἐπὶ τὴν ὀξύτητα' within the chromatic paranete diezeugmenon is odd and may be misplaced; a stray 'ντ' before nete synemmenon has been omitted. 'ἀμελητικόν' (of eta) is rendered 'carelessly written'; its exact graphic sense is uncertain. 'ὀξεῖα' and 'βαρεῖα' are taken as the acute and grave accent signs.",
+  "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.4.1": "Heading 11 reads Ὑπτοϊαστίου, a scanning error for Ὑποϊαστίου (Hypoiastian). 'ει' is the Greek name of the letter epsilon, rendered 'epsilon'.",
+  "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.13.1": "Section 4.4–4.5: the edition notes (in Latin) that a leaf is lost in the archetype, so the end of the Aeolian table and the start of the Hypoaeolian are missing; the Hypoaeolian heading is the editor's. In 4.6 (trite synemmenon) the text has only 'square ... lying on its back', omitting the letter; 'omega' is supplied from the parallel tables. Several signs are abbreviated to single letters in the Greek (η, λ, κ, ζ) and are rendered in full.",
+  "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.8.1": "The edition's page mark '(p. 55)' in 4.8.1 has been left out. The text breaks off in the Hyperphrygian enharmonic table; 'Reliqua desunt' and the closing Latin index of keys with page references are the editor's additions, not part of Alypius' text, and are translated as they stand. The page numbers presumably refer to an earlier edition, probably Meibom's. In that index, 'Ionius' presumably stands for the Iastian key."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.head",
+   "text": "Alypius' Introduction to Music."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.1.1.1",
+   "text": "Since music is brought to completion by three most cohesive sciences, harmonics, rhythmics and metrics, the study concerned with what is attuned must be considered first in order and most elementary. This is called harmonics, as having a certain power to distinguish and grasp the melodic and intervallic notes and the differences that arise among them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.1.2.1",
+   "text": "2. It is occupied and studied chiefly with the attuned part of music. Its parts are seven: first, on notes; second, on intervals; third, on systems; fourth, on genera; fifth, on keys; sixth, on modulations; seventh, on melodic composition itself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.1.3.1",
+   "text": "3. These being so arranged, it is useful for us, and at the same time necessary, as we begin the elementary teaching of harmonics, to present it in a more instructive way, and above all to divide it into the so-called modes and keys, which are fifteen in number. Of these the first is the Lydian. Signs of the Lydian mode: the upper ones for the words, the lower ones for the instrumental playing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.1.4.1",
+   "text": "4. Of the notes, some are fixed and unchanging, others movable and changing. The fixed are eight: proslambanomenos, hypate hypaton, hypate meson, mese, nete synemmenon, paramese, nete diezeugmenon, nete hyperbolaion. The movable are ten: two parhypatai, of the hypatai and of the mesai; two lichanoi, of the hypatai and of the mesai; three tritai, of the synemmenai, diezeugmenai and hyperbolaiai; three paranetai, of the synemmenai, diezeugmenai and hyperbolaiai. They are called fixed because in the differences of the genera they do not shift; movable because in the differences of the genera they shift to other pitches. Of the fixed notes, some are barypyknoi, others apyknoi. The barypyknoi are five: hypate hypaton, hypate meson, mese, paramese, nete diezeugmenon. The apyknoi are three: proslambanomenos, nete synemmenon, nete hyperbolaion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.1.head",
+   "text": "1. Signs of the Lydian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.1.1",
+   "text": "Proslambanomenos: defective zeta and tau lying on its side. Hypate hypaton: reversed gamma and upright gamma. Parhypate hypaton: defective beta and inverted gamma. Hypaton diatonos: phi and digamma. Hypate meson: sigma and sigma. Parhypate meson: rho and inverted sigma. Meson diatonos: mu and drawn-down pi. Mese: iota and lambda lying on its side. Trite synemmenon: theta and inverted lambda. Synemmenon diatonos: gamma and nu. Nete synemmenon: square omega lying on its back, and zeta. Paramese: zeta and pi lying on its side. Trite diezeugmenon: square epsilon and inverted pi. Diezeugmenon diatonos: square omega lying on its back, and zeta. Nete diezeugmenon: phi lying on its side and carelessly written, drawn-down eta. Trite hyperbolaion: upsilon tilted downward and left half-alpha tilted upward. Hyperbolaion diatonos: mu and drawn-down pi, at the higher pitch. Nete hyperbolaion: iota and lambda lying on its side, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.2.head",
+   "text": "2. Signs of the Hypolydian in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.2.1",
+   "text": "Proslambanomenos: omicron-upsilon with a line below, and eta. Hypate hypaton: inverted mu and defective eta. Parhypate hypaton: inverted lambda and defective eta lying on its side. Hypaton diatonos: defective zeta and tau lying on its side. Hypate meson: reversed gamma and upright gamma. Parhypate meson: defective beta and inverted gamma. Meson diatonos: phi and digamma. Mese: sigma and sigma. Trite synemmenon: rho and inverted sigma. Synemmenon diatonos: mu and drawn-down pi. Nete synemmenon: iota and lambda lying on its side. Paramese: omicron-upsilon and kappa. Trite diezeugmenon: xi and inverted kappa. Diezeugmenon diatonos: iota and lambda lying on its side. Nete diezeugmenon: zeta and pi lying on its side. Trite hyperbolaion: square epsilon and inverted pi. Hyperbolaion diatonos: square omega lying on its back, and zeta. Nete hyperbolaion: phi lying on its side and carelessly written, drawn-down eta."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.3.head",
+   "text": "3. Signs of the Hyperlydian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.3.1",
+   "text": "Proslambanomenos: phi and digamma. Hypate hypaton: sigma and sigma. Parhypate hypaton: rho and inverted sigma. Hypaton diatonos: mu and drawn-down pi. Hypate meson: iota and lambda lying on its side. Parhypate meson: theta and inverted lambda. Meson diatonos: gamma and nu. Mese: square omega lying on its back, and zeta. Trite synemmenon: psi tilted downward and right half-alpha tilted downward. Synemmenon diatonos: inverted tau and right half-alpha tilted upward. Nete synemmenon: mu and drawn-down pi, at the higher pitch. Paramese: phi lying on its side and carelessly written, drawn-down eta. Trite diezeugmenon: upsilon tilted downward and left half-alpha tilted upward. Diezeugmenon diatonos: mu and drawn-down pi, at the higher pitch. Nete diezeugmenon: iota and lambda lying on its side, at the higher pitch. Trite hyperbolaion: theta and inverted lambda, at the higher pitch. Hyperbolaion diatonos: gamma and nu, at the higher pitch. Nete hyperbolaion: square omega and zeta, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.4.head",
+   "text": "4. Signs of the Aeolian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.4.1",
+   "text": "Proslambanomenos: reversed defective eta and reversed square epsilon. Hypate hypaton: inverted delta and reversed tau lying on its side. Parhypate hypaton: reversed gamma and upright gamma. Hypaton diatonos: chi and right half-mu. Hypate meson: tau and reversed digamma. Parhypate meson: sigma and sigma. Meson diatonos: omicron-upsilon and kappa. Mese: kappa and drawn-down half-delta. Trite synemmenon: iota and lambda lying on its side. Synemmenon diatonos: zeta and pi lying on its side. Nete synemmenon: alpha and grave accent. Paramese: eta and reversed lambda lying on its side. Trite diezeugmenon: zeta and pi lying on its side. Diezeugmenon diatonos: alpha and grave accent. Nete diezeugmenon: distorted chi and left half-alpha tilted downward. Trite hyperbolaion: phi lying on its side and carelessly written, drawn-down eta. Hyperbolaion diatonos: omicron-upsilon and kappa, at the higher pitch. Nete hyperbolaion: kappa and drawn-down half-delta, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.5.head",
+   "text": "5. Signs of the Hypoaeolian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.5.1",
+   "text": "Proslambanomenos: inverted pi and reversed double sigma. Hypate hypaton: antinu and double pi. Parhypate hypaton: inverted mu and defective eta. Hypaton diatonos: reversed defective eta and reversed square epsilon. Hypate meson: inverted delta and reversed tau lying on its side. Parhypate meson: reversed gamma and upright gamma. Meson diatonos: chi and right half-mu. Mese: tau and reversed digamma. Trite synemmenon: sigma and sigma. Synemmenon diatonos: omicron-upsilon and kappa. Nete synemmenon: kappa and drawn-down half-delta. Paramese: pi and reversed sigma. Trite diezeugmenon: omicron-upsilon and kappa. Diezeugmenon diatonos: kappa and drawn-down half-delta. Nete diezeugmenon: eta and reversed lambda lying on its side. Trite hyperbolaion: zeta and pi lying on its side. Paranete hyperbolaion diatonos: alpha and grave accent. Nete hyperbolaion: distorted chi and left half-alpha tilted downward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.6.head",
+   "text": "6. Signs of the Hyperaeolian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.6.1",
+   "text": "Proslambanomenos: chi and right half-mu. Hypate hypaton: tau and reversed digamma. Parhypate hypaton: sigma and sigma. Hypaton diatonos: omicron-upsilon and kappa. Hypate meson: kappa and drawn-down half-delta. Parhypate meson: iota and [lambda] lying on its side. Meson diatonos: zeta and pi lying on its side. Mese: alpha and grave accent. Trite synemmenon: square omega lying on its back, and zeta. Synemmenon diatonos: phi lying on its side and carelessly written, drawn-down eta. Nete synemmenon: omicron-upsilon and kappa, at the higher pitch. Paramese: distorted chi and left half-alpha tilted downward. Trite diezeugmenon: phi lying on its side and carelessly written, drawn-down eta. Diezeugmenon diatonos: omicron-upsilon and kappa, at the higher pitch. Nete diezeugmenon: kappa and drawn-down half-delta, at the higher pitch. Trite hyperbolaion: iota and lambda lying on its side, at the higher pitch. Hyperbolaion diatonos: zeta and pi lying on its side, at the higher pitch. Nete hyperbolaion: alpha and grave accent, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.7.head",
+   "text": "7. Signs of the Phrygian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.7.1",
+   "text": "Proslambanomenos: iota lying on its side and square epsilon. Hypate hypaton: defective zeta and tau lying on its side."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.7.2",
+   "text": "Parhypate hypaton: digamma and inverted tau. Hypaton diatonos: omega and left half-mu. Hypate meson: phi and digamma. Parhypate meson: upsilon and inverted digamma. Meson diatonos: pi and reversed sigma. Mese: mu and drawn-down pi. Trite synemmenon: lambda and half-delta lying on its back. Synemmenon diatonos: eta and reversed lambda lying on its side. Nete synemmenon: gamma and nu. Paramese: iota and lambda lying on its side. Trite diezeugmenon: theta and inverted lambda. Diezeugmenon diatonos: gamma and [nu]. Nete diezeugmenon: square omega lying on its back, and zeta. Trite hyperbolaion: psi tilted downward and right half-alpha tilted downward. Hyperbolaion diatonos: inverted tau and right half-alpha tilted upward. Nete hyperbolaion: mu and drawn-down pi, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.8.head",
+   "text": "8. Signs of the Hypophrygian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.8.1",
+   "text": "Proslambanomenos: reversed double sigma and double sigma. Hypate hypaton: omicron-upsilon with a line below, and eta. Parhypate hypaton: inverted double xi and inverted double pi. Hypaton diatonos: iota lying on its side and square epsilon. Hypate meson: defective zeta and tau lying on its side. Parhypate meson: digamma and inverted tau. Meson diatonos: omega and left half-mu. Mese: phi and digamma. Trite synemmenon: upsilon and inverted digamma. Synemmenon diatonos: pi and reversed sigma. Nete synemmenon: mu and drawn-down pi. Paramese: sigma and sigma. Trite diezeugmenon: rho and inverted sigma. Diezeugmenon diatonos: mu and drawn-down pi. Nete diezeugmenon: iota and lambda lying on its side. Trite hyperbolaion: theta and inverted lambda. Hyperbolaion diatonos: gamma and nu. Nete hyperbolaion: square omega and zeta."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.9.head",
+   "text": "9. Signs of the Hyperphrygian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.9.1",
+   "text": "Proslambanomenos: omega and left half-mu. Hypate hypaton: phi and digamma. Parhypate hypaton: upsilon and inverted digamma. Hypaton diatonos: pi and reversed sigma. Hypate meson: mu and drawn-down pi. Parhypate meson: lambda and half-delta lying on its back. Meson diatonos: eta and lambda lying on its side reversed. Mese: gamma and nu. Trite synemmenon: beta and acute accent. Synemmenon diatonos: corrupted chi and left half-alpha pointing downward. Nete synemmenon: inverted tau and right half-alpha pointing upward. Paramese: square omega lying on its back and zeta. Trite diezeugmenon: psi pointing downward and right half-alpha pointing downward. Diezeugmenon diatonos: inverted tau and left half-alpha pointing upward. Nete diezeugmenon: mu and drawn-down pi, at the higher pitch. Trite hyperbolaion: lambda and half-delta lying on its back, at the higher pitch. Hyperbolaion diatonos: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: gamma and nu, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.10.head",
+   "text": "10. Signs of the Iastian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.10.1",
+   "text": "Proslambanomenos: inverted mu and defective eta. Hypate hypaton: reversed defective eta and reversed square epsilon. Parhypate hypaton: defective zeta and tau lying on its side. Hypaton diatonos: reversed gamma and upright gamma. Hypate meson: chi and right half-mu. Parhypate meson: phi and digamma. Meson diatonos: sigma and sigma. Mese: omicron-upsilon and kappa. Trite synemmenon: xi and inverted kappa. Synemmenon diatonos: iota and lambda lying on its side. Nete synemmenon: zeta and pi lying on its side. Paramese: kappa and drawn-down half-delta. Trite diezeugmenon: iota and lambda lying on its side. Diezeugmenon diatonos: zeta and pi lying on its side. Nete diezeugmenon: alpha and grave accent. Trite hyperbolaion: square omega lying on its back and zeta. Hyperbolaion diatonos: phi lying on its side and drawn-down carelessly written eta. Nete hyperbolaion: omicron-upsilon and kappa, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.11.head",
+   "text": "11. Signs of the Hypoiastian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.11.1",
+   "text": "Proslambanomenos: tau lying on its side reversed and upright tau. Hypate hypaton: inverted pi and reversed double sigma. Parhypate hypaton: omicron-upsilon with a line below, and eta. Hypaton diatonos: inverted mu and defective eta. Hypate meson: reversed defective eta and reversed square epsilon. Parhypate meson: defective zeta and tau lying on its side. Meson diatonos: reversed gamma and upright gamma. Mese: chi and right half-mu. Trite synemmenon: phi and digamma. Synemmenon diatonos: sigma and sigma. Nete synemmenon: omicron-upsilon and kappa. Paramese: tau and reversed digamma. Trite diezeugmenon: sigma and sigma. Diezeugmenon diatonos: omicron-upsilon and kappa. Nete diezeugmenon: kappa and drawn-down half-delta. Trite hyperbolaion: iota and lambda lying on its side. Hyperbolaion diatonos: zeta and pi lying on its side. Nete hyperbolaion: alpha and grave accent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.12.head",
+   "text": "12. Signs of the Hyperiastian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.12.1",
+   "text": "Proslambanomenos: reversed gamma and upright gamma. Hypate hypaton: chi and right half-mu. Parhypate hypaton: phi and digamma. Hypaton diatonos: sigma and sigma. Hypate meson: omicron-upsilon and kappa. Parhypate meson: xi and inverted kappa. Meson diatonos: iota and lambda lying on its side. Mese: zeta and pi lying on its side. Trite synemmenon: square epsilon and inverted pi. Synemmenon diatonos: square [omega] lying on its back and zeta. Nete synemmenon: phi lying on its side and drawn-down carelessly written eta. Paramese: alpha and grave accent. Trite diezeugmenon: square omega lying on its back and zeta. Diezeugmenon diatonos: phi lying on its side and drawn-down carelessly written eta. Nete diezeugmenon: omicron-upsilon and kappa, at the higher pitch. Trite hyperbolaion: xi and inverted kappa, at the higher pitch. Hyperbolaion diatonos: iota and lambda lying on its side, at the higher pitch. Nete hyperbolaion: zeta and pi lying on its side, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.head",
+   "text": "13. Signs of the Dorian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.1",
+   "text": "Proslambanomenos: antinu and double pi."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.2",
+   "text": "Hypate hypaton: iota lying on its side and square epsilon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.3",
+   "text": "Parhypate hypaton: half-theta pointing downward and square epsilon lying on its back."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.4",
+   "text": "Hypaton diatonos: inverted delta and tau lying on its side reversed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.5",
+   "text": "Hypate meson: omega and left half-mu."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.6",
+   "text": "Parhypate meson: psi and half-mu lying on its back."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.7",
+   "text": "Meson diatonos: tau and reversed digamma."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.8",
+   "text": "Mese: pi and reversed sigma."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.9",
+   "text": "Trite synemmenon: omicron-upsilon and kappa."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.10",
+   "text": "Synemmenon diatonos: kappa and drawn-down half-delta."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.11",
+   "text": "Nete synemmenon: eta and lambda lying on its side reversed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.12",
+   "text": "Paramese: mu and drawn-down pi."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.13",
+   "text": "Trite diezeugmenon: lambda and half-delta lying on its back."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.14",
+   "text": "Diezeugmenon diatonos: eta and lambda lying on its side reversed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.15",
+   "text": "Nete diezeugmenon: gamma and nu."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.16",
+   "text": "Hyperbolaion diatonos: corrupted chi and left half-alpha pointing downward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.13.17",
+   "text": "Nete hyperbolaion: inverted tau and right half-alpha pointing upward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.14.head",
+   "text": "14. Signs of the Hypodorian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.14.1",
+   "text": "Proslambanomenos: half-phi lying on its side reversed and half-phi lying on its side. Hypate hypaton: reversed double sigma and double sigma. Parhypate hypaton: inverted rho and inverted double sigma. Hypaton diatonos: antinu and double pi. Hypate meson: iota lying on its side and square epsilon. Parhypate meson: half-theta pointing downward and inverted square epsilon. Meson diatonos: inverted delta and tau lying on its side reversed. Mese: omega and left half-mu. Trite synemmenon: psi and half-mu lying on its back. Synemmenon diatonos: tau and reversed digamma. Nete synemmenon: pi and reversed sigma. Paramese: phi and digamma. Trite diezeugmenon: upsilon and inverted digamma. Diezeugmenon diatonos: pi and reversed sigma. Nete diezeugmenon: mu and drawn-down pi. Trite hyperbolaion: lambda and half-delta lying on its back. Hyperbolaion diatonos: eta and lambda lying on its side reversed. Nete hyperbolaion: gamma and nu."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.15.head",
+   "text": "15. Signs of the Hyperdorian mode in the diatonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.2.15.1",
+   "text": "Proslambanomenos: inverted delta and tau lying on its side reversed. Hypate hypaton: omega and left half-mu. Parhypate hypaton: psi and half-mu lying on its back. Hypaton diatonos: tau and reversed digamma. Hypate meson: pi and reversed sigma. Parhypate meson: omicron-upsilon and kappa. Meson diatonos: kappa and drawn-down half-delta. Mese: eta and lambda lying on its side reversed. Trite synemmenon: zeta and pi lying on its side. Synemmenon diatonos: alpha and grave accent. Nete synemmenon: corrupted chi and left half-alpha pointing downward. Paramese: gamma and nu. Trite diezeugmenon: beta and acute accent. Diezeugmenon diatonos: corrupted chi and left half-alpha pointing downward. Nete diezeugmenon: inverted tau and right half-alpha pointing upward. Trite hyperbolaion: omicron-upsilon and kappa, at the higher pitch. Hyperbolaion diatonos: kappa and drawn-down half-delta, at the higher pitch. Nete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.1.head",
+   "text": "1. Signs of the Lydian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.1.1",
+   "text": "Proslambanomenos: defective zeta and tau lying on its side. Hypate hypaton: reversed gamma and upright gamma. Parhypate hypaton: defective beta and inverted gamma. Chromatic lichanos hypaton: inverted alpha with a line and inverted digamma with a line. Hypate meson: sigma and sigma. Parhypate meson: rho and inverted sigma. Chromatic lichanos meson: pi with a line and reversed sigma with a line through the middle. Mese: iota and lambda lying on its side. Trite synemmenon: theta and inverted lambda. Chromatic paranete synemmenon: eta with a line and lambda lying on its side reversed with a line through the middle. Nete synemmenon: square omega lying on its back and zeta. Paramese: zeta and pi lying on its side. Trite diezeugmenon: square epsilon and inverted pi. Chromatic paranete diezeugmenon: delta, at the higher pitch, and pi lying on its side reversed with a line inside. Nete diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Trite hyperbolaion: upsilon pointing downward and left half-alpha pointing upward. Chromatic paranete hyperbolaion: inverted tau and right half-alpha pointing upward, with lines, at the higher pitch. Nete hyperbolaion: iota and lambda lying on its side, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.2.head",
+   "text": "2. Signs of the Hypolydian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.2.1",
+   "text": "Proslambanomenos: omicron-upsilon with a line below, and eta. Hypate hypaton: inverted mu and defective eta. Parhypate hypaton: inverted lambda and defective eta lying on its back. Chromatic lichanos hypaton: inverted kappa and reversed defective eta. Hypate meson: reversed gamma and upright gamma. Parhypate meson: defective beta and inverted gamma. Chromatic lichanos meson: inverted alpha and inverted digamma. Mese: sigma and sigma. Trite synemmenon: rho and inverted sigma. Chromatic paranete synemmenon: pi and reversed sigma. Nete synemmenon: iota and lambda lying on its side. Paramese: omicron-upsilon and kappa. Trite diezeugmenon: xi and inverted kappa. Chromatic paranete diezeugmenon: nu and inverted kappa. Nete diezeugmenon: zeta and pi lying on its side. Trite hyperbolaion: square epsilon and inverted pi. Chromatic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: phi lying on its side and drawn-down carelessly written eta."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.3.head",
+   "text": "3. Signs of the Hyperlydian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.3.1",
+   "text": "Proslambanomenos: phi and digamma. Hypate hypaton: sigma and sigma. Parhypate hypaton: rho and inverted sigma. Chromatic lichanos hypaton: pi and reversed sigma. Hypate meson: iota and lambda lying on its side. Parhypate meson: theta and inverted lambda. Chromatic lichanos meson: eta and lambda lying on its side reversed. Mese: square omega lying on its back and zeta. Trite synemmenon: psi pointing downward and right half-alpha pointing downward. Chromatic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: mu and drawn-down pi, at the higher pitch. Paramese: phi lying on its side and drawn-down carelessly written eta. Trite diezeugmenon: upsilon pointing downward and left half-alpha pointing upward. Chromatic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: iota and lambda lying on its side, at the higher pitch. Trite hyperbolaion: theta and inverted lambda, at the higher pitch. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: square omega lying on its back and zeta, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.4.head",
+   "text": "4. Signs of the Aeolian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.4.1",
+   "text": "Proslambanomenos: defective eta reversed and square epsilon reversed. Hypate hypaton: inverted delta and tau lying on its side reversed. Parhypate hypaton: reversed gamma and upright gamma. Chromatic lichanos hypaton: inverted alpha and inverted digamma. Hypate meson: tau and reversed digamma. Parhypate meson: sigma and sigma. Chromatic lichanos meson: pi and reversed sigma. Mese: kappa and drawn-down half-delta. Trite synemmenon: iota and lambda lying on its side. Chromatic paranete synemmenon: eta and lambda lying on its side reversed. Nete synemmenon: alpha and grave accent. Paramese: eta and lambda lying on its side reversed. Trite diezeugmenon: zeta and pi lying on its side. Chromatic paranete diezeugmenon: delta and pi lying on its side reversed. Nete diezeugmenon: corrupted chi and left half-alpha pointing downward. Trite hyperbolaion: phi lying on its side and drawn-down carelessly written eta. Chromatic paranete hyperbolaion: inverted tau and right half-alpha pointing upward. Nete hyperbolaion: kappa and drawn-down half-delta, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.5.head",
+   "text": "5. Signs of the Hypoaeolian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.5.1",
+   "text": "Proslambanomenos: inverted pi and double sigma reversed. Hypate hypaton: antinu and double pi. Parhypate hypaton: inverted mu and defective eta. Chromatic lichanos hypaton: inverted kappa and defective eta reversed. Hypate meson: inverted delta and tau lying on its side reversed. Parhypate meson: reversed gamma and upright gamma. Chromatic lichanos meson: inverted alpha and inverted digamma. Mese: tau and reversed digamma. Trite synemmenon: sigma and sigma. Chromatic paranete synemmenon: pi and reversed sigma. Nete synemmenon: kappa and drawn-down half-delta. Paramese: pi and reversed sigma. Trite diezeugmenon: omicron and kappa. Chromatic paranete diezeugmenon: nu and reversed kappa. Nete diezeugmenon: eta and lambda lying on its side reversed. Trite hyperbolaion: zeta and pi lying on its side. Chromatic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: corrupted chi and left half-alpha pointing downward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.6.head",
+   "text": "6. Signs of the Hyperaeolian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.6.1",
+   "text": "Proslambanomenos: chi and right half-mu. Hypate hypaton: tau and reversed digamma. Parhypate hypaton: sigma and sigma. Chromatic lichanos hypaton: pi and reversed sigma. Hypate meson: kappa and drawn-down half-delta. Parhypate meson: iota and lambda lying on its side. Chromatic lichanos meson: eta and lambda lying on its side reversed. Mese: alpha and grave accent. Trite synemmenon: square omega lying on its back and zeta. Chromatic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: omicron and kappa, at the higher pitch. Paramese: corrupted chi and left half-alpha pointing downward. Trite diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Chromatic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: kappa and drawn-down half-delta, at the higher pitch. Trite hyperbolaion: iota and lambda lying on its side, at the higher pitch. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: alpha and grave accent, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.7.head",
+   "text": "7. Signs of the Phrygian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.7.1",
+   "text": "Proslambanomenos: iota lying on its side and square epsilon. Hypate hypaton: defective zeta and tau lying on its side. Parhypate hypaton: digamma and inverted tau. Chromatic lichanos hypaton: inverted delta and tau lying on its side reversed. Hypate meson: phi and digamma. Parhypate meson: upsilon and inverted digamma. Chromatic lichanos meson: tau and reversed digamma. Mese: mu and drawn-down pi. Trite synemmenon: lambda and half-delta lying on its side. Chromatic paranete synemmenon: kappa and drawn-down half-delta. Nete synemmenon: gamma and nu. Paramese: iota and lambda lying on its side. Trite diezeugmenon: theta and inverted lambda. Chromatic paranete diezeugmenon: eta and lambda lying on its side reversed. Nete diezeugmenon: square omega lying on its back and zeta. Trite hyperbolaion: psi pointing downward and right half-alpha pointing downward. Chromatic paranete hyperbolaion: corrupted chi and left half-alpha pointing downward. Nete hyperbolaion: mu and drawn-down pi, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.8.head",
+   "text": "8. Signs of the Hypophrygian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.8.1",
+   "text": "Proslambanomenos: double sigma reversed and double sigma. Hypate hypaton: omicron with a line below and eta. Parhypate hypaton: double xi inverted and double pi inverted. Chromatic lichanos hypaton: antinu and double pi. Hypate meson: defective zeta and tau lying on its side. Parhypate meson: digamma and inverted tau. Chromatic lichanos meson: inverted delta and tau lying on its side reversed. Mese: phi and digamma. Trite synemmenon: upsilon and inverted digamma. Chromatic paranete synemmenon: tau and reversed digamma. Nete synemmenon: mu and drawn-down pi. Paramese: sigma and sigma. Trite diezeugmenon: rho and inverted sigma. Chromatic paranete diezeugmenon: pi and reversed sigma. Nete diezeugmenon: iota and lambda lying on its side. Trite hyperbolaion: theta and inverted lambda. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed. Nete hyperbolaion: square omega lying on its back and zeta."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.9.head",
+   "text": "9. Signs of the Hyperphrygian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.9.1",
+   "text": "Proslambanomenos: omega and left half-mu. Hypate hypaton: phi and digamma. Parhypate hypaton: upsilon and inverted digamma. Chromatic lichanos hypaton: tau and reversed digamma. Hypate meson: mu and drawn-down pi. Parhypate meson: lambda and half-delta lying on its side. Chromatic lichanos meson: kappa and drawn-down half-delta. Mese: gamma and nu. Trite synemmenon: beta and acute accent. Chromatic paranete synemmenon: alpha and grave accent. Nete synemmenon: inverted tau and right half-alpha pointing upward. Paramese: square omega lying on its back and zeta. Trite diezeugmenon: psi pointing downward and right half-alpha pointing downward. Chromatic paranete diezeugmenon: corrupted chi and left half-alpha pointing downward. Nete diezeugmenon: mu and drawn-down pi, at the higher pitch. Trite hyperbolaion: lambda and half-delta lying on its side, at the higher pitch. Chromatic paranete hyperbolaion: kappa and drawn-down half-delta, at the higher pitch. Nete hyperbolaion: gamma and nu, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.10.head",
+   "text": "10. Signs of the Iastian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.10.1",
+   "text": "Proslambanomenos: inverted mu and defective eta. Hypate hypaton: defective eta reversed and square epsilon reversed. Parhypate hypaton: defective zeta and tau lying on its side. Chromatic lichanos hypaton: inverted delta and tau lying on its side reversed. Hypate meson: chi and right half-mu. Parhypate meson: phi and digamma. Chromatic lichanos meson: tau and reversed digamma. Mese: omicron and kappa. Trite synemmenon: xi and inverted kappa. Chromatic paranete synemmenon: nu and reversed kappa. Nete synemmenon: zeta and pi lying on its side. Paramese: kappa and drawn-down half-delta. Trite diezeugmenon: iota and lambda lying on its side. Chromatic paranete diezeugmenon: eta and lambda lying on its side reversed. Nete diezeugmenon: alpha and grave accent. Trite hyperbolaion: square omega lying on its back and zeta. Chromatic paranete hyperbolaion: corrupted chi and left half-alpha pointing downward. Nete hyperbolaion: omicron and kappa, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.11.head",
+   "text": "11. Signs of the Hypoiastian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.11.1",
+   "text": "Proslambanomenos: tau lying on its side reversed and upright tau. Hypate hypaton: inverted pi and double sigma reversed. Parhypate hypaton: omicron with a line below and eta. Chromatic lichanos hypaton: antinu and double pi. Hypate meson: defective eta reversed and square epsilon reversed. Parhypate meson: defective zeta and tau lying on its side. Chromatic lichanos meson: inverted delta and tau lying on its side reversed. Mese: chi and right half-mu. Trite synemmenon: phi and digamma. Chromatic paranete synemmenon: tau and reversed digamma. Nete synemmenon: omicron and kappa. Paramese: tau and reversed digamma. Trite diezeugmenon: sigma and sigma. Chromatic paranete diezeugmenon: pi and reversed sigma. Nete diezeugmenon: kappa and drawn-down half-delta. Trite hyperbolaion: iota and lambda lying on its side. Chromatic paranete hyperbolaion: eta and lambda lying on its side reversed. Nete hyperbolaion: alpha and grave accent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.12.head",
+   "text": "12. Signs of the Hyperiastian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.12.1",
+   "text": "Proslambanomenos: reversed gamma and upright gamma. Hypate hypaton: chi and right half-mu. Parhypate hypaton: phi and digamma. Chromatic lichanos hypaton: tau and reversed digamma. Hypate meson: omicron and kappa. Parhypate meson: xi and inverted kappa. Chromatic lichanos meson: nu and reversed kappa. Mese: zeta and pi lying on its side. Trite synemmenon: square epsilon and inverted pi. Chromatic paranete synemmenon: delta and pi lying on its side reversed. Nete synemmenon: phi lying on its side and drawn-down carelessly written eta. Paramese: alpha and grave accent. Trite diezeugmenon: square omega lying on its back and zeta. Chromatic paranete diezeugmenon: corrupted chi and left half-alpha pointing downward. Nete diezeugmenon: omicron and kappa, at the higher pitch. Trite hyperbolaion: xi and inverted kappa, at the higher pitch. Chromatic paranete hyperbolaion: nu and reversed kappa, at the higher pitch. Nete hyperbolaion: zeta and pi lying on its side, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.13.head",
+   "text": "13. Signs of the Dorian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.13.1",
+   "text": "Proslambanomenos: antinu and double pi. Hypate hypaton: iota lying on its side and square epsilon. Parhypate hypaton: half-theta pointing downward and inverted square epsilon. Chromatic lichanos hypaton: reversed defective eta and reversed square epsilon. Hypate meson: omega and left half-mu. Parhypate meson: psi and half-mu lying on its back. Chromatic lichanos meson: chi and right half-mu. Mese: pi and reversed sigma. Trite synemmenon: omicron and kappa. Chromatic paranete synemmenon: nu and reversed kappa. Nete synemmenon: eta and lambda lying on its side reversed. Paramese: mu and drawn-down pi. Trite diezeugmenon: lambda and half-delta lying on its side. Chromatic paranete diezeugmenon: kappa and drawn-down half-delta. Nete diezeugmenon: gamma and nu. Trite hyperbolaion: beta and acute accent. Chromatic paranete hyperbolaion: alpha and grave accent. Nete hyperbolaion: inverted tau and right half-alpha pointing upward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.14.head",
+   "text": "14. Signs of the Hypodorian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.14.1",
+   "text": "Proslambanomenos: reversed half-phi lying on its side and half-phi lying on its side. Hypate hypaton: reversed double sigma and double sigma. Parhypate hypaton: inverted rho and inverted double sigma. Chromatic lichanos hypaton: inverted pi and reversed double sigma. Hypate meson: iota lying on its side and square epsilon. Parhypate meson: half-theta pointing downward and inverted square epsilon. Chromatic lichanos meson: reversed defective eta and reversed square epsilon. Mese: omega and left half-mu. Trite synemmenon: psi and half-mu lying on its back. Chromatic paranete synemmenon: chi and right half-mu. Nete synemmenon: pi and reversed sigma. Paramese: phi and digamma. Trite diezeugmenon: upsilon and inverted digamma. Chromatic paranete diezeugmenon: tau and reversed digamma. Nete diezeugmenon: mu and drawn-down pi. Trite hyperbolaion: lambda and half-delta lying on its side. Chromatic paranete hyperbolaion: kappa and drawn-down half-delta. Nete hyperbolaion: gamma and nu."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.15.head",
+   "text": "15. Signs of the Hyperdorian mode in the chromatic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.3.15.1",
+   "text": "Proslambanomenos: inverted delta and tau lying on its side reversed. Hypate hypaton: omega and left half-mu. Parhypate hypaton: psi and half-mu lying on its back. Chromatic lichanos hypaton: chi and right half-mu. Hypate meson: pi and reversed sigma. Parhypate meson: omicron and kappa. Chromatic lichanos meson: nu and reversed kappa. Mese: eta and lambda lying on its side reversed. Trite synemmenon: zeta and pi lying on its side. Chromatic paranete synemmenon: delta and pi lying on its side reversed. Nete synemmenon: corrupted chi and left half-alpha pointing downward. Paramese: gamma and nu. Trite diezeugmenon: beta and acute accent. Chromatic paranete diezeugmenon: alpha and grave accent. Nete diezeugmenon: inverted tau and right half-alpha pointing upward. Trite hyperbolaion: omicron and kappa, at the higher pitch. Chromatic paranete hyperbolaion: nu and reversed kappa, at the higher pitch. Nete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.1.head",
+   "text": "1. Signs of the Lydian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.1.1",
+   "text": "Proslambanomenos: defective zeta and tau lying on its side. Hypate hypaton: reversed gamma and upright gamma. Parhypate hypaton: defective beta and inverted gamma. Enharmonic lichanos hypaton: inverted alpha and inverted digamma. Hypate meson: sigma and sigma. Parhypate meson: rho and inverted sigma. Enharmonic lichanos meson: pi and reversed sigma. Mese: iota and lambda lying on its side. Trite synemmenon: theta and inverted lambda. Enharmonic paranete synemmenon: eta and lambda lying on its side reversed. Nete synemmenon: square omega lying on its back and zeta. Paramese: zeta and pi lying on its side. Trite diezeugmenon: square epsilon and inverted pi. Enharmonic paranete diezeugmenon: delta and pi lying on its side reversed. Nete diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Trite hyperbolaion: upsilon pointing downward and left half-alpha pointing upward. Enharmonic paranete hyperbolaion: inverted tau and right half-alpha pointing upward. Nete hyperbolaion: iota and lambda lying on its side, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.2.head",
+   "text": "2. Signs of the Hypolydian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.2.1",
+   "text": "Proslambanomenos: omicron with a line below and eta. Hypate hypaton: inverted mu and defective eta. Parhypate hypaton: inverted lambda and defective eta lying on its side. Enharmonic lichanos hypaton: inverted kappa and reversed defective eta. Hypate meson: reversed gamma and upright gamma. Parhypate meson: defective beta and inverted gamma. Enharmonic lichanos meson: inverted alpha and inverted digamma. Mese: sigma and sigma. Trite synemmenon: rho and inverted sigma. Enharmonic paranete synemmenon: pi and reversed sigma. Nete synemmenon: iota and lambda lying on its side. Paramese: omicron and kappa. Trite diezeugmenon: xi and inverted kappa. Enharmonic paranete diezeugmenon: nu and reversed kappa. Nete diezeugmenon: zeta and pi lying on its side. Trite hyperbolaion: square epsilon and inverted pi. Enharmonic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: phi lying on its side and drawn-down carelessly written eta."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.3.head",
+   "text": "3. Signs of the Hyperlydian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.3.1",
+   "text": "Proslambanomenos: phi and digamma. Hypate hypaton: sigma and sigma. Parhypate hypaton: rho and inverted sigma. Enharmonic lichanos hypaton: pi and reversed sigma. Hypate meson: iota and lambda lying on its side. Parhypate meson: theta and inverted lambda. Enharmonic lichanos meson: eta and lambda lying on its side reversed. Mese: square omega lying on its back and zeta. Trite synemmenon: psi pointing downward and right half-alpha pointing downward. Enharmonic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: mu and drawn-down pi, at the higher pitch. Paramese: phi lying on its side and drawn-down carelessly written eta. Trite diezeugmenon: upsilon pointing downward and left half-alpha pointing upward. Enharmonic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: iota and lambda lying on its side, at the higher pitch. Trite hyperbolaion: theta and inverted lambda, at the higher pitch. Enharmonic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: square omega lying on its back and zeta, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.4.head",
+   "text": "4. Signs of the Aeolian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.4.1",
+   "text": "Proslambanomenos: reversed defective eta and reversed square epsilon. Hypate hypaton: inverted delta and tau lying on its side reversed. Parhypate hypaton: reversed gamma and upright gamma. Enharmonic lichanos hypaton: inverted alpha and inverted digamma. Hypate meson: tau and reversed digamma. Parhypate meson: sigma and sigma. Enharmonic lichanos meson: pi and reversed sigma. Mese: kappa and drawn-down half-delta. Trite synemmenon: iota and lambda lying on its side. Enharmonic paranete synemmenon: eta and lambda lying on its side reversed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.4.2",
+   "text": "[Editor's note:] The rest of this key and the beginning of the next are missing; a leaf has been lost in the archetype."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.5.head",
+   "text": "5. The Hypoaeolian key."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.5.1",
+   "text": "Enharmonic paranete diezeugmenon: nu and reversed kappa. Nete diezeugmenon: eta and lambda lying on its side reversed. Trite hyperbolaion: zeta and pi lying on its side. Enharmonic paranete hyperbolaion: delta and pi lying on its side reversed. Nete hyperbolaion: corrupted chi and left half-alpha pointing downward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.6.head",
+   "text": "6. Signs of the Hyperaeolian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.6.1",
+   "text": "Proslambanomenos: chi and right half-mu. Hypate hypaton: tau and reversed digamma. Parhypate hypaton: sigma and sigma. Enharmonic lichanos hypaton: pi and reversed sigma. Hypate meson: kappa and drawn-down half-delta. Parhypate meson: iota and lambda lying on its side. Enharmonic lichanos meson: eta and lambda lying on its side reversed. Mese: alpha and grave accent. Trite synemmenon: [square omega] lying on its back and zeta. Enharmonic paranete synemmenon: corrupted chi and left half-alpha pointing downward. Nete synemmenon: omicron and kappa, at the higher pitch. Paramese: corrupted chi and left half-alpha pointing downward. Trite diezeugmenon: phi lying on its side and drawn-down carelessly written eta. Enharmonic paranete diezeugmenon: inverted tau and right half-alpha pointing upward. Nete diezeugmenon: kappa and drawn-down half-delta, at the higher pitch. Trite hyperbolaion: iota and lambda lying on its side, at the higher pitch. Enharmonic paranete hyperbolaion: eta and lambda lying on its side reversed, at the higher pitch. Nete hyperbolaion: alpha and grave accent, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.7.head",
+   "text": "7. Signs of the Phrygian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.7.1",
+   "text": "Proslambanomenos: iota lying on its side and square epsilon. Hypate hypaton: defective zeta and tau lying on its side. Parhypate hypaton: digamma and inverted tau. Enharmonic lichanos hypaton: inverted delta and tau lying on its side reversed. Hypate meson: phi and digamma. Parhypate meson: upsilon and inverted digamma. Enharmonic lichanos meson: tau and reversed digamma. Mese: mu and drawn-down pi. Trite synemmenon: lambda and half-delta lying on its side. Enharmonic paranete synemmenon: kappa and drawn-down half-delta. Nete synemmenon: gamma and nu. Paramese: iota and lambda lying on its side. Trite diezeugmenon: theta and inverted lambda. Enharmonic paranete diezeugmenon: eta and lambda lying on its side reversed. Nete diezeugmenon: square omega lying on its back and zeta. Trite hyperbolaion: psi pointing downward and right half-alpha pointing downward. Enharmonic paranete hyperbolaion: corrupted chi and left half-alpha pointing downward. Nete hyperbolaion: mu and drawn-down pi, at the higher pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.8.head",
+   "text": "8. Signs of the Hypophrygian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.8.1",
+   "text": "Proslambanomenos: reversed double sigma and double sigma. Hypate hypaton: omicron with a line below and eta. Parhypate hypaton: double xi lying on its side and inverted double pi. Enharmonic lichanos hypaton: antinu and double pi. Hypate meson: defective zeta and tau lying on its side. Parhypate meson: digamma and inverted tau. Enharmonic lichanos meson: inverted delta and tau lying on its side reversed. Mese: phi and digamma. Trite synemmenon: upsilon and inverted digamma. Enharmonic paranete synemmenon: tau and reversed digamma. Nete synemmenon: mu and drawn-down pi. Paramese: sigma and sigma. Trite diezeugmenon: rho and inverted sigma. Enharmonic paranete diezeugmenon: pi and reversed sigma. Nete diezeugmenon: iota and lambda lying on its side. Trite hyperbolaion: theta and inverted lambda. Enharmonic paranete hyperbolaion: eta and lambda lying on its side reversed. Nete hyperbolaion: square omega lying on its back and zeta."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.9.head",
+   "text": "9. Signs of the Hyperphrygian mode in the enharmonic genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.9.1",
+   "text": "Proslambanomenos: omega and left half-mu. Hypate hypaton: phi and digamma. Parhypate hypaton: upsilon and inverted digamma. Enharmonic lichanos hypaton: tau and reversed digamma. Hypate meson: mu and drawn-down pi. Parhypate meson: lambda and half-delta lying on its side"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.9.2",
+   "text": "The rest is missing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2135.tlg001.1st1K-grc1.4.9.3",
+   "text": "Keys of Alypius: diatonic, chromatic, enharmonic. Lydian p. 368, p. 384, p. 399; Aeolian p. 372, p. 387, p. 402; Phrygian p. 375, p. 390, p. 404; Ionian p. 378, p. 393; Dorian p. 381, p. 396."
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg1487.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg1487.tlg001.ai-claude",
+ "source_edition": "tlg1487.tlg001.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Περὶ καταρχῶν: AI translation (Claude)",
+  "author": "Maximus, Astrologus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg1487.tlg001.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.praef.1": "Despite mode 'prose', the text is hexameter verse, printed in long passages. Sections I (after the first line), II and III are lost or not preserved in this edition; lacunae marked * * * are kept. In 5.3 'ἐφʼ Τάσιν' is read as ἐφ' Ὑάσιν (Hyades); in 5.12 'οὺν' as σύν; in 5.6 'μαφίδιοι' as μαψίδιοι. Arsippe in 5.3 is obscure. Phaethon here denotes Jupiter, Kronion Saturn, Eosphorus Venus, as usual in astrological verse.",
+  "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.5": "6.14: 'Zeus' here is the planet Jupiter. 7.6: οὖ read as αὖ ('again'). 7.10: ἀλέῃ ('if one avoids') is awkward; sense uncertain. 8.5: ἄίσει read as ἄλσει ('grove'). 8.11: ἐν ξείνῃ taken as 'in a foreign [land]'.",
+  "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.12": "8.13: φίφεϊ read as ξίφεϊ; the edition marks a lacuna after δειρήν, so the sentence is incomplete. 8.15: προσσοτέρω read as προσωτέρω. 8.16: the text joins Phaenon and Pyroeis without a conjunction; perhaps 'or' is meant. 8.17: Euphemus, Argonaut son of Poseidon and Europa (daughter of Tityus), who ran on the sea; Iphiclus, the runner over corn-ears. 8.18: Ladas and Phayllus, famous runners. 10.1: 'the Methymnaean' is a cult title of Dionysus. 10.4: the sons of the Aetolian woman (Leda) in Therapnaean stars = Gemini. 10.7: καρίου read as Ἰκαρίου; 'tops of the oak' (δρυὸς ἄκρα) is obscure, perhaps meaning fruit-trees generally. 10.10: 'bull-faced' (ταυρῶπις) refers to the horned Moon.",
+  "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.11.4": "12.10: the text has two lacunae (marked * * *), so the sense of the passage is uncertain; the closing statement that the benefics favour thieves follows the text as transmitted. 12.2: 'up to the tenth' presumably means the first ten degrees (a decan) of Taurus. 12.4 'ἁλιώσεται' taken as 'will be lost'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.praef.1",
+   "text": "Come, Pimplean maiden, Muse, tell me of the Moon who walks the air: how she signals each thing to men as she travels her crooked road."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.1.head",
+   "text": "I. On birth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.1.1",
+   "text": "If divine Selene holds the son of Cronus [Saturn] with her at a birth, hand him over to holy Phaethon [Jupiter] * * *"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.2.head",
+   "text": "II. On acquiring slaves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.3.head",
+   "text": "III. On sailing and trade."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.head",
+   "text": "IV. On travel."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.1",
+   "text": "If [the Moon] travels through the middle degree of the Nemean [Lion] on the second day, the road will be gentler by day, but by night she wears [travellers] out endlessly in the divine darkness, and their labours at that time will be in vain for mortals in a foreign land. So be on your guard, lest the swift wheels of the maiden daughter of Theia escape your notice, rolling towards a deadly onset in the radiance of the beast."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.2",
+   "text": "If she shines with conspicuous rays on the maiden Astraea [Virgo], you will stay long in a foreign land, but you will see your home and friends again unharmed. If she shines in the autumn eyes of the Claws [Libra], which bear the balance for the sun, then for business and for just undertakings she brings neither any great joy nor any harm; but if a crafty man prepares a journey at that time for crooked and unpleasing deeds, he will meet with retributive justice."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.3",
+   "text": "If the Titaness is among the airy stars of the heavenly Scorpion, you would carry off a good profit, having seen Selene in this sign. And if you long to return home, you would wisely take a secret road; and if all-divine Selene shines in this sign, you would swiftly achieve a gainful and glorious profit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.4",
+   "text": "If the Titaness shines with bright gleams upon the shining star of the nimble Archer, and you wish at that time to go to a foreign land, you would complete a long path still further on, lingering, and you will be away a long time; but gladly, having completed the very long circuits of many suns, you will see your companions, your possessions and your splendid home. And return to your fatherland when you have seen the wide-eyed Moon running together with the Archer; for then you will have every joy on seeing your father's ground."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.5",
+   "text": "Do not think of travel when you have seen the light of the Moon going among the stars of Capricorn; for your journey will be long and your roads fruitless, and you would be held in dejection. But for one going up to his fatherland, the high-horned Moon, being with Capricorn, signals a gentle and harmless homecoming; and do not put these things out of your mind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.6",
+   "text": "Be on your guard on the first day of Aquarius; but if she brings the second day, it would be gentle and would bring a harmless and profitable business."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.7",
+   "text": "In the spring Fishes [it is good] to go on campaign and to war; and she would bring profit to fishermen, and also to all the men who go through the wooded thickets and busy themselves with swift hunting."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.4.8",
+   "text": "You must also look carefully at the other stars, whether they view the bright gleam of the horned bull-faced [Moon] travelling a square path, or hold the Moon's gleam in a three-sided [aspect], or bear [rays] in opposition to the shining light of the Moon. For if the evil-doers stretch out their rays, fear wandering on the road; but if you see Selene moving in measure with the good, steady figures, go boldly to the fine haunts of a foreign city, and your road would be free of fear."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.head",
+   "text": "V. On marriage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.1",
+   "text": "If you desire to enjoy delightful marriage and wish to bring a kindly bedfellow into your chamber, look at the horned [Moon] of winding course. If she is in the Archer itself, or the Fishes of the watery paths, or shines among the stars of Aquarius, you will accomplish a prosperous, lasting marriage, bringing no outrage or grievous abuse to the house, nor the baneful quarrels which swiftly make even a sensible wife hateful to her husband, though he loves her; she will be gentle of speech, prudent, skilled in fine work, whom a man, giving splendid bride-gifts on these days, brings into his house as wedded queen, if he hates solitude and the unwed life."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.2",
+   "text": "But if the night-shining [Moon] occupies the stars of the famous Ram, or ranges through the fine-horned Bull, do not, I pray, think of rich weddings; for shining Selene of the famous steeds will then bring both short-blooming affection and hasty instability, and through hatred of the lovely and pure bed she will bring about a shared mind to leave the marriage-bed and forget the husband. So I bid you take heed, whenever you see the gold-fillet Moon reddening with gleam in the path of the Ram that turns back."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.3",
+   "text": "And if she travels the same road as the daughters of Atlas [the Pleiades], or appears upon the raging Hyades, which are carried along the fine-horned bellowing Sidonian Bull, and you prepare for your house a dainty bright-eyed bride laden with bride-gifts, you would bring joy to cruel neighbours, holding a miserable bed in common with strangers. For a woman married on these days would not be content with one man's bed, not even if she made ready the praiseworthy mind of the daughter of Icarius, or of Evadne daughter of Capaneus, or of glorious Arsippe, or of Laodamia herself, who always for her husband preparing * * * * * * * * For the gold-haired daughter of Theia, standing upon the Bull, scatters all the fine characters of women."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.4",
+   "text": "If, moving upon the Therapnaean Twins, she brings the second day, be mindful of marriage; for you would bring into your halls a wife who preserves the house."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.5",
+   "text": "Let her not be in the fiery Crab; for then the wife would quickly flee the halls, hating her husband, speaking endless abuse and puffing out wild words."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.6",
+   "text": "If the maiden daughter of Theia should be in the eyes of the Nemean Lion, bearing a very bright gleam, a man would find an arrogant and ill-tempered wife, and she would delight in a stubborn mind. Nor would her husband have her obedient, either in words or in deeds, but she would provoke him all day long with reproachful speech and strike him with blows; vain would words and empty deeds be for her. Often she will also maltreat her husband with her hands, seizing his hair, or setting baneful palms upon his face, or tearing his tunics."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.7",
+   "text": "But if the divine goddess, daughter of Hyperion, shines among the ears of grain of the fair-faced maiden Astraea, prepare a widow for yourself as partner at that time, and avoid a maiden, since both she and her husband will be angry all their days over a toilsome life."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.8",
+   "text": "If she shines among the stars of the Claws, it is unseemly to bring a wedded wife to one's house, but a bought woman would be much dearer, when she is a concubine; for so the star, under baneful necessity, formerly brought an unseemly bed before the laws of marriage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.9",
+   "text": "If the all-divine [Moon] is in the hail-bringing, painful Scorpion itself, then marry a maiden on the first day, and she would be gentle in mind, sound-minded, trusting in kindly thoughts; but if [the Moon] heads to the second or third day, she would even mingle with toil-worn slaves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.10",
+   "text": "If the Moon approaches famous Capricorn, she brings griefs and baneful pains to a first-married man; but if a man takes a second bed, it will be better: she will grant him a widow as an all-delightful wife."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.11",
+   "text": "Do not bring a bedfellow into your halls at the conjunctions of Selene, nor at the full mid-month moon; for marriage would not be beneficial on these days."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.5.12",
+   "text": "Look whether she circles with the good stars, either famous Phaethon or gleaming Eosphorus [Venus], or the glorious son of fair-robed Maia [Mercury]; for she will bring great renown to life and good cheer to character, and will give gentleness and beneficent grace."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.head",
+   "text": "VI. On diseases."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.1",
+   "text": "Now come, Libethrian maiden, Muse, tell me what remedies divine Selene brings to diseases, and what baneful things happen as she runs in the twelve signs, in which is the end of much-suffering life."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.2",
+   "text": "If all-divine Selene, all-shining to mortals, turns among the spring stars of the Ram, when someone, afflicted by a painful disease, has grievous anxiety, do not expect any harm; for Paean [the Healer] will be favourable to men, if you are [ill], when the clear-seeing horned Selene of famous steeds is borne through this sign, except for grievous sharp pains which hold the head of a wretched mortal; for these do not find swift relief. And if a woman is weighed down labouring in birth-pangs, she will shake from her limbs a half-formed, inglorious child before it sees the light of the sun with its own eyes. On the first day she will suffer under a very unseemly sickness, and she will be near a bitter destruction; but if [the Moon] already has her light on the Ram for the second [day], she is saved from her toil, escaping very painful ruin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.3",
+   "text": "If the horned [Moon] appears passing somewhere through the fine-horned Ox, then I will say to you with great confidence that she prepares a fluttering heart for a man, and a hard-to-bear, unbalanced impulse of the wits of a wandering mind, a disease that brings no death, but has a swift and welcome cure. But if you have some deadly pain within your neck, where the throat pipes surround a mortal, you must take heed of the deadly burden of quinsy. On this first day let a woman in childbed not miscarry, incurring a chilling evil fate; but on the second day the pain is lighter, if a fruitless birth darts from her limbs."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.4",
+   "text": "Let not Selene, leaping upon the Twins, bring pain of the loins, nor evil to the shoulders, nor paralysis to the limbs; for the troubles will be hard to bear, and one would expect a cure in vain. But if some other disease comes on, if on the first day it lays a mortal in bed, he will bring healing [only] in time, and he would lie long in bed, wasting all day with miserable hopes; but if the beginning of the illness is on the second day, he would be held by swift health, having suffered in bed for only three days. And if a woman at that time carrying a son in her womb miscarries, she would set out on a common road with the child to Hades, unless some kindly star rescues her, looking upon the bright-shining divine horned [Moon]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.5",
+   "text": "The illness is mildest for a speaking mortal if the noble daughter of Theia moves together with the gleaming Crab, and she brings swift help. Only let [a man] not have a deadly pain in the chest; for the works of Paean would save him with difficulty. Nor at that time let a blow to the foot press him with pains, for then he would no longer be counted among the sound-footed. To a miscarriage she brings no harm and no ruin. A woman would labour lightly in blood-flowing pangs, casting out a half-formed, fruitless burden."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.6",
+   "text": "Yes, and while passing over the well-maned Lion may she be gentle and kind to you; for it is not good to begin a grievous illness at that time; for you would not escape the evil of burning pains, unless you quickly cast all impurities out of the belly. And a pregnant woman, when she miscarries, not even Epione herself, consort of Paean, could easily heal, bringing a cure with her hands."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.7",
+   "text": "But if all-divine Selene moves together with Dike [Virgo], a faint disease would last long for short-lived men; but he escapes death who on that day begins to suffer in his well-fitted limbs. Only let him not be weighed down by a sickness of the stomach or of the side; for that brings no quick health. Nor at that time let there be any flow of blood for a man, nor let it please women to miscarry then, for it brings hostile ruin; but if they happen to be delivered of their pangs with living infants, then the maiden Astraea, the ear-bearing, the giver of kindly gifts, would lighten the toil of hateful pains."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.8",
+   "text": "Fear the golden-haired Moon among the stars of the Claws, and do not, labouring under a grievous disease, take to your bed; for the deadly star brings one of two fates to a suffering mortal: quick health, or terribly painful distress, if the illness lingers, and a bitter death; and destruction for women too, when an infant springs lifeless from their limbs. These things you must consider with shrewd mind, so that you may escape dread pains."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.9",
+   "text": "When the fair-faced queen appears upon the eight-footed beast, the Scorpion, she is favourable on the first dawn; but if she brings on a second day, she will send danger."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.10",
+   "text": "Selene, running together with the nimble Archer, will make the illness lesser for a mortal, and will quickly grant fair, welcome health to well-fitted limbs."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.11",
+   "text": "Likewise the most excellent [Moon] passing through Capricorn [is favourable], bringing swift helping strength to the limbs. But at that time let a man not suffer about the sides, nor let any foulness come near the hip; for sickness would subdue a mortal man for long. And if a woman casts out from within her toiling limbs an untimely infant amid bloody defilement, on the first day [the Moon] will hand her little pain, and she will still rejoice in the rays of the sun, long seeing the light of the sun that gladdens mortals; but on the second day she will grant worse pain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.12",
+   "text": "The gleaming light-bringer, attending on the Water-pourer, will heal other diseases; but if a stronger, compelling need overpowers you, suffering terribly from grievous dropsy, then expect a hard-to-bear evil; for she brings such a hateful ruin. On the first day she is harsh, when a woman has a miscarriage of a wretched birth; but if her light, which shines for mortals, brings on a second day, she would make the toil lesser and [bring] an end of pains."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.13",
+   "text": "In the spring Fishes [a man] easily escapes malignant harms, even if his body is pained by disease; but if a looseness of the lower belly should befall, or of the sinews, which have bent the joints of a man's feet, you could not easily make him free of harm."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.6.14",
+   "text": "You, keeping prudent counsel in your breast, must know that if divine Selene of famous steeds moves together with the kindly, fair stars, clear-seeing Phaethon [Jupiter] or keen-sighted Hermaon [Mercury] or the noble Cyprus-born, ruler of Paphos, she makes the illness lighter for a man, and quickly brings release from pain, before it destroys the well-fitted limbs; but if a baneful star runs together with the horned [Moon], either hard-to-bear Phaenon [Saturn] or Ares [Mars] who rouses the din of battle, she makes the illness greater and the disease shameful. But for women all the stars through which the noble daughter of Theia passes appear worse; for even when with Zeus and with the Cyprus-born herself she causes harsh and grievous miscarriages. But I would have you wish the all-seeing Moon to be alone, when a woman's day of miscarriage comes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.head",
+   "text": "VII. On cutting and surgery."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.1",
+   "text": "Come now, tell me, lady Muse of the fair throne, how the cutting iron could bring health to a man without harm, aiming, at the hands of a noble physician, at release from illness for a suffering body."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.2",
+   "text": "If the noble spring Pleiad newly shines forth from Ocean, or all-divine Selene appears in heaven running through the Bull, or travels through moisture-bearing Capricorn, spare the steel, I bid you, and at that time let the edge of the all-gleaming, well-polished iron not come into the hand, nor let it cut a man's skin, since it will quickly send toilsome pains; nor cut a second time, either."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.3",
+   "text": "Likewise if she is borne among the stars of the maiden daughter of Icarius [Virgo], keep quiet, and it would be better."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.4",
+   "text": "Let not the maiden Astraea, the ear-bearing, be borne up from roaring Ocean; for she will cause distress to those being cut, and tearful pains."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.5",
+   "text": "And likewise avoid the all-divine [Moon] passing in the tropic signs, since it will be much better to keep still; nor, when she is at conjunction, cut a body with the sharp, fatal iron."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.6",
+   "text": "Likewise again it is fitting to avoid [her when] full."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.7",
+   "text": "Consider whether she is with hateful Pyroeis [Mars], lest you often need cutting for a man."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.8",
+   "text": "And likewise those for whom Ares is in the signs as horoscope, he will harm short-lived men with much evil, if they receive the steel edge near the body, and he would cause an unchecked rush of blood gushing abundantly under the hateful point."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.9",
+   "text": "But if the light-bringing, white Moon goes together with Cronus, and a man who cares for Paean's [art] applies cutting, [the patient] would toil long, and will meet a dreadful end, and she would bestow a grievous disease upon this man."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.10",
+   "text": "But if without illness and terribly painful distress you wish to employ the helping iron, look upon the Moon with the aegis-bearing son of Cronus [Jupiter] or the daughter of Dione [Venus], and also if her light is waning, ceasing from the full moon to the twentieth day and still further, except at conjunction; for you would achieve a cure better if one avoids the lights of the Moon that belong to conjunctions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.11",
+   "text": "Likewise Phosphorus [Venus] or Phaethon [Jupiter], rising together from the streams of Ocean, make a cutting successful."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.7.12",
+   "text": "Likewise, if you desire to cut a vein that is full of blood, trust in these instructions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.head",
+   "text": "VIII. On runaways."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.1",
+   "text": "And if you should learn of the baneful deeds of slaves, who, leaving their masters in their halls, wander on swift feet to a foreign land, mischievous runaways, leaving the food they were fond of, keeping no memory of the hearth's table, nor revering in their hearts the holy majesty of Zeus Herkeios, son of Cronus, then consider the lot of such men too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.2",
+   "text": "If the all-divine [Moon] is with the fleecy Ram, you would quickly bring him back; and perhaps he would even come himself to his master's house towards evening, like a thief, his heart quivering with fear, and he would appear with his face smeared with frightened tears."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.3",
+   "text": "But if the horned one, returning, holds the Bull, the baneful slave, wandering, would hide in the house of a wealthy man; and with difficulty, by compelling effort, his master will receive him back into his own house, having endured very much and toiled in his heart."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.4",
+   "text": "If you see horn-faced Selene among the Amyclaean youths [Gemini], you would quickly bring him back to his house; but if he evades [capture] for five days and escapes notice in hiding, then you would receive him after the third month."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.5",
+   "text": "But if queen Selene visits the Crab, her own house, you would find the slave in a sacred grove, or making a hidden lair in a precinct, on the second day; and you would bring him back from the god as a suppliant, shuddering, his hair on end, stammering."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.6",
+   "text": "If she is in the measures of the Nemean Lion, if [the slave] makes his run on the first day, he will escape notice, and you will not see the city-fleeing servant again at his master's hearth; but if he takes flight on the second day, he will not complete his running away; you would find him in the halls of a wealthy man who exults in the arrogance of his mind; seek him in the country or in a flourishing garden."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.7",
+   "text": "If, while Selene visits the Virgin, he leaves his master's house, you would catch him after many days; for he lingers hidden, if, while the bright Moon walks the sky in this sign, he takes his day of flight, and, crouching among the green leaves, avoids his master of long standing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.8",
+   "text": "But if you see Selene in the Claws, expect the runaway with confidence; for he will come back of his own accord, and will make excuses, and with wheedling words soothe his master's harsh temper."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.9",
+   "text": "If divine Selene holds the Scorpion's figure, the servant would be hidden in a temple or in precincts; and he would also return home willingly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.10",
+   "text": "If the horned one passes through the Archer, if [the master] brings back the wrong-doing slave within the first five days, he would pay swift penalty for his flight; but if he passes beyond five days, he would wander thus for long, and you will not quickly catch him, but, wandering, he completes his run halfway through a long time."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.11",
+   "text": "If a slave flees when [the Moon is] in Capricorn, he is caught in a foreign [land] and brought back quickly to his master's house."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.12",
+   "text": "If you should see the fair-faced horned one moving in the Water-pourer when a base man readies his runaway's path, then, leaving his master's homeland, he wins his living in a foreign city, but he will not escape notice for long; you would quickly find him with a man who is a public servant of the people, or with a man who bears arms, whose concern is campaigns and rescues in battle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.13",
+   "text": "If, shining, she is borne in the Fishes of spring, on the first day she will cast danger on the wicked runaway, and perhaps even a day of death, and, struck at once on the neck with a two-edged sword, * * * * * * * * but if he flees on the second day he would be safe, and would reach his master's house after suffering exceedingly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.14",
+   "text": "You must quickly set a shrewd plan in your mind: for if you see Selene alone, she brings no flight to the mortal man, but will bring vain wandering to one dodging his path this way and that near his master's halls and the household he grew up with."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.15",
+   "text": "If the all-divine one happens to be circling with a star which the races of men on earth call a planet, the servant would make his way further off, fleeing his master's quarrels and his painful rebuke."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.16",
+   "text": "But if the horned Selene is with Phaenon [and] fiery Pyroeis, the slave has a flight blown away by the winds, rejoicing in empty hopes; for he would soon go to the house, fettered by grievous ruin, forced by painful necessity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.17",
+   "text": "If the bright-moving daughter of Theia treads in the tracks of lord Zeus or of holy Aphrodite the foam-born, the nimble servant would make a secret and easy escape, trusting in swift feet. Let him not plan in his wicked mind to carry off his master's treasure; for there would be double ruin, both of the property gone and of the harsh slave who fled. But I bid you stay at home and bear with an easy heart the dreadful loss through theft, since, pursuing on foot, you would not catch him, not even if you had the feet of Euphemus son of Europa, who, they say, ran swiftly on the loud-roaring sea, carried along on its watery road, — not even if you had a back fitted with wings, such as the sons of Boreas had on their limbs, whom slender Oreithyia conceived and bore, when Boreas snatched her up as she stood in a holy dance by the streams of the Ilissus, and carried her aloft in the clouds far from the land of Attica, until he reached the snowy haunts of Thrace, — not even if you appeared swifter than Iphiclus, who ran even over the ears of corn and did not harm the grain, carrying his light limbs over the top of the crop."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.18",
+   "text": "If the horned one is with keen-sighted Hermaon, the baneful servant would not escape, but you would find him very quickly, even if he had knees swifter and feet lighter than Ladas and swift-running Phayllus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.19",
+   "text": "Let Selene not be advancing to conjunction, or be at full light, when a flight occurs; for then he would wander in a foreign land, or be held in bonds among strange men."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.8.20",
+   "text": "If divine Selene is with cold Cronus, and a slave flees with a load of stolen goods, he will carry off gain for other thieves; for the far-seen star brings no profit with seized possessions, but Phaenon often brings upon the treacherous servant a baser man, and thief will meet thief."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.9.head",
+   "text": "IX. On the teaching of children."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.9.1",
+   "text": "If you wish to make your sons skilled in a craft or in learning, or [to make] diligent servants, let Selene be golden-shining for you upon the Ram, or let her shine fair upon the swift-moving Fishes, or occupy the radiant figure of the maiden daughter of Icarius, or appear in the most lofty Crab, delighting in the rays of Zeus the counsellor, or reddening with the beams of the Paphian in square or in triangle — and that would be much better — or let her go in opposition, standing over the seventh figure, for this too is a benefit to crafts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.9.2",
+   "text": "But let her not make conjunction in these signs, or bring her unspeakable light at mid-month, when need urges you to have craft or learning taught; for you would not accomplish what you wish, nor would the mid-month moon furnish any good skill for a child, nor the waning one; she makes the works vain as the wind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.head",
+   "text": "X. On farming."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.1",
+   "text": "If desire for husbandry, friend of mortals, seizes you, and you prepare the works of the golden race, drawing the well-curved plough over the grain-giving earth, or you are eager to set the vine-shoot of the Methymnaean in trenches, and long to take the sweet food of harvest, and to dig the immortal earth with the mattock, I will at once tell you the whole truth, how all-divine Selene may be persuaded to send up for you the rich gifts of Demeter and of mind-lifting Bacchus, and to grant abundant prosperity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.2",
+   "text": "For if she walks upon the swift Ram, she makes all the glorious works [favourable]: to plant and to sow seeds and to tend well-fenced folds; and then you would cut well the fallow land with oxen and hoes, and it would quickly become fruitful."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.3",
+   "text": "In the same way, with the horned Bull, labour at each of the things that appear as the glorious works of farmers. But do not then wish to take fertile ploughland for hire as a labourer; for it is not better, nor would it bring benefit to one toiling on another's [land]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.4",
+   "text": "If she circles in the Therapnaean stars of the sons of the fair-robed Aetolian woman, you would trust my words, and, beginning to labour at husbandry and lovely planting, you would be envied by many for this gain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.5",
+   "text": "You will make flourishing gardens and dig a trench, and you would prudently make fallow land well-worked, when the Moon walks the sky in the Crab."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.6",
+   "text": "If the queen who walks the air casts her far-seeing light on the fiery Lion, then you may prepare a sowing of barley or wheat, and it would be very plentiful. But sow nothing else in the furrow; for it is not better."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.7",
+   "text": "The maiden Astraea is best for all seeds, and favourable too for plants, and for setting in pits all the shoots that are called the tops of the oak. But avoid vines, since the maiden of Icarius exceedingly hates vine-tendrils and harsh wines, remembering what grievous things the Actaeans, overcome by dreadful drunkenness, devised for Icarius because of Dionysus, and hacked him with hard clubs, reeling from the gifts of dance-maddened Bacchus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.8",
+   "text": "But you, seeing the horned one walking the sky in the signs of the Claws, labour carefully at tilling the earth; you would boldly sow seeds in the fallows, and set vine-shoots in trenches, and all fair trees which, flourishing in spring, show their dear fruit on white branches."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.9",
+   "text": "If glorious, all-divine Selene passes through the Scorpion's figure in the sky with her white beams, scatter seeds in the fallows; and then the rich gifts of Deo, sown in the furrowed ploughland, would also fill the threshing-floor."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.10",
+   "text": "And then you would cut the fallow land too. But if the bull-faced queen shines in the Archer, do not sow the man-feeding earth with wheat, nor set white barley in the furrow, nor any other pulses; for all will at once come to nothing, and no tall grass will spring up to cover the dark clod. But at that time build me long folds for lambs and kids, and furnish a well-fenced pen for oxen, and labour also over swift-footed horses, and prepare fodder for the new-weaned foals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.11",
+   "text": "In the same way Selene, passing through Capricorn, is favourable and best for all flocks, if you drive a loud-bleating flock and herds to another land; and broad herds of goats too would quickly run, treading another pasture with their feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.12",
+   "text": "Seeing the white gleam of the fair-faced Moon in the Water-pourer, you would prepare ploughs and furrow well, and you will receive fair shoots well in trenches, and you would fix the ploughshare well in fallow fields."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.13",
+   "text": "In the same way the daughter of Theia in the Fishes of spring is best for farmers, when they labour at the rich works of Deo of the fair birth-pangs and of well-crowned Iobacchus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.14",
+   "text": "It is fitting also to watch the other stars continually. For if Phaethon and holy Cyprus-born and well-winged Argeiphontes move together with the Moon, you may declare that all these [works] will be thriving and growing, and bring much well-being and wondrous prosperity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.15",
+   "text": "But if cold Cronus and baneful Ares are around Selene, they diminish the glorious works and show husbandry to be vain for mortals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.10.16",
+   "text": "Therefore look first at the splendid figures in the sky, in which the maiden daughter of Theia shows works to be favourable, and then at the fair star of the mighty son of Cronus, or of the Paphian, or bright, keen-sighted Hermaon; for, travelling a common path with these, she brings a good beginning and end to the works of mortals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.11.head",
+   "text": "XI. On those in bonds."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.11.1",
+   "text": "If a wretched man is held fast in shameful bonds, with the wide-eyed Moon in the Ram he would find a long-delayed release from his miserable pains. So too, when seen in the summer figures, either being in the Twins or in the most lofty Crab, or in the grievous Nemean Lion, she will bring endless bonds on mortals for a long time."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.11.2",
+   "text": "If she circles in the Scorpion in the sky and in the light Archer, and in the Bull and the shining Balance, and also around the corn-bearing daughter of Astraeus, she brings swift release to mortals, and rests [them] from their toils and lightens a man's limbs."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.11.3",
+   "text": "Let her not shine in the sea-roaming Fishes; for the mortal would fill up shameful pain, and would scarcely escape the unspeakable burden of the hateful bond; and many have borne grievous fetters upon their limbs even to the end of their lives."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.11.4",
+   "text": "If the Moon shines fair together with a kindly star, of Zeus or of Hermes or of fair-robed Aphrodite, then the toil would be lighter and brief."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.11.5",
+   "text": "But if she is joined with chill Cronus or with Ares, [the man], often worn down by the force of the grievous bond, is kept under guard until his death, always in fastened adamant."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.head",
+   "text": "XII. On theft."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.1",
+   "text": "If some stolen treasure goes missing from the house, if the horned Moon runs in the Ram, it is kept safe for the house and comes into the hands of its master."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.2",
+   "text": "Standing in the Bull, the horned one, coming back again, sends the property to a powerful mortal, nor would you easily recover it, nor will the foolish thief himself profit, undergoing straight justice for his greedy gain; and consider this for me up to the tenth [degree] of the Bull's course. The other portions are fair and harmless for the man, nor do they bring a painful penalty on the wrongdoer, unless Selene has met with Ares on a shared course."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.3",
+   "text": "If the queen passes through the figures of the Twins, you will find [it], but put out of mind a small loss."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.4",
+   "text": "Again, if the light-bringer occupies the Crab, if shining silver is lost, she brings it back again to your house, and well-gleaming gold; but other property will be lost, whatever goes off from the house by plunder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.5",
+   "text": "If the many-eyed gleam of the fair-haired Moon holds the might of the Lion, then I will not very confidently tell you that you will get the property back. If the horn-bearing bright Moon passes through the maiden Astraea, the stolen thing lingers, and after a long time appears again;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.6",
+   "text": "and you will find [it] if the horned one runs together with the Claws,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.7",
+   "text": "and you would find [it] if she happens to stand on the eight-footed Scorpion. But if she holds the dread form of the Archer, it is lost, and becomes a windfall for the baneful thieves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.8",
+   "text": "If the glorious stars of the Goat-horned shine with the bright gleams of the returning Selene, the finding would be long delayed. If the noble daughter of Theia passes through the constellation of the Water-pourer, the recovery of your lost property is in doubt."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.9",
+   "text": "So too when the well-horned Moon travels the sky in the spring Fishes, you will scarcely recover what the wicked thief has taken in his hands; often you would hear [talk] about the stolen thing, but much of it is merely empty words, charming the ears with vain promises."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1487.tlg001.1st1K-grc1.12.10",
+   "text": "If Selene hastens on a shared path with the grievous stars, you will find the property. But if with the best, with cloud-wrapped Zeus * * * the stolen property is simply lost. * * * not very much; for thieves the good stars are favourable: the Cyprus-born and the shining star of Zeus, and also that of swift-running, winged Hermaon."
+  }
+ ]
+}

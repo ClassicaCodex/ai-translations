@@ -1,0 +1,367 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1092.tmp1092",
+ "edition_urn": "urn:cts:latinLit:tmp1092.tmp1092.ai-claude",
+ "source_edition": "tmp1092.tmp1092.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-07",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Regula Ad Monachos: AI translation (Claude)",
+  "author": "Sancti Paulus Et Stefanus Abbati",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1092.tmp1092.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.head": "Evident scanning errors were read through (e.g. Quates/Quales, eum/cum, dicium/dictum, bi/hi). Chapter list 15 and 19: the partly illegible words are read as delegati and comedendum. Chapter list 29: 'Niti de usu prioris' is read as 'Nisi de jussu prioris'; this changes the sense and is a conjecture. Chapter list 25: 'custodia' is taken as charge of the monastery's goods, which is inferred from context. Chapter list 21: the sense of 'calix superfundens non misceatur' is unclear; the chapter itself should clarify it. Chapter list 33: 'De labore praeteriti temporis' is obscure, and 'past time' is literal. Chapter V: 'priores' is plural here and is taken as those at the head of the choir, not the prior. Chapter IV: 'oratione sperata' is taken as asking for the prior's prayer or blessing before leaving. Chapter IX: 'contra alium fratrem' is taken as 'to' another brother, not 'against' him. Chapter XI: 'ad nubila' is taken as 'because of clouds', i.e. when rain threatens the threshing floor; the reading is uncertain. Chapter XII: 'commotionis freno' is obscure, and the link between 'talium' and the Psalm 151 quotation is unclear; the text may be faulty. Chapter XIV: 'despicient' is read as 'despiciant'. The Augustine reference is probably to his monastic rule, which has closely similar wording.",
+  "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.15": "XV: 'His qui' is read as 'Hi qui' and 'cis' as 'eis'. The first sentence is awkward; 'qui pro eis' is taken to refer to the dictators, answerable for their pupils. XVI: 'mensam primam' may mean the first sitting rather than a particular table. XIX: 'cellario' is taken as dative of 'cellarius' (cellarer); in XXIV and XXVI 'cellarium' is the storeroom. XXI: the sense of 'Nulli liceat pincernarum' is taken as 'no cupbearer'; the Latin is loose, and the subject of 'implere debet' is unstated. XXXI: 'et praebendum spiritali bono superbiae malum' appears corrupt, perhaps for something like 'ne praetendendo spiritali bono'; the words translated are conjectural and '[...]' marks the unclear phrase. XXXII: 'pistrino' is a mill or bakery; it is unclear which is meant here. Scanning errors silently corrected include 'com' (cum), 'oro' (ore), 'annuento' (annuente) and 'cura eo' (cum eo).",
+  "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.34": "Ch. XXXIV: the text attributes 'In desideriis est omnis otiosus' to Solomon, but its editorial reference to Ecclus. 33 looks doubtful; the wording is closer to Prov. 13:4 in the Vulgate. Ch. XXXIX: the scanned 'implied' is read as 'implicat', the verb of 2 Tim. 2:4. Ch. XXXVIII: 'contra vetitum' is awkward; it may mean that the provoking or the answering goes against the prohibition."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.head",
+   "text": "THE RULE FOR MONKS OF SAINTS PAUL AND STEPHEN, ABBOTS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.head",
+   "text": "CHAPTERS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.1",
+   "text": "1. First, on having the fear of God, mutual charity of a pure heart, and unanimity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.2",
+   "text": "2. What the seniors should be like toward the young."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.3",
+   "text": "3. How the young should conduct themselves toward the seniors."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.4",
+   "text": "4. That no one leave the work of God unless permitted."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.5",
+   "text": "5. That the beginning of a verse in choir be begun by one."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.6",
+   "text": "6. That dictating go on continually through the choirs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.7",
+   "text": "7. On the manner of chanting the psalms and the decision of the seniors."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.8",
+   "text": "8. That those singing not doze."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.9",
+   "text": "9. That none of those singing and praying be occupied even slightly with idle talk."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.10",
+   "text": "10. That when Prime has been said no one lie down on his bed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.11",
+   "text": "11. That at midday each one sleep in his own bed during the appointed period."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.12",
+   "text": "12. That they sing the divine work with discipline while at work."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.13",
+   "text": "13. That at the hour when communion is to be taken, all who are within one cell take care to be present."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.14",
+   "text": "14. That those things be sung which have been ordered to be sung."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.15",
+   "text": "15. On those who are learning the psalms, that those assigned attend on their dictators."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.16",
+   "text": "16. That the lessons received be recited by the younger ones at table, according to custom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.17",
+   "text": "17. That no one presume beyond the established measure in food or drink."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.18",
+   "text": "18. That those eating listen quietly to what is read."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.19",
+   "text": "19. That no one procure anything at table to eat privately for himself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.20",
+   "text": "20. That no one move from the table assigned to him to another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.21",
+   "text": "21. That a cup that is overflowing not be mixed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.22",
+   "text": "22. On the turns of those who serve."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.23",
+   "text": "23. If anyone of the rank of the juniors has been separated from his service."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.24",
+   "text": "24. That no one presume upon what has been assigned to another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.25",
+   "text": "25. That those to whom the care of goods has been entrusted serve with devoted charity, and that they in turn not be wrongfully saddened."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.26",
+   "text": "26. That no one dare to enter the storeroom or the craftsmen's workshops inopportunely without being ordered."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.27",
+   "text": "27. That no one presume to use another's things for himself, and that it not be permitted to exchange them among themselves."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.28",
+   "text": "28. On looking after clothing and bedding."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.29",
+   "text": "29. That no one give a tonsure except at the prior's order."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.30",
+   "text": "30. On what one brother has lost and another has found."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.31",
+   "text": "31. On those who wish to learn any craft."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.32",
+   "text": "32. That each one come promptly to the bakehouse or to any earthly work."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.33",
+   "text": "33. On the labour of the past time, and that nothing of what is necessary has been withdrawn even from those who are negligent."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.34",
+   "text": "34. That habitual sloth toward prayer be given up."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.35",
+   "text": "35. On the care of iron tools during work."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.36",
+   "text": "36. That no one cover for a sinner."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.37",
+   "text": "37. That immoderate joking and laughter are to be abstained from."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.38",
+   "text": "38. That when others are quarrelling, no one else join in."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.39",
+   "text": "39. That no one involve himself in outside affairs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.40",
+   "text": "40. That no one dare to avenge himself by human strength against the wicked excesses of country people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.1.41",
+   "text": "41. That the rules of the Fathers also be read constantly."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.1",
+   "text": "I. First of all, then, we urge that we all have the fear of God and mutual charity and unanimity in good pursuits."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.2",
+   "text": "II. Let the seniors show fatherly affection to the juniors; and when it is necessary to give an order, let them enjoin what is needed for accomplishing the common good, not with swelling animosity and clamorous voices, but confidently, with calm simplicity and the authority of a good life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.3",
+   "text": "III. Let the juniors obey the seniors with sincere submission, and not answer in anything with a swollen neck, or refuse to obey those in command with a disdainful mind and a negligent ear; but let all, with one mind and in concord, apply themselves with faithful intent both to spiritual work and to earthly labour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.4",
+   "text": "IV. Let no one be permitted to leave the work of God without the prior's permission, but let him whom a manifest cause has compelled leave after a prayer has been sought from the prior and granted. And let them not go out in twos or threes, but singly, and seek the prayer, in such a way that those who are healthy return at once, while those who are sick go back to bed by permission."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.5",
+   "text": "V. Let the leaders who stand in the choir begin the opening of the verses of those chanting the psalms; or if illness prevents them, let those begin whom the Father has ordered. As soon as they begin, let all, if it can be done, join in at the first or second syllable, together, in unanimity and with one mouth, so that there is no dissonance among the singers, which tends to arise chiefly from a disorderly beginning and from a somewhat contentious variety."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.6",
+   "text": "VI. Let the juniors, and especially those who are still applying themselves to learning the psalms, dictate through the choirs in order and without negligence, in such a way that, from the point of which the younger ones are still ignorant, these juniors who have already finished the Psalter succeed one another in order in dictating, so that the practice of pronouncing is at no time lacking."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.7",
+   "text": "VII. The manner of chanting the psalms, too, is to be kept by us at all times, if possible, with moderation, so that it is said neither too drawn out nor excessively clipped but, as has been said, always with a moderate modulation. This, however, is to be observed: according to the will and decision of the prior, on whom it always rests to consider and weigh the time, the hour and the cause in all things, whether he orders it to be drawn out or quickened by a just judgement of consideration, at his nod, or also if he wishes it higher or lower, let it nevertheless be said with a harmonious voice, as if from one mouth. And let no one presume, without the prior's permission, either by a proud raising of the voice, which often breeds in the less cautious a puffed-up boastfulness and the arrogance of pride, or by turbulent haste, to exceed or change the measure of moderation. Nor let the prior dare to make use of the licence of consideration granted to him without definite necessity, knowing that he will render an account to the Lord, who said: Sing psalms wisely (Ps. 46)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.8",
+   "text": "VIII. Sleep, when the work of God is being said, is with God's help to be driven wholly from us, as we fear that saying of the Prophet: Cursed is he who does the work of God negligently (Jer. 48). And that other: They have slept their sleep, and all the men of riches have found nothing in their hands (Ps. 75)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.9",
+   "text": "IX. Let no one be permitted, at the time when the work of God is being sung, to address a word to another brother on any pretext, except to a senior only; for to him, without doubt, matters of any kind that need to be arranged or corrected sometimes arise."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.10",
+   "text": "X. In the morning, when Prime has been said, let no one lie down on his bed, except on Sunday or on feast days, on which those of you who wish, being more tired than usual from the labour of vigils and of the previous day, may lay their limbs on their beds for a little while after Prime. This is not to be permitted at all times, but only in the summer months; for all the rest of the time, on every day, immediately after Prime, while the lessons received by the younger ones are being corrected, let each one put on his shoes and be ready for the signal that is usually given by the sound of the wooden board, so that all may gather without delay at the appointed place to learn the work to come in the approaching day."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.11",
+   "text": "XI. In summertime let no one be permitted to sleep at midday anywhere but in his own bed, unless perhaps, at the prior's order, he sleeps outside his own bed because of clouds, to guard the threshing floor. In the field, however, when the harvest is being gathered, if it is permitted to sleep at midday, let them sleep not separated, but in one place or two places. For it is not unknown how much evil the devil has done on this occasion. Let us observe the times in which, if there is leisure, we are to sleep at midday, from the day of the Ides of May to the day of the Ides of September."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.12",
+   "text": "XII. Let the work of God, which the brothers working in any place will say during the day at the appointed hours, be said with discipline and the fear of God, in a harmonious voice, not as each one may wish to smother it with the excuse of work or busyness. And let no junior, presuming, leap ahead of a senior and go forward in premature haste, and let the divine work, which is to be done with fear, not be chanted foolishly and unwisely through disorderly boldness. For the minds and throats of some brothers, already infected by such a habit, cannot be held to harmony within the oratory except with a great bridle of disturbance. So that you may therefore cast this vice of usurpation from you, we exhort you with the simplicity of charity; for God is the hearer of all such: He sent his angel, and took me from my father's sheep (Ps. 151, according to the Septuagint)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.13",
+   "text": "XIII. At the hour when we are to receive the holy body and blood of the Lord, let us hasten to be present to say: Deliver us from evil, except those whom a definite cause, with the knowledge of a senior, does not allow to be present. In every way we must take care not to receive the holy body and blood unworthily, to our judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.14",
+   "text": "XIV. Let no one presume, in this community, either to memorise or to say responsories or antiphons which some people are accustomed to sing to a composed melody, at their own pleasure, and not taken from canonical Scripture. And let no one dare to memorise anything of the kind from a visiting guest without the prior's order, lest, ensnared by foreign teachings of variety and in a way by the sweetness of delusions, they grow disgusted with the maturity of simplicity and truth; and, bound by the sounds of song in the fetters of levity and idleness, they either hasten at the devil's persuasion to fly from the community, or, puffed up within the monastery as if with singular knowledge, they despise everyone. But we ought to imitate the one and simple teaching of the apostles and of our fathers, and to be established in grace, and to subject heart and conduct to discipline, and we ought to sing those things which, as the blessed Augustine says, are written so as to be sung; and what is not so written, let us not sing. Nor should these things be said by us in his praise in any other way than that in which the Lord himself commanded them to be made known to men through his prophets and apostles, lest we change what is to be sung into the manner of prose and as it were into a reading, or by our presumption turn into tropes and the art of song what is so written that we should use it in the order of readings. For if we ought to offer God the sacrifice of confession and praise in the way he himself commanded it to be offered to him, the Lord seeks from us the sacrifice of obedience rather than of victims; and he is not so much delighted by zeal for the artifices of song as by the observance of the commandments and purity of heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.15",
+   "text": "XV. Let those who are learning letters or psalms attend, for taking dictation, on those to whom they have been assigned; and these are either to be rebuked on their behalf for negligence, or approved for their instruction and zeal. But if a dictator on going away has neglected to assign someone himself, let the one who takes dictation go back to the Father, so that he himself may assign, in place of the absent one, someone who is to dictate to him. When the absent one returns, let him go back to his own dictator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.16",
+   "text": "XVI. Let the lessons received be given back at all times, at the hour of the meal, by those who receive them daily from the psalms, at the first table of the brothers, according to custom. Whoever has neglected to memorise and has not given them back, let him not eat until the hour of the meal of the following day."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.17",
+   "text": "XVII. Let no one be permitted to presume beyond the established custom, whether in drink or in food, except with the permission of the prior, who has the power of ordering and considering [such matters]; so that if, when the brothers are exhausted by heavy work, something ought to be added beyond custom, this may be done with the prior assenting and permitting, and not with just anyone presuming."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.18",
+   "text": "XVIII. While taking our meal, let us listen to the readings with thanksgiving and the fear of God. Let us receive the gift of God not with quarrelling and murmuring and indignation and shouting voices and the clatter of feet and the noise of dishes, but with charity and quiet and the sweetest bridle of discipline, fearing the example of the carnal Israelites (Num. 11), who, while they ate the bread of angels to satiety (Ps. 77) and the meat of quails to the point of nausea, were murmuring with their mouths full when the wrath of God was sent to destroy them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.19",
+   "text": "XIX. Let none of the brothers be permitted to bring to the table to eat, for his own use, as a private provision, either fruit, or any kind of vegetable for seasoning, or anything else, lest by the smallest occasion either rancour should arise among the brothers over injustice or a dreadful entry be opened for private interest; but whatever of these things has been found by anyone, by God's gift, let it be faithfully handed over to the cellarer, so that, with him distributing, they may be supplied either month by month or as each one has need."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.20",
+   "text": "XX. Let no one dare to presume to move from the table at which he is listed to eat to another; nor let anyone be permitted to receive to himself another who comes from another table to eat; but let each one eat at the table assigned to him, so that if the greater part of the brothers at a table is absent, those remaining, down to the number of three, should sit at their own. But those remaining below this number should eat at another table, according to the assigned order."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.21",
+   "text": "XXI. Let no one of the cupbearers be permitted to fill a cup so that it overflows. Nor let anyone be permitted to accept it, if it has been offered to him overflowing by a foolish server; but it ought to be filled with moderation and suitably, as the Apostle says: Let all your things be done decently and according to order (1 Cor. 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.22",
+   "text": "XXII. In all the services and duties in which the junior brothers succeed one another in turn, let each one, in whatever duty, with good will fulfil the week of his turn that he has taken up, cheerfully, without murmuring, with the grace of God. But if it should so happen that the one who has taken up any service is occupied in some other useful task, or on a journey, or by the necessity of illness, let the one who appears to be next after him in the order fill his turn, and if he is lacking, let the third, or the fourth and fifth after him who is found present and free, represent him in his service, so that the arranged order of duty, which is performed mutually out of love of charity and devotion, may be preserved and in no way be disturbed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.23",
+   "text": "XXIII. If in that order of juniors who succeed one another by turns in the several duties, there should perhaps be included in the order such a person as ought, by the judgement of a senior, to be removed from his turn of duty, let no one dare to provoke him, nor even in jest drive into him the goad of suspicion and shame."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.24",
+   "text": "XXIV. Let no one be permitted to take at his own discretion anything from the storeroom or from any craftsmen's workshop, whether a tool or any thing that has been assigned to individual brothers for keeping; unless perhaps so great a cause, either of absence or of illness on the part of the one to whom the care in any department has been committed, has pressed that, by the abbot's order, or at least with the permission of the one to whom it was assigned, it may be touched by another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.25",
+   "text": "XXV. Let those also to whom the keeping of the several things has been committed supply what is necessary with fitting devotion and most loving humility, without delay or disdain, at the order of a senior; nor let them, by delaying through proud conceit, create occasions for complaints, through which murmuring ought not to be stirred up against the labour of those who serve us in charity in the things assigned to them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.26",
+   "text": "XXVI. Let no one be permitted, either in the storeroom or in the several craftsmen's workshops, to enter with shameless and troublesome boldness without a senior's order, because this presumption both greatly hinders the common benefit and drives rancour of spirit into the craftsmen themselves through needless annoyance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.27",
+   "text": "XXVII. Let no one be permitted, with wicked presumption, to touch for his use clothing, or footwear, or wooden boards, or anything of the smallest thing, new as well as old, that has been given to another brother. Nor let the brothers be permitted among themselves to exchange with another brother, as if out of a private love, what anyone has received from the common store, except with the prior's permission, lest on this occasion an illicit love should arise. But let each one accept willingly and with good will what is given to him in the distribution of charity, and take delight in having it for his use."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.28",
+   "text": "XXVIII. Let no one dare to wash clothing or bedding for himself without the prayer and permission of the prior."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.29",
+   "text": "XXIX. Let none of the brothers dare to be tonsured without the prayer of the abbot; nor let anyone seek to be tonsured with any tonsure other than the one customary to us, except the sick, whom it is perhaps expedient, on a physician's direction, to tonsure more closely because of an adverse humour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.30",
+   "text": "XXX. If anyone has found anything at all that another brother has lost, whether inside the cell or outside, let him not keep it with him for one day or, if it is possible, for one hour, but let him put what he has found in the assigned place; and let the one who lost it look for it in that place, so that the one who lost it may not suffer the wandering and labour of searching among individuals."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.31",
+   "text": "XXXI. Let no one be permitted to presume on his own daring to learn any craft whatever without the prayer of a senior, or of the one to whom the power of ordering and arranging has been granted by him, except only those who, by the prior's judgement, in their order, are assigned to the several crafts with the grace of prayer. Nor let anyone presume, as if on his own authority, to memorise letters or psalms or readings; and [lest,] for a spiritual good [...], he bring about the evil of pride, the free choice of a dissolute will, and private interest. But if anyone through good will desires to learn any earthly craft, or, in spiritual matters, something beyond what is handed down to us daily, let him wait with most loving humility for it to be granted to him by the prior. And if it has been granted to him, let him thus begin what he desires, having received a prayer. And even if it has been refused him, because perhaps it is not expedient for him, let him remain joyful and not sad. Nor let anyone be permitted, without the prior's knowledge and order, to show letters or any craft to another secretly and as if by stealth. But if anyone has presumed to do this, he will without doubt be subject to a double fault, that is, of both theft and pride."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.32",
+   "text": "XXXII. All must take great care that none of the brothers, either in the mill-bakery or in any manual work, should come sluggishly and not among the first."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.33",
+   "text": "XXXIII. For the exhortation to labour, which until now has been conveyed by us to your charity with such great moderation, is as much weakened and relaxed from that apostolic urgency of the blessed Paul (Eph. 4) as is the difference between the persons. While he commands us to labour with our hands to the extent that we may have something from which we can give to the one suffering need, we have said that we should labour at least for what suffices for us. He says that he himself laboured with his own hands night and day in hunger and thirst, in cold and nakedness, so that necessary things should not be lacking for himself and those who were with him (2 Cor. 11; 1 Thess. 2; 2 Thess. 3); we on the contrary, having double clothing and footwear for our use, and from the house of God the fullest provision of daily food to satiety, exhort you not to love idleness, but through the sincere consent of unanimity let each one labour as he is able. He commanded: Whoever does not labour, let him not eat (2 Thess. 3); we, weighing our frailty in you, have withheld nothing of necessary things, as compared with the order of faithful brothers, from any of you who until now, with a deceitful and slippery will, have put off labouring faithfully, patiently bearing this until now, so that we might not be conquered by evil, but might conquer evil with good (Rom. 12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.34",
+   "text": "XXXIV. Knowing this, brothers: that a monk idle in body can never be idle in mind from sordid thoughts, as Solomon says: Every idle man is in desires (Ecclus. 33). And again: Idleness devises many evils. So let him who has been such until now cast this vice from himself and hasten readily to every work, for it is written: Do not hate laborious works, nor farm work created by the Most High (Ecclus. 7), so that, by the Lord's gift, we may abound from our own labours in things both daily and necessary, and may be able to meet with fitting moderation those whom spiritual love invites to visit us, or may be able to serve from our own labour, with the duty we owe, those whom grave necessity presses, because it is certain that the Lord our Redeemer taught: It is more blessed to give than to receive (Acts 20)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.35",
+   "text": "XXXV. When [brothers] go to any work, let the one who goes as prior among them receive the necessary tools, counted out, from the keeper of the tools in the morning, and let him assign them for safekeeping to one of the juniors among those who are to go with him, whom he sees to be suitable for this. When the work is completed, let him himself carefully take them back from that brother and hand them over to the keeper, so that nothing may be lost through the customary forgetfulness and negligence of the many."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.36",
+   "text": "XXXVI. If anyone sees another, in any place, doing anything forbidden, whether in word or deed, and puts off making it known to the prior, let him know that he is a nurturer of the sin and in all respects equal to the sinner. And because he is a most harsh enemy both to his own soul and to the one whom he covers for, he will on this account be held accursed and faithless before God, who hates evil, and before the whole brotherhood; for through abundance of malice he was unwilling to reveal the one going astray so that he could have corrected him, and through hatred of discipline he loved malice and stood by every way that is not good (Ps. 35)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.37",
+   "text": "XXXVII. Therefore all of us must beware of the unrestrained excess of joking and laughter, through which most bitter scandals very often arise among the brothers. Nor ought an occasion of discord to come from this; and even if no quarrel were to arise from it, we should still have to beware of speech that does not pertain to edification. And [let us do so,] knowing that an account must be rendered to the Lord even for idle speech. For who does not know that laughter beyond measure is the door of indiscipline and levity, through which the devil subtly supplies pernicious food to the wretched soul?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.38",
+   "text": "XXXVIII. If one brother, provoked by another contrary to what is forbidden, by answering carries the matter to a dispute, let no one involve himself in their dispute, that is, in another's cause, lest factions of quarrellers, as if of opposing parties, be nurtured among the brothers; unless perhaps [it is] that senior who, by calming the discord between them, interposes words of peace with moderation, discipline and sincere faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.39",
+   "text": "XXXIX. Let no one presume to involve himself in any causes of others, whether of parents or of kinsmen, or in any worldly occasions, without the order of the prior, whom the tears of the poor and oppressed very often move to approach as an intercessor either the judges or those to whom it may be necessary. Nor, when sent, let him dare to presume on even a word more than he is ordered. For it is written that no one serving as a soldier for God entangles himself in secular business, so that he may please him to whom he has proved himself (2 Tim. 2). And if we desire to flee and avoid necessary business, that is, that of the monastery, which is very burdensome to us, how much more ought we to shrink from and flee the business of others, which lies outside the benefit of the monastery?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.40",
+   "text": "XL. Let none of you dare to defend himself by his own strength, or by resisting with a human arm, against the rage and the wicked outrages of the rustics, which they very often carry out against us with the devil arming them, since our defender is God alone, and the patronage of the blessed apostles and of all the saints of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.41",
+   "text": "XLI. The Rules of the Fathers are also read to us constantly so that, applying the inner hearing to their holy exhortations, we may both conceive a most sweet love of discipline and, with the Lord helping in all things, follow the examples of their life. For this reason we must make haste that the ingrained lukewarmness may be shut out of our minds. For these things too, which we are telling you one by one in the present writing, we have not presumed with rash daring to set before you in disparagement of the Rule of the holy and most blessed Fathers; rather we have taken care only to press upon you in writing these particular points from their ordinances. But the fullness of holy conversion of life and the perfect teaching of the spiritual life are recited to us daily in the Rules of those holy Fathers to whom both a proven life and the authority of teaching were granted by divine gift."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1092.tmp1092.opp-lat1.2.1a",
+   "text": "May almighty God, who is the author of peace, who alone can make those of one mind dwell in a house, fit you all to do his will, doing in us what may be pleasing before him through Jesus Christ our Lord; and may he plant and nurture the seed of this exhortation and admonition in your heart through the grace of the Holy Spirit, and bring it to the ripe perfection of good works, Amen; and, granting us remission of sins, may he keep [us] with his peace in eternal rest. Amen."
+  }
+ ]
+}

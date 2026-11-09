@@ -1,0 +1,369 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2200.tlg00543",
+ "edition_urn": "urn:cts:greekLit:tlg2200.tlg00543.ai-claude",
+ "source_edition": "tlg2200.tlg00543.opp-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Declamatio 43: AI translation (Claude)",
+  "author": "Libanius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2200.tlg00543.opp-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.pr.head": "1.2.1: τὸ προειλημμένον τοῦ ζητήματος (rendered 'the advantage held in advance') is obscure; it may instead mean 'the presupposition of the case' or refer back to the earlier case. 1.3.1: the earlier case is evidently a stock theme in which a wife, wronged by adultery, showed the way up to the citadel for a tyrannicide. 2.5.1: the text appears to have a lacuna after μὴ τοὺς αὐτούς ('not the same [children]'); words such as 'to love [them]? For if I were not of the same' seem lost; supplied in brackets and marked [...]. Scanning errors corrected: ἔνα/ἔν for ἵνα/ἵν', πρὸ for πρὸς, repeated μὲν; stray line numbers and 'R IV 798' omitted. Section numbering in the edition skips 3 and 5.",
+  "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.8.1": "Line 2.10: 'τούτων δὲ' resumes the preceding clause; translated accordingly. Line 2.11: 'δορυφό- pous' is a scanning error for δορυφόρους. Line 2.12: 'ἐμ τραγῳδοίη' read as ἐκτραγῳδοίη. Line 2.20: 'ἴα μίαν' read as μίαν (stray letters). Line 2.24: 'φθά- σεῖ' read as φθάσειε/φθάσῃ.",
+  "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.25.1": "In 30 the words 'and mother' are an editorial supplement. In 42 the last sentence probably means that, if tyrannicides fear for their children, no one will kill tyrants, so the city will get neither the tyrants nor their children. 'Wife' in 30 reads γυνή.",
+  "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.43.1": "43: the clause about the double request (ἐπ’ ἀμφοτέροις… διχογνωμονοίη) is syntactically awkward and possibly corrupt; rendering is tentative. 44: 'ὑφ’ καὶ τύχοι' is defective; read as ὑφ’ οὗ καὶ τύχοι ('by whoever it may chance'). 53: ἴα taken as ἔα ('leave aside'). 58: 'ἣ καὶ τὴν πόλιν οὐ λυπήσει' rendered as 'will neither grieve'; the sense is 'will not grieve the city and will gladden'. 'The woman who reared' (τὴν θρεψαμένην) is ambiguous; it may refer to the mother as rearer of the children.",
+  "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.60.1": "61, 66: ἔνα read as ἵνα (scanning error). 69: 'τοὺς ἐν βεσι' is defective; probably ἐν κύρβεσι ('on the law tablets'), translated so. 72: 'θάρρει τὴν νικῶσαν' is odd; taken as 'take courage, [as] the victor' (perhaps for ὡς νικῶσα, or understand ψῆφον, 'the winning vote'). 73: 'ξιφηφοροῦσαν ... Δήμητραν', a sword-bearing Demeter, is unusual; the text may be corrupt. 75: 'ἔρον' is unintelligible and probably corrupt; left as [...]. 76: τρέφει read as τρέφε, and καλοῦ as the imperative 'be called'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.pr.head",
+   "text": "XLIII."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.pr.head2",
+   "text": "There was a law that the children should also be put to death with the tyrant, and another law that the tyrannicide might ask for whatever he wished. A woman who had killed her own husband while he was ruling as tyrant asks for the children as her reward. Let us compose the speech of the man speaking for the tyrannicide."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.1.head",
+   "text": "Preliminary analysis."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.1.1.1",
+   "text": "The woman loves her city, and the people love freedom. She has just restored the laws, and they are once more conducting affairs under laws. But laws, it seems, conflict with laws, just as opinions conflict with opinions and decrees with decrees. For laws that are truly laws, however, conflict arises from circumstance and not by nature. Each of the two parties will put forward one of the laws. And the contest for both is on behalf of the city: for the one, so that the hope of a second tyranny may be cut off; for the one speaking for the tyrannicide and her children, so that the tyrannicide may not hold her trophy wholly without reward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.1.2.1",
+   "text": "This case resembles the one treated earlier. For the judges received back their constitution from the woman who is asking for the children, and for that reason some might think they would find it hard to vote not to give back to her what is dearest to her. But let them weigh against this the hatred of the tyrant, the father, and at once the advantage held in advance in the case will be shown to be evenly balanced. For there are two persons here and two opposed feelings: father and mother, tyrannicide and tyrant, anger and pity; and laws equally, both of them democratic and most effective for citizens who hate tyrants."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.1.3.1",
+   "text": "For in that earlier case, which the rhetorician hands down to us, the outrage of adultery was a private matter against the husband, while the benefit from the tyrannicide was public, and there the woman who pointed out the way up had the advantage, since her deed of valour was of more public benefit; here, both taking the children and not taking them are public matters, and whatever comes of them, whatever it may be, will fall, I think, on the whole people."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.1.4.1",
+   "text": "If, then, a woman were permitted to speak on the platform, the whole speech would be lament and tears; but as it is, since another holds the platform in her place, where he expresses the mother's feelings he will display emotion, and where he argues otherwise he will press the points of contention sharply."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.1.5.1",
+   "text": "The speech will also contain a moderate attack on the tyrant, as much as will serve it to exalt the woman's daring, with much astonishment and wonder besides. For if he pretends not to be indignant against the tyrant, he will be suspect and will be denounced to the city as pressing these things on behalf of the tyrant, not of the tyrannicide; and if on the other hand he attacks the tyrant heavily, he may seem to be openly provoking the people against that man's children as well, the very opposite of what he set out to do. To dramatise every feature of the tyranny is superfluous, for it is known to the hearers no less than to the speaker, and besides it will vex the people rather than win them over."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.1",
+   "text": "The declamation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.1.1",
+   "text": "1. Men, the woman who has thus given up what is dearest to her for the sake of the laws, and has won a double prize of valour on behalf of the city, both in that she refuted the female part of her sex for the sake of the laws and in that, together with a husband ruling as tyrant, she also routed another, greater tyrant, nature, ought neither now to be brought before the platform and judges nor to be in danger of suffering the utmost penalty under laws which she herself, when they had already fallen, restored with her own hands; rather, she ought to enjoy the democracy before all others in those very things by which she gave back to us the right to speak in the assembly. But since, I do not know how, she has left nothing that was in her power undone for the good of the city, while you, the people, still delay over the reward and sit judging the woman through whom you have freedom to judge, and you put up with listening to these men who now talk much nonsense but before cowered in fear, while you give little thought to this wonderful woman, whom it is not even right to call a woman, but a hero and tyrannicide and all the other names that are better, I myself have now decided that I must come forward to the platform, give in return to that noble hand a tongue as its ally in the assembly, and repay her first with public speech, she through whom public speaking returned to the city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.2.1",
+   "text": "2. Now if I saw that failing to repay benefactors well would end in good repute for us, perhaps I too would be with the others, and one would soon have seen me, who am now fighting for the reward, then fighting wholly the other way against it. But as it is, since I do not know how anyone at all could think this just, and not rather something that leads to no ordinary disgrace, I have come, eager to free the city and you from so great an ill report, to render this noble woman her recompense at so critical a time, and to try as far as I can to persuade you of this very thing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.3.1",
+   "text": "For it is necessary, I think, in such circumstances, that I too acknowledge the benefaction thus bestowed in common and on the whole people, and that you who have been well treated do not shrink from paying back the fitting thanks. So now, to all appearance, it is I who ask for the children for the woman as a reward, and propose this decree, and become no ignoble speaker before the people, thanks to her from whom the whole city has both the right to propose and the right to speak; but in truth, if you are willing to examine it more closely, you would recognise that the law itself, together with justice, has been voting for this from the moment she brought down the sword, the tyrant fell, and the city, along with its laws, was set upright again."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.4.1",
+   "text": "4. Now I know that the many are indignant and think it a great outrage if, when a tyrant father has fallen, his children should still be preserved; and I am not surprised at their distress, for hating parents for the greatest wrongs extends the enmity even to the children. But this I have long been unable to understand about the accuser: that he still somehow remembers the father's evils and insists that the children too must be made to pay for them, while the mother's good deeds, and how she set upright the city that lay under a tyrant, these this excellent man does not take into his mind at all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.5.1",
+   "text": "And yet how is it just to hate the children for the father's crimes, to the point of killing them, but not, for the sake of the mother's good deeds, [to love] the same children? [...] If I were not of the same city, nor had been raised from the beginning under the same laws, and did not share the same constitution as each of these men, or if, though of the same city, I alone took no part in the sufferings of the tyranny, but was among the foremost of the tyrant's circle, or otherwise filled out the ring of his bodyguard, one might reasonably have thought that my whole zeal was for the fallen man and not for this mother; but as it is, since I was grieved then too while he lived and ruled as tyrant, and now that he has fallen I greatly admire the woman who killed him for this noble spirit, and am carried away by hatred to insult him even as he lies dead, I fear that, while I say and propose these things on behalf of the woman who brought down the tyranny, the accuser's case may be otherwise: that he is aggrieved that the tyrant fell at a woman's hands, and for this reason wishes to hurt the tyrannicide by depriving her of her children as well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.6.1",
+   "text": "6. I wish, men, to remind you briefly in what sort and how many evils the city was, since the accuser too has seen fit, after the tyranny of deeds, to lay down a tyranny of words above all, and how great a happiness the daring and nobility of the woman here present has brought round to us in its place."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.7.1",
+   "text": "Or who of all men does not know how we were at first under good order and laws, and there was nothing among us that was not governed in a democratic way, but everything had its fitting order: the people, the council, the platform, the offices of the guardians of the laws, those of the generals, and all that belonged to the roll of the hoplites, and to the order of the cavalry and of the others under arms? And this democratic form of constitution, and the fact that everything among us was under laws, drew some of the neighbouring cities into alliance, while it frightened others not a little that they could see nothing in the city that was ailing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.8.1",
+   "text": "But while we were in this state, from where I do not know, the god-hated tyranny fell upon us, and some spirit hostile to democracy and laws cast an envious eye on the city and on us, and persuaded one of these rich men who dare everything to dare revolutionary deeds, and kindled in him a passion for that wretched tyranny."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.9.1",
+   "text": "And he, without delay and without holding back even a little from this foul plan (for how could a man so corrupted by luxury and by his other folly?), thinks it intolerable to be rich in fortune yet at the platform to boast of nothing more than these poor men of the people, and to have command of all the goods of fortune yet, living under democracy, to bow to the laws along with everyone else."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.10.1",
+   "text": "What then? He looks at his wealth, reckons up the greatness of his daring, calculates the expense, and at once worms his way in with the worst of the citizens; and having thus more easily deceived the many, beguiling some with promises and corrupting others with money, he made for the acropolis itself; and seizing the unguarded parts of the place, since he had long been watching for the right moment for the attack, and as for whatever part of the soldiery had been left behind on guard, driving some of them off with no trouble by the mass of his bodyguards, and falling on others by night from concealment, he at once held the whole acropolis."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.11.1",
+   "text": "From then on he set a guard about his person and maintained bodyguards to serve in those outrages. Then what good thing was not absent? What evil was not present? The foul creature began his rule with the laws, for overthrowing them before all else was his chief concern. And when they had fallen, the institutions of the democracy fell with them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.12.1",
+   "text": "Outrages against children, seizures of women, unjust slaughter of citizens, confiscations of property, expulsions from the land that reared them, and all the other things that he dared as tyrant and we endured as his subjects: why should one make a tragedy of them? For what we experienced not long ago, it is superfluous even for me to tell. All these things that wretch carried out against us, contriving them in secret, while his wife knew nothing, no, by Zeus. For by the risks she later ran on our behalf she showed what her mind would have been then too, had she known the secret."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.13.1",
+   "text": "So when he was outraging the laws so wantonly, and for us who suffered not even lamenting was left free of danger, she often spoke many words on our behalf, and poured out many speeches before the tyrant for her fatherland, with tears too. But why, by the gods, do you who happened to be present there at those speeches not report to the people that tyrannicidal resolve: how now she implored, now she spoke out for the laws, holding up the wrath from the gods, the retribution from men, the punishments in Hades, Acherons, Pyriphlegethons, Cocytuses, and all else that tyrants will suffer even after death?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.14.1",
+   "text": "But when her second and third speeches too were laughed at, and she spoke to no effect, while he did not cease ruling as tyrant to the people's harm, like the wiser of the Asclepiads she gave up on incantation and drugs, resolved to look to cautery and the knife, and set about cutting out the great wound, the tyrant, so that the whole body of the city should not perish along with it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.15.1",
+   "text": "Then there was a battle between a freedom-loving mind and nature. The one armed her hand as against a tyrant; the other, as she armed herself against a husband, checked her impulse. On one side daring drew her, on the other her sex broke her down. She raised the sword, then threw it away. Again she took it up, and again the sword slipped from her hand. And she did each many times, and each with tears."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.16.1",
+   "text": "16. So when at last she gave herself wholly to the good of the city, and judged it better for herself to grieve at home than for the whole people to suffer in the marketplace, and the just claim of her anger overpowered nature, and this was now resolved (O that noble mind, O that tyrant-hating soul, O that city-loving mind that set the fallen laws upright again!), she hastens to the last alliance of the people, and trusted that what she could not achieve before by words she would accomplish with the sword."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.17.1",
+   "text": "And none of us who hated him dared this, of the outraged, the wronged, those who suffered ill throughout the whole tyranny, not the champions, not the generals, not the hoplites. And why do I speak of the others? These men who claim to be the city's own, who now pour forth from the platform, who now are so very bold: can you name any of them who reached this pitch of daring, you noble man who now scrutinise the laws so exactly? No, not one of these either had the courage to go so far in daring."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.18.1",
+   "text": "But this noble woman, a woman only in body but manly in soul, or rather in truth free-spirited in both hand and soul, took a dagger under her arm and entered the chamber where he lived in luxury at our expense, and stretching her eyes along with her hand toward the tyrant's slaughter, while looking in mind to you, the people, and setting zeal for the laws against her affection for her husband, she strikes a mortal blow at the man by whom the people had endured being struck."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.19.1",
+   "text": "And with one blow she cast him to the ground along with the whole tyranny, raised up the fallen laws, alone with her sword outgeneralled the man who had killed many, and through one killing won the finest of all trophies ever. And with one hand she brought down three tyrants: affection born of blood, the unmanliness of her sex, and last, a great and fearsome hoplite, a tyrant husband."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.20.1",
+   "text": "20. And having by such an extraordinary killing given everything back to everyone, she herself asks one favour, and a just one. What is it? Not acres of land, not meals in the prytaneum, nor anything else for profit, but one which sensible people would admire, and if you hear it, you will, I think, respect the law of nature."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.21.1",
+   "text": "She has offspring surviving, children still lisping with their tongues and not yet having tasted their father's cruelty, but not yet knowing even what tyranny is, nor that their father is a tyrant. So having rightly killed the father as a wrongdoer, for justice, she seeks to keep for herself as children, and for you as citizens, those who have neither grieved her nor wronged the city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.22.1",
+   "text": "22. But here they leap upon my speech and knock me from my purpose, those who claim that the tyranny extends even to the children, and who put forward the law that says so as though it covered these. But I know the text, and I know in what cases it was written. The law does wish the children of tyrants to be killed, but when they wrong the city along with their fathers, when they imitate their fathers' conduct and attempt the crimes of tyrants, changing the laws and erasing the institutions of the constitution, and in general when the city suffers some harm from them too; then let tyrant children fall with a tyrant father. For those who shared in the villainy will rightly share in the fall too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.23.1",
+   "text": "If then, accuser, you can name any of these things by which the whole people, or even some single individual, has perhaps been outraged by persons of so immature an age, let the victim come and show the outrage, and the people will not spare them; but if the man who did those tyrannical deeds has fallen, and they knew nothing of what he contrived in his tyranny, how, by Zeus, would the decree not seem actually laughable, to kill those who have killed none of the citizens?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.24.1",
+   "text": "24. For if men become liable in two ways, either by striving to the limit of becoming wicked and proving the injustice of their mind by deeds, or by not yet having attempted anything but being otherwise clearly bound to arrive at that intent, unless the people forestall the plot by cutting off the person first; and of these no one can show the one, and time itself does not bear witness to the other, I do not know for what the children could justly be thought to do wrong."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.25.1",
+   "text": "Or will they alone of all men, having done no wrong at all, suffer the penalties of those who have done wrong? First tell me the wrong, and then arm the executioner. Did they then fine any of the citizens, or if not that, drive him out of his country as an exile? Or if you cannot name this piece of wickedness either, do you charge them besides with some unbridled arrogance towards the common people, and wanton outrage and drunken violence? But no one, I think, could testify to either this or that against children who do not yet show a clear tongue. And where wrongdoing is not found, punishment too is escaped."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.26.1",
+   "text": "The lawgiver knows this, and this noble mother of the children knows it too. And since they had dared nothing tyrannical, the mother, together with the laws, spared them. And now she asks the people for them not as the children of the man who fell but as her own, the people to whom, though they asked nothing and had not entreated her beforehand, she of her own choice gave democracy as a gift."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.27.1",
+   "text": "I think that even if it had not been decided by the laws, it would at least have been a disgrace to the people not to grant one law to the woman who has given back all the laws, and that in a way no one would ever have hoped for even in a dream. Nor, <if> she saw her children being seized and bore it, and the people did not pity her but allowed the slaughter, would it even so be right for you, whose whole concern is to do or say nothing outside justice, to endure seeing childless the woman who for your sake killed her husband and preferred widowhood to lawless power for the sake of a lawful constitution and a free platform."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.28.1",
+   "text": "But since now this is also the view of the law, and the lawgiver cries out expressly in so many words from the text that the one who has overthrown a tyranny may ask whatever he wishes, and the city must accept the request, and the people must assent, how could it be just to hesitate to grant, even with the laws on our side, what it would be a reproach to the city not to give?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.29.1",
+   "text": "The lawgiver has closed no manner, no road to a return of favour for those who kill tyrants, but has left the request free and measures the recompense by the wish of those who ask. Let the one who has killed a tyrant ask, he says, for lands, grain, exemption from taxes, money, possessions, anything at all he wants. He will receive from the people whatever he would formerly have received from me, who adorned the constitution with laws. For if he had written the recompense narrowly, he would surely have unwittingly narrowed down the number of future tyrannicides as well. Hence, since tyrannicide needed to be open to all, he generously makes the rewards open to all too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.30.1",
+   "text": "Let the tyrant be killed, he says, by son and wife and father 〈and mother〉, by friends and enemies, by natives and newcomers. Let the trophy be the whole people's, since the prizes too are the whole people's. Let whoever wishes kill the tyrant, and have his wish as his reward."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.31.1",
+   "text": "But if you now, turning the syllables upside down, persuade the people not to think as he defined from the beginning, take care that you are not trying to strike many off the noblest company of tyrannicides, and making the position of tyrants more secure by the very means by which you thought rather to overthrow it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.32.1",
+   "text": "32. You bring up against me the tyrant and the evils of the tyranny, and all the other things that sprang from it, worse still from a wicked seed; but I [bring up] to you the tyrannicide, the plan, the sword, the hand, and all the other blessings that from it now dance around the city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.33.1",
+   "text": "Indeed, you yourself, the accuser, seem by the very means with which you make a tragedy of the tyranny to magnify the tyrannicide. So you have unwittingly been turned around by your own words and turned your purpose to its opposite. For if he was so tyrannical a creature and hateful to the gods, and sinned so greatly against the laws themselves, and behaved so insolently in his drunken violence towards the people that one could name nothing more abominable, of what honour, what kind of reward, how great a request would she not be thought worthy, she who dispelled that thick darkness of slavery, brought in democracy in place of tyranny, and taking power away from the tyrant gave it back to the city and the laws?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.34.1",
+   "text": "34. Tell me, by the laws themselves, what was then done by the tyrant against the laws, and make his impieties a catalogue of the brave deeds of the woman who killed him; and I will add for you the manner in which the tyrant came to lie dead."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.35.1",
+   "text": "The city was under a tyranny, and you, now so brilliant of tongue, kept quiet, and the people, ruled as slaves, did not know what to do. He kept many spearmen to the city's harm, and set many more around his person as a guard on the acropolis."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.36.1",
+   "text": "So while everyone was afraid and cowering at this, and every means had failed, and no better hope remained, this woman, lover of the city and hater of tyrants, saw how great the evil was; she pitied the people for their misfortune, she hated the man for his madness, and from then on confirmed her hatred by deeds. She takes the sword, raises her hand, and at once he was falling and the democracy was being restored. He received a mortal blow, and in us there remained no longer any of the wounds he had dealt."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.37.1",
+   "text": "And now many stand around the corpse, and not all from the same city, but some from ours, some from neighbouring cities, others each from somewhere else. And to all it seems a marvellous thing and beyond marvel: an armed man, a tyrant, a man brought down in all his strength by a woman, and not even by a hostile one whom he perhaps abused in his luxury, but one whom he married according to the laws when he still bowed to the laws, and after his revolt from democracy kept, guarded and loved."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.38.1",
+   "text": "And someone who does not know learns from one of those who do that this man, wicked and a tyrant, having a large guard about his person and keeping even more spearmen against the laws, was brought down by a woman with a single blow, and she exposed that large bodyguard as useless; and that she was such a lover of the city as to have her body with the tyrant but her soul with the people; and though she had great power, greater than the laws, so as to enjoy all the luxuries a tyrant's wife enjoys, she preferred having small power with the laws to having all power without the laws, and having been allotted by Fortune to be the law for others, she rightly cast this off together with her husband, and of her own will places herself under the laws."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.39.1",
+   "text": "Those who have learned this, and are astonished at the tyrant lying so, now admire the city for its good fortune, and regard the daring that comes from women and the courage that has passed to men as no ignoble token, and of its unwillingness to be governed outside the laws; but if they should also learn that she is asking for her children, and that we do not assent but are niggardly towards the woman who has given us great things, I fear that they will admire her again no less and consider her noble, though she met with an ungrateful fortune, while you who vote, but I do not know what to say, by the gods, unless that along with your present ingratitude you will rightly bring upon yourselves the disgrace that follows from it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.40.1",
+   "text": "40. Let the children of a tyrant be led with their father under the hands of the executioners. This is your text, and a covering over the lawgiver's intent; but learn what my law says: for those who have killed a tyrant, let the request be whatever they wish. Which of these is it more just should prevail? By Justice herself, gentlemen, consider."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.41.1",
+   "text": "To begin with, my law carries with justice a great deal of advantage too, while these words, quite the opposite, wrong what is vital. For we must consider what the laws and the writer of the laws cared about from the first. Was it not that the people's interests should be preserved, and those of tyrants be struck and fall?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.42.1",
+   "text": "Well then, the law that kills the children seemed to benefit the city on an uncertain chance, for not all who are children of tyrants would at once become tyrants themselves, and it was allotted the appearance of benefiting once, not often. And unless this law that kills the children is now first killed by you, take care that in future you do not fail to get the children along with the fathers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.43.1",
+   "text": "For what man of sound mind and sense would be so fond of danger as to venture on such great deeds, to thrust himself into the midst of the spearmen's swords, to run the race for his life, and to risk all this while his request hung on two conditions, knowing precisely that, as for his own part, the laws will grant it to him in full, but, as for the other part, should those voting be about to ratify the law concerning it and this be disputed, fearing these men who are brave after the tyrant has fallen and hostile to tyrants beyond what is needed?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.44.1",
+   "text": "So from this text of yours the city will perhaps gain benefits this small and slight, but it will incur a loss far greater than the apparent profit; whereas my law, if kept, will keep the city safe and will hold tyrants in fear of falling by whoever it may chance, but if it is killed, it will at once lie dead along with those who kill."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.45.1",
+   "text": "For this [law] not standing among us as part of our constitution is the same as guarding the persons of tyrants with spears. As it is, the slayers stand close at hand and all tyrants are suspicious, lest by these words the lawgiver has roused and armed someone even among the unexpected to kill a tyrant; but if from now on anyone dares to scrape this text out of the rest of the legislation, let him know well that he has scraped tyrannicide out of the city as well, and taken away freedom along with the tyrannicide. For he has wrongly driven out the fear that before sat in the souls of tyrants."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.46.1",
+   "text": "46. Apart from this, even if this law were going to bring no benefit when kept, yet the fact that it suits the city's character, while the other is crude and cruel in intent, seems to me a strong argument for persuasion that this one should be preserved and the other ought to take second place. For see how the one is gentle and the most humane of all laws, and grants the children in return to the mother, through whom the other mothers rear their children without outrage, and does not wish to shake the hand through which the tyrant who shook the laws is gone; while the other whets the sword, arms the executioner and sets about sacrificing the children, infant children, softly whimpering, and wants to snatch them from the midst of a mother's embrace, she who snatched freedom from the midst of the tyrant's hands and gave it back to the city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.47.1",
+   "text": "Then how is it just or worthy of your humanity that you should rejoice at the fall of the accursed man, while she who gave you that joy sits in a gloomier fortune; that you should hold the celebrations of the glad, at public feasts, altar sacrifices and festivals of the gods, while she is downcast, partly grieving, partly accusing you of ingratitude?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.48.1",
+   "text": "48. If someone, then, were to ask the reason for such things, and she were to say how for your sake she did not spare her husband and showed manly courage beyond a woman's nature, and then how she herself asked for the children, but you did not grant them, and how now she laments her bereavement of both, while you rejoice and pour libations for his overthrow, as though you thought it the restoration of everything, what words do you think he would utter at this?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.49.1",
+   "text": "49. 'So for her sake,' he says, 'shall we abolish a law that is sound?' Yes, and quite justly, because for our sake she, much earlier, [abolished] laws not added in as an afterthought, but truly strong, laws which not this or that citizen but nature herself engraved in the very midst of the soul."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.50.1",
+   "text": "'And shall we preserve the children of a tyrant father for another tyranny?' And why will they at once be tyrants? Why will they at once meddle with the acropolis? How many sons of democrats have taken up arms against democracy, how many, though of good fathers, have themselves shown the worst character! But if you grant this, you have granted the other as well, that even the children of a tyrant father will be more devoted to the people."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.51.1",
+   "text": "Do not, I beg you, remove the law entirely from our constitution. But when a mother asks for her children, preserve [them], and in a novel way arm wives too against tyrant husbands. This will frighten them, and will draw the women to daring in no small measure, if, though the men fall, they will not lose their children as well. But if it is not a mother, not a father, not anyone else of the family, then let your law have its full force. For one foreign to the family makes the choice suspect."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.52.1",
+   "text": "I would gladly ask, gentlemen, this man who is so clever about laws, for what reason the children will pay this penalty. If for crimes they committed against the law, convict them yourself, and punishment remains; but if as offspring of a tyrant father, why should they not rather, and more justly, be saved as children of a tyrannicide mother?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.53.1",
+   "text": "Leave the tyrant aside, pass over to the tyrannicide, and looking at her read over this executioner law of yours, and you would realise that here your sword is thrust out at nothing. If, then, still remembering the father's crimes even now, you bring vengeance on the children, look also at the mother's deeds of valour, and from there you will quench most of your anger; but if over the mother's noble deeds you do not keep your goodwill, do not transfer the blame for the father's wicked deeds to the children either."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.54.1",
+   "text": "And if I must say something sharper in the cause of truth, how are these the children of a tyrant father, who do not even know this, what a tyrant is? Nature has never sown any evil in us of itself; rather, most such lessons are an impression stamped on the soul, and on this account fathers are reckoned teachers of souls."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.55.1",
+   "text": "And just as with bodily things, if a father happens to be healthy, he has given his child a healthy body, and another who is handsome has shaped his face to beauty, while one who is sickly, or by contrast ill-favoured, has implanted such a constitution or stamped such a form, so here too a wise man by his upbringing has implanted good judgement, and someone, even if he did not have nobility from his father, has learned it from another and practised it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.56.1",
+   "text": "So if they had grown up to this age reared under that accursed man, it would not be unreasonable to kill them as having taken the impress of most of his tyrannical ways; but as it is, he had most of his attention on other things and trained his spearmen to commit the gravest crimes, while these children this woman, noblest of all women, first brought forth from her womb, struck by countless birth pangs, then, having borne them, held up to them her tyrant-hating breast, gave them a taste of tyrannicide milk, and took them up in the hands that brought down the tyrant, so that, if children must carry off something of their parents' nature, they would be her children in character and birth alike, and if they ever learned of someone being a tyrant, they would perhaps emulate their mother."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.57.1",
+   "text": "For these reasons I count the children as belonging to this noble woman alone. From them I foresee that the city will have tyrannicides, not tyrants. I look at the woman who reared them, and I judge that the children will also be good. Thus you can keep the law that rages against tyrants, and it remains for me not to abandon the law that grants the children to the mother. They are not of a tyrant father, and they have escaped your text. They boast a tyrannicide mother, and the people have left them to the mother as a consolation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.58.1",
+   "text": "These she herself asked for as her reward, and the city votes them. For one must benefit the woman who reared [our freedom], in whatever way one can. And besides, she asks a reward that will neither grieve the city and will gladden the one who asks it. Neither the manner of the benefaction nor that of the repayment is restricted, but in both cases doing and receiving rests on wish. What is so terrible, then, by Justice herself, if having brought down her husband for our sake she wants to save children who have done no wrong?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.59.1",
+   "text": "59. But here the accuser grants the right to request, while he finds fault with the manner of the request. For she asks for novel things, he says, and passing over what she may receive, she forces what the law has not granted. I too know that she asks for novel things, but for novel deeds, deeds of which the city has never boasted until now. Or can you yourself come forward and tell me many examples of this novel act from our own city? From our neighbours? From Greece? From the barbarian world?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.60.1",
+   "text": "And yet who does not know that, whenever a man is a tyrant, he boasts of his wife as a second bodyguard, much greater than the outer one of those who guard his person? If a spearman grumbled something in anger, she reported it first; if a slave muttered something toward a plot, she signalled it first; if a kinsman or a neighbour [said anything] and it fell on her ear, the tyrant at once learned of it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.61.1",
+   "text": "But this tyrannicide accepted none of these [roles]. Rather, just as he cast democracy out of the city, so she cast him, evil man, evilly, from the acropolis like a pollution. So, having set her hand to affairs in a most novel way, she reasonably makes her request still more novel. For if perhaps the law of this city forbids this, that [deed] was forbidden by a law not of one city but of all nature. Yet she nevertheless turned away from this common law, so that the city might have the proper order of its constitution, and so that you too, with the others on the platform, might unroll your texts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.62.1",
+   "text": "Then again, there is nothing novel if a woman who has been called mother puts nothing before her children. On the contrary, if, being a mother, she did not ask for the children as her reward, one would think the matter a wonder, and would perhaps even suspect the mother of something. As it is, this tyrannicide is at once beyond suspicion and precisely a lover of her city, and the matter of the reward is pure. A mother asks for the children she bore in labour, whom she weaned, whom she reared, whom she educated, and finally, this mark of true mothers, on whom alone she staked all her hopes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.63.1",
+   "text": "And are you not ashamed now to think this novel, by Nature herself? Do you see how even the wild beasts are willing to face danger before their young and renounce life, so that this very thing may be left to them? Is it novel, then, gods, novel, if what one can praise even in brute creatures, a human mother too desires, and puts everything second to her children, for whom she contrives everything else as well?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.64.1",
+   "text": "64. And had she heard such a decree in the assembly, that if she was not to see her children thrown to the ground, she herself must die first, would she not at once have rushed to the sword? But where the lawgiver has permitted one to ask whatever one wishes, there what will she ask, passing over everything else, but her children?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.65.1",
+   "text": "And if, while the constitution was still paralysed, she had come down secretly from the acropolis and sought to have this law abolished by you, so that the tyrant might fall by her hand, what do you say? Would you not have granted it? Would you not have snatched at the proposal like a windfall? Then what you would readily have offered before it happened, will you not give now that you have it, but withhold the reward from the woman who did not hold back from what you would not have asked, and what nature did not allow her to do, because of the timidity of the female sex, and the respect toward her husband that comes from marriage, and the laws of wedlock, and the affection arising from them?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.66.1",
+   "text": "66. Further, if she were going to come again to a man's bed, she would not cling so to her former offspring, but would have hopes of being called mother again by another father. But since she never even entertained this thought at all (for it was not out of blame of her marriage that she dared those great deeds; rather she loved him as a husband but hated him as a tyrant, and it was for our sake, not for loves of her own, that she cut down her first husband, in order to kindle a second wedding torch), how is this fitting for the city, or what justice does it hold, that she, who then became a widow for our sake by removing the all-powerful husband from our midst, should now again, through us ourselves, be deprived even of her children?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.67.1",
+   "text": "67. But the tyrant must by all means suffer a greater punishment. Well then: for him, for wishing to rule wickedly, what was left as the extreme of punishment was a worse death; and for her, would it remain as her request not to be robbed also of her children, her only comfort, and not to see childlessness added to widowhood? Stop, by our present democracy, accuser, lest you seem to be vexed at the means by which she killed the tyrant, and to contrive these things in revenge against the woman who killed him, not as an outrage against him."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.68.1",
+   "text": "She has repaid the city fully for her rearing; she has taken up the sword fully on behalf of the land that bore her. The tyrant revelled in the misfortunes of others, while she, as long as she could escape notice, groaned over them. Things flowed downhill for her, and while we were unfortunate, she would not accept the ease of her fortune for her pleasure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.69.1",
+   "text": "On top of this she dares something bolder still: she leaps on him with a sword, becomes with her own hand the slayer of the man who slew many, and as he fell she said over him: \"This is your wages for your fine tyranny; this is your requital for your many murders. You went beyond human bounds in the cruelty of your ways; so I too will disregard your yoke. You stained yourself with the blood of many of your own; so you too receive your slaughter at your wife's hands. You disregarded the outward laws, those on the tablets, those in the marketplace, those written up in the assembly; so I too will imitate you in this, and will rout the inward laws which nature wrote on souls, together with your tyranny.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.70.1",
+   "text": "Who will not envy this, who will not count it blessed, who will not marvel? And who will justly take from such a woman the title of mother as well? In the run of women even the deeds of the Spartans are extolled, but only up to this noble and city-loving woman. Great is Thrasybulus, but because he overthrew a tyranny that was not his own. Mighty is Heracles, but because he killed beasts fearful to see and more fearful to test one's courage against. Admirable is Theseus, but because he cleared the roads of robbers. She, however, raised up a whole city fallen under a tyrant, disregarded the law of her sex, and fought down the unmanliness that comes from nature."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.71.1",
+   "text": "In this list I place you: with Thrasybulus I admire you, with Theseus I bow before you, with Heracles I revere you. I am amazed at your boldness, I admire your daring beyond measure; I am close to thinking these the deeds not of a woman but of some divinity of the hearth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.72.1",
+   "text": "72. Come here, I pray, most noble of women. Go up to the platform, which because of you now resounds with applause according to the laws; bring forth something of the voice with which you begged the tyrant on behalf of the laws; show your hand bloodied with the tyrant's gore, and perhaps you will shame those who oppose you. Do you see how the accuser has fallen silent, and the people have been moved? Take courage, as the victor. You who carried off the greater prize in deeds will not carry off the lesser among those skilled in words."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.73.1",
+   "text": "Hold out the sword with your hand, still dripping with the tyrant's blood. This sword of yours I will dedicate to the gods. With the spear of Athena, with the thunderbolt of Zeus, this sword of yours will be ranked. It ended a tyrannical cruelty not far short of the insolence of the Titans; it slaughtered a tyrant almost more bloodstained than the Giants. Perhaps the city will also vote you a more splendid monument together with your children, and we will paint you bearing a sword, as our Demeter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.74.1",
+   "text": "Why do you groan? Why do you weep? Why do you eye with suspicion these men who before were terrified, trembling, cowering, and now are clever, loud-voiced, babbling much, pouring in numbers into the assembly? Do not fear for the vote. You have the judges on your side, through having restored them their laws. You have the people, through having made them free of a tyrannical master."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.75.1",
+   "text": "Your tears save your children. For because of you the city does not lament slaughters of men, seizures of women, outrages against children. The novelty of your misfortune draws all alike to pity. For by the same means by which you reshape everything else toward the more novel, [...], by these now too you show a tyrant's children pitied on account of a weeping tyrannicide mother."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00543.opp-grc1.2.76.1",
+   "text": "76. You have the children now. And keep for me, right to the end, your hatred of tyrants in your mind. Having received them from the people, love them, rear them, admonish them, educate them, reshape them wholly toward a more democratic character; and if they reach manhood, show them the sword, lay your hand on their father's grave-mound, recount the tyranny, show them the right hand by which a whole tyranny was cast down. And if they wish to be that father's children, you have the sword: be called tyrannicide once again."
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp853.tmp853",
+ "edition_urn": "urn:cts:latinLit:tmp853.tmp853.ai-claude",
+ "source_edition": "tmp853.tmp853.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Sermones VII A Sancto Patre Quondam Abjudicati: AI translation (Claude)",
+  "author": "Petrus Chrysologus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp853.tmp853.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp853.tmp853.opp-lat1.head": "The text is heavily corrupted by scanning and probably by transmission. Sermon 1, line 7: 'non tamen postulatus' read as 'non nisi postulatus'; a word is lost before 'nomine' (marked [...]). Line 10: the passage from 'Si adhuc non nati' onward seems displaced or corrupt, and the sense is uncertain. Sermon 2, line 12: 'ad vitae pensa no mortis' is corrupt (rendered loosely, gap marked); 'proximorum' read as 'praemiorum'; 'ambiguum prophetam' read as 'Ambacum (Habakkuk) prophetam'; 'non quia ... audivit in partem' is obscure; 'perdidernt' taken as 'perdiderant'. Line 13: 'cur ex hoc est exhortaturus' is unintelligible and is marked [...]; 'Mount Sion' stands in the text, though Sinai is meant; 'terebat' read as 'ferebat'; 'nulle vocas' taken as 'merito vocas'. The Habakkuk and Psalm citations follow the Old Latin and the Vulgate numbering.",
+  "urn:cts:latinLit:tmp853.tmp853.opp-lat1.14": "Line 14: 'cursum claudit' read as 'cursum claudis' (running to the lame). Line 15: 'regis cui' read as 'regis sui'; 'tot' may be corrupt (perhaps 'eius'). Line 16: the final sentence ('unius Domini ordinem naturam, familia per diversa voluntatum sita...') is garbled; the rendering is tentative. Line 20: 'ante pastum gregis quam succum lactis invadere totum' is obscure; a gap follows 'cunarum' in the edition; the Apostle reference given as 1 Cor. 1:15 is 1 Cor. 1:25. Line 21: 'Mens' read as 'meum'; stray 'a' omitted. Line 24: the second citation is Rom. 6:12. Line 26: references printed as Matt. 6:13 and John 7:50 correspond to Matt. 6:25 and John 6:41. Line 28: 'laqueos delinquit' is evidently corrupt; read as 'laqueis relinquit' (leaves to the snares).",
+  "urn:cts:latinLit:tmp853.tmp853.opp-lat1.29": "The scanned text is corrupt in several places. Line 29: 'ipse sibi... indulsit' is odd, and 'tibi' may be meant. Line 31: 'conscientia servulis' is read as 'servilis'. Line 33: 'totam solius Christi regnet' is corrupt, and the sense is guessed. Line 34: 'furia castitas' is corrupt; 'gloria' is conjectured. Line 35: 'conqueretur' is read as 'coqueretur'; the phrase about being 'prepared by the passion of the cross' seems to duplicate the preceding clause. Line 39: 'a non promptus spem, pon rem' is read as '[te] spem, non rem'; 'Ut qui tub fatigaris spe Dei? fide vivas' is read as 'Utquid tu fatigaris? Spe Dei fide vivas'; 'fit tusi' is read as 'Et tu si'; the psalm reference 'Ps. XVI, 20' is an error for Ps. 26:14, which is given. Line 41: the Isaiah clause ('adhuc hominem pervenire posse debet') and 'tempus non sinit me dici in hoc timore dinumerari' are corrupt; the first is rendered by conjecture, and part of the second is marked as lost.",
+  "urn:cts:latinLit:tmp853.tmp853.opp-lat1.42": "42: 'quod et divinitus adoratus tanto nunc suo amore flammatur' is garbled; 'adoratus' read as 'adoptatus'. 43: 'quo te rapuit cælestis gratia, quo te rapuit cælestis natura' looks like a dittography; both phrases translated. 44: 'censemur et Domine' is unclear, perhaps for 'nomine' ('reckoned by his name'). 45: 'Quantum namque est temerarius qui discutit, de genere ignarus est qui non audet' is corrupt and the rendering is tentative. 47: the psalm reference 'LVXII 22' is garbled; the verse is Ps. 67:20 (Vulgate). 51: 'Ii' read as 'Si'. The reference given as John 10:19 is John 10:29. 53: 'nihil deputat suum' could also mean 'counts nothing as its own'; 'docet amare quae odisse non novit' is rendered loosely."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.head",
+   "text": "APPENDIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab1",
+   "text": "SEVEN SERMONS OF ST PETER CHRYSOLOGUS, ARCHBISHOP OF RAVENNA, ONCE DENIED TO THE HOLY FATHER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab2",
+   "text": "SERMON 1."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab3",
+   "text": "On the Lord's Prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.2",
+   "text": "You have received the hearing of faith, dearest brothers; now hear the form of the Lord's Prayer. Christ, who wants to grant quickly what is asked, teaches [us] to pray briefly: or what will he not give to those who ask him, who gave himself to those who did not ask? Or what delay will he make in answering, who in dictating the prayers so anticipates the wishes of the suppliants? What you are about to hear today, the angels are astonished at, heaven marvels at, the earth trembles at; flesh cannot bear it, hearing cannot take it in, the mind does not reach it, the whole of creation cannot sustain it; I do not dare to say it, [yet] I cannot keep silent. May God grant that you may be able to hear and I to speak. Which is more awe-inspiring: that God gave himself to the earth, or that he gives you to heaven; that he himself enters into fellowship with flesh, or that he makes you enter into partnership with the divinity; that he himself took on death, or that he takes you back from death; that he himself is born into your servitude, or that he begets you for himself as free children; that he takes up your poverty, or that he makes you his heirs, co-heirs of his only Son? Certainly it is more awesome that earth is carried over into heaven, that man is changed by deity, that the lot of servitude obtains the rights of lordship. But although this is to be feared, nevertheless, since the matter regards not the one who speaks but the one who commands, let us approach, little children, where charity calls, love draws, affection invites; let [our] inmost parts feel God [as] Father, let the voice resound, let the tongue speak, let the spirit cry out. Let all that is in you respond to grace, not to fear; for he has changed the judge into a Father, he wished to be loved, not feared."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.3",
+   "text": "Our Father who are in heaven (Matt. 6:9; Luke 11:2). When you say this, do not take it as if he were not on earth; do not understand it as if he who encloses all things were enclosed in a place; but understand that he whose Father is held to be in heaven has his lineage from heaven. And act so that by living holily you may answer to a holy Father. He proves himself a son of God who is not darkened by human vices, who shines with divine virtues."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.4",
+   "text": "Hallowed be [your] name. Whose lineage we are, by his name too we are reckoned. We ask therefore that the name which in itself and through itself is holy be hallowed in us; for the name of God is either honoured through our conduct, or blasphemed through our actions. Hear the Apostle saying: The name of God is blasphemed through you among the Gentiles (Rom. 2:24)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.5",
+   "text": "Your kingdom come. And when has God not reigned? We ask therefore that he who has reigned for himself may always reign in us, so that we too may be able to reign in him. The devil has reigned, sin has reigned, death has reigned, and mortality was long held captive. We ask therefore that, with God reigning, the devil may perish, sin may fail, death may die, captivity may be taken captive, so that we, free, may reign into everlasting life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.6",
+   "text": "Your will be done as in heaven, so also on earth. This is the kingdom of God: when in heaven and on earth God's will alone exists, when in all men God lives, God acts, God reigns, God is all, according to that [saying] of the Apostle, that God may be all things and in all of us (1 Cor. 15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.7",
+   "text": "Give us today our daily bread. He who gave himself to us as Father, who adopted us to himself as sons, who made us heirs with himself, who exalted us with [his] [...] name, who presented us with his honour and kingdom, has himself bound us to ask for daily bread. In the kingdom of heaven, among divine gifts, what does human poverty seek? Does so good, so loving, so generous a Father grant bread to his children only when asked? And where is that [saying]: Do not be anxious about what you will eat, or what you will drink, or what you will wear (Matt. 6:31)? Does the Father command this, which he forbids [us] to think about? What are we to hold? The heavenly Father urges us to ask for the heavenly bread of the heavenly Son; he himself said: I am the bread who came down from heaven (John 6:51). He is the bread which, sown in the Virgin, leavened in the flesh, kneaded in the passion, baked in the oven of the tomb, stored in the churches, brought to the altars, supplies heavenly food daily to the faithful."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.8",
+   "text": "And forgive us our debts, as we also forgive our debtors. Man, you cannot be without sin; and [if] you want to be forgiven always and entirely, always forgive entirely; as much as you want to be forgiven, forgive that much. As often as you want to be forgiven, so often do you forgive; indeed, since you want to be forgiven everything, forgive everything. Man, understand that by forgiving others you have given pardon to yourself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.9",
+   "text": "And lead us not into temptation. Since in this world life itself is temptation — Man's life, it says, is a temptation (Job 7:1) — we ask that he not leave us to our own choice, but in every action bind us with fatherly love, and strengthen us on the path of life by heavenly governance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.10",
+   "text": "But deliver us from evil. From what evil? From the devil, of course, from whom comes all evil. We ask to be freed from evil, because one who has not been rid of evil cannot enjoy good. If those not yet born, if those still set in the womb ask for bread, seek the kingdom, why is a question raised that the Son of God [was] always in the mystery of God the Father, and that the Son of God was in God the Father? How is it treated by human reasoning? Divinity is not, is not to be judged in a human way. You have heard [the word] God: think nothing earthly, nothing human. You have heard [of] the Father of Christ: believe this by substance; you have heard [of] your Father: believe this by grace. He always had being the Son; he has given you to be a son only now. So know yourself a son in such a way that you are not unaware that you are a servant. Hear that you have been brought back to the likeness of Christ in such a way that you recognise you are always subject to Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab4",
+   "text": "SERMON 2."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab5",
+   "text": "On the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.12",
+   "text": "The mortal condition, the earthly frame, the muddy substance, a nature worn down by uncertain toil [...] of death for the task of life, consumed by punishments, subjected to the rotting of dust, cannot grasp, and is afraid to believe, what today it is compelled to confess. Such grace of gifts, the greatness of rewards, the generosity of favours, human frailty cannot discover. I think the prophet Habakkuk foresaw this with the gaze of his mind, when, shaken with such great dread and stirred by the trembling of having heard this, he said: Lord, I have heard your report and was afraid; I considered your works and was terrified (Hab. 3:2). He feared the report, not because the servant then found his Lord as his fellow servant and heard it in part, or because, contemplating the fabric of this world harmonising for itself out of such discordant elements, he was terrified; but because, considering such great works of love toward himself, he was then shaken with the trembling and dread of wonder. I considered, he says, your works and was terrified. He was terrified at being adopted as a son, when [men] had lost the confidence even of servitude. Finally, so that you may know that the prophet then received from heaven by hearing the affection of this prayer, which the divinity today instils and pours into you, see what he said again, as if undone by dread of this gift: I guarded myself, he says, and my belly was terrified at the voice of the supplication of my lips (ibid. 16)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.13",
+   "text": "After he had perceived such great generosity of the divine gift, he guarded himself, lest he should again endure himself as an enemy, a foe, a robber in paradise: he becomes more watchful, a more careful guardian of himself, he who after the loss of so great a thing had perceived that he had found a heavenly treasure, as Paul says: We carry this treasure in earthen vessels (2 Cor. 4). I guarded myself and my belly was terrified. The prophet here calls the inner parts of the heart the belly, because just as the [belly] is fed and filled with food, so the heart with perceptions: and my belly was terrified at the voice of the supplication of my lips. If the understanding of the heart had poured out the voice to the mouth, had owed the words to the lips, why [should he be terrified at] his own prayers, his own desires [...]? He was terrified because he was speaking not at the prompting of his own heart, but by the breath of the divine Spirit. Hear Paul saying: God sent the Spirit of his Son into our hearts, crying, Abba, Father (Gal. 4:6). Since, when he transmitted what he heard to his inner parts, he marvelled that he had merited so much, and the whole inner man was in dread, he rightly added: And trembling entered into my bones, because the prophet's very inmost parts were shaken; and beneath me, he says, my strength was disturbed. Why beneath me? Because one and the same man, now raised again by grace, lay beneath his former self by nature, and earthly strength could not sustain heavenly strength. Mount Sion smoked already when God came down onto the mountain to bring the law: what would flesh do when God came down into flesh? The Father came to bestow grace on the flesh, because man could not bear God, nor the servant the Lord. And since he who said, Open your mouth and I will fill it (Ps. 80:11), is faithful in his words, open your mouths now, so that he may fill them with such a prayer and such a cry. Where are those who distrust God's promise? See how quickly the confession of faith has been rewarded: as soon as you confessed God as Father of his only Son, you yourself were adopted as a son of God the Father, so that you might be an heir of heaven, you who were held an exile from paradise and from earth. And therefore you rightly call: Our Father who are in heaven. For you once had a father who dissolved you into mud, who led you to the prison of hell and dragged you there. Let him not know the earth, let him not know love of the flesh, let him not seek a father of dust, let him permit nothing of vice to be lawful in himself, who from God the Father seeks again a heavenly nature, so that he who believes himself a son of God may answer to so great a lineage in conduct, life, morals and integrity, lest, descending again to earthly things, he tend toward an insult to so great a Begetter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.14",
+   "text": "Hallowed be your name. If the name of Christ gives sight to the blind, running to the lame, health to those worn out by various sickness, life to the dead, and sanctifies you yourself, O man, and the whole creation, how is it that you pray for and request the holiness of that name? Because you are called Christian from Christ, and therefore you entreat that the privilege of so great a name may be strengthened in you by the merits that follow."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.15",
+   "text": "Your kingdom come. He himself who holds in his own power the life of his coming commands devotion, demands desires, seeks out vows. Faithful is that soldier who thirsts for the presence of his king, and seeks and longs for so many triumphs of the kingdom. But here you ask that he may come to you and into you to reign, in whom the devil long held the citadel, death the command, and hell the power. Let us pray, therefore, dearly beloved, that Christ may always reign in his soldier, so that the soldier may always triumph in his king."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.16",
+   "text": "Your will be done, as in heaven, so on earth. Blessed is that day which joins, unites and makes equal the will of earthly beings with that of heavenly ones, so that among unlike substances there may be one and the same will. This is faithful peace, unshaken concord, persevering grace, because the household, set among diverse wills, is found one and the same in mind with the order and nature of the one Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.17",
+   "text": "Give us this day our daily bread. After the heavenly kingdom, who would ask for temporal bread? But [it is] daily [bread]. And so he wishes us to ask for the provision for the journey in the sacrament of his body, by which we may come from this to the everlasting day and to the very table of Christ, so that from what we have tasted here, we may take from it the fullness of food and complete satisfaction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.18",
+   "text": "And forgive us our debts, as we also forgive our debtors. He who asks thus and does not release debts accuses himself even by what he prays: he who asks that only as much be given, only as much be forgiven him, as he himself forgives and gives at his pleasure, invites God to such a pact; as much as he has granted to another, so much let him demand to be granted to himself. But debts are to be forgiven, brothers, not of money only, but of all matters, faults and crimes, whatever a man can incur. When another has incurred these against you, pardon him; he asks pardon for his own sin with confidence who willingly pardons one who sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.19",
+   "text": "And lead us not into temptation. We are compelled to ask this in many ways, brothers, lest frailty, daring too much and rashly presuming on itself, gathering none of its strength, should fall in the conflict through lack of caution; and then God, offended, should hand over to temptations those whom he abandons."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.20",
+   "text": "But deliver us from evil. He thinks humbly enough of himself who implores to be delivered from evil through God. Sign yourselves. Understand, little children, how great is the glory and power of the perfected, how great of the strong, when such strength is revealed in the very conception, such majesty in the birth. Not yet born, he calls on the Father, asks for holiness, seeks the kingdom. He gives laws to the earth, makes earthly wills equal to heavenly ones, and, already devoted, demands rations for future labours: Give us, he says, this day our daily bread. Blessed are you who have begun to conquer before the battle, to triumph before you live, to come to the Father's bosom, to the Father's storehouse, before [you come] to the mother's bosom; to seize the whole pasture of the flock before the juice of milk; to sound victory with a shout of joy before answering with a wail, before [...] of the cradle. Truly, as the Apostle said, the weakness of God is stronger than men (1 Cor. 1:25). But who will be able to tell the mystery of so great a conception, where a virgin mother gives birth to a world every day, and does not leave her offspring to toil, but sends them on from an earthly origin to glory?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab6",
+   "text": "SERMON III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab7",
+   "text": "On the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.21",
+   "text": "All the things that are related as said and done by God are matters for wonder, for amazement, to be dreaded by mortals, to be trembled at even by the heavenly beings themselves. But nothing so amazes heaven, so frightens earth, so terrifies the whole creation, as what you are about to hear today as we speak. A servant dares to call his Lord Father; a guilty man names his judge his begetter; the earthly condition by its own voice adopts itself as a son; he who lost earthly things reckons himself heir of the Divinity. But we dare, because there is no presumption on the part of the speaker where there is the authority of one who commands. For he himself wished you to say it today, who taught us today to pray thus. And what wonder if he then consecrated men as sons of God, when he gave himself to men and fitted himself to be a son? He then transferred the nature of flesh into the divine, when he brought deity down to human nature. He then made man his co-heir in heavenly things, when he made himself a sharer in earthly things. Or what love, what gift, what honour could he deny to man, who took on everything that was man's, both sin and death? Or how will he not have man with him in his prosperity, who in adversity made himself man's companion? O man, return to God, so loved by God; and give your whole self to his glory, who for your sake brought his whole self down to your humiliation; and call him my Father, whom you prove, feel and understand to be your begetter by so great a love."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.22",
+   "text": "Our Father who are in heaven. Let no one wonder that one not yet born calls on the Father. Things yet to be born are born to God; things future are done for God. He has made, it says, the things that are to be (Eccl. 6:10). Hence John in the womb perceived his Maker and stood forth as a messenger to his mother while he did not yet know life. Hence Jacob is read to have fought before he was born, and began to triumph before he lived. Hence those who do not yet exist for themselves already exist for God, since you were chosen before the foundation of the world. Our Father who are in heaven. Not that he is not on earth, but so that by this you may know that you are a heavenly offspring. And if you confess yourself a son of God, live as a son of God, so that in conduct, life and virtues you may answer to so great a begetter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.23",
+   "text": "Hallowed be your name. Because you are called Christian from Christ, you ask that the privilege of so great a name be hallowed in you, for the name of God, which is in itself and for itself holy, is either hallowed in us by our conduct, or by our conduct blasphemed among the gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.24",
+   "text": "Your kingdom come. He himself says: The kingdom of God is within you (Luke 17:21). If it is within us, why do we pray that it come? It is in faith, it is in hope, it is in expectation, but we pray that it may now come. And may it come to us, not to him who always reigns together with his Father, always reigns in the Father; but may it come to us: Come, blessed of my Father, receive the kingdom that has been prepared for you from the beginning of the world (Matt. 25:34). We say your kingdom come, so that God may reign in us in such a way that death may cease to reign in us, sin may cease to reign. Death reigned, it says, from Adam to Moses (Rom. 5:14). And elsewhere: Let not sin reign in your mortal body (ibid. [6:12])."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.25",
+   "text": "Your will be done, as in heaven, so on earth. Now on earth many things are done according to the devil's will, according to the wickedness of the age, according to the will of the flesh. But in heaven nothing is done except the Lord's will. We ask therefore that, the devil being slain, the age made new, the body changed, the rule of death destroyed, the dominion of sin abolished, there may be in heaven and on earth, in God and in men, one and the same will of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.26",
+   "text": "Give us this day our daily bread. After the heavenly kingdom we are not bidden to ask for earthly bread, since he himself forbids it when he said: Do not be anxious about what you will eat or what you will drink (Matt. 6:25). But because he himself is the bread that came down from heaven (John 6:41), we ask and pray that the very bread which we receive daily, that is, continually, we may take in eternity as food for body and mind."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.27",
+   "text": "And forgive us our debts, as we also forgive our debtors. By saying this, O man, you have set the manner and measure of pardon, and you have given it to yourself, you who ask from the Lord as much for yourself as you yourself have forgiven your fellow servant. Forgive, then, the whole to one who offends against you, if you wish yourself to owe the Lord nothing for your own offences. In another, forgive yourself, if you wish yourself to escape the avenging sentence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.28",
+   "text": "And lead us not into temptation. God tempts no one, as it is written; but he is said to tempt when he leaves those who go stubbornly toward temptation to its snares. So Adam ran into the ambush of the tempter when he abandoned the commands of his Creator. But whence and by whom man is tempted he has revealed by saying thus: But deliver us from evil, that is, from the devil, who is both the author and origin of all evil. The devil was heavenly by nature; now he is spiritual wickedness, older than the world, practised in the habit of doing harm, most skilled in the art of injuring. Hence he is called not so much evil as Evil itself, from whom is everything that is evil. Hence man, bound in fleshly chains, cannot be freed by his own strength. We must ask, therefore, that God deliver us from the devil, he who lent Christ to the earth to conquer the devil. Let man cry, let him cry to God, let him cry: Deliver us from evil, so that from so great an evil we may be delivered, Christ alone conquering."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.29",
+   "text": "Our Father, who are in heaven. The theme of praying, the matter of asking, the rule of supplicating he himself, who is to be entreated by you, has granted in very few words, so that from this you may take the sense of asking, grasp the understanding of requesting, gather the measure of obtaining, and by a brief lesson receive the fullest instruction in praying; and at the same time, because at the tribunal of love the King himself performed the office of advocate, so that he himself might dictate the prayers he was going to answer. All hesitation about deserving is taken away when the one who is asked has chosen himself [as advocate] in the prayers. Fear has no place where a son desires, through an interpreter, to obtain from the Father the things that are holy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab8",
+   "text": "SERMON 4."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab9",
+   "text": "On the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.30",
+   "text": "Dearest brothers, he who granted you to believe has himself also taught you to pray, and has fitted the whole form of asking into a few words, because when a son asks his father he does not labour at many prayers. For just as need drives the one begotten to ask, so love urges the begetter to give. The Father, then, who gives of his own accord, shows not so much that he should be asked as what should be asked, so that the Son may please by asking what is just, who can displease by requesting what is foolish. Hear the Father, and believe now that you are sons, so that you may obtain without hesitation whatever you ask. What faith avails, what belief can do, how great confession is, is shown today in us. See, the threefold confession of the Trinity has lifted you from earthly servitude into heavenly offspring; see, the faith that spoke of God the Father has today won God as Father for you; see, the voice that confessed the Son of God has adopted you as sons of God; see, the belief that proclaimed God the Spirit has changed you from the mortal substance of the flesh into the life-giving substance of the Spirit. Who is found a worthy proclaimer of such great goodness? God the Father deigns [to make] men heirs; God the Son does not disdain [to make] little slaves co-heirs; God the Spirit takes up flesh in the heights as sharer with divinity under his rule and right, as the Apostle proves when he says: Or do you not know that we shall judge angels (1 Cor. 6:3)? Call, then, upon the Lord as Father, and believe that you, even if not yet born, are already designated sons, and take care that your life be heavenly, that your ways be divine, and that the whole form of the Godhead be displayed in you as sons; for the heavenly Father enriches with divine gifts the sons who answer to their birth, and recalls those who degenerate to penal servitude."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.31",
+   "text": "Our Father, who are in heaven. The conscience of slaves would give way, the earthly condition would dissolve, if the authority of the Father himself and the Spirit of the Son himself did not rouse us to this cry. God, it says, has sent the Spirit of his Son into our hearts, crying Abba, Father (Gal. 4:6). The mind grows weary, the flesh fails before divine things, unless God, who commands what is to be done, himself fulfils what he commands. When has mortality dared to call [God] Father, except now, when men on earth are given life by heavenly power? Our Father, who are in heaven. Man, what have you in common with the earth, you who confess that your race is in heaven? Show, then, a heavenly life in your earthly dwelling, because if an earthly thought has acted in you, you have brought a stain upon heaven, an injury upon the heavenly race."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.32",
+   "text": "Hallowed be your name. We do not ask that God hallow his name, which by its holiness saves and sanctifies the whole creation. Brothers, this is the name which the powers on high dread, which they receive in fearful servitude; this is the name which puts demons to flight; this alone is the name which frees souls held captive by the savagery of the devil; this is the name which gives salvation to a lost world. But we ask that the name of God be hallowed in us by our deeds. For when we act well the name of God is blessed; when we act badly it is blasphemed. Hear the Apostle saying: The name of God is blasphemed among the Gentiles (Rom. 2:24). We ask, then, we ask that, as holy as the name of God is, so much holiness may we deserve in our ways."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.33",
+   "text": "Your kingdom come. As though the kingdom of Christ had not always existed, we now ask that it come. And where is that kingdom of God? It is within us. It is within us by faith, but we pray that it may come in reality. Brothers, when the devil, with every kind of wickedness and a manifold art of deceiving, disturbs the face of things and confounds the senses and ways of men, rages, raves through sacrilegious idols, deceives by auguries, lies through divination, misleads by signs, mocks by magic arts, absorbs by spectacles, besieges by vices, wounds by sins, injures by crimes, lays low by despair, he puts off the kingdom of Christ and keeps it away from us. We ask, then, that the time may come when, the author of so great an evil perishing, the whole world, the whole creation, may reign wholly with Christ alone, may triumph unto glory, and what follows may come to pass."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.34",
+   "text": "As in heaven, so also on earth. Let earth [and] heaven be the one will of the Lord; let life be God, time eternity, homeland rest, wealth innocence, honour immortality, [glory] chastity, God all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.35",
+   "text": "He added: Give us this day our daily bread. After the fatherhood of God, after the holiness of the divine name, after the kingdom of heaven, we are bidden to ask for daily bread. Christ is not subject to forgetfulness; Christ does not command things contrary to his own commandments. He himself says: Do not be anxious about what you will eat or what you will drink (Matt. 6:31). But because he is the bread that came down from heaven, who was ground in the form of law and grace, who was made into flour on the cross, who was prepared by the passion of the cross, who was leavened by the great sacrament of goodness, who raised the leavening of the dough from the tomb, who, when he was baked with the heat of his divinity, himself burnt out the oven of hell, who as heavenly food is brought daily to the table of the Church, who is broken for the remission of sins, who feeds and nourishes those who eat him unto everlasting life: this bread we ask to be given us daily, until we enjoy it in that everlasting day."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.36",
+   "text": "And forgive us our debts, as we also forgive our debtors. Man, the power of pardon is in your hands, its granting is in you; you have been made the author of your own remission. You ask for pardon in vain, you who disdain to be indulgent to yourself in another. Man, you yourself have been made the measure of mercy for yourself; as much mercy as you seek, so much show."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.37",
+   "text": "And lead us not into temptation. Temptation, brothers, deceives by appearance: it makes things look prosperous in adversity, hides adversity in prosperity, and leads human ignorance into treacherous falls. We ask, therefore, that we may not, driven by sins, fall into the pits of temptations. The Lord is said to lead in when he abandons those who run toward crimes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.38",
+   "text": "But deliver us from evil. Here evil designates the author of evil, that is, the devil. We ask, then, one thing: that by this gift we may be free from all evils together with the evil author."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.39",
+   "text": "Our Father, who are in heaven. Let no one, when he calls himself son, be surprised that he remains in the condition of servitude. You have been designated today for divine offspring; know that you have attained the hope, not the thing. Hear the Apostle: You are saved by hope; but hope that is seen is not hope; for what a man sees, why does he hope for? But if we hope for what we do not see, we wait for it with patience (Rom. 8:24). Today is the day of adoption, today is the time of promise. Hear, believe, wait; trust your creditor, who trusted you as debtor; wait a little while for him to come, who long bore with you until you came; give him a delay, but [give it] to a promiser who has already forgiven you whatever was owed. Why do you grow weary? Live by faith in the hope of God. The farmer would never sow, panting, if he did not hope for the fruit of his labour in due time; the traveller would not undertake the labour of a long journey unless he believed he would reach his destination; the sailor would not enter the uncertainties of the sea if he did not reckon that the gains to follow would make up for the dangers; the soldier would not spend all the years of his youth in perils if he did not hope for the abundant honours of old age; the son would not endure the years of his father's authority if he did not hope to be heir to his father's estate. And you, if you already believe yourself a son of God, [hear] the prophet: Wait, act manfully, and let your heart be strengthened, wait for the Lord (Ps. 26:14). Wait, so that by the faith of waiting and by the virtue of patience you may attain [to be] God's heir. Hear the Apostle: We are sons of God, but it does not yet appear what we are. When he appears, we shall be like him (1 John 3:2). And again: Our life is hidden with Christ; when Christ your life appears, you too will appear in glory (Col. 3:3). Brothers, blessed are the sons of God, because they will both possess the inheritance of all things and will never see a time of mourning for the death of the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab10",
+   "text": "SERMON 5."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab11",
+   "text": "On the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.41",
+   "text": "What I am now about to say with great trembling, what you are now about to hear with awe, or rather to call out with awe, the angels are astounded at; the powers on high fear it, heaven does not contain it, the sun does not see it, the earth does not bear it, the whole creation does not attain it. What is a mortal breast before these things? What is the feeble mind of man before these things? What are the narrow limits of human sense before this? What is the breath of the human voice before these things? What is the human tongue, soon to fall silent, before this? Paul, when he had seen this invisibly, revealed it by not revealing it, saying: Eye has not seen, nor ear heard, nor has it entered into the heart of man, what God has prepared for those who love him (1 Cor. 2:9). Isaiah, when he had scarcely begun to take this in with his hearing, [doubting] that it could yet reach the hearing of man, said: Lord, who has believed our report (Isa. 53:1)? Jeremiah, when he had conceived this by divine hearing, was enduring the labour of heavenly perceptions, crying: My belly pains me and the senses of my heart are troubled (Jer. 4:19). Habakkuk spoke this out by the breath of the divine Spirit when he says: He guarded me, and my belly trembled at the voice of the prayer of my lips, and trembling entered into my bones, and my strength was shaken beneath me (Hab. 3:16). Raised up by the power of God, he felt his own strength give way beneath him. It would take long to follow and count up the terrors of the saints over this sacrament; time does not allow me [...] in this fear, and the onrush of the heavenly birth of those being born cannot be delayed. I speak, then, and address you still in the womb with an inward voice; with provident exhortation I forewarn you that before you see your mother you should call upon his Father; that before a mother's caresses you should stretch out and hasten to the Father's kingdom; that you should come to the Father's bread before you hang at your mother's breasts. Let neither a mother's need nor the seasons of age claim anything in you for themselves, but let everything in you answer and correspond wholly to the divine author, wholly to the heavenly Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.42",
+   "text": "Our Father who are in heaven. This is what I trembled to utter; this is what the condition of their own servitude allowed no one, either of heavenly beings or of earthly, to suspect: that so great an exchange could suddenly come about between heaven and earth, between flesh and God, that God should be turned into man, man into God, the Lord into a servant, the servant into a son, and that there should come to be, in an ineffable manner, one everlasting kinship of divinity and humanity. And the condescension of the Divinity towards us is so great that the creature cannot know what it ought most to marvel at: whether that God lowered himself to our servitude, or that he caught us up to the dignity of his divinity. Hence it is that man, who has been adopted by God, is now inflamed with so great a love for him, that while still in the womb he adopts himself as a son by your voice. O blessed are you, to whom it has been given to rule before being born, to reign before living, to come to the glory of God the Father before recognising the lineage of your own lowliness. Happy mother the Church, who beholds you such as you are, who, while she remains a virgin, marvels that she has given birth to you, so great and in such a way."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.43",
+   "text": "Of old this birth was foreshadowed by examples that went before. Hence it is that Jacob and Esau, twins in the womb, fight over the honour of the first place, delay their birth, and do not wish to see the light before they conquer. Hence it is that John leaps for joy and runs to meet his author before he comes forth from the womb of the one who bore him. And so human children serve as soldiers for God before they are known to their parents, before they live for the world. What wonder, then, if the Church's divine offspring, if God's progeny, still in the womb, already confesses that it is of heavenly stock: Our Father who are in heaven. Amazement rises up: Christ, from the bosom of God the Father, calls upon a mother and confesses her on earth; and man, from his mother's womb, calls upon the Father and confesses him in heaven: Our Father who are in heaven. To what heights, O man, has grace suddenly carried you, where has heavenly grace caught you up, where has a heavenly nature caught you up, that, though still placed in the flesh and on the earth, you already knew neither flesh nor earth, saying: Our Father who are in heaven. Let him, then, who confesses and believes himself the son of so great a Father answer to his birth by his life, to his Father by his conduct, and let him assert in mind and in deed what he has obtained through his heavenly nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.44",
+   "text": "Hallowed be your name. Whose offspring we have begun to be, his [name] also we are surely reckoned by, and the Lord's. And therefore we ask that the hallowing of that name may persist in us, the honour and prerogative of the name which the loftiness of so great a begetter has thus exalted."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.45",
+   "text": "Your kingdom come. We ask this of him who never lacks and never has lacked a kingdom, indeed who is himself his own kingdom and holds in himself the whole power of the kingdom. But because he wishes us to come to the promised glory of his kingdom, he urges us to seek this with all our prayers; on this he wishes us to set our whole minds eagerly. For however rash he may be who examines [this], he is ignorant of his birth who does not dare; he burns, he pants, when he strives and presses on towards the promised kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.46",
+   "text": "Your will be done, as in heaven, so on earth. Then all is now heaven, then the mind of God is one in all; then all are in Christ and Christ is in all, when all savour and do the will of God alone; then all are one, or rather one is all, when the one Spirit of God lives in all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.47",
+   "text": "Give us this day our daily bread. As in the psalm: Blessed be the Lord day by day (Ps. 67:20), so here, give us this day our daily bread: by 'daily' we mean 'continual'. That bread is continual which came down from heaven: I am the bread which came down from heaven. That bread, then, belongs to perfect blessedness. 'This day', that is, in the present, to live already on the food of that bread with whose everlastingness, that is, 'daily', we shall be fattened in the future."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.48",
+   "text": "And forgive us our debts, as we also forgive our debtors. From the heart of the suppliant a spring of pardon flows, and whatever mercy overflows will flow back to pardon, and it pours out upon another when it grants to itself as much as it has forgiven another. Forgive us our debts, as we also forgive our debtors. The merciful man is well able to contend with God in mercy, since he desires to be given to himself as much as he has given, to be forgiven as much as he has forgiven. O man, keep pardon always in your heart, if you wish not to fear [your] crimes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.49",
+   "text": "And lead us not into temptation. These words need no interpretation, since the temptation of the devil is a forerunner and a bitter servant. But as long as [one] is confined in this frail body, he must pray that no way in may lie open to temptation against us, and no access be granted to the devil. But deliver us from evil: may our Lord Jesus Christ himself deliver us from evil and lead us to every good, who lives and reigns as God, now and always, through infinite ages of ages. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab12",
+   "text": "SERMON 6."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab13",
+   "text": "On the words of the Gospel, Matthew 17: This kind is cast out by nothing but prayer and fasting."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.51",
+   "text": "We must surely hold fast the weapons which the Lord has shown us against the wickedness of demons. This kind, he says, is cast out by nothing but prayer and fasting (Matt. 17:20). When these are practised with full faith, it is godliness. And godliness is profitable for all things, having the promise of the present life and of the life to come (1 Tim. 4:8). Let us, then, consider to our profit the fruits of prayer and fasting, since these are weapons against wicked thoughts. Fasting purifies the mind, lifts up the understanding, subjects the flesh to the spirit. Fasting makes the heart contrite and humbled, which God does not despise. Fasting scatters the mists of desire, quenches the fires of lusts, kindles the true light of chastity. Fasting does not love wordiness, condemns superfluous riches, spurns pride, commends humility, enables a man to understand himself as what he is, weak and frail; and while he thus understands himself to be feeble, he more fittingly seeks and receives help from the power of God, and he seeks it through frequent prayers and supplications. Prayer, indeed, is the refreshment of fasts, and summons the grace of the Holy Spirit. Prayer softens hardness of heart, tempers severity, sweetens fasting. For as there is no full refreshment without drink, so too fasting without prayer cannot perfectly nourish the soul. And what is prayer but the ascent of the soul from earthly things to heavenly, a seeking of things above, a longing for things invisible? Let the discord of worldly ways, by which the human mind is daily oppressed, depart. Prayer is a union with the Holy Spirit, provided only that the mind is intent in prayer, as the prophet cries: My soul has thirsted for you, how manifoldly my flesh for you (Ps. 62:2). And what is to be thirsted for follows: that it may see your power (ibid., 3). Believe me: if the soul of human substance thirsts fully to see the full power of God, and does not, overcome by weariness, neglect it, it will be filled with spiritual fat and richness; and, thirsting for that visitation of God, it will cry out with its own understanding and with faith: My soul has clung after you, your right hand has upheld me (ibid., 9). Fasting takes away sluggishness and removes carnal hindrances from the mind. Persevering prayer joins [the soul] to God, and so, rejoicing, it glories that it stands beside the Lord. And the soul clinging to the Lord begins to have security and freedom; it endures neither terrors nor fears. Having received so great a protection of the right hand of God, how could it be harmed by any power, as it is written that no one snatches it from the Father's hand (John 10:29)? This fasting provides, this prayer provides."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab14",
+   "text": "SERMON 7."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab15",
+   "text": "On the words of the Gospel, John 14: My peace I give"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.ab16",
+   "text": "to you, my peace I leave to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp853.tmp853.opp-lat1.53",
+   "text": "It is the Lord's voice, dearest brothers: My peace I give to you, peace I leave to you (John 14:27). As we are about to speak of peace, let us first see what the benefits of peace are. Peace is serenity of mind, tranquillity of soul, simplicity of heart, the bond of love, the fellowship of charity. It is this that removes feuds, restrains wars, suppresses angers, tramples the proud, loves the humble, calms those in discord, reconciles enemies, and is pleasing to all. It does not seek what belongs to another, it counts nothing its own; it teaches to love, since it does not know how to hate. It does not know how to be lifted up, it does not know how to be puffed up. Let him, then, who has received it hold it fast; let him who has lost it seek it again; let him who has let it go search it out: for whoever is not found in it is disowned by the Father, disinherited by the Son, and made no less a stranger to the Holy Spirit. For he rejects the gift offered who despises the good of the law that was given; nor will he be able to come to the Lord's inheritance who has refused to observe the testament. He cannot have concord with Christ who chooses to be at discord with a Christian. It is, then, a crime of contumacy to despise what is commanded, to refuse what is enjoined, to turn away from what is ordered. What have you in common with discord, Christian? Why do you love feuds, which could not please the author of peace? Why do you practise enmities, which not even he who first invented them could escape? For in the beginning, while the serpent stirs up enmities against the first-formed man, he is slain; while he envies man, he himself is laid low; while he desires to deceive Adam, he himself is first to have his throat cut. Therefore, Christian, either embrace the charity of Christ, or recognise that by the likeness of your works you are the equal of the author of discord."
+  }
+ ]
+}

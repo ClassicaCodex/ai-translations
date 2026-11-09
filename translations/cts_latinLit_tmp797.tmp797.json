@@ -1,0 +1,387 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp797.tmp797",
+ "edition_urn": "urn:cts:latinLit:tmp797.tmp797.ai-claude",
+ "source_edition": "tmp797.tmp797.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-07",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Theodoretus Cyrensis: AI translation (Claude)",
+  "author": "Incertus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp797.tmp797.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp797.tmp797.opp-lat1.head": "Line 1.3: 'succisam' (Baluze 'successam') is uncertain; 'cut-down' follows the printed text, while the variant may mean 'that has followed' or 'that has sprung up'. Baluze's variants are editorial apparatus and are not translated; the main text is followed unless noted here. Line 3.5: 'sanctum' after 'ex Virgine' is awkward and may be an error for 'sumptum' (taken). Line 3.13: the edition cites Mark 6:14, but the quoted words belong to Acts 10:38. Line 3.15: 'sine Deo' (without God) renders the Heb. 2:9 variant reading on which the argument depends, not the more usual 'by the grace of God'. Line 3.19: the passage appears corrupt; 'post assertionem ei in' and 'nam dico' are hard to construe, and 'ei' may stand for 'etiam'. The rendering is tentative. Line 3.20 opens with words from Isa. 42:18. 'paro-rem' is read as 'pavorem' (fear). Line 4.2: 'conquisitos' (Baluze's note 'loco requisitos') is uncertain.",
+  "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.head": "5.3, 5.5 and later lines: Baluze's variant readings, printed in the edition, are given in brackets as in the earlier excerpts. 5.3: *livore* (envy) fits the argument better than *timore* (fear). 6.2: the opening sentence is compressed in the Latin; '[is said]' is supplied and *a naturis* is read as 'of natures'; *constantibus* (subsisting) is uncertain. 7.4: Baluze's *ungue* is the imperative of *unguo*, another form of *unge* ('anoint', as a trainer anoints an athlete). 27.1: the Latin *et de primum quam* appears garbled; translated as 'and first concerning the one which'. 27.7: *non tamen velut is approbetur* is obscure; apparently Theodoret means that clearing Cyril's writings of heresy does not imply approving Cyril himself. 27.11: the singular *confiteretur* is translated as it stands, but it may be an error for a plural with the Egyptians as subject, since the following clause and the letter excerpted in 27.15 suggest that they are the ones confessing two natures. 27.14: the edition cites 1 Cor. 13:10; the quotation is 1 Cor. 10:13, and the reference has been corrected.",
+  "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.18": "Scanning errors are silently corrected throughout, including 'Theodoretiead' (Theodoreti ad), 'Theodoretieepistola' (Theodoreti epistola), 'qure' (quae) and 'Nou' (Non). Baluze's variants, printed in the edition: at .27.19 he reads Magisterianum; at .27.28 'novi aliquid docuit' (who taught nothing new apart from sound doctrine); at .27.32 'filii templum est' (but [he] is the temple of the Son), which agrees with the version at .27.34 and suggests that the 'Dei Filius templum non est' of the main text may be faulty. In .27.34 'cum eo' is masculine and does not agree with 'invidia'; it may refer to a person (presumably Cyril) or be a slip for 'cum ea' (with it). 'Requiescant' there may mean 'let them rest' or 'let them cease'. 'Propositionem' at .27.19 is uncertain: it may mean our proposal or our stated position. At .27.22 the Tarsus, Chalcedon and Ephesus promise presumably refers to undertakings by the Eastern bishops in 431; the text does not specify."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.head",
+   "text": "EXCERPTS FROM THEODORET"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.1",
+   "text": "From the five books which, at the devil's instigation, he wrote against the blessed Cyril, bishop of the city of Alexandria, and the holy Council of Ephesus, by which Nestorius was condemned."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.1.head",
+   "text": "FIRST EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.1.1",
+   "text": "From Theodoret's preface to the five books against the blessed Cyril and the holy Council of Ephesus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.1.2",
+   "text": "FIRST EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.1.3",
+   "text": "Before the assembly at Ephesus was held, we opposed the twelve chapters briefly and openly, so that the understanding even of the less educated and of those unpractised in reasoning might have foreknowledge of these things. But since the man who put them forward has declared himself openly in the council, and many of those who had assembled, being rather unskilled and not instructed in any knowledge of doctrine, judged these things to be pious, it seemed worthwhile to strive against them again, to extend the discussion, and to refute the cut-down blasphemy in many ways, so that we may prove more clearly to the ignorant how the things now chiefly put forward by these people are shown to be contrary to the Gospels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.2.head",
+   "text": "SECOND EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.2.1",
+   "text": "From the same author, from the first book of this work."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.2.2",
+   "text": "For this reason the child was long ago, many ages before his birth from the Virgin, called Emmanuel. And Emmanuel indicates the natures both of him who took and of him who was assumed; for it is interpreted \"God with us\", that is, God in our nature, God in man, God and man, God made man, God clothing himself without circumscription in the nature of man, God in a human temple, God with us, God on account of the union of him whom he received from us. Therefore Emmanuel is not only God, but also man; and he himself was both called Christ, and named Jesus, and called Saviour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.2.3",
+   "text": "Likewise from the same first book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.2.4",
+   "text": "If a mixture or confusion had taken place, and one [thing] had been produced from both substances, God would not be God, nor would the temple exist as a temple; rather God would be the temple, and the temple would be God by nature, for this is what admixture brings about. And if this is so, the Lord was not speaking fittingly when he said: Destroy this temple, and in three days I will raise it up (John 2:19). For he ought to have said: Destroy me, and in three days I will rise again, if indeed the two natures had made one by a blending of mixture."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.head",
+   "text": "THIRD EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.1",
+   "text": "Likewise from the same author, from the second book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.2",
+   "text": "But Gabriel too, bringing the good news to the Virgin, as the blessed Luke sets forth, says: Behold, you will conceive in the womb and bear a son, and you will call his name Jesus; he will be great, and will be called Son of the Most High, and God will give him the throne of David his father, and he will reign over the house of Jacob for ever, and of his kingdom there will be no end. And therefore also the holy [one] who will be born of you will be called Son of God (Luke 1:31). Observe that here too all things are said in a human way. He will be, it says (Luke 1:35), great; it did not say, he is. And he will be called Son of the Most High; it did not say, he is called, or he is. It did not say, he has the throne of David his father, but, [God] will give [it] to him. And he will reign; it did not say, he reigns. Over whom? Over the house of Jacob; it did not say over angels and archangels. And again, the holy [one] will be called Son of God; it did not say, is called."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.3",
+   "text": "What do you say to this, you who, setting your own passions before the Truth, have for the sake of human contests allowed yourselves to wage battle on God? To whom do these things apply? To God, who also always is, and to the king, and the holy one, and the Son of God? Or rather to the temple, which was taken from the seed of David and on account of its union with God the Word merited these very things?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.4",
+   "text": "And likewise there, a little later."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.5",
+   "text": "And so he did not foretell that God's Word would be great after the birth from the Virgin, but [that] the temple [would be], which is holy from the Virgin, assumed, united, and itself also co-named son; not so that we should worship two sons, but so that, beholding the invisible God in the visible temple, we may offer him one glory of veneration."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.6",
+   "text": "Likewise in the same second book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.7",
+   "text": "When you find: But the Lord, full of the Holy Spirit, returned from the Jordan (Luke 4:1), and again: Jesus went out in the power of the Spirit into Galilee (Luke 4:14), do not suppose that God's Word needed the cooperation or help of the Spirit, but [that] the visible temple [did], which enjoyed the various gifts of the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.8",
+   "text": "And likewise in the same place, some way further on."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.9",
+   "text": "Now, so that you may see clearly the division of the two natures, let us come to the teaching of the Lord himself. The Jews came to him saying: What sign do you show us, that you do these things (John 2:18)? Jesus answered: Destroy this temple, drawing them with a demonstrative word to the visible [thing], and in three days I will raise it up (John 2:19), showing his hearers the power of the Godhead."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.10",
+   "text": "From the same book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.11",
+   "text": "This one God exalted as author and Saviour (Acts 5:31). Who, then, was exalted? Not the Most High, but that nature which the Godhead exalted, which the Jews killed by hanging [it] on a tree; for this was exalted, by the conjunction of him who took it and dwelt in it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.12",
+   "text": "From the same book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.13",
+   "text": "It is clear, he says, who rose on the third day, and who raised this up, according to the promise of the Saviour, who said: Destroy this temple, and in three days I will rebuild it (John 2:19). That which rose on the third day, that the Jews hanged on a tree: This God anointed with the Holy Spirit and with power (Acts 10:38). For God the Word did not need anointing or the working of the Holy Spirit; rather the temple [did], which he assumed from the seed of David and joined to himself. And the Apostle shows this clearly, recalling the anointing which was done by God, and the Holy Spirit by whom he was anointed, and the power which he enjoyed, and how he brought about healing: Because, he says, God was in him (Mark 6:14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.14",
+   "text": "From the same book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.15",
+   "text": "We see Jesus, made a little lower than the angels on account of the suffering of death, crowned with glory and honour, so that without God he might taste death for all (Heb. 2:9). He separates [God] from the suffering, saying: so that without God he might taste death for all. For it is this one whom he declares to have been made a little lower than the angels; but God the Word is not lower than the angels, but is the creator of angels, and powers, and dominions, and of every creature invisible and visible."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.16",
+   "text": "From the same book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.17",
+   "text": "Adding one testimony to all these, I shall bring my discourse to an end: Jesus Christ yesterday and today, the same also for ever. How then (this, most wise men, we must consider), how is the same one yesterday and today and for ever, both temporal and eternal, both in time and above time? For if he is eternal, he is not temporal; and if he is in time, he is not above time."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.18",
+   "text": "[Words of Marius Mercator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.19",
+   "text": "Likewise from the same author, from the fourth book. After the testimonies of the holy Fathers, which the wicked and impious man strives to twist to his own abominable meaning, and after his assertion, he did not fear to make mention also of certain heretics (I mean, indeed, also Theodore), whom he even endeavoured to extol with the highest praises, and he uttered these things as an exclamation, to the insult of the holy Fathers who condemned Nestorius at Ephesus, saying:]"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.20",
+   "text": "Hear, you deaf, and you blind, look. And who is blind and deaf, except the one who is deranged in mind and does not wish to attend to the truth, closing his eyes to its rays and depriving himself of light? Hear, then, the teacher of truth, who rightly instructs [us] to divide the sayings of the Gospels and the Apostles, and to ascribe the lofty ones to the Godhead and assign the lowly ones to the humanity. And at last cease resisting this pious division; and do not inflict fear on simpler people through dread of the anathema. For we regard the things that you put forward as frightening as refuse, and we keep the teachings of the holy Fathers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.21",
+   "text": "Words of Marius Mercator"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.3.22",
+   "text": "With these words this profane man strives to weaken, as he supposes, the sentence that was rightly passed with the imposition of anathema both on Nestorius and on those like him, so that his followers and accomplices may not, through fear of present and future punishment, cast off the doctrines of depravity and strive to come to the path of unity. Finally, so that the wickedness of his heart may appear clearly, in the last part of the fourth book he celebrates with his praises in this way Theodore, bishop of the city of Mopsuestia, whom almost all Catholics know to be a heretic."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.4.head",
+   "text": "FOURTH EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.4.1",
+   "text": "From the last part of Theodoret's fourth book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.4.2",
+   "text": "For this reason, he says, I have not brought forward the great Theodore, champion of piety and defender of the Gospel proclamations, because he too, on account of I know not what, is attacked by you together with us; and after a great many sweats and sought-out labours, after so many contests and numerous studies, he is assailed by the calumnies not of outsiders but of his own people and his companions in the faith. For he had to, with Paul, after those from gentiles and robbers, count also the dangers from false brothers (2 Cor. 11:26), and in short the dangers of that kind. For this reason we chose deliberately to pass over so great a man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.head",
+   "text": "FIFTH EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.1",
+   "text": "Likewise from the fifth book, which is the last of his whole work."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.2",
+   "text": "Words of Marius Mercator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.3",
+   "text": "This accursed man strives to construct this calumny against the holy synod which rightly struck down Nestorius, so that he dares to say that the blessed Fathers who assembled at Ephesus issued that sentence not with the aim of right doctrine, but rather from fear [Baluze's reading: envy], so that the faithlessness of Apollinaris, long buried, might seem to have been renewed by them; and this faithless man heaps up this insult against the holy bishops of God in these words."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.4",
+   "text": "From Theodoret's fifth book, on behalf of Theodore."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.5",
+   "text": "So strong has envy been, to which you have sold yourselves, that the things Apollinaris once spoke through one or two men, and those in hiding, he now displays through many prelates of the Church to the sacred congregations of the Churches, and such [Baluze's reading: lethal] herbs are offered to the flocks by shepherds, and the bites of wolves are inflicted on rational sheep by the ministry of their rulers; and he who, in two or three cities, used to address a few people outside the enclosure of the walls, people whom he also led astray with various songs, now, through you, dances in the midst of the cities; for you preach his errors and adorn yourselves with novelties of expression, restoring his blasphemy, which had already been consumed by time."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.6",
+   "text": "Words of Marius Mercator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.5.7",
+   "text": "What kind of union of Godhead and humanity this same Theodoret professed is necessarily made clear by what he wrote, in these words."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.6.head",
+   "text": "SIXTH EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.6.1",
+   "text": "From the same book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.6.2",
+   "text": "What the Lord says, he says, of husband and wife, that they are no longer two, but one flesh (Matt. 19:6), [is said] of natures which undoubtedly subsist, but which have distinction; and just as there the number two is no obstacle to their being called one flesh, for it is certain in what way they are called one, so also here the unity of person is no obstacle to the difference of the natures. In short, when we distinguish the natures, we say that the nature of God the Word is complete, and the person without doubt perfect; for it is not right to assert a substance without a person; and we likewise confess that the human nature is perfect, with its own person. But when we look to the conjunction, then at last we rightly name one person."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.head",
+   "text": "SEVENTH EXCERPT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.1",
+   "text": "Likewise from the fifteenth chapter of the same book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.2",
+   "text": "These things, he says, expose the emptiness of Apollinaris, who asserts that God the Word dwelt in the assumed flesh in place of reason or mind. For if the assumed nature did not have a human mind, it will be God who fought against the devil, God also who achieved the victory; but if God achieved the victory, I have received no benefit from this victory, as one who could contribute nothing to it; and I am also deprived of the joy that has come from this, exulting over another's triumphs. But the devil dances and is lifted up, and is proud and boasts, as if he had wrestled with God; for it is a great thing for him even to be defeated by God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.3",
+   "text": "Likewise from the sixteenth chapter of the same book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.4",
+   "text": "Using this defence too, the devil could fittingly have said to God: I, Lord, creator of all things, did not take up the contest against you; for I know your dignity, I understand your power, I recognise your dominion, I confess my servitude, although I am known to be a runaway; and I concede the victory both to the angels and to all the heavenly multitude, from among whom I too, unhappy one, once came; but I took up the contest against this one, whom you formed from the mud, and made in your image, and honoured with reason, and established as a citizen of paradise, and showed to be lord of land and sea. Him I deceived by seduction, not by compulsion; him I do not cease to this very day to overcome, to throw down and to hand over to death; I persist in bringing him to the stadium and ordering [Baluze's reading: taking] him to wrestle with me: stand by yourself as a spectator; show him how to wrestle even with the skill that athletes employ, teach him the rules of the contest, anoint [Baluze's reading: ungue, another spelling of the same word] [him] as you wish; only do not give him help; for I am not so bold and deprived of my mind as to attempt to contend against you, the maker. These things the devil would justly say to Christ the Saviour, if it were not a man, but God, who was fighting on man's behalf."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.5",
+   "text": "From the twenty-ninth chapter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.7.6",
+   "text": "The Son of God, inseparably joined to the man, taught him the discipline of the highest virtue, and kept him unharmed by the darts of sins, and showed him whole and superior to the devil's deceit, and, permitting him to taste death for a short time, immediately freed him from its tyranny, and granted him a share in his own life, carried him up to the heavens, and made him sit at the right hand of the Majesty, and gave him the name that is above every name, conferring on him his own dignity and taking up the designation of his nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.head",
+   "text": "EXCERPTS FROM THE LETTERS OF THEODORET."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.1",
+   "text": "So far concerning the book *Peri enanthrōpēseōs* [On the Incarnation], or Pentalogos; now concerning the letters, and first concerning the one which Theodoret wrote to Nestorius, to which Mercator, having translated it into the Latin language, prefixed this preface."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.2",
+   "text": "Words of Marius Mercator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.3",
+   "text": "To Nestorius, who had been placed in exile for his faithlessness, Theodoret wrote a letter in which he discloses that, compelled not by love of honour but by truth itself, he had approved the doctrine of the blessed Cyril, whom he calls the Egyptian, but that he in no way gives his consent to the condemnation of that same Nestorius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.4",
+   "text": "Letter of Theodoret to Nestorius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.5",
+   "text": "To my truly God-loving lord and venerable holy Father, Bishop Nestorius, Theodoret [sends] greeting in the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.6",
+   "text": "That city life and deference and glory do not overcome me, and that I have no need of lofty sees, I think your holiness knows. For if nothing else, at least the desolation of the city whose stewardship I seem to have been allotted has sufficiently taught me this philosophy, a city which, it is agreed, on top of its desolation also has crowds of lawsuits, which could hold back a great many, even those who exult too much in such things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.7",
+   "text": "Let no one, then, persuade your holiness that I, out of desire to be a prelate, have accepted the Egyptian writings with closed eyes as correct doctrine: for I confess by truth itself, turning them over quite often and examining them diligently, I found them free of heretical depravity, and I dreaded to impose any stain on them; not, however, as though that man should be approved who has been the cause of disturbance to the whole world; and I hope that I shall be liable to no offences on this account on the day of judgement, because the just judge searches out the purpose of each person."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.8",
+   "text": "But to the things that have been done unjustly and wickedly against your reverence I shall not be able to give consent, not even if someone were to cut off both my hands, with divine grace no doubt working with me and lifting up the weakness of my soul."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.9",
+   "text": "And I have also made this certain by letter to those who demand these things, and I have sent your holiness [Baluze's reading: your] copies of what I wrote back to them, so that it may recognise that no length of time will change us, by divine grace [Baluze's reading: has changed... shows], nor will it show us to be octopuses or chameleons [another reading: turncoats], of which the former imitate rocks and the latter leaves, according to their own colours. I and those who are with me send many greetings to all the brotherhood in the Lord who are with your reverence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.10",
+   "text": "Words of Marius Mercator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.11",
+   "text": "He dispatched another [letter] to Constantinople in support of the Nestorians, in which he says that he confessed the two natures and the other doctrines of piety, as the Egyptians [did], but that no correction has followed concerning the iniquity committed against Nestorius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.12",
+   "text": "Of Theodoret to Andrew, monk of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.13",
+   "text": "And after other things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.14",
+   "text": "But God is faithful, who will not allow either us or you to be tempted beyond what we are able, but will make with the temptation also a way out (1 Cor. 10:13), so that we may be able to endure, and he will refute the lie: although even now the assertion of the lie is shown to have been refuted, and the power of the truth displayed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.15",
+   "text": "For behold, those who had confounded the natures of Christ the Saviour by impious reasoning, and had dared to preach one nature and to attach sufferings to the Godhead, and who for this reason had also insulted [Baluze's reading: resisted] Nestorius, the most holy and venerable bishop of the most high God, have, as with a kind of muzzle and bridle (Ps. 31:9), according to the prophet, had their jaws utterly broken and been led from what is crooked to what is right, and have learned the truth again, using the assertion of him who endured wars for the truth. For in place of one nature they now confess two (anathematising those who preach mixture or confusion), and they venerate the Godhead of Christ as impassible [Baluze's reading: in passibility], and they explain that the sufferings belong to the flesh, and they divide the sayings of the Gospels, and ascribe to the Godhead those that are sublime and worthy of God, and assign the lowly ones to the humanity; for such are the writings now brought from Egypt."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.16",
+   "text": "Words of Marius Mercator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.17",
+   "text": "He also wrote another to Andrew, bishop of Samosata, after reading the letter of holy Cyril, bishop of Alexandria, sent from Beroea."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.18",
+   "text": "Of Theodoret, to Andrew, bishop of Samosata."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.19",
+   "text": "The magnificent man Aristolaus has sent from Egypt a *magistrianus* [an imperial agent] with a letter of Cyril, in which he anathematises Arius, Eunomius, Apollinaris, and those who say that the Godhead of Christ is passible, and those who assert a confusion and mixture of the two natures; and at this we have indeed rejoiced, although he has shunned our proposal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.20",
+   "text": "But he demands subscription to the condemnation made some time ago, and that the doctrine of the holy bishop Nestorius be anathematised. Your holiness knows, however, that if anyone should indiscriminately anathematise the teaching of that most holy and venerable bishop, it is the same as if he were seen to anathematise piety."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.21",
+   "text": "We ought therefore, if we are absolutely compelled, to anathematise those who say that Christ is a mere man, or who divide our one Lord Jesus Christ into two sons, and who deny his Godhead, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.22",
+   "text": "I think that above all my lord John, the most holy and venerable bishop, has been fully assured that I will in no way agree to give consent to the condemnation of my lord Nestorius, the most holy and venerable bishop, nor to violate the common promise that was made at Tarsus, and Chalcedon, and Ephesus: for he also remembers the things that we often declared recently at Antioch after our return. So let no one deceive your holiness [into thinking] that I will ever agree to do this, with God, without doubt, working with me and strengthening me."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.23",
+   "text": "Of Theodoret, a letter to Himerius, bishop of Nicomedia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.24",
+   "text": "Among other things: We make our intention known for certain to your holiness: having read the letter sent from Egypt, and having often discussed it among ourselves, we have found it in agreement with the teaching of the Church; but we have established that it is contrary to the twelve chapters, which we have persisted in opposing up to the present."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.25",
+   "text": "We have therefore resolved that, if your holinesses recover the Churches divinely entrusted to you, [we should] be in communion with the Egyptians and the Constantinopolitans, and with the others who are known to have fought alongside them against us, because they have professed to hold our faith, or rather that of the apostles; but [we should] not give consent to the condemnation of the venerable and most holy Nestorius, which is said to have been made. For we judge it truly unjust and impious, in the case of the same charges of which his associate too had been guilty, to grant pardon to the one, yet shut the door of repentance on the other; much more unjust, then, and more impious, to hand over an innocent man to death."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.26",
+   "text": "So let your holiness know that we judge that we should not enter into communion with them before you recover your Churches. And this was decreed not by me alone, but by all the most holy bishops of our region, in a council held [for the purpose]. And I have already told your holiness before that if the doctrine of my lord the venerable and most holy bishop Nestorius is condemned, I too will not be in communion with those who do this. And if it pleases your holiness to include this very thing in the letter to be sent to Antioch, let it be done; so let it not be delayed, I beg you, [I] following in your footsteps."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.27",
+   "text": "To the same, after he learned that John had anathematised the doctrine of Nestorius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.28",
+   "text": "After other things: Let it not, he says, be hidden from your holiness that after I read the letter sent to the emperor, I was greatly grieved at heart; because I clearly recognise that the one who wrote it, though he holds the very same view, has indiscriminately and unjustly condemned him who knew and taught nothing except sound doctrine. But the anathema inserted, although it is apt to disturb the reader more than the consent to his condemnation, nevertheless gave comfort, because it was placed not indiscriminately but with a certain consideration. For he did not say: We anathematise his teaching; but: whatever he said or thought otherwise than the apostolic teaching contains."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.29",
+   "text": "Words of Marius Mercator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.30",
+   "text": "Likewise from the Acts drawn up against Domnus, bishop of Antioch, in which the same Domnus is accused because, in his presence, openly in the church, that same most abominable Theodoret dared, after the death of Cyril of holy memory, bishop of Alexandria, to speak as follows, insulting his blessed falling asleep."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.31",
+   "text": "From a sermon delivered at Antioch by Theodoret, after the death of holy Cyril."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.32",
+   "text": "No one now compels anyone to blaspheme. Where are those who say that it is God who was crucified? God was not crucified, but a man was crucified, Jesus Christ. But God raised up his temple from David, as the same David foretold: Man begets man. And by nature the Son of God is God the Word; but Christ is the son of David: but the Son of God is not the temple. There is no more strife, Egypt and the East have come together under one yoke, envy is dead, and heresy has been buried with it. Now those who preach a suffering God are at rest, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.33",
+   "text": "Another version in the Fifth Synod, different not only in words but also in some of its sentences."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp797.tmp797.opp-lat1.27.34",
+   "text": "No one now forces anyone to blaspheme. Where are those who say that it is God who was crucified? God is not crucified; a man was crucified, Jesus Christ, who is of the seed of David, the son of Abraham. It is a man who died, Jesus Christ. But God the Word raised up his temple, which is from David, as David said: Man begets man. And he who is by nature the Son of God is God the Word. But Christ is the son of David; but he is the temple of the Son of God. There is no longer strife, the East and Egypt are under one yoke, envy is dead, and strife has been buried with him. Let the *theopathitae* [those who say that God suffered] rest."
+  }
+ ]
+}

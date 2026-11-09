@@ -1,0 +1,1138 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0559.tlg016",
+ "edition_urn": "urn:cts:greekLit:tlg0559.tlg016.ai-claude",
+ "source_edition": "tlg0559.tlg016.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Liber geeponicus [Sp.]: AI translation (Claude)",
+  "author": "Hero of Alexandria",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0559.tlg016.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.head": "Numerals corrected for evident misprints: in 47 ,βφί read as 2500, ε as 5000 (,ε), and ,Ϛφλζ as 3537 (,γφλζ). In 52.1 the text gives 240 and 120, though 12 × 40 = 480 (area 240); the figures are translated as printed and are evidently faulty (perhaps the perpendicular should be 20). In 43 κλίματα and σκόπελοι are uncertain in this sense; rendered 'regions' and 'peaks'. Cross-references (Def., ibid., Geom.) are the editor's pointers to Hero's Definitions and Geometrica. Scanning errors silently corrected: τετραγονια (τετράγωνα), Τίωες (Τίνες), κτερέῶν (στερεῶν).",
+  "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.53.1": "53.1: the area is written τ𝒢Ϛ (396?); the reckoning (×4 = 1560) requires 390, which is translated. 55.1: the text reads ἐπιγεγράφθω ('described on'), taken as 'inscribed', as the method requires; the final figure ν´ (50) contradicts the computed 8 and is evidently corrupt. 57.1: ἐπιγραφομένου likewise used for the inscribed circle. 58.1: μερίζουσι ('they divide') read as μερίζω. 59.1: 'and the area' breaks off; something seems lost. 64.1: the division of 3388 by 88 is missing; the text jumps to the result 38 1/2. 65.2: οὐτῶν and ἔσπαι read as αὐτῶν and ἔσται. 68.1: στρωτήρ ('flooring') may mean floor-boards, paving slabs or joists; the sense is uncertain. 71.1: ἀμφώτου is unexplained (perhaps a corner or edge of the base) and is left as [...]; the total for four walls should be 755 (ψνε´), not 701 (ψαε´) as written. 72.1: the closing clause 'roofed from 3' is obscure. 73.1: a stray footnote numeral after ἐμβαδόν has been ignored.",
+  "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.74.1": "78.1: the numbers are inconsistent as transmitted (53 is derived, but the sides are given as 56 and 54, and the areas 344 and 2862 do not follow); translated as given. 79.1 likewise has unclear arithmetic. 82.1: 'jars' renders κεράμια, a liquid measure. 87.1: the clause on subtracting the overlap is awkwardly phrased and probably corrupt; the divisor 2 1/4 is unexplained. 95.2: ἀνοὰ read as ἀνά. 95.3 is corrupt: 'μο. ῧ' perhaps conceals μοδίους (modii); ἀγελαῖοι δάκτυλοι ('common digits') is obscure; the arithmetic of the final clause is unclear. 92.1 'ibid. 32' is probably an error for 132.",
+  "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.100.1": "102–103: γεϊκόν and κεφαλή appear to be fiscal land units; the exact sense of 'ἐνσπόρου καὶ γεωμένων', 'παγάδος', 'ἔρρουν ἔρρειθρον' and 'εὐνιτρόγεων' is uncertain, and a numeral is lost before 'eight' (* * in the edition). The figures (e.g. 2 iugera for well-watered land; 133 1/3 cubits to the iugerum) are as transmitted and may be corrupt. 146: a stray γ after τριπλασιάζεις is omitted. 152: 100/12 is 8 1/3, not 8 1/2 as the text has; the octagon rule here (×5 ÷12) differs from the general one.",
+  "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.162.1": "165.2: 'the Roman mile, as it is called among them' renders an awkward phrase (τὸ καλούμενον παρ' αὐτοῖς). 166: the text gives the linear foot 'length and breadth', evidently an error for length only. 184: the instruction to multiply 'both amounts' by 7 (not 57 as printed, νζ΄) is uncertain; the printed figure is 57 — read literally 'by 57'; I have rendered 7, which is likely wrong: the sense requires multiplying the sum by 7 and dividing by 29 (d = 7S/29). Read 57 as a scanning error for ζ΄ only tentatively. 197: the arithmetic is confused (e.g. 'height' 741½); 𝒢 is taken as the numeral 90 (koppa). *Tetraseiron* and *bēsalikon* are obscure Byzantine terms, kept untranslated. 198: '18¼' is inconsistent with the steps given. 201: the wine figure is marked corrupt in the edition (ξ μ ιη untranslatable). Modestus is presumably the praetorian prefect of the 4th century (Domitius Modestus).",
+  "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.202.1": "202.2: the oven procedure is very compressed and its sense is unclear; ἔμφυτον taken as 'capacity', and τὸ βασιλικόν as a 'royal' measure (or method) is a guess. 204.2: 'each modius at 46 xestai' (μϚ΄) contradicts the preceding 16 xestai and is probably an error for ιϚ΄ (16). 205.1: ψυχόμενον ('cooling') ends the sentence abruptly; the point may be that fresh grain settles as it cools. 205.2: 'μέ ξ ν ε' is abbreviated or corrupt, perhaps 'measures of 55 xestai'; the line breaks off at the end of the text."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.head",
+   "text": "VII. Hero's Book on Land-Measurement."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.1",
+   "text": "Hero's book on land-measurement."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.1.1",
+   "text": "What are the general differences between figures? Of figures, some are plane, others solid, etc. (See Def. 27)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.2.1",
+   "text": "What are the differences between plane figures? Of the figures in surfaces, etc. (See ibid. 28)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.3.1",
+   "text": "On the non-composite plane figure, which is the circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.3.2",
+   "text": "A circle is the plane figure contained by one line, etc. (See ibid. 29)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.4.1",
+   "text": "On the diameter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.4.2",
+   "text": "The diameter of the circle is a straight line drawn through the centre, etc. (See ibid. 30)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.5.1",
+   "text": "On figures in planes composed of heterogeneous boundaries, such as the semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.5.2",
+   "text": "A semicircle is the figure contained, etc. (See ibid. 31)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.6.1",
+   "text": "What is an arch? An arch is what is less than a semicircle, etc. (See ibid. 32)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.7.1",
+   "text": "What is a segment of a circle in general? A segment of a circle in general is, etc. (See ibid. 33)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.8.1",
+   "text": "What is the angle in a segment of a circle? The angle in a segment of a circle is, etc. (See ibid. 34)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.9.1",
+   "text": "What is a sector of a circle? A sector of a circle is the figure contained, etc. (See ibid. 35)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.10.1",
+   "text": "What are the differences between rectilinear figures in planes? Of those in planes, etc. (See ibid. 40)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.11.1",
+   "text": "What is a triangle? A triangle is a plane figure, etc. (See ibid. 41)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.12.1",
+   "text": "Which kinds of triangles are there, and how many? Of triangles, or three-sided figures, etc. (See ibid. 42)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.13.1",
+   "text": "What is the equilateral? Equilateral, then, is, etc. (See ibid. 43)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.14.1",
+   "text": "What is the isosceles? Isosceles are those which have only two sides equal. (See ibid. 44)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.15.1",
+   "text": "What is the scalene? Scalene are those which have all three sides unequal. (See ibid. 45)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.16.1",
+   "text": "What is the right-angled? Right-angled is that which has one right angle. (See ibid. 46)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.17.1",
+   "text": "What is the acute-angled? Acute-angled is that which has all three angles acute. (See ibid. 47)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.18.1",
+   "text": "What is the obtuse-angled? Obtuse-angled is that which has one obtuse angle. (See ibid. 48)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.19.1",
+   "text": "Properties of triangles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.19.2",
+   "text": "All equilateral [triangles], then, are acute-angled, etc. (See ibid. 49)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.20.1",
+   "text": "On four-sided figures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.20.2",
+   "text": "What is a plane quadrilateral? A plane quadrilateral is, etc. (See ibid. 50)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.21.1",
+   "text": "What are the differences between quadrilaterals? Of four-sided figures, etc. (See ibid. 51)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.22.1",
+   "text": "What are squares? The right-angled, then, etc. (See ibid. 52)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.23.1",
+   "text": "What are oblongs? Those which are right-angled, etc. (See ibid. 53)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.24.1",
+   "text": "What are rhombi? Those which are equilateral, etc. (See ibid. 54)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.25.1",
+   "text": "What are parallelograms? Among quadrilaterals, etc. (See ibid. 56)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.26.1",
+   "text": "On right-angled parallelograms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.26.2",
+   "text": "Of parallelograms, etc. (See ibid. 57)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.27.1",
+   "text": "What is the gnomon in a parallelogram? Of every parallelogram, etc. (See ibid. 58)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.28.1",
+   "text": "What is a gnomon in general? In general a gnomon is, etc. (See ibid. 59)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.29.1",
+   "text": "What is a trapezium? Of quadrilaterals other than those mentioned, etc. (See ibid. 60)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.30.1",
+   "text": "Which are the trapezia? Trapezia, then, are, etc. (See ibid. 61)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.31.1",
+   "text": "Which are trapezoids? Trapezoids are those which, etc. (See ibid. 62)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.32.1",
+   "text": "On the terms used individually of rectilinear figures in planes, such as: what is a base? The base of a plane area is said to be the line, etc. (See ibid. 66)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.33.1",
+   "text": "What is a side? A side is one of the [lines] enclosing the figure. (See ibid. 67)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.34.1",
+   "text": "What is a diagonal? A diagonal is the [line] from an angle, etc. (See ibid. 68)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.35.1",
+   "text": "What is a perpendicular? A perpendicular is the [line] from a point, etc. (See ibid. 69)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.36.1",
+   "text": "What is a perpendicular at right angles? A perpendicular at right angles is said to be, etc. (See ibid. 70)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.37.1",
+   "text": "What are parallel lines? Lines are called parallel, etc. (See ibid. 71)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.38.1",
+   "text": "And what are non-parallel straight lines? Non-parallel straight lines are, etc. (See ibid. 72)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.39.1",
+   "text": "What is the height of a triangle? The height of a triangle is called, etc. (See ibid. 73)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.40.1",
+   "text": "What are the differences between rectilinear solid figures? Of rectilinear solids, etc. (See ibid. 99)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.41.1",
+   "text": "What is a pyramid? A pyramid, then, is a solid figure, etc. (See ibid. 100)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.42.1",
+   "text": "Hero's introductions to geometrical measurements."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.43.1",
+   "text": "Plane geometry consists of regions and peaks and lines and angles, etc. (See Geom. ch. 3)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.44.1",
+   "text": "Measures were devised from human limbs: finger, palm, span, foot, cubit, pace, fathom and the rest, as has been written above."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.45.1",
+   "text": "Since in the regions a custom has prevailed for each [people] to use the local measures, the measure is also equalised by the proportion of the foot to the cubit. This being so, we shall carry out the measurement of the propositions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.45.2",
+   "text": "And the measurement of the propositions is as set out below."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.46.1",
+   "text": "Let there be a square, equilateral and right-angled, each side of which is 12 feet; to find its area. I do it thus: 12 times itself makes 144 feet; the area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.47.1",
+   "text": "Let there be a square, equilateral and equiangular, and let it have each side 50 feet; to find its area and its diagonal. I do it thus: 50 times itself makes 2500; the area will be that much. To find the diagonal: twice the area [is] 5000; its square root comes to 70 ½ ¼ feet; the diagonal is that much. Another way: one side, that is the 50, times 70 ½ ¼ makes 3537 ½ feet; a fiftieth of which is 70 ½ ¼."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.48.1",
+   "text": "Let there be an oblong quadrilateral, that is, a parallelogram, whose length is 50 feet and breadth 30 feet; to find its area and its diagonal. I do it thus: the length times the breadth makes 1500 feet; the area will be 1500 feet. To find the diagonal: the length times itself makes 2500 feet; and the breadth times itself makes 900 feet; together they make 3400 feet; its square root [is] 58 ⅓ feet; the diagonal is that much, 58 ⅓ feet; and the area is 1500 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.49.1",
+   "text": "Let there be a quadrilateral parallelogram that is not right-angled, whose greater length is 32 feet and the other 30 feet; together they make 62 feet, half of which makes 31. And the breadth is 18 feet and the other 16 feet; together they make 34, half of which [is] 17; I multiply this by the 31; it makes 527 feet. The diagram follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.50.1",
+   "text": "A right-angled triangle whose perpendicular is 30 feet, base 40 feet and hypotenuse 50 feet; to find its area. I do it thus: the base times the perpendicular makes 1200 feet; half of this makes 600 feet; the area will be 600 feet. To find its hypotenuse as well: the 30 of the perpendicular times itself makes 900; and the 40 of the base times itself makes 1600; together 2500 feet; its square root comes to 50. Another way to find the hypotenuse: add the 2 sides, the 30 and the 40; they make 70; this times 5 [is] 350; a seventh of this [is] 50."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.51.1",
+   "text": "Let there be another right-angled triangle, and let it have its base 40 feet, its hypotenuse 41 feet, and its perpendicular 9 feet; to find its area and its perpendicular. I do it thus: 41 times itself makes 1681. And 40 times itself makes 1600; I subtract this from the 1681 feet; there remain 81 feet; its square root comes to 9 feet. Now I take the perpendicular times the base; it makes 360; half of this makes 180 feet; the area will be 180 feet. The diagram follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.52.1",
+   "text": "An isosceles triangle whose perpendicular is 40 feet and base 12 feet; to find its area. I do it thus: the base times the perpendicular makes 240 feet; half of this makes 120 feet; the area will be 120 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.52.2",
+   "text": "Of an isosceles triangle each of the equal sides is 25 feet, and the base 14 feet; to find its area and its perpendicular. I do it thus: make the square of each side; it makes 625 feet; I take half the base; it makes 7 feet; this times itself makes 49 feet; there remain 576 feet; its square root comes to 24 feet; and the 7 times the perpendicular [is] 168 feet; the area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.53.1",
+   "text": "Let there be an equilateral triangle, and let it have each side 30 feet, and let a circle be inscribed [in it]; to find its diameter. I do it thus: the area is 390 feet; this times 4 makes 1560 feet; now add the three sides together; they make 90 feet; now I take the ninetieth part of the 1560; it makes 17 1/3 feet; the diameter of the circle [is] that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.54.1",
+   "text": "Again let there be an equilateral triangle, and let it have each side 30 feet, and let a circle be circumscribed [about it]; to find its diameter. I do it thus: 30 times itself makes 900; it is evident that the perpendicular of the triangle will be 26 feet; now I take the twenty-sixth part of the 900; it makes 34 1/2 1/8 feet; the diameter of the circle will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.55.1",
+   "text": "Let there be an acute-angled triangle, whose smaller leg is 13 feet, and the larger 15 feet, and the base 14 feet, and let a circle be inscribed [in it]; to find its diameter. I do it thus: it is evident that the area of the triangle is 84 feet; this times 4 makes 336 feet; now add together the three sides of the triangle; they make 42 feet; 336 divided by 42 makes 8 feet; the diameter of the circle will be 50 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.56.1",
+   "text": "Let there be an acute-angled triangle, whose smaller leg is 13 feet, and the larger 15 feet, and the base 14 feet, and let a circle be circumscribed [about it]; to find its diameter. I do it thus: the smaller leg times the larger, 13 times 15, makes 195 feet; divided by 12 it makes 16 1/4 feet; the diameter of the circle will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.57.1",
+   "text": "Let there be an obtuse-angled triangle, and let it have one side 10 feet, and the base 9 feet, and the hypotenuse 17 feet, and let a circle be inscribed [in it]; to find its diameter. I do it thus: it is evident that the area of the triangle is 36 feet; this times 4 makes 144 feet; and add together the three sides of the triangle; they make 36 feet; now take the thirty-sixth part of the 144; it makes 4 feet; the diameter of the inscribed circle will be 4 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.58.1",
+   "text": "Let there be an obtuse-angled triangle, and let it have the smaller leg 10 feet, and the base 9 feet, and the hypotenuse 17 feet, and let a circle be circumscribed [about it]; to find its diameter. I do it thus: the smaller leg times the larger, 10 times 17, makes 170 feet; it is evident that the perpendicular of the triangle is 8 feet; now I take the eighth part of the 170; it makes 21 1/4 feet; the diameter of the circle will be 21 1/4 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.59.1",
+   "text": "Let there be a circle whose diameter is 14 feet; the perimeter will be found, according to the exposition, to be 44 feet; and the area [...]. If you wish to find the method for the perimeter, do thus: always take the diameter times 22; it makes 308 feet; and always divide, as a general rule, by 7, that is, [take] a seventh of them; it makes 44; the perimeter will be 44 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.60.1",
+   "text": "Let there be a circle whose perimeter is 80 feet; to find its diameter. I do it thus: always [take] the perimeter times 7; it makes 560; I divide; the twenty-second part of this makes 25 1/2 feet; the diameter of the circle will be 25 1/2 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.61.1",
+   "text": "Let there be a circle whose diameter is 7 feet; its perimeter is found, according to the exposition written above, to be 22 feet; for the perimeter of every circle is three times and a seventh of the diameter. So if you wish to find the perimeter from the diameter, triple the 7 feet of the diameter; it makes 21 feet; and add to these a seventh of the same diameter; it makes 1 foot; it makes 22 feet; the perimeter will be that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.62.1",
+   "text": "If you wish to find the diameter from the perimeter, divide the 22 feet of the perimeter by 22; it makes 1 foot; multiply this sevenfold; it makes 7 feet; the diameter will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.63.1",
+   "text": "If you wish to find the area of the circle from the diameter, multiply the 7 feet of the diameter by themselves; it makes 49 feet; multiply these elevenfold; it makes 539 feet; the fourteenth part of these makes 38 1/2 feet; the area of the circle will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.64.1",
+   "text": "If you wish to find the area from the perimeter, multiply the 22 feet of the perimeter by themselves; it makes 484 feet; multiply these sevenfold; it makes 3388 feet, 38 1/2; the area will be that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.65.1",
+   "text": "Another method, showing the area of the circle by means of the perimeter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.65.2",
+   "text": "Add to the 22 feet of the perimeter a part of them, 1/2 1/4; it makes 16 1/2 feet; together, 38 1/2 feet; the area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.66.1",
+   "text": "To measure an arch whose diameter is 14 feet and perpendicular 7 feet; to find its area. Do thus: the diameter times itself makes 196 feet; multiply these elevenfold; it makes 2156 feet; the twenty-eighth part of these makes 77 feet; the area will be that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.67.1",
+   "text": "And if you wish to find the area from the perpendicular too, do thus: multiply the 7 feet of the perpendicular by themselves; it makes 49 feet; these eleven times make 539 feet; the seventh part of these makes 77 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.68.1",
+   "text": "A portico having its length 114 cubits and its breadth 12 1/2 cubits; to find how many cubits of flooring it takes. Do thus: the length times the breadth makes 1425; add to them a tenth of the whole; it makes 142 1/2; add together; it makes 1567 1/2; it will take that many cubits of flooring. The tenth was added on account of the wastage of the flooring that will occur."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.69.1",
+   "text": "To measure an arch, that is, a semicircle, whose diameter is 7 feet, and the perpendicular, at half the diameter, 3 1/2 feet, and the perimeter 11 feet; to find its area. Do thus: the 7 of the diameter times the 11 of the perimeter makes 77 feet; a quarter of these makes 19 1/4 feet; the area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.70.1",
+   "text": "Another method for the area. The 7 feet of the diameter times themselves make 49 feet; these times 11 make 539 feet; the twenty-eighth part of these makes 19 1/4 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.71.1",
+   "text": "We shall measure a pyramid whose length is 20 feet, and breadth 20 feet, and height 16 feet; to find its hypotenuse sides, each wall having a thickness of 2 feet. I do it thus: since the side has 20 feet on the outside, [and] that from the outer [...] up to the middle centre, as I said before, the height [is] 16 feet, do thus: the 16 of the height times themselves make 256; and the 10, that is, half the side, times themselves make 100; together they make 356 feet; its square root comes to 18 1/2 1/4 1/8 feet; the hypotenuse side of one leg up to the middle centre will be that many feet. And if you wish to find the solid content of the walls, do thus: the hypotenuse times the 10 makes 188 1/2 1/4 feet; half of these makes 94 1/4 1/8; this times the thickness, times the two feet, makes 188 1/2 1/4; the solid content of the wall of the first side will be that many feet. But since the pyramid has 4 sides, the 4 sides make 701 feet; the solid content of the walls of the pyramid will be that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.72.1",
+   "text": "And if you wish to find the lead or the bronze or the tiling of the roof of the same pyramid, do thus: the hypotenuse, that is, the 18 1/2 1/4 1/8, times the 10 feet makes 188 1/2 1/4 feet; I subtract half of these; there remain 94 1/4 1/8 feet; the surface of the roof of the first side is that many feet. But since the pyramid has 4 sides, the 4 sides together make 377 1/2 feet; the surface of the roof, of the lead or the bronze or the tiling of the pyramid, will be that much: 377 1/2 feet, since the pyramid has been roofed from 3."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.73.1",
+   "text": "Let there be a pyramid having a square base, and let it have each side 10 feet; and let the pyramid have its sloping edges 13 1/2 feet; to find the perpendicular and the solid content of the pyramid. I do it thus: I multiply the side of the square by itself; it makes 100; half of these makes 50; and 13 1/2 times itself makes 182 1/4 feet; I take the 50 from these; there remain 132 1/4 feet; its square root comes to 11 1/2 feet. And the solid content is found thus: the area of the square comes to 100 feet; I multiply this by the third part of the perpendicular; it makes 383 1/3 feet; the solid content of the pyramid is that many feet: 383 1/3 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.74.1",
+   "text": "Let us measure a pyramid standing on a square as follows: each of the sides of its base is 24 feet, and the slope of the pyramid is 18 feet; to find its perpendicular and its solid content. I do it thus: the 24 of the base times themselves make 576 feet; half of these makes 288 feet; and I multiply the 18 of the slope by themselves; they make 324 feet; now I subtract the 288 from these; there remain 36 feet; their square root comes to 6 feet; the perpendicular of the pyramid will be that much. Since, then, the perpendicular is 6 feet, let us find the solid content. I do it thus: the third of the perpendicular comes to 2 feet; I multiply this by the 576; it makes 1152; the solid content of the pyramid is that much: 1152 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.75.1",
+   "text": "We shall measure a pentagon as follows, each side of which is 10 feet; to find its area. I do it thus: the 10 times themselves make 100; I multiply this five times; it makes 500; two thirds of this make 333 1/3; the area will be 333 1/3. And to find also the diameter of the circumscribed circle: it will be 17 feet. The 10 of the side seventeen times make 170; I divide this by 10; it makes 17; the diameter of the circumscribed circle will be 17 feet. And each side is 10 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.76.1",
+   "text": "Let us measure a hexagon as follows, if it has its diameter 60 feet; and the side is 30 feet. I do it thus: the 30 times themselves make 900; I multiply this six times; it makes 5400; a third and a tenth of this make 2340; the hexagon is that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.77.1",
+   "text": "Again, another way. The side times itself makes 900; multiply this by the 13; it makes 11,700 feet; now I divide by 5; it makes 2340 feet; the area will be that many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.78.1",
+   "text": "To find two square areas such that the area of the first will be three times the area of the second. I do it thus: cube the 3; it makes 27; this twice makes 54; now take away 1 unit; there remain 53; so the one side will be 56 feet, and the other side 54 feet. And for the other area thus: put together the 53 and the 54; they make 107 feet; multiply this by the 3; then it makes 318 feet; so the side of the former will be 318 feet, and the other side 3 feet; the areas of the one come to 344, and of the other 2862 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.79.1",
+   "text": "To find an area equal to another area in perimeter, but four times [it] in area. Cube the 4 upon themselves; it makes 64 feet; take away 1 unit; there remain 63 feet; each of the perimeters of the two parallel sides is that much. Now to separate the sides. I do it thus: put the 4; take away one unit; there remain 3; so the one side is 3 feet; and the other side thus: from the 63 take away the 3; there remain 60 feet. And for the other area do thus: the 4 times themselves make 16 feet; from these take away one unit; there remain 15 feet; the first side will be that many: 15 feet. And the other side thus: take the 15 from the 63; there remain 48; the other side will be 48 feet; and the area of the one is 720 feet, and of the other 180 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.80.1",
+   "text": "Let there be a pool, and let it have its length 10 feet, etc. (See Stereometrica II, 10.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.81.1",
+   "text": "Let there be a well, and let it have a diameter of 5 feet, etc. (See ibid. 11.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.82.1",
+   "text": "Let there be a vat, and let it have its lower diameter 5 feet, and its upper 3 feet, and its height 8 feet; and let it hold wine up to 6 feet; how many jars, then, will it hold? I do it thus: I take the 3 from the 5; there remain 2; this times the 6 makes 12; an eighth of this comes to 1 1/2; and I take the 1 1/2 from the 5; there remain 3 1/2; so the breadth up to where the wine rose will be 3 1/2 feet. And I add the 3 1/2 and the 5: they make 8 1/2 feet; half of this comes to 4 1/4; and this times itself makes 18 1/16 feet; this eleven times makes 198 1/2 1/8 1/16; of this I divide by 14; it makes 14 1/7 1/28 1/112 1/224 feet; this I multiply by the height, by the 6 feet; it makes 85 1/7 1/112; it will hold that many jars: 85 1/7 1/112."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.83.1",
+   "text": "Let there be a vat, and let it have its upper diameter 6 feet, etc. (See Stereometrica II, 13.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.84.1",
+   "text": "Let there be a cask, and let it have its upper diameter 6 feet, etc. (See ibid. 14.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.85.1",
+   "text": "To find from its shadow [the height] of a great column, etc. (See ibid. 31.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.86.1",
+   "text": "The rhombus, whose legs are 13 feet each, and the diagonal 10 feet; to find its area. Do thus: let a perpendicular be drawn cutting the diagonal; the line drawn has 24 feet, and divisions into isosceles [triangles] have resulted, whose legs are 13 feet each, and the base 10 feet, and each perpendicular 12 feet; so that the area of each triangle comes to 60 feet, the whole rhombus being, evidently, 120 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.87.1",
+   "text": "Let there be a house having its length 20 feet, and its breadth 13 1/2 feet, and one must know how many tiles go up onto this house; and let the tile be 2 feet, and its breadth 1 1/2. Do thus: since a tile is laid half a foot under the other tile, subtract [this] from the length of the tile, for the space it occupies. The length is 20 feet, and the breadth 13 1/2 feet; multiply the 20 by 13 1/2; it makes 270; divide this by the 2 1/4; it makes 120; that many tiles will go up onto the house."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.88.1",
+   "text": "There is also another method for the tiles: if there is a house having its length 60 feet, and its breadth 30 feet, always subtract the third part of the 60; there remain 40; and further, likewise, from the breadth, from the 30, the third; there remain 20; and multiply the 40 by the 20; it makes 800; that many tiles will go up onto the house."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.88.2",
+   "text": "These too have been found by the method: this one of the sides of the two-sloped roof has 60 tiles, and the other, being equal to it, will hold the remaining 60; and this also in the problem below: the one of the sides of the roof is set down as taking 400 tiles, and the other, understood as opposite, will receive the remaining 400 to make up the 800."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.89.1",
+   "text": "A dining room or storehouse, whose length is 20 cubits, etc. (See Stereometrica I, 47.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.90.1",
+   "text": "Which parts of the measures in magnitudes measure the wholes? The parts of the measures in magnitudes, etc. (See Definitions 130.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.91.1",
+   "text": "What is each of the [units] mentioned worth? According to the old exposition, leaving out the superfluous, etc. (See ibid. 131.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.92.1",
+   "text": "In brief, each has, etc. (See ibid. 32.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.93.1",
+   "text": "Linear, area and solid measures. The linear palm, etc. (See ibid. 133.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.94.1",
+   "text": "Hero's beginning of the Geometrica."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.94.2",
+   "text": "As the ancient account teaches us, most, etc. (See Geometrica 2.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.95.1",
+   "text": "Hero's Metrica."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.95.2",
+   "text": "The *iugerum* [a Roman land measure] has 200 *akainai* [a 12-foot rod] of 2400 land feet; for in length it has 24 *akainai*; and it is divided into 20 parts of 12 each, making 240 feet; and in breadth it has twelve *akainai*, making 120 feet; and if [you multiply] the length by the breadth, it makes 28,800 feet. The *akaina* has 12 feet, making 48 palms. The foot has 4 palms, 16 digits. The linear cubit has one foot and a half; the stone cubit likewise has 1 1/2 feet, 24 digits."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.95.3",
+   "text": "If the breadth, the 24 by the 24, it makes 576 digits; these times the thickness make 13,824 common digits, 48 liquid *xestai* [sextarii]. And dry, it holds [...] 35 Italian [modii?]; 35 times 35 makes 1225; and multiply this eleven times; it makes 13,475."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.96.1",
+   "text": "Measurement of lands."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.96.2",
+   "text": "Let there be a triangular land, etc. (See Mensurae 54.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.97.1",
+   "text": "A triangular land, etc. (See ibid. 55.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.98.1",
+   "text": "A round land, etc. (See ibid. 56.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.99.1",
+   "text": "Let us measure a land which has, etc. (See ibid. 57.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.100.1",
+   "text": "A hexagonal land, etc. (See ibid. 58.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.101.1",
+   "text": "A land of unequal breadth, etc. (See ibid. 59.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.102.1",
+   "text": "Rich land is [land] of sown and cultivated [fields]; the black-soiled land praised by everyone, such as holds the rain: of this, 100 *iugera* are measured [as] one *geikon* (land unit) of the black-soiled and rich [land]; and of river-deposited [land], one hundredth of this, the measurement measures at par 100 *iugera* [as] one *geikon*; of low-lying or deep-soiled [land] it measures 125 *iugera* [as] one *geikon*; of red or scarlet [land] it measures 125 *iugera* [as] one *geikon*; of *pagas* [land] it measures 133 *iugera* [as] one *geikon*; the land covered with sand by a river it measures [at] * * eight *iugera* [as] one *geikon*; and the rough and sandy [land] it measures [at] 250 *iugera* [as] one *geikon*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.103.1",
+   "text": "A newly planted vineyard it measures [at] 100 *iugera* [as] one *geikon*; well-watered [land] with channels it measures [at] 2 *iugera* [as] one *geikon*; land rich in nitre it measures [at] 100 *iugera* [as] one *kephalē* (tax unit); of hay-meadow, 125 *iugera* [as] one *kephalē*. The *iugerum* has 133 1/3 cubits."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.104.1",
+   "text": "Measurement of lime."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.104.2",
+   "text": "A pit of lime, etc. (See Mensurae 2.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.105.1",
+   "text": "Measurement of a well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.105.2",
+   "text": "Let us measure a well thus, etc. (See ibid. 3.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.106.1",
+   "text": "Measurement of a vault."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.106.2",
+   "text": "Let there be a vault having, etc. (See ibid. 16.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.107.1",
+   "text": "Measurement of a ship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.107.2",
+   "text": "Let us measure a ship thus: let there be, etc. (See ibid. 17.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.108.1",
+   "text": "Another measurement of a ship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.108.2",
+   "text": "Let us measure a ship thus: if it has, etc. (See ibid. 18.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.109.1",
+   "text": "Measurement of a pool."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.109.2",
+   "text": "Let us measure a pool thus, etc. (See ibid. 19.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.110.1",
+   "text": "Measurement of a cistern."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.110.2",
+   "text": "Let there be a cistern, etc. (See ibid. 20.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.111.1",
+   "text": "Otherwise, on a cistern."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.111.2",
+   "text": "Into a cistern there flowed, etc. (See ibid. 21.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.112.1",
+   "text": "Measurement of a basin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.112.2",
+   "text": "Let us measure a basin thus, etc. (See ibid. 22.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.113.1",
+   "text": "Measuring water by the ounce."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.113.2",
+   "text": "The measuring of water by the ounce being known, etc. (See ibid. 23.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.114.1",
+   "text": "Measurement of lands."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.114.2",
+   "text": "Let there be a triangular land, etc. (See above 96 and Mensurae 54.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.115.1",
+   "text": "A triangular land, etc. (See above 97 and Mensurae 55.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.116.1",
+   "text": "A round land, etc. (See above 98 and Mensurae 56.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.117.1",
+   "text": "Let us measure a land which has, etc. (See above 99 and Mensurae 57.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.118.1",
+   "text": "A hexagonal land, etc. (See above 100 and Mensurae 58.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.119.1",
+   "text": "A land of unequal breadth, etc. (See above 101 and Mensurae 59.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.120.1",
+   "text": "Hero, on measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.120.2",
+   "text": "Of measures there are 3 kinds, etc. (See Mensurae 1.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.121.1",
+   "text": "Measure of lime."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.121.2",
+   "text": "A pit of lime, etc. (See above 104 and Mensurae 2.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.122.1",
+   "text": "Measurement of a well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.122.2",
+   "text": "Let us measure a well thus, etc. (See above 105 and Mensurae 3.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.123.1",
+   "text": "Measurement of a square stone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.123.2",
+   "text": "Let us measure a square stone thus, etc. (See Mensurae 4.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.124.1",
+   "text": "Measurement of a round stone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.124.2",
+   "text": "A round stone, etc. (See ibid. 5.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.125.1",
+   "text": "Measurement of a square timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.125.2",
+   "text": "Let there be a square timber, etc. (See ibid. 6.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.126.1",
+   "text": "Measurement of a round timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.126.2",
+   "text": "Let us measure a round timber, etc. (See ibid. 7.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.127.1",
+   "text": "Measurement of a tapering timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.127.2",
+   "text": "Let us measure a tapering timber, etc. (See ibid. 8.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.128.1",
+   "text": "Measurement of an equal-sided timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.128.2",
+   "text": "Let us measure an equal-sided timber, etc. (See ibid. 9.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.129.1",
+   "text": "Measurement of a raft."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.129.2",
+   "text": "Let us measure a raft, etc. (See ibid. 10.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.130.1",
+   "text": "Measurement of a wall."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.130.2",
+   "text": "Let us measure a wall, etc. (See ibid. 12.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.131.1",
+   "text": "Measurement of a round *skouta*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.131.2",
+   "text": "Let it be for us to measure, etc. (See ibid. 14.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.132.1",
+   "text": "Measurement of a tower."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.132.2",
+   "text": "Let us measure a tower, etc. (See ibid. 15.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.133.1",
+   "text": "Measurement of a vault."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.133.2",
+   "text": "Let there be a vault having, etc. (See above 106 and Mensurae 16.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.134.1",
+   "text": "Measurement of a ship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.134.2",
+   "text": "Let us measure a ship thus: if it has, etc. (See above 108 and Mensurae 18.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.135.1",
+   "text": "Measurement of a cistern."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.135.2",
+   "text": "Let there be a cistern into which, etc. (See above 110 and Mensurae 20.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.136.1",
+   "text": "Otherwise, on a cistern."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.136.2",
+   "text": "Into a cistern there flowed, etc. (See above 111 and Mensurae 21.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.137.1",
+   "text": "Measurement of a basin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.137.2",
+   "text": "Let us measure a basin, etc. (See above 112 and Mensurae 22.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.138.1",
+   "text": "Measuring water by the ounce."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.138.2",
+   "text": "The measuring of water by the ounce being known, etc. (See above 113 and Mensurae 23.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.139.1",
+   "text": "Measurement of a hippodrome."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.139.2",
+   "text": "Let us measure a hippodrome, etc. (See Mensurae 26.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.140.1",
+   "text": "Measurement of a segment greater than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.140.2",
+   "text": "Let there be a segment, etc. (See ibid. 29.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.141.1",
+   "text": "Measurement of a segment less than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.141.2",
+   "text": "Whose base, etc. (See ibid. 30.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.142.1",
+   "text": "The calculation otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.142.2",
+   "text": "Make the perpendicular, etc. (See ibid. 31.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.143.1",
+   "text": "Measurement of a circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.143.2",
+   "text": "Let there be a circle, etc. (See ibid. 35.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.144.1",
+   "text": "Measurement of a sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.144.2",
+   "text": "Let there be a sphere, etc. (See ibid. 36.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.145.1",
+   "text": "Measurement of a quarter of a conch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.145.2",
+   "text": "Let there be a quarter part, etc. (See ibid. 38.)"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.146.1",
+   "text": "A general method for polygons, thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.146.2",
+   "text": "Let there be a pentagon whose diameter is 20 feet; to find its side, thus: always, as a general rule, you triple the diameter; it makes 60 feet; and I divide by 5; it makes 12 feet. The side of the pentagon is so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.147.1",
+   "text": "If you wish to find the diameter of the same pentagon from the side, do the reverse, thus: always [multiply] the side five times; it makes 60; now I divide, as a general rule: a third of this makes 20 feet. The diameter of the pentagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.148.1",
+   "text": "Let there be a hexagon, and let it have a diameter of 20 feet; to find its side. Do thus: always, as I said before, you triple the diameter, as a general rule; it makes 60 feet; and divide: a sixth of this, since it is a hexagon, makes the side 10 feet. The side of the hexagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.149.1",
+   "text": "If you wish to find the diameter from the side of the same hexagon, do the reverse, thus: always make the side six times, since it is a hexagon; it makes 60 feet; now divide, as a general rule: a third of this makes 20 feet. The diameter of the hexagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.150.1",
+   "text": "Let there be a heptagon, and let it have a diameter of 20 feet; to find its side. Do thus: always triple the diameter, as a general rule; it makes 60 feet; now divide by the [number of the] polygon, that is, by 7; it makes 8 1/2 1/14. The side of the heptagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.151.1",
+   "text": "If you wish to find the diameter from the side of the same heptagon, do the reverse, thus: always [multiply] the side seven times, since it is a heptagon; it makes 60 feet; now divide, as a general rule: a third of this makes 20. The diameter of the heptagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.152.1",
+   "text": "Let there be an octagon, and let it have a diameter of 20 feet; to find its side. I do thus: always [multiply] the diameter five times; it makes 100 feet; now I divide: a twelfth of this makes 8 1/2 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.153.1",
+   "text": "If you wish to find the diameter from the side, do the reverse: always [multiply] the side twelve times; it makes 100 feet; and I divide, as a general rule, as I said before: a fifth of this makes 20 feet. The diameter of the octagon will be 20 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.154.1",
+   "text": "Let there be an enneagon, and let it have a diameter of 20 feet; to find its side. Do thus: always I triple the diameter; it makes 60 feet; now I divide: a ninth of this makes 6 2/3 feet. The side of the enneagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.155.1",
+   "text": "If you wish to find the diameter from the side of the same enneagon, do the reverse: [multiply] the side nine times; it makes 60 feet; now I divide, as a general rule: a third of this makes 20. The diameter of the enneagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.156.1",
+   "text": "Let there be a decagon, and let it have a diameter of 20 feet; to find its side, thus: always you triple the diameter; it makes 60 feet; now I divide: a tenth of this makes 6 feet. The side of the decagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.157.1",
+   "text": "If you wish to find the diameter from the side of the same decagon, do the reverse, thus: [multiply] the side ten times; it makes 60 feet; now I divide, as a general rule, [taking] the third; it makes 20 feet. The diameter of the decagon will be so many feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.158.1",
+   "text": "Let there be a hendecagon, and let it have a diameter of 22 feet; to find its side. I do thus: as a general rule I triple the diameter; it makes 66 feet; now I divide: an eleventh of this makes 6. The side will be 6 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.159.1",
+   "text": "If you wish to find the diameter of the same hendecagon from the side, do the reverse, thus: [multiply] the side eleven times; it makes 66 feet; and divide, as a general rule: a third of this makes 22 feet. The diameter will be 22 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.160.1",
+   "text": "Let there be a dodecagon, and let it have a diameter of 20 feet; to find its side. I do thus: always [multiply] the diameter three times; it makes 60 feet; now, as a general rule, I divide: a twelfth of this makes 5 feet. The side will be 5 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.161.1",
+   "text": "If you wish to find the diameter from the side of the same dodecagon, do the reverse, thus: [multiply] the side twelve times; it makes 60 feet; and I divide, as a general rule: a third of this makes 20 feet. The diameter of the dodecagon will be 20 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.162.1",
+   "text": "Likewise, if you are given the diameter of any polygon whatever, always, as a general rule, triple the diameter; it makes [so many] feet. Divide the sum by the name of the polygon, and you will have the side to declare as so much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.163.1",
+   "text": "If [you wish] to find the diameter from the side, do the reverse, thus: always multiply the side by the name of the polygon. For example, if it is a triskaidecagon, multiply by thirteen, and you will have the diameter in feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.164.1",
+   "text": "If it is a tetrakaidecagon, a pentakaidecagon, a hexakaidecagon or any number [of sides] whatever, do as has been written above: the side from the diameter and the diameter from the side. As a general rule use the same method, declare [the result] as so much, and you will have methods that cannot fail."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.165.1",
+   "text": "Euclid's linear measures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.165.2",
+   "text": "The measures of linear distances are these: finger, palm, span, foot, cubit, pace, fathom, akaina, plethron, stade, mile. Of these the smallest is the finger. The palm has 4 fingers, 3 ounces. The span has 3 palms, 12 fingers, 9 ounces. The foot has 4 palms, 16 fingers, 12 ounces. The cubit has 1½ feet. The pace has 2 cubits, 3 feet. The fathom has 4 cubits, 6 feet. The akaina has 6⅔ cubits, 10 feet. The linear plethron has 66⅔ cubits, 100 feet. The stade has 6 plethra, 100 fathoms, 400 cubits, 600 feet. The mile has 7½ stades, 4,500 feet; but the Roman mile, as it is called among them, has 5,400 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.166.1",
+   "text": "There are 3 kinds of foot: linear, plane and solid. The linear is the one that has length and breadth; by it length is measured. The plane is the one that has a length of 1 foot and a breadth of 1 foot; by it plane figures are measured. The solid foot has a length of 1 foot, a breadth of 1 foot and a depth of 1 foot; by it solid figures are measured. The solid foot holds 1 jar, 3 modii, each modius being of 16 Italian xestai in number."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.167.1",
+   "text": "To find the area of an equilateral triangle: [multiply] the side by itself; this by 13; a thirtieth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.168.1",
+   "text": "Another way again: [multiply] the side by itself, and half the base by itself; subtract [the latter] from the result, and of the remainder take the square root: it will be the perpendicular."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.169.1",
+   "text": "If we seek the area of any other triangle whatever, always multiply the base by the perpendicular; divide this by ½ [i.e. take half]: it will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.170.1",
+   "text": "To find the area of an equilateral square: [multiply] the side by itself, and you will have the area. If [you want] the diagonal of the same square, [take] twice the area; its square root [is the diagonal]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.171.1",
+   "text": "To find the area of an oblong quadrilateral: [multiply] side by side; it will be the area. If [you want] the diagonal of the same oblong, [multiply] each side by itself; add [them]; their square root will be the diagonal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.172.1",
+   "text": "To find the area of a pentagon: [multiply] the side by itself; this by 5; a third of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.173.1",
+   "text": "To find the area of a hexagon: [multiply] the side by itself; this by 6; a third and a tenth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.174.1",
+   "text": "To find the area of a heptagon: [multiply] the side by itself; this by 43; a twelfth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.175.1",
+   "text": "To find the area of an octagon: [multiply] the side by itself; this by 29; a sixth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.176.1",
+   "text": "To find the area of a nonagon: [multiply] the side by itself; this by 45; two-thirds of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.177.1",
+   "text": "Another way again: [multiply] the side by itself; this by 38; a sixth of this will be the area. This is the more accurate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.178.1",
+   "text": "To find the area of a hendecagon: [multiply] the side by itself; this by 66; a seventh of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.179.1",
+   "text": "To find the area of a dodecagon: [multiply] the side by itself; this by 45; a quarter of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.180.1",
+   "text": "To find the area of a circle from the diameter: multiply the diameter by itself; this by 11; a fourteenth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.181.1",
+   "text": "To find the perimeter of a circle: triple the diameter and add a seventh of the diameter, and you will have the perimeter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.182.1",
+   "text": "Another way again: having multiplied the diameter by 22, divide: a seventh of this [is the perimeter]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.183.1",
+   "text": "To find the area from the perimeter: multiply the perimeter by itself; this by 7; an eighty-eighth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.184.1",
+   "text": "To find the area from the perimeter and diameter, that is, if I add the diameter and the perimeter together: do thus. To separate the diameter and the perimeter from [the sum of] diameter and perimeter, do thus: [multiply] both amounts [together] by 7 and divide: a twenty-ninth of this; you will have the diameter, and the remainder will be the perimeter. Multiply half the diameter by half the perimeter, and you will have the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.185.1",
+   "text": "To find the area from the diameter: [multiply] the diameter by itself; this eleven times; a twenty-eighth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.186.1",
+   "text": "To find the perimeter: multiply the diameter by 22 and divide: a fourteenth of this will be the perimeter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.187.1",
+   "text": "To find the diameter from the perimeter: [multiply] the perimeter by 14; a twenty-second of this will be the diameter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.188.1",
+   "text": "To find the area from the perimeter: [multiply] the perimeter by itself; this by 7; a forty-fourth of this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.189.1",
+   "text": "To find the perimeter from the area: multiply the area by 44 and divide: a seventh of this; and of the result take the square root: it will be the perimeter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.190.1",
+   "text": "To find the diameter from the area: multiply the area by 28 and divide: an eleventh of this; and of the sum take the square root: it will be the diameter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.191.1",
+   "text": "Let us measure a jar-shaped figure, etc. (see Stereometrica II, 26)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.192.1",
+   "text": "The diameter at the lip of a spherical storage jar, etc. (see ibid. 27)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.193.1",
+   "text": "The lower diameter of another storage jar, etc. (see ibid. 28)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.194.1",
+   "text": "Let there be a round washbasin, etc. (see ibid. 29)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.195.1",
+   "text": "Of a basin, a well, a vat and a column, etc. (see ibid. 8)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.196.1",
+   "text": "For example, let there be a basin, etc. (see ibid. 9)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.197.1",
+   "text": "Measurement of a *tetraseiron* [a vaulted structure], of which the diameter is 9½ feet, the perpendicular 7, and the length 13 feet. Add the diameter and the length; [take] ½ of this; this by itself; and this again eleven times makes 1,391½ feet; a fourteenth of this makes 99¼ feet; this by the perpendicular makes 694¾; and add a fourteenth of this: it makes 49½ feet; so that the height comes to 741½. If you wish to find its *bēsalikon*, set down the diameter: it makes 11¼ feet; this three times and a seventh makes 35¼ feet; this by the perpendicular makes 246¾ feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.198.1",
+   "text": "Another measurement of a *tetraseiron*, of which the length is 6 feet, the breadth 6 feet and the perpendicular 3 feet; to find its solid content. I do thus: the diameter by the length makes 36; this eleven times makes 396; a fourteenth of this makes 28¼; this by the 3 of the perpendicular makes 84¾ feet; and [with] the 18¼ together it makes 103 feet. The solid content of the hollow will be so many feet. And of how many [feet] is the surface of the same *tetraseiron*? I do thus: take the perimeter from the diameter: it makes 19 feet less a seventh; this I multiply by the perpendicular of 3 feet: it makes 56½ 1/14. The surface of the measure will be so much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.199.1",
+   "text": "Measurement of an octagon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.199.2",
+   "text": "To draw an octagon equilateral and equiangular: make a square figure and look at its diagonal; and when you find half the diagonal, take [it] from angle towards angle, and you will find how to set up the sides."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.200.1",
+   "text": "Measurement of various granaries."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.200.2",
+   "text": "Stored grain, laid up for a considerable time, was found to be 2½ modii to the solid foot, at 22 xestai [to the modius]: it makes 55 Italian xestai. At 20 [ounces to the xestes], it comes to 91⅔ pounds to the solid foot. But in [grain] freshly laid up in the granaries, there were found to the solid foot 2 modii, of 44 xestai of 20 ounces: it makes 80 pounds, which granary was measured."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.201.1",
+   "text": "Granary of barley stored for a considerable time: there were found to the solid foot of the barley 2½ modii, at 22 xestai of 20 ounces: it makes 91⅔ pounds. But in freshly stored barley there were found to the solid foot 48½ 1/6 Italian xestai of 20 ounces: it makes 80½ ⅓ pounds. Of wine, to the solid foot, 36 Italian [xestai]; they make [...]. Of lard, to 1 foot, 75 pounds. These were weighed under Modestus, who was then prefect of the praetorians."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.202.1",
+   "text": "Measurement of an oven."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.202.2",
+   "text": "Let us measure an oven thus: [one] whose capacity is 10 modii. These 10 will be cubed; [take] these eleven times; of these the 1/42. And the royal [measure]: add the diameter and the thicknesses; cube these."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.1",
+   "text": "Measurement of grain that is in storage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.2",
+   "text": "The solid foot holds 3 modii, each modius at 16 xestai: it makes 48 xestai, each xestes at 20 ounces."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.3",
+   "text": "But if the modius is of 18 xestai, the solid foot holds 2½ 1/6 modii of grain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.4",
+   "text": "But if the modius is of 20 xestai, the solid foot holds 2 ⅓ 1/15 modii."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.5",
+   "text": "But if the modius is of 22 xestai, the solid foot holds 2 modii and 6 xestai."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.6",
+   "text": "But if the modius is of 24 xestai, the solid foot holds 2 modii."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.7",
+   "text": "But if the modius is of 25 xestai, the solid foot holds 1½ ⅓ 1/15 1/50 modii."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.8",
+   "text": "But if the modius is of 28 xestai, the solid foot holds 1½ 1/7 1/14 modii."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.9",
+   "text": "But if the modius is of 30 xestai, the solid foot holds 1½ 1/10 modii."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.203.10",
+   "text": "But if the modius is of 32 xestai, the solid foot holds 1½ modii. Each xestes [is] at 20 ounces."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.204.1",
+   "text": "So one must be at the measuring of the granaries and take the area of the whole and multiply [it] by the height, that is, by the depth; and when you find the solid content of the whole area of the stored grain, then make the measures according to the modius thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.204.2",
+   "text": "If the modius is of 16 xestai, multiply the solid content of the grain or barley by 3, and so many modii there will be; since the solid foot holds 3 modii, each modius at 46 xestai, each xestes of 20 ounces."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.204.3",
+   "text": "But if the modius is of 18 xestai, multiply the solid content of the grain or barley, as has been written above, by 2½ 1/6, and so many modii there will be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.204.4",
+   "text": "But if the modius is of 20 xestai, multiply the solid content of the measurement in feet by 2 ⅓ 1/15, and so many modii there will be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.204.5",
+   "text": "But if the modius is of 25 xestai, multiply the solid content of the measurement in feet by 1½ ⅓ 1/15 1/50, and so many modii there will be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.205.1",
+   "text": "But if the modius is of 28 xestai, multiply the solid content of the measurement in feet of the stored grain or barley by 1½ 1/7 1/14, and so many modii there will be. And one must know, in the storing of grain or barley, that whatever is freshly stored [is] cooling."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg016.1st1K-grc1.205.2",
+   "text": "The solid foot yields 55 xestai [?] when the grain is thus from storage. The solid foot holds 55 xestai, each xestes 20 ounces. But if it was freshly stored, the solid foot holds"
+  }
+ ]
+}

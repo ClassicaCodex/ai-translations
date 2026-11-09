@@ -1,0 +1,460 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0057.tlg049",
+ "edition_urn": "urn:cts:greekLit:tlg0057.tlg049.ai-claude",
+ "source_edition": "tlg0057.tlg049.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Adversus eos qui de typis scripserunt vel de circuitibus: AI translation (Claude)",
+  "author": "Galen",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0057.tlg049.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.1.head": "In 1.1 the regnal passage is confused as transmitted: 'Severus' renaming himself Antoninus and renaming Lucius 'Severus' fits Marcus Aurelius and Lucius Verus; Σεβῆρος is probably a corruption of Οὐῆρος (Verus) at least in the second place. The figures for the type names in 1.1 (τεσσαρακοστουγδαῖον, 'forty-eighth-day', rendered loosely; πεντηκοσταῖον; ε΄ καὶ κ΄) are hard to reconcile with the arithmetic and may be corrupt. In 3.1 'the quartan beginning on the first day at the second hour, and the quartan at the eleventh' seems corrupt (one term or hour probably wrong); translated as transmitted. The bracketed (ἀναστρέψῃ) in 3.1 appears to be an editorial insertion, rendered 'turning it round'. Philistion is presumably the mime-writer.",
+  "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.1": "The edition's numerals are partly misscanned: ל stands for koppa (90) throughout the table (e.g. ϟστ΄ = 96, ρϟβ΄ = 192). In 4.1 the text has νστ΄ (56) for the quintan, but the table and the arithmetic require ϟστ΄ (96); translated as 96. In 4.2 'τῶν τε μή τρίτον' is evidently 'τῶν δὲ μη΄ τρίτον' ('a third of 48'), and 'τῶν ρη΄' (108) must be ρκ΄ (120), since 5 × 24 = 120 and the result is sextans; translated accordingly. In 5.1 several figures do not match the table: 'twenty duodecans' should arithmetically be undecans (12 × 20 = 240); for the 16-hour period, 15 × 16 = 240 is undecan rather than decan, 18 × 16 = 288 matches the thirteenth-day type, and 21 × 16 = 336 matches the fourteenth-day rather than the fifteenth-day type. These are translated as transmitted; the errors may be Galen's, a copyist's, or the edition's.",
+  "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.6.1": "The parenthetical (μέθοδον) after 'one quintan' in the second pairing makes no sense in context and appears to be an intrusion; it is left untranslated. τριῶν τύπον read as τριῶν τύπων. 'Pairing' renders συζυγία, though Galen applies it also to sets of more than two. The type names follow Greek inclusive counting: a fever recurring every 23 days is a 'twenty-fourth-day' type.",
+  "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.7.1": "'ὅπως ἂν ᾖ τοῦ διαγράμματος' seems defective (perhaps 'without the table' was meant, given what follows); rendered loosely. 'δυοῖν ἀρχῶν γίνεται παροξυσμὸς' is probably a corruption of 'παροξυσμῶν'; rendered 'between two onsets of paroxysm'. The parenthesis '(ὥσπέρ γε καὶ κ΄.)' is obscure and possibly corrupt; translated literally. 'τὸ μεῖζον κοινόν' taken as 'greatest common measure'; Galen then calls it the 'first common measure'. 'τῶν δὲκζ΄' read as 'τῶν δὲ κζ΄'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.1.head",
+   "text": "GALEN'S BOOK AGAINST THOSE WHO HAVE WRITTEN ON TYPES, OR ON PERIODS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.1.1",
+   "text": "For the ancient physicians it was enough merely to say that in some diseases the paroxysms occur according to a period, without adding further what the word 'period' means. For they knew that they were writing their books for Greek people, who understood clearly that whenever something the same in kind occurs at equal intervals of time, all Greeks call that interval a period. In this way, at any rate, they used to speak of certain Olympic and Pythian periods. The more recent [physicians], however, first introduced the name 'type' alongside periods. Then some held that 'order' and 'type' signify the same thing as the word 'period', and others that they do not. And they try to define all these, different people in different ways, not only establishing their own definitions but also contradicting those of others. Now those who have gone only as far as ambition about definitions, while granting that the three names, 'type', 'period' and 'order', signify one thing, talk less nonsense. But those who call 'period' the time after which something the same occurs, but 'type' not simply every such time, but only when it is bounded by whole days and nights, pour out long and useless nonsense; and having wasted their own time and their pupils' on this, when they come to the sick they are worse than any layman. For a layman with sense, when he sees someone suffering a paroxysm every day, whether the paroxysm comes a little later or a little earlier, has some notion of the period called quotidian; and if he is also diligent and fond of medicine, the thought occurs to him of two tertians or three quartans, and he asks that this be distinguished by the physicians. But those who are slaves to the hypotheses I have mentioned, if they meet a patient who has his paroxysm two hours earlier each day, say that the period is of twenty-two hours, and think that the whole type is not simple but a compound one; then, after much searching and reckoning among themselves, some on their fingers, others on a diagram drawn in some book, they say that such a type is twelve duodecimans. And when those who hear this laugh at it, they are indignant. And still more, when on occasion they see the paroxysm coming one hour earlier, and then declare that it is twenty-four vicesimoquartans, they are themselves laughed at, and they cause laymen to suspect the other physicians of ignorance too. For when [laymen] see them finding out from a book, with a certain solemnity, as if it were some very great matter, twenty-four vicesimoquartans, it occurs to them to condemn all who read books, and they entrust themselves rather to those who practise the art by irrational routine. At any rate, if one follows the hypotheses of the physicians who babble such things, he will call even the tertian, whenever it comes one hour earlier or later, anything rather than a tertian. For the one that comes earlier he says is a combination of twenty-four forty-sevenths [?]; and the one that comes later a fiftieth-day [type], and he will say that this one is twenty-five of them. Who first began this crazy wisdom, I do not know; but when I first heard someone setting it out, I will tell. Antoninus, who became emperor after Hadrian, had recently departed from among men, and Severus was then ruling, having renamed himself Antoninus, and having taken Lucius into partnership in the rule and renamed him Severus. At that time I first heard, and was astonished at, those who posed the problem in some such way as this: if someone has a paroxysm for five hours and a remission for two, so that the whole period is of seven hours, and this happens in succession, what must one consider the type to be? I answered him at once that this could not even happen. For paroxysms of such short duration make long declines, and for the most part even arrive at freedom from fever. 'You,' I said, 'describe the paroxysm of a disease as very mild, but by the continuity of the periods you in turn make it out to be most deadly.' 'Never mind for now,' he said, 'whether the hypothesis is impossible or possible; but allow such things to be investigated for the sake of exercise. For it will make us more resourceful in discovering complex types.' Now I tried at that time to show him that such an exercise makes us less resourceful rather than more resourceful; and now I will demonstrate it to others, after first explaining what the use of such a study is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.2.1",
+   "text": "Since, then, nothing is so useful, and especially in fevers, as to know beforehand the onsets of paroxysms to come, if someone is able right from the beginning to work this out by skilled conjecture, he will benefit the patient greatly throughout the whole disease; but if he is unable right from the beginning, but becomes able as time goes on, he will help the patient during the remaining time; for the sooner he arrives at foreknowledge of the form of the disease, the longer the time he will benefit the sick man. One must therefore try right from the beginning to recognise what kind of fever it is, as has been shown in the treatises on crises, and for the most part it is possible to know this with certainty through the signs [given] in those; but if some doubt should arise on the first day, it must be resolved on the second; and if it should sometimes escape this one too, it will certainly be recognised on the third; and if, rarely, it should escape this one too, it will of necessity be recognised on the fourth; but if someone has not recognised the form of the disease even on this day, but is still at a loss, he is ignorant of a large part of the art. For, among other things, all the paroxysms in fevers come either every day, or every third day, or every fourth day: in most diseases, in which there is the greatest need of foreknowledge of the coming paroxysm, every third day and every day; and in a very few every fourth day. But perhaps one of these recent sophists says that some periods occur also every fifth day, and every sixth and seventh, and some others extending to a great many days; one could truly congratulate them on their marvellous intelligence, if they do not perceive that by what they say they utterly destroy the usefulness of the whole study of types. For those who, admitting that they do not know how to recognise the kinds of fevers from the first day, wait for the days up to the fourth, while saying that they have never seen any fifth-day period, or sixth-day, or any beyond these, are able, if not on the second and third days, at least on the three following, to have some expectation about the coming paroxysm; but for those who extend the periods to a great number of days, it is impossible to know the coming paroxysm beforehand. For example, the paroxysm that occurred on the first day can belong to a quotidian, a tertian, a quartan, a quintan, and all those that follow. If, then, a paroxysm occurs on the second day, or even if not, those who introduce the long periods will have nothing to expect about the third day. And now let it be supposed that after the first day no paroxysm has occurred on the second, nor on the third, nor on the fourth. Those who know only the three periods get the man up from bed and tell him to keep to his usual routine, thinking that he is free from all suspicion; but those who say that the following periods, those of many days, also occur, are bound likewise to suspect the fifth day, just as the others before it; and so they also suspect the sixth and the seventh and the others that follow. And if a paroxysm should occur on the second day as well, it is unclear whether it has kept the correspondence with the one that occurred on the first in the pattern of a quotidian, or is the beginning of another period. And the same if one should occur on the third day after the second. For to one who does not know how to recognise right from the beginning whether a fever is quotidian, or tertian, or some other, it is unclear whether it is a single quotidian, or a combination of two tertians, or even of three quartans; and the same argument holds for the other, longer periods. That those who think there are many periods, not only the three, will never be able to foreknow the coming paroxysm has now been shown."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.3.1",
+   "text": "Let us speak next about those who hold that there are only the three, but who do not recognise each from its own nature, but from the correspondences in the paroxysms. For so they themselves are accustomed to name the proportional relations of the paroxysms. Such men, if not for the whole time like the former, will of necessity be ignorant of the coming paroxysm up to the fourth or fifth day. For let it be supposed that on the first day one paroxysm has occurred, on the second two, and two again on the third, and two on the fourth. Now it is possible that the combination of the simple periods is such that on the first day a quotidian began; on the second a tertian; on the third possibly a tertian, but possibly also a quartan, for this is unclear before the fifth; then on the fourth [there is] the second paroxysm of the quartan that began on the first day, and the second of the tertian [that began] on the second. It is evident that the fifth day will have two paroxysms, the second of the tertian that began on the third day and the second of the quartan that began on the second day; and the sixth [will have] the second of the quartan begun on the third, and the third of the tertian [begun] on the second. But it is possible, the rest being the same, that two other tertians began on the third day, or two other quartans. For since in such a hypothesis the fourth day has nothing in common with the third, it is possible that two tertians, or two quartans, or one tertian and one quartan began on the third day. One may wonder at those who compose such combinations, if they never considered that the paroxysms of two types may coincide at the same hour; and if this should happen, their signs of correspondence are destroyed. At any rate, in the hypothesis before us it is possible that the quartan beginning on the first day [begins] at the second hour, and the quartan at the eleventh. This being so, there is one paroxysm on the fourth day, that at the second hour. Yet they never say that one occurs in the hypothesis laid down, but always two. And see how it is possible even for three paroxysms to coincide at one hour, and how for this reason the combination is not unknown to those who know how to recognise the kind of each simple type. For let it be supposed that on the first day a quartan began at the third hour; on the second, at the same hour, a tertian; and on the third, at the same hour, a quotidian. On these suppositions there must necessarily be one paroxysm on the fourth day at the third hour, the three periods having arrived at the same point together. But none of them wrote this; all, as if from one mouth, say that under the hypothesis just stated three paroxysms occur on the fourth day. And if someone, turning it round, supposes the patient to have a paroxysm once each day, some declare it simply a quotidian, while some say it may also be two tertians or three quartans. How one ought to distinguish them, however, most have not investigated at all, while some judge by the difference of the hours, as if it were not possible for all of them to set in, say, at the sixth hour on different days; and if this should happen, the result will be that one paroxysm appears each day, the three periods, quotidian, tertian and quartan, being combined with one another. For the first day will have the quartan alone; the second the tertian; the third the quotidian; the fourth all three together, coinciding at one time; after which the fifth day will again have the quotidian alone; the sixth, besides this, the tertian as well; and the seventh the three coinciding at one time. It is therefore unclear, as has been said, whether it is a single quotidian, or a mixture of two tertians, or of tertians and quartans, or of a quartan, a tertian and a quotidian. And yet the treatment of a tertian, a quartan and a quotidian is not the same, unless they think this too. For since the lack of education and the shamelessness of those who leap upon the art have spread abroad, it is no wonder that some are ignorant even of matters of such importance. But we know how different a treatment a single quotidian requires from two tertians, and tertians from quartans, so that it is not possible, according to those who do not know the form of each fever, to distinguish [them]. And we have often seen among the sick that those treating them thought a combination of two tertians to be a single quotidian; and we barely persuaded them that the patient was troubled by two tertians, when the earlier of them had first resolved and only the more severe was left. All, then, who have written books on types seem to have cared nothing for the benefit from them for prognosis and regimen, but, just as they say, so they did: they wrote these things as exercises for the young, much like riddles at dinner. Now if they simply wish to exercise them, it was possible to do this by leading them to geometry and arithmetic and calculation and dialectic; but if they come to this exercise for the sake of foreknowing the coming paroxysm, they miss the mark completely, persuading the young to go by bad roads from which they find nothing useful either for prognosis or for treatment, when it was possible to teach themselves to recognise the paroxysm of a quotidian fever, and of a tertian, and of a quartan, and of a semitertian, and of a tertian-like [fever], and of each of the others, which differ from one another not only in the pattern of their periods but also in their whole nature. For to those who know how to recognise these, the whole study of types is useless; or it would perhaps be better to say that it is all futile, while for one who has trained himself to recognise each of the fevers by its own signs, the gain is not only to despise futile nonsense, but also to know beforehand the kind of regimen suited to each. But these men are still tolerable, for Agathinus, no ordinary man, also entered into such teaching; but those who make periods of seven hours had need not of us, but of Philistion, or some such person to make fun of their drivel."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.1",
+   "text": "Some of the younger men pressed me with their requests and forced me to set down in writing the method which I had taught them in jest for finding the types in such hypotheses; so for their sake I devoted one day to this discourse as well, though not willingly. Let us therefore now begin their instruction from this point. These men call a type not every period, but one that is made up of whole days and nights, and they hold that each number of days has its own type, extending the periods of the types not only to 20 or 30 days but even beyond these. In these types the time from paroxysm to paroxysm is no longer called by them a type, but only a period. Now I learned that someone had written a whole book, and not a small one, teaching how, for any paroxysmal period put forward, one might find both the kind and the number of the types. And by the gods, I wondered what on earth it is that he says in the book. For the method by which one may find how many types form a combination can be taught in very few words, and it is something like this. One should have ready to hand, either in memory or written on a sheet of papyrus, the number of hours of each type: for the quotidian that of 24, for the tertian that of forty-eight, and so on in order, for the quartan 72, for the quintan 96, for the sextan 120, for the septan 144, and for the others, as the table set out below has it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item1",
+   "text": "TYPES. HOURS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item2",
+   "text": "Quotidian"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item3",
+   "text": "24"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item4",
+   "text": "Tertian"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item5",
+   "text": "48"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item6",
+   "text": "Quartan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item7",
+   "text": "72"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item8",
+   "text": "Quintan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item9",
+   "text": "96"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item10",
+   "text": "Sextan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item11",
+   "text": "120"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item12",
+   "text": "Septan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item13",
+   "text": "144"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item14",
+   "text": "Octan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item15",
+   "text": "168"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item16",
+   "text": "Nonan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item17",
+   "text": "192"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item18",
+   "text": "Decan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item19",
+   "text": "216"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item20",
+   "text": "Undecan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item21",
+   "text": "240"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item22",
+   "text": "Duodecan"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item23",
+   "text": "264"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item24",
+   "text": "Thirteenth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item25",
+   "text": "288"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item26",
+   "text": "Fourteenth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item27",
+   "text": "312"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item28",
+   "text": "Fifteenth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item29",
+   "text": "336"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item30",
+   "text": "Sixteenth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item31",
+   "text": "360"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item32",
+   "text": "Seventeenth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item33",
+   "text": "384"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item34",
+   "text": "Eighteenth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item35",
+   "text": "408"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item36",
+   "text": "Nineteenth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item37",
+   "text": "432"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item38",
+   "text": "Twentieth-day"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item39",
+   "text": "456"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item40",
+   "text": "Twenty-first"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item41",
+   "text": "480"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item42",
+   "text": "Twenty-second"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item43",
+   "text": "504"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item44",
+   "text": "Twenty-third"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item45",
+   "text": "528"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item46",
+   "text": "Twenty-fourth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item47",
+   "text": "552"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item48",
+   "text": "Twenty-fifth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item49",
+   "text": "576"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item50",
+   "text": "Twenty-sixth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item51",
+   "text": "600"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item52",
+   "text": "Twenty-seventh"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item53",
+   "text": "624"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item54",
+   "text": "Twenty-eighth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item55",
+   "text": "648"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item56",
+   "text": "Twenty-ninth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item57",
+   "text": "672"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item58",
+   "text": "Thirtieth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item59",
+   "text": "696"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item60",
+   "text": "Thirty-first"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item61",
+   "text": "720"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item62",
+   "text": "Thirty-second"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item63",
+   "text": "744"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item64",
+   "text": "Thirty-third"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item65",
+   "text": "768"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item66",
+   "text": "Thirty-fourth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item67",
+   "text": "792"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item68",
+   "text": "Thirty-fifth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item69",
+   "text": "816"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item70",
+   "text": "Thirty-sixth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item71",
+   "text": "840"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item72",
+   "text": "Thirty-seventh"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item73",
+   "text": "864"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item74",
+   "text": "Thirty-eighth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item75",
+   "text": "888"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item76",
+   "text": "Thirty-ninth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item77",
+   "text": "912"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item78",
+   "text": "Fortieth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item79",
+   "text": "936"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item80",
+   "text": "Forty-first"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item81",
+   "text": "960"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item82",
+   "text": "Forty-second"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item83",
+   "text": "984"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item84",
+   "text": "Forty-third"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item85",
+   "text": "1008"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item86",
+   "text": "Forty-fourth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item87",
+   "text": "1032"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item88",
+   "text": "Forty-fifth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item89",
+   "text": "1056"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item90",
+   "text": "Forty-sixth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item91",
+   "text": "1080"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item92",
+   "text": "Forty-seventh"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item93",
+   "text": "1104"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item94",
+   "text": "Forty-eighth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item95",
+   "text": "1128"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item96",
+   "text": "Forty-ninth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item97",
+   "text": "1152"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item98",
+   "text": "Fiftieth"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.item99",
+   "text": "1176"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.4.2",
+   "text": "Let those who cannot calculate easily have such a table prepared on a sheet of papyrus. After preparing it, let them consider of which of the numbers written first the proposed paroxysm—that is, the periodic hours between the paroxysms—is a part. For when they have found it they will have the genus of the type (it will make no difference at present whether one says genus, or kind, or form, or nature), and, once the types have been found, the number from the part. For if the number of hours in the period should be the third part of [the number of] the type, you will say that three of those types are combined with one another; if the fourth, four; if the fifth, five, always making the number named after the part. And so that the method may be found clearer through an example, let someone have a paroxysm for 6 hours and a remission for two, so that the whole period is of eight hours; on this hypothesis you will consider what part 8 is of 24, and then, finding that it is a third, you will say that three quotidians are combined: quotidians, because the number 8 is a part of the number 24; three, because it is a third. Again, let it be supposed that the period between the paroxysms is of sixteen hours. Since, then, sixteen is no part of 24, but is a third of 48, and 48 is the number of the tertian period, you will say that three tertian fevers are combined with one another. Again, let the period of the paroxysms be supposed to be of eighteen hours. This number is a part neither of the number of hours of the quotidian nor of those of the tertian, but of that of the quartan, which is 72. You will say, then, that four quartans are combined with one another: quartans, because [it comes] from the number of 72 hours; four, because the number of eighteen hours is a fourth part of that of 72. Again, let the period of the paroxysms be supposed to be of 5 hours. Five is the twenty-fourth part of 120; you will say, then, that there are 24 sextan types combined with one another. Again, let the period of the hours between the paroxysms be 7. These are the twenty-fourth part of 168, that is, of the octan type. You will say, then, that there are twenty-four octan types. Again, let the period between the paroxysms be supposed to be of 9 hours. These are the twenty-fourth part of 216, and this 216 is the period of the decan type. So on this hypothesis there will be twenty-four decan types. Again, let the period between the paroxysms be supposed to be of ten hours. This number is the twelfth part of 120, which is [the number] of the sextan period; for this reason, then, there will be twelve sextans. Again, let the period between the paroxysms be supposed to be of eleven hours; the number 264 is measured by eleven twenty-four times. There will be, then, 24 duodecan types combined with one another, because 11 measures the number of hours of the duodecan type, which is 264, by the number 24. You will always, then, find the kind of the types from the numbers written in the table, and their quantity from recognising what part of that number the number of hours between the paroxysms is, which is the same as recognising by which number the [number] between the paroxysms measures that of the type; for this number and the part are named after one another. It makes no difference, then, whether one says that the number 4 is the third part of 12, or that 12 is measured against four by three. And it is the same as this if we say thus: 4 measures 12 by three. So, having written the method again in brief headings, I will pass on next to another subject. Its aphorisms, as it were, will be these. One must consider the hours of the periods between the paroxysms: what part they are of the hours of the types. For the number named after the part will be the quantity of the types, and the [number] measured by them will be the type itself. In other words the same thing will be expressed thus: consider the number of hours of the period between the paroxysms, by what [number] it measures any one of those from the table. For the number from the table itself will show the kind of the types, and the [number] by which the [number] of the period measured it, their quantity. In yet other words the same thing will be expressed thus: as many times as the number of periodic hours between the paroxysms measures any of the [numbers] of the types, so many times is that type combined with itself. It will make no difference whether one says 'combined with' or 'combined upon'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.5.1",
+   "text": "One can express the same method in many other words too, but it is enough to have advanced thus far into their futile art, so that we may be able to show, even in brief headings, each of the errors that follow, beginning again from the more obvious. For when the period between the paroxysms is of twelve hours, there can be two quotidians, but there can also be four tertians, and no less six quartans, and eight quintans, and ten sextans, and twelve septans, and fourteen octans, and sixteen nonans, and eighteen decans. So again in this way a road of no small nonsense is found, one that cannot stop, nor has any fixed goal at which it will be necessary to mark it off. For why should one rather choose to go as far as the eighteen decans, or the twenty duodecans, or the twenty-two duodecans, or some one of the periods that follow? For one may say that there are twenty-four thirteenth-day types, twenty-six fourteenth-day, and twenty-eight fifteenth-day. And one may add to these in the same way. For this is already tedious even with the quotidians, still more drivelling with the tertians and quartans, and much more so with all those that follow. The period of sixteen hours, at any rate, is no more one of three tertians than of six quintans or of 9 septans. And it can be one of twelve nonans, of fifteen decans, of eighteen thirteenth-day types, of twenty-one fifteenth-day types, and correspondingly of all those that follow. But for me it is enough only to have pointed out the road of the waste of time over such things. And indeed the period of 18 hours—for after pointing out its road too I will pass on to something else—is one of four quartans, of eight septans, and of twelve decans. And for each of all these there is a method, so that one can calculate on one's fingers without needing a table. But I, as a matter of my education, answer each of these on the spot to those who put them to me, because I was trained in numbers in childhood; but an untrained man needs not months but whole years for them, in order to become wise in useless matters, which some are not ashamed to put to one another in earnest. That all who have written treatises on types err in two ways, neither teaching the forms of diseases nor spending their time on useful things, I think has been sufficiently shown."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.6.1",
+   "text": "Since they have forced us to set aside useful things and spend our time arguing against them, let us show them to what depth of insensibility they have come, both they themselves and those who listen to them as though they taught something useful. For although they themselves admit that their discussions concern something impossible, they still handle them as a kind of exercise. Why, then, do they not exercise themselves in even the thousandth part of the whole of therapy? Besides this, their hypotheses conflict with one another, and these I will go through for you first. Some of them suppose that the periods extend as far as the types of 15 days; some as far as the monthly [types]; and there are also those who go as far as two or three months. What opinion I hold about what Hippocrates said concerning [periods] beyond the quartan period, I have shown elsewhere, in works where I was teaching, as I persuade myself, a theory useful to the art. But now, since my purpose in this treatise is not to teach anything but to refute those who do not write useful things and who praise a most useless theory, I will turn first to those who say that they go as far as the fifteenth-day type for the sake of exercise. For these men do not notice that they overturn their own hypothesis by the other hypotheses they add. For if the fever that has a paroxysm every 23 hours is not an anticipating quotidian, it must be twenty-four twenty-fourth-day types; and likewise the one that is one hour late must be twenty-sixth-day types, and these too twenty-four of them. So they are not telling the truth when they suppose that the types extend to 15 days. Much more so when they bring a tertian, a quartan or indeed a quintan period that falls two or three hours behind, or anticipates, into combinations of types, in the same way as the twenty-four twenty-sixth-day types. For, to leave aside their period of fifteen days and come to that of the quintan: in this type, if the paroxysm anticipates by one hour, there will be twenty-four ninety-sixth-day types; and if it is late, again 24 ninety-eighth-day types. But if they posit that some [types] themselves already anticipate and are late, they utterly destroy their own hypothesis. So they must suppose that the types are bounded by whole days and nights, or else there is nothing for them to babble about; but once this is supposed, the types will run on to a long number of days, even if they do not want it. Perhaps, then, those do better who suppose right from the start that the number of days in the types is unlimited. For even if they say nothing else, at least they neatly escape the argument against them, unlike the former, who are overthrown by themselves, supposing that the types go as far as fifteen days, yet being forced to use not only those composed of many tens but also those of hundreds. Since, then, it is impossible for them to escape the multitude of types, it is surely impossible too for them to escape combining the combinations with one another. Rather, just as those who suppose that only three types exist, quotidian, tertian and quartan, nevertheless produce many pairings from their combination, so these too will have to combine all the types with one another. As, then, they combine the three, saying [that] first each [is combined] with itself, then with one another, so these too will have to combine [theirs]. Let us begin, then, from the quintan, and show them how, by being combined with itself, it will make a great many pairings; and it makes no difference if one calls them not pairings but combinations. One such pairing is this: let a quintan begin on the first of the days, and let the third and fourth be free of all fever; let the fifth have the second paroxysm of the quintan that began on the first day, and the sixth that of the one [that began] on the second; then, the 7th and 8th being free, let the ninth have the third paroxysm of the first of the quintans, and the tenth that of the second, this too the third in sequence; and let the fourth quintan proceed in the same proportion. For present purposes it makes no difference whether one says a double quintan or two quintans, a point on which not even all agree. Another pairing of two quintans: let the first of the days have one paroxysm of one quintan, let the second be free, and then let the third have the other quintan beginning, the proportion being kept in the following days. Another pairing of two quintans: let the first of the days have one of them, and the fourth the other beginning, the following days keeping the proportion. A fourth pairing of two quintans: let one of them attack in the first night. A fifth pairing of two quintans: let one of them begin on the first day, and the other in the second night. A sixth pairing of two quintans: let one begin on the first day, and the other in the third night. A seventh pairing of two quintans: let one begin on the first day, and the other in the fourth night. These seven pairings, then, we have combined on the supposition that the first of the quintans begins on the first of the days. And again we will make another 7, supposing that the first of them begins in the first night. If, then, we also combine the sextan with it in this way, it is clear that the pairings will become more numerous; and more still when we combine the septan, and far more still the octan, or the decan too, not to speak of the twentieth-day, thirtieth-day and fortieth-day types, and all those besides that were shown to follow of necessity from their hypotheses. Let those, then, be left aside for the present, and let us go only as far as the decan. And first consider with me that we have now spoken of the pairings when the quintan becomes double; but if it should become triple, clearly another not small multitude of pairings arises. It is surely possible for it to become quadruple too, one paroxysm attacking each day; and it would become quintuple if a fifth were mixed with the quadruple one in a single night in addition to the four quintans mentioned, and this one itself again in four ways: for it can take its beginning either in the first night or in one of the following, the second, or the third, or the fourth, or the fifth. The same variety belongs to the other types as well, and still more to those of them that run over more days. If, then, you combine the whole variety of the quintan with that of the sextan, you understand, I think, how great the multitude will be; and if you mix with them the septan too, or octan, or one of those following, and then again make other pairings from four types thus combined with one another, then from five, and then again from more, I think you can reckon how great the number of pairings will be, or how many books will be needed to teach them. What kind of interweaving there will be among them I will try to show you briefly, setting down this as the starting point of the account. For each of the types it will be necessary first to go through the variety of the pairings, as I showed a little earlier for the quintan; after that, to combine them with one another: first one pairing of those from the quintan, say, with one of the sextan, so that from two pairings some other third arises; then to combine all with all in turn; then in this way one with two, then with three, then with more, until you have mixed all the pairings of the type being combined with the one; and after this to mix two pairings of one type, the quintan, with one of each of the others, then with two, or three, or four, until you have combined all with one another; then in this way again to mix four pairings with those of each type, then five, and then six, until you have mixed all the pairings of the quintan with all those of the others, not, of course, of all together, but of each separately, for example those of the quintan with those of the septan, and then in this way with those of the octan, or the nonan, or the decan, or one of those following; then, just as you mixed the quintan with each of the others, so now to mix the decan with each of the others, and then the septan and the octan and the others. When you have done this, it will be necessary to combine all the pairings of three types with all, then of four, then of five, and then of six, then of seven, and so on in order, until we have combined all of all. That the multitude of pairings will be so great as to amount to tens of thousands hard to count, I think anyone now grasps, even if he is inexperienced in number. And he can also share the argument with the arithmeticians and hear the number from them. For if I wished to demonstrate it now, I would need a book larger than those written by the people who babble about these things, without realising that they had touched on a ten-thousandth part of the combinations, although they chattered at length. If, then, they think it useful to combine types with one another, let them know that they have found the ten-thousandth part of what is useful; but if [they think it] useless, let them at last be ashamed and call Hephaestus onto their books; or, even if they do not call him themselves, time will destroy them. For who else will still copy them? And who will not cut these up too and use them up for everyday needs?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1.7.1",
+   "text": "When this had already been written and given out to some of my companions, and others asked to learn how it would be [found] from the table, I answered on the spot, to those who put the question, the number of the types. The method, then, is not of some different kind, but falls under the former one. You will be persuaded yourself that this is so if you first recall, and always keep the memory of these things ready to hand, that in this context we call a 'day' the period made up of the day and the night, which some call a *nychthēmeron* (night-and-day). Thus, at any rate, we also say that the year is 365 and a quarter days. Of one day, then, there are twenty-four hours, of two forty-eight, of three seventy-two. But the names of the types do not come from the days completed, but from the correspondence of the paroxysm. We call tertian that in which the paroxysm comes on the third day, two days, obviously, having been completed in between; and quartan that in which it comes on the fourth, three days in this case being completed in between; and in the other cases proportionally. So when you find a period of a type of four days, you will call it quintan, for it is not the same thing to have a paroxysm on the fifth day and to have a period of five days. Having fixed these things in memory, then, recall for me again the method described earlier in connection with the table. It was said that, given the proposed number of periodic hours, which falls between two onsets of paroxysm, you should examine whether it measures any of the numbers contained in the table. Those numbers came about by multiplying twenty-four hours. So that you may find this yourself without the table, on your fingers, do as follows. If six or eight is proposed, you would readily find that four quotidians come about when the proposed period is of six hours, and three when it is of eight. If seven is proposed, or any other of those that do not measure the number of twenty-four hours, examine whether the proposed number has some part, or none except the unit. If it has some other part besides the unit, as nine has a third, and fifteen both a third and a fifth, examine which of its parts it has in common with the number twenty-four. At once, then, the number of twenty-four hours has a third, but it does not have a fifth, as fifteen does. If, then, the proposed period happens to be nine hours, you will take the third of it, and also the third of the 24, namely eight, and you will say that there are eight types bounded by three days. And I asked you to remember that such types are called quartans. If the period is of 15 hours, taking the third of the 15, [you will say] that the types are of five days, that is, sextans; and since the third of the 24 is eight, you will say that there are also that many sextan types. If the proposed number has no part, as is the case with 7, [you will say there are] 24 octans. So too if the proposed period is of eleven hours, you will say that there are 24 types of eleven days, that is, duodecans. So too if the period is of thirteen hours, twenty-four fourteenth-day types. Likewise, even if the proposed period is greater than 24 hours, if it has no common measure with 24, as happens with 25, you will say there are twenty-four twenty-sixth-day types (as also with 20). If there is some common measure of both, as with 27 it is the third, you will say there are eight decans, since the third of 24 is 8, and of 27, 9. For it is clear that the period of the decan type is of nine completed days, which make a number of two hundred and sixteen hours, of which the proposed number of twenty-seven hours is an eighth part. This method, then, falls under the general one stated before by way of the table, differing from it only in this, that one can find even without the table the first number of hours measured by daily periods of which the proposed number is a part. This theorem has also been demonstrated by Euclid in the Elements, and is in its seventh book. Taking the greatest common measure of both numbers, one must examine how many times this common measure measures each number; for example, with fifteen and twenty-four the first common measure is the number three; this measures fifteen by five, and twenty-four by eight. If, then, you multiply five by 24, or 8 by 15, you will find the same number produced, namely one hundred and twenty hours, that is, obviously, 5 days. And for this reason you will call the type sextan. By the same reasoning, if the proposed number is thirteen hours, this and 24 will jointly measure the number produced by multiplying the two by each other, which is 312 (since thirteen is one of the so-called prime numbers; for they give this name to those that have no common measure except the unit). The number, then, that both measure will be 312, for this contains the 24 hours thirteen times. The type will be of thirteen complete days, that is, a fourteenth-day type; and since thirteen measures 312 twenty-four times, the number of types will be 24. So you now have this demonstration of the method too, although I did not wish to teach you useless matters; for it would have been better to despise them altogether, remembering the Pythian precept that one ought to be sparing of time."
+  }
+ ]
+}

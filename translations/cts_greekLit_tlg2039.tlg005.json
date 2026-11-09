@@ -1,0 +1,403 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2039.tlg005",
+ "edition_urn": "urn:cts:greekLit:tlg2039.tlg005.ai-claude",
+ "source_edition": "tlg2039.tlg005.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-07",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Fragmentum [Sp.] (e cod. Paris. gr. 2448): AI translation (Claude)",
+  "author": "Diophantus Alexandrinus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2039.tlg005.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.head": "Editorial and scanning signs: '??' in the text stands for lost or unrendered numeral signs, restored from the arithmetic as 98 (8.1, 10.1), 792 (13.1), 99 (14.1), 2/3 (16.1), 900 (18.1), 2900 (21.1) and 943 (28.1). The half sign is scanned as 'U+2220'.\n10.1: the problem asks for perimeter and area, but only the area is computed. 'σύνθες ... ἐπί' here means multiply.\n12.1: 'ἕξεων ἔλεγχοι' ('proofs of states') makes no evident sense and seems corrupt; the text may also have lost the 9:6 ratio. Rendered literally.\n19.1: the numeral after the first 'γίνονται' is missing; 900 is supplied.\n20.1: the text gives 348 1/3 (τμη γʹ), but 4300/12 = 358 1/3 (τνη); either a scribal or a scanning error. The transmitted figure is kept.\n27.1: 'contained by the decagon' could also mean 'containing'; 25 feet fits neither the inscribed circle (about 30.8) nor the circumscribed one (about 32.4).\n28.1: 6600/7 is 942 6/7; the text rounds to 943.\n29.1: the numeral ι is missing before 'ἐφʼ ἑαυτά'; [10] is supplied.\n33.1: the figure after 'half of these' is garbled in the text (scanned 'U+222΄'); [3 1/2] is required by the arithmetic.\n34.1: obscure. κοινοῦται is taken as 'are combined' (averaging unequal sides). συγγών΄. is an unresolved abbreviation and is kept as it stands.\n35.1: ἕκιον is read as ἕκτον ('sixth').\n36.1: the text has ὅ where the arithmetic requires 120 (ρκ); [120] is supplied. 'ἔστιν ... ᾖ' duplicates the verb.",
+  "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.37.1": "Numerals: several Greek numerals are garbled as '??' in the source. I restored them from the arithmetic: 900 and 390 (49-52), 496 and the fraction in 259 2/3 1/7 (53), and 2/3 in 6 2/3 (65). In 52 the first product is missing altogether and is supplied as [900].\n\nOther numeral errors corrected from the calculation: the root of 675 appears as 'Ϛκ' in 51 (26; only approximate); 225 as 'σκϚ' in 52; 36 as 'λῶ' in 54; 81 as 'κα' (21) at its first occurrence in 55; 86 as 'ῆϚ' in 56.\n\n64: the text gives 8 1/2, but 100/12 is 8 1/3, which is also what the reverse calculation in 65 requires. The figure is translated as it stands. This octagon rule (5/12 of the diameter) also departs from the general rule of 73 (triple, then divide by the number of sides).\n\n68: the Greek reads literally 'divide universally three times'; the sense is 'by three'.\n\n73-74: 'name' (ὀνομασία) means the number of sides in the polygon's name.\n\n77: the sentence is loose at the end. 'Area of the square' and the missing second half of the 'just as' comparison suggest the text is defective: for the cylinder one expects the cube to be taken.",
+  "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.78.1": "Several signs appear as ?? in the source; where the arithmetic fixes them they are rendered as 2/3 or as the numeral required (98, 179 2/3, 891, 2197). Sections 81: the stated value 89 1/2 1/3 is 1/3 of the cylinder, not the 2/3 just prescribed (which is 179 2/3); it may be the amount to subtract, or the text may be faulty. 'The 14 of which 1/3' seems corrupt. After 'a sphere was given' the sign ?? is unclear and the sentence is broken: the diameter 7 is evidently meant, since it is then cubed to 343. 84: the Greek has ἀήτης, read as αὐτῆς; αρ (1100) is read as 1150, which the division requires. 86: 575 1/4 1/8 is approximate; 24,167/42 is about 575.405. 87: the passage breaks off. 88: 'hemisphere' here and in 89, though the method is that for a segment of a sphere; κα (21) is read as πα (81), as in 89 and as the sum 189 requires. 89: 5148/14 is 367 5/7, not the 367 1/2 given. 90: ρο (170) is read as 176, as the division requires; τὰ γὰρ is unclear, taken as 'for this'; [50] is supplied, as the sum requires."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.head",
+   "text": "Pseudo-Diophantus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.head2",
+   "text": "III. From the Paris codex Gr. 2448 = A."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.1.1",
+   "text": "The *Plane Measurements* of Diophantus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.2.1",
+   "text": "A circle has a diameter of 7 feet: to find the perimeter and the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.3.1",
+   "text": "Take the diameter three times, and add to the diameter itself a seventh part of the 7: the result is 22. That much is the perimeter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.4.1",
+   "text": "The area [is found] thus: the 7 by itself gives 49; these, always, by the 11 give 539; a fourteenth of these is 38 1/2. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.5.1",
+   "text": "A circle whose diameter is 14 and whose perimeter is 44: to find the area from the perimeter and diameter. Proceed thus: take half of the perimeter, which gives 22, and half of the diameter, which gives 7; multiply the 7 by the 22, which gives 154. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.6.1",
+   "text": "Another way. Multiply the 44 by the 14, which gives 616; take a fourth of these, which gives 154. The area is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.7.1",
+   "text": "Further. The perimeter of a circle is 44: to find its diameter. As a general rule, take the 44 seven times, which gives 308; a twenty-second of these is 14. The diameter is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.8.1",
+   "text": "When three circles touch one another, to find the area of the figure in the middle; let their diameters be 7 each. Proceed thus: the diameter by itself gives 49; these twice give 98; a fourteenth of these gives 7. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.9.1",
+   "text": "When four circles touch one another, to find the area of the figure in the middle; let their diameters be 7 each. Proceed thus: the diameter by itself gives 49; these three times give 147, a fourteenth of which is 10 1/2. The area is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.10.1",
+   "text": "Let there be a semicircle whose base is 14 and whose perpendicular is 7: to find the perimeter and the area. Proceed thus: multiply the base by the perpendicular, that is, the 14 by the 7, which gives 98; these, as a general rule, eleven times give 1078; a fourteenth of these is 77. The area is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.11.1",
+   "text": "Let there be a sphere having a diameter of 10: to find its surface. Proceed thus: the 10 by itself gives 100; these by the 11 give 1100; a fourteenth of these is 78 1/2 1/14; these four times give 314 1/4 1/28. The surface of the sphere is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.12.1",
+   "text": "The *plinthion* [small brick or block] is constructed on these numbers: 6, 8, 9, 12. So the 8 to the 6 is in the epitritic [4:3] ratio, in which the harmony of the fourth consists; and the 12 to the 6 in the double [ratio], in which the octave [consists]; proofs of states, and of proportion: arithmetic, from the 6 and 9 and 12, for by as much as the middle [term] exceeds the first, by so much it is exceeded by the last; and geometric, that of the four [terms], for what ratio the 8 has to the 6, that same [ratio] the 12 has to the 9, and the ratio is epitritic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.13.1",
+   "text": "Of the semicircular [figure] called a *lōros* [band], the diameter is 7 and the thicknesses are 2 each. Add the diameter and the two thicknesses, which gives 11; these by themselves give 121; from these subtract the diameter by itself, which gives 49, leaving 72; these by the 11 give 792; a twenty-eighth of these gives 28 1/4 1/28. The area of the band is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.14.1",
+   "text": "Another way. Add the diameter and the one thickness, which gives 9; these by the 11 give 99; a seventh of these gives 14 1/7. The perimeter in the middle is that much. These by the thickness, by the 2, give 28 1/4 1/28."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.15.1",
+   "text": "Method for polygons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.16.1",
+   "text": "We shall measure a pentagon, each side of which is 10, as follows: to find its area. I proceed thus: the 10 by itself gives 100; these I take five times, which gives 500; a third of which is 166 2/3. The area will be 166 2/3."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.17.1",
+   "text": "To find also the diameter of the circumscribed circle: it will be 17. I proceed thus: the 10 of the side by the 17 gives 170; these I divide by the 10, which gives 17. The diameter of the circumscribed circle will be 17."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.18.1",
+   "text": "We shall measure a hexagon as follows. If it has a diameter of 60 and the side is 30, I proceed thus: the 30 by itself gives 900; these I take six times, which gives 5400; a third and a tenth of these give 2340. The hexagon will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.19.1",
+   "text": "Another way. Again, the side by itself gives [900]; multiply these by the 13, which gives 11,700; now I divide: a fifth of these gives 2340. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.20.1",
+   "text": "Let there be a heptagon, equilateral and equiangular, each side of which is 10: to find its area. I proceed thus: the 10 by itself gives 100; and the 100 by 43 gives 4300; a twelfth of which is 348 1/3. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.21.1",
+   "text": "Let there be an octagon, equilateral and equiangular, each side of which is 10: to find its area. I proceed thus: the 10 by itself gives 100; these by the 29 give 2900; of these I always take a sixth, which gives 483 1/3. The area of the octagon will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.22.1",
+   "text": "To find also the diameter of the circumscribed circle: it will be 26 feet. I proceed thus: the 26 five times gives 130; a thirteenth of which is 10. Each side of the octagon is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.23.1",
+   "text": "If you wish to inscribe an octagon in a square, if the side of the square is 24, these five times give 120; a twelfth of which gives 10. The side of the octagon is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.24.1",
+   "text": "Let there be an enneagon, equilateral and equiangular, each side of which is 10: to find its area. I proceed thus: the 10 by itself gives 100; these by the 51 give 5100; an eighth of these gives 637 1/2. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.25.1",
+   "text": "To find also the diameter of the circumscribed circle. It will be 30 feet. I proceed thus: each side has 10, and the diameter is triple, which gives 30 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.26.1",
+   "text": "Let there be a decagon, equilateral and equiangular, each side of which is 10 feet: to find its area. I proceed thus: the 10 by itself gives 100; these by the 15 give 1500; half of which gives 750. The area of the decagon will be that much, 750 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.27.1",
+   "text": "Another way, again: the 10 by itself gives 100; these by the 38 give 3800; of these always [take] a fifth, which gives 760. This method is accurate, and the diameter of the circle contained by the decagon is 25 feet."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.28.1",
+   "text": "Let there be a hendecagon, equilateral and equiangular, each side of which is 10: to find its area. I proceed thus: the 10 by itself gives 100; these by the 66 give 6600; a seventh of which is 943. Let the area be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.29.1",
+   "text": "Let there be a dodecagon, equilateral and equiangular, each side of which is 10: to find its area. I proceed thus: the [10] by itself gives 100; these by the 45 give 4500; a fourth of which gives 1125. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.30.1",
+   "text": "If you wish to find the octagonal side from the diameter of a circle, proceed thus: the diameter, being 12, five times gives 60; now I divide: a twelfth of these gives 5. The side of the octagon is that much, and the diameter is 12."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.31.1",
+   "text": "Again, I add one side to the diameter of the octagon: together they give 17, which is the diagonal of the outer square."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.32.1",
+   "text": "Likewise, if you wish to find the diameter of the octagon from the side, proceed thus: if the side is 5, always take the side twelve times; now I divide: a fifth of these gives 12. The diameter of the octagon is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.33.1",
+   "text": "Another way, again, for the diagonal on a square: if the diameter is 12, take the octagonal side, which is 5, and 7 remain; half of these is [3 1/2]; this I subtract from the diameter of 12, and 8 1/2 remain; these twice give 17. The diagonal of the outer square is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.34.1",
+   "text": "If one side of the square is greater, [the sides] are combined and I take half of them; and from this, also if it is *syngōn.*, it is found by this method."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.35.1",
+   "text": "How, again, the area of the octagon is found. I proceed thus: if it has a diameter of 12, these by themselves give 144; of these I subtract a sixth part, which gives 24; 120 remain. The area will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.36.1",
+   "text": "We shall measure [it] again another way: if the diameter is 12, one side has 5; now I take the side by the diameter of 12, which gives 60; these twice give [120]. The area is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.37.1",
+   "text": "How an octagon is measured, or rather also laid out. Make a square building, whose length and breadth are 12, and taking half of the diagonal, set [it] off from corner to corner, and you will be able to set up the octagon equilateral and equiangular."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.38.1",
+   "text": "11 squares have 14 circles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.39.1",
+   "text": "13 squares have 30 equilateral triangles; and 13 is a third [and] a tenth of 30."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.40.1",
+   "text": "5 squares have 3 pentagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.41.1",
+   "text": "13 squares have 5 hexagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.42.1",
+   "text": "43 squares have 12 heptagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.43.1",
+   "text": "29 squares have 6 octagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.44.1",
+   "text": "51 squares have 8 nonagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.45.1",
+   "text": "15 squares have 2 decagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.46.1",
+   "text": "And again, another way: 38 squares have 5 decagons. This one is also the most accurate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.47.1",
+   "text": "66 squares have 7 hendecagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.48.1",
+   "text": "45 squares have 4 dodecagons."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.49.1",
+   "text": "Archimedes demonstrated that 30 equilateral triangles are equal to 13 squares, which are a third and a tenth of 30. So multiply the side by itself, and a third and a tenth of the result will be the area. That is, 30 of the one side by themselves give 900; a third and a tenth of these give 390. The area is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.50.1",
+   "text": "The same another way, better. 30 by themselves give 900; these by the 13 squares give 11,700; divide these by the 30 triangles, which gives 390."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.51.1",
+   "text": "Another way. First to find the perpendicular. 30 by themselves give 900; take a quarter of these, which gives 225; 675 remain; the square root of these is 26. The perpendicular is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.52.1",
+   "text": "Another way. 30 of the one side by themselves give [900], and half of the base, that is 15, by itself gives 225; these from the 900 leave 675; the square root of these is 26. The perpendicular is that much. These by half of the one side, that is of the base, by the 15, give 390. The area is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.53.1",
+   "text": "To measure a segment less than a hemisphere, whose diameter is 12 and whose perpendicular is 4; to find its solid content. Half of the base by itself gives 36; these three times give 108; and the perpendicular by itself gives 16; add together, which gives 124; these again by the perpendicular give 496; these eleven times give 5,456; a twenty-first of these gives 259 2/3 1/7. The solid content is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.54.1",
+   "text": "To find from the diameter and the perpendicular the diameter of the whole sphere. Half of the base by itself gives 36; divide this by the perpendicular, by the 4, which gives 9; add [this] together with the 4, which gives 13. The diameter of the sphere will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.55.1",
+   "text": "Let there be a truncated cone, whose base perimeter is 60 and that of the top 6, and the slant sides 15 each; to find its solid content. I take a third of the base's 60, which gives 20, which is the diameter; and a third of the 6 of the top, which gives 2; and I proceed as with an isosceles trapezium, and I subtract the 2 from the 20, leaving 18; half of these, 9; on this the perpendicular will fall; these by themselves give 81; and the 15 of the slant side by themselves give 225; from these I subtract the 81, leaving 144; the square root of these is 12. The perpendicular of the cone, that is, the height, will be 12."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.56.1",
+   "text": "To find its solid content. Add the 6 of the top and the 60 of the base, which gives 66; half of these, 33; let a circle be drawn whose perimeter is 33; its area comes to 86 1/2 1/8. And likewise I subtract the 6 of the top from the 60 of the base, leaving 54; half of these, 27. Let another circle be drawn, whose perimeter is 27; its area comes to 58; a third of these, 19 1/3; I add these to the 86 1/2 1/8; together they give 105 1/2 1/3 1/8; these by the perpendicular, by the 12, give 1,271 1/2. The solid content of the cone will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.57.1",
+   "text": "A universal method for polygons, as follows:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.58.1",
+   "text": "Let there be a pentagon whose diameter is 20; to find its side, as follows: always, universally, you triple the diameter; three times gives 60; and I divide by 5, which gives 12. The side of the pentagon is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.59.1",
+   "text": "If you want to find the diameter of the same pentagon from the side, do the reverse, as follows: always five times, which gives 60; now I divide universally: a third of them gives 20. The diameter of the pentagon will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.60.1",
+   "text": "Let there be a hexagon and let it have a diameter of 20; to find its side. Do as follows: always, as I said before, triple the diameter universally, which gives 60; and divide: a sixth of them, since it is a hexagon, makes the side 10. Its side will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.61.1",
+   "text": "If you want to find the diameter from the side of the same, do the reverse, as follows: always take the side six times, since it is a hexagon, which gives 60; now divide universally: a third of them gives 20. Let the diameter of the hexagon be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.62.1",
+   "text": "Let there be a heptagon and let it have a diameter of 20; to find its side. Do as follows: always triple the diameter universally, which gives 60; now divide by the polygon, that is, by 7, which gives 8 1/2 1/14. The side of the heptagon will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.63.1",
+   "text": "If you want to find the diameter from the side of the same, do the reverse, as follows: always the side seven times, since it is a heptagon, which gives 60; now divide universally: a third of them gives 20. The diameter will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.64.1",
+   "text": "Let there be an octagon and let it have a diameter of 20; to find its side. I proceed as follows: always the diameter five times, which gives 100; now I divide: a twelfth of them gives 8 1/2."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.65.1",
+   "text": "If you want to find the diameter from the side, do the reverse: always the side twelve times, which gives 100; and I divide universally, as I said before: a fifth of them gives 20. The diameter of the octagon is that much. Let there be a nonagon and let it have a diameter of 20; to find its side. Do as follows: always triple the diameter, which gives 60; now I divide: a ninth of them gives 6 2/3. The side is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.66.1",
+   "text": "If you want to find the diameter from the same, do the reverse: the side nine times, which gives 60; now I divide universally: a third of them, 20. Let the diameter be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.67.1",
+   "text": "Let there be a decagon and let it have a diameter of 20; to find its side. Always triple the diameter, which gives 60; now I divide: a tenth of them gives 6. The side will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.68.1",
+   "text": "If you want to find the diameter from the side of the same, do the reverse, as follows: the side ten times, which gives 60; now I divide universally by three, which gives 20. The diameter is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.69.1",
+   "text": "Let there be a hendecagon and let it have a diameter of 22; to find its side. I proceed as follows: universally I triple the diameter, which gives 66; now I divide: an eleventh of them, 6. The side is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.70.1",
+   "text": "If you want to find the diameter from the side, do the reverse, as follows: the side eleven times, which gives 66; and divide universally: a third of them, 22. Let the diameter be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.71.1",
+   "text": "Let there be a dodecagon and let it have a diameter of 20; to find its side. I proceed as follows: always the diameter three times, which gives 60; now universally I divide: a twelfth of them, 5. The side is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.72.1",
+   "text": "If you want to find the diameter from the side, do the reverse, as follows: the side twelve times, which gives 60; and I divide universally: a third of them, 20. Let the diameter be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.73.1",
+   "text": "Likewise also with any polygon whatever, if the diameter is given to you, always, universally, triple the diameter, and divide the total by the name of the polygons, and you will be able to declare the side to be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.74.1",
+   "text": "If [you want] to find the diameter from the side, do the reverse, as follows: always multiply the side by the name of the polygons; for example, if a thirteen-sided figure, take the side thirteen times, and divide the total universally, a third of them, and you will have the diameter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.75.1",
+   "text": "Likewise also with the others use the same method."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.76.1",
+   "text": "On the cylinder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.77.1",
+   "text": "Here too Archimedes demonstrated that the ratio which the circle has to the square circumscribed around it, the same ratio the cylinder also has to the cube which encloses it and which has sides equal to the diameter of the cylinder and an equal height; and as in the case of circles one says that eleven squares, circumscribed on the outside of the circle, are equal to fourteen circles having the same diameter, so also eleven cubes are equal to fourteen cylinders, whose sides are equal to the diameter and the height; and just as in the case of circles we take the area of the square and multiply by eleven and divide by 14, and it will be the solid content of the cylinder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.78.1",
+   "text": "Let there be a cylinder whose diameter is 7 and height 7; to find its solid content. Cube the 7, it makes 343; multiply this by 11, it makes 3773; divide this by 14, it makes 269 1/2."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.79.1",
+   "text": "Some, however, first take the area as in the case of the circle, and then multiply by the height."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.80.1",
+   "text": "Concerning the sphere and cylinder the same Archimedes demonstrated that the sphere is two-thirds of the cylinder enclosing it, and that every cone is a third part of the cylinder having the same base as it and an equal height."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.81.1",
+   "text": "So if you wish to find the solid content of the sphere from the cylinder, whatever the cylinder has been found to be, you take 2/3 of it, and that will be the solid content; and as in the case of the 7s, since it is 269 1/2, the 1/3 makes 89 1/2 1/3. It is better, starting from the cube, as with the cylinder, to divide the products by the 14 of which 1/3; and the sphere is two-thirds of the cylinder; so of what is the 14 two-thirds? Of 21; divide the results by the 21. Thus a sphere was given [...] of the 21; cube this, it makes 343; multiply this by eleven, it makes 3773; divide this by the 21, it makes 179 2/3. In this way measure every sphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.82.1",
+   "text": "And in the case of the cone, since it is a third part of the cylinder, divide by the 14; of what is the 14 1/3? Of 42. Measure in the case of the cone thus: cube the 7, it makes 343; this by 11 makes 3773; divide by the 42, it makes 89 1/2 1/3."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.83.1",
+   "text": "Some, however, having measured the cylinder, take the 1/3, and that will be the solid content of the cone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.84.1",
+   "text": "The diameter of a sphere is 13; to find its solid content. I proceed thus: cube 13, it makes 2197; this eleven times makes 24,167; the 1/21 of this, 1150 1/2 1/4 1/21 1/84. So much is the solid content."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.85.1",
+   "text": "To find also its surface. Proceed thus: the 13 by themselves make 169; this, universally, four times makes 676; this eleven times makes 7436; the 1/14 of this, 531 1/7. So much will the surface be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.86.1",
+   "text": "To measure a hemisphere whose diameter is 13; to find its solid content. Proceed thus: cube the 13, it makes 2197; this eleven times makes 24,167; the 1/42 of this makes 575 1/4 1/8. So much is the solid content."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.87.1",
+   "text": "To find also its surface: the 13 by themselves"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.88.1",
+   "text": "A greater segment of a hemisphere whose base is 12 and perpendicular 9; to find its solid content. I take half of the base; by itself it makes 36; this three times makes 108; and the perpendicular by itself makes 81; put together, it makes 189; this by the perpendicular, by the 9, makes 1701; this eleven times makes 18,711; the 1/21 of this makes 891. So much will the solid content be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.89.1",
+   "text": "To find also its surface: half of the base by itself makes 36; and the perpendicular by itself makes 81; together it makes 117; this four times makes 468; this eleven times makes 5148; the 1/14 of this, 367 1/2. So much is the surface of the greater segment of the hemisphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.90.1",
+   "text": "Let the diameter of a sphere be 4; to find its solid content from the cylinder. I proceed thus: in the base measure a circle from the diameter. We shall find the area thus: we multiply the diameter, the 4, by itself, it makes 16; this eleven times makes 176; the 1/14 of this makes 12 1/2 1/14; so much is the area. Multiply this by the diameter, by the 4; for this is the height of the cylinder enclosing the sphere, there being two diameters, of the sphere and of the cylinder; so I multiplied the 4 by the area, by the 12 1/2 1/14, it makes 50 and two sevenths. The cylinder is as much as the surface of the sphere. And Archimedes has shown that the cylinder enclosing the sphere is one and a half times the sphere; so if 1/2 is the addition, 1/3 is the subtraction. So I subtract from the cylinder, which is the surface of the sphere, the 1/3 of the [50] and 2 sevenths; there remains 33 1/3 1/7 1/21. So much is the solid content of the sphere. And if we take 2/3 of the 50 and two sevenths, it likewise makes 33 1/3 1/7 1/21; so the surface of the sphere will be 50 and two sevenths, and the solid content 33 1/3 1/7 1/21."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.91.1",
+   "text": "And let the perimeter of a sphere be 18; to find its solid content. I proceed thus: as in the case of circles, the 18 by the 7 makes 126; and the 1/22 of this, 5 and 8 elevenths; this eleven times makes 63; cube this, it makes 250,047; divide this by the 2541, it makes 98 1/4 1/11 1/33 1/44 1/121 1/363."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2039.tlg005.1st1K-grc1.92.1",
+   "text": "I cut a sphere into four parts and one segment was found to be 7 on each of both its sides; to find the solid content. I proceed thus: I cube the 7, it makes 343; this twice makes 686; this eleven times makes 7546; the 1/21 of this makes 359 1/3. So much is the solid content of the segment."
+  }
+ ]
+}

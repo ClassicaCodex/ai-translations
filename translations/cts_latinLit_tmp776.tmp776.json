@@ -1,0 +1,337 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp776.tmp776",
+ "edition_urn": "urn:cts:latinLit:tmp776.tmp776.ai-claude",
+ "source_edition": "tmp776.tmp776.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Nestorii Tractatus Contra Haeresim Pelagii Seu Coelestii: AI translation (Claude)",
+  "author": "Marius Mercator",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp776.tmp776.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp776.tmp776.opp-lat1.head": "The stray letters (a, b, c, d, e, f) are the editor's footnote marks and are omitted. Read 'sanctum' for 'tanctum', 'filios' for '(??)lios', 'ostenditur' for 'ostenditor', 'infligendis/inflictis' for 'infrietis', 'sermo' for 'serme', 'harum' for 'narum'. In 2.11 'Luc. xiii, 28' should be Luke 1:28. In 2.5 the citation of 'Genes. iii, 16' for the permission to eat from every tree is wrong (Genesis 2:16), and in 2.8 'Gen. iii, 17' should be 3:16; these are given as printed. In 2.3 the sense of 'matrem quae se genuit Deitate procreantem' is compressed and the rendering is uncertain. In 2.8 'despondentur' (are betrothed) may be a corruption of 'desperant' or similar.",
+  "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.12": "Line 2 bears the ref '2.3a' and is an editor's marginal remark closing Sermon I. In 3.3 the scan's 'Luc. xiii, 28' in the preceding stretch and here are Baluze's/editor's references, left as given; the Romans reference '4, l7' read as 4:17. In 3.4 'colliaamus' read as 'colligamus'. In 3.7 'mortificationem' is odd (one expects something like 'vivificationem'); Baluze reads 'justificationem'. In 3.11 'evectio' is the imperial travel-warrant for the public post (cursus publicus). In 4.2a and 4.3 the text and variants are confused; Baluze's readings are given as printed, and 'tyrannicida imagine' is uncertain. In 4.4 'termines' read as 'terminos'.",
+  "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.5": "5.1a: the opening heading is garbled (\"i(??)id, quod script(??) est\"), read as \"in id, quod scriptum est\". 5.1a: \"praecedens magister\" is obscure; rendered \"the master who presided\", perhaps the presiding bishop. 5.3: \"accipietis\" is probably corrupt (perhaps for \"aspicietis\" or \"accipit\"); rendered loosely as \"you will find\". 5.6: \"indefessis aliis\" is obscure, perhaps a corruption of \"indefessis alis\" (\"on tireless wings\"); rendered conjecturally. 6.3a: \"ires\" read as \"tres\". 6.1a: \"(??)eetu\" read as \"aspectu\".",
+  "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.7": "Section 7 ends with an incomplete clause (\"so that he who had once said ... well pleased\"); the main verb seems to be missing, and the text may be defective. In section 11 \"proferre\" is read as a historic infinitive, and \"pateatiorem\" as \"patentiorem\".",
+  "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.14": "§15: 'composita rerum specie pulcherrima ditur' is corrupt (a verb is lost or garbled); rendered as '[presents it]'. 'quae f(??) ex aere' probably 'fiunt ex aere', read as 'made from the air'. §18 'Vude' read as 'Vade'; 'qeippe' as 'quippe'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.head",
+   "text": "II. NESTORIUS'S TREATISE AGAINST THE HERESY OF PELAGIUS OR CAELESTIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.1.head",
+   "text": "PREFACE OF MARIUS MERCATOR."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.1.1",
+   "text": "1. Although Nestorius thought and taught rightly against the perverse and impious definition of Pelagius and Caelestius, he nevertheless judged that Julian, formerly bishop of Eclanum, standard-bearer and front-line champion of this heresy together with his partners, who had long since been stripped of office and deposed by an ecclesiastical [Baluze: by an apostolic] sentence, should meanwhile be received into friendship, promising him hope of absolution; he also consoled Caelestius himself with his letters, copies of which we have appended."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.1.2",
+   "text": "2. Whether he did this from malice or from folly cannot easily be known: that, though he thought and taught most rightly against their distorted opinions (apart from his own impiety, which led him all the way to condemnation), he should both have them as friends and think they should be cherished and coaxed with the hope of an empty promise; they who, together with their aforesaid patron, were condemned again and again at the Council of Ephesus by two hundred and seventy-four bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.1.3",
+   "text": "3. Now therefore here, against them, while the same Julian with his accomplices was residing in the city of Constantinople and was listening to him preaching publicly in the church, is his first sermon that was delivered, translated by us from Greek into Latin, word for word."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.head",
+   "text": "FIRST SERMON."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.1",
+   "text": "Treatise on Adam, delivered publicly in church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.2",
+   "text": "It was delivered by Nestorius in the second year of his episcopate, in the great church, at the beginning of Lent, after the departure of the catholics, before a large gathering of his own people, with the Pelagians listening, on the penalties inflicted on the human race by God on account of Adam's sin and undone by the Incarnation. Hardly anything more eloquent is found among the Greeks. It is conveniently divided into twelve parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.1a",
+   "text": "1. Flooded by many and frequent showers of anguish, and turning this over within myself, I take breath again in your beloved hearing. For, casting off the anxiety of my sorrows, I receive that joy which comes to me from you, in that I see you, intent on divine things, take up this eagerness which does not grow sluggish in the round of so many feasts, the origin of all of which is the coming of the Lord's goodness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.2a",
+   "text": "2. Before this the whole human race was set in sorrow and groaning, under the curse of that sentence crying out against its origin: I will greatly multiply your sorrows and your groanings (Genesis 3:16). For this reason the first herald of the Lord's coming, and of such great goods, and of joy, is this: Hail, full of grace (a word addressed to the Virgin): the Lord is with you (Luke 1:28), because the holy one [born] of you will be called the Son of God (ibid. 35). With you, he says, and of you: with you, namely, by the coming of the divinity [Baluze: deity]; of you, through the form of humanity taken from her."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.3",
+   "text": "3. So when you hear, O pagan, of an infant laid in a manger and wrapped in swaddling clothes, do not stumble at the flesh that is seen, but consider the dignity of that infant: the mother who bore him, as by his Godhead creating her; formed in her humanly [Baluze: but by humanity], and having formed her divinely; wrapped in swaddling clothes according to the flesh, but by the providence of the Godhead holding all things together; suckled according to the nature of the body, but by divinity most abundantly bestowing the nourishment of milk on all who are born."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.4",
+   "text": "4. Perhaps it was over such a gift that Gabriel therefore cried out to the Virgin: Hail, full of the grace of God. For as soon as Christ, Lord of all, was born into this life, he dissolved the head of all sorrows and, changing the cursed offspring of nature, set free that birth once condemned in bodies; he also blotted out the decree of that sentence which is born together with nature, that is: I will greatly multiply your sorrows and your groanings. In sorrows you shall bear children (Genesis 3:16)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.5",
+   "text": "5. But that which was said, you shall bear children, was a blessing of fruitfulness: Increase and multiply, and fill the earth (Genesis 1:28); for the providence of increase is a begetter. But in sorrows you shall bear children: [here] the fruit of sin is shown. For just as eating is a life-giving gift bestowed on the race by the Creator (for before sin God's ordinance spoke to the first-formed man about food: Of every tree that is in paradise you shall eat for food (Genesis 3:16)), so 'you shall eat in sorrows' took its entry from the curse. For God did not say to Adam: Because you heard the voice of your wife, and because you ate, therefore I condemn you; but: Because you ate from the tree of which alone I had commanded you not to eat, therefore in sweat you shall eat your bread (ibid. 3:17). For those first delights of the first-formed man were free of pain, and wholly free of the labours of farming. So too, concerning the procreation of children, God after the sin did not say to Eve without qualification, you shall bear children, but: in sorrows you shall bear children."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.6",
+   "text": "6. For marriage is a gift of divine goodness, the fruitfulness of nature, a device fighting back against death that consumes all things; a bridle of chastity against lust, the possession of blameless pleasure; but the manifold groanings in women's labour are the penalty of sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.7",
+   "text": "7. And to bear children is not a curse; for a blessing would not be given as a curse. But to bear in sorrow: this burden is drawn from that curse after sin. For nature bears children pierced by the pains of labour, wasting away with anguish, enduring the fear of a bitter delivery, sometimes casting off unripe offspring, occasionally passing beyond the time set for delivery and carrying the burden of the womb too long, often wasting away with the very offspring, sometimes even after the birth being anxious lest what is born perish for lack of the nourishment of milk through some want, taking care that it not suffer longing for something harmful, that it not covet some fruitless teaching, that it not be harassed by an onslaught of demons, that it not waste away with a disease of the kind that hardly admits of healing, that it not at some time be carried off by poverty under someone's bitter yoke: of all these sorrows the brief saying is nature's teacher: In sorrow you shall bear children."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.8",
+   "text": "8. Pitiable is this misfortune: for what had been prayed for and desired becomes afterwards something to flee. Those who have the desire to beget children are betrothed, and bear them in sorrows. They long for offspring, and cry out against the course of the months in which these are carried. They wish and rejoice to become mothers, and, stung by the burial [Baluze: feigning burial] of those who were born, they complain that the day of their delivery was the cause of their present grief; confirming by their laments, namely, that saying: In sorrows you shall bear children (Genesis 3:17). Partner in this sentence are both what is born and what gives birth: the one bearing in sorrows, the other being born in sorrows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.9",
+   "text": "9. But the merciful Lord did not despise those condemned offspring of nature; but coming into a woman's womb, he changed in that mother the custom of giving birth, and altered in her the laws of childbirth (for he had prepared the holy Virgin's labour to be free from sorrows), and gave human nature an unwedded mother, neither spurning nor despising the offspring of marriage. And in this way [Baluze: And some while later there: In this way] Christ, being born, deigned to transfer earthly life into heavenly citizenship."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.10",
+   "text": "10. For a most bitter sentence bound nature fast [Baluze: most bitter sentences bound]. For what is more bitter than this sentence? I will greatly multiply your sorrows and your groanings; in sorrows you shall bear children (Genesis 3:16); and again: Cursed is the ground in your works; in sorrows you shall eat your bread all the days of your life (ibid. 17); and once more: Thorns and thistles it shall bring forth for you (ibid. 18). Each of these obtained healing in no other way than that to each wound a remedy was applied from its opposite, one closely fitted and suited to it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.11",
+   "text": "11. And observe the undoing of all these sorrowful sentences furnished by Christ. I will greatly multiply your sorrows and your groanings: he undid this where it was said: Hail, full of grace [Baluze adds: of God] (Luke 1:28). In sorrow you shall bear children: he undid it through what is written: Blessed is the fruit of your womb (ibid.). Cursed is the ground in your works: he undid it through this: Glory to God in the highest, and on earth peace (Luke 2:14). Thorns and thistles the ground shall bring forth for you: [he undid it] through the crown of thorns set upon his head (John 19:5) (for they deserved to be uprooted, because they had come near so great a head). In the sweat of your face you shall eat bread: he undid it through what he says: The bread which I shall give you is my flesh, which I shall give for the life of the world (John 6:52). He undid what was said to the serpent against us: You shall watch for his heel; through what was said: I have given you power to tread upon serpents and scorpions (Luke 10:19). He undid that nakedness which came about after sin, through the incorruptible garment of the glory of the resurrection:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.12",
+   "text": "12. Of all these things the catechumen has no share in any. [Baluze: cathecuminus.] And since the time of baptism is drawing near, it is good [Baluze adds: also] to remind these briefly not to deprive themselves of such gifts by being overtaken by death; nay rather, that they themselves not be plunged into the very same and so great evils by which Adam was bound. For each one will carry away with him the penal sentences pronounced against nature: for he has not become [Baluze omits: become] a partaker of the body and blood of him who through baptism undoes these sentences; and having become a sharer of the figures [Baluze: not having become (a sharer) of the true things], not of the true originals, he will not be filled with their enjoyment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.2.3a",
+   "text": "And the rest, which has little bearing on the present matter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.head",
+   "text": "SERMON II."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.1",
+   "text": "Likewise another treatise of the same, to the people, on Adam."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.2",
+   "text": "Why this sermon is placed second, though it is fourth in the manuscript, will be explained at the following sermon. It seems to have been delivered in the same year and the same place, on the Lord's day, the preceding one having been given on the Sabbath before; and the same Pelagians had heard him discoursing on the sin of Adam binding his whole race, and on the coming of Christ restoring the whole. The sermon is eloquent, though towards the end lighter and more youthful. It lacks its beginning. It is divided into twelve parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.1a",
+   "text": "1. Both the desire of my hearers, who await [Baluze: of those seeking from me] instruction, moves me, and my weakness urges me rather to silence; yet the duty of the priestly office overcomes the force of my illness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.2a",
+   "text": "2. For straightway, the command having gone before, as though showing by it human nature's progress in wisdom, he brings the animals before the sight of Adam, who, according to the nature of each, gave names to them one by one on the spot, and poured out, as it were gushing forth, fountains of names. And God indeed was calling the things that were not as though they were (Romans 4:17); but Adam [was calling] things that are not named as though they were already named."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.3",
+   "text": "3. O for how many gifts, Adam, you gave no thanks to my God [Baluze omits: my]! You were fashioned from dust, you dwelt in paradise, you lived in an abundance of delights, free of pains you enjoyed pleasure, riches flowed to you without any care, you were also God's disciple, [Baluze: ... you were. And a little later there: The first recorder] you became the first recorder of names, the wild nature of beasts stood by you more obedient than rational beings, you made law in imposing names on the animals, you held mutual converse with the Creator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.4",
+   "text": "4. And some while later in the same place: The angels, offended at the corruption of sinners, perceiving that our punishment was being deferred [Baluze: our (punishment), as perceiving with difficulty], were not moderately stirred, and approaching God they cried out: Do you want us to go and gather up the tares? (Matthew 13:28)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.5",
+   "text": "5. The demons likewise were hoping either [Baluze: as it were] for a Sodom-like burning of the whole world, or were more eagerly expecting a flood, as in Noah's time. But the devil was bringing forward what is against nature, that bond in which it is written: You are earth, and to earth you shall go (Genesis 3:19). And he pressed on from this, consuming the generations of men by death."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.6",
+   "text": "6. In so great a difficulty of affairs, then, when we were bereft of better hopes, there comes about for nature the greatest abundance of reconciliations. For there is born the Mediator of the world and of God, not like Jeremiah or any other of the prophets, who were despised, but one who has the Godhead joined to himself as the giver of whatever he wills; not the mediator of one nation, as Moses of the Jews; but, as Paul says: One God, and one Mediator of God and men, the man Christ Jesus. Man, the person by which he is seen and appears; but God, the nature of the Godhead joined [to it]; mediator, taking up the case on behalf of our nature against the devil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.7",
+   "text": "7. He brought forward sin from Adam as a bond; on the other side [Baluze: and on the other], Christ, from flesh without sin, strove for the cancelling of this debt; he read out again the condemnation which had gone forth through Eve against the whole of nature; but Christ set against it the mortification [Baluze: justification] which had come to the race through blessed Mary; he alleged [Baluze: set against it; urged] the incontinence over food in paradise [Baluze: the food of the incontinent]; Christ, on the contrary, showed that human nature, given vinegar to drink in him, was so for no sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.8",
+   "text": "8. He undid all that the devil alleged against us, and proclaimed the victory of this case, saying: Now is the judgement of this world (John 12:31). In me, he says, this world is judged; by my Incarnation it is overcome. Now, he says, is the judgement of this world, and the prince of this world shall be cast out (ibid.), as a wicked false accuser [cast out] of court, bringing forward a cancelled bond, and leaping in hostility upon those who owe nothing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.9",
+   "text": "9. But this benefit is conferred on all by the necessary sacrament of the saving washing: for whoever has been washed in baptism becomes a member of the household, one body with, and an intimate of, him who undid that bond, and with him becomes a dweller in heaven: for where I am, he says, there is my servant also (John 12:26)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.10",
+   "text": "10. But the catechumen remains a debtor, as a stranger to him who cancelled the bond; and when his soul has departed from the flesh, the devil, interposing himself before the angels who escort souls, says: Why are you snatching away this soul, which is plainly mine? You are invading my right, my possession, my debtors; and if what happens among men [Baluze: as is also seen among] is also regarded, this plea concerning catechumens will prevail [Baluze: prevails], the devil adding this: They on earth shut the doors of the churches to them; but you run from heaven to receive them. You are trying, angels, to do violence to my right."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.11",
+   "text": "11. For what do you seem to have in common with catechumens? They have not been reborn of water and the spirit, so as to be escorted by you to the kingdom of heaven. They have not renounced the inheritance which is liable to me. Not having the royal travel-warrant, how will they complete the journey by the royal post?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.3.12",
+   "text": "12. But now these allegations of the devil against nature have fallen silent, against whom that baptized nature confidently cries out: He has raised us up together, and made us sit together in the heavenly places in Christ (Ephesians 2:6), to whom be glory for ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.head",
+   "text": "SERMON III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.1",
+   "text": "Likewise of the same, a treatise delivered publicly in church, whose beginning is: The sun indeed, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.2",
+   "text": "It seemed right that this sermon, like the following one, should be copied out first as it is found in Marius's excerpts, and then in full as it stands in volume VII of the works of Chrysostom edited by Savile: for there is some difference, which will later give occasion to a not improbable conjecture."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.1a",
+   "text": "1. The sun, having risen higher above the earth and running from the East all the way to us, changes night into day, shakes off sleep [Baluze: sleeps], and returns us to our work; but the light of the knowledge of God rouses the mind from the sleep of sloth, enlightens the thoughts, and lifts them to virtues. That this light should dawn upon us will always be desirable; and if anyone does not see this visible sun, he lives, since even a blind man lives, having knowledge of the sun by hearing alone; but souls, if they do not know God, are without a sun and wholly dead, even if someone supposes they are alive, of whom the Lord also says: Let the dead bury their dead (Matthew 8:22)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.2a",
+   "text": "2. [Baluze: And some while later there:] But he who wrestled with the begetter of mortality redeemed life from both mortalities [Baluze: and from both lives (redeemed) mortality]. For a twofold mortality was ravaging us: one befalling nature made mortal through sin; the other, which comes about through the casting away of knowledge. For to be ignorant of God bears the likeness of the insensibility that results from death. On both sides, then, the devil became the author of death; and Christ, crushing him, raised our life from both mortifications [Baluze: by life]: raising up the soul, namely, by life-giving precepts, and by the resurrection re-creating and restoring that [Baluze: and instead of that] which is mortal. For when the one who pushed has fallen, what had been pushed down by him is lifted up."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.3",
+   "text": "3. Of this [Baluze: And some while later there: Of this ... to us] contest an image of life has been left. Where? [Baluze omits: Where?] Look in the desert. There the divine nature lifted this [Baluze: the man] up, terrifying the tyrant through the desert with the image of the tyrant-slayer [Baluze: by wearing down]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.4",
+   "text": "4. Likewise some while later in the same place: He gave men sustenance through foods, and stability to the body through nourishment; but divine Scripture has taught me that God surpasses the bounds of nature. For I remember the divine voice crying out that men should not fear hunger and deserts, but even there should answer this: Let God bring help, and let bread perish, for even without food God gives life; without nourishment too the flesh will live, if God commands it to live; saying thus: It is written (Matthew 4:4), and thus I believe, having confidence from the divine oracles, and I do not look for the life that comes from food alone."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.4.5",
+   "text": "5. Likewise some while later in the same place: Through the things by which Adam offended, through these Christ reconciles. Once [Baluze: Since] he had fallen through unbelief and food, not believing God, and he fell when he had eaten; Christ, coming, begins from faith and continence [Baluze: to faith and from continence]: restoring nature from that very point from which it had collapsed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.head",
+   "text": "SERMON IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.1",
+   "text": "Likewise by the same, on what is written (Matthew 4:9): All these things I will give you, if you fall down and worship me, whose beginning is this: To another sermon, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.1a",
+   "text": "1. As my tongue presses on to another sermon, the master who presided, mindful of my promises, has reminded me that I owe you the Lord's contest, and constrains me to render it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.2",
+   "text": "2. [Baluze: Among other things, and below:] I am grateful to the one who reminds me [Baluze: to those who remind me], and I have great confidence in the discharge of the debt. For he who paid off the bond of sins for us will also repay on my behalf to you my debt contracted concerning this same contest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.3",
+   "text": "3. Likewise some while later in the same place: When the devil perceived the warmth of faith in the heart, then he approaches as a harmful flatterer, and contrives visions by night; you will find that he addresses the sense of the sleeper, wearied by drowsiness, as if an angel of light. When he had already set chariots before the eyes of the man awake, he also sent forth a rather clear voice through the air, saying: It is God's right judgement, O man, that you receive treasures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.4",
+   "text": "4. Likewise some while later in the same place: By the same art he supposed that he could provoke the Lord also. But all those things present which were then being done were prefigurations of all things to come, and bulwarks of the Church that was to be built. For just as the nature of men, taking its foundation in Adam, collapsed with the ruin of that same foundation, and came under the hand and power of the devil, who cast Adam down; so the faith of the Church, having Christ the Lord as its foundation, the strength of that same foundation remains immovable and secure, and unshaken by the firmness of its head, which cannot be torn away."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.5",
+   "text": "5. Likewise by the same in the same place, among other things, and below: All these things, he says to the Lord, I will give you, if you fall down and worship me (Matthew 4:9). Half-way, against your will, you prophesy, devil; for you will give back the world to the Lord, which you had wrongly bound to yourself in servitude, but beaten, not worshipped. Do not suppose that you are holding converse with Adam; for he enticed Adam with a promise, and persuaded him that he would be a god, and by this persuasion cast him down; now too he was promising omnipotence to Christ, thinking that he would cast him down by the hope of loftiness; but by the rebuff he earned a fitting reply: Get behind, Satan; you shall worship the Lord your God, and him only shall you serve (ibid. 10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.5.6",
+   "text": "6. Likewise in the same place, among other things, and below: And behold, he says, angels came and ministered to him (ibid. 11). Let us too, then, render service to the Lord with the angels: let us leap up to heaven, fulfilling the angelic ministry on earth; with tireless [efforts] let us raise up [Baluze: subject] the soul; let us love with all our strength him who raised up our fallen nature; let us worship him who cast down and laid low our implacable enemy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.head",
+   "text": "ANOTHER VERSION OF SERMONS III AND IV"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.1",
+   "text": "COMBINED INTO ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.2",
+   "text": "On these words: If you are the Son of God, throw yourself down."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.3",
+   "text": "Matthew 4."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.4",
+   "text": "Likewise on these: The devil took him up onto a very high mountain, etc. Ibid."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.1a",
+   "text": "1. Just as the sun, raising itself above the earth and driving its chariot towards us from the East, puts night to flight, wakes sleepers and returns them to their work, so the radiance of divine knowledge bids the mind as it were wake up, pours light upon its thoughts, and rouses us to virtues. And this light is more desirable for us to shine upon us than the sun's: for you could live even though you lacked the sight of the sun (as indeed the blind live, who know the sun by hearing alone), whereas souls that are not illumined by the sun of divine knowledge are dead, though they seem to live: concerning whom is also that saying of the Lord: Let the dead bury their own dead (Matthew 8:22)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.2a",
+   "text": "2. But he has made us free from both these deaths who wrestled with the author and parent of death. For a twofold death falls upon us: one which the condition of mortal nature brings with it; the other which the loss of divine knowledge inflicts, which leaves us bereft of all sense of heavenly things and so makes us most like the dead. Of both these deaths the devil is the craftsman; and when Christ broke and crushed him, he drove both these deaths away from nature: the soul being raised up by saving teachings, and the mortal body restored by the help of the resurrection. Thus, with him laid low by whom we lay crushed, we who were before tottering and pushed down shall henceforth stand and be raised up."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.3a",
+   "text": "3. Of this fight, which Christ entered upon with the devil, a monument and image has been left to the human race, so that by gazing on it it may raise up its strength and spirits. But where is that image? Look at the desert; for there grace has as it were hung it up, and displays, as on a painted panel, the tyrant beaten and terrified by him in the wilderness. We see, then, the arena: the desert; the boxer: the devil, provoking Christ's hunger; and lastly the three bouts of Christ with the enemy, three answers, according to the law of combat, which bids boxers come to blows three times."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.4a",
+   "text": "4. Come now, review the threefold contest. If you are the Son of God, say that these stones become bread. Here the devil began the fight with the Lord. To whom Christ: Man does not live by bread alone; thus he showed himself safe from the enemy and unharmed. If you are the Son of God, throw yourself down: see the devil's second bout. You shall not tempt the Lord your God; those words baffled the force and the attack of the adversary. All these things I will give you if you fall down and worship me; here the contest began to be joined a third time; in which the Lord, like a skilled athlete, drove the devil, a troublesome and foul-fighting adversary, out of the arena and field of combat: Get behind me, Satan; it is written, you shall worship the Lord your God, and him only shall you serve."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.5",
+   "text": "5. So contemplate this contest that you too may learn to wrestle, and become a pupil instead of a spectator. Christ's first fight with the demon teaches you to fight against pleasures; for hunger gave the origin and handle to the combats; hunger, I say, that harsh desire, after the manner of an uncontrolled tyrant; hunger, the cause and head of the pursuit of pleasures: for the appetite for food does not endure a bridle, namely when the belly sees set before it a delight of such a kind that it cannot be refused it: and because many could not moderate and restrain this, they have been driven to deny that there is providence, as if God took no care of the hungry. Onto this rock the devil drives Christ, led by the hope that, goaded by hunger after the manner of a man, he would easily be dashed against it. For he did not know that God was united to the man; nor indeed would he have approached God as one hungry: for how would he have pestered about food one whom he knew to be God, he who knew that his own nature was free of hunger? Him, then, whom he saw as a man, he addresses as a man: If you are the Son of God, say that these stones become bread. The curious investigator of the divine adoption in Christ, the purveyor of food worse than hunger itself, had once instilled in men the false hope of attaining divinity through the fruit of the forbidden tree; now the same provokes Christ's hunger, pointing to the desert in which there was nothing but stones: so that the place itself, increasing despair of finding food, might cast the disturbance of distrust into his mind, and take away the son's affection towards God his parent."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.6",
+   "text": "6. But come, let us consider the tempter and inspect the snares he lays in so many words. If you are the Son of God, he says, say that these stones become bread. You were lately called Son of God, he says, when you were baptised. I heard the voice proclaiming: This is my beloved Son, in whom I am well pleased (Matthew 3); which address I mocked as full of flattery and grand jesting, and as a reward and honour truly rather trifling. You meanwhile were rejoicing in your heart, and already persuade yourself that you are that beloved one, and exult over-confidently, as though you were in heaven itself, and accepted by God above the rest and his delight. But what sort of father is to be reckoned one who takes no care of a hungry son? What sort of patron and guardian is he who does not feed his clients? You, though, have now spent forty days fasting, while your father meanwhile is not at all troubled about your hunger, and idly looks on at a hunger of many days with no feeling of pity. A truly son-loving parent, who does not even give bread to his hungry offspring! An excellent son, whom even his father does not feed in extreme hunger! Let him show his love towards you and hold out bread; let him nourish his hungry child in the desert. He can change stones into bread: just ask this of him, now that you are almost killed by hunger. If you obtain this favour from him by prayer, I do not object to your being the Son of God and glorying deservedly in that name; but before you obtain it, do not claim so great a name for yourself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.7",
+   "text": "7. Truly an honour devoid of true honour, and a most inhuman humanity! He pities in order to kill; he feigns care and contrives destruction, and offers poison in a most sweet cup of praises; the old trickster incites Christ to distrust, provokes him to ask for food, not to relieve him in his hunger, but so that, once he was baited and incited to ask, he might soon, as one who distrusted, drive him to commit some sin against God; so that he who had once said these things falsely: This is my beloved Son, in whom I am well pleased."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.8",
+   "text": "8. What does Christ the Lord [say] to this? He does not at once betray the God hidden in him, lest he frighten off the prey, but like someone from the common run of men he replies: For it is written, he says, man does not live by bread alone, but by every word that proceeds from the mouth of God. The lack of food, he says, does not trouble me at all; it is not strange or unexpected to me that I am hungry here in the desert; nor do I pray that loaves may come out of stones. Many are the ways by which God may provide for us, and not of one kind are the means by which he attends to our need. He gave food to men to eat, that is, dishes suited to the flesh and the body; but holy Scripture has taught me that he himself is not confined by the bounds and limits of nature; nor has that divine voice slipped from my memory which warns men not to be anxious about hunger, since God takes ample care of it. Therefore spare yourself caring for the hungry man, or showing me the desert to bring me to despair; God will surely have provided, even if no loaves are at hand. Indeed he can preserve our life without food, and the flesh will live without fleshly nourishment when God has commanded it to live. So it is written, he says, so I believe, relying on the divine words; and I do not think that my life is fitted to food alone, or hangs on it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.9",
+   "text": "9. Thus Christ, to win God's grace for us, used the very things by which Adam sinned against God: for since Adam fell into guilt through unbelief and eating the forbidden food (for he fell through incredulity and gluttony), Christ, who had come to restore nature, begins from faith and temperance. Therefore the demon, laying aside his mask, as it were, plans to wage open war on him with his usual arts. Before this man was brought forth into the light, he says to himself, I contrived a plot against his birth through the suspicion of adultery; frustrated in that hope, I tried to entrap and crush him, once born, through Herod's agency: here too the prey slipped from me: I was beaten as long as I fought with another's hand; now I will wage war myself. O blind lust for fighting! He now attacks as a grown man the one by whom he was beaten when he was scarcely born. Come on, then, close in with the man, demon; try again, and put his strength to the test once more."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.10",
+   "text": "10. He had already been subdued and broken in the first encounter, when he approached the hungry man (how he was beaten you have heard); but now, eager to make good the defeat he had suffered, he doubles his strength and daring. And because he used a first stratagem that was empty and vain, and could not deceive the famished man, he applies a second device. Nothing came of that first trick for me, he says, though it had overthrown Adam; I will lay it aside and give up wanting to bait him with the desire for food. For he seems to be master of pleasures, since, though the delight of eating was set before him, he could not even be induced to ask for bread to relieve a fast of many days, as one who does not know how to be beaten by those fleshly weapons. I have found a craftier way of fighting; I have at hand a sweeter hook, glory, than which mortals are accustomed to pursue nothing more gladly; in it there is not only a great deal of allurement for ensnaring them, but also a double profit, since it has folly and rashness joined to its emptiness, for in general whoever is fired with the desire for glory is headlong towards pride and conceit. And there is reason why this man should seem bound to be greedier for glory: for it is likely that one who has now persisted fasting so many days thinks rather boastfully of himself: I will tickle the man; I will approach him as if some righteous man, and supply a handle for vainglory with some sentence of the Psalms, which I will pretend was uttered long before on his account; so I will bait him with a crafty question. And for putting the question some steep place will be suitable; I will seize him and drag him onto the pinnacle of the temple, and when he has settled on the very top, then I will suggest this at the right moment: If you are the Son of God, throw yourself down; for it is written that he has given his angels charge concerning you, and in their hands they will bear you up, lest perhaps you strike your foot against a stone. One of two things will certainly happen: either he will believe my words, or reject them: if he takes my speech in good part and flatters himself as a righteous man, he will be ready, as I shall have proposed, to throw himself headlong: so he will hurl his body from the highest point, and if he perishes from the fall, I will mock him dead; but if he survives even afterwards, he will at least have received from me the wound of vainglory, having been induced, that is, by my speech to throw himself rashly headlong. Now if I see him refusing and declining, I will bring him into ill will and hatred with God, as once Job, disparaging him as one who has violated the dignity and benefit of divine adoption, in this way: I recited to him the sentence written by you, I spoke those words by which you promised him sure safety, and yet he hesitated to throw himself into the depth below. It is plain that he by no means trusts your promises. How then have you called him son who puts so little faith in your words?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.11",
+   "text": "11. Christ was not unaware of what the adversary was contriving. He lets himself be drawn, and follows, just as man follows man; but when he stood on the top, then the demon [began] to bring out his premeditated words: If you are the Son of God, throw yourself down. Let us answer the devil as he speaks: If you believe it to be the mark of that man who rejoices in God as Father that in danger and in falling itself he remains free of all harm and danger, you have the means by which what you seek is plain: for by this very thing it appears that he is the Son of God, that you do not thrust down and drive headlong the one who is at your side, within your stroke and reach, though you have long been itching to thrust him down: but evidently you can do nothing else than urge and persuade to the fall; you cannot push. Why, he says, do you not throw yourself headlong of your own accord? Come now, cast yourself without hesitating, throw yourself down: for it is written that he has given his angels charge concerning you, lest perhaps you strike your foot against a stone. In saying these things the enemy showed that he did not know that the one he was addressing was God; for if he had known he was God, he would not have urged him to a fall from the highest top. He knew that God is neither lower than any height nor less extended than any plain; but that he, as he rises up with all the highest things and is made equal to them, so is extended alike with the level and flat, and so is free from all danger of stumbling; and that a man's foot, not God himself, can strike. These words of the devil are therefore proof that he did not deal with Christ as with God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.12",
+   "text": "12. Now let us hear the sense and meaning of the words. You said just now, he says: It is written: Man does not live by bread alone, but by every word that proceeds from the mouth of God. And I myself praised your faith in God; but since there is another word of God which testifies that he has given his angels charge concerning you, lest perhaps you strike your foot against a stone, show that you give faith to the word of God, and let yourself down, secure from all harm and danger. See, a steep place conveniently at hand to establish that you are the Son of God; see, a fall to prove God's care for you: for if, throwing yourself headlong from here, you are then raised up safe and sound, that voice which proclaimed you Son of God will beyond doubt be true; since God promised you this beforehand, that he would entrust the care of you to the angels, to guard you in all your ways."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.13",
+   "text": "13. You bring out ointment from a stinking little vessel, devil, and renew an old story. A certain lion killed by Samson held a honeycomb in its mouth, though it lay dead and stinking; you, like that lion, drip from your mouth honey drawn from the Scriptures, and likewise you soon lie prostrate at the Lord's reply: For it is written, he says: You shall not tempt the Lord your God. Christ neither refused to throw himself down nor agreed: for if he had refused to throw himself headlong, he would have given the devil a handle to accuse him as one who distrusted God's words; but if he had agreed, he would have seemed rather arrogant and too inclined to display. So he gave an answer by which he seemed neither to assent nor to refuse: You shall not tempt, he said, the Lord your God. He did not at all say, You shall not tempt me your Lord: for if the devil had heard this, he would not afterwards have attacked him as a man with these promises: All these things I will give you if you fall down and worship me. What then did he answer? The words of the Psalms, he says, I embrace as true, and I have complete hope in God, who promises that he will not fail us with help. I know that the care of men has been entrusted to the angels; but not so if men throw themselves headlong, not if they lay violent hands on themselves, not if they rashly tempt God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.14",
+   "text": "14. See then the devil conquered and routed a second time: he rises up for the third temptation. The course of this third temptation too the following discourse must set out for you, and if I complete it, I shall have paid in full the whole debt which I confirmed by my promise, as if by a bond. The payment of this debt, as it is most delightful to me and to you, so to the devil alone it is bitter and hateful: for the price of his rashness is paid out by his own defeat. For my part I see that two payments of the promised discourse have now been made: the third remains to be weighed out, heavier, I think, and more difficult than the others; namely about the third device of the devil, which is third in order, but first in cunning and weight; last in number, yet such that among the others it easily takes first place for craftiness: for in the earlier temptations his malice was bearable. He was not inciting to open defection from God; but only abusing the divine records and Scriptures, and throwing these words at Christ, If you are the Son of God, he fought impiously against God in such a way that he still disguised his art under the appearance and pretext of piety."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.15",
+   "text": "15. In this third temptation he lays bare his naked rage and malice, and displays a wickedness masked by no coverings; he demands to be worshipped by him who is worshipped by all, and from what he has already heard from Christ, he comes to hope that he can extort worship from him. For when he saw that the Lord spoke everything from the oracles of faith, and denied that God was to be tempted, he thought he was inclined to believe, and did not much trouble to examine anxiously and test the things put before him. So, having arranged a most beautiful appearance of things, he [presents it], as if to dazzle his mind and eyes with the novelty of the spectacle. The devil takes him up, says the sacred page, onto a very high mountain, and shows him all the kingdoms of the world and their glory. He sketches a fictitious image, and imitates the pictures and forms of things that are made from the air. He fabricates the disordered mass of the world and the ornaments of a shadowy kingdom, thinking, no doubt, that by the empty splendour of this image Christ's readiness to believe could be led into error. Yet he does not even understand that he is fighting against himself while he urges Christ to this worship. Promise him rather all the riches of the world so that he does not fall down and worship you! Still he goes on: All these things I will give you, if you fall down and worship me. Whoever does not believe Paul when he asserts that the covetous man is an idolater, let him hear the parent of idols bearing witness that Paul's words are true: Whoever worships me, he says, to him I will give what belongs to others. Is not, then, he who possesses what belongs to others a client and follower of the devil? For he himself promises to give away what belongs to others: so giving to some as to harm others, and bestowing nothing but his own thefts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.16",
+   "text": "16. Now this liberality of his towards Christ aims at this, to lead him gently, by the promise of such great gifts, to fall down before him. This man cannot be led by the pleasure of food, he says, or tickled by the sweetness of vain glory. He has broken the two surest weapons I have for fighting; I must seek another, more powerful weapon. In all men there is a lust for domination: no one refuses to make gain and profit if occasion offers; avarice is like a wound fixed in the souls of all. This arrow I will draw from the quiver. Where then shall I pin the man? What place will help the plan? If only I had met him on some lofty mountain! A higher position gives an easy view in every direction: from there I would without trouble have set the richness of the plains beneath his eyes; I would have offered the treasures of kings to look at; I would have put all the pomp and pride of life under a single view, showing some things as they really are, and fashioning others by art. Since human nature is so easily ensnared by gifts and gain, if he sees what is splendid and illustrious in the world, he will at once leap to possess it; he will greedily seize the riches displayed, and be carried with most eager desire to have them: he will take the shadow for the truth, and the mere sight of things will win belief from the man, who is otherwise easily turned every way to believe. Ask for bread, I said; he spurned it, not doubting at all that he would be fed by God even without bread. Throw your body down, I pressed; he dispelled these words when he denied that God was to be tempted. I will now approach him with this empty show and pomp of things: I will deceive him completely, and persuade him to fall at my knees, as if he were being tested by God himself: he will believe, I say, a man in no way bad or difficult at believing. Soon, when I have mocked him as deceived, I will let him go."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.17",
+   "text": "17. Aware of this splendid deliberation, Christ went on with him onto the high mountain. The devil begins to unfold the frauds he had planned: he puts before his eyes a fictitious image of various things. And Christ neither rebukes nor refutes the artful cunning, but looks on as if unaware of the fraud. He, thinking he had won by guile and the deceit of the spectacle, and suspecting his adversary caught by the appearance offered, and as if making a sure guess about the rest of the victory, babbles magnificent lies in exaggerated words, such as would befit the ruler and judge of the world. All these things I will give you, if you fall down and worship me. Do you not see, he says, O man, the extent of the world? Do you not perceive how many and how great these possessions are? Do you not thrill at the sight of almost countless kingdoms? Of these I am lord: these palaces are divided by me among men at my will, and granted to be lived in; I readily prefer you to the rest, and judge you worthy to reign alone over the whole world: receive from me the power and strength to be equal to ruling the world: this one thing repay me in return for such gifts, worship me. All these things I will give you, if you fall down and worship me."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.18",
+   "text": "18. In part you prophesy, though unwillingly, O devil: you will indeed give back the world, which you have oppressed with unworthy servitude; but you will not likewise carry off the honour of worship, but the punishment of the scourge. For do not think that you are conversing with Adam; for he enticed Adam with the hope of divinity, and ruined him once he had been wickedly persuaded: now likewise he offers the rule and dominion of all things to Christ, whom he hopes in the same way to persuade by the extent of the promise and make fall. He received the answer he deserved: Get behind me, Satan: for it is written, You shall worship the Lord your God, and him alone shall you serve. Withdraw, Satan. Quite rightly he here calls him Satan by name, like a master who, calling by name a slave hiding himself, by this very fact shows that he is not hidden. Away! This is a mild and gentle word, but yet, as can be seen, that of a threatening and as it were indignant Lord, just as if he said: In vain have you laboured to cover your fraud, your mask has been torn off you, you have given up hope of victory; now you wish to soothe me and coax me with gifts, now you are bargaining over my sale, now you take up the words of the traitor. You have formed an untimely plan to buy me; wait for your partner and the agent of the bargain, Judas; withdraw for now, until I undergo the cross that awaits me; withdraw, I say, for you will not buy me now. Away! Keep your gifts for the traitor; this one thing you will have from me now: You shall worship the Lord your God, and him alone shall you serve. Do not wish to share men's homage with God and claim it for yourself; they are debtors to him alone."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.19",
+   "text": "19. Then, it says, the devil departed from him. Great indeed and remarkable was Christ's victory in this final struggle. For as a noble and strong wrestler lifts his adversary on high, and soon hurls him down from the height and dashes him; so Christ the Lord, having led the devil onto the mountain and raised him with empty hope, thrust him down from that same lofty hope, cast him down and shattered him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp776.tmp776.opp-lat1.6.20",
+   "text": "20. Wonder at this victory roused the astonished angels and gathered them to surround the victor with a heavenly escort. For behold, it says, angels came and ministered to him. Let us, imitating the angels, show Christ worship and homage equal to theirs; let us prove our endeavours to heaven, and perform on earth the ministries of the blessed minds; let us place our soul in those hands which cannot be conquered; let us love the restorer of fallen nature; let us embrace him who cut the strength and sinews of the common enemy, and with unceasing remembrance celebrate the victory that vindicated our glory; let us trample on the prostrate devil, and, tearing off his shameless head, cry out with one voice and with all our hearts: You shall worship the Lord your God, and him alone shall you serve. To him be glory and power for ever and ever."
+  }
+ ]
+}

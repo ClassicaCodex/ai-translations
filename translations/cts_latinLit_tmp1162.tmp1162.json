@@ -1,0 +1,536 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1162.tmp1162",
+ "edition_urn": "urn:cts:latinLit:tmp1162.tmp1162.ai-claude",
+ "source_edition": "tmp1162.tmp1162.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Regula Ad Monachos: AI translation (Claude)",
+  "author": "Aurelianus Arelatensis Episcopus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1162.tmp1162.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.head": "Ch. 4 and IV: 'in confessione' is taken as the confessio (relic shrine of the church). Ch. 18: 'si ea!' is corrupt; something like 'if [he is suitable]' seems intended, so it is left as [...]. Ch. 26: 'laia' is unclear; perhaps a corruption of 'lana' (wool) or 'alba' (white); 'lactina' is taken as milk-white. Ch. 46 is garbled in this text; the rendering follows the evident sense ('propitio' for 'propirio'). Ch. 47: 'probati ... ætate' perhaps means 'when they have come of age'. In IV 'minatur' is read as 'mittatur', and in XII 'veiinque' as 'relinque'. Chapter numbers 5 for 3 and 'W.' for II are scanning errors.",
+  "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.70": "XIX: *marcionibus* taken as 'masons' (late Latin marcio); 'fieri reparari' read as 'fieri aut reparari'. XXI: *cannava* taken as wine cellar, *posticium* as postern gate. XXVI: *laia* is obscure (perhaps an undyed or grey wool); left untranslated. XXIX: 'lcpidus' read as *tepidus* (lukewarm), 'repetere' as *repellere* (drive off). XLVI: 'quo' read as 'quos'/'quem'. LI: 'ceris' read as *certis*. L: 'inaequalitate' read as *inaequalitate* = illness. Biblical references as printed.",
+  "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.111": "Here *missa* means a set of readings closed by a prayer within the night office, as the rule itself describes; only the 'Missae' at the end of line 114 seems to mean the Eucharist. *Refectio* beside *prandium* and *cena* is unclear; the gloss given is tentative. *Caldellos* is taken as warm drinks, which is uncertain. 'Regna terrae' is Ps. 67 (Vulgate): the edition's 'LIVII' is a misprint for LXVII. Some scripture references in the edition are faulty: Prov. 15 is cited correctly, but 'Operantes manibus nostris' is 1 Cor. 4:12, and 'Qui non operatur' is 2 Thess. 3:10. The 'third hour' in line 114 is taken as the third hour of the night.",
+  "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.117": "Line 117: 'leccator' read as 'peccator' (sinner), an evident scanning error. Line 118: the date is 17 November; the fifth year after the consulship of Basil the Younger (541) gives 546; 'v. c.' read as 'vir clarissimus'. Line 119: 'Himiieri' read as Himerius, uncertain; 'Vultrogotae' taken as Queen Ultrogotha, Childebert's wife; 'tis' read as 'iis' (to them)."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.head",
+   "text": "SAINT AURELIAN, BISHOP OF ARLES."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.ab1",
+   "text": "THE RULE OF ST AURELIAN FOR MONKS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.ab2",
+   "text": "PREFACE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.1",
+   "text": "To the holy brothers, worthy of reverence in Christ, settled in the monastery which, by the mercy of God and at the command of King Childebert, we have built: Aurelian, bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.2",
+   "text": "Since, by the inspiration of God, who goes before us with his unspeakable mercy, it has seemed good to you to reject the pleasures of the world and to despise and spurn temporal joys, and to choose the brightness of a most holy life, embracing the grace of virginity and chastity, pursuing the love of God with the whole eagerness of your inmost being and heart, to pierce your flesh with the fear of the Lord, and to say: I have sworn and resolved to keep the judgements of your justice (Ps. 118). And: The world is crucified to me, and I to the world (Gal. 6); we resolved, at the Lord's command, and with him working in us both to will and to accomplish, to build a monastery for you for the protection of your souls, as indeed we have done. And therefore we have set up for you a rule and discipline which would make you walk rightly on the way of perfection, and reach the kingdom of heaven happily."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.ab3",
+   "text": "CHAPTERS OF THE RULE OF ST AURELIAN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.3",
+   "text": "1. If anyone comes to the religious life, the rule is to be read to him in the reception room."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.4",
+   "text": "2. That he is not to leave the monastery until his death."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.5",
+   "text": "3. He is not to receive the religious habit unless he makes deeds of his property to whomever he wishes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.6",
+   "text": "4. That of anyone tonsured in the monastery, some of his hair is to be placed in the confessio; and he is to keep nothing for himself that he does not hand over to the authority of the abbot."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.7",
+   "text": "5. Nothing is to be received secretly; but if anything has been sent, and the one to whom it is sent does not need it, it is to be put into the common store and given to whoever needs it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.8",
+   "text": "6. Letters are neither to be given nor received without the knowledge or permission of the abbot."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.9",
+   "text": "7. No one is to keep near his bed anything that can be eaten or drunk."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.10",
+   "text": "8. No one is to have a private cell or cupboard."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.11",
+   "text": "9. There is to be no swearing at all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.12",
+   "text": "10. There is to be no cursing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.13",
+   "text": "11. There is to be no lying."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.14",
+   "text": "12. Anger is not to be held on to at all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.15",
+   "text": "13. A brother is not to lay a hand on a brother."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.16",
+   "text": "14. Lay people are not to enter the monastery or the church, but only the reception room."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.17",
+   "text": "15. Women are never to be seen at all, not even in the reception room."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.18",
+   "text": "16. No monk may go out to greet [visitors] except with the prior or one of the elders."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.19",
+   "text": "17. In the monastery no one of lesser age is to be received, except from ten or twelve years old."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.20",
+   "text": "18. A slave is not to be received; a freedman, however, may be received if [...] and the abbot sees fit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.21",
+   "text": "19. That not even the stewards themselves may enter the monastery, except for those needs which we have laid down in this Rule."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.22",
+   "text": "20. Infants at baptism are not to be received."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.23",
+   "text": "21. Those who are appointed to an office are to receive the keys from on top of the Gospel book."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.24",
+   "text": "22. In every service they are to take turns, except the abbot, the very old, and small children."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.25",
+   "text": "23. They are not to choose any work to do at their own pleasure, but [only] what has been ordered by the abbot or the prior."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.26",
+   "text": "24. When they work with their hands, holy meditation is not to cease from the heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.27",
+   "text": "25. Let all things be common to you, and let no one presume to call or claim anything his own."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.28",
+   "text": "26. Clothes of any other colour are not to be worn except *laia* and milk-white, and natural black."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.29",
+   "text": "27. Worldly bedding is not to be used; and on the furnishing of the monastery."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.30",
+   "text": "28. After matins it is not permitted to go back to sleep."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.31",
+   "text": "29. At vigils care must be taken that no one sleeps; but they are to do some work with their hands."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.32",
+   "text": "30. When the signal has sounded, no one is to come late."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.33",
+   "text": "31. While the psalms are being sung, no one is to speak or work with his hands."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.34",
+   "text": "32. All monks are to learn letters."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.35",
+   "text": "33. All are to stay in separate beds."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.36",
+   "text": "34. The holy abbot is to stay within the community."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.37",
+   "text": "35. No one may speak alone with another alone; if they are found [doing so], they are to be struck with the severest punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.38",
+   "text": "36. No one is to presume to speak with one who has been excommunicated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.39",
+   "text": "37. That the superiors are to be obeyed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.40",
+   "text": "38. If anyone is corrected or punished for any fault, he is not to presume to answer back to the one rebuking him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.41",
+   "text": "39. You are to have no quarrels at all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.42",
+   "text": "40. The proud, the disobedient, and those who prolong their anger are never to be spared."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.43",
+   "text": "41. For any fault the lawful number [of strokes] is not to be exceeded."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.44",
+   "text": "42. How those in charge are to have a fatherly affection towards all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.45",
+   "text": "43. The holy abbot may not sell or give away any of the monastery's property, nor do anything against the provisions of the Rule."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.46",
+   "text": "44. Whatever is left over beyond the needs of the monastery is to be distributed to the poor through the steward."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.47",
+   "text": "45. Old clothes are to be returned to the abbot to be given out to the poor."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.48",
+   "text": "46. No one is to accept an honour, unless one who, God being gracious, has been chosen as worthy of the priesthood; he alone may go out."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.49",
+   "text": "47. That minors are to be compelled to make deeds when they have been proved by age."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.50",
+   "text": "48. No banquet is to be prepared for anyone except for arriving travellers and servants of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.51",
+   "text": "49. Those sitting at table are to keep silence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.52",
+   "text": "50. The holy abbot is not to eat outside the community."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.53",
+   "text": "51. Meat is never to be taken as food. Chickens and other fowl are to be served only to the sick, and fish on certain feast days."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.54",
+   "text": "52. Outside the common table no one may taste any food or drink, except the sick and children."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.55",
+   "text": "53. How the sick are to be attended to."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.56",
+   "text": "54. That the holy abbot is to provide whatever is needed in sufficiency."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.57",
+   "text": "55. That the holy community is to strive to fulfil everything it has been given as rule."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.ab4",
+   "text": "THE RULE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.58",
+   "text": "CHAPTER ONE. At God's command we lay down first of all, to be kept, that if anyone comes to the religious life, the rule is to be read to him in the reception room; and if he has professed that he will fulfil everything, then he is to be received."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.59",
+   "text": "II. Once received, until his death he is neither to presume nor be permitted to leave the monastery, because of the prophetic saying: One thing I have asked of the Lord, this I will seek, that I may dwell in the house of the Lord all the days of my life (Ps. 26)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.60",
+   "text": "III. He is not to receive the religious habit unless he makes deeds of gift or sale of all his property, whether great or small, to whomever he wishes, because of the Lord's command where he says: If you wish to be perfect, sell all that you have (Matt. 19); and: If anyone does not leave all that he possesses, he cannot be my disciple (Luke 14)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.61",
+   "text": "IV. If a layman is to be tonsured, some of his hair is to be placed in the confessio, to be a testimony for him. But if he comes already tonsured, or in religious dress, he is not to be received unless, as we said above, he makes deeds of what he had owned in the world, so that he keeps nothing for himself that he does not give away from himself; and whatever he brings with him, he is to hand over entirely to the authority of the abbot, fearing the example of Ananias and Sapphira (Acts 5), who offered part and faithlessly kept part for themselves."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.62",
+   "text": "V. You are to receive nothing secretly; but if any relative or friend gives or sends something, in clothing or in gold or anything else whatever, it is to be in the authority of the abbot; and if the one to whom it is sent needs it, it is to be given [to him]; but if he needs nothing, it is to be put into the common store and given to whoever needs it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.63",
+   "text": "VI. Above all, letters are neither to be given nor received without the knowledge or permission of the abbot."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.64",
+   "text": "VII. No one is to presume to keep near his bed anything he can eat or drink; but all are to store [such things] in the common storeroom; and if inequality [of need] requires it, what is necessary is not to be refused him, at the command of an elder."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.65",
+   "text": "VIII. No one may have a cell or cupboard, or anything of this kind that can be locked for private use."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.66",
+   "text": "IX. You are not to swear, because the Lord said: Do not swear (Matt. 5). And another Scripture: A man who swears much will be filled with iniquity, and the scourge will not depart from his house (Ecclus. 23)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.67",
+   "text": "X. You are not to curse, because it is written: Nor will the abusive possess the kingdom of God (1 Cor. 6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.68",
+   "text": "XI. Lying is not permitted at all, because the mouth that lies kills the soul (Wisd. 1); and that [saying]: You will destroy those who speak a lie (Ps. 5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.69",
+   "text": "XII. No one is to presume to prolong anger into another day. But if, as human frailty goes, harsher words have arisen between brothers, they must ask pardon of each other and forgive the debts, because of the Lord's command where he says: If you remember that your brother has something against you, leave your gift before the altar, and go first to be reconciled to your brother; and then come and offer your gift (Matt. 5). And: If you do not forgive men their sins, neither will your heavenly Father forgive you your sins (Matt. 6). Again: If he sins against you seven times in a day, and turns and says, I repent, forgive him (Luke 17). And: I do not say to you up to seven times, but up to seventy times seven (Matt. 18). And another Scripture: For the anger of man does not work the justice of God (James 1). And the Apostle: Let not the sun go down upon your anger (Eph. 4). But if, which God forbid, at the devil's prompting someone is so filled with fury that he scorns these commands with an obstinate heart, and one of those who are at odds comes first to the other and asks his pardon, if the one he asks does not forgive, he is to receive the lawful discipline, so that he may correct himself towards charity. But if both scorn [these commands], both alike are to be suspended from communion or from food, until they are reconciled to each other."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.70",
+   "text": "XIII. If a brother dares to lay a hand on a brother, he is to receive the lawful discipline."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.71",
+   "text": "XIV. No layman, whether noble or not noble, is to be allowed to enter the basilica or the monastery. If anyone wishes to come to meet [a monk] out of devotion or kinship, he is to meet [him] in the reception room of the monastery."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.72",
+   "text": "XV. As for women, neither religious nor secular, none at all, not the mother of the abbot or of any monk, nor any kinswoman or acquaintance, is to be allowed to enter, either to greet [someone] or to pray. [In this] you follow the example of the Lord and Master, when he says: And who is my mother, and who are my brothers? And that [saying]: If anyone does not leave father or mother, he cannot be my disciple. And another Scripture: Those who said to father and mother, We do not know you, these have kept your precepts, Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.73",
+   "text": "XVI. As for the laymen themselves, whom we have permitted to come to meet [the monks], they are never to see or speak with any of the monks without the abbot or the prior, or at least some other elder whom the abbot has appointed; and they are never to speak in a raised voice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.74",
+   "text": "XVII. Those of younger age are not to be received into the monastery except from ten or twelve years old, who no longer need to be nursed and know how to guard against faults."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.75",
+   "text": "XVIII. A slave is not to be received. A freedman, however, if he is still of youthful age and comes with letters from his patron, is to be received or not at the abbot's discretion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.76",
+   "text": "XIX. As for the stewards of the monastery, if they are in lay dress, they too are not to be allowed to enter. For those needs which we have laid down in this rule, they may enter with masons or carpenters, if something needs to be made [or] repaired, or for some definite reason that the abbot must deal with. Otherwise they are to have no leave or freedom to enter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.77",
+   "text": "XX. No one is to receive an infant from baptism."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.78",
+   "text": "XXI. Those to whom the keys of the storeroom, the wine cellar, the granary, the postern gate and the oratory are to be handed must be persons of proven worth; and they are to receive them from upon the altar or the Gospel, knowing that they will render account to God for the office entrusted to them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.79",
+   "text": "XXII. In every task, whether in the order of chanting psalms, or of reading, or of working, they are to succeed one another in turns, except the holy abbot; and the very old, and very small children, or at least those so sick that they cannot get up at all, are not to be compelled to do [it], because they are not able."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.80",
+   "text": "XXIII. They are not to choose at their own pleasure the craft to be learned or any work to be done; but it will be at the discretion of the abbot to command what he sees to be useful."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.81",
+   "text": "XXIV. All day long, while they work with their hands, holy meditation is not to cease from the heart, because of that [saying] of the Apostle: With psalms, hymns, spiritual songs, singing and making melody in your hearts to the Lord (Col. 3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.82",
+   "text": "XXV. No one is to presume to call anything his own, or to claim anything as his own property; but according to the Acts of the Apostles (ch. 4), let all things be common to you; let there be one soul and one heart among you in the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.83",
+   "text": "XXVI. You are not to wear clothing of any colour except *laia*, milk-white, and natural black."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.84",
+   "text": "XXVII. You are not to have in use secular coloured bed coverings. Altar cloths of pure silk adorned with gold or gems are never to be acquired by you. If any of the faithful offers [one] in fulfilment of his vow, and the abbot sees fit, or necessity requires, they are to make use of it by selling [it]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.85",
+   "text": "XXVIII. After the morning prayers it is not permitted to return to sleep; but when matins are finished, prime is to be said at once, and then until the third hour all are to devote themselves to reading."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.86",
+   "text": "XXIX. At vigils, while the reading is read, work with your hands at esparto or hemp or something else of the kind, so that sleep does not creep up on you. But if it is a Sunday or feast days, whoever is overcome by sleep is to be ordered to stand while the others sit, so that he can drive off the drowsiness of sleep from himself, lest he be found lukewarm or negligent in the work of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.87",
+   "text": "XXX. When the signal is struck, all work is to be put aside; like the most prudent bees to the hive, so strive to hurry with swift haste. If anyone comes rather late, he is to be subject to punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.88",
+   "text": "XXXI. While the psalms are chanted, your holy souls are to take care not to wander in mind; and indeed they are not to presume to work or speak either. But sing psalms wisely (Ps. 46), as the prophet said: I will sing psalms and understand (Ps. 100). And that [saying]: I will sing with the spirit, I will sing with the mind also (1 Cor. 14). Fearing that [saying]: Cursed is the man who does the work of the Lord negligently (Jer. 48)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.89",
+   "text": "XXXII. All are to learn letters."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.90",
+   "text": "XXXIII. All are to sleep in separate beds."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.91",
+   "text": "XXXIV. The holy abbot is not to stay apart from the community."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.92",
+   "text": "XXXV. This we especially warn before God to be kept: that no one is permitted to speak or sit with another in private, above all in the evening and night hours. If they are found in private, they are to be punished most severely, as though they had committed a crime; except those who are proven in age and holiness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.93",
+   "text": "XXXVI. No one is permitted to speak with one who has been excommunicated, except the one whom the holy abbot has given him as guardian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.94",
+   "text": "XXXVII. Obey your superiors and be subject to them; for they keep watch over your souls, as those who will render account to God (Heb. 13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.95",
+   "text": "XXXVIII. If anyone is rebuked for any fault or transgression of the rule, or receives discipline, he is not to presume to answer back the one who reproves him; for the sin that is punished here is not punished at the eternal judgement. And so you ought to accept the care of the soul as a sick man [accepts] the care of a doctor, holding to that [saying] of holy Scripture: He who casts off discipline is unhappy (Prov. 15). And that [saying]: I am ready for the scourges (Ps. 37)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.96",
+   "text": "XXXIX. You are to have no quarrels, obeying the precept of the Apostle where he says: The servant of the Lord must not quarrel, but be gentle (2 Tim. 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.97",
+   "text": "XL. But the proud, the disobedient, and those who prolong their anger are never to be spared until they are corrected."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.98",
+   "text": "XLI. If for any fault it is necessary to receive the discipline of the whip, the lawful number is never to be exceeded, that is, thirty-nine."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.99",
+   "text": "XLII. And however just the discipline that is kept, yet according to that [saying]: Goodness and discipline (Ps. 118), the holy abbot is to keep a fatherly affection towards all, according to the Apostle: as if a nurse were cherishing her little ones (1 Thess. 2). And: I have become all things to all, that I might gain all (1 Cor. 9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.100",
+   "text": "XLIII. The holy abbot is not permitted to give away or sell anything of the property of the monastery, nor to do anything against the ordinances of the Rule. If he attempts to do so, by holy counsel and the unanimous consent of the brothers, with our permission, you are not to comply with him; and do not by any means allow this to be done; for let him know that he will have to plead his case before God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.101",
+   "text": "XLIV. If anything is left over beyond the expenses or needs of the brothers, in gold, or in clothing, or in the storeroom, the holy abbot is to have it distributed, by the hands of the steward or of any trustworthy person, to the poor, to pilgrims, or to captives."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.102",
+   "text": "XLV. Also, when they receive new clothes, they are to return the old ones to the abbot, to be given out to beginners or to the poor."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.103",
+   "text": "XLVI. No one is to receive the honour of the priesthood or the diaconate, except the abbot if he wishes to be ordained priest; and he is to have the power to ordain one deacon and [one] subdeacon, whom he wishes and when he wishes. But if, by God's favour, you should so advance that one of you is sought for a bishopric, he alone may go out."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.104",
+   "text": "XLVII. Those who are of younger age, or who enter the monastery while their parents are living, are to be compelled to make their deeds when they have been proven in age, or have their parents' property in their power."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.105",
+   "text": "XLVIII. No banquet is to be held in the monastery for anyone, not for bishops, nor abbots, nor stewards, nor for any religious or lay parent or kinsman from this city. But if, as usually happens, an abbot or travelling monks passing through arrive and wish to visit the monastery, it is to be in the power of the holy abbot whether he wishes to invite them to a meal. Because we wish your holy charity to persevere unceasingly in prayer and reading, and to be free for God alone, we therefore command you to be free of this preparation and disturbance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.106",
+   "text": "XLIX. Sitting at table they are to be silent, and a reading is to be read daily at all times while food is taken, so that both [parts of] the man may be refreshed, the outer with food and the inner with the word of God. For it is written: Man does not live by bread alone, but by every word of God (Matt. 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.107",
+   "text": "L. The holy abbot, unless illness compels, is not to take his meals apart from the community."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.108",
+   "text": "LI. Meat is never to be taken as food. Chickens and all fattened fowl are not to be served in the community; they are to be provided only for the sick, and they may take [them]. Fish are to be procured on certain feasts, or when the holy abbot wishes to grant an indulgence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.109",
+   "text": "LII. Outside the common table no one is permitted to taste any food or drink, except the sick and those ages that still need to be nourished."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.110",
+   "text": "LIII. The sick are to be accommodated in such a way that, if it seems right to the holy abbot, they may even have their own small storeroom in common, and a separate kitchen; and care and attention are to be given to them until they recover."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.111",
+   "text": "LIV. And since, by God's favour, a fitting and sufficient endowment has been granted to you, which can suffice for your monastery, before God and his angels I admonish and solemnly charge you, holy brother abbot, and you, venerable prior, whoever you may be, to give the holy community, which by God's inspiration and command lives according to rule under the Institutes we have made, everything they need in clothing and food, in sufficient measure. If you neglect this, and they begin, under the pressure of need, to murmur somewhat or to go in want, know that you will plead your case with me before the judgement seat of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.112",
+   "text": "LV. And you, holy community, I adjure by your progress and by God almighty to keep whole and unimpaired everything that we have laid down in this rule for the remedy of our soul and for the salvation of your souls. And so that you do not neglect anything through forgetfulness, read it over once every thirty days, that is, on the first of the month."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.ab5",
+   "text": "We have also judged it right to insert in this little book the order in which you are to sing the psalms."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.113",
+   "text": "On the first day of Easter, at terce: *Kyrie eleison* three times, twelve psalms; that is, four brothers are to say two psalms each, and a third with alleluia. When the psalms are finished, *Kyrie eleison*, and six antiphons, three readings: one from the Acts of the Apostles, another from the Apocalypse, the third from the Gospel; the hymn *Now rises the third hour*, and the *capitellum* [closing versicle]; then *Kyrie eleison*. Thus in every work of God say *Kyrie eleison* three times before you begin, and when the psalms are finished, and when the *capitellum* is finished. At sext, the same number of psalms, one antiphon, the hymn *Now the sixth hour gently turns*, a reading from the Gospel, and the *capitellum*. At none the same order is to be kept, [with] the hymn *Thrice three hours have rolled by*. At the *lucernarium* [lamp-lighting office], a short *directaneus* [psalm sung straight through, without antiphon], that is, *Kingdoms of the earth, sing to God, sing psalms to the Lord* (Ps. 67). On the next day, *Praise the Lord, you children*; three antiphons; the hymn *This is the true day of God*, and the *capitellum*; say this hymn throughout Easter at matins and at the *lucernarium*. At the twelfth hour, first a short *directaneus*: *The sun knows its setting* (Ps. 103). Six brothers are to say two psalms each with their alleluia psalms, three antiphons, two readings, one from the Apostle, the other from the Gospel. At the Easter nocturns say everything in the same number as we have prescribed for the twelfth hour. At matins, first the *directaneus*: *I will exalt you, my God and my King*. Then *Judge me, O God*; and *O God, my God, I watch for you at daybreak*, with alleluia. Then *Give praise to the Lord*, with alleluia; then *Let us sing to the Lord*, and the same likewise; afterwards *Praise the Lord, my soul*; *Praise the Lord, for a psalm is good*; *Praise the Lord, Jerusalem*: all three with alleluia; then the *benedictio* [the canticle of blessing] is to be said. After the *benedictio*: *Praise the Lord from the heavens*; *Sing to the Lord a new song*; *Praise the Lord in his saints*; with alleluia. *My soul magnifies the Lord*, either with an antiphon or with alleluia; the hymn *Glory to God in the highest*, and the *capitellum*. And complete matins in the same order throughout Easter. So also every Sunday, and on all the greater feasts, on which you will be free from work. On ordinary days, at the nocturns, first the *directaneus* is to be said: *Have mercy on me, O God, according to your great mercy*; then eighteen psalms. Three short antiphons, two readings from the Apostle or the Prophets, and the *capitellum*. When the nocturns are completed, say matins. In summer, that is, from Easter to the first of October, the order will be the same. On Fridays, after the nocturns, two *missae* [sets of readings with prayer] are to be done in summer, three in winter. On Sunday, at every season, in summer and in winter, six *missae* are to be done after the nocturns. If it happens that you rise late for the vigils, as much is to be read as seems right to the abbot. When he gives the signal, the reader is to rise without delay, so that the canonical number of *missae* can be completed. From the first of October, other nocturns are to be added: at the first, *Have mercy on me, O God, according to your great mercy* is to be said; at the second, *Have mercy on me, O God, have mercy on me* is to be said as the *directaneus*, [then] eighteen psalms; two readings from the Prophets or from Solomon. The hymn at the first nocturns: *Eternal King, Lord*. At the second: *Great and wonderful*. After these, because the nights are growing longer, do three *missae* from the book every day. One brother is to read three or four pages, according to the size of the book: if it is written small, or in larger format, three pages each; if smaller, four; and let there be a prayer. Let him read the same amount again, and let there be another prayer; let him read the same amount a third time, and [then] rise, say an antiphon from the psalms in order, afterwards a response, then an antiphon. Another brother is to read again; and so, when three *missae* have been completed, say the canonical matins: that is, first a canticle with an antiphon, then the *directaneus*: *Judge me, O God*; *O God, my God, I watch for you at daybreak*; *Praise the Lord, for a psalm is good*; *Praise the Lord, Jerusalem*. Then *Praise the Lord from the heavens*; *Sing to the Lord a new song*; *Praise the Lord in his saints*, say [these] with an antiphon; the hymn *Splendour of the Father's glory*; on the next day *Founder of eternal light*, and the *capitellum*, and *Kyrie eleison* twelve times. Let this be done on all ordinary days. After matins, at prime, twelve psalms are to be said; the hymn *Maker of the fleeing sky*; two readings, one from the Old, the other from the New Testament, and the *capitellum*. After this all are to give themselves to reading until the third hour; for the rest of the day let them do their work, according to what the Lord said: *My Father works until now, and I work* (John 5). And that [saying] of the Apostle: *Working with our hands* (2 Thess. 4). And, *Let him who does not work not eat* (1 Thess. 3). For it is written: *The ways of the idle are strewn with thorns* (Prov. 15). And, *Cast the useless servant into the outer darkness* (Matt. 25). On ordinary days, then, at terce say twelve psalms, an antiphon, the hymn *Now rises the third hour*, a reading, and the *capitellum* *Let it be, O Lord*. At sext let there be the same number of psalms, an antiphon, the hymn *Now the sixth hour gently turns*, a reading and the *capitellum*. At none it is to be said in the same order, but the hymn *Thrice three hours have rolled by*. At the *lucernarium*, at every season, on feasts and on ordinary days, first the *directaneus*, afterwards two antiphons; the third is always to be said with alleluia; the hymn on one day *God who by fixed laws*, on the next day *God, creator of all things*, and the *capitellum*. At the twelfth hour, eighteen psalms, an antiphon and a hymn, a reading and the *capitellum*. When you are about to go to rest, compline is to be said in the hall in which you stay: first the *directaneus*, the ninetieth psalm is to be said, then the customary *capitella*."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.114",
+   "text": "On the Nativity of the Lord and on Epiphany, rise at the third hour [of the night]: say one nocturn, and do six *missae* from the prophet Isaiah; again say the second nocturn, and let another six be read from the Gospel. On Epiphany likewise: first one nocturn, then do those six *missae* from the prophet Daniel, and the nocturns; and so from the Gospel six, [then] matins in the order we have written for Easter or for Sundays. On the feasts of martyrs three or four *missae* are to be done. Read the first *missa* from the Gospel, the rest from the passions of the martyrs. Every Friday after the twelfth hour six *missae* are to be read from the book; and after the nocturns three. Every Saturday at matins, *Let us sing to the Lord*, and *We praise you, O God*. At terce three readings are to be said: one from the Prophets, another from the Apostle, the third from the Gospel. Every Sunday after the nocturns, when the first *missa* is read, that is, the resurrection [narrative], no one is to presume to sit, but all are to stand. On the next Sunday another resurrection [narrative], and so in order all four resurrection [narratives] are to be read on successive Sundays. After terce say the *Our Father*, and let all receive communion while psalms are sung. Do likewise on feasts. Masses are to be held whenever it seems right to the holy abbot."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.115",
+   "text": "When anyone has died, let a few brothers keep vigil over him in the oratory until midnight, and do *missae*. After midnight those who kept vigil are to rest, and others in turn are to keep vigil. And bring this to the notice of the holy bishop, so that he may order him to be carried to the place where he is to be laid. But if he disdains to provide this, ask clerics from any church to escort him; and give them *eulogiae* [blessed gifts]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.ab6",
+   "text": "We also insert in this rule the order of meals."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.116",
+   "text": "Dishes daily: at the *refectio* [the fast-day meal] three, at the midday meal two, at supper two. Drinks: at the *refectio*, that is, in summer, unmixed wine and three warm drinks; at the midday meal three only; at supper in summer, in the months of June, July and August, three each; on the other days let them drink two each at supper. On feasts, and when the abbot wishes to grant indulgences, both dishes, as many as he wishes, and fresh [foods] are to be added. Every day the vegetables are always to be seasoned with cheese and oil. Let them receive two drinks each at the midday meal, two each at supper; if they have fasted, three each. As for fasting: from the first of September to the first of October one is to fast on Monday, Wednesday and Friday. From the first of November to the Lord's Nativity one is to fast every day, except Saturday and Sunday; from Epiphany to Easter one is to fast every day, except the greater feasts, Saturday and Sunday. After Easter until Pentecost one is to fast on Friday only. After Pentecost, in the months of June, July and August, let fasting or the midday meal be in the abbot's power; as he sees the capacity of the brothers, so let him take care to regulate it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.117",
+   "text": "Aurelian, a sinner, established this rule in the name of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.118",
+   "text": "In the name of Christ the monastery of the men of God was founded in the city of Arles by the holy bishop Aurelian, at the command of Childebert, king of the Franks, of holy memory, on the fifteenth day before the Kalends of December, in the eleventh indiction, in the fifth year after the consulship of Basil the Younger, *vir clarissimus* [a man of senatorial rank], and the basilica there in honour of the holy apostles and martyrs; and it has relics placed there, that is: of the cross of our Lord Jesus Christ, of blessed Mary, mother of our Lord Jesus Christ, of John the Baptist and forerunner of our Lord Jesus Christ, of Stephen, Peter, Paul, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James, Simon, Jude, Matthias, Genesius, Symphorian, Baudilius, Victor, Hilary bishop and confessor, Martin bishop and confessor, Caesarius bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.ab7",
+   "text": "(From the diptychs of the same monastery.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1162.tmp1162.opp-lat1.119",
+   "text": "And together, praying, we also beseech you, Lord, for the souls of your servants, our fathers and former founders, Aurelian, Peter, Florentinus, Redemptus, Constantine, Himerius, Hilarinus, Januarinus, Reparatus, Childebert, Ultrogotha, and all our brothers whom you have deigned to call to yourself from this place. Mindful also of all the faithful of this place, and likewise of our kinsfolk and of those who serve this place; and for the souls of all your faithful men servants and women servants and of pilgrims who have died in the peace of the Church: that to them, you, Lord our God, may grant pardon of sins and bestow eternal rest; through the merits and intercessions of your saints, Mary, mother of our Lord Jesus Christ, John the Baptist and forerunner of our Lord Jesus Christ, Stephen, Peter, Paul, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James, Simon, Jude, Matthias, Genesius, Symphorian, Baudilius, Victor, Hilary bishop and confessor, Martin bishop and confessor, Caesarius bishop, may you deign graciously to grant and hear these things: who live and reign as God in the unity of the Holy Spirit, for ever and ever. Amen."
+  }
+ ]
+}

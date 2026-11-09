@@ -1,0 +1,296 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg1799.tlg008",
+ "edition_urn": "urn:cts:greekLit:tlg1799.tlg008.ai-claude",
+ "source_edition": "tlg1799.tlg008.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Data (demonstrationes alterae): AI translation (Claude)",
+  "author": "Euclid",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg1799.tlg008.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.head": "1.1: the text reads 'τὸ μὲν ΑΒ τοῦ δοθέντι μεῖζον'; the letter Γ has evidently dropped out and is supplied in brackets. 'Greater by a given [magnitude] than in a ratio' renders the Data's technical phrase δοθέντι μεῖζον ἢ ἐν λόγῳ. 5.1: the angle is first named ΖΕΔ, then ΖΕΓ; these are the same angle, since Δ lies on ΒΓ. 7.1: 'ἔστι δὲ καὶ τὸ δοθέν' lacks the point's letter; Η is supplied. Also 'ὑπὸ ΘΖ' is evidently ΘΖΗ. 11.3: 'ἡ ΒΘ' is read as ΗΘ, as the rest of the proof requires.",
+  "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.11.4": "Expressions like 'ὑπὸ τῶν ΒΑΓ' and 'συναμφοτέρου τῆς ΒΑΓ' are rendered as BA, AΓ. In 14.3 the text reads 'triangle AKΓ'; there is no K in the figure, and it is translated as AEΓ. In 14.2 'triangle BAΓ' is the same triangle as ABΓ. In 13.2 the angle AΓZ is said to be half of BAΓ; this depends on the earlier construction, which is not given here.",
+  "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.5": "In 18.1.3 the step from the ratio of BA·AΔ to the square on ΔB to the ratio of four times BA·AΔ plus the square on ΔB to that square is compressed in the Greek (it implies multiplying and then compounding); translated as it stands. In the lemma, 'the [angle at] Δ' and 'the [angle at] Γ' render the bare letters ἡ Δ, ἡ Γ.",
+  "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.19.1": "Section 20: the point Z (in 'ZBE' and 'ZBΔ') is not introduced in this proof as printed; it presumably refers to a point in the figure (perhaps the intersection of BΔ with the line through E, or of AΓ with BΔ). Some lettering here (e.g. 'ΓEB … ΔΓB', 'ZBE') may be corrupt; translated as printed. Section 21.2: the text reads 'ΑΕΔ', which must be an error for 'ΑΒΔ' (the angle corresponding to ΔΓZ); translated as ABΔ. Section 21.3: E is likewise not defined in this alternative proof and presumably refers to the figure of the proposition."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.head",
+   "text": "ALTERNATIVE PROOFS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.1.head",
+   "text": "1. On Prop. 19. Proposition 19 otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.1.1",
+   "text": "It is also possible [to prove it] thus. Let there be three magnitudes AB, Γ, Δ, and let AB be greater than [Γ] by a given [magnitude] than in a ratio, and Γ greater than Δ by a given [magnitude] than in a ratio. I say that AB is also greater than Δ by a given [magnitude] than in a ratio."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.1.2",
+   "text": "For since AB is greater than Γ by a given [magnitude] than in a ratio, let the given magnitude AE be taken away. Therefore the ratio of the remainder EB to Γ is given. But Γ is greater than Δ by a given [magnitude] than in a ratio. Therefore EB too is greater than Δ by a given [magnitude] than in a ratio. So let the given magnitude EZ be taken away. Therefore the ratio of the remainder ZB to Δ is given. And AZ is given. Therefore AB is greater than Δ by a given [magnitude] than in a ratio."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.2.head",
+   "text": "2. On Prop. 24. The same otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.2.1",
+   "text": "Since the ratio of A to Γ is given, and as A is to Γ, so is the square on A to the rectangle contained by A, Γ, therefore the ratio of the square on A to the rectangle contained by A, Γ is also given. But the square on B is equal to the rectangle contained by A, Γ. Therefore the ratio of the square on A to the square on B is given. Hence the ratio of A to B is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.3.head",
+   "text": "3. On Prop. 27. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.3.1",
+   "text": "For with centre A and radius AB let the arc ΓBΔ be drawn. Therefore ΓBΔ is given in position. But the straight line AB is also [given] in position. Therefore the point B is given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.4.head",
+   "text": "4. On Prop. 30. The same otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.4.1",
+   "text": "Through the point A let EAZ be drawn parallel to the straight line BΔΓ. Since, then, through the given point A the straight line EAZ has been drawn parallel to the straight line BΔΓ given in position, EAZ is given in position. And since EAZ is parallel to BΔΓ, and ΔA falls on them, the angle EAΔ is equal to the angle AΔΓ. But AΔΓ is given; therefore EAΔ is also given. Since, then, on the straight line EAZ given in position and at the given point A on it the straight line AΔ has been drawn making the given angle EAΔ, AΔ is given in position."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.5.head",
+   "text": "5. On Prop. 30. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.5.1",
+   "text": "Let a given point E be taken on BΓ, and through the point E let EZ be drawn parallel to AΔ. Since ZE is parallel to AΔ, and BEΔ falls on them, the angle ZEΔ is equal to the angle AΔΓ. But AΔΓ is given; therefore ZEΓ is also given. Since, then, on the straight line BΓ given in position and at the given point E on it the straight line EZ has been drawn making the given angle ZEΓ, EZ is given in position. Since, then, through the given point A the straight line AΔ has been drawn parallel to the straight line ZE given in position, AΔ is given in position."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.6.head",
+   "text": "6. On Prop. 30. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.6.1",
+   "text": "Let any point E be taken on BΓ, and let AE be joined. Since the point A is given, AE is given in position. But BΓ is also [given] in position. Therefore the angle AEΔ is given. And the angle AΔE is also given. Therefore the remaining [angle] EAΔ is also given. Since, then, on the straight line EA given in position and at the given point A on it the straight line AΔ has been drawn making the given angle EAΔ, AΔ is given in position."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.7.head",
+   "text": "7. On Prop. 33. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.7.1",
+   "text": "Let a given point H be taken on ΓΔ, and let HΔ be set equal to EZ. With centre H and radius HΔ let the circle ΔB be drawn. Therefore the circle ΔB is given in position, for its centre is given in position and its radius in magnitude. But AB is also [given] in position. Therefore the point B is given. And [H] is also given. Therefore BH is given in position. But ΓΔ is also [given] in position. Therefore the angle BHΔ is given. And if EZ is parallel to HB, the angle EZH will also be given; so that the remaining angle ZEB is also given. If not, let EZ and HB meet at Θ. Since EZ is equal to ΔH, that is, to HB, and EB is parallel to ZH, ZΘ is also equal to ΘH; so that the angle ΘHZ is also equal to the angle ΘZ[H]. But ΘHZ is given; therefore HZΘ is also given; so that the adjacent [angle] HZE is also given; and the remaining [angle] ZEB is given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.8.head",
+   "text": "8. On Prop. 34. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.8.1",
+   "text": "For onto the parallels AB, ΓΔ given in position let the straight line EZH be drawn from the given point E. I say that the ratio of HE to EZ is given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.8.2",
+   "text": "For from the point E let EΘ be drawn perpendicular to ΓΔ and produced to K. Since from the given point E onto the straight line ΓΔ given in position the straight line EΘ has been drawn making the given angle EΘH, ΘEK is given in position. But each of AB, ΓΔ is also [given] in position. Therefore each of the points Θ, K is given. And E is also given. Therefore each of ΘE, EK is given. Therefore the ratio of ΘE to EK is given. But as ΘE is to EK, so is HE to EZ. Therefore the ratio of HE to EZ is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.9.head",
+   "text": "9. On Prop. 45. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.9.1",
+   "text": "Let BA be produced in a straight line, and let [AΔ] be set equal to AΓ, and let ΔΓ be joined. And since the ratio of BA, AΓ together to ΓB is given, and ΓA is equal to ΔA, the ratio of BΔ to BΓ is given. And the [angle] AΔΓ is given, for it is half of BAΓ. Therefore the triangle BΔΓ is given in form. Therefore the angle ABΓ is given. And BAΓ is also given. Therefore the remaining [angle] AΓB is also given. Therefore the triangle ABΓ is given in form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.10.head",
+   "text": "10. On Prop. 46. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.10.1",
+   "text": "Let ΔA be set equal to ΓA, and let ΔΓ be joined. Since the ratio of BA, AΓ together to ΓB is given, and ΓA is equal to AΔ, the ratio of ΔB to BΓ is also given. And the angle ΔBΓ is given. Therefore the triangle ΔBΓ is given in form. Therefore the angle BΔΓ is given. And BAΓ is double it. Therefore the angle BAΓ is given. Therefore the triangle ABΓ is given in form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.11.head",
+   "text": "11. On Prop. 54. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.11.1",
+   "text": "Let a given straight line HΘ be set out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.11.2",
+   "text": "Now A is either similar to B or not."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.11.3",
+   "text": "First let it be similar, and let it be contrived that as ΓΔ is to EZ, so is HΘ to KΛ, and on HΘ, KΛ let M, N be described similar and similarly situated to A, B. Therefore each of M, N is given in form. And since as ΓΔ is to EZ, so is HΘ to KΛ, and on ΓΔ, EZ, HΘ, KΛ the similar and similarly situated rectilinear figures A, B, M, N have been described, therefore as A is to B, so is M to N. But the ratio of A to B is given. Therefore the ratio of M to N is also given. But M is given, for a given form has been described on a straight line given in magnitude. Therefore N is also given. Now on KΛ let the square Ξ be described. Therefore Ξ is given in form. Therefore the ratio of N to Ξ is given. But N is given; therefore Ξ is also given. Therefore KΛ is given. And HΘ is also given. Therefore the ratio of HΘ to KΛ is given. And as HΘ is to KΛ, so is ΓΔ to EZ. Therefore the ratio of ΓΔ to EZ is also given. And A is similar to B. Therefore the remaining sides too will have a given ratio to the remaining sides."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.11.4",
+   "text": "Now let it not be similar; then it is proved in the same way as the earlier proof of the first [case]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.12.head",
+   "text": "12. On Prop. 55. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.12.1",
+   "text": "Let the area KΛMNΞ be given in form and in magnitude. I say that its sides too are given in magnitude."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.12.2",
+   "text": "For on MN let the square MO be described. Therefore it is given in form. But ΛN is too. Therefore the ratio of ΛN to MO is given. But ΛN is given in magnitude. Therefore MO is also given in magnitude. And it is the square on MN. Therefore the square on MN is given. Therefore MN is given in magnitude. Then for the same reasons each of MΛ, ΛK, KΞ, ΞN is also given in magnitude."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.13.head",
+   "text": "13. On Prop. 67. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.13.1",
+   "text": "Let the same construction be made as before, and from A let AZ be drawn perpendicular to EΓ, and let AΔ be joined."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.13.2",
+   "text": "And since the angle BAΓ is given, and the angle AΓZ is half of it, and the angle AZΓ is also given, therefore the triangle AZΓ is given in form. Therefore the ratio of AZ to ZΓ is given. But the ratio of ZΓ to ΓE is given, for it is double it. Therefore the ratio of EΓ to AZ is also given. So that the ratio of the [rectangle] contained by EΓ, ΓΔ to the [rectangle] contained by AZ, ΓΔ is also given. But the ratio of the [rectangle] contained by AZ, ΓΔ to the triangle AΓΔ is given, for it is double it. Therefore the ratio of the [rectangle] contained by EΓ, ΓΔ to the triangle AΓΔ is also given. But the triangle AΓΔ is equal to the triangle ABΓ, for they are on the same base AΓ and in the same parallels AΓ, BΔ. Therefore the ratio of the [rectangle] contained by EΓ, ΓΔ to the triangle ABΓ is also given. And the [rectangle] contained by EΓ, ΓΔ is that by which the square on BA, AΓ together is greater than the square on BΓ. Therefore the area by which the square on BA, AΓ together is greater than the square on ΓB has a given ratio to the triangle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.14.head",
+   "text": "14. On Prop. 67. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.14.1",
+   "text": "For the angle A is either right or acute or obtuse. First let it be right. Then the square on BA, AΓ together exceeds the square on BΓ by twice the [rectangle] contained by BA, AΓ. And the ratio of twice the [rectangle] contained by BA, AΓ to the triangle ABΓ is given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.14.2",
+   "text": "Now let the angle BAΓ be acute, and from Γ let ΓΔ be drawn perpendicular to AB. Since the triangle ABΓ is acute-angled, and the perpendicular ΓΔ has been drawn, therefore the squares on BA, AΓ are equal to the square on BΓ and twice the [rectangle] contained by BA, AΔ. Let twice the [rectangle] contained by BA, AΓ be added to both. Therefore the squares on BA, AΓ together with twice the [rectangle] contained by BA, AΓ, which is the square on BA, AΓ together, are equal to the square on BΓ and twice the [rectangle] contained by BA, AΔ and also twice the [rectangle] contained by BA, AΓ, that is, twice the [rectangle] contained by ΓA, AΔ together and AB. So that the square on BA, AΓ together is greater than the square on BΓ by twice the [rectangle] contained by ΔA, AΓ together and BA. And since the angle BAΓ is given, and the angle AΔΓ is also given, therefore the remaining angle ΔΓA is also given. Therefore the triangle AΔΓ is given in form. Therefore the ratio of AΔ to AΓ is given. So that the ratio of ΔA, AΓ together to AΓ is also given. Therefore the ratio of the [rectangle] contained by ΔA, AΓ together and AB to the [rectangle] contained by BA, AΓ is also given, and the ratio of twice the [rectangle] contained by ΔA, AΓ together and AB to the [rectangle] contained by BA, AΓ is given. But the ratio of the [rectangle] contained by BA, AΓ to the triangle BAΓ is given, because the angle BAΓ is given. Therefore the ratio of twice the [rectangle] contained by ΔA, AΓ together and AB to the triangle ABΓ is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.14.3",
+   "text": "But now let the angle BAΓ be obtuse, and, BA being produced, let ΓE be drawn perpendicular to it, and let AZ be laid down equal to AE. Since then the angle BAΓ is obtuse, and the perpendicular ΓE has been drawn, therefore the squares on BA, AΓ together with twice the [rectangle] contained by BA, AE, that is, twice the [rectangle] contained by BA, AZ, are equal to the square on BΓ. Let twice the [rectangle] contained by BA, AΓ be added to both. Therefore the squares on BA, AΓ with twice the [rectangle] contained by BA, AΓ, that is, the square on BA, AΓ together, with twice the [rectangle] contained by BA, AZ, are equal to the square on BΓ with twice the [rectangle] contained by BA, AΓ. Let twice the [rectangle] contained by BA, AZ be taken away from both. Therefore the square on BA, AΓ together is equal to the square on BΓ and twice the [rectangle] contained by BA, ΓZ. So that the square on BA, AΓ together exceeds the square on BΓ by twice the [rectangle] contained by BA, ΓZ. And since the angle BAΓ is given, the angle EAΓ is therefore also given. But the angle ΓEA is also given. Therefore the remaining angle AΓE is also given. Therefore the triangle AEΓ is given in form. Therefore the ratio of ΓA to AE is given, that is, to AZ. So that the ratio of AΓ to ΓZ is also given. But the ratio of AΓ to ΓE is given. Therefore the ratio of EΓ to ΓZ is also given. So that the ratio of the [rectangle] contained by EΓ, AB to the [rectangle] contained by ΓZ, AB is also given. But the ratio of the [rectangle] contained by AB, ΓE to the triangle ABΓ is given. So that the ratio of twice the [rectangle] contained by ΓZ, BA to the triangle ABΓ is also given. And twice the [rectangle] contained by ZΓ, BA is that by which the square on BA, AΓ together is greater than the square on BΓ. Therefore the area by which the square on BA, AΓ together is greater than the square on BΓ has a given ratio to the triangle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.head",
+   "text": "15. On Prop. 67. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.1",
+   "text": "Let BA be drawn through to Δ, and let AΔ be laid down equal to ΓA, and let ΔΓ be joined."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.2",
+   "text": "Since then the angle BAΓ is given, and each of the angles AΔΓ, AΓΔ is half of it, therefore each of the angles AΔΓ, AΓΔ is given. Therefore the remaining angle ΔAΓ is also given. Therefore the triangle AΓΔ is given in form. Therefore the ratio of AΓ to ΓΔ is given. And since the angle AΔΓ is given, let each of the angles ΔEΓ, AZΓ be constructed equal to it. And since the angle BΔΓ is equal to the angle ΔEΓ, and the angle ABΓ is common, belonging to triangle ΔBE and to ΔBΓ, therefore the remaining angle BΔE is equal to the remaining angle BΓΔ. Therefore the triangle BΔE is equiangular with the triangle ΔBΓ. Therefore as EB is to BΔ, so is ΔB to BΓ. Therefore the [rectangle] contained by EB, BΓ, that is, the [rectangle] contained by EΓ, ΓB together with the square on ΓB, is equal to the square on BΔ, that is, to the square on BA, AΓ together, for ΔA is equal to AΓ. Therefore the [rectangle] contained by EΓ, ΓB together with the square on ΓB is equal to the square on BA, AΓ together. Therefore the square on BA, AΓ together exceeds the square on BΓ by the [rectangle] contained by BΓ, ΓE."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.3",
+   "text": "I say then that the ratio of the [rectangle] contained by BΓ, ΓE to the triangle ABΓ is given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.4",
+   "text": "For since the angle BΔE is equal to the angle BΓΔ, of which the angle AΔΓ is equal to the angle AΓΔ, therefore the remaining angle ΓΔE is equal to the remaining angle AΓB. And the angle ΔEΓ is also equal to the angle AZΓ. Therefore the remaining angle ZAΓ is equal to the remaining angle ΔΓE. Therefore the triangle AZΓ is equiangular with the triangle ΔEΓ. Therefore as ΓA is to AZ, so is ΔΓ to ΓE; and therefore alternately, as ΓA is to ΔΓ, so is AZ to ΓE. But the ratio of AΓ to ΓΔ is given. Therefore the ratio of AZ to ΓE is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.5",
+   "text": "Let the perpendicular AH be drawn from A to BΓ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.15.6",
+   "text": "And since the angle AZΓ is given, and the angle AHZ is also given, therefore the remaining angle HAZ is also given. Therefore the triangle AHZ is given in form. Therefore the ratio of ZA to AH is given. But the ratio of ZA to ΓE is given. Therefore the ratio of AH to ΓE is also given. So that the ratio of the [rectangle] contained by AH, BΓ to the [rectangle] contained by BΓ, ΓE is also given. But the ratio of the [rectangle] contained by AH, BΓ to the triangle ABΓ is given. Therefore the ratio of the [rectangle] contained by BΓ, ΓE to the triangle ABΓ is also given. And the [rectangle] contained by BΓ, ΓE is that by which the square on BA, AΓ together is greater than the square on BΓ. Therefore the area by which the square on BA, AΓ together is greater than the square on BΓ has a given ratio to the triangle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.16.head",
+   "text": "16. On Proposition 68. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.16.1",
+   "text": "Let a given straight line K be set out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.16.2",
+   "text": "And since the ratio of A to B is given, let the ratio of K to Λ be made the same as it. But the ratio of A to B is given; therefore the ratio of K to Λ is also given. But K is given; therefore Λ is also given. Again, since the ratio of ΓΔ to EZ is given, let the ratio of K to M be made the same as it. Therefore the ratio of K to M is also given. But K is given; therefore M is also given. And Λ is also given; therefore the ratio of Λ to M is given. And since A is equiangular with B, A therefore has to B the ratio compounded of [the ratios of] the sides, that is, of the ratio which ΓΔ has to EZ and [that which] ΘΓ [has] to HE. But K also has to Λ the ratio compounded of that which K has to M and [that which] M [has] to Λ. Therefore the ratio compounded of that which ΓΔ has to EZ and [that which] ΘΓ [has] to HE is the same as the ratio compounded of that which K has to M and [that which] M [has] to Λ, of which the ratio of ΓΔ to EZ is the same as the ratio of K to M. Therefore the remaining ratio of ΘΓ to HE is the same as that of M to Λ. But the ratio of M to Λ is given; therefore the ratio of ΘΓ to EH is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.17.head",
+   "text": "17. On Proposition 80. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.17.1",
+   "text": "Let ABΓ be a triangle having the angle at A given, and let the ratio of the [rectangle] contained by BA, AΓ to the square on ΓB be given. I say that the triangle ABΓ is given in form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.17.2",
+   "text": "For since the angle BAΓ is given, therefore the area by which the square on BA, AΓ together is greater than the square on BΓ has a given ratio to the triangle BAΓ. Now let the area Δ be that by which the square on BA, AΓ together is greater than the square on BΓ. Therefore the ratio of the area Δ to the triangle ABΓ is given. But the ratio of ABΓ to the [rectangle] contained by BA, AΓ is given, because the angle BAΓ is given. Therefore the ratio of the area Δ to the [rectangle] contained by BA, AΓ is also given. But the ratio of the [rectangle] contained by BA, AΓ to the square on BΓ is given. Therefore the ratio of Δ to the square on BΓ is also given. And therefore, componendo, the ratio of the area Δ together with the square on BΓ to the square on BΓ is given. But the area Δ together with the square on BΓ is the square on BA, AΓ together. Therefore the ratio of the square on BA, AΓ together to the square on BΓ is given. So that the ratio of BA, AΓ together to BΓ is also given. And the angle BAΓ is given. Therefore the triangle ABΓ is given in form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.18.1.head",
+   "text": "18. Commonly Proposition 87."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.18.1.1",
+   "text": "If two straight lines contain a given area in a given angle, and the square on the greater is greater than the square on the lesser by a given [magnitude], each of them will also be given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.18.1.2",
+   "text": "For let two straight lines AB, BΓ contain a given area AΓ in a given angle ABΓ, and let the square on AB be greater than the square on BΓ by a given [magnitude]. I say that each of AB, BΓ is given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.18.1.3",
+   "text": "For since the square on AB is greater than the square on BΓ by a given [magnitude], let the given [magnitude], the [rectangle] contained by AB, BΔ, be taken away. Therefore the remainder, the [rectangle] contained by BA, AΔ, is equal to the square on BΓ. And since the [rectangle] contained by AB, BΓ is given, and the [rectangle] contained by AB, BΔ is also given, therefore the ratio of the [rectangle] contained by AB, BΔ to the [rectangle] contained by AB, BΓ is given. And as the [rectangle] contained by AB, BΔ is to the [rectangle] contained by AB, BΓ, so is ΔB to BΓ. Therefore the ratio of ΔB to BΓ is also given. Therefore the ratio of the square on ΔB to the square on BΓ is also given. But the [rectangle] contained by BA, AΔ is equal to the square on ΓB. Therefore the ratio of the [rectangle] contained by BA, AΔ to the square on ΔB is also given. And therefore the ratio of four times the [rectangle] contained by BA, AΔ together with the square on ΔB to the square on BΔ is given. But four times the [rectangle] contained by BA, AΔ together with the square on BΔ is the square on BA, AΔ together. Therefore the ratio of the square on BA, AΔ together to the square on ΔB is also given. Therefore the ratio of BA, AΔ together to ΔB is also given. And componendo, the ratio of BA, AΔ together with ΔB, that is, of twice AB, to BΔ is given. Therefore the ratio of AB to BΔ is also given. But the ratio of ΔB to BΓ is given. Therefore the ratio of AB to BΓ is also given. And since the ratio of AB to BΔ is given, and as AB is to BΔ, so is the square on AB to the [rectangle] contained by AB, BΔ, therefore the ratio of the square on AB to the [rectangle] contained by AB, BΔ is also given. But the [rectangle] contained by AB, BΔ is given, for it was taken away as given. Therefore the square on AB is also given. Therefore AB is given. And the ratio of AB to BΓ is given. Therefore BΓ is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.18.2.head",
+   "text": "Lemma to the above."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.18.2.1",
+   "text": "How is the rectangle contained by AB, BΓ given when the angle ABΓ is supposed obtuse? Let the perpendicular BΔ be drawn from the point B, and let ΓΔ be produced to Θ, and let the rectangle BΔΘA be completed. It is therefore equal to AΓ. And let ΔB be produced to Z, and let BZ be laid down equal to BΓ, and let the rectangle AZ be completed. Since then the angle ABΓ is given, for it is supposed [so], and the angle ABΔ is also given, for it is right, therefore the remaining angle ΔBΓ is given. And the [angle at] Δ is right; therefore the remaining [angle at] Γ is given. Therefore the triangle BΓΔ is given in form. Therefore the ratio of ΔB to BΓ is given. But BΓ is equal to BZ. Therefore the ratio of ΔB to BZ is also given. So that the ratio of BΘ to ZA is also given. But BΘ is equal to AΓ. Therefore the ratio of AΓ to AZ is given. And AΓ is given. Therefore AZ is also given, that is, the [rectangle] contained by AB, BZ, that is, the [rectangle] contained by AB, BΓ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.19.head",
+   "text": "19. On Proposition 91. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.19.1",
+   "text": "Let the centre of the circle, E, be taken, and let ΔE be joined and drawn through to A. And since each of the [points] E, Δ is given, therefore EΔ is given. But the circle ABZ is also [given] in position. Therefore each of the [points] A, Z is given. And Δ is also given. Therefore each of AΔ, ΔZ is given. Therefore the [rectangle] contained by AΔ, ΔZ is given. And it is equal to the [rectangle] contained by BΔ, ΔΓ. Therefore the [rectangle] contained by BΔ, ΔΓ is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.20.head",
+   "text": "20. On Proposition 93. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.20.1",
+   "text": "Let AΓ be drawn through to E, and let ΓE be laid down equal to BΓ, and let EB, BΔ be joined."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.20.2",
+   "text": "Since the angle AΓB is double each of the angles AΓΔ, ΓBE, therefore the angle ΓBE is equal to the angle AΓΔ, that is, to the angle ABΔ. Let the angle ABΓ be added as common. Therefore the whole angle ΔBΓ is equal to the whole angle ZBE. And the angle ΓAB is also equal to the angle ΓΔB. Therefore the remaining angle ΓEB is equal to the remaining angle ΔΓB. Therefore the triangle EAB is equiangular with the triangle ΓΔB. Therefore, as EA is to AB, so is ΓΔ to ΔB. But EA is AΓ, ΓB together. Therefore, as AΓ, ΓB together are to AB, so is ΓΔ to BΔ. And therefore alternately, as AΓ, ΓB together are to ΓΔ, so is AB to ΔB. But the ratio of AB to ΔB is given, for each of them is given. Therefore the ratio of AΓ, ΓB together to ΓΔ is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.20.3",
+   "text": "And since the triangle EAB is equiangular with the triangle ZBΔ, therefore, as EA is to AB, so is BΔ to ΔZ. But EA is AΓ, ΓB together. Therefore, as AΓ, ΓB together are to AB, so is BΔ to ΔZ. Therefore the [rectangle] contained by AΓ, ΓB together and ZΔ is equal to the [rectangle] contained by AB, BΔ. But the [rectangle] contained by AB, BΔ is given, for each of them is given. Therefore the [rectangle] contained by AΓ, ΓB together and ZΔ is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.21.head",
+   "text": "21. On Proposition 93. Otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.21.1",
+   "text": "Let AΓ be drawn through to Z, and let ΓZ be laid down equal to BA, and let BΔ, ΔΓ, ΔZ be joined."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.21.2",
+   "text": "Since BA is equal to ΓZ, and ΔB to ΔΓ, the two [sides] AB, BΔ are equal to the two [sides] ZΓ, ΓΔ, each to each. And the angle ABΔ is equal to the angle ΔΓZ, since the quadrilateral ABΔΓ is in a circle. Therefore the base AΔ is equal to the base ΔZ, and the triangle ABΔ is equal to the triangle ΓΔZ, and the remaining angles will be equal to the remaining angles, those which the equal sides subtend. Therefore the angle BAΔ is equal to the angle ΔZΓ. But the angle BAΔ is given. Therefore the angle ΔZΓ is also given. And the angle ΔAZ is also given. Therefore the triangle AΔZ is given in form. Therefore the ratio of ZA to AΔ is given. But AZ is BA, AΓ together, because ΓZ is equal to BA. Therefore the ratio of BA, AΓ together to AΔ is given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg008.1st1K-grc1.21.3",
+   "text": "And in the same way as before we shall show that the [rectangle] contained by BA, AΓ together and EΔ is given."
+  }
+ ]
+}

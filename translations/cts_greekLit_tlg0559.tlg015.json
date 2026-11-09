@@ -1,0 +1,668 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0559.tlg015",
+ "edition_urn": "urn:cts:greekLit:tlg0559.tlg015.ai-claude",
+ "source_edition": "tlg0559.tlg015.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Geodaesia [Sp.]: AI translation (Claude)",
+  "author": "Hero of Alexandria",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0559.tlg015.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.head": "Head: ΑΙΙΟΔΕΙΚΝΥΟΥΣΑ read as ἀποδεικνύουσα. 3.11: 'from the top onto the top' is as transmitted; the sense requires 'onto the base'. 3.18: στερεομερικόν read as στερεομετρικόν. 4.1: fraction signs read as ω΄ = 2/3 and ∠″/∠΄ = 1/2; the units of the stade (20 1/2) and the parasang (4) are not stated, presumably schoinia and miles respectively; the akaina as '16 spans' is odd and may be corrupt. 5.4: the number of fingers is missing after ἤγουν δακτύλους; [8] supplied from the sense.",
+  "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.8.1": "The sign rendered 1/2 is printed as U+2220΄ (∠΄); ω΄ is read as 2/3. Several numerals are missing or defective in the text and are restored in brackets from the arithmetic: 6.2.16 [80]; 6.3.1 [20]; 6.3.4 [400] and [80]; 6.3.7 [700]; 6.3.16 [1,400] (text has ,α). In 6.3.7 the text reads 'γ΄ ∠΄' (1/3 1/2) for 3 1/2; in 6.3.10, 6.3.14, 6.3.17 and 6.3.19 thousand/myriad signs are lost or misprinted (α, η, ᾱ, β) and are read as 1,000, 8,000, 10,000 and 2,000. In 7.4.1 'ὑπεξαιρούμεναι ρούμεναι' is a dittography. In 7.8.1 '(??) ,εω' presumably hides a myriad sign: read 15,800. 'Fists' (γρόνθοι) here are equated with palms.",
+  "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.8.3.1": "8.4.1, 9.12.1 and others: the *modismos* is reckoned at half the area in *schoinia* or a 200th of the area in fathoms, as 9.3.1 explains. 9.6.1: the Greek literally says the products of the two sides 'are equal with' the product of the hypotenuse; the sum is meant, as the worked example shows. 9.17–9.18: the base 10 is evidently the combined base of the two triangles (5 each), as the working in 9.18 shows. 10.1.1: 1/3 + 1/10 of the square is the text's approximation for the equilateral triangle. 'μοδισβόν' (9.3.1) and 'ὑποτείνυσα' (9.13.1) read as μοδισμόν and ὑποτείνουσα.",
+  "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.4.1": "10.6 and 10.7: the fraction written γ΄ ι΄ καὶ ε΄ ('1/3 1/10 and 1/5') must stand for 1/3 1/15 (ιε΄), as the arithmetic requires (14.4, 0.4, 10.4, 62.4); rendered as 1/3 1/15. 10.7: ᾱ U+2220 ι (1 1/2 1/10) is 1 3/5, correct. 11.4: the text omits taking the square root of the difference, supplied only in 11.8; translated as given. 11.1.1: 'multiply the number of each side' means squaring it."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.head",
+   "text": "The Geodaesia of Hero, with God['s help], setting out the *modismos* (reckoning of area in *modioi*) of figures and all its particulars"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.1.1",
+   "text": "A point is that which has no part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.2.1",
+   "text": "A line is length without breadth. The ends of a line are points."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.3.1",
+   "text": "A straight line is one which lies evenly with the points on itself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.4.1",
+   "text": "A surface is that which has only length and breadth. The ends of a surface are lines."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.5.1",
+   "text": "A plane surface is one which lies evenly with the straight lines on itself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.6.1",
+   "text": "A plane angle is the inclination to one another of two lines in a plane which meet one another and do not lie in a straight line with one another. When the lines containing the angle are straight, the angle is called rectilinear. When a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is called a perpendicular to the one on which it stands."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.7.1",
+   "text": "An obtuse angle is one greater than a right angle, and an acute angle one less than a right angle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.8.1",
+   "text": "A boundary is that which is the end of something."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.9.1",
+   "text": "A figure is that which is contained by some boundary or boundaries."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.10.1",
+   "text": "A circle is a plane figure contained by one line, which is called the circumference, such that all the straight lines falling upon it from one point among those lying inside the figure, to the circumference of the circle, are equal to one another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.11.1",
+   "text": "And the point is called the centre of the circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.12.1",
+   "text": "A diameter of the circle is any straight line drawn through the centre and terminated in both directions by the circumference of the circle, and it also bisects the circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.13.1",
+   "text": "A semicircle is the figure contained by the diameter and by the circumference of the circle cut off by it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.14.1",
+   "text": "A segment of a circle is the figure contained by a straight line and a circumference of a circle, either greater or less than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.15.1",
+   "text": "Rectilinear figures are those contained by straight lines: trilateral those contained by three, quadrilateral those by 4, and multilateral those contained by more than 4 straight lines."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.16.1",
+   "text": "Of trilateral figures, an equilateral triangle is that which has its three sides equal, an isosceles that which has only two sides equal, and a scalene that which has its three sides unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.17.1",
+   "text": "Further, of trilateral figures, a right-angled triangle is that which has one right angle, an obtuse-angled that which has one obtuse angle, and an acute-angled that which has its three angles acute."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.18.1",
+   "text": "Of quadrilateral figures, a square is that which is both equilateral and right-angled; an oblong that which is right-angled but not equilateral; a rhombus that which is equilateral but not right-angled; a rhomboid that which has its opposite sides and angles equal to one another, but is neither equilateral nor right-angled. Quadrilaterals other than these are called trapezia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.1.19.1",
+   "text": "Parallels are those [straight lines] which, being in the same plane and being produced to infinity in both directions, do not meet one another in either."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.2.1",
+   "text": "How the idea of measurement was discovered."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.2.1.1",
+   "text": "As the ancient account teaches us, most people were occupied with the measures of land, whence it was also called geometry. The idea of measurement was discovered among the Egyptians: for because of the rising of the Nile many plots that were visible became invisible through the flooding, and many also after the receding, and it was no longer possible for each person to distinguish his own; for this reason the Egyptians devised this measurement, sometimes with the so-called rope (*schoinion*), sometimes with a reed, and sometimes also with other measures. Since measurement, then, is necessary, the need for it has passed to every person eager to learn."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.1",
+   "text": "Hero's introduction to geometrical matters."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.1.1",
+   "text": "Plane geometry consists of regions, sighting-points, lines and angles, and it admits genera, species and theorems."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.2.1",
+   "text": "There are 4 regions: east, west, north and south."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.3.1",
+   "text": "The sighting-point is one, namely the point that is taken."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.4.1",
+   "text": "There are ten lines: straight, parallel, base, top, legs, diagonal, perpendicular (also called 'at right angles'), hypotenuse, perimeter and diameter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.5.1",
+   "text": "A straight line is a line that runs straight."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.6.1",
+   "text": "A parallel is a straight line which, with another straight line lying alongside it, has at its ends distances at right angles equal to one another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.7.1",
+   "text": "A base is a straight line laid down that receives another straight line."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.8.1",
+   "text": "The top is the straight line placed upon the base."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.9.1",
+   "text": "The legs are the straight lines stretched from the end of the top to the ends of the base."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.10.1",
+   "text": "A diagonal is the straight line drawn in squares, trapezia and the like from angle to angle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.11.1",
+   "text": "The perpendicular, also called 'at right angles', is the straight line let fall from the top onto the top, having the 2 angles equal to one another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.12.1",
+   "text": "The hypotenuse is the straight line that subtends the right angle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.13.1",
+   "text": "The perimeter is the line carried around a given centre and distance, having the straight lines drawn from the centre to it equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.14.1",
+   "text": "The diameter is the straight line which through the centre cuts the perimeter into 2 equal segments."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.15.1",
+   "text": "There are three angles: right, obtuse and acute."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.16.1",
+   "text": "An angle is right if a straight line set up on a straight line makes the adjacent angles equal to one another: then the two equal [angles] are right."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.17.1",
+   "text": "But when one is greater and the other less, then the greater, that is, the wider, is called obtuse, and the lesser, that is, the narrower, acute."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.18.1",
+   "text": "In measurements there are 3 genera: the rectilinear, the area-measuring and the solid-measuring."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.19.1",
+   "text": "The rectilinear is that measured along a straight line, which has only length, and which is also called origin and number."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.20.1",
+   "text": "The area-measuring is that which has length and breadth, from which the area is known, and which is also called power."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.21.1",
+   "text": "The solid-measuring is that which has length, breadth and thickness, from which the solid is known, and which is also called cube."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.22.1",
+   "text": "The species of measurement are these: triangles, quadrilaterals, rhombi, trapezia, circles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.23.1",
+   "text": "And they have eighteen theorems, as follows: 2 theorems of quadrilaterals, the equilateral right-angled quadrilateral and the right-angled parallelogram quadrilateral. Six theorems of triangles: the equilateral triangle, the isosceles triangle, the scalene triangle, the right-angled triangle, the acute-angled triangle, the obtuse-angled triangle. 2 theorems of rhombi: the rhombus and the rhomboid. Four theorems of trapezia: the right-angled trapezium, the isosceles trapezium, the acute-angled trapezium and the obtuse-angled trapezium. 4 theorems of circles: the circle, the arch or semicircle, the segment greater than a semicircle and the segment less than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.24.1",
+   "text": "These, then, are the species and theorems so far as areas are concerned; but in solids, since thickness is added to each in the measurement, you will find special theorems for solids. There are ten, as follows: sphere, cone, obelisk, cylinder, cube, wedge, *meiouros* (tapering solid), column, brick, pyramid."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.3.25.1",
+   "text": "There are also these established rules of measurement: in every triangle two sides, taken in any way, are greater than the remaining one; and in every right-angled triangle the two sides about the right angle, each multiplied by itself, are equal to the remaining one, the hypotenuse [multiplied by itself]; and in every circle the perimeter is three and one seventh times the diameter; and the area measured from the diameter and the perimeter of the circle is equal to the areas of four circles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.4.1.1",
+   "text": "There are also these measures: finger, knuckle, palm, *dichas*, span, foot, cubit, pace, fathom, *sokarion*, *plethron*, *iougeron*, *diaulos*, stade, *akaina*, mile, *schoinos* and parasang. The *plethron* is 1 2/3 1/15 *schoinia* or *sokaria*, the *iougeron* 3 1/3, the *diaulos* 2 stades, the stade 20 1/2, the *akaina* 16 spans, the mile 7 1/2 stades, the *schoinos* 4 miles and the parasang 4."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.1.1",
+   "text": "The measures were derived from human limbs: finger, palm, span, foot, cubit, pace, fathom and the rest."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.2.1",
+   "text": "The smallest of all is the finger, which is also called the unit; and sometimes it is divided into a half, a third, a quarter and other fractions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.3.1",
+   "text": "After the finger, which is the smallest part of all, is the palm, which some also call a 'fourth' because it has four fingers; for the span has three fourths, and the foot 4."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.4.1",
+   "text": "The *dichas* has 2 palms, that is, [8] fingers, and is called two-thirds of a span. *Dichas* is the name for the opening of the 2 fingers, I mean the thumb and the forefinger; some also call this the 'dog's mouth'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.5.1",
+   "text": "The span has 3 palms, that is, 12 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.6.1",
+   "text": "The foot has one and 1/3 spans, that is, 4 palms or 16 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.7.1",
+   "text": "The cubit has 2 feet, that is, 2 2/3 spans, or 8 palms, or 32 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.8.1",
+   "text": "The single pace has 3 1/3 spans, that is, 2 1/2 feet, or 10 palms, or 40 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.9.1",
+   "text": "The double pace has 5 feet, that is, 6 2/3 spans, or 20 palms, or 80 fingers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.10.1",
+   "text": "The stone-mason's cubit has 2 spans, or 1 1/2 feet, or 6 palms, or 24 fingers; and likewise that of the sawn timber."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.11.1",
+   "text": "The fathom with which sowable land is measured has 9 1/4 royal spans, that is, 6 feet and 1 1/4 spans, or 27 palms, that is, fists, and a thumb: that is, 26 with the hand clenched, and the last, or first, with the finger of the hand itself stretched out, which is also called a quarter of a span and has 3 fingers. After this you will make a fathom on a reed or on some piece of wood. After that you must make a *schoinion* (rope), that is, a *sokarion* (measuring cord), of 10 fathoms, and so measure the place that you are going to measure. For the *sokarion* for sowable land must have 10 fathoms, but that for meadow 12."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.12.1",
+   "text": "And with the ten-fathom *schoinion* the area of a *modios* has two hundred fathoms and no more, but with the twelve-fathom one it has 280 fathoms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.5.13.1",
+   "text": "However, very small and level places must be measured with the ten-fathom *schoinion*, but the boundaries of estates that are measured all the way round with the twelve-fathom *schoinion*, because dry torrent-beds and streams and thickets and useless places are often found within those boundaries. And if they are measured with the ten-fathom one, there must be deducted, for the reasons stated, either from the total of *sokaria* 1 *sokarion* for every 10 *sokaria*, or from the *modismos* (reckoning in modioi) one *modios* for every 10 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.1.1",
+   "text": "One must know that the sowing *modios* has 40 *litrai*, and each single *litra* sows land of 5 fathoms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.1",
+   "text": "For breadth and length of 5 fathoms make 1 *litra*, and so on in order:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.2",
+   "text": "Breadth and length of 10 fathoms make two *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.3",
+   "text": "Breadth and length of 15 fathoms make 3 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.4",
+   "text": "Breadth and length of 20 fathoms make 4 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.5",
+   "text": "Breadth and length of 25 fathoms make 5 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.6",
+   "text": "Breadth and length of 30 fathoms make 6 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.7",
+   "text": "Breadth and length of 35 fathoms make 7 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.8",
+   "text": "Breadth and length of 40 fathoms make 8 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.9",
+   "text": "Breadth and length of 45 fathoms make 9 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.10",
+   "text": "Breadth and length of 50 fathoms make 10 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.11",
+   "text": "Breadth and length of 55 fathoms make 11 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.12",
+   "text": "Breadth and length of 60 fathoms make 12 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.13",
+   "text": "Breadth and length of 65 fathoms make 13 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.14",
+   "text": "Breadth and length of 70 fathoms make 14 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.15",
+   "text": "Breadth and length of 75 fathoms make 15 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.16",
+   "text": "Breadth and length of [80] fathoms make 16 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.17",
+   "text": "Breadth and length of 85 fathoms make 17 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.18",
+   "text": "Breadth and length of 90 fathoms make 18 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.2.19",
+   "text": "Breadth and length of 95 fathoms make 19 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.1",
+   "text": "Breadth and length of 100 fathoms make [20] *litrai*, that is, 1/2 *modios*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.2",
+   "text": "Breadth and length of 200 fathoms make 40 *litrai*, that is, 1 *modios*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.3",
+   "text": "Breadth and length of 300 fathoms make 60 *litrai*, that is, 1 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.4",
+   "text": "Breadth and length of [400] fathoms make [80] *litrai*, that is, 2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.5",
+   "text": "Breadth and length of 500 fathoms make 100 *litrai*, that is, 2 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.6",
+   "text": "Breadth and length of 600 fathoms make 120 *litrai*, that is, 3 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.7",
+   "text": "Breadth and length of [700] fathoms make 140 *litrai*, that is, 3 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.8",
+   "text": "Breadth and length of 800 fathoms make 160 *litrai*, that is, 4 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.9",
+   "text": "Breadth and length of 900 fathoms make 180 *litrai*, that is, 4 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.10",
+   "text": "Breadth and length of 1,000 fathoms make 200 *litrai*, that is, 5 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.11",
+   "text": "Breadth and length of 2,000 fathoms make 400 *litrai*, that is, 10 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.12",
+   "text": "Breadth and length of 3,000 fathoms make 600 *litrai*, that is, 15 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.13",
+   "text": "Breadth and length of 4,000 fathoms make 800 *litrai*, that is, 20 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.14",
+   "text": "Breadth and length of 5,000 fathoms make 1,000 *litrai*, that is, 25 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.15",
+   "text": "Breadth and length of 6,000 fathoms make 1,200 *litrai*, that is, 30 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.16",
+   "text": "Breadth and length of 7,000 fathoms make [1,400] *litrai*, that is, 35 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.17",
+   "text": "Breadth and length of 8,000 fathoms make 1,600 *litrai*, that is, 40 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.18",
+   "text": "Breadth and length of 9,000 fathoms make 1,800 *litrai*, that is, 45 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.6.3.19",
+   "text": "Breadth and length of 10,000 fathoms make 2,000 *litrai*, that is, 50 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.1",
+   "text": "Beginning of the figures of geometry."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.2",
+   "text": "On equilateral and right-angled quadrilaterals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.1.1",
+   "text": "This being so, we shall carry out the measurement of the propositions as follows. Let there be a quadrilateral both equilateral and equiangular, each side of which is 10 fathoms; to find its area. Do as follows: 10 times 10; the result is 100; the area is that many fathoms. A fifth of this: the result is 20; and it is 20 *litrai*, that is, 1/2 of a *modios*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.2.1",
+   "text": "A quadrilateral both equilateral and right-angled, whose area is 100 fathoms; to find how many fathoms each side is. Do as follows: take the square root of 100; and it is 10; each of the sides is that many fathoms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.3.1",
+   "text": "Another figure, a quadrilateral both equilateral and right-angled, each side of which is 18 fathoms; to find its area. Do as follows: multiply one of the bases by one of the perpendiculars, that is, 18 by 18, and the result is 324; and its area is 324 fathoms. The 200th part of these is 1 1/2 1/10 and 1/50; and it is land of 1 1/2 *modioi* and 4 1/2 1/5 1/10 *litrai*. For since the measure of the *modios* is taken as 200 fathoms, that is, 40 *litrai*, 5 fathoms fall to each single *litra*, and each fathom is 1/5 of a *litra*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.4.1",
+   "text": "Another quadrilateral, equilateral and right-angled, each side of which is 36 fathoms. These multiplied by themselves make 1,296; the area of such a quadrilateral is that many fathoms. The 200th part of these is 6 1/4 1/8 1/10 1/200; and it is land of 6 *modioi* and 19 1/5 *litrai*. For the 1,200 fathoms, divided by 200, amount to land of 6 *modioi*, and the remaining 96, divided by 5, amount to land of 19 *litrai* and 1 fathom."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.5.1",
+   "text": "So much for measurement in fathoms; for measurement in *schoinia*, do as follows: multiply one of the sides by itself; take 1/2 of the result; and that is the *modismos*. For example, let there be a quadrilateral equilateral and right-angled, each of whose sides is 6 *schoinia*; to find the area. Do as follows: 6 times 6; the result is 36; and the area is 36 *schoinia*. Half of these is 18; and it is land of 18 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.6.1",
+   "text": "Another quadrilateral, equilateral and right-angled, each side of which is 16 *schoinia*. These multiplied by themselves make 256; and the area is that many *schoinia*. Half of these is 128; and it is land of that many *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.7.1",
+   "text": "Another quadrilateral, equilateral and right-angled, each side of which is 25 *schoinia*. These multiplied by themselves make 625; its area is that much. Half of these is 312 1/2; and it is land of that many *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.7.8.1",
+   "text": "Another quadrilateral, equilateral and right-angled, each of whose sides is 12 *schoinia* and 6 fathoms; to find its area. Do as follows: convert the *schoinia* also into fathoms, and the result, from *schoinia* and fathoms together, is 126; these multiplied by themselves make 15,876; so the area is that many fathoms. The 200th part of these is 79 1/4 1/8 1/200; and it is land of 79 *modioi* and 15 1/5 *litrai*. For the 15,800 fathoms, divided by 200, make land of 79 *modioi*, and the remaining 76, divided by 5, make 15 *litrai* and 1 fathom."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.8.1",
+   "text": "On parallelogram quadrilaterals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.8.1.1",
+   "text": "A parallelogram quadrilateral that is right-angled, which is also called oblong, is measured as follows. Let there be a parallelogram quadrilateral, right-angled, whose breadth is 3 *schoinia* and length 8; to find its area. Do as follows: multiply the breadth by the length; the result is 24; and the area is that many *schoinia*. Half of these is 12; and it is land of that many *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.8.2.1",
+   "text": "Another parallelogram quadrilateral, right-angled, which is also called oblong, whose breadth is 15 fathoms and length 20; to find its area. Do as follows: multiply 20 by 15; the result is 300; the area is that many fathoms. A fifth of these: the result is 60 [*litrai*]; and it is 1 1/2 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.8.3.1",
+   "text": "A right-angled parallelogram quadrilateral whose lengths are 80 fathoms and breadth 60; to find its area. Do as follows: multiply the [fathoms] of the length by the 60 of the breadth; and its area comes to 4,800. Of these, a 200th part: the result is 24; and it is land of 24 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.8.4.1",
+   "text": "Another right-angled parallelogram quadrilateral, which is also called oblong, whose length is 8 *schoinia* and area 40; to find its breadth. Do as follows: take an eighth of the 40; the result is 5; and the breadth is that many *schoinia*. To find the *modismos*, [do] as follows: multiply the 5 of the breadth by the 8 of the length; the result is 40; half of these is 20; and it is land of that many *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.1",
+   "text": "On right-angled triangles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.1.1",
+   "text": "Let there be a right-angled triangle whose base is 4 *schoinia*, that is 40 fathoms, the perpendicular at right angles 3 *schoinia*, that is 30 fathoms, and the hypotenuse 5 *schoinia*, that is 50 fathoms; to find its area. With the *schoinia* do as follows: take half of the base, that is the 2 *schoinia*, and multiply by the 3 of the perpendicular thus: twice 3 is 6; and the area of the right-angled triangle is 6. Half of these is 3; and it is land of 3 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.2.1",
+   "text": "With the fathoms, take likewise half of the base, that is the 20, and multiply by the 30 thus: 20 times 30 is 600; and the area of the right-angled triangle is 600 fathoms. A 200th part of these: the result is 3; and it is land of 3 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.3.1",
+   "text": "For in every measure, if the measuring is done with the *schoinion*, the *schoinia* of the multiplication, when halved, give the *modismos*; but if with fathoms, the fathoms of the multiplication, when divided by 200, give the *modismos*; for since there are 40 *litrai* to one *modios* and 200 fathoms, 5 fathoms fall to each single *litra*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.4.1",
+   "text": "Another right-angled triangle, whose base is 8 *schoinia*, that is 80 fathoms, the perpendicular at right angles 6 *schoinia*, that is 60 fathoms, and the hypotenuse 10 *schoinia*, that is 100 fathoms; to find its area. Do as follows: with the *schoinia*, take half of the base, that is the 4 *schoinia*, and multiply by the 6 of the perpendicular thus: 4 times 6 is 24; and the area of the right-angled triangle is 24 *schoinia*. Half of these is 12; and it is land of 12 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.5.1",
+   "text": "With the fathoms, thus: take half of the base, that is the 40 fathoms, and multiply by the 60 of the perpendicular; the result is 2,400; a 200th part of these: the result is 12; and it is land of that many *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.6.1",
+   "text": "It should be known that in every right-angled triangle the products of the 2 sides about the right angle [taken together] are equal to the product of the remaining [side], the hypotenuse. For instance, as an example, let the 2 sides about the right angle of a right-angled triangle be, the one 8 *schoinia*, namely the one on the base, and the other 6 *schoinia*, that is the one at right angles; from these to find the number of the hypotenuse. Do as follows: multiply the [*schoinia*] of the base by themselves; the result is 64; and the 6 of the [side] at right angles by themselves; the result is 36. Add these to the 64 of the base; the result is 100. Take the square root of these; and it is 10, and this is the square root, which is also the hypotenuse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.7.1",
+   "text": "Another right-angled triangle, whose base is 16 *schoinia*, and the [side] at right angles 12; to find the area. Do as follows: the 16 of the base by the 12 of the [side] at right angles; the result is 192. Half of these: the result is 96; the area is that many *schoinia*. To find the *modismos*: take half of the area; and it is 48, and it is land of that many *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.8.1",
+   "text": "If you wish to find the hypotenuse, do as follows: the 16 of the base by themselves; the result is 256; and the 12 of the [side] at right angles by themselves; the result is 144; together 400. Their square root is 20; the hypotenuse is that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.9.1",
+   "text": "If you wish to find the [side] at right angles, do as follows: the 20 of the hypotenuse by themselves; the result is 400; from them take the 16 of the base, which by themselves come to 256; the remainder is 144. Their square root comes to 12; the [side] at right angles will be that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.10.1",
+   "text": "If you wish to find the base, likewise take from the 400 the 12 of the [side] at right angles, which by themselves come to 144; the remainder is 256. Their square root comes to 16; the base will be that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.11.1",
+   "text": "To find the [side] at right angles in another way also. Do as follows: three times the 20 of the hypotenuse; the result is 60; a fifth of these: the result is 12; and the [side] at right angles is that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.12.1",
+   "text": "A right-angled triangle whose area is 600 fathoms and perpendicular 30 fathoms; to find its base and its hypotenuse. Do as follows: double the 600 of the area; the result is 1,200; divide these by 30, and in the resulting 40 you will have the base."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.13.1",
+   "text": "Likewise to find the hypotenuse too. Multiply the perpendicular by itself, and the result is 900; and the base by itself, and the result is 1,600; together 2,500. Their square root comes to 50; the hypotenuse will be that many fathoms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.14.1",
+   "text": "Method of Pythagoras on right-angled triangles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.14.2",
+   "text": "If you are instructed to construct a right-angled triangle by the method of Pythagoras from an odd number, do as follows: let the number 5 be given to the perpendicular. These by themselves: the result is 25; from these subtract 1 unit; the remainder is 24. Half of these is 12; this is the base. Add one unit to the base, and the result is 13; the hypotenuse is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.15.1",
+   "text": "If you are instructed to construct a right-angled triangle after Plato from an even number, do as follows: let the number 8 be given to the perpendicular. Half of these is 4; these by themselves: the result is 16. Subtract 1 unit from these; the remainder is 15; the base is that much. Add two to the base; the result is 17; assign these to the hypotenuse, and [the triangle] is constructed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.16.1",
+   "text": "To find the area, [do] as follows: always multiply half of the base by the perpendicular, that is the [side] at right angles, or half of the [side] at right angles by the base, and know that what is gathered from this is the area of the right-angled triangle. For instance, let there be a right-angled triangle whose base is 20 *schoinia*, the perpendicular, that is the [side] at right angles, 15 *schoinia*, and the hypotenuse 25; so, to find the area. Do as follows: half of the base, that is the 10, by the 15 of the perpendicular; the result is 150; the area is that many *schoinia*. Half of these: the result is 75; and it is land of 75 *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.17.1",
+   "text": "Two right-angled triangles joined, whose bases are 10 *schoinia* and hypotenuses 13 *schoinia* each, while the [side] at right angles, being common to the two triangles, is 12 *schoinia*; to find their area. Do as follows: the 10 of the base by the 12 of the [side] at right angles; the result is 120; half of these is 60; the area is that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.9.18.1",
+   "text": "Half of these is 30; and it is land of 30 *modioi*. If you wish to find the perpendicular from the base, do as follows: half of the 10 of the base: the result is 5; these by themselves 25. And the 13 of the hypotenuse by themselves 169. From these take the 25; the remainder is 144; their square root is 12; the perpendicular will be that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.1",
+   "text": "On equilateral triangles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.1.1",
+   "text": "To find the area of every equilateral triangle. Do as follows: always multiply one of the sides by itself, and of the number produced by such multiplication take a third and a tenth part; and the area of the equilateral triangle is that much."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.2.1",
+   "text": "For instance, as an example, let each of the sides of an equilateral triangle be 10 *schoinia*. So the 10 of one side by themselves: the result is 100; a third of these: the result is 33 1/3; and a tenth: the result is 10; together 43 1/3; the area of the equilateral triangle is that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.3.1",
+   "text": "To find the perpendicular of an equilateral triangle. Do as follows: always subtract a tenth and a thirtieth of one of the sides, and know that the remainder is the number of the perpendicular. Then multiply half of the base by the perpendicular, and what is gathered from the multiplication is the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.4.1",
+   "text": "For instance, as an example, let each of the equal sides of an equilateral triangle be 10 *schoinia*, and of each single side a tenth is 1 and a thirtieth 1/3. Subtract these, that is, the 1 and the 1/3, from the 10: the remainder is 8 and 2/3; the perpendicular is of that number."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.5.1",
+   "text": "To find the area. Do as follows: multiply half of the base, that is, the 5 *schoinia*, by the 8 2/3 of the perpendicular; and the result is 43 1/3; half of these is 21 2/3; and it is [a piece] of land of 21 *modioi* and 26 2/3 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.6.1",
+   "text": "Another equilateral triangle, of which each of the sides is 12 *schoinia*; to find its area. Do as follows: the 12 of one [side] by themselves: the result is 144; a third of these is 48, and a tenth 14 1/3 1/15; together 62 1/3 1/15; and the area is that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.7.1",
+   "text": "To find its perpendicular. Do as follows: subtract likewise a tenth and a thirtieth of one of the sides, and the remainder will be the number of the perpendicular. For instance, let each of the sides be, as we said, 12 *schoinia*, and of one side a tenth is 1 1/5, and a thirtieth is 1/3 1/15. Adding these together you will find 1 1/2 1/10; subtract these from the 12: the remainder is 10 1/3 1/15; the perpendicular is that many *schoinia*. Then multiply half of the base by the perpendicular, that is, the 6 by the 10 1/3 1/15: in this way too the result is 62 1/3 1/15; and the area is that many *schoinia*. Half of these: the result is 31 1/5; and it is [a piece] of land of 31 *modioi* and 8 *litrai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.8.1",
+   "text": "Another equilateral triangle, of which each of the sides is 30 *schoinia*; to find its area. Do as follows: the 30 by themselves: the result is 900; multiply these by 13, and the result is 11,700; a thirtieth of these: the result is 390; the area is that many *schoinia*. And by the method above, thus: the 30 by themselves: the result is 900; a third and a tenth of these: the result is 390; the area is that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.9.1",
+   "text": "If you wish to find the area another way as well, do as follows: take a third and a tenth of the 30; and the result is 13. These by the 30: the result is 390; the area will be that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.10.1",
+   "text": "It is also possible to find the area another way. Take the 30 of one of the sides and multiply by the 26 of the perpendicular; and the result is 780; half of these: the result is 390; the area will be that many *schoinia*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.10.11.1",
+   "text": "If you wish to find the perpendicular of an equilateral triangle of which each side is 30 *schoinia*, do as follows: the one side by itself: the result is 900, a quarter of which is 225; the remainder is 675. The square root of these is approximately 26; and the perpendicular will be 26 *schoinia*. Multiply these by the base, that is, by the 30: the result is 780; half of these is 390. And half of these is 195; and it is [a piece] of land of that many *modioi*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.1",
+   "text": "Method for every scalene triangle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.1.1",
+   "text": "Given any scalene triangle, not however right-angled, to find the perpendicular. Do as follows: one must first find the segments made on the base by the perpendicular, which are unequal, the one greater, the other smaller, and do it thus: multiply the number of each side [by itself], writing each down separately, having first set one of the sides as base, the greater as greater hypotenuse, and the smaller as smaller hypotenuse; this will be clear to you if the number from the multiplication of one side is greater than that from the multiplication of the other 2 sides."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.2.1",
+   "text": "Set the greatest of the sides as base, and if you wish to find the greater segment, add the [number] produced from the multiplication of the base to that from the multiplication of the greater hypotenuse, and from the result subtract that from the multiplication of the smaller hypotenuse, and divide half of the remainder by the number of the base, and know that what results from the division is the greater segment of the base."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.3.1",
+   "text": "If you wish to find the smaller segment, do the reverse: add that from the multiplication of the base to that from the multiplication of the smaller hypotenuse, and from the result subtract that from the multiplication of the greater hypotenuse, and of the remainder take half and divide this by the number of the base, and know that what results from the division is the smaller segment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.4.1",
+   "text": "So when you have found such segments, it will be easy for you to hunt down the perpendicular too: for either by subtracting that from the multiplication of the greater segment from that from the multiplication of the greater hypotenuse you will have the perpendicular, or by subtracting that from the multiplication of the smaller segment from that of the smaller hypotenuse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.5.1",
+   "text": "For clarity's sake, let there be by way of example a scalene triangle whose sides are 7, 6, 11. Of these I set the 11 as base, because such a triangle is obtuse-angled; for the multiplication of this side, that is, the one having 11, is greater than that from the multiplication of the other two sides; the 6 [I set as] smaller hypotenuse and the 7 as greater. Each of these sides I multiply by itself, and the results are: of the base 121, of the smaller hypotenuse 36, and of the greater 49."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.6.1",
+   "text": "I wish to find the greater segment. I add the multiplication of the base to the multiplication of the greater hypotenuse: the result together is 170. From these I subtract the multiplication of the smaller hypotenuse, that is, the 36: the remainder is 134; half of these is 67. These I divide by the number of the base, that is, the 11, and the result is 6 [and] 1/11, and the greater segment is 6 1/11. So the remaining, smaller segment will be 4 and 10/11."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.7.1",
+   "text": "If I wish to find the smaller segment first, I add the multiplication of the base to the multiplication of the smaller hypotenuse: the result together is 157. From these I subtract that from the multiplication of the greater hypotenuse, that is, the 49: the remainder is 108; half of these is 54. These I divide by the number of the base, that is, the 11, and the result is 4 and 10 elevenths; and this is the smaller segment. So the remaining, greater segment will be 6 and 1 eleventh, and the finding of the segments agrees both ways."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.11.8.1",
+   "text": "Then, taking that from the multiplication of one of the segments and subtracting it from that from the multiplication of the one of the hypotenuses which corresponds to the segment, and taking the square root of the remainder, I have the perpendicular."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.12.1",
+   "text": "Method for finding the area of every triangle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.12.1.1",
+   "text": "Given any triangle, to find the area. Do as follows: add together the number of the three sides, and of the sum take half, and from this again subtract the number of each side; and of the remainders, multiply that of one side by the half of [the sum] from the addition of the sides, that of the second by the product of the first multiplication, and again that of the remaining side by the product of the second multiplication; and of the result take the square root; and this will be the area."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0559.tlg015.1st1K-grc1.12.2.1",
+   "text": "For instance, as an example, let there be a triangle whose sides are 3, 4, 5, which is also a right-angled triangle. The number composed of the three sides is 12; for 3 and 4 [are] 7, and 7 and 5 [are] 12; half of these is 6; when each side is subtracted from these, there remain for each single side, for one 3, for another 2, for another 1. Of these, the 3 multiplied by the 6 makes 18, the 2 by the 18 makes 36, and the unit by the 36 makes again the same 36. The square root of these is 6; and the area of such a triangle is 6. And this is clear also from the other method, the one for right-angled triangles: for the 3 of the perpendicular multiplied by half of the base, that is, the 2, make 6. This method has also been tested on all the other triangles and is most secure."
+  }
+ ]
+}

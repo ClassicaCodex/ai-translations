@@ -1,0 +1,524 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0034a.stoa001",
+ "edition_urn": "urn:cts:latinLit:stoa0034a.stoa001.ai-claude",
+ "source_edition": "stoa0034a.stoa001.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-08",
+ "updated": "2026-11-08",
+ "whole_work": true,
+ "header": {
+  "title": "Annotationes Ad Quaedam Evangeliorum Loca: AI translation (Claude)",
+  "author": "Arnobius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0034a.stoa001.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.head": "Line 2: 'luca' read as 'loca' (passages). Line 2: the clause on the seven books Against the Gentiles is elliptical; 'of the other' refers to the other Arnobius (of Sicca). Line 6: the text says seven water jars, though John 2:6 has six; translated as given. 'pIra' read as 'petra'. Line 10: 'Quartum autem diem excitatum' is awkward; rendered 'the fourth day on which he was raised'. Line 29: the text reads 'Palea' (chaff) as showing the cross, which clashes with the chaff later in the sentence; 'pala' (winnowing fan) is evidently meant and is translated. Line 26: 'perOdia' read as 'per odia'; the construction is loose. Line 32: 'Fastigium' (pinnacle) is used here for the Gospel's 'pinna'.",
+  "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab19": "Chap. XIII: the edition's heading reads only 'CAP.'; the number XIII is supplied from the sequence. Line 49: 'morus, seo m martyrium' read as 'mortis, sed in martyrium'; 'Machabaea' is taken to be the mother of the Maccabean martyrs (2 Macc. 7). Line 53: 'a quo eum veniinus' is corrupt; translated as 'by which we are bought' (perhaps 'emimur' or 'venimus' in the sense of being sold), uncertain. Line 55: 'aridam eodem dixit' read as 'quod aridam dixit'. Line 47: 'si qui lectioni persistit' taken as persevering in sacred reading; the following 'and then they will begin to fast' seems elliptical. Line 50: 'ova ... hiporum' read as 'oves ... luporum'.",
+  "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab32": "Ref 82: 'Joannes Libere' read as 'Joanni bibere'. Ref 65: 'cadebant' read as 'caedebant'. Ref 69: 'noveUasse' read as 'novellasse' (planted anew). Ref 73: 'septem libri Moysi' is odd (the Pentateuch has five books); translated as printed. Ref 75: 'Amapobius' is unidentified and may be corrupt. Ref 78: the clause on not departing from the city is obscure. Ref 80: the opening sentence is syntactically loose, and the list of the foolish virgins lacks its first numeral; the first item seems to be 'those who hope for what they see'.",
+  "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.86": "Scanning errors corrected: 'Yasum' read as 'Vasum', 'igilan- tes' as 'vigilantes', 'Etiæ' as 'Eliæ'. In the last sentence the Latin keeps the past-tense 'dicerent' from the Gospel quotation; rendered as 'say' for sense."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.head",
+   "text": "NOTES ON CERTAIN PASSAGES OF THE GOSPELS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab1",
+   "text": "TESTIMONY OF GILBERT COUSIN,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab2",
+   "text": "Who wrongly attributes these notes to Arnobius the African."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.2",
+   "text": "This little work will be commended, first, by the age of the exemplar from which these Notes of Arnobius on passages of the evangelists were taken, and then by the great care taken in copying, with much difficulty, a book written in worn-out characters, and moreover so run together that it is laborious, except for someone used to it, to separate not merely sentence from sentence but word from word. The Commentaries of the same Arnobius on the Psalms of David were published long ago and are extant; but [those] of the other [Arnobius] are the celebrated seven books Against the Gentiles, which Blessed Jerome mentions in [his] catalogue of illustrious writers."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab3",
+   "text": "FROM JOHN."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab4",
+   "text": "CHAPTER I."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.3",
+   "text": "In the beginning was the Word, and the Word was with God, and the Word was God: this was in the beginning with God. All things were made through him, and without him nothing was made that was made."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.4",
+   "text": "The Beginning is God, who willed to be the ruling principle of all things. In this Principle, then, was the Word, that is, Christ: of whom he says, The Word was with God, and the Word was God. He shows that Christ proceeded from God, concerning whom the Father's voice also said in Psalm 44: My heart has uttered a good Word: that is, Christ, through whom all things were made, except idols, which were made without the will of Christ, concerning which the Apostle says: We know that an idol is nothing."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab5",
+   "text": "CHAP. II. On the wedding."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.5",
+   "text": "On the third day a wedding was held at Cana of Galilee; and the mother of Jesus was there. And Jesus too was invited, and his disciples, to the wedding; and they had no wine, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.6",
+   "text": "All these things took place; but they have a spiritual meaning. The wedding, namely, is the union of Christ and the Church, that is, of the handing down of the new law. The seven stone water jars show the seven Churches founded upon the rock. Full of water, he says: that is, the grace of baptism. And where he says, Holding two measures each, these are those who are joined in marriage. Those holding three are the spiritual and the continent, who are filled with the powers of the Trinity. The master of the feast is Moses, the new bridegroom is Christ, and the water turned into wine shows the blood of the Passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab6",
+   "text": "CHAP. III. On the blind man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.7",
+   "text": "And Jesus, going out of the temple, as he walked saw a man blind from his birth. And his disciples asked him, saying: Rabbi, who sinned, this man or his parents, that he was born blind? Jesus answered and said to them: Neither did he sin, nor his parents, but that the works of God might be made manifest in him. Saying this, he spat on the ground, and made clay from the spittle, and smeared his eyes with the clay, and said to him: Go to the pool of Siloam, and wash your eyes. So he went and washed, and came back having received sight."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.8",
+   "text": "The blind man he spoke of represents the race of the Gentiles, we who from birth were wandering in blindness. Siloam they interpret as 'fountain of light': that is baptism, by which we enlighten the eyes of the heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab7",
+   "text": "CHAP. IV. On Lazarus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.9",
+   "text": "Now there was a certain man sick, named Lazarus, of the village of Mary and Martha her sister. This is the Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother was sick, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.10",
+   "text": "All these things took place, but they have a spiritual meaning; for Lazarus represents the human race, which lay asleep in death before Christ came. Martha and Mary are understood as the Church and faith, asking Christ to raise Lazarus. The stone rolled away from the tomb: that is, hardness removed from the heart of men. The fourth day on which he was raised shows the figure of the Gospels, which drive away from us hardness of heart. And where he said, Jesus wept, [this was] namely over the unbelief of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab8",
+   "text": "CHAP. V."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.12",
+   "text": "Walk while you have the light, lest darkness overtake you; for he who walks in darkness does not know where he is going. While you have the light, then, believe in the light, that you may become children of light."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.13",
+   "text": "The light he speaks of is the law of God, in which we ought to walk. The darkness he spoke of is ignorance. Christ is the light, and the darkness is the Antichrist."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab9",
+   "text": "CHAP. VI. On the vine and the branch."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.14",
+   "text": "I am, he says, the true vine, and my Father is the farmer: every branch in me that does not bear fruit he will cut off, and throw into the fire."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.15",
+   "text": "Rightly is Christ the vine, who brought us life; rightly too is his Father the farmer, because he is the governor of the world, who manages the rains and the seasons like a good cultivator. The fruitful branch he spoke of signifies our people. The unfruitful one is the figure of the heretics, which the fire awaits."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab10",
+   "text": "CHAP. VII. On Abraham."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.16",
+   "text": "Abraham your father longed to see my day, and he saw it, and was glad."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.17",
+   "text": "Abraham died two thousand years before Christ came; how then did the Lord say, Abraham saw my day, and was glad? Then, namely, when Isaac was carrying the wood for the sacrifice, and he gave a ram worthy of the sacrifice, and joyfully received back his son: then he exulted, because he saw the wood of the cross, and knew that Christ would suffer."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab11",
+   "text": "CHAP. VIII. On Peter's sword."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.19",
+   "text": "Then Simon Peter, having a sword, drew it and struck the servant of the chief priest, and cut off his right ear, and the rest that follows."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.20",
+   "text": "Since the Lord had earlier commanded his disciples not to carry even a staff on the road, how then did Peter draw a sword and cut off the ear of the priest's servant, and the Lord said to him: Put your sword back into its sheath? The sword, namely, is the Holy Spirit, as the apostle Paul mentions to the Ephesians; the ear cut off is the hearing of the Jews, as Isaiah said: Lord, who has believed our report? And the sheath was Peter, in whom the Spirit of God lay hidden."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab12",
+   "text": "FROM MATTHEW."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab13",
+   "text": "CHAPTER I."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.22",
+   "text": "Opening, he says, their treasures, they offered him gifts: gold, frankincense and myrrh; and being warned by an answer in dreams not to return to Herod, they went back by another way."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.23",
+   "text": "Then, namely, the Magi, by a foreknowing of the spirit, brought gifts to Christ: gold, namely, as to a king; frankincense as to God, or because they were showing the sacrificial offering of the Passion; and myrrh showed a sign of burial. The Magi themselves were a type of believers. Herod signifies the figure of the devil. And that the Magi were told not to return to Herod means that those who come to Christ from the Gentiles should not return again to the devil."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab14",
+   "text": "CHAP. II."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.25",
+   "text": "The voice of one crying in the desert: Prepare the way of the Lord, make straight the paths of our God; every valley shall be filled, and every mountain and hill shall be brought low, and the crooked shall become straight."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.26",
+   "text": "The valley he spoke of represents this world, filled with the teaching of Christ. The mountains and hills brought low [are] namely the hatreds of the devil and the worship of idols, which at the coming of Christ were brought low and pressed down. And where he said, The crooked shall become straight, he was saying this of the crookedness of the Gentiles, who now walk straight paths."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab15",
+   "text": "CHAP. III. On John's food."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab16",
+   "text": "Now John's food was locusts and wild honey."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.27",
+   "text": "The locusts he spoke of show the figure of the many peoples who came to John. The honey shows the fruit of their sweetness, by whose belief and faith John was satisfied."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab17",
+   "text": "CHAP. IV. On the winnowing fan and the threshing floor."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.28",
+   "text": "Having, he says, his winnowing fan in his hand, he will clean his threshing floor, and gather the wheat into the barns, but the chaff he will burn with unquenchable fire."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.29",
+   "text": "The threshing floor he spoke of he understands as this world. The wheat he spoke of is understood as the saints and the faithful. The winnowing fan shows the cross. The barn is paradise, where the saints are gathered; the chaff, light and lost men, who are sent into Gehenna and burned up with fire."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab18",
+   "text": "CHAP. V. On the fast and the temple."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.31",
+   "text": "And when Jesus had fasted, afterwards he was hungry, and the tempter said to him: If you are the Son of God, command that these stones become bread. But he said to him: Man does not live by bread alone, but by every word of God. Then the devil took him up and set him on the pinnacle of the temple, and said to him: If you are the Son of God, throw yourself down from here, and the angels will catch you, lest you strike your foot against a stone."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.32",
+   "text": "Christ, fasting, hungered for us, whom righteousness will satisfy; and we were the stones, who had hardness of heart. The temple represents Christian people, as the apostle Paul says: You are the temple of God. The pinnacle of the temple is charity, by which Christ ascends in Christians; and where the devil said to Christ, Throw yourself down from the temple, from here, that is: he was urging Christ to come down from our charity. Lest, he says, you strike your foot against a stone; that is, as though we were unbelievers, as if we had the hardness of stones. Thus he was casting our stumbling in Christ's face."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab19",
+   "text": "CHAP. VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.33",
+   "text": "Be well-disposed to your adversary quickly, while you are with him on the way, lest the adversary hand you over to the judge, and the judge to the officers, and you be sent to prison."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.34",
+   "text": "By the adversary he means the outer man, that is, the carnal one, with whom we have made the journey. The way represents the passage through this world. Let us then be well-disposed to this adversary, that is, let us live chastely with him, lest for unlawful deeds committed he hand us over to the judge, that is, to Christ. And the judge (he says) to the officers, that is, to the angels; and the angels hand us over to prison, that is, to Gehenna."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab20",
+   "text": "CHAP. VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.35",
+   "text": "Do not let your left hand, he says, know what your right hand is doing, so that your almsgiving may be in secret."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.36",
+   "text": "We are the right hand, because we worship Christ, who sits at the right hand of the Father. The left hand is the Jews, and the heretics. Therefore let the left side not know what the right is doing."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab21",
+   "text": "CHAP. VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.37",
+   "text": "Do not store up treasures for yourselves on earth, where moth and decay destroy, and where thieves dig through and steal. But store up for yourselves treasures in heaven, where thieves do not dig through nor steal, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.38",
+   "text": "The earth he mentions signifies the dwelling of our body. The treasure is faith. So the words, Do not store up treasures for yourselves on earth, mean: do not lay up treasure in the flesh, where the moth (he says) eats, that is, avarice or lust; and thieves dig through, that is, the devil, who steals faith; but: Store up, he says, treasures in heaven, that is, in the spirit, which is understood as heaven; as the apostle Paul said: Whoever sows in the flesh will reap corruption from the flesh; but whoever sows from the spirit will reap eternal life from the spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab22",
+   "text": "CHAP. IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.39",
+   "text": "You who see the speck in your brother's eye, but do not consider the beam in your own eye."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.40",
+   "text": "This he said to the heretics, who dare to wrangle with the Jews, from whose eyes they think they are removing the speck, that is, the thorns of that crown of thorns, so that they do not feel the beam in their own eyes, that is, the offence of the cross."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab23",
+   "text": "CHAP. X."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.41",
+   "text": "Do they gather grapes from thorns, or figs from thistles? So every good tree bears good fruit; but a bad tree bears bad fruit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.42",
+   "text": "The thorns and thistles he mentions are understood as heresies, from which no one gathers the fruit of righteousness, that is, no one recalls martyrs from among the heretics. The bad tree is the old man, who bears bad fruit, that is, sins, lusts and avarice; but the good tree is the cross, which has brought the fruit of life to those who believe."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab24",
+   "text": "CHAP. XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.44",
+   "text": "Everyone who hears these words of mine and does them, I will liken to a wise man, who built his house upon rock. The rain came down, the floods came, the winds blew, and beat against that house, and it did not fall; for it was founded upon rock. And everyone who hears my words and does not do them, I will liken to a foolish man, who built his house upon sand. The rain came down, the winds blew, they beat against that house, and it fell, and its ruin was great."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.45",
+   "text": "The rock, namely, is Christ, the founder of the apostles. The house he mentions is the dwelling of our body. On this rock, then, that is, on Christ, let us build our house, that is, let us sanctify our body, so that when the floods and the wind come, that is, the onslaught of persecution and storms, we may not fall when struck. The sand is understood as nothing other than heresies, which are tossed about by every storm. Whoever, then, builds his house on this sand, that is, on heresy, is foolish. For as soon as the floods and winds come, that is, the onslaught of persecution, at once it will fall."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab25",
+   "text": "CHAP. XII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.46",
+   "text": "The sons of the bridegroom, he says, cannot fast as long as the bridegroom is with them. But days will come [when] the bridegroom will be taken from them, and then they will fast in those days. No one puts a patch of unfulled cloth on an old garment, for it takes its fullness away from the garment, and a worse tear is made; nor do they put new wine into old wineskins, otherwise the wine bursts the skins, and both the wine and the skins are lost. But they put new wine into new skins, and both are preserved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.47",
+   "text": "The bridegroom is Christ; and the sons of the bridegroom are we. Accordingly, if anyone persists in [sacred] reading, he does not fast, because the bridegroom is with him, who is Christ, who said: I am the bread of life; and then they will begin to fast. The new garment represents the new man, and the old garment signifies the old man. If anyone, then, joins the inner man, that is, the spiritual, with the outer, that is, the carnal, he makes a worse tear. The new wine, namely, is the sacrament. The old wineskins are the Jews. And the new skins are we, who drink of this new wine."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab26",
+   "text": "CHAP. [XIII.]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.48",
+   "text": "Behold, a woman had had a flow of blood for twelve years, and she came up behind and touched his garment; for she was saying within herself: If I only touch his garment, I shall be healed. But he said to his disciples: Who touched me? For I perceived that power had gone out from me. And when that woman who had touched his garment saw that she could not be hidden, she fell at his feet, saying: I, Lord, touched [you], because I was afflicted by a flow. And he said to her: Daughter, your faith has made you well."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.49",
+   "text": "All these things happened, but they have a spiritual meaning. For the woman turned to a flow of blood is the Church; in whose image even then the Maccabean woman was being slaughtered, whose blood flowed forth in the image of the Church. But when Christ came, her blood was no longer turned into a flow of death, but into martyrdom. His garment which she touched is the body of Christ: which we too touch, and are healed; and the twelve years represent the number of the apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab27",
+   "text": "CHAP. XIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.50",
+   "text": "Behold, he says, I send you as sheep in the midst of wolves. Be, he says, prudent as serpents, and simple as doves."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.51",
+   "text": "The wolves he mentions are our persecutors. And the sheep are we, who in time of persecution are constrained by the wolves. But be, he says, cunning as serpents and simple as doves: that is, just as the serpent, when facing death, hides its head but gives its body up to death, so let us too honour our head, that is, Christ, by confessing [him], and give our body up to the wolves. The dove is the Church, whose children, as often as they are slain for the name of Christ, rejoice and exult."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab28",
+   "text": "CHAP. XV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.52",
+   "text": "Are not two sparrows sold for an as? And not one of them will fall to the ground without the will of your Father who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.53",
+   "text": "The two sparrows he mentions are understood as the spirit and the soul; as he said in the psalm: Our soul has been rescued like a sparrow from the snare of the fowlers. The as he mentions is the denarius of faith, by which we are bought. The earth is man himself, who without the Father's will can receive neither soul nor spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab29",
+   "text": "CHAP. XVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.54",
+   "text": "Jesus came, he says, into the synagogue, and found there a man who had a withered hand, and Jesus said to him: Stretch out your hand; and he stretched out his hand, and it was made sound like the other."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.55",
+   "text": "All these things happened, but they have a spiritual meaning. For in calling the hand withered, he shows the character of an unfruitful man. Therefore the Lord said to him: Stretch out your hand, so that we may hold out alms with mercy to the poor man with outstretched hand."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab30",
+   "text": "CHAP. XVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.56",
+   "text": "The kingdom of heaven, he says, is like a treasure hidden in a field; the man who finds it hidden will go and sell all that he has, and buy that field."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.57",
+   "text": "This field is the world; and the treasure hidden in the field is Christ, who lay hidden in that three-day passion; or else this field is paradise, and the treasure is eternal life. Therefore let us sell whatever we have in this world, that we may come to that field."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab31",
+   "text": "CHAP. XVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.58",
+   "text": "And he compelled the disciples to get into the boat and go ahead across the sea, until he sent the crowds away. But the boat was already in the middle of the sea, tossed by the waves, for the wind was contrary. And in the fourth watch of the night he went to them walking on the sea, and when they saw him, they were troubled. And Simon Peter said: Lord, if it is you, bid me come to you on the waters. And he said: Come; and Peter, getting down, walked on the water to come to Jesus. But Peter, seeing a strong wave coming toward him, was afraid, and when he began to sink, he cried out, saying: Lord, save me, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.59",
+   "text": "The sea, namely, is the world; and the boat which the apostles got into is the Church. And when he says it was tossed by the waves, this means that the Church is battered by persecution. The contrary wind is the devil, who is contrary to the Church. And when he says that in the fourth watch of the night he came to them walking on the sea, this means that he brought the light of the Gospel to us, who were lying in the night of ignorance. And when he says that Peter was troubled on seeing the storm, this means that he was troubled at the passion of Christ, so that even his faith was submerged by denial."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab32",
+   "text": "CHAP. XIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.60",
+   "text": "And Jesus said to his disciples: Amen, I say to you, that a rich man will enter the kingdom of heaven with difficulty. Again I say to you: it is easier for a camel to pass through the eye of a needle than for a rich man [to enter] into the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.61",
+   "text": "By the rich man he meant the Jewish people, who went out of Egypt with riches, of whom he said in the psalm: The rich have been in want and have gone hungry. But we were the camel, who had nothing straight in us, who have now laid down the burden of sins and have entered through the eye of the needle, that is, through the strait and narrow way which led to life. For Judas Iscariot was rich from the price for which he betrayed Christ, but he did not enter the kingdom of heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab33",
+   "text": "CHAP. XX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.62",
+   "text": "The kingdom of heaven is like a man, a householder, who went out early in the morning into the marketplace to hire workers for his vineyard, and he agreed with the workers on a denarius each for the day. And he went out about the sixth and the ninth hour, and did the same; and he also went out about the eleventh hour and found others standing, and said to them: Why do you stand here idle? And they answered: Because no one has hired us; and he said to them: You also go into the vineyard. And when evening came, the Lord said to his steward: Call the workers and pay them their wages, beginning from the last up to the first. So when those who had been called about the eleventh [hour] came, they received a denarius each. And the first also came, hoping that they would receive more, and when they had received a denarius each, they began to grumble against the householder, saying: These last have worked one hour, and you have made them equal to us, who have borne the labour of the whole day."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.63",
+   "text": "The householder is Christ, who hires the workers, that is, who gathers believers so that they may receive a reward. The vineyard is the cultivation of the law. The denarius is eternal life. And those whom he said worked from the first hour are the virgins, who say that they have borne the labour of the body and the heat of the flesh. The marketplace is understood as this world; and those who came to the work late are the continent. And when he says they received their wages in the evening, this means that at the coming of Christ the chaste will receive the reward of their labour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab34",
+   "text": "CHAP. XXI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.65",
+   "text": "And they brought the foal of an ass, and he sat on it; and [they were] laying their garments in the road, and others were cutting branches from the trees and throwing them before him. And the crowds went before him, saying: Hosanna to the Son of David."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.66",
+   "text": "The foal of an ass which he mentioned signifies a new people; that is, ours, which also has known the manger of its Lord, that is, the altar, where we gather food. And the crowd which he described throwing down their garments means that the multitude of believers, stripping off the old man, will cast themselves down. The trees are the same men. And the branches cut from the trees are the sins which were flourishing in us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab35",
+   "text": "CHAP. XXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.68",
+   "text": "Hear, he says, another parable. There was a certain householder who planted a vineyard, and put a hedge around it, and dug a pit in it, and built a tower, and let it out to tenants, and himself went abroad. And when the time of the fruits drew near, he sent his servants to those cultivators, to receive of his fruits. But the tenants seized the servants, beat one, stoned another, beheaded another. Again he sent other servants, more than the first, and they did likewise to them. Last of all he sent them his only son, saying: Perhaps they will respect my son; and him too they seized and slew."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.69",
+   "text": "The householder he mentions shows the likeness of the Father. The vineyard which he said he planted anew is the new law. The tower is the Church. The pit is baptism. The tenants are the Jews. The hedge is faith; the servants whom he said were killed are understood as the prophets. The later ones whom he said were sent are the apostles, of whom the one beheaded is John. And last of all they killed the Son, namely Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab36",
+   "text": "CHAP. XXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.70",
+   "text": "Render, he says, to Caesar the things that are Caesar's, and to God the things that are God's."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.71",
+   "text": "We are commanded in persecution to render to Caesar the things that are Caesar's, that is, the body, over which he has power; to render to God the things that are God's, namely the spirit and faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab37",
+   "text": "CHAP. XXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.72",
+   "text": "There were, he says, among us seven brothers. The first of them took a wife and died leaving no children, and left his wife to his brother. Likewise also the second, and the third, and the fourth, up to the seventh; and last of all the woman also died. In the resurrection, then, whose wife of them will she be? For all seven had her as wife."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.73",
+   "text": "The seven brothers he mentions signify seven patriarchs, who are the seven books of Moses. Their wife is the Synagogue. And though the seven patriarchs, coming together with her, poured into her the seed of the name of Christ, she never conceived faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab38",
+   "text": "CHAP. XXV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.74",
+   "text": "And kingdom will rise against kingdom, and nation against nation, and there will be famines and earthquakes in various places. But all these things will be the beginnings of groaning and pain. Then they will deliver you to death. And then many will be made to stumble, and will deliver one another to death, and many false prophets will arise and lead many astray, and because of the abundance of crimes the love of many will grow cold; but whoever perseveres to the end, he will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.75",
+   "text": "What is called kingdom against kingdom means that the devil dares to stir up heresies against the kingdom of Christ. Famines and earthquakes means that some men, who are understood as the earth, suffer famine, that is, having neither the Spirit of God nor understanding, they are drawn away into heresies; and they will deliver themselves, he says, to death; and false prophets, he says, will arise, such as Amapobius, who deceived many."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab39",
+   "text": "CHAP. XXVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.77",
+   "text": "Then, he says, let those who are in Judaea flee to the mountains; and let him who is in the field not turn back to his garment. And woe to those who are pregnant and nursing in those days. And pray that your flight may not be in winter or on the sabbath."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.78",
+   "text": "Judaea, namely, is the holy land, that is, chaste men, who have sanctified their flesh. Let them flee, he says, to the mountains, that is, to the teaching of the apostles. And let him who is in the field not turn back to his garment; that is: let him who is in the world not turn back to the old man. And woe to those who are pregnant and nursing, that is, whichever of the brethren conceives the avarice of priests, as if pregnant, woe will be his. He will be nursing who has not taught the commandments of Christ rightly; he has given drink not with food but with milk. And by winter he indicates the time of seizing men; likewise, as it is not lawful for the Jews to flee on the sabbath. But he does not now permit departing from the city. So let us too pray that we may be able to flee the world, so that we are not overtaken by the Antichrist, as by winter or the sabbath."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab40",
+   "text": "CHAP. XXVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.79",
+   "text": "Then, he says, the kingdom of heaven will be reckoned like ten virgins, who took their lamps and went out to meet the bridegroom and the bride. Five of them were foolish, and five wise: the foolish, having taken their lamps, did not take oil with them in their vessels. But the wise took [oil] in their vessels with their lamps."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.80",
+   "text": "The ten virgins he mentions: we call [five of them] the names of the five wise, that is, hope, faith, love, chastity and almsgiving. The vessels are their dwellings, that is, the men in whom they dwell. Full of oil, he says, that is, spiritual grace. The lamps are the watchfulness of the spirit. Going to meet the bridegroom, that is, Christ. The foolish are the opposites of these: [one, of those] who hope for what they see; another, unbelief; the third, without love; the fourth, carnal; and the fifth, fruitless: their lamps too are put out, because they have no oil, that is, spiritual grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab41",
+   "text": "FROM LUKE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab42",
+   "text": "CHAPTER I."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.81",
+   "text": "And so a son will be born to you; you will call his name John; and many will rejoice at his birth; and he will not drink wine or strong drink."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.82",
+   "text": "The wine which John is forbidden to drink is understood as luxury. Strong drink is the juice of the date; by which he means nothing other than the sweetness of the flesh. Therefore let spiritual men flee this kind of drink."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab43",
+   "text": "CHAP. II."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.83",
+   "text": "Do not say, We have Abraham as father. For I say to you that God is able from these stones to raise up children to Abraham. Even now the axe is laid to the roots of the trees. Every tree, therefore, that does not bear good fruit will be cut down and thrown into the fire."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.84",
+   "text": "The stones he mentions are understood as the Jews, because of their hardness and unbelief: from whom he raised up children of Abraham, that is, the apostles; or [they are] the hardness of the gentiles, from whom he crowned the martyrs. The trees are understood as men, to whom the axe is laid, that is, the sharp edge of both Testaments, whose handle is understood as the cross."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab44",
+   "text": "CHAP. III."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.85",
+   "text": "No one, he says, will light a lamp and put it under a bushel, or under a vessel. But he will put it on a lampstand, so that all who come in may see."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.86",
+   "text": "The lamp is Christ, who said, I am the light of this world; or [it is] his commandments, which enlighten our hearts. The vessel is understood as this world. The bushel, namely, [as] heresies. The lampstand, however, [as] the truth which shows forth the light. Therefore let us not hide this lamp, that is, the commandments of Christ, from the world, but let us put it on the lampstand, so that it may give light (he says) to all who enter the house, that is, the Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.ab45",
+   "text": "CHAP. IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.87",
+   "text": "And Jesus went up onto a mountain to pray; and while he prayed, the appearance of his face was changed: and his garment became white, shining like snow. And behold, two men were talking with him: they were Moses and Elijah, appearing in glory. And they spoke of his departure, which he was to accomplish in Jerusalem. But Peter, and those who were with him, were heavy with sleep, and on waking they saw his glory, and the two men who stood with him, and they said to Jesus: Master, it is good for us to be here, and let us make three tabernacles, one for you, and one for Moses, and one for Elijah, not knowing what they were saying."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0034a.stoa001.opp-lat1.88",
+   "text": "Christ on the high mountain of wisdom, through the exercise of spiritual words, is understood, and believed, and worshipped as God the Word, according to the form of God. His garment, which became shining like snow, is the words and letters of the Gospels, with which Jesus is clothed. Moses, that is, the law, and Elijah, that is, the prophets, [are] talking with Jesus. But if anyone understands the spiritual law as agreeing with the words of Jesus, and the wisdom hidden in mystery in the prophets, he sees Moses and Elijah in glory, when he sees them one with Jesus. For if Christ, and the law, and the prophets are at one, then Christ too is proved to be the Son of God; and the law and the prophets are found to have prophesied truly, since the law and the prophets bore witness concerning Christ, foretelling the things that were to come concerning Christ; and Christ bore witness to the law and the prophets, that they prophesied truly, fulfilling their prophecy in the events themselves. It is good for us to be here, and let us make three, etc., that is, let us cleave to these three joined together, namely, Christ, Moses, and the prophets. For in the mouth of these three every judgement stands. Those who strive to separate them will be not knowing what they say."
+  }
+ ]
+}
