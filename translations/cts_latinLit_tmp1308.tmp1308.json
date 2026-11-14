@@ -1,0 +1,978 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1308.tmp1308",
+ "edition_urn": "urn:cts:latinLit:tmp1308.tmp1308.ai-claude",
+ "source_edition": "tmp1308.tmp1308.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Concordia Quorumdam Testimoniorum: AI translation (Claude)",
+  "author": "Gregorius I Magnus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1308.tmp1308.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.head": "Section I: the text cites Rom. 1 'verse 6' for 'Paul, a servant of Jesus Christ', which is Rom. 1:1. Line 5: 'the fear of servitude, which has punishment, casts out perfect charity' is translated as printed; it inverts 1 John 4:18 (perfect charity casts out fear) and the text may be corrupt. Line 11: the opening sentence is garbled in the edition ('qui non contristari cum justum... etsi contristari cum justus erat debuerat'); translated by the evident sense. Line 15: 'Si enim... damnant' lacks a clear apodosis; rendered as a hypothetical. Line 16: 'quia futura tempora non electionis divinae, sed ipsa omnium futurorum naturalium causa erat' is obscure; rendered as 'future times were not the cause of the divine election, but [the election] was itself the cause of all future natural things'. 'Nam si mali non essent, nullae rei utique prodessent' is also unclear in sense. Line 12: 'Iscarioth' is an editorial supplement beside 'Scarioth'.",
+  "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.22": "Line 24: the clause 'per justitiam autem fidei qui justificantur fide, per charitatem, opera demonstrantur' is awkward and probably corrupt; rendered by sense. The claim that 'Sadducees' means 'the justified' in Latin is the author's etymology. 'Ubi est ergo gloriatio tua exclusa est' read as 'Where then is your boasting? It is excluded.' Line 30: the edition gives Hosea 8:2; the verse is 8:4. Lines 43-45: Job 26:2 is spoken by Job, not Elihu, though the author attributes it to Elihu; 'Gliu' read as 'Eliu'. Line 45: 'spiritus' in 'increpando fallaciter spiritus pro Deo satagunt' is odd and may be corrupt. Line 47: the quotation is 1 Cor 3:13, not 3:15.",
+  "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab36": "In 50, 'Omnis enim... per ignem salvabitur' seems to echo Mark 9:49 ('omnis enim igne salietur', 'everyone will be salted with fire'). In the same passage, 'Illi vero qui licet baptizati sunt' is incomplete; the bracketed '[loved darkness]' supplies the evident sense. In 57, the Ecclesiastes citation 'II, 4' should be 2:24. Also in 57, 'in hac enarrabatur etiam virtus fortium' is obscure and may be corrupt. In 61, 'Tathan' is read as 'Nathan', and the stray 'valde' before 'vende' is read as 'vade' ('go'). In 61, 'aliqua namque consilia infra mandata qui implet' is syntactically loose; the rendering given is tentative. The Psalm reference 'nIX' in 65 is read as 59 (Vulgate numbering).",
+  "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.67": "Section number 'XX.' appears twice in the edition; the second should evidently be XXI. Philippians 3:13 is given with 'convalescens' ('growing strong') where the Vulgate has 'extendens'; translated as the text stands. In the answer to XXIV the final sentence ('who neither in the Holy Spirit nor in adversity tells good things of himself') sits awkwardly with the argument, which seems to require 'who tells good things of himself only in the Holy Spirit and in adversity'; the text may be corrupt (perhaps 'nisi' for 'nec'). 'Investigabiles' is taken in the Vulgate sense 'unsearchable'. Scanning errors corrected silently (e.g. 'consummavit' for 'consummavi', 'saturan et csurirc' for 'saturari et esurire').",
+  "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab75": "Several scripture references are off in the edition: 'Ad Thess. II (Vers. 18)' is 1 Thess. 2:18; 'Ad Thess. IV (Vers. 13)' is 1 Thess. 4:16; 'Apocal. VII (Vers. 6)' is Rev. 8:6; Ps. 113:3 is Vulgate numbering (Ps. 115:3 in Hebrew numbering). The Gospel cited in section XXIX is Luke 11:42; the edition prints '[Lucam| Marcum', rendered 'Luke [or] Mark'. Footnote letters (a)-(g) omitted; obvious scanning errors corrected silently. The last sentences of section XXVI ('quasi discordando...'; 'quatenus est perfecta, sed idcirco pii Domini et justitia judicis laudanda sit') appear corrupt; translated literally. In XXVIII question, 'cum venia' is obscure; rendered 'with pardon'. 'vitam vitam' in the final line is a dittography.",
+  "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab91": "Scanning errors corrected silently where evident (e.g. 'intente et ipsum solum' read as 'inter te et ipsum solum'). In XXXII the clause 'Sicut est, videt in se' is obscure as transmitted and is rendered literally; the text may be corrupt. 'non in sua propria natura monstrabatur, sed etiam per creaturam' is awkward ('sed etiam' where 'sed' alone is expected); rendered as it stands. In XXXIV 'per veram praesentiam' makes little sense; it has been read as 'per veram poenitentiam' ('through true repentance'), which is uncertain. The (a) and (b) are footnote marks from the edition and have been omitted."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.head",
+   "text": "ON THE AGREEMENT OF CERTAIN TESTIMONIES OF HOLY SCRIPTURE, BY SAINT GREGORY THE GREAT, ROMAN PONTIFF."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab1",
+   "text": "I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.2",
+   "text": "To the Romans 1 (verse 6): Paul, a servant of Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.3",
+   "text": "In the holy Gospel according to John 15 (verse 15): I will not call you servants, but friends."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab2",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.4",
+   "text": "Why is it that Christ the master, in another place, did not call the apostles servants but friends, and yet a disciple of the same master, indeed an apostle, in whom Christ spoke, named himself a servant? And since both were said by Christ, how this ought to be understood must be carefully considered, especially since the same Lord and our Saviour said to the same apostles, according to Luke: Say, We are useless servants, because we have done what we ought to do (Luke 17:10). And again: Well done, good and faithful servant (Matthew 25:21, 23; Luke 19:17). And again: Blessed is that servant whom the Lord, when he comes, finds doing so (Matthew 24:46; Luke 12:37)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab3",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.5",
+   "text": "Without prejudice to any other, better opinion, it should be known that there are two kinds of good service: one of fear, the other of love; one of fearful handmaids and servants, the other of loving sons who seek to please. For the handmaid fears that she may be flogged; the matron fears that she may offend the mind of her husband. But the fear of servitude, which has punishment, casts out perfect charity. The perfect fear of service, however, not only has no punishment, but even arrives at joy itself, as the psalmist attests, who says: Let my heart rejoice, that it may fear your name (Psalm 85:11). And again: The fear of the Lord is holy, enduring for ever and ever (Psalm 18:10). For this fear the holy angels also have, and the holy apostles certainly had it, namely through the coming of the Holy Spirit, through whom charity is poured forth in our hearts. Therefore they were called by the Lord not servants but friends; and yet they were called servants both by themselves and by the Lord, assuredly not out of fear, but out of the love of pleasing God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab4",
+   "text": "II."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.6",
+   "text": "To the Romans 1 (verse 1): Set apart for the Gospel of God. And according to John 17 (verse 11): Holy Father, keep in your name those whom you have given me, that they may be one."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab5",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.7",
+   "text": "And since Saint Paul believed that he had been made one with those who were kept, why is it that he declares himself set apart? For he is called 'set apart' (segregatus) who has been separated from the flock (grex), especially since the Lord said: And there will be one flock and one shepherd (John 10:16). And the Holy Spirit in the Acts of the Apostles spoke in command: Set apart for me Paul and Barnabas for the work to which I have called them (Acts 13:2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab6",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.8",
+   "text": "It must certainly be known first of all that these testimonies not only do not disagree with one another, but even agree with one another in unity. For Paul and Barnabas were not separated from the flock but gathered into it (gregati), that is, they had been chosen for the work of apostleship. For those who had one heart and one soul with the flock could never have any separation. And yet those who had been chosen for apostleship were separated from the flock. For the hands too are stretched out to work, but nevertheless they are not separated from the unity of the body."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab7",
+   "text": "III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.9",
+   "text": "To the Romans 9 (verse 1): My conscience bearing me witness in the Holy Spirit, that I have great sorrow and continual pain in my heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.10",
+   "text": "In the Proverbs of Solomon 12 (verse 21): Whatever happens to him will not sadden the just man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab8",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.11",
+   "text": "What then? Was the apostle Paul not just, he who knew that the just man is not saddened by whatever happens to him? And if he ought to have been saddened, since he was just, why did he commend joy to the Philippians, repeating it and saying: Rejoice in the Lord always; again I say, rejoice (Philippians 4:4)? But Saint James too commands us to rejoice in various trials (James 1:2). And Paul himself also glories in his tribulations (2 Corinthians 12:9), and Saint Matthew the Evangelist testifies of our Lord and Redeemer, saying: Then he began to be saddened and sorrowful. My soul is sad even unto death (Matthew 26:37; Mark 14:33)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab9",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.12",
+   "text": "It must certainly be known that to be saddened according to God is one thing, according to the world another, as the same Paul says: To be saddened according to God works lasting salvation; but the sadness of the world works death (2 Corinthians 7:10). The latter is despairing, the former praiseworthy; filled with the latter, Judas Iscariot hanged himself with a noose; that he had the former, Saint Paul wrote to the Corinthians, saying: If anyone has saddened me, he has not saddened me, but in part (2 Corinthians 2:5); as if he were saying more plainly: I am not the only one who has zeal for God, but I see that I, saddened, share in part in your sadness. And unless this sadness were not a vice but a virtue, the Lord would by no means call it blessed in the Gospel, saying: Blessed are those who mourn, for they shall be comforted (Matthew 5:5); and he called himself sad according to his humanity, certainly not according to his impassible divinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab10",
+   "text": "IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.13",
+   "text": "To the Romans 9 (verse 11): Of Jacob and Esau. When they had not yet been born, nor done anything good or evil, so that the purpose which was made by God's election might stand, not from works but from him who calls, it was said that the elder will serve the younger."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.14",
+   "text": "In Psalm 61 (verse 13): For you will render to each according to his works."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab11",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.15",
+   "text": "Since it was said, not from works but from him who calls, The elder will serve the younger, how will God render to each according to his works? Why then did Paul say: Not from works? We believe without doubt that [he meant] certainly not from future [works], nor does anyone suppose that he spoke only of past ones, which certainly did not exist when the aforesaid were distinguished. For if so, future good things would justify a man in the present, and another man's future evil things would condemn him. But far be it from us to believe this, because a certain wise man said: The just man was taken away, lest wickedness should change his understanding (Wisdom 4:11). For indeed he would not even be called just if he were condemned for a wickedness still to come."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab12",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.16",
+   "text": "Before we say anything about this question, let us believe that the prophet and the apostle spoke by the same Spirit. For the same Spirit, who filled both, could not be contrary to himself; and the Spirit himself, who is God, spoke through the prophet: Jacob I have loved, but Esau I have hated (Malachi 1:2). God's election, then, had never been lacking, which distinguished the things that were done in time; because future times were not the cause of the divine election, but [the election] was itself the cause of all future natural things. Hence our Redeemer said to Ananias concerning Saul, not yet Paul: Do not fear him, for he is a vessel of election to me (Acts 9:15). Notice that he said 'is', and not 'will be'. For he was not chosen because he was an apostle, but he was an apostle because he was chosen. Our God, then, is the creator of all good things, but the most just orderer of evil things (Romans 9). For he is so good to all that he does good even out of evil things. For if there were no evil men, they would certainly profit nothing. God will therefore render to each according to his works, because to the vessels prepared for honour he will render eternal life, and to those fitted for dishonour, due damnation. For the wicked too, if they wished, could certainly have been good. But the good, who are born of Adam, see a contrary law in their members, so that these, by not consenting, may through mercy come to their rewards, and those, by consenting, may through just judgement be dragged to punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab13",
+   "text": "V."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.17",
+   "text": "To the Romans 10 (verse 13): Everyone, whoever calls upon the name of the Lord, will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.18",
+   "text": "And according to Matthew 7 (verse 21): Not everyone who says to me, Lord, Lord, will enter the kingdom of heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab14",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.19",
+   "text": "These seem discordant, but we wish to know how they are to be understood. For there he said 'everyone'; here he said 'not everyone'. If, then, everyone whoever calls upon the name of the Lord will be saved, how is it that not everyone who repeats the name of the Lord will be saved?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab15",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.20",
+   "text": "To call upon the name of the Lord is one thing, to repeat it another. For the good always call upon it, but the wicked repeat it, because the same voice of faith that they utter in speaking they destroy by their conduct. Hence Paul says of certain people: They profess that they know God, but in their deeds they deny [him] (Titus 1:16). For the good, to call upon the name of the Lord is to please him in all things. Therefore everyone, whoever calls upon the name of the Lord, will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab16",
+   "text": "VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.21",
+   "text": "To the Romans 4 (verse 2): If Abraham was justified by works, he has glory, but not before God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.22",
+   "text": "In the Epistle of James 2 (verse 21): Was not Abraham, our father, justified by works?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab17",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.23",
+   "text": "Even if Abraham was justified by works, before whom does he have glory, if not before God, whose friend he was called by James? And if there is no true glory except before God, and no true justification except from him, who that is justified has glory without God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab18",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.24",
+   "text": "The apostle Paul wrote against the Sadducees, but Saint James spoke about the righteousness of faith. Those [Sadducees] justified themselves by the works of the law, for in the Latin tongue \"Sadducees\" means \"the justified\". But those who are justified by faith through the righteousness of faith show [it by] works through charity. For as the same James says: Faith is dead without works, of charity, not of the law (James 2:26). But Saint Paul directs his words against one who has glory, but not before God, and against the Sadducee who justifies himself, saying: Where then is your boasting? It is excluded. By what law? Of works? No, but by the law of faith; for we hold that a man is justified without the works of the law (Romans 3:27). As if he were saying plainly: Abraham, our father, had lived before the times of the law, but he had nevertheless been justified before the Lord, because he showed by works the faith that he held in his heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab19",
+   "text": "VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.25",
+   "text": "To the Romans 11 (verse 29): For the gifts and the calling of God are without repentance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.26",
+   "text": "In Genesis 6 (verse 7): It repents me that I made man; and in Samuel, 1 Kings 15 (verse 11): It repents me that I anointed Saul as king."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab20",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.27",
+   "text": "Since one and the same Lord spoke in the fathers and in the Apostle, how is he said by them both to have repented and not to have repented?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab21",
+   "text": "565 ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.28",
+   "text": "We must observe carefully that the fathers spoke of the unchangeable God doing changeable things, while the apostle spoke of unchangeable predestination. Hence Saint James says of the same Lord: With whom there is no change, nor shadow of alteration (James 1:17). But God does changeable things apart from [any change in his] predestination. For by a fitting usage of speech the Lord is said to be angry, and repentant, and jealous, and foreknowing; but he is understood to be angry without anger, repentant without repentance, jealous without jealousy, foreknowing without forethought."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab22",
+   "text": "VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.29",
+   "text": "To the Romans 13 (verse 1): There is no power except from God, and those that are from God are ordained."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.30",
+   "text": "In the Prophet, concerning certain kings, Hosea 8 (verse 4): They have reigned, and not from me."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab23",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.31",
+   "text": "If there is no power except from God, how was it truly said by him: They have reigned, and not from me? Likewise, if those kings were not from God, how had he said that kings reign through him, saying: By me kings reign (Proverbs 8:15)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab24",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.32",
+   "text": "Kings reign both from him and not from him who both have power given by God and yet foolishly deny that they have received it from him. Hence it is written through the prophet: Who makes a hypocrite reign because of the sins of the people (Job 34:30). Therefore those kings are not from God who have been permitted to reign not out of good, but because of the sins of the people. Again: All power is from none but God, because [power] is not evil in itself, but certainly good. But evils cannot exist without goods, nor except in goods, and therefore they occur only in rational creatures. So the Holy Spirit deigns to speak threateningly to good kings, when it is said to them through the voice of the psalmist: And now, kings, understand; be instructed, you who judge the earth (Psalm 2:10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab25",
+   "text": "IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.33",
+   "text": "To the Romans 14 (verse 14): Now we know that nothing is common of itself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.34",
+   "text": "In the Acts of the Apostles 15 (verse 29): That you abstain from things sacrificed to idols."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab26",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.36",
+   "text": "If nothing is common of itself, what should we think of carrion, and blood, and what is strangled, and what is sacrificed to idols? For these things are not only read to be unclean in the Old Testament, but in the New too the believing Gentiles are commanded by the apostles to abstain from them. Much understanding, therefore, is needed [to see] how this discord can be resolved."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab27",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.37",
+   "text": "Our Lord and Redeemer, according to Mark, said, when he chose to speak about these things: There is nothing outside a man, he said, that can defile him (Mark 7:15). And when the disciples did not understand this, he added rebukingly, saying: Are you also without understanding? Do you not yet understand that everything that 566 enters the mouth goes into the belly and is cast out into the drain (ibid., 18)? So the apostles, still untaught and not yet enlightened by the Holy Spirit, believed with a Jewish mind that it was not prohibitions but things that defiled a man. But things that go into the belly and come out do not defile a man; rather the transgression of a prohibition does, and what proceeds from it. For the first man too was made unclean not because of carrion, or blood, or what was strangled, but because of the fruit, when at his wife's persuasion he transgressed the Lord's command. But let us hear what was said to Saint Peter, so that we may understand what we ought to think about these things. Rise, he said, Peter, kill and eat (Acts 10:13). Peter, looking to the letter, answered this saying: Far be it from me, Lord, for nothing common and unclean has ever entered my mouth (ibid., 14). To him, under the witness of the prohibition, it is at once answered: What God, he said, has purified, do not call common or unclean (ibid., 15). Hence leave was given to Christians, except for what is prohibited in the New Testament, to eat what they wish with moderation and thanksgiving. So carrion or blood are not unclean of themselves by nature, but because they are prohibited, when eaten they defile a man. And the fruit had no natural uncleanness, but eating it, being prohibited, defiled the man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab28",
+   "text": "X."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.38",
+   "text": "1 Corinthians 1 (verse 8): Who will also confirm you to the end without crime at the coming of the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.39",
+   "text": "In 1 John 1 (verse 8): If we say that we have no sin, we deceive ourselves, and the truth is not in us."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab29",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.40",
+   "text": "Since it is self-deception to think oneself without sin, how are we confirmed by the Lord without crime at his coming, especially since even an infant of one day cannot be without sin? Is crime, then, also sin, without which someone can be made confirmed by the Lord?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab30",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.41",
+   "text": "We must certainly know that not every sin is a crime, yet every crime is a sin; just as every impious man is a sinner, but not every sinner is impious. So the least and light [faults] are called sins; but crimes are read of only as great [ones]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab31",
+   "text": "XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.42",
+   "text": "1 Corinthians 3 (verse 9): For we are God's helpers; you are God's husbandry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.43",
+   "text": "And in Job 26 (verse 2): Whose helper are you? Is it of the weak?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab32",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.44",
+   "text": "Does Saint Paul justify with approval what blessed Job condemns in Elihu: Whose helper are you? Is it of the weak? But the Apostle said: We are God's helpers. If then it is good to be God's helpers, why is Elihu rebuked about helping God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab33",
+   "text": "567 ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.45",
+   "text": "Clearly we ought to know that some offend God by defending him; and there are some who, as far as in them lies, defend God's cause. These are truly God's helpers by preaching; those, by rebuking falsely, busy their spirits on God's behalf, but by busying themselves they offend. These speak of God not as unknown but as known [to him]; those, even when speaking true things, are not known by God, as the Lord says of Elihu: Who is this who wraps up sentences in unskilled words (Job 38:2)? Why is it that the Lord asks about him, saying: Who is this who wraps up sentences, and yet in asking reproves him by adding: in unskilled words? He was speaking true sentences, then, but wrapping them in unskilled words, because he turned the sayings of the Holy Spirit about the reprobate against Job, to whom the Lord had borne witness that he was without complaint. We do not say \"God is our helper for ever\" (Psalm 61:9) in the same sense in which we say: We are God's helpers. For he does not need our help, but we can do nothing without him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab34",
+   "text": "XII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.47",
+   "text": "1 Corinthians 3 (verse 13): The fire will test what sort each one's work is."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.48",
+   "text": "According to Matthew 19 (verse 28): When the Son of Man sits on the throne of his majesty, you also will sit on twelve thrones, judging the twelve tribes of Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab35",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.49",
+   "text": "And since the fire will test what sort each one's work is, will the apostles themselves also be tested by fire, who are said not to be judged, but rather to be the judges of the twelve tribes of Israel? Or will the fire also test those with whom Saint Paul numbered himself, saying: But we who are left will be caught up together with them in the clouds to meet Christ in the air, and so we shall always be with the Lord (1 Thessalonians 4:16)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab36",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.50",
+   "text": "If we weigh the force of Christ's words, we bring this obscurity into the light, with him giving the light. For he himself said: I came to cast fire upon the earth, and what do I want except that it be kindled (Luke 12:49)? The Holy Spirit also, descending upon the apostles, appeared in the form of fire (Acts 1), and he, appearing in a sign among the faithful, tested the faithful inwardly like fire. So the fire will test what sort each one's work is, because those whom the spiritual fire does not examine in the present time, it tests by fire at the future judgement. Whoever, then, are led by the Spirit of God, these are sons of God (Romans 8:14), who, although tested by fire, have [already] been examined. For receiving him through the laying on of the bishop's hands, they have in no way strayed from him, but even if they offend in something, they are corrected by acknowledging and confessing [it]. For everyone, says the Lord, will be saved through fire: either he will be tested here by the spiritual fire, or there by the bodily fire. Clearly, then, just as not everyone will be tested by fire on the day of judgement, so on that very same day not all at all will be judged, as the Lord testifies, who says: Whoever believes in the Son will not be judged; but whoever is unbelieving has already been judged (John 3:18). Whom, then, will the future fire test, if God will judge neither believers nor unbelievers? But as if he were asked by us: What then will the judgement be? he at once adds, saying: This is the judgement, that the light has come into the world, and people loved darkness rather than light (ibid.). So only those will be judged on the day of judgement who, although they knew that the light was coming, are nevertheless said to love darkness more. For those who remain in darkness have already been judged, while those who have nothing of darkness belong to the light without any judgement. But those who, although they have been baptized, [loved darkness], will be judged in the future. So judgement will be held concerning these alone, so that it may be shown whether they ought to belong more to the light or to the darkness. These, therefore, will rise again to be judged, the just to judge, the wicked to be condemned; for the wicked too will rise, but not in judgement, as the psalmist testifies, who says: The wicked do not rise in judgement (Psalm 1:5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab37",
+   "text": "XIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.51",
+   "text": "1 Corinthians 4 (verse 5): Do not judge before the time. Philippians 3 (verse 18): Many walk, of whom I often told you, and now tell you even weeping, [that they are] enemies of the cross of Christ, whose end is destruction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab38",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.52",
+   "text": "Since the apostle Paul, speaking to the Corinthians, forbade judging before the time, why does he himself seem, as if judging before the time, to say of certain people: Whose end is destruction?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab39",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.53",
+   "text": "Christ, speaking in Paul, already recognizes future things as if they were past, and therefore, even with Paul speaking, he judged nothing before the time. For the Holy Spirit too, through the apostle Peter, says to Simon Magus: You have no part nor lot in this life (Acts 8:21), because the future of Simon Magus had been revealed to Peter in the Holy Spirit as if it were past. But those by whom future things are not at all seen as past are forbidden by the Lord to judge before the time; of whom it is also said by way of rebuke through the prophet: Woe to those who prophesy from the heart (Ezekiel 13:17). For to prophesy from the heart is to say something out of mere presumption, not through the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab40",
+   "text": "XIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.54",
+   "text": "1 Corinthians 7 (verse 7): I want all people to be as I myself am."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.55",
+   "text": "And 1 Timothy 5 (verse 14): But I want the younger [women] to marry, to bear children, to be mothers of households."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab41",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.56",
+   "text": "Did Saint Paul have two wills contrary to each other, who said that he wanted one thing to the Corinthians and another to Timothy? For he seems to have spoken to the Corinthians about not marrying, but wrote to Timothy about marrying: there he wanted all people to be as he was; here he writes that he wanted the younger to marry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab42",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.57",
+   "text": "We must carefully observe that Saint Paul was a preacher of the Church, and had already delivered different discourses in the persons of many. For there he spoke in the person of virgins: I want all people to be as I myself am. Here he wrote in the person of those wishing to marry: I want the younger to marry, to bear children, to be mothers of households. Just as Solomon too speaks in the persons of many in Ecclesiastes, which in the Latin tongue is rendered 'preacher'. For there, in the person of certain people saying [so], he wrote: Is it not better to eat and drink (Ecclesiastes 2:24)? But in the person of the perfect he added, saying: It is better to go to the house of mourning than to the house of feasting, for in it the end of all people is called to mind (ibid. 7:3); in this also the virtue of the strong was set forth. So by the wonderful dispensation of the Giver it comes about that even among the married the elect receive the reward of virginity, although not all can be virgins. For a perfect will to do is counted as the work done. Hence, when the Lord was born, the holy angels said: Glory to God in the highest, and on earth peace to people of good will (Luke 2:14). What, then, each of us does willingly in himself, this he will receive from the Lord, as if on behalf of all people. But the ill-willed, on the other hand, should consider lest he be condemned as if for the evils of all the wicked; for as he is merciful, so he is also just. Paul, therefore, praised both marriage and virginity, but preferred virginity to marriage, saying: He who joins his virgin in marriage does well; but he who does not join [her] does better (1 Corinthians 7:38). Since, then, he saw in the Spirit that both were good, he certainly wanted both to be done."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab43",
+   "text": "XV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.58",
+   "text": "1 Corinthians 7 (verses 10, 11): To the rest I say, not the Lord: that a wife should not depart from her husband; but if she does depart, [she should] remain unmarried."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.59",
+   "text": "And 2 Corinthians 13 (verse 3): Or do you seek proof of him who speaks in me, Christ?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab44",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.60",
+   "text": "If Christ spoke continually in the apostle Paul, why then does he admit that he says something and not the Lord?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab45",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.61",
+   "text": "If we bring two prophets into the discussion, we shall quickly resolve this discord. David, indeed, showed by questioning another prophet that he did not continually have the spirit of prophecy. And Nathan, concerning the building of the temple, declared that he too did not have the spirit of prophecy at that hour, by saying: Do all that is in your heart, for the Lord is with you in all things (2 Kings 7:3). But the Holy Spirit, coming, forbade the temple to be built by a man of blood given to war, and through the same Nathan opposed this being done by David (ibid.). So the counsels of those who do not continually have the spirit of prophecy are sometimes to be set aside, sometimes not. For Nathan's counsel had to be set aside by David, but the counsel of the apostle Paul ought always to be kept by Christians. For as to certain counsels: whoever fulfils what lies within the commandments is merely just, but whoever goes beyond [them] is already perfect. For giving counsel the Lord says: If you wish to be perfect, go, sell all that you have and give to the poor, and come, follow me, and you will have treasure in heaven (Matthew 19:21). And the same Paul, having the same Spirit, gave counsel: Concerning virgins I have no command of the Lord, but I give counsel (1 Corinthians 7:25). These counsels are certainly not among the commandments, but above the commandments, and therefore they gain greater rewards."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab46",
+   "text": "XVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.62",
+   "text": "1 Corinthians 10 (verse 13): God is faithful, who will not allow you to be tempted beyond what you are able."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.63",
+   "text": "And 2 Corinthians 1 (verse 8): We do not want you to be ignorant, brothers, of our affliction which came upon us in Asia: that we were burdened beyond measure and beyond [our] strength."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab47",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.64",
+   "text": "If we are burdened beyond [our] strength, how does God not allow us to be burdened? Again, if we are not burdened beyond [our] strength, how are we said to be burdened beyond [our] strength?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab48",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.65",
+   "text": "To resolve this discord more quickly, let us turn to another prophetic testimony, where it says: For vain is the salvation of man; in God we shall do mightily (Psalm 59:13-14). We are often said, then, to be burdened beyond human frailty, because the salvation of man is vain; but we are never burdened beyond the strength of God, because he is the physician. So the sick man under the physician's hands sometimes weeps, because he does not know how he may come to health; but the wise physician often cuts, so as to bring the sick man to health. Paul, therefore, looking at his own frailty, said that he was burdened beyond [his] strength, but further on he says: I can do all things in him who strengthens me (Philippians 4:13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab49",
+   "text": "XVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.66",
+   "text": "2 Corinthians 5 (verse 16): And if we have known Christ according to the flesh, yet now we no longer know [him] according to the flesh."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.67",
+   "text": "According to Luke 24 (verse 39): Handle and see, for a spirit does not have flesh and bones, as you see me have."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab50",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.68",
+   "text": "How do the words of the disciple agree with the words of Christ his master? We read that Christ said this after the resurrection, and of that very same time Paul says: But now we no longer know [him]. What then? Does the Apostle deny that he knows what Christ declares?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab51",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.69",
+   "text": "We know that our God and Redeemer lived according to the flesh, that is, that without any sin he showed himself a true man in all things; but after the resurrection we no longer know [him so], because we believe that his flesh, which is to live for ever, remains without the support of food. So we read that before the passion he was hungry and thirsty and tired from the journey, and that by the passion itself he was made lower than the angels; but now that angels, powers and virtues are subject to him, we no longer know him to do these things. The Lord, then, declares that he has true flesh after the resurrection, but Paul no longer knows it now as it was before the passion. But Paul brought forward this testimony, once the old man has been put off, so as to suggest to us the pattern of renewal, saying: That as Christ rose from the dead, so we too may walk in newness of life (Romans 6:4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab52",
+   "text": "XVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.71",
+   "text": "2 Corinthians 11 (verse 5): For I think that I have done nothing less than the great apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.72",
+   "text": "1 Corinthians 15 (verse 9): I am the least of the apostles, who am not worthy to be called an apostle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab53",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.73",
+   "text": "Since Paul declares that he is the least of the apostles, why does he testify that he has done nothing less than the great apostles?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab54",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.74",
+   "text": "It must be understood that Paul had no present crimes, and for that reason, for the sake of humility, he brought back to memory sins already forgiven: I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the Church of God (1 Corinthians 15:9). But when speaking of heretics and false apostles, he declares that he has done nothing less than the great apostles. So among the apostles who did well he was the least through humility, but against the vices of the offending false apostles he was raised up by zeal for justice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab55",
+   "text": "XIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.75",
+   "text": "Galatians 1 (verse 1): Paul, an apostle not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.76",
+   "text": "1 Timothy 2 (verse 5): The mediator of God and men, the man Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab56",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.77",
+   "text": "Was not Paul called to the apostleship through the man Jesus Christ, he who calls himself an apostle not from men nor through man?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab57",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.79",
+   "text": "That is, not through the presence of [Christ's] humanity before the passion, but he was chosen as an apostle by the one calling [him] after the resurrection, when the Lord said to Ananias: Do not fear him, for he is a vessel of election to me (Acts 9:15)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab58",
+   "text": "XX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.80",
+   "text": "Galatians 1 (verse 10): If I still pleased men, I would not be a servant of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.81",
+   "text": "1 Corinthians 10 (verse 33): As I please all men in all things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab59",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.82",
+   "text": "If Paul pleases all men in all things, how would he, by pleasing men, not be a servant of Christ?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab60",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.84",
+   "text": "Paul pleases and does not please: for he pleases in things not forbidden, but in things forbidden he did not please at all. For he became all things to all men, that he might gain all (1 Corinthians 9:19)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab61",
+   "text": "XX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.85",
+   "text": "Ephesians 2 (verse 3): And we were by nature children of wrath, like the rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.86",
+   "text": "In Genesis (verse 31): And God saw all the things that he had made, and they were very good."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab62",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.87",
+   "text": "Since the things God created are blessed and all very good, how did Paul write that men are children of wrath by nature?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab63",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.88",
+   "text": "Almighty God is the creator of all natures, and every nature, in so far as it is a nature, is good. But a habit strengthened over a long time in a way acquires the force of nature. Hence Paul says: We were by nature children of wrath; as if he were saying plainly: When we were healthy, we became sick, and from that very bad habit we were children of wrath as if by nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab64",
+   "text": "XXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.89",
+   "text": "Ephesians 3 (verse 8): To me, the least of all the saints, this grace was given, to preach among the Gentiles the unsearchable riches of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.90",
+   "text": "In Psalm 9 (verse 1): I will confess to you, Lord, with my whole heart; I will tell all your wonders."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab65",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.91",
+   "text": "What is this? Could all the wonders of God be told even by the prophet himself, when the apostle Paul wrote that the riches of Christ are unsearchable? And how is Paul himself not contrary to himself in saying that he preaches the unsearchable riches of Christ?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab66",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.92",
+   "text": "So all the wonders of the Lord are told, and the riches of Christ are unsearchable, because in the telling all things are embraced together in brief, and yet they are known in part by those who see in a riddle. For when anything is told about God, or about the present age or the age to come, all things are embraced together in a brief statement, and that they exist is heard by the hearers. But how they are or of what kind they are is not understood even by the preachers. Hence the outstanding preacher says: O the depth of the riches of the wisdom and knowledge of God! How inscrutable are his judgements, and unsearchable his ways (Romans 11:33). But the Psalmist, in order to tell all things together, says of the Lord: All things whatsoever he willed he made; he told not only of the Creator, but also of what kind the creatures themselves are."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab67",
+   "text": "XXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.93",
+   "text": "Philippians 3 (verse 13): But one thing [I do]: forgetting the things that are behind, and growing strong towards what is to come."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.94",
+   "text": "2 Timothy 4 (verse 7): I have fought the good fight, I have finished the course, I have kept the faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab68",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.95",
+   "text": "And since the Apostle brought these past things back to memory, how did he say that he forgets the things that are behind?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab69",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.96",
+   "text": "The more what is said fits the times and the circumstances, the more quickly it is understood by the hearers. For the apostle Paul listed these things for his own strengthening, because the time of his departure was pressing near. For it is written: In the day of good things do not be unmindful of evil things, and in the day of evil things do not be unmindful of good things (Ecclesiasticus 11:27). So Paul, forgetting the past, was not unmindful of evil things when he said: I am not worthy to be called an apostle, because I persecuted the Church of God (1 Corinthians 15:9). Again, as the day of his departure drew near, he was not unmindful of good things, saying: I have fought the good fight, I have finished the course, I have kept the faith (2 Timothy 4:7). For holy men are accustomed to have this as their own: to call to mind prosperity in adversity, and adversity in prosperity. Hence blessed Job, when he was in prosperity, said that he had feared in this way: For I always feared God like waves swelling over me (Job 31:23). Again, when he was in adversity, he called back to memory the past good things he had done, saying: I was an eye to the blind and a foot to the lame; I was a father of the poor, and the cause which I did not know I investigated most diligently (Job 29:15-16). So holy men say both things by turns, so that they are neither lifted up in prosperity nor broken by despair in adversity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab70",
+   "text": "XXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.97",
+   "text": "Philippians 4 (verses 8-9): If there is any virtue, if any praise of discipline, think on these things, which you have both learned and received and heard and seen in me."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.98",
+   "text": "In the Proverbs of Solomon 27 (verse 2): Let another praise you, and not your own mouth; a stranger, and not your own lips."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab71",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.99",
+   "text": "If no one was permitted to praise himself with his own mouth, why did Paul, listing good things, say of himself: Which you have also seen in me?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab72",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.100",
+   "text": "It is one thing to speak from one's own heart, another in the Holy Spirit. For Paul, in the adversities of prison, recalled in the spirit that he had done good things, and therefore he did not speak with his own mouth; for prosperity ought to be called to mind in adversity. But of the one who speaks of himself, praising [himself] and seeking his own glory, the Truth says: He who speaks of himself seeks his own glory; but he who seeks the glory of him who sent him, he is true (John 7:18). And the same Paul says: Not he who commends himself is approved (2 Corinthians 10:18). That man, then, is assuredly commended who neither in the Holy Spirit nor in adversity tells good things of himself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab73",
+   "text": "XXV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.102",
+   "text": "Philippians 4 (verse 12): Everywhere and in all things I have been instructed; I know both how to be filled and how to be hungry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.103",
+   "text": "In the holy Gospel according to Luke 6 (verse 25): Woe to you who are filled, for you will be hungry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab74",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.104",
+   "text": "Since the Evangelist has related that the Lord said woe to those who are filled, why did the apostle Paul say that he knows how to be filled? Or what great thing is it to know how to be filled and to be hungry, when this seems to be common to all living creatures?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab75",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.105",
+   "text": "The almighty and truthful God said woe to those who are filled, because he saw them intemperate, not knowing how to be filled and not giving thanks. For it is a mark of great discretion to know how to be filled, that is, to take food with moderation and with thanksgiving. For he who eats, says Paul, eats to the Lord, for he gives thanks to God (Rom. 14:6). So those do not know how to be filled who stop eating only when, with the flesh in command, they no longer want to eat. And these, on the contrary, eat to the Lord who, always temperate, give thanks to the giver."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab76",
+   "text": "XXVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.107",
+   "text": "To the Thessalonians 2 (verse 18): I, Paul, wanted to come to you once and again, but Satan hindered us."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.108",
+   "text": "According to Luke 22 (verses 31, 32): Simon, behold, Satan has demanded you, to sift [you] like wheat, but I have prayed for you that your faith may not fail."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab77",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.109",
+   "text": "How is this same Satan not permitted to sift Saint Peter as he wanted, and yet Paul writes as if he could hinder [him] by his own power? And if the apostle Paul agreed in this with the will of God, why did Satan hinder him again?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab78",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.110",
+   "text": "We must know without doubt that the devil always has the will to tempt; but how, and how much, and when he may do it, he lacks the power [to decide]. For the Creator permits him to do something in the world only so far as He had it, before the ages and without limit, in predestination; and because the Lord often tests his saints through Satan, Paul therefore indicates that Satan, as it were, hinders [him]. But meanwhile it must be known that almighty God often carries out the will of his counsel even through the ill will of his servant. Sometimes, however, good servants are allowed to desire things which are not permitted by the Lord in the way they desire them. Abraham indeed wished to obey the command of God, but the same Lord did not permit Isaac to be beheaded, and he rewarded this wholly perfect will by saying: Because you did not spare your only-begotten son, I will bless you and multiply your seed (Gen. 22:16). And David was praised for his will to build the temple, although in fact he did not come to building it (2 Kings 7). And now that we have spoken of these things specifically, let us see how they happen generally. For the plagues of the human race are dispensed by the just judge, but God's elect, already full of charity, do not want them to happen. So they both will against God and do not depart from him, because they give thanks for all plagues. But so that what we say may be clearer, let us proceed by demonstrating with examples. For instance: a son serves his father, whom, because he is dutiful, he does not want to die. And also when we visit the sick whom the Lord chastises, we earnestly pray that they may become well. So when we want these things, we disagree with God's will, as it were, by disagreeing. Likewise, when the Lord commands good to be done for the human race, our will ought to be not contrary but rejoicing with [it], in so far as it is perfect, but therefore the kind Lord and the justice of the judge is to be praised."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab79",
+   "text": "XXVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.111",
+   "text": "To the Thessalonians 4 (verse 13): And with the trumpet of God he will descend from heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.112",
+   "text": "In the Apocalypse 7 (verse 6): And the seven angels who had the seven trumpets prepared themselves to sound the trumpet."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab80",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.113",
+   "text": "And since Christ will descend from heaven with the trumpet of God, with which of these seven is he believed to be going to descend? If with the seventh, how did the others go before? If with the first, how are the others to follow?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab81",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.114",
+   "text": "The sevenfold Spirit descended upon the apostles for this reason: that, having received as it were seven trumpets, they might thunder out to the peoples; and Christ promised their successors, in their person, that he would remain with them until the consummation of the world, saying: Behold, I am with you all days, until the consummation of the world (Matt. 28:20). So the seventh preaching, as the seventh trumpet, belongs to the consummation of the world, because when the sixfold preaching is finished, the last trumpet will sound. For the trumpet, says Paul, will sound, and the dead will rise incorruptible (1 Cor. 15:52). And although one may believe that the seventh preaching is signified by the last trumpet, yet we attend to the Gospel reading, where it says of the Son of Man: And he will send his angels with a trumpet and a great voice, and they will gather his elect from the four winds, from the heights of the heavens to their bounds (Matt. 24:31). For it must be known that a voice like a trumpet was also heard on Mount Sinai, when the people of Israel received the decalogue of God's words; and those who heard it begged to be excused, that it should not happen to them again. But then he spoke wholly through a subject creature, certainly not through his own nature, just as he also spoke to his Son after the same Son had been baptised by John, the Father saying: This is my beloved Son, in whom I am well pleased (Matt. 3:17). What was signified in the voice belongs wholly to the Father's divinity, but the syllables and the sound of the syllables were certainly of creatures. Since, then, the holy angels have such a custom, to clothe themselves in airy bodies, as they could be seen by some of the fathers, nothing at all prevents it being understood that they will sound such a trumpet when they thunder for the last time on the final day, when the bodies of the sleeping dead will be raised."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab82",
+   "text": "XXVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.115",
+   "text": "1 to Timothy 1 (verse 13): But I obtained mercy, because I did it ignorantly in unbelief."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.116",
+   "text": "To the same, ibid. (verse 15): A faithful saying, and worthy of all acceptance, that Christ Jesus came into this world to save sinners, of whom I am the first."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab83",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.117",
+   "text": "Why do you excuse yourself in one place, Saint Paul, and accuse [yourself] in the other, since whatever you committed was through ignorance, [saying] that with pardon you were first of all sinners, especially since you will find that you were not so either in time or in the greatness of your sins?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab84",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.118",
+   "text": "It must be known that sin is committed in three ways: it is done either through ignorance, or through weakness, or by deliberate intent; and more gravely through weakness than through ignorance, and likewise more gravely by intent than through weakness. So you excuse yourself, Saint Paul, by true reasoning, and nonetheless accuse [yourself] by humble confession. As one truly just, you were your own accuser in the one, and giving thanks for the Lord's mercy, you praised the Lord in the other."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab85",
+   "text": "XXIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.119",
+   "text": "1 to Timothy 2 (verse 4): Who wills all men to be saved and to come to the knowledge of the truth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.120",
+   "text": "In Psalm 113 (verse 3): But our God in heaven and on earth has done all things whatsoever he willed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab86",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.122",
+   "text": "Since God has done all things whatsoever he willed, has he then brought the whole human race to salvation? Or if he did not will to do this, how did Saint Paul write that he willed it, saying: Who wills all men to be saved?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab87",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.123",
+   "text": "It must be believed without doubt that God has done nothing in time other than what he foreknew and predestined before time. But this must certainly be understood: that almighty God says in sacred Scripture that he does something which he does not through his own nature but certainly through a creature. As he said to father Abraham, when he wholly did not want Isaac killed: Now I know that you fear God (Gen. 22:12); that is, now I have made you know what I have known without any limit. And as he says of the wicked man in Ezekiel: I do not will the death of the wicked (Ezek. 33:11); that is, I made him unwilling to die; although he himself does that by which he comes to death, I placed in his nature that he should by no means want to die. So the Lord wills all men to be saved, who are certainly created in such a way that they want, though unworthy, always to be safe. Or God wills all men to be saved because he has saved [some] from every rank of the human race, namely kings from among kings, leaders from among leaders, both from men and from women, and from all men whatever. So Paul could speak in this manner of speech when he said: Who wills all men to be saved. For according to the evangelist Luke [or] Mark, the Lord himself also spoke, saying: Woe to you, scribes and Pharisees, who tithe mint and every herb; that is, every kind of herb. For how could they tithe all things, who were wholly unable to gather everything together?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab88",
+   "text": "XXX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.124",
+   "text": "1 to Timothy 2 (verse 12): But I do not permit a woman to teach."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.125",
+   "text": "To Titus 2 (verse 3), concerning women: Teaching well, that they may teach prudence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab89",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.126",
+   "text": "Since the apostle Paul does not permit a woman to teach at all, why, writing about women, did he say teaching well, that they may teach prudence?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab90",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.127",
+   "text": "We ought not to be held up too long over plainer matters, so that we may be free to linger somewhat more broadly over the more obscure. So the women were called teaching well, [teaching] not men but their younger women. That they may teach prudence, he says, so that by their teaching they may act with their daughters in such a way that they come to eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab91",
+   "text": "XXXI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.128",
+   "text": "1 Timothy 5 (verse 20): Rebuke those who sin before all, so that the rest also, seeing [it], may have fear."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.129",
+   "text": "According to Matthew 18 (verse 15): If your brother sins against you, go and reprove him between you and him alone."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab92",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.130",
+   "text": "Since, at the disciple's dictation, one who sins is to be rebuked before all, why did the master of truth himself say between you and him alone?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab93",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.131",
+   "text": "We shall settle this question more quickly if we consider more carefully the force of the words. There he said those who sin, but did not add against whom; here he said, if he sins against you. So if your brother has sinned against you in secret, and you want to rebuke him before all, you are not a corrector but a betrayer. But rebuke before all those who sin against God, so that you join the word rebuke to the expression that follows. Hence Paul says: When Peter had come to Antioch, I opposed him to his face, because he was not walking rightly toward the faith of the Gospel (Galatians 2:11). And a little after: I said to Peter before all; as if he had said, because he had practised dissimulation before all: If you, he says, though you are a Jew, live like a gentile and not like a Jew, how do you compel the gentiles to live like Jews (ibid., 14)? So secret sins can be reproved in secret, and public sins ought to be rebuked before all, so that the rest also may have fear. For whatever stirs the minds of others is by no means to be passed over in silence, but is to be brought forward with great humility."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab94",
+   "text": "XXXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.132",
+   "text": "1 Timothy 6 (verse 16): Whom no man has seen, nor indeed can see."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.133",
+   "text": "And 1 John 3 (verse 2): We know that when he appears, we shall be like him, for we shall see him as he is."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab95",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.134",
+   "text": "Since the apostle Paul said that no man has seen God, nor indeed can see [him], how did Saint John write: for we shall see him as he is?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab96",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.135",
+   "text": "In these two testimonies the two holy apostles are wholly at variance, but in being at variance they truly agree. But meanwhile it must be known that almighty God was not shown to the ancient fathers in his own proper nature, but also spoke through a creature with Moses, as a friend with a friend. For no one, he says, shall see me and live (Exodus 33:20). This certainly accords fittingly with what the apostle Paul says: Whom no man sees. But what he says, nor indeed can see, accords with what Saint John said: For we shall see him as he is (1 John 3:2). So in this life the Lord showed his back parts through a creature, because he still hides the truth of his own nature from his children while they are pilgrims, as the same John attests, who says: Beloved, now we are children of God, and it has not yet appeared what we shall be; we know that when he appears, we shall be like him, for we shall see him as he is (ibid.). From this testimony we must view what Paul says: nor indeed can see; as if he were saying openly: For as long as each son is a pilgrim in this life, so long is he unable to see the heavenly Father, being of course unlike the Father. But each of the elect will be able to see God, not through creatures but as he is, when what he will be has appeared, and he has become like him. Or certainly as the same John the Evangelist says: No one has ever seen God (John 1:18); as if he were saying more plainly: As he is, he sees in himself. For no creature understands God firmly in the way that God understands himself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab97",
+   "text": "XXXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.136",
+   "text": "2 Timothy 1 (verse 11): In which I have been appointed a preacher, and an apostle and teacher of the gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.137",
+   "text": "According to Matthew 23 (verse 10): But you, do not be called Rabbi, for one is your teacher, who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab98",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.138",
+   "text": "Since the Lord said to his apostles: Do not be called by the name of teachers, why does Paul, the apostle of Christ, declare that he was the teacher of the gentiles?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab99",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.140",
+   "text": "Was the word of the Lord who forbade [it] despised by the apostle Paul? Rather, he was impressing upon all believers that they should not be led astray by false apostles under the name of apostles, but should follow him as teacher in whom Christ spoke."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab100",
+   "text": "XXXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.141",
+   "text": "2 Timothy 4 (verse 14): Alexander the coppersmith showed me many evils; may the Lord repay him according to his works."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.142",
+   "text": "And a little after (verse 16): At my first defence, he says, no one stood by me, but all deserted me; may it not be counted against them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab101",
+   "text": "QUESTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.143",
+   "text": "Why did Paul, writing about Alexander, say as a wish, may the Lord repay him according to his works, and, taking pity on the others, speak as a wish, may it not be counted against them?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.ab102",
+   "text": "ANSWER."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1308.tmp1308.opp-lat1.144",
+   "text": "In one and the same spirit Paul, who wrote both these differing things to Timothy, foresaw that Alexander, hard of heart, would never be converted to God, and that for the others, through true repentance, their past deeds would not be counted against them."
+  }
+ ]
+}

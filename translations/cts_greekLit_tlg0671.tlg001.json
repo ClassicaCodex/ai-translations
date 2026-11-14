@@ -1,0 +1,1008 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0671.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg0671.tlg001.ai-claude",
+ "source_edition": "tlg0671.tlg001.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "De venenatis animalibus eorumque remediis: AI translation (Claude)",
+  "author": "Philumenus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0671.tlg001.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.head": "Eudemus and Themison are named without further identification (Themison probably the founder of the Methodist school). In 3.3 'juice' (ὀπός) qualified as Cyrenaic, Median or Parthian is presumably silphium juice. 'Metasyncrisis' (4.8) is the Methodist term for a restorative alteration of the body's constitution. In 4.1 the subject of 'things taken in' (καταλαμβανόμενα) is implied.",
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.10.1": "4.13 and 4.15: 'οδ' and 'ξγ' read as book numbers (74, 63) of Theodorus. 4.14: 'ἀφρὸϲ' makes no sense and seems corrupt; translated as a conditional. Drachma signs printed as '??' in 4.15, 6.1, 6.2 taken as drachmas. 5.1 'κουλλούριον' (roll-shaped pessary/collyrium) uncertain. 5.2 'μάννη' taken as frankincense powder. 6.3 duplicated 'ἄλλο' before θυμία taken as dittography. 7.11 'ἀϲτραγαλώτη' unidentified.",
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.12.1": "The edition's unit signs printed as '??' (probably ounce or litra signs lost in conversion) are rendered '[?]'; the drachm signs (⩹, ⋖) are rendered 'drachm'. 7.12: 'πιτύα' taken as rennet (πυτία). 10.4: 'ἥλουϲ' taken as callous 'nails' of flesh; sense uncertain. 10.7: 'ϲυϲτραρῇ' read as ϲυϲτραφῇ. 10.9: 'ἀνέκδοτοϲ' may mean 'unpublished' or 'unsurpassed'. 14.head: 'περίαπτα' (amulets) is not borne out by the content that follows. 14.5: 'ὠμήλυϲι.' read as ὠμήλυϲιϲ.",
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.6.1": "Symbols: ⩹ read as drachma; ӄ ᾱ and κ ᾱ read as 1 kyathos; the sign 𝒢 in 14.9 (a quantity after the valerian flowers) is unidentified and left untranslated. 14.8: the end ('μετ᾿ οίγομέλιτοϲ ... αὐτῆ ϲκορπιοπλήκτοιϲ οὐ προϲγέγραπται') seems corrupt; read οἰνομέλιτος and taken λῆψις as onset of the fever; the last clause is uncertain. 15.12: ἀεροτόνου read as ἀβροτόνου (southernwood). 15.4: ἐψοιϲ read as ἴψοις/moths, uncertain. 15.1–5: six spiders are listed but the head-pecker is described last as 'sixth' while the list places it fourth. Spider names (ῥώγιον etc.) rendered by meaning.",
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.8.1": "17.11: 'and flower and seed, half an oxybaphon' is obscure; the text seems faulty or quantities lost. 17.12: 'Ἐξραϲίϲτρατοϲ' read as Erasistratus. 17.3: 'σιγῶν' read as αἰγῶν (goats'). 17.10: 'χλωρὸϲ' read as χλωρούϲ. 18.4: the subject of 'drink' after the second dose is implied. 'Presteres' and 'herpetes' kept as transliterated names; the author himself could not identify them. 'Alcibiadium' is an unidentified herb.",
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.head": "21.5.1: a quantity of iris is lost (marked ?? before 'α', i.e. 1 [unit]); 'as much as' with poppy juice is apparently incomplete. 22.2.1: 'strikes in coils, whence it was so named' does not explain the name ammodytes ('sand-diver'); text may be disordered or abridged. 24.4.1: 'κ ϲ' read as κ ϛ, 6 kyathoi. 22.3.1: 'Ἐξραϲίϲτρατοϲ' read as Erasistratus. 25.2.1 'ῥωγμοῦ' taken as 'rattle'; sense uncertain.",
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.25.3.1": "26 head and 26.1: the text names the snake κεγχρίνης here; the glossary's 'cenchrias' (κεγχρίας) is also used in the passage as an alternative name, so both are kept. 27.2: 'οὐ μόνον' is odd; read as 'only inflammations', in line with the parallel at 32.1. 31.3: 'ὡς Ἐρασίστρατος δέ' is awkward; translated as 'But Erasistratus says'. 32 head: 'π τάρωοϲ' read as πάρωος. 33.1: 'μυί' read as μυΐ.",
+  "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.6.1": "36.1: 'ἐν τῷ ος'' read as the numeral 76 (book 76), which seems implausibly high; the figure may be corrupt. 36.2: the point of comparison with the chersydrus is presumably the name's reflecting a change of habitat; sense obscure. 37.4: δράκων here is the sea-dragon (weever fish), not the snake. 33.7 'Ἀλρχιγένηϲ' read as Archigenes."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.head",
+   "text": "ON VENOMOUS ANIMALS AND [THEIR] TREATMENT."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.1",
+   "text": "It seemed to me proper and useful to add to this book as well the account of the rabid dog and of venomous animals, recorded by men of old in other books. And it is as follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.1.head",
+   "text": "1. Signs of a rabid dog and of those bitten by it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.1.1.1",
+   "text": "We have placed the account of those bitten by rabid animals before the others, since this animal is both numerous and familiar, is frequently seized by rabies, and is hard to guard against; and the danger from it is grievous unless one makes use of many remedies."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.1.2.1",
+   "text": "The dog goes rabid mostly in the most intense heat, but sometimes also in severe cold. Once rabid, it turns away from both food and drink, and discharges much frothy phlegm from its mouth and nostrils, and has a malignant look and is gloomier than usual; it attacks without barking all alike, both animals and people, familiar and unknown, and when it has bitten it causes nothing troublesome at once, apart from the pain from the wound, but later it produces the affection called hydrophobic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.1.3.1",
+   "text": "This comes on with spasms and derangement and redness of the whole body, especially of the face, and with sweating and distress. And some of the hydrophobics shun the light, while others waste away continuously; some even bark like dogs and attack and bite, and by biting have become the cause of the same affection."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.1.4.1",
+   "text": "Of those who have fallen into hydrophobia we know of no one who has survived, except that we have received by report one or two; for Eudemus says that someone survived, and of Themison some say that he fell into the affection after being bitten and was saved, others that, having attended eagerly and with sympathy on a friend suffering from hydrophobia, he fell into the same condition and, after suffering much, was saved. The affection, then, is grievous; but before its onset we ourselves have saved many, and have known of others saved by other physicians."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.head",
+   "text": "2. Treatment [of the bite] of a rabid dog."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.1.1",
+   "text": "Of the treatment, one part is general and is to be used for all who have been bitten by any of the venomous animals; another is particular to those bitten by rabid animals, customarily of the greatest benefit to some, but unsuitable for those bitten long before. Having first set this out, we will afterwards run through the general one as well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.2.1",
+   "text": "One must, then, burn river crabs on twigs of white vine, grind their ash fine, and keep it stored; likewise also store roots of gentian, pounded and sifted."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.3.1",
+   "text": "Whenever someone is bitten by a rabid dog, sprinkle into three or four <i>kyathoi</i> [ladle-measures] of unmixed wine two spoonfuls of the crab ash and one spoonful of the gentian, and stirring it in as one does barley-meal, give it to the bitten person to drink from the first day up to forty days. Let the wine be rather old than new; and if anyone cannot tolerate the wine quite neat, let it be mixed strong."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.4.1",
+   "text": "When given from the beginning, then, let the drug be administered in this way. But if two or even three days have passed since the bite when we undertake the treatment, we shall make the drug triple in proportion and give it, with the aforesaid measure of wine; then on the second, third and fourth [days] no longer the triple [dose], but as much as we said at the beginning. This, then, is the best remedy for those bitten by rabid animals, which indeed has sufficed on its own for some, and it is to be used with confidence."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.5.1",
+   "text": "But for the sake of being safeguarded also by other means against what seems an inescapable danger, nothing prevents using the other remedies as well; for it is preferable to endure the harshness of the remedies in vain, if it so happens, than to fall into danger through neglect."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.6.1",
+   "text": "In those bitten by rabid animals, large wounds are not to be feared so much as small ones resembling scratches; for through the larger ones, as the blood pours out copiously and in quantity, one may wash out some of the venom along with it, but through the smaller ones not at all. Hence with the larger ones the flesh that stands away is to be removed at once and the edges cut round, while with the smaller ones a larger area is to be circumscribed with the blade; and, the flesh of course having been lifted with a hook or a small forceps, the excision is to be completed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.2.7.1",
+   "text": "In both cases the surrounding parts are to be scarified with deeper scratches, so that the flow of blood, becoming more abundant, may oppose the inward penetration of the venom. A cupping glass applied with plenty of flame would also give much benefit, so as to draw out the destructive power together with the matter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.3.head",
+   "text": "3. On cautery of wounds from venomous animals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.3.1.1",
+   "text": "Burning is the most effective remedy in all cases of venomous animals; for fire, being more vigorous than every other power, at once masters [the venom] and prevents it from travelling further inward, and at once consumes the part of it that has been mastered, and it prepares no ordinary groundwork for the subsequent treatment, since the ulceration persists longer after the eschar falls off. Among the chief concerns, care must also be taken over this:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.3.2.1",
+   "text": "that the scars do not close sooner than forty days, but the ulcerations are to be kept open for a long time, if possible, both inflamed and fouled."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.3.3.1",
+   "text": "This will be provided for them by very pungent salted fish applied, and by cloves of garlic ground fine, and onions likewise, and by juice, preferably the Cyrenaic or the Median or the Parthian. And let grains of wheat also be applied, both chewed and unchewed; for swelling up from the moisture they widen the wounds."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.3.4.1",
+   "text": "Some think that the chewed ones have some counteracting property from the fasting of those who chewed them; this is not certain, however, but they are to be used either way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.3.5.1",
+   "text": "But if, as happens very often, the scars close up before the forty days, one ought to scrape them open by hand, cutting round, incising and cauterising again, if it so happens; and the same is to be done a third and a fourth time. When the set term has passed, the ulcers are to be allowed to scar over, and the whole area is to be covered with the plaster made with salts; and after a few days a mustard plaster is also to be applied."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.head",
+   "text": "4. On the regimen of those bitten by rabid animals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.1.1",
+   "text": "The regimen too must aim at opposing the venom, so that at once it blunts and quenches its power and at once prevents its travel into the depths; for things taken in already counter the penetration of the destructive power."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.2.1",
+   "text": "Each of these effects can be provided by drinking unmixed or strong wine, and sweet wine, and milk; for all these, taking a swift impulse toward the surface, resist the venom and dissolve all its pungency;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.3.1",
+   "text": "likewise also eating garlic, onions and leeks; for these, and in general things hard to alter and slow to fade — since their qualities persist for several days — are not overcome or altered by the destructive power, but on the contrary are by nature able to master it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.4.1",
+   "text": "For this purpose there is also need of antidotes, such as the theriac, the one called Eupatorian, the Mithridatean, and any other that is compounded from several aromatics; for all aromatics are by nature hard to alter both in their powers and in their substances, and so they master the venoms in bodies. Such, then, is the manner of the regimen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.5.1",
+   "text": "On those who have become hydrophobic after a lapse of time, following a bite by a rabid animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.6.1",
+   "text": "One must know that the onset of the hydrophobic affection has no single or fixed term; for usually it tends to befall the neglected about the fortieth day, but it has already happened to some after six months and after a year; and these things have been seen by us too. Some report that certain people were seized by the affection after seven years."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.7.1",
+   "text": "The treatment, then, at the beginning for those bitten by rabid animals has been set out. But if for any reason whatever the aforesaid remedies were not employed in the first days, cutting round and burning are to be omitted; for it is quite futile to try to draw back what has passed into the depths, since the attempt brings no benefit, but the bodies will be subjected to pains in vain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.8.1",
+   "text": "Let another mode of treatment be introduced, so as to produce purgation and metasyncrisis in the bodies; for by evacuating it will change the condition along with it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.9.1",
+   "text": "Let the <i>hiera</i> made with colocynth be given, and also split milk, which can provide both purgation and tempering; and let pungent foods and the drinking of unmixed wine be employed daily, as they can blunt the venom, and in addition sweating both before and after food, and <i>dropax</i> [pitch-plaster] applications and mustard plasters part by part over the whole body."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.10.1",
+   "text": "Of all [remedies], hellebore has proved to me the most effective for them, and the remedy should be used confidently, not once or twice but even many times, before the fortieth day and after it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.11.1",
+   "text": "This remedy carries such strength that some of those who had already begun to sense the hydrophobia were saved by taking the hellebore at once, at the very first onset of the symptom; for those already in its grip neither this nor anything else can save."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.12.1",
+   "text": "For hydrophobics, the [preparation] with rennet: hare's rennet, Lemnian seal [earth], juniper berries, gentian, 4 drachmas each; laurel berries, myrrh, 8 drachmas each; take up in honey."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.13.1",
+   "text": "The dose is the size of an Egyptian bean. Another: take a dog's vomit, dry it, grind it, put it in a box, and use it confidently as an excellent [remedy] for those bitten by a rabid animal. From book 74 of Theodorus: hang a root of <i>chamelaea</i> on those bitten by a rabid dog; use it as a marvellous [remedy]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.14.1",
+   "text": "Another for those bitten by a rabid animal, so that they do not fall into the hydrophobic affliction: if the bitten person, looking at his own shadow, [sees it] as is usual with the healthy, he will not be seized by the affliction. Prognosis of the patient, whether he will live: make him gaze intently into a mirror, and if he recognises himself, he will live; if not, not. This is infallible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.4.15.1",
+   "text": "From book 63 of Theodorus, the dog-bite [remedy] of Crates, by whose testing in the treatment the venom is found in the urine of the bitten person: scraped verdigris, salt, 4 drachmas each; calf's suet, 12 drachmas; grind separately and together and use, sprinkling it onto a compress. Keep the patient's urine in a glass vessel, and you will find in it the proof of the drug."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.head",
+   "text": "5. On dog bites and human bites."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.1.1",
+   "text": "Archigenes in the fifth book of the <i>Drugs by Kind</i> [says] thus: for human bites, first anoint with oil, then use fennel root ground with honey until the wound is cleaned; then take up myrrh and turpentine in equal parts and apply as an emollient; or take up burnt copper vitriol in boiled honey and insert it as a pessary-roll, and having cleaned [the wound] out in this way, bring [it] together."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.2.1",
+   "text": "From Strato: burn calf bones until they become white, take them up in liquid pitch or honey or both, and insert. Another: grind frankincense powder with oil and wine and plaster on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.3.1",
+   "text": "On dog bites. For dog bites, at once sprinkle vinegar on the bite and strike it with the flat of the hand; then grind soda with vinegar and pour it over from above; then knead bitter-vetch meal with oil and apply, or a new sponge or greasy wool soaked in vinegar and oil; or soak a new sponge in cold water or vinegar-water or vinegar and let it lie on for three days, moistening it with the things mentioned above; for it works exceptionally and heals completely."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.4.1",
+   "text": "For bites that are already suppurating, knead bitter-vetch meal with honey and apply; it works excellently."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.5.1",
+   "text": "From the <i>Easily Procured Remedies</i> of Apollonius: for inflamed bites, grind litharge with water and smear on, or plaster with ground boiled lentils. Also use abstinence, evacuation and keeping the bitten part still; or grind whatever salted fish you have, preferably old, and plaster on. This is pre-eminently more effective than any other drug."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.6.1",
+   "text": "My teacher, to make it more effective, also ground garlic with it. So for dog bites and human bites, plaster on ground salt with honey until [the wound] is filled. Some also mix in onion and vinegar and use it so. These same remedies are to be used for human bites too; for they suit the conditions of both."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.7.1",
+   "text": "From Theodorus: burn pig dung, dissolve it in oil and apply; it seems to me [good] also to mix leek with it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.5.8.1",
+   "text": "Another: burn dry dill and fill the bite, and on loosening it on the fifth day you will find it clean. Another: apply cabbage leaves, verdigris, rue and salt."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.6.head",
+   "text": "6. Fumigations against reptiles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.6.1.1",
+   "text": "From Archigenes: goats' hooves and hair burnt as fumigation from a distance; for reptiles are driven back by their smell. A compound fumigation of Philinus the theriac-writer: galbanum, root of <i>cachrys</i>, deer's horn, black cumin, 1 drachma each; grind all, take up in vinegar, and make pastilles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.6.2.1",
+   "text": "When needed, soak in oil and burn in the middle of the house, or, if you are in the open air, in the middle of your bed. Another: galbanum, ichneumon's fat, 1 drachma each; melt and store; when needed, burn it likewise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.6.3.1",
+   "text": "Another, Egyptian: soak an asp's slough in oil, burn it near the lairs, and they will come up at once. Another that brings down scorpions and drives every reptile from the house: burn galbanum, realgar, butter, bryony and goat's fat in equal parts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.head",
+   "text": "7. Anointings against reptiles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.1.1",
+   "text": "Let the body be anointed with oil in which green cedar cones, chopped, have been put beforehand, or juniper berries, or fleabane, or hog's fennel, or silphium, or sage, or wild mallow, or southernwood, or cardamom, or seed of asphodel or of <i>daucus</i>, or galbanum; and with hog's fennel juice, or deer's marrow diluted with vinegar, or oxelaeum [vinegar-oil], or compounds of these."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.2.1",
+   "text": "Against every wild creature in general: the fat of each, rubbed on, drives off its kind by the smell, just as a dog that smells its own tick crushed flees quickly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.3.1",
+   "text": "Remedies for wild creatures' strikes: if someone happens to be struck by some creature, while the venom is still light, you will bathe [the place] with hot water or vinegar-water and suck it out. The one sucking must not be fasting, but must have taken food and rinsed [his mouth] with wine; then, holding a little oil in his mouth, let him do the sucking so. Care must be taken that the mouth, teeth or tonsils of the one about to suck have no lesion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.4.1",
+   "text": "After this, ash smeared on with vinegar helps, especially that from fig, laurel or vine wood, or failing that, use whatever is at hand, taking every care not to raise inflammation. When the strike is more severe, scarification too is to be used; the incisions should be made deeper."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.5.1",
+   "text": "Cups are also to be used, so as to draw the matter up from the depth; and cutting round and excision help more fully than scarification; about burning we have spoken earlier, as for those bitten by rabid animals. If the bitten part lends itself to amputation, then, above all with all wild creatures, the amputation should be done without hesitation, as with the asp, the horned viper and the like."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.6.1",
+   "text": "Let ground salt fish be applied, and leeks, onions and garlic, sometimes ground fine and plastered on, sometimes burnt and applied to the bites; or split birds open and wrap them round the struck place; for the breath from the bitten part, set in motion towards the animal's warmth, draws the venom out with it; rue and calamint plastered on also help, and garlic with salt, and goat droppings."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.7.1",
+   "text": "Excellent against the bite of every venomous creature except the asp is quicklime with oil and honey, to the consistency of a cerate, applied until an eschar forms; or grind salt, take it up in liquid pitch, and plaster on. We knew of such a thing being done in Egypt: when the Egyptians reap, they have a pot prepared with boiling pitch and a twisted cord tied to the pot."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.8.1",
+   "text": "So when someone is bitten on the shin or the hand, those at hand quickly throw the cord into the boiling pitch and wind it once or twice round the forearm or shin, a little above the bite, and two bystanders pull it tight forcefully, and they cut into the place through the binding of the noose and burn it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.9.1",
+   "text": "When this seems to them enough, they remove the noose and plaster [it] with onions or some other of the things mentioned, as also with liquid pitch plastered on with ground, rather hot salt; this helps powerfully if renewed fairly often. Bathing with vinegar, sea water and urine in which calamint has been boiled also aids them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.10.1",
+   "text": "There are also very pungent plasters able to draw out, hold and disperse the venom, such as the one applied with salt, or with soda, mustard and <i>cachrys</i>. These will be described next."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.11.1",
+   "text": "Chicory, then, heath and <i>astragalote</i>, drunk with vinegar, help all those bitten by wild creatures; likewise bitumen, and green plane-tree balls boiled in wine mixed with water, a decoction of Christ's thorn, root of birthwort and of eryngo, boiled laurel berries eaten, pepper chewed rather freely, and rue, dill, garlic, onions and very pungent salt fish, and a decoction of oregano drunk with wine, and the juice of fennel, pennyroyal, calamint and leek sipped with honey-water."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.12.1",
+   "text": "These, then, are 12 from plants; from animals certain things are usefully taken: the brains of hens, eaten; hare's rennet, drunk with wine; and 2 drachms of castoreum in the same way. Among the celebrated [remedies] is also the dried weasel: first it is slit open, the inner parts are removed, and it is singed all over; then it is dried out in the shade; a dose of 2 drachms of it is given with wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.13.1",
+   "text": "Purging through the bowels, inducing sweat and passing plenty of urine also suit those bitten by wild creatures. Compound drinks of the following kind have been handed down for general use against the wounds of most venomous animals: opium and myrrh, an obol of each; pepper, [?] 1; birthwort, [?] 2. Take these up in honey and give a piece the size of an Egyptian bean"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.7.14.1",
+   "text": "with wine. Likewise: seed of wild rue, Ethiopian cumin, 14 galbanum, black cumin and birthwort. All these are ground, kneaded with juice of rocket, and made up into pastilles of a drachm each; give [one] of them with half a <i>kotyle</i> of wine. Or: gentian, 2 drachms, with enough pepper and rue; grind and give [it] with wine. So much for the general remedies; next we shall describe those specific to each of the venomous animals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.8.head",
+   "text": "8. For those who bleed from a wild creature's wound."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.8.1.1",
+   "text": "For haemorrhages from the wounds, give the blood-stanching remedy of Hermas the theriac-writer: copper ore, shoemaker's black and spiders' webs, [?] 1 of each; grind together and use."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.9.head",
+   "text": "9. On regimen and treatment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.9.1",
+   "text": "Foods to be used are pungent, easily distributed, flatulent and stimulating ones, such as garlic, onions, salt fish, pepper and radishes; [let] the wine [be] plentiful and unmixed. All movement benefits them, and much passive exercise by swinging, both by day and by night."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.head",
+   "text": "10. Theriac antidotes and plasters, also effective for other conditions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.1.1",
+   "text": "The first antidote, effective in general against all creeping wild creatures and for those bitten by rabid animals, called by many <i>diatessaron</i> (\"of four ingredients\"). The dose of the drug is the size of a hazelnut: for those stung by scorpions, with dry wine, once a day, but if the pain grows worse, give it twice; for those bitten by rabid animals, give [it] with water every other day for 42 days, mixing Indian <i>lykion</i> into the drug, while also keeping the sores from scarring over."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.2.1",
+   "text": "You may also, if you wish, use it dry on the sores. It consists of round birthwort, gentian, laurel berries and myrrh, 8 drachms of each; take [them] up in Attic or island honey. If you add 4 drachms of white pepper, it works wonderfully also for liver patients, with honey-water, and in the paroxysms with sweet wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.3.1",
+   "text": "3 Another theriac antidote, outstandingly effective. It consists of castoreum, Cyrenaic juice and pepper, 4 drachms of each; costus, Indian nard, saffron and juice of centaury, 2 drachms of each; boiled-down honey, half a <i>kotyle</i>."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.4.1",
+   "text": "4 The dose is the size of the kernel of a hazelnut. Give [it] to those stung by scorpions with mixed wine, to those bitten by asps with diluted vinegar, to liver patients with honey-water, likewise for hysterical suffocation; and to bring down the menses give [it] after the bath with warm honeyed wine. It also has a drawing-down power, so that it brings down nails [of flesh] that have risen; so in this way too it is effective for hysterical suffocation and the purging of the menses."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.5.1",
+   "text": "5 Another antidote for those stung by scorpions: give one spoonful of ground long birthwort with four <i>kyathoi</i> of unmixed wine; it works powerfully."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.6.1",
+   "text": "6 On plasters. Zeno of Laodicea, after his own theriac antidote, which I have not set out here because of the costliness of its preparation, sets out the following plasters, and says this: on the bites apply the plaster with sea water and chamaeleon, or the white one, or mix both."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.7.1",
+   "text": "7 The one with chamaeleon is this: litharge, [?] 1 [?] 2; Ammoniac salt, 1 drachm; root of black chamaeleon, [?] 4; sea water, [?] 3; old oil, [?] 1. Boil the litharge, oil and sea water until it thickens; then take [it] off the fire, add the ground chamaeleon, sprinkling it in, and set [it] on a gentle fire, so that the chamaeleon may impart its power to the drug."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.8.1",
+   "text": "Another, the white one, for whatever you want 8 to break open, disperse or draw out: litharge, [?] 1; white lead, [?] 2; pine resin, [?] 1; old oil, [?] 3; wax, [?] 1; Ammoniac incense and galbanum, [?] 2 of each. Boil the oil, white lead and litharge until it no longer stains; then add the rest afterwards, and use [it] for every abscess and for growths on the breasts, <i>phygethla</i> (inflamed swellings of the glands), sinuses, fistulas, parotid swellings and carbuncles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.10.9.1",
+   "text": "Use both of these on the bites. And 9 this one prevents inflammation for every venom, and such a remedy is unpublished."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.11.head",
+   "text": "11. On wasps and bees."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.11.1.1",
+   "text": "I have explained beforehand the signs that accompany their stings 1 not because their power is great or their sting dangerous, but so that those stung by them should not be alarmed by the pain, as if they thought they had been struck by one of the dangerous creatures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.11.2.1",
+   "text": "Those stung by bees, then, experience 2 pain at the sting, redness of the place, swelling round about, and the sting lodged in the wound; those stung by wasps again experience similar things with much greater intensity, except that the sting is not present."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.11.3.1",
+   "text": "Their bites are relieved by mud or cow dung kneaded with vinegar-water 3 and smeared on, or mallow leaves likewise ground with vinegar-water, or barley meal with vinegar, and fig juice dripped into the bites, and ground leaves of heliotrope sprinkled on, or else grind sesame itself with water and plaster [it] on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.11.4.1",
+   "text": "They are sealed 4"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.11.4.2",
+   "text": "also with an iron seal, so that the inflammation does not grow, at the moment of the sting; and fomentation with brine or sea water helps. Give beforehand as a drink tender laurel leaves, about 2 drachms, with dry wine, about half a <i>kotyle</i>."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.12.head",
+   "text": "12. On mice, flies, gnats and fleas."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.12.1.1",
+   "text": "1 Since these too harm people's bodies, I shall also write a little about them. Gnats, then, die when cedar sawdust is burnt beneath them with copper sulphate. And if you boil black cumin in oil, add the copper sulphate and smear [it] on, neither flies nor gnats come near."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.12.2.1",
+   "text": "2 To kill flies, grind henbane seed, black hellebore and litharge with water and store [it]; when needed, scent it with butter and scatter it about; or [use] ground root of dog's cabbage with fat. Against gnats, boil wormwood, black cumin and copper sulphate in equal parts with oil and smear [it] on, or burn them dry on cow dung."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.12.3.1",
+   "text": "3 Another against gnats: smear on Syrian juice with vinegar. Another against gnats: hellebore and wormwood with radish oil, and smear [it] on. Copper sulphate burnt as fumigation drives flies away; white hellebore, ground, kneaded with milk and set out in various places, kills flies."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.12.4.1",
+   "text": "4 Deadly to fleas: the decoction of oleander boiled in sea water or brine, sprinkled about. Another for destroying gnats and fleas: burn frankincense and black cumin. Another: soak the root of the Egyptian bean in water and sprinkle [it]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.13.head",
+   "text": "13. For the bite of the gecko."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.13.1",
+   "text": "Those bitten by the gecko feel intense pain and have a livid bite. They are helped by plastering the wound at once with onions and garlic, and also by eating these and sipping unmixed wine afterwards; or grind sesame with water and plaster [it] on, or black cumin likewise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.head",
+   "text": "14. Amulets and antipathetic remedies for a scorpion sting, and for the same."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.1.1",
+   "text": "From the works of Archigenes. There are several kinds of scorpion, but the same things follow from all, so we shall turn to the signs of the stings and the treatments. Those stung suffer very violent pain around the wound, chill and numbness over the whole body, cold sweat, swelling in the armpits, or, in those stung in the lower parts, in the groin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.2.1",
+   "text": "Those not lightly struck experience such things as these: 2 burning around the wound as in burns, derangement, throbbing through the whole body, a crawling sensation on the lips and the whole body, so that they seem to be sprinkled with drops, stiffness of the joints, distortion of the face, sticky rheum about the eyes, viscous tears, continual shivering, prolapse of the anus and tension of the genitals; in some also continual belching, thickness and stiffness of the tongue, clenching of the teeth, copious foaming, vomiting, hiccups, spasms, tetanus and opisthotonus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.3.1",
+   "text": "These, then, are the signs that accompany those stung. 3"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.4.1",
+   "text": "They are helped at once by the following: fig juice 4 forced into the wound; or the scorpion that stung, itself laid on, helps extremely through a kind of antipathy; or ground salt with linseed; or the fruit of marshmallow; or native sulphur taken up in terebinth resin"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.5.1",
+   "text": "and applied as a plaster; galbanum spread out in the form of a compress; 5 calamint ground and watery, plastered on; and raw barley meal prepared in wine in a decoction of rue; or the grime of a urine pot smeared on; or root of birthwort; or plaster [it] with Cyrenaic juice, or with salt and raisins, or rub [it] with these ground with oil."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.6.1",
+   "text": "The most effective drinks should be used: 2 drachmas of birthwort, 6 especially of the bark, with wine; gentian pounded, and pennyroyal boiled down; and ten bay berries ground; and calamint boiled for a long time in vinegar-water; or cypress with wine, or rue likewise; and silphium, if it is available; and the fruit of trefoil drunk; and the seed of basil; and continual use of baths with much sweating; and wine-drinking with a stronger mixture."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.7.1",
+   "text": "7 An approved antidote for those stung by scorpions: long birthwort, black cumin, root of all-heal, seed of wild rue, 4 drachmas of each; the dose is 2 drachmas with unmixed wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.8.1",
+   "text": "Another, which also works against tertian, quartan and quotidian fevers: opium, opopanax, castoreum, henbane seed, carrot seed, 1 drachma of each; grind them, mix in a little honey, and give a man three drachma-weights; for children use [it], since it works remarkably, with honeyed wine before the hour of the attack; for those stung by scorpions [a dose] is not written down."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.9.1",
+   "text": "To those stung by a scorpion they give elecampane root to chew until they are free of pain; and if someone holds it in his hands, the scorpion will not harm [him]; or find a gecko and wear it, and you will not be stung. Another, for not being stung by a scorpion: flowers of the plant valerian, 𝒢 [...], a little black cumin and a little propolis; mix these, tie them in a woollen rag and hang [it] round [the neck]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.14.10.1",
+   "text": "10 If you want to test it, draw a circle on the ground and put a scorpion in the middle together with the amulet, and the scorpion will not come out of the circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.head",
+   "text": "15 How many kinds of venomous spiders there are, and remedies against them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.1.1",
+   "text": "1 Of venomous spiders there are several kinds, but those most often described by the theriac-writers are six in number: one of them is called the grape-spider, another the wolf, another the ant-spider, another the head-pecker, another the hard-head, and another the worm-spider."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.2.1",
+   "text": "The grape-spider, then, 2 is round in shape and black in colour, for it resembles a grape of a black bunch; it has six very small legs on each side, and its mouth is under its belly. The wolf, the second, is found living in webs, catching flies and eating them; it has a broad, rounded body, the parts about its neck are furrowed, and from its mouth it has three smooth outgrowths."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.3.1",
+   "text": "The ant-spider, the third, resembles a large ant, sooty 3 in colour; marks like stars are printed on its body, especially on the back, as Nicander also testifies thus: 'fiery, it looks like an ant in form, spotted all over on its broad starry back.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.4.1",
+   "text": "The hard-head, the fourth, has a stony 4 and very hard head, and over its whole body it is marked like those moths that fly round lamps. The worm-spider, the fifth, is elongated and somewhat spotted, especially on the head."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.5.1",
+   "text": "The sixth is the head-pecker: this is longish and greenish, 5 and has its sting under its neck; falling on [people] it strikes the parts about the head."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.6.1",
+   "text": "These, then, are the kinds of venomous spiders; the signs that accompany 6 those stung by them are common [to all]: the bite is slight and hard to see; swelling, livid discoloration, in some also redness; chill about the knees, loins and shoulder blades; sometimes there is also heaviness over the whole body, and further intense pain, trembling, pallor, sleeplessness, and in some also erection of the penis"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.7.1",
+   "text": "and itching about the wound, sometimes also about the shins; eyes 7 moist, tearful and hollow, because the belly is unevenly distended. The whole body and face swell, especially the parts about the tongue, and indistinctness of speech occurs; in some also difficulty in urinating; they vomit watery matter like cobwebs, and sometimes through the urine and the bowel"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.8.1",
+   "text": "8 the same is excreted; often also trembling through the whole body, and tension about the backs of the knees resembling a spasm, and strong gnawing about the stomach, and cold sweat is given off over the whole surface. It happens that when let down into hot water they become free of pain, but after being taken out they suffer intensely; and in older people the parts become considerably slack and do not become erect."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.9.1",
+   "text": "9 These, then, are the common accompaniments; some also have headache and dimness of vision, and when a head-pecker has struck, intense shivering, so that they become deranged, have heartburn, and toss about."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.10.1",
+   "text": "10 All those bitten by venomous spiders are helped by continual hot bathing; the wound should be bathed with a decoction of trefoil and with hot oil. Lay on fig-wood ash kneaded with ground salt and wine, or birthwort moistened with barley meal and vinegar."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.11.1",
+   "text": "11 Bathe the sores with rather hot sea water or brine, or with a decoction of balm (whose leaves should also be plastered on), or with bulbs, or knotgrass, or leeks, or bran boiled in vinegar, or barley meal with bay leaves boiled down together in wine; or dip a new sponge in vinegar and foment the wound."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.12.1",
+   "text": "12 Give to drink the seed of southernwood, and dill, and birthwort, and wild chickpea, and Ethiopian cumin, and juniper berries ground, and plane bark, and the seed of the trefoil plant; of each separately 2 drachmas are given with 1 kyathos of wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.13.1",
+   "text": "13 Likewise also the fruit of tamarisk, and of ground pine, and the decoction of the green cones of the cypress mixed with wine; or 1 drachma of ground pellitory drunk in the same way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.14.1",
+   "text": "14 Some say also that a river crab, pressed for its juice with milk and with celery seed added, at once relieves the troubles. Or grind pepper in 1 kyathos of wine, making it of moderate thickness, and give it to drink."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.15.1",
+   "text": "An antidote that works against spider bites and against stingrays and weevers, and the stings of the moray and all such kinds. It is excellent: birthwort, Illyrian iris, spikenard, pellitory, carrot seed, bryony root, peony root, black hellebore, aphronitre, cumin, fleabane, stavesacre,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.15.16.1",
+   "text": "bay berries, pomegranate flowers, parsley seed, cinnamon, hogweed, salt, hare's rennet, river crab, galbanum, poppy juice, balsam; put equal amounts of all into a mortar, pound and sift, form into lozenges of a drachma each with caper juice, and give to drink with two kyathoi of wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.head",
+   "text": "16 How many differences there are among asps."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.1.1",
+   "text": "Of asps there are, according to the theriac-writers, three kinds: some 1 of them are called land asps, others swallow asps, and others are named spitters; and these differ from one another in size, colour and action. The land asps are found three cubits long, sometimes four, and often five; and they cause effects in proportion to their length."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.2.1",
+   "text": "The largest spitters are two cubits, the swallow asps 2 one cubit; in colour they are like swallows, whence they were also named; the spitters are ash-grey, greenish, golden-tinged; and the land asps too are found sometimes ash-grey, sometimes greenish."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.3.1",
+   "text": "Common to those bitten by them are punctures on 3 the bite, like those of a needle, two or four (four if it is a female), without pain, discharging nothing, unless the animal happens to have been torn away by force. Numbness follows, pallor of the face, chilling, continual yawning, drooping of the eyelids, bending of the neck to one side, heaviness of the head, sluggishness, a sleepy torpor, an unchanging pulse, and at the end convulsion;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.4.1",
+   "text": "4 death [comes] in two or three hours with the land asp, and with the swallow asp even more quickly; those spat upon by the spitter have dimming of sight, swelling of the face and cutting off of hearing, slight pain and not without pleasure, which is why Nicander rightly said:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.5.1",
+   "text": "5 'and without suffering the man perishes'; the complexion unchanging and greenish, slight heartburn, the forehead continually contracts, the eyelids do not move, with insensibility as in sleep, and in these [conditions] death carries [him] off, not letting even a third day pass."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.6.1",
+   "text": "6 Those struck by them are helped quickly by amputation, if the bitten part allows it; if not, one must cut round at once and excise deep down to the bone, so that the bitten parts and those near them are removed, and the remaining parts must be dried out with cauteries."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.7.1",
+   "text": "7 Simple remedies should be used for them immediately: give the sharpest vinegar to drink, until he perceives the quality of the vinegar; for the venom of these [creatures] very quickly congeals the blood and pneuma in the arteries, just as that of the basilisk does. On the wound lay centaury ground together with myrrh and opium. Another: grind mustard with linseed in vinegar and lay it on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.8.1",
+   "text": "8 To find out whether the one struck will live, grind centaury and give it with wine: if he vomits the drug, he will die; if not, he is saved. To get rid of the bad effect of the antidote and the upset in the stomach, grind garlic and give it with beer, until he becomes nauseous, or give opopanax in mixed wine, and it will act at once."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.16.9.1",
+   "text": "9 Numenius the theriac-writer says: grind Heracleotic oregano, either dry or fresh, and give [it] with wine according to [the patient's] strength. After this one must use the theriac antidotes and the general remedies set out at the beginning."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.head",
+   "text": "17 Viper and female viper."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.1.1",
+   "text": "In those bitten by a viper or female viper we find two or four punctures, wider than with the asp, through which blood is discharged first, then a bloody serum, oily and bilious; a fiery swelling, blistered, reddish, then livid and spreading; a very dry mouth, burning heat, faintness, shivering running through [the body], and sometimes"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.2.1",
+   "text": "also vomiting of bile, colic, heaviness of the head and loins, dizziness, 2 pallor, hiccup, fever, rapid breathing, a leaden colour, cold sweat. Death [comes] within seven days, and for the most part on the third, especially in those harmed by the female viper."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.3.1",
+   "text": "These too are helped by goat droppings ground with wine 3 and applied as a plaster, and likewise laurel, and southernwood, and galbanum laid on instead of a compress, and fresh oregano ground, and young birds split open at once and laid on, or bitter-vetch meal kneaded with wine, and radish rind ground thoroughly, and roasted squill and pounded chamomile, and raw barley meal prepared with oxymel, [the wound] having first been bathed with hot water."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.4.1",
+   "text": "Also anoint with laurel leaves with oil and with wild mallow with 4 barley groats, and plaster with beet root with barley groats and vinegar, or with iris with barley groats, or with quicklime with oil, or with roasted salt with hyssop, or with oregano with honey."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.5.1",
+   "text": "When blisters rise up, one must stop 5 the plasters, so that the skin is not stripped off; when the serous fluids flow out, bathe with hot water for a long time, since they fare worse if bathed only briefly. After this plaster the swelling and the blisters with boiled lentils, ground smooth, with honey, and do this until they are healed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.6.1",
+   "text": "Before the swelling forms, let them drink wild rue seed with mixed sweet wine, and, eating a good deal of good salt fish with bread and drinking down plenty of unmixed wine besides, let them vomit; and after the vomiting let them drink birthwort in mixed sweet wine; and some hang on [them] the fine-leaved alkanet as an amulet and promise that it helps."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.7.1",
+   "text": "Let them also drink hare's rennet, about three obols' weight, in wine, and about half a kotyle of leek juice in unmixed wine, and the juice of the leaves of balm with wine; and garlic, onions, leeks and the sharpest salt fish are beneficial when eaten. Also give them river crab to drink with unmixed wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.8.1",
+   "text": "8 This works well for them: pound crabs with a sufficient amount of darnel meal carefully in a mortar, mix in a little calamint and salt, form lozenges and dry them; use [them] as a plaster with milk, and give one lozenge to drink with honey-water; or give radish rind to eat with honey, or grind 2 drachms of costus and give [it] to drink with wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.9.1",
+   "text": "9 Polyides the theriac-writer says: let the bitten person chew the herb alcibiadium and swallow the juice, and lay what has been chewed on the wound; even if someone is breathing his last and uses it in this way, he will be saved."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.10.1",
+   "text": "10 From Apollonius' Easily Procured Remedies: grind fresh quicklime, moisten it with wine, make it soft and apply as a plaster; this is also most useful for any swelling. Or grind goat droppings, first boiled fresh, thoroughly with wine and apply as a plaster. This is the strongest of all plasters; it also works for erysipelas."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.11.1",
+   "text": "11 If someone eats 1 drachm of black cumin, he does not die. A well-regarded drug for those bitten by vipers: it consists of myrrh, castoreum, pepper, purslane, and flower and seed, half an oxybaphon. Grind all these in Cretan sweet wine or some other good one."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.17.12.1",
+   "text": "12 Erasistratus wrote much on those bitten by vipers, but says the most proven are these: that birds' brains drunk in wine help, and the root of all-heal boiled down with unmixed wine, and an oxybaphon of the seed of cultivated cabbage, ground smooth, drunk with wine; it is also good to dip a finger into liquid pitch, then rinse it off into wine and drink."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.18.head",
+   "text": "18 Horned viper."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.18.1.1",
+   "text": "The horned viper, as the theriac-writers relate, is one cubit 1 long, the larger two cubits; in colour it is sandy, tapering at the tail. It has two outgrowths on the head, so as to resemble horns, from which indeed it was called horned viper. The parts along the belly are scaled in rows, so that in crawling it produces a sound like hissing from the friction against the sand; it crawls sideways and not straight."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.18.2.1",
+   "text": "In those bitten by it there occurs a hard swelling of the bite 2 like a nail's head; a wine-coloured or blackish serum flows out, and the whole body becomes varicose; the genitals become erect, the mind is deranged, and dimness of the eyes follows; those struck last for the most part up to nine days."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.18.3.1",
+   "text": "Amputation suits these too, if possible; if not, 3 cutting round down to the bone and cautery. They are helped by the plasters and drinks mentioned for viper bites, but specifically for these give castoreum to drink with honey-water, or radish seed with wine, or Cyrenaic juice with honey-water. Combine castoreum with oil and anoint; take up ground salt in cedar resin and apply as a plaster, or ground onions with vinegar."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.18.4.1",
+   "text": "They must be bathed with hot vinegar 4 over the wound, and given raw radishes, and made to drink much water and vomit; then after the vomiting give beforehand a little Ethiopian cumin and myrrh to drink and wait, then again give radishes and leeks, and [have them] drink much mixed wine all at once and make them vomit;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.18.5.1",
+   "text": "after the vomiting give the foliage of oregano, chopped, with wine. 5 Let him also eat salted meat with dry bread and drink wine, until the cause is drawn off into the urine. The plasters should be used more continuously."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.19.head",
+   "text": "19 Presteres and herpetes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.19.1.1",
+   "text": "1 The same Apollonius in his Easily Procured Remedies hands down to us remedies against presteres and herpetes; I did not find these kinds of animals among the theriac-writers, but I will set down only the remedies, as I found them in Apollonius."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.19.2.1",
+   "text": "2 They are these: against presteres, plaster with purslane and barley groats, or vine leaves boiled with honey, and eat raw salt fish, drink rather unmixed wine, and order [him] to vomit. Against herpetes the bite must be bathed with much hot water, plastered with barley meal boiled with vinegar, and [the patient] given mixed wine or vinegar to drink."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.20.head",
+   "text": "20 The beast dipsas."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.20.1.1",
+   "text": "The dipsas is called by some theriac-writers the 'burning snake'. It is one cubit in size, tapering from thick to thin; it is sprinkled all over the body with black and tawny spots, and has a very narrow head."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.20.2.1",
+   "text": "2 Those bitten by it have, together with the bite, swelling and resistant inflammation. These are common to others too; but from them the sufferer becomes more eager [for drink], being much burned, and though taking in more drink, he excretes nothing, either by urine or sweat or vomit. So they perish for two reasons: either oppressed by great thirst, if they do not take drink, or, taking drink, from great fullness, bursting either below at the groin or at the abdomen, as with dropsical patients who suffer from overflow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.20.3.1",
+   "text": "3 These too are helped by the remedies mentioned for viper bites, as Apollonius reports in his Easily Procured Remedies. In the [writings] of Strato nothing is set down about the dipsas. But as we found among the theriac-writers, they say specifically for these to use diuretic remedies, such as the decoction of celery, nard, cinnamon and the like, and to give oil besides and make them vomit; and to use enemas too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.20.4.1",
+   "text": "In 4 robust patients phlebotomy should also be adopted, and on the stricken parts quicklime with oil helps applied as a plaster; one may also suitably use other drawing preparations, such as the one with salts, the one with laurel berries, the white one, and those written up for dog bites."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.head",
+   "text": "21 The haemorrhous [male] and haemorrhois [female]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.1.1",
+   "text": "These animals are sand-coloured, and in size 1 three palms, tapering to a small, short tail. They crawl in a straight line and slowly, and over the whole body they are adorned with many white and black spots. They are also said to be covered with very rough scales, and to make a sound as they move, like a hiss, that can be heard."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.2.1",
+   "text": "The 2 female crawls on the ground lying on its belly, and its anus is placed low down near the tail, but in the male near the belly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.2.2",
+   "text": "Their bites are followed by: a bloody, discoloured place, turning black, discharging nothing except a little watery fluid; pain at the stomach; difficulty in breathing; bleeding through the nostrils and from the punctures of the bite; and any scars there are on the body burst open and bleed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.3.1",
+   "text": "These [occur] with the male; with the haemorrhois, in addition, the corners of the eyes bleed, and 3 the gums, and blood comes from the roots of the nails and, in short, through the whole body; besides these there also occur rotting of the gums and falling out of the teeth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.4.1",
+   "text": "These [patients] must be treated by first checking the bleeding, then plastering the bite with boiled vine leaves with 4 honey, or with purslane leaves with barley groats. To those bitten recently, before they pass bloody urine, one should give much garlic and much mixed wine, and make them vomit; then bring them many fish with garlic ground in oil, and bread and much watery wine, and have them eat much sweet raisin afterwards, and again, when they have drunk wine, tell them to vomit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.5.1",
+   "text": "5 After this one should give them to drink a third part of an egg yolk, and as much poppy juice as [...], and of iris [...] 1 with sweet wine; then give them also mixed sweet wine to drink, and the bite should be bathed with cold water; to those of longer standing give sweet wine with much hot [water]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.21.6.1",
+   "text": "6 After the vomiting bring them fish [grilled] over coals, and use the drink in a similar way, and foment the bladder with many sponges. From the [writings] of Strato: give egg white with wine-and-honey to drink, or radish seed with wine. Plaster with fine-ground salt taken up in liquid pitch."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.head",
+   "text": "22 The ammodytes and the myagrus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.1.1",
+   "text": "1 The ammodytes is found to be a cubit in size — for it does not grow larger — and sand-coloured; over the body it is marked with black spots, and it has a rather hard tail, split at the top. It is also named cenchrias by some. It also has rather broad jaws."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.2.1",
+   "text": "2 Those struck by it, for the most part, perish quickly. The animal itself strikes terribly in coils, whence it was also so named."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.2.2",
+   "text": "Those struck suffer vomiting and discharge of ichor from the wound, and swelling occurs, and after a little it runs with ichor again; heaviness of the head and fainting follow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.3.1",
+   "text": "3 Erasistratus says that in them the liver, the bladder and the colon are affected; for when they are dissected these parts are found somehow corrupted. They die within three days, but some last until the seventh; death comes faster when someone is struck by a female animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.4.1",
+   "text": "These are helped first by the common remedies, likewise by binding off, scarification, application of cupping-glasses, and cutting out of the affected place. Specifically for these it helps to drink mint with oxymel, and castoreum and cinnamon likewise, 2 drachms of centaury root with 3 kyathoi of wine, or aristolochia root in the same way, cress and gentian similarly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.5.1",
+   "text": "The affected place, however, 5 should be plastered with lettuce seed with linseed, and with savory, and wild or garden rue, and tufted thyme, ground with asphodel; and they should take nourishing foods. As I found in another [author], the treatment and remedies are somehow shared for the horned viper, the ammodytes and the seps; for the symptoms of the three kinds are also alike."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.6.1",
+   "text": "In addition 6 to what has been said, the plant artemisia works too, about 1 drachm of the juice drunk with 3 or 4 [kyathoi] of water; and the Mithridatic antidote, if available, should be given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.22.7.1",
+   "text": "One should also use the antidotes 7 written above, especially the one with centaury juice and Cyrenaic juice. Dry black [powder] also works when put on the wounds, and lentils boiled and ground smooth with honey and pomegranate rind applied as a plaster, and whatever suits spreading ulcers. The same things also follow the myagrus, and it is treated with the same [remedies]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.23.head",
+   "text": "23 The animal seps."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.23.1.1",
+   "text": "The so-called seps is found to be two cubits in size, 1 tapering from thick to thin. It moves straight and slowly, and has a broad head and a pointed mouth; it is sprinkled over the whole body with white spots. Those bitten by it discharge blood from the punctures, which are visible, and after a little foul-smelling ichor, and swelling and dull pain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.23.2.1",
+   "text": "The affected parts, rotting, turn white, and a leprous colour 2 comes over the whole body, and loss of hair over the whole body. They die within three or four days."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.23.2.2",
+   "text": "These too are helped by the remedies mentioned for the horned viper and the ammodytes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.23.3.1",
+   "text": "3 Apollonius too in his Easily Procured Remedies sets out the following remedies for these: anoint the bitten place with butter with honey. Give to drink the lees of fresh honey-water, adding vinegar and straining it, or oxymel, or fennel seed boiled with half a kotyle of white wine, or give panax root likewise in a moderate amount with wine;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.23.4.1",
+   "text": "4 it is also beneficial to apply to the bite sponges soaked in hot vinegar. From the [writings] of Strato: give as much purslane juice as possible to drink, or give rather undiluted myrtle wine, or grind vine tendrils with wine and vinegar and give to drink."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.24.head",
+   "text": "24 The hydrus and the chersydrus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.24.1.1",
+   "text": "1 This snake is named chersydrus for this reason: at first it lives in watery places and is called hydrus, but afterwards in very dry places, and it has acquired its name from the combination of the places."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.24.2.1",
+   "text": "So living on dry land it is also called 2 chersydrus, at which time it becomes even more dangerous than itself; for in moist places, filling itself with moist food, it does not have its venom undiluted, but when it has become a land animal it holds it most pure and more dangerous. It resembles a small land asp, except for spreading its neck; for only asps have this as a distinctive feature."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.24.3.1",
+   "text": "3 In those bitten by these, the wound widens and swelling occurs, continuous fiery pain, the place livid and dreg-coloured, dizziness, collapse, distress, vomiting of foul-smelling bilious matter; and peculiarly, a disordered movement of the whole body, so that foreign matter is also carried through the bowel, and burning of the whole body. Death [comes] within the third day. Cure of the evil comes with time and is achieved with difficulty."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.24.4.1",
+   "text": "4 These are helped by the common remedies, and specifically by the following: first by the theriac antidotes written above, and also by these: cypress fruit 1 drachm, myrtle fruit 1 drachm; these, pounded and ground smooth together, are to be given to drink with hydromel or wine-and-honey; or aristolochia 2 drachms either in mixed wine or in 6 kyathoi of oxycrate, or horehound juice, or a decoction of either with wine, or fresh honeycomb"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.24.5.1",
+   "text": "with vinegar; on the affected places quicklime ground with oil should be applied, or oregano kneaded with water, or the bark of oak root ground fine and barley meal melted together with honey. We also use the other drawing preparations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.25.head",
+   "text": "25 On the dryinus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.25.1.1",
+   "text": "The snakes called dryinae are more numerous around the 1 Hellespont, and they make their lairs in the roots of oaks, whence they are also called dryinae. They are foul-smelling, so that even when not seen it is known where they are; it is about 2 cubits [long], very fat, protected over the whole body by very rough scales; and in these scales, they say, bronze-winged flies lodge, and these kill the snakes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.25.2.1",
+   "text": "So those bitten by these suffer the following: blackening 2 swelling, violent pain, spreading ulceration, derangement, dryness of the body, hiccup, vomiting of bilious matter, retention of urine, loss of voice, stupor, trembling, and death with a rattle; those who tread on it suffer flaying of the legs and swellings; and in general death comes to most through necrosis of the bitten places. So powerful is the venom that it even harms the hands of the doctors treating them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.25.3.1",
+   "text": "These too are helped by birthwort drunk with wine, and by the 3 three-leaved herb, and by asphodel root taken in the same way; and the fruit of any oak, drunk and applied as a plaster, is of help. They are also helped by the remedies stated for those bitten by vipers, and by some of the common and general ones, in proportion to the symptoms that attend those who have been struck."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.26.head",
+   "text": "26 On the cenchrines, also called acontias."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.26.1.1",
+   "text": "1 The cenchrines snake is 2 cubits in size, tapering in shape from thick to thin, greenish-yellow in colour, and especially on the belly, so that it resembles millet in colour; and for this reason some have named it cenchrias. Others say that it is not called cenchrias for this reason, but because it becomes most vigorous when the millet is flourishing. In defending itself it advances by darting itself like a javelin, and strikes in this way; hence it has also been named acontias."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.26.2.1",
+   "text": "2 Those bitten by it suffer what [is suffered] also by those bitten by vipers, and still worse things, so that putrefactions and sloughing of the flesh follow, and death comes upon them more terribly. The remedies are similar to those for viper bites and for the | other related [creatures] that produce similar illnesses."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.27.head",
+   "text": "27 Amphisbaena and scytale."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.27.1.1",
+   "text": "1 These animals are similar to each other: for they do not taper from thick to a thin tail, but are of even thickness, so that those who see them cannot make out at which end the head is and at which the tail. The amphisbaena differs from the scytale only in moving in both directions, which is also why it has been called amphisbaena."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.27.2.1",
+   "text": "2 With those struck by these, the bite appears faint, like the sting of a fly; and when they bite they do not kill, but bring on only inflammations, as with wasps and bees; so let the same remedies be transferred to these cases too, as well as those stated for the chersydrus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.27.3.1",
+   "text": "In Soranus the Chalcedonian scy- 3 tale is recorded as producing symptoms similar to those that attend people bitten by a female viper, so the same remedies must be used. And, to put it simply and in general, for every bite of the kinds of creature named, the remedies for viper bites are suitable, since they are general and well suited to the wound of any venomous creature."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.28.head",
+   "text": "28 Pelias and elops."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.28.1.1",
+   "text": "The signs of these animals I did not 1 find in the theriac-writers, but what attends those struck by them, and the treatments that I found, I will record."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.28.1.2",
+   "text": "Those bitten by the pelias, then, suffer pain about the place and harmless putrefaction, and severe pain in the eyes and dimness of sight, from the venom being carried up to them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.28.2.1",
+   "text": "They are treated by having stale urine or brine poured into the eyes, or [one should] bathe their head with the urine of a 2 virgin boy and pour it into the eyes; or else mix balsam juice with Attic honey, or also euphorbium together, and anoint."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.28.3.1",
+   "text": "Sharp eye-salves that sharpen the sight are also suitable 3 in these cases, applied as ointments: for by stinging the eyes they open the pores, and the venom is expelled together with the flow of tears. When the deep pains have ceased and the pain is only around the eyes, then one must change to the soft and soothing eye-salves; and give them barley-gruel juice with oil to drink beforehand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.28.4.1",
+   "text": "Those bitten by the elops suffer colic like that of ileus; 4 those bitten by it are treated with the common remedies, and especially with diuretics and with those that soothe colic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.29.head",
+   "text": "29 Agathodaemon and typhlias."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.29.1",
+   "text": "Likewise the signs of the appearance of these are not given by the theriac-writers. What attends those struck is as follows: those [bitten] by the agathodaemon have pain alone, those by the typhlias pain with burning; so they ought to be treated with remedies that draw [the venom] up."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.30.head",
+   "text": "30 Dragon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.30.1.1",
+   "text": "1 This animal is not venomous, but it kills by strength and force. Dragons are most numerous in Ethiopia and in Lycia, and they differ in colour: | some of them are black,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.30.2.1",
+   "text": "2 some tawny, some ash-grey; and again they differ greatly in size: some are five cubits, some ten, some fifteen, some twenty, some thirty, and larger ones are also recorded. They have scales over the whole body, they have large eyes, and above these they have certain projections resembling eyebrows, and under the chin they have a certain outgrowth, which they call a beard."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.30.3.1",
+   "text": "3 Their mouths open wide, the tongue projects, the teeth are large, resembling those of wild boars; and wherever they bite they cause fractures. So let the treatments be carried out as for a wound and not as for a venomous animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.31.head",
+   "text": "31 Basilisk."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.31.1.1",
+   "text": "1 This animal is three palms in size, sharp-headed and yellow in colour. It has the greatest power, beyond all other reptiles, so that not one of them endures its hiss; even if one of the animals is hurrying to food or drink and perceives the presence of the beast about the place, it turns back and withdraws to where it came from, taking no thought even for the food necessary for life: such power does it have."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.31.2.1",
+   "text": "Those bitten by it suffer inflammation of the whole bo- 2 dy and livid discoloration from the excessive burning of the venom; the hair falls from the body, so that the one struck by it does not have even an ordinary span of life; and indeed no flesh-eating creature touches the body of one who has died from it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.31.3.1",
+   "text": "And if any [creature] tastes of it from 3 hunger, death falls upon it too on the spot; hence we consider it vain and superfluous to record remedies, since on the whole none of those struck by it can be saved. But Erasistratus says that 3 drachms of castoreum drunk with wine help, and likewise poppy juice."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.32.head",
+   "text": "32 Paroas, spathiurus and scolopendra."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.32.1.1",
+   "text": "The paroas snake is found in the regions of Syria. 1 In colour some are bronze-coloured, some blackish; they do not kill by biting, but just as the amphisbaena and the scytale, so this one too brings on only inflammations when it strikes; so let those struck by it be treated with the same [remedies]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.32.2.1",
+   "text": "The spathiurus is found in the regions of Chalcitis. 2 The animal tapers from thick to thin towards the tail, and is flat-headed; it is most hostile to mice. This one too does not kill by biting, but only brings on inflammations; so let those struck by it be treated with similar [remedies]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.32.3.1",
+   "text": "3 Those bitten by the scolopendra suffer itching, moderate swelling, and pain that soon resolves; so they too are helped by the common drugs. Apollonius in his Easily Procured Remedies recommends bathing the places with sharp, hot vinegar-brine and applying a plaster of fine-ground salt with vinegar."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.head",
+   "text": "33 Shrew."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.1.1",
+   "text": "1 The shrew resembles the domestic weasel in colour, but the mouse in size, whence it also has its compound name. It is ash-grey in colour, has a long snout, and has a thin, docked tail; it has thin teeth, and these in a double row in each jaw, so that there are four rows of teeth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.2.1",
+   "text": "2 In those bitten by it the wounds are conspicuous: for wounds in four rows will be seen; and blood comes out, at first clean, but after a little serous; for the animal kills by putrefaction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.3.1",
+   "text": "Blisters usually rise too, and if one strips them off he will see the underlying 3 flesh dreggy and broken up; those struck also suffer inflation with wind. Strato — for he first records what has been said above about the animal and those struck by it — said that the animal leaps chiefly at the testicles, not only of humans but of every animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.4.1",
+   "text": "4 These too, since they are in danger of putrefaction, are helped after the common remedies as follows: give the tender leaves of bay ground fine with wine to drink, and it helps greatly; or give southernwood boiled down in wine to drink, and wild thyme and rocket likewise; and dissolve galbanum in wine and give it to drink, and the tender cones of cypress with vinegar, and cyclamen with oxymel, and pellitory with wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.5.1",
+   "text": "Apollonius 5 in his Easily Procured Remedies recommends: grind garlic with its skins, and an equal amount of cumin, dilute with oil, plaster the bites, and anoint the surrounding places. If it breaks open and ulcerates, bathe with vinegar-brine and sprinkle burnt barley on the ulcers; but it will not break open, he says, unless the shrew that bit happens to be pregnant. When it ulcerates, apply boiled sweet-pomegranate rind as a plaster, bathe with a decoction of myrtle, and use all the remedies for spreading ulcers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.6.1",
+   "text": "A small pad of galbanum laid 6 over the bite also helps, and barley meal applied as a plaster with oxymel; and the shrew that bit, itself split open and laid on, is an antidote to its own wound; so too is pellitory sprinkled on the wound."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.7.1",
+   "text": "Archigenes in his books 7 On Drugs by Kind says: those bitten by the shrew suffer throbbing pain and redness at each tooth-puncture, and also blisters full of serum, and serous discharges; when the blister is stripped off completely, the underlying flesh appears white at the ulcer itself; when this is scraped, it breaks down into sinewy membranes, and besides this, sometimes certain putrefying pieces fall away."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.33.8.1",
+   "text": "Those bitten are helped by at once drinking the shrew itself ground in 8 wine, or horehound, or rocket, or cultivated safflower, or bergamot mint, or southernwood, or the other things stated for similar cases."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.34.head",
+   "text": "34 The Chalcidic lizard and the salamander."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.34.1",
+   "text": "Those struck by the Chalcidic lizard, as I found in the writings of Soranus, he says, at the moment of being bitten develop a swelling translucent as if from a lantern, and blackness and putrefaction about the part; so these too should be treated with what was stated for the shrew."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.34.2",
+   "text": "Those struck by the salamander suffer violent pain all round and formation of an eschar. For these too the treatment is to correspond to the symptoms that follow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.35.head",
+   "text": "35 Four-jawed animals and spiders."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.35.1.1",
+   "text": "1 Of the four-jawed animals there are two kinds. One is somewhat flat and whitish, with rough legs, and on its head it has two outgrowths, one straight and one slanting, so that one infers it has two mouths and four jaws. The other, as the theriac-writers have described it by comparison, has an equal and similar line at the mouth, so that it appears to have two mouths and four jaws."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.35.2.1",
+   "text": "2 Those struck by these, as Archigenes says in his On Drugs by Kind, suffer in general the same things as with scorpions, but particular to them are these: the wound aches intensely, the place around the wound turns whitish, they are sleepless, face and head swell, the struck parts waste away as far as the joints, and they stay without nourishment even when healed. They are helped by being given calamint, or trefoil, or rue, or all-heal, or polium to drink, and by what was stated for those bitten by venomous spiders; for these too are kinds of venomous spider."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.35.3.1",
+   "text": "3 On spiders. There is also a kind of spider which, when it strikes, brings intense pains about the middle of the hypochondrium, and redness and difficulty in urinating, and sometimes also choking. Those struck by these too are helped by being given Theban wild cumin, or chaste-tree seed, or white-poplar leaves to drink, or by eating a good deal of garlic and drinking unmixed wine after it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.35.4.1",
+   "text": "4 Apollonius too in his Easily Procured Remedies hands down almost the same things to us, recommending that garlic be given with food, and the cumin with an equal amount of chaste-tree in unmixed wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.36.head",
+   "text": "36 Toad."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.36.1.1",
+   "text": "Theodorus in book 76 of his treatise, explaining to us the appearance and nature of the toad, says this: the toad seems to me to be a kind of frog, the animal being aquatic, but having changed from a marsh-dwelling nature to a land-dwelling one."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.36.2.1",
+   "text": "It is called phrynos 2 in a way similar to the chersydrus, and it inflicts harm hard to heal on those who meet it; for the animal is fairly large, so as to fall nothing short of a small tortoise; its back is rough, and it swells up greatly when filled with breath."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.36.3.1",
+   "text": "It defends itself rather boldly head-on 3 and closes the distance between by its leaps, but rarely uses bites. Its breath is by nature extremely venomous, so that even if it only touches with its breath, it harms those who come near. The further things recorded about the animal I pass over, since I am eager to set out only the more useful."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.36.4.1",
+   "text": "Those struck by it suffer swelling of the whole 4 body, bursting, and swift death. So the remedies suited to them must be applied from those handed down, I mean the general and common antidotes and the rest of the regimen that goes with them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.37.head",
+   "text": "37 Sea stingray and moray."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.37.1.1",
+   "text": "Those struck by the sea stingray have 1 a visible wound, and intense pain sets in at once, and numbness of the whole body, and putrefaction, and swift death. Some record that if one removes the stingray's spine that struck and fixes it in a tree, best of all an oak, the tree itself will wither, and the sufferer will be freed, by the principle of antipathy."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.37.2.1",
+   "text": "2 Those struck by it, since chill and numbness of the whole body follow, are helped by warming ointments and the other common plasters. Particularly for these, bran boiled with vinegar and applied as a plaster helps, and the vinegar itself also helps greatly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.37.3.1",
+   "text": "3 What Strato hands down to us particularly in his writings is this: apply, he says, bay leaves ground fine as a plaster, and give the decoction of bay with wine to drink, or give Cyrenaic juice with mixed wine to drink, or myrrh should be used likewise, or grind pepper together with rue and myrrh and give it with stronger wine, or grind silphium and give it with wine likewise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0671.tlg001.1st1K-grc1.37.4.1",
+   "text": "4 Those struck by the moray suffer what those bitten by vipers do, so let them receive the same remedies too. Archigenes says: for sea creatures, such as the stingray, moray, and sea-dragon, give four or five drops of fig juice with three or four sprigs of wild thyme to drink."
+  }
+ ]
+}

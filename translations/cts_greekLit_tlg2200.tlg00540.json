@@ -1,0 +1,394 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2200.tlg00540",
+ "edition_urn": "urn:cts:greekLit:tlg2200.tlg00540.ai-claude",
+ "source_edition": "tlg2200.tlg00540.opp-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Declamatio 40: AI translation (Claude)",
+  "author": "Libanius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2200.tlg00540.opp-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.head": "In 6.1 the text 'χρῆσι μ’ εὑ σ’ ὄντων' is evidently a scanning corruption of χρησίμων ἐσομένων ('who would be useful'); translated accordingly. The father's address in 9.1–10.1 is given closing quotation marks at the end of the stretch, though the speech may continue.",
+  "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.11.1": "2.20: <οὐχ> is an editorial supplement, translated as 'not'. 2.24: ὁ δράσας ἐκπέφευγε τὰ τῶν κακούργων rendered 'escapes the charge of wrongdoers'; literally 'escapes the [lot] of wrongdoers'.",
+  "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.27.1": "Line 27: 'παῖς ... ἐμός ... ὡς ἀπὸ τῆς ἐμῆς ποτε θυγατρὸς ἐγνωρίζετο' read as recognised as son-in-law through the daughter; the stray '17 ’ν' is read as ἦν. Line 34: the text may be corrupt around 'ἢν δέ μοι καὶ ἡ χεὶρ ἀθεμίτως ταῦτα ... ξυνείσεται'; translated as printed. Line 37: ἵρως read as ἔρως.",
+  "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.40.1": "40: ἀλορᾶς read as ἀγορᾶς; ἴδει as ἔδει. 41: sense of the opening is elliptical; taken as the prosecutor's objection. 44: last clause (σώζεσθαι) is obscure; text may be corrupt. 48: dittography ἀποκτενοῦν- ἀποκτενοῦντα read once. 49: the asterisk marks a lacuna in the edition. 54: final question is awkward (οὐ κουφότερον); possibly corrupt, rendered literally.",
+  "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.56.1": "Section 60–61: the quoted talk of the people is taken to run to the end of 61. Section 62: ἐφ’ οἷς εἷλε ('for what he caught her in') understood as the catching in the act of adultery. Section 63: ἔν read as ἵν’. Section 64: ἐπέξιθι read as ἐπέξελθε ('go through').",
+  "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.72.1": "In 72 the edition's 'ἐκ- ἐκτεμεῖν' is a dittography, read as 'ἐκτεμεῖν'. In 79 'ἵνα μὴ λέγω τοὺς παῖδας' ('not to say the children') is taken as the speaker declining to name the children as the cause; the sense is uncertain. In 82 'δυστυχὴς εἶναι δικαίως' is obscure; it is rendered as being unfortunate through a just condemnation."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.head",
+   "text": "XL."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.head2",
+   "text": "The law: a husband gains the dowry of a wife caught in adultery. A man, posing as a stranger, tempted his own wife to adultery and caught her. Her father, alarmed at the disgrace, gave another dowry. But the husband kept this one too on the same terms as the first, and the father again gave another. When the husband had done this many times, and she had been deceived each time, the father finally killed them both and is put on trial."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.1.head",
+   "text": "Preliminary analysis."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.1.1.1",
+   "text": "Unfortunate is the father, the most unfortunate of all fathers who ever lived. For a little while ago he brandished a sword against a bridegroom and his newly married child. The sword is still warm and his hands still drip with gore. So the speech needs emotion, as much as possible. And whenever he mentions his daughter, he will groan in his speech, bewail himself for his fortune, and blame some grievous *telchine* [malign spirit] among the divinities, who both turned his daughter's mind to this evil and forced his own hand against his child."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.1.2.1",
+   "text": "He will not deny that he is an unfortunate father, but he will deny that he is a wicked one. This he will contest as far as he can, and he will hasten also to show that killing with his own hand was against his will. Thus he will both treat the underlying suspicion and confirm the element of necessity, touching only a little on the girl and attributing most to the woman's being easily deceived, so that he may not seem to have killed one wholly blameless; but he will fasten the whole villainy on the bridegroom and insist that he was the author of the entire drama. He will add, however, how at first he cared for him too, so as to remove from every side the appearance of being savage and to substitute that of having been forced."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.1.3.1",
+   "text": "Thus the children would be the ones who began wronging their father, together with the whole family and the whole city, and who all but raised the sword against themselves; and the father the one who cut away the outrage to the family and set the city's good name above being a father."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.1",
+   "text": "The declamation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.1.1",
+   "text": "1. If I did not know that you are fathers, gentlemen, I would perhaps have thought the accuser seemed to be saying something, and in trying to misrepresent fathers' conduct before men who were not fathers he would, I think, have been far more persuasive. But since you are fathers and are not ignorant of affection for children, and this alone the accuser, even with Fortune's help, could not take from <me>, and I myself am a father, unfortunate indeed and the most pitiable of all fathers, yet neither have I willingly become wicked in my nature, nor could this man say so, I beg you, I earnestly beg you, do not vote to condemn me or put me to death as unjust toward my own before you have reckoned that you yourselves stand at this tribunal—in thought, for may you never come to such a fortune in deed—and before you have considered how great the power of nature is among fathers, and what children would have to dare to rouse their parents to such hatred that they arm their right hand with a sword against those they begot, after whom they will no longer have the name of fathers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.2.1",
+   "text": "Now if I am on trial before you simply as an unfortunate man, and someone knows of penalties under some law for those to whom Fortune is unkind, and the accuser's aim is to kill a man who did not even wish for how things would turn out, then let the executioner come with his sword, let this excellent man exact the penalty, and you cast your votes on these terms; do not delay, since you will be doing a kindness if you thus cut off an unfortunate father together with his attendant evils and take life from one who has come to such misfortune that with his own hands he deprived himself of the name of father, that name sweet to others, for the divinity has not left it such for us. But if it is one thing to be unfortunate and pitied, and another to do wrong and be punished, take pity on the fortune of one who has done no wrong but has suffered misfortune greater than all, who begot and reared children, but no longer enjoyed the hopes which, O gods, I nurtured for them, fine and noble hopes, with which I lived until lately, and with which, now that they are gone, it would be better for me too to be gone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.3.1",
+   "text": "This one thing, then, I first ask of your humanity, and second, something no less owed in justice than the first: that it is I, a father, who am on trial, that those who have fallen are my kin, and the evils are family evils, and I must proceed through these things to persuade you that they were doing wrong and I was repelling the outrage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.4.1",
+   "text": "Of this the cause is this fine man, who set before me such a choice, to take one of two things: either to endure saying nothing and lie among criminals, or, trying to prove that I am no criminal, to uncover my own misfortunes as though on a stage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.5.1",
+   "text": "5. It seems that Fortune, along with my present plight, is eager to rob me of this too among fathers' privileges: to cover up the outrages of one's children as far as possible. So if, when I recall the wonderful bridegroom and my daughter's fine pursuits, my tears flow thick, my voice is cut off, and my words fail, do not overlook me as I am driven from much of my case by the pain of memory, but try yourselves to fill in what has escaped my reasoning, confused as it is by so many evils and unable to see clearly even what should be said. For this will be for me a just aid toward [showing] I am no criminal, and for you no mean assurance that your votes are in every respect true to your oath."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.6.1",
+   "text": "6. I married a wife, gentlemen, according to the laws of the city, and, unhappy man, I prayed to be called the father of children, who would be to us their parents all that good children are, and to the city and people useful in generalships, in choregies, in public leadership, in tax contributions, at home in peace, abroad in war."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.7.1",
+   "text": "But the gods granted part and withheld part. They gave me a daughter, and thereby I was seen to be a father, and that once only, since the gods, I think, granted even this under compulsion and paid little heed to my sacrifices; but that I should keep this title to the end, this, it seems, neither did they decree nor is it left to me henceforth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.8.1",
+   "text": "But this belongs to my later ill fortune and the wicked *telchine* that came after; at the time, at any rate, I received the event with pleasure. I thought my daughter a gift of the gods, as though a spark to rekindle my whole family had been given me from her. When she had become a girl and was reaching the age of understanding, and was not undistinguished in looks, but some beauty shone in her face, and in mind, as it then seemed, she fell little short of her outward bloom, I admonished her, and her mother trained her, as she laboured at wool-working, in all that is women's work."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.9.1",
+   "text": "And I, a father then—for this name no longer remains to me now; would that from the start neither she had been called mother nor I father, for not having begotten at all would have spared us lamenting now over such things—then, at any rate, what did I not contrive for my daughter's chastity? What did I not urge? 'You have beauty enough already, child,' I said, 'as the gods and fortune willed, and nature's gifts are not to be faulted, but you must build what comes from yourself on what comes from outside, so that your soul blooms no less than your body. For everyone will admire nature for the latter and think your bloom her gift; but if you are chaste and practise all that befits maidens, there will be no one at all who will not say this beauty is your own."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.10.1",
+   "text": "For if you show the meadow of your face radiant, but sully your soul, which the gods forbid, with baser deeds, and the beauty of chastity is absent and the dignity of modesty not present, even your bloom would come to nothing for you. You will shame your family, you will shame yourself together with your beauty, and the disorder of your soul will expose the splendour of your body.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.11.1",
+   "text": "Besides this, every day many examples flowed to me, and many women of the former generation were brought in who had a reputation for one way of life or the other. Of some I set forth the praises, all those whom men admired in speeches or poets exalted in their verses; others I reviled, all those who did not use their bloom for anything good."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.12.1",
+   "text": "So, as I spoke, and she received my words not unwillingly, and time, running on more quickly, brought her to marriageable age, then I considered how my alliance by marriage might turn out well for me; of some I examined the family, of others I scrutinised the character, others I tested in other ways. But that divinity who led me into this misfortune contrived, it seems, another course against us. He persuaded me to pass over the others, and compelled me to join my little daughter to the worst of all men."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.13.1",
+   "text": "So the marriage went forward, and there came to celebrate my daughter's wedding with me companions, strangers, all my kin, all the city—a lavish audience, one might have said, for the misfortunes that followed. And I, wretch that I am—for I did not think that Fortune's dealings with me would end in this—lit the wedding torches, led the procession before that wonderful child, prayed for better things, and added something of my prayer for the fine bridegroom too: 'May he become a happy father, O gods, and may it be granted me to be called grandfather along with father.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.14.1",
+   "text": "I did not know, then, that my prayers would fall away wholly unfulfilled, and that with these hands, by which I had reared her and adorned him as a bridegroom, I would take up—alas—a sword and a slaughtering knife, and be forced to kill those in whom alone I nursed my better hopes, whom I begged the gods would live long, from whom [I hoped] to have received the last honours and the other rites due to the departed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.15.1",
+   "text": "So I was already offering the wedding sacrifices, and rejoiced as I lit the wedding fire, I who before long would light the funeral torches and lead out the funeral procession; and when the wedding was complete, he then had my little daughter, taking her under the laws, and we dreamed of seeing grandsons too, we who before long were robbed even of our only child."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.16.1",
+   "text": "This was the beginning of our ill fortune, this the prelude to our misfortunes. For when he had my little daughter at home along with the dowry and was master of his wife's body, he devised a most unholy plan, unworthy of the marriage. He looks at the money, reckons on taking it, calculates on the law by which it is laid down that an adulteress keeps nothing. From then he begins to plot against his wife."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.17.1",
+   "text": "And in his plot—O Zeus and Hera and all you other divinities and gods of marriage—he set out to deceive his wife, and, himself playing the part of the adulterer, this enemy of the gods sent ahead messages and words such as a real adulterer might use, and held out gifts and put forward promises by which even a chaste woman would easily have been led into deception."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.18.1",
+   "text": "And she, though she had shaken him off when he pestered her once and many times, at last, partly led on by the gifts, partly deceived by the promises—for what is more artless when it comes to deception than a woman? Or what more treacherous than that foul plot, which that accursed villain wickedly schemed under a bloodguilty divinity?—disregards my words, which I had poured on her many times and at length about chastity, passes over the shame that would come to her family from it, does not suspect her husband's trick, and becomes the spoil of the man who lay in ambush."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.19.1",
+   "text": "And then that fine fellow, using the city's fine institution, namely the laws, for the most shameful of all ends, shut out of the house the woman who had truly been seduced, while he himself, who had put together the whole drama, not only claimed to suffer nothing, but even thought fit to profit from the dowry. For he thought, it seems, that the law had been written from the start against women alone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.20.1",
+   "text": "When I learned this and saw my little daughter already in danger of being cast out with insults, at first I did not know what to do in the circumstances, but stood all withered, stunned, for the unexpectedness of the misfortune shook my whole mind; but at length, recovering and gathering my wits back to myself, partly fearing the disgrace of the family if the city should learn of this, partly supposing that she had been deceived only once and that he had <not> schemed it so, I gave a second dowry and, so to speak, struck up a second marriage from a second dowry—what reproach did I not heap on my daughter, what outrage did I not threaten, what rebuke did I not give in anger? Him I partly admonished, partly promised that, if he needed money, he could have it from willing givers, and I begged him to keep silent, lest any awareness of this evil should reach the city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.21.1",
+   "text": "And I, having thus joined and bound both together again in goodwill, as I supposed, thought I would now stop them doing wrong in future; but again he devised the trick, and she came to such folly as to be led astray in the same way as before and to disgrace herself to the outrage of the family. And again he profited, and she was shut out, and I, ill-starred, paid for a third marriage from my own money, and again raged at her, and asked him to give up the scheming, since he knew everything of his wife's [conduct]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.22.1",
+   "text": "When they did not stop scheming the same things yet again, and I saw my house being drained of its substance entirely, and the city everywhere full of the outrage, turning away from her for her utter folly, and loathing him, as was fitting, for so monstrous a villainy, I take up a just anger against them, and pass a common sentence on those who had sinned in common with each other, and striking with one blow those who had struck me many blows to the heart, I free them from life and from the shame that came of it, and my family and the whole city from the outrage that came from them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.23.1",
+   "text": "I suspected, then, that for this I would seem unfortunate, as much as any father ever was; but wicked—by the gods—I neither reckoned myself nor thought others would suppose me to be guilty of this very thing; rather I expected the more reasonable of the citizens above all to pity me for my misfortune, or, failing that, to blame Fortune—for I hesitate to speak of my children. But he, as though he saw me rejoicing at my family's misfortune and made more cheerful by their fall, says, 'Come, to pay the penalty for what you have dared against your children,' and on top of this puts forward the bare name of murder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.24.1",
+   "text": "But I think it fitting not to bring up the deed alone by itself, nor so to demand an accounting of the doer, unless you also learn the intention with which he did it. For many deeds have a rather bad name, but if one adds the manner of them, at once the seeming badness is thrust away and the doer escapes the charge of wrongdoers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.25.1",
+   "text": "And now the accuser brings forward the bare deed, and, separating this alone from the rest, asks over and over whether I did not kill my children; I do not at all deny that I did it, but that I did it rightly, this I will try to teach you, if somehow I can shame this worthy man too, who has shown himself more loving toward the children than their father, and harsher to us than Fortune."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.26.1",
+   "text": "Of wrongs, accuser, one pays the penalty for some: those in which he is caught doing harm out of enmity, or plotted with an eye to gain, or is convicted of scheming in some other way. But in cases where the wrongdoer has fallen, and the other did not plot first, but, having first suffered unjustly at his hands, defended himself justly with what he had, no one at all, I think, neither law nor judge, would ever accuse this man of anything."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.27.1",
+   "text": "So if you too can say any of these things [of me], denounce me as cruel to my own flesh and blood. And yet who does not know that I, the unfortunate one, am the father of the children, and that those who have fallen were, the girl, one of the newly married, for whom a little while ago I lit even the wedding fire, and escorted her in procession right up to the bridal chamber, and begged the gods on the girl's behalf for everything that a good father would pray for, even if I gained nothing at all from that prayer and from the sacrifices which I, wretched man, offered with good omens at the completion of the marriage, to no profit, as it seems. And he who contrived for me the desolation of my whole family and turned my dearest into enemies was the bridegroom, but he too was my child, even if of other parentage, since he was once recognised as [son-in-law] through my daughter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.28.1",
+   "text": "Now all these men who have been allotted to preside over the platform and to steer the city by laws are fathers, and are not ignorant of the affection for children that comes from this; but you, if Fortune has not yet made you a father, would not be pardonable even so, for why do you dare to argue hotly before the assembly about things whose nature you do not know? Yet you would be more moderate in your seeming boldness, in that you attempt to slander one who has done no wrong not from some malice but out of ignorance. But if you yourself are a father and, by the gods, have had children to see and to rear, take care that you do not seem to be malicious toward your own."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.29.1",
+   "text": "And perhaps you are conscious of nursing some hatred toward your children. And as you know yourself to be perverse toward your own flesh and blood, so you unjustly suppose that others are too. But if I did not hate them, it is clear that no envy either armed my right hand against my dearest. For if one removes hostility from fathers, one has surely removed envy along with it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.30.1",
+   "text": "Or is it not shameful even to say that one who is a father, and that a human being, hates and envies? For things which not even beasts would bear to do to their offspring, how would it not be disgraceful to attach these to a man, and to one who did not receive a barbarian's upbringing, but was reared under laws and democracy, and married a wife according to the laws, and prayed to see children, and having seen them, to rear them, and having reared them, to enjoy for good the fruits of the labours spent on them? But could you readily say that he did such wrongs for gain?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.31.1",
+   "text": "And yet what gain could you say accrues from this to an excellent man? By Zeus, to take up the inheritances of the fallen and thereby increase his house with money? What a fine gain, O gods, to take life from a human being of the same nature, of the same city, and not just one, nor simply a human being, but those he begot, those he reared, those he educated, from whom he hoped to see more children, to destroy these with his own hand, so that he himself may grow rich from a source the law did not allow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.32.1",
+   "text": "I would gladly ask you, who fasten on us from I know not where or how, and compel a father long unfortunate, and robbed of the greater part of his soul along with his children, to make a theatre-show of his own calamities in the middle of the platform and to say things at which, if others were saying them, I would rightly sink into the ground: at how many talents would you yourself, if you have children living, value depriving yourself of being a father by your own right hand? Then do you boast that you would not betray nature even for all wealth, while I am so petty about what all men hold most precious, and what barbarians, and why do I say barbarians? Rather even beasts and all that is wildest on earth value most highly, or rather above everything, and if they somehow happen to lose it, they willingly throw away their very souls along with life?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.33.1",
+   "text": "But I am not so ignorant of justice and the laws as not to see that, if they survived and lived well as citizens and fared well in fortune, I would have children to address and would myself hear the name of father from them, the thing most prayed for by all men, and some of my possessions I would share with them by the law of fathers, while some I myself would receive in turn from willing givers, whenever and whatever and as much as I needed of their prosperity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.34.1",
+   "text": "But if they should be gone, and life remain to me, I shall be deprived of all that they would have bestowed if they survived, and having lost, along with the rest, being called father, I shall live wretchedly and miserably. And if my hand should share in this unlawfully and improperly, though now, I think, it shares in it reasonably and according to law, they will none the less be gone, while I shall not only be shut out by these guardians of the laws from what I unholily hoped to profit from it, but along with being thought a criminal and the most perverse of those wicked toward their own flesh and blood, I shall also incur the penalties laid down for the impious, and the executioner's hand will before long take over my right hand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.35.1",
+   "text": "And if one should grant even this, that there will be someone among all men so unjust toward the common laws of nature and so utterly uninitiated in the laws enacted for the city from outside, yet that which those who wish to do any wrong whatever are most eager for, namely to be able to do wrong undetected, this I would surely have hunted with every device, so as not to admit at all that I had ever touched the sword, rather than to hold out this truly unfortunate right hand, still stained with the gore of my children, all but whetting the executioner's sword against myself. For my part I would blame these unfortunate hands for nothing else except this, that they did not add me as a third, so that I might no longer feel pain, perceiving nothing of the evil, nor be mocked by you now before the assembly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.36.1",
+   "text": "I would have had another way, if I was hostile, both to sate my whole anger and to guard against becoming manifest in such deeds: if anything they possessed charmed me, I could have had it by receiving it from willing givers. And if they refused to give, it was still possible to filch it, cheating them by deceit. If something persuaded me to be so hostile to them, it was possible for them to become the work of another's hand, and for me to escape seeming to do wrong. And if I had tried to kill them with poison, who of all men would have perceived it? But as it is, I neither chose to do wrong nor contrived to escape notice."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.37.1",
+   "text": "What then was that destruction of the children, and how did it come about? It was zeal on behalf of a family being disgraced, and just anger. But, alas, I must again tell the evil like a tragedy, and again none the less in part shame the children, though fallen and no longer living, as having acted badly, and in part myself hide my face for them and for their audacity. A lust for money troubled him, and he looked down on his wife's beauty, but was captivated by her dowry rather than by her."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.38.1",
+   "text": "From then on he devised tricks, and she was drawn in. And he, though he could be called husband, wanted to be an adulterer, and attempted to steal secretly the woman whom he had under the laws. And she, not once but many times, was caught when he tested her, and mixed so much folly with her incontinence that not even after the first test did she suspect her husband's bitter scheme, and think in a manner worthy of her family, and feel shame before me, her father, who was so greatly disgraced by these things."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.39.1",
+   "text": "The city heard of the scheme, was vexed, and against both who had rehearsed that novel drama the talk rose, the shame grew, and the evil paraded through the middle of the marketplace, and thereafter on every tongue everywhere was sung the villain and inventor of a new kind of adultery, that chaste daughter, so full of good sense and wits, and, third after these, I. And someone, naming so-and-so, would jeer and add, 'and the father of that marvellous girl.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.40.1",
+   "text": "What then, by the gods, ought I to have done, prosecutor? Walk through the marketplace, named after the outrage? Address the people from the platform, laughed at by these clever orators? And with what eyes would I have looked at jurors, or dared to greet friends, or even to converse with any of my other acquaintances? How would I have borne it with these ears, hearing some mocking, others, the more moderate, pitying my fortune, and others telling those who did not know that this man is the father of so-and-so and had a bridegroom far more respectable than the girl?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.41.1",
+   "text": "41. Or are these things grievous to hear and not tolerable even for a little while to those with sense, but [you say] I ought to have tried to bring her to her senses by admonishing, for these are the works of a sound-minded father? Did I not then admonish, did I not exhort? But [it is said that one should] end with the deeds of the hand when words are proved useless. Did not I too finally proceed to this, after those many exhortations, after the countless rebukes before, after the bare threats of murder which I often brandished over them? For, fool that I was, I thought that fear would set over them a guard not to be disregarded, and when I had run out of gentle words I intended to sharpen [them] with harsher ones, threatening beforehand, before the deeds, what I was going to do."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.42.1",
+   "text": "When even so I accomplished nothing by words, I arm my hand together with justice, and before my hand my resolve, and I imitate the wiser of the Asclepiads, who look to cautery and the knife when their drugs come to nothing. This was the end for them of the trick and of that foul deceit, and for us of the disgrace from it, for I surely cannot say [the end] of our misfortune as well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.43.1",
+   "text": "I cut out of the city an adulterous husband, I killed a hostile bridegroom, I also put fear into those allied by marriage, I preserved their property for fathers, I taught husbands to cherish the woman married by law, I frightened wives from turning aside to others than those to whom their fathers had given them, I set up suspicion as a fortification for families. For who would still dare wickedly to steal another's bed, seeing the adulterer punished thus even to the grave?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.44.1",
+   "text": "44. Why do you try to disturb my speech, and seizing on the word 'adulterer' as it was being spoken, cry out loudly and indignantly: 'But the fallen man was no adulterer, nor had the woman lying there committed adultery'? What do you think the doings of adulterers are, my good man? But again my tears flow on along with my troubles. For I must run this unhappy contest, and it seems there is great necessity to be saved by one's own misfortunes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.45.1",
+   "text": "45. Would that I could speak feeling nothing! But now I must endure being struck by two evils at once, and now try to muzzle this man, who is heavier than Fortune herself, and now, as far as possible, fight off the memory of my suffering, which reaches to the very middle of my soul and channels whole springs of tears from my eyes, so as to drown my mind and not let my words proceed on their way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.46.1",
+   "text": "46. Nevertheless, gentlemen, we must consider who is an adulterer, and what is involved in an adulteress. Well then, the man who means to commit adultery first needs go-betweens, procuresses, maidservants. He contrives some words for love and the deception of a woman, and others, often, if it so happens, he also inscribes on a tablet and so signals his passion. Many gifts he offers on the spot, others he promises shortly. Upon these the girl admits the words, the gifts, the messages, the letters, and nods assent to whatever the writer wants. Then she accepts the promise, he receives the signal, and the daring deed is accomplished."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.47.1",
+   "text": "Of these things neither that respectable and chaste girl nor that fine bridegroom, more a lover of my property than of the girl, left out anything here; but by both all the doings of those who attempt another's bed were carried out, and nothing was lacking of what belongs to a woman being seduced. He sent ahead messages and promises of gifts, and there were people carrying these, and she gladly received them. And, what is greater and final, when on these terms both came together and the scene and the drama reached its end, he, wearing the adulterer's mask, went undetected, and she embraced him as a stranger, and the deed was done as if among those who did not know. Where all these things had come together, by Zeus, how was what was plotted not adultery?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.48.1",
+   "text": "48. As for the girl, then, I am so unfortunate, wretched in this respect too, that no more words are needed to show that she long ago betrayed her chastity. For if the will is everywhere answerable to the laws, and tracking out intent is the jurors' business, the fact that the deceiver was not a stranger does not, I think, remove from her the charge of having committed adultery, since neither will a man who threw a missile in order to kill, but was not fortunate in his throw, be acquitted of being thought a murderer because he did not hit a vital spot, nor will a man who attacked at night in order to steal, but was caught first, be exempted as blameless by this very fact, that he took nothing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.49.1",
+   "text": "This, indeed, that clever man * understood full well, and he ascribed the adultery to her intention, and he had as many dowries as the times she turned her mind towards others. And who would dare to say to me that one who attempts such things is not an adulterer? He himself, by the very means by which he condemned my daughter for the conduct of adulteresses, plainly showed himself to be caught in the same. For it would not be just that she should be shut out, the one who suffered, who was deceived, who was outraged beyond all, while he who so deceived her and contrived the whole outrage should go unpunished, and that quite openly, and not only this but, what is worse, should also profit from the outrage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.50.1",
+   "text": "But if he was not committing the crimes of adulterers, why then did he push his wife out of the house as if under the adultery laws? For there could be no work of a sword without a murderous hand present, nor could a woman undergo an indictment for adultery without the existence first of the man who stole the bed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.51.1",
+   "text": "Then who would not loathe the wickedness of a husband who outrages his wife, a bridegroom hostile to the alliance by marriage, a housemate plotting against the family, who chose a small gain instead of such disgrace, and that a bitter one, abhorrent to the gods, and this when he could have possessed it with good repute and enjoyed it better along with his wife too, if he had known how to be sensible?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.52.1",
+   "text": "52. But if this man was an adulterer, and the most hateful of all adulterers, and deserved punishment all the more as the villainy he invented was far more novel, why has he not fallen most justly, you who are humane beyond what is right? And if such wickedness had to be cut out of the city, it was I myself who was so greatly outraged by him, I myself who in the end both defended myself well and, having suffered badly at his hands, inflicted the penalty not badly, and ended for both of them the disgrace of living; and in this respect they, even in falling, have been benefited by us. For what could one call more shameful than living badly and with disgrace?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.53.1",
+   "text": "And if they had happened to have a noble mind and had recovered sober reasoning through repentance, would they not themselves have done to themselves what we long ago did first, ever since the evil had been noised abroad everywhere and they had exchanged the finest of names for the most shameful of all, being called adulterer instead of bridegroom, and instead of lawful and chaste wife, licentious and a betrayer of the bed?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.54.1",
+   "text": "How many have exchanged ill repute for no longer living! Before now some, having suffered outrage to their bodies, perhaps by the violence of enemies, or from some other compulsion of whatever kind, fall by their own hand after the outrage and confirm that they are chaste in mind, even if Fortune forced their body. For what seems more wretched than to be an adulterer? And what is not lighter for a chaste wife than shaming her husband's bed?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.55.1",
+   "text": "For whom do we fathers fight, and husbands bear falling? Because surely children and wives are what is most precious to us. And if anyone outrages what is dearest, we seize our arms at once. For whom do we have cities, and arrange laws, and bear arms, and gather councils, and speak at the platform, and those who choose to be tyrants and eye the citadels, is it not for this reason that we both hate and punish them, and consider every terrible thing small and nothing in the case of tyranny?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.56.1",
+   "text": "Therefore what I would justly have done to others who shamed my family, this I also did to my own household when I had been outraged by them. And yet this is much worse and filled with greater shame than if they had been compelled to suffer disgrace at the hands of one of the enemy. For there the evil would have seemed to belong to the violence alone, but here the baseness looks to the will. And to do wrong willingly neither carries away any pardon under the laws, and it also draws complete disgrace after it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.57.1",
+   "text": "57. If, then, it had been possible in some other way to scatter the outrage and to escape so great a disgrace by assessing an ordinary penalty, this did not occur to me to reckon before, nor even now can I see how anyone, thinking it over, could wipe off otherwise so great and terrible a shame."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.58.1",
+   "text": "But if the accuser has now perceived something wiser, I for my part would deserve pardon, as one who devised for so great a magnitude of evil a fitting cutting-out as well, and I would deserve to be blamed only for this, for having perhaps turned to the more laborious [course], and at the same time [as] a man deprived of most of his wits, or rather of all of them, by the things through which anger, together with so heavy a despondency, poured abundantly over my heart and clouded my whole mind; but he, by not bringing forward this wisdom of his to me earlier for counsel, would reasonably, I think, be considered the most stupid of all men, both lying in wait for the misfortunes of the citizens and reaping this fruit from the assembly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.59.1",
+   "text": "59. And if you reason a little more deeply, you would recognise that as long as those [two] had their bodies in the city, the shame both flourished and the evil reveled. Indeed, there is no way that the wing of rumour, carried swiftly, would not have whistled the outrage everywhere, and while they lived, the matter of the disgrace would have lived along with them altogether and grown along with them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.60.1",
+   "text": "And somewhere, too, much talk of this kind would have crept about among the neighbouring peoples, among the foreigners here, among ourselves: 'One man has outraged a whole city, a whole family. And neither the girl's father, nor those of the rest of the family, nor the guardians of the city remove the outrage. Rather, the rumour is so bitter and universal, and there is nowhere, you know, that it does not travel, yet the father takes no account of the outrage, the rest of the family does not regard the disgrace with concern, and these solemn guardians of the laws sit as though rejoicing at what the city is shamed by, and neither are they grieved at the laws being transgressed, nor again does any fear steal over them of the oaths by which they swore to keep the laws firm."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.61.1",
+   "text": "The family has been outraged, but those of the family take no account of it. Zeus, the father of all, as far as this goes, has been dishonoured, but the father feels no pain. The ordinance of Hera of marriage has been wronged, but those appointed for this have had no concern for the matter at all. The whole city, along with Justice herself, is disgraced, but there is not one of the judges who does not keep silent.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.62.1",
+   "text": "62. These words I changed, these utterances I altered, so great a disgrace I stopped. And now the bitterness of the rumour has been quenched, and no one, not even of the very fault-finding, could blame either me the father or the rest of the family or you yourselves; but this is the abundant talk among foreigners, among natives, in theatres, in the marketplace, in the assembly: that it was not after all possible for those who commit outrage in such a city to escape notice for long, nor for so solemn a democracy to overlook the terrible thing creeping in and doing harm; but the father who joined the marriage both kept a father's duties and honoured Zeus of the kin and Hera of wedlock before, and now this man has rescued those of his family and the city from no ordinary disgrace, and cut out the outrage to marriage; and no pity for his child stole over him, nor did what he had spent on raising her come into his reckoning, nor did he consider that nothing is sweeter to fathers' eyes than to be able to see their children; but he disregarded the compulsion of a father's heart, he disregarded the toils of child-rearing, he took no account of the expense of the wedding, he did not consider the children he would have had afterwards, had he not pursued the girl for what he caught her in; but he looked to the laws, he gave up his whole reckoning to the city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.63.1",
+   "text": "He saw that in their eyes the laws were nothing and the city's interests were outraged, and at once he became wholly devoted to justice and to the city that raised him, and he filled his house with tragedies, so that the city might have nothing to be ashamed of; and he did not even wait for judges and the platform in this matter, but judged that from the very house, from the very family from which the evil had sprung, by those very people it must be cut out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.64.1",
+   "text": "64. And that the punishment was in no way greater than the villainy, reckon, gentlemen, how much and in what way the lawgiver punished those who commit such great offences. He too saw the magnitude of the crime, and at once he rushed to slaughter and brandished the sword. Of what account, then, would it be, and of what justice, that a man should stand before you being called to account who would have done what you yourselves would not have shrunk from doing? Or did the lawgiver not assess this terrible deed at the sword? Go through the text for me, and I will step down from the platform."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.65.1",
+   "text": "If not, then prove that he was not an adulterer. But if the one has been taken from you by the truth, and the other by us, or rather by the laws, do not be an accuser in vain. Are you not ashamed, by Justice herself, to indict on such absurd grounds a man who is a father, and one who, as I think you all know, is among the more moderate in his ways and more humane in temper and anger, and does not leap upon others like the wild beasts?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.66.1",
+   "text": "66. And why do I speak of my own, whom I myself joined in marriage and raised and educated? Rather, whom of the same city, whom from a neighbouring one, whom of those further off, simply any human being, do you think I would have been willing to kill without justice and the laws? But why, leaving aside those of the same nature, whom one would pity even unwillingly, being human oneself and they human, do I not draw my arguments from humbler things?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.67.1",
+   "text": "Do you see these men who tend plants in the fields? Not even they ever cut out from the row of plants, not to say a whole tree, but not even a branch, without reason, unless they have first condemned it as fruitless. And they hold the same view not only about these, but not even a herb, the meanest thing in the garden, have they pulled up without some cause underlying it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.68.1",
+   "text": "68. And where is it worth an accusation for you to put down those whom the law permitted? But if you think I must be indicted for murder, why not the judges too, since not a few have fallen at their hands lawfully? A sword here and there, surely, and the deed is one, and the hand is equally armed. And indeed one can see that the character of those who have fallen is not unlike. Adulterers and criminals among them too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.69.1",
+   "text": "This very evil has now blossomed from my house, from my own family, O gods of the hearth, and you endured to see such a pollution being accomplished in the house, perhaps even being practised beside your own hearth. But if all things are the same in both cases and [they are] worthy to fall, it is clear that in both cases it remains [for the killer] not to be blamed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.70.1",
+   "text": "I killed, yes, but not a bridegroom. I cut out, yes, but not a child. I laid hold of a sword, but in the cases where the law permitted it. I armed my right hand, but where the lawgiver also [arms] the executioner. I slew an adulterer and added the woman with whom adultery was committed. And to have killed deservedly takes away even the appearance of murder. Nothing else takes away the deed's being murder than that I acted justly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.71.1",
+   "text": "But if such is the manner, it is not reasonable to demand an accounting for such things either. I did not take from the city a clean citizen, but an outrageous man, an adulterer, one who, if it were possible, deserved to die even many times over. For in falling for the wrongs he did, he has not been wronged, and in receiving the blow he deserved, the city has not suffered any further loss either."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.72.1",
+   "text": "Surely, I think, the sons of Asclepius ought to cut away from bodies whatever has rotted, and the gardener whatever branches he finds dying, and fathers no less ought to purge from the family what is disorderly, contriving this not more for themselves than for the city which reared them. For to remove a wicked man from a city is the same as cutting a corrupted limb out of a body."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.73.1",
+   "text": "73. But on this point these men, who leap upon us no less than Fortune does, have nothing to say. Instead, because I carried out my judgment without sharing it with the people, for this they propose an indictment and a penalty. If I had known that the people would decide something different about my affairs, and not what I myself had held to be just, perhaps I would have judged it necessary to put the votes to jurors and to proceed against the children who had done wrong as they saw fit. But since they were going to vote exactly what I did and nothing beyond it, I had no just need of this deliberation of yours. For matters in which what must be done is not known are the ones it is useful to share with the people, so that where what is to be done is clear, one does not need an assembly as well, superfluously."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.74.1",
+   "text": "74. So I considered by myself what was right, I examined what the laws held about this, I condemned [them] to death together with the law, I ratified this decree, and what followed was carried out as the law prescribes. In this I knew well that I was the father of the wrongdoers, and that the laws grant everything to the father concerning his children. For nowhere did the lawgiver fear in his judgment that children might suffer something terrible as a by-product of the father's independent authority, unless they themselves first all but thrust the sword against themselves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.75.1",
+   "text": "So, as a father not barbarous toward his children, I was gentle at first, and anything whatever was placed by me second to their living well. But when they cheated me of my hopes, I too fell away from loving them. And so far was I from needing to want to learn the people's view about my affairs that I did not even take it into my mind at all that there would be anyone, a man so full of shamelessness and so fond of fighting over empty things, as not only not to pity what we suffered by what we did (for to do something to one's children is the same as suffering it), but even to dare to disparage it on the platform and to take away from fathers, besides, what both nature and law give them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.76.1",
+   "text": "76. 'But perhaps,' he says, 'the people would not have condemned them to as much as they would adulterers, but would have punished them more moderately, as men scheming to the harm of your possessions.' But if they were committing the crimes of adulterers, how could the people not have voted against them the penalties of adulterers? For that they were adulterers has long since been shown by us, and before us they clearly earned this very name by their deeds themselves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.77.1",
+   "text": "77. How often, do you think, did I talk with them about this? How often did I think I would shame the bridegroom, how often the girl, by saying this: 'If you need more money, child, and a larger inheritance, I, your father, will lavish on you what I can and supply whatever more you desire. Only ask from those who give willingly, and take, and stop disgracing the family. Reckon up the shame of the talk. If not that, then respect me, your father; and if not me, at least fear the laws. I am your father, and the father's treasures are yours, the children's. Little of life is left to me, and when I am dead you will gain under the laws what you are now forcing to take beforehand, most shamefully.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.78.1",
+   "text": "Saying these and such things, charming now her, now him, in turn, I seemed to be talking nonsense. And they did not stop plotting what they were eager for. You too stop, by the gods, prosecutor. Why have you shown yourself heavier upon us than the present divinity? I have lamented myself enough for my misfortune; I have wept enough over my suffering. Do not be more loving toward the children than their father. Do not show yourself more humane than the laws. Let them fall, whom the father, together with the laws, did not pity. If the children's lot is pitiable to you, reckon the father's far worse. For they have been deprived of sensation along with their life, but I, wretched man, now call my children wicked, now bewail myself as the most unfortunate of all fathers in my offspring."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.79.1",
+   "text": "Whenever I see my right hand, I remember the sword, I picture the slaughter, and I lament the childlessness that followed it: how once I was a father and they were children, and there were the bright hopes of seeing other children from my daughter and of hearing myself called grandfather as well as father, and all the other splendours of fortune. But some envious divinity blew against [us], not to blame the children, and what we had is lost, and what we hoped for is lost as well; and now they have been caught in deeds not fair and have fallen, while I, as I wish I had not been, am left alone with my fortune, bereft of children, cut off from my hopes, stripped of what is dearest."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.80.1",
+   "text": "80. How unlike, O gods, was that day I saw, when I adorned the bridal chamber and held up the wedding torch before my daughter. Then I was called father, and she daughter, and the bridegroom, in another way, son. But neither are they children after that unfortunate, accursed marriage, nor am I still called father. Telchines yoked that marriage; Furies built that bridal chamber. That marriage was a tomb, and the torches were Pyriphlegethon, and the wedding song Cocytus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.81.1",
+   "text": "81. And now a bridal chamber has ended in tragedy. I become wholly my own enemy, and I have the evil as a housemate, with the room, with my right hand, with these unfortunate eyes, by which I saw them first being married and last, alas, children falling at a father's hand. For what is there that does not rob me of forgetting my evils? If I see the room in which I gave them their wedding feast, at once I groan aloud. If I see the bridal chamber, I reckon up the fortune that came later and cannot bear the weight of my suffering. And if I remember the sword too, then, then indeed I curse these hands, that they did not add me as a third, so that I might have had the lot of no longer feeling pain, and you might have had some fill of our evils."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.82.1",
+   "text": "82. For me, then, death is not only not fearful, but rather something to pray for, since it would release me from my present evils. And if someone strikes and kills me, I will be grateful as I am struck. Only let 'unjustly' not be written on my tomb. That I killed my own as if caught in the act: grant this not to me more than to the children and the rest of the family. I do not wish to be unfortunate by justice's verdict, nor, from the deeds for which they justly fell, to lie [dead] myself most unjustly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.83.1",
+   "text": "You whom the divinity has deprived of being called fathers, take care that you do not clash with the laws themselves, voting and writing what law does not grant. And if you are fathers and have daughters ripe for marriage, I for my part would pray that you do not come to this pass of fortune, nor suffer the misfortune of such a bridegroom, to the shame of the family."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00540.opp-grc1.2.84.1",
+   "text": "But I fear that one of you may reap harm from this decree, and perhaps justly, since you call to account those who destroy men committing the deeds of adulterers, and have given bridegrooms impunity for doing wrong against their in-laws."
+  }
+ ]
+}

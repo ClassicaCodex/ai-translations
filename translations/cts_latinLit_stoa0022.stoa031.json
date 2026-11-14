@@ -1,0 +1,616 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0022.stoa031",
+ "edition_urn": "urn:cts:latinLit:stoa0022.stoa031.ai-claude",
+ "source_edition": "stoa0022.stoa031.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "De Institutione Virginis Et Sanctae Mariae Virginitate Perpetua: AI translation (Claude)",
+  "author": "Ambrose, Saint, Bishop of Milan",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0022.stoa031.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.head": "Line 7: 'ora et ara' ('pray and plough') is taken as the evident reading of 'ora ei Ara'; some may prefer to read only 'ora'. Line 7: 'abdicato occulto dedecoris' follows 2 Cor. 4:2 rather than 1 Tim. 2:8 as cited. Line 4 cites 1 Cor. 7:57 by scanning error for 7:37.",
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.18": "Line 23: 'forensi pelle' taken as 'outward skin'. Line 24: 'fenerata' taken as 'with interest'. Line 31: 'is.' read as section number 28. Line 26: Ecclesiasticus is cited as 'Eccles.' in the edition.",
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.33": "Several scripture references in the edition are misprinted and have been corrected in the translation (Matt. 26:41 for xvi, 13; Matt. 1:25 for 19/49; Matt. 1:19 for xii, 47; John 2:3-4; Ps. 110 [Vulg. 109]; Ps. 24 [Vulg. 23]; Isa. 63:1). Psalms are cited in the edition by Vulgate numbering. In §33 'sic typum Christi illa pariendo' read as 'si typum...'; 'speciale Maria Domini hoc nomen' is obscure, and the etymology 'God from my race' is Ambrose's own. In §34 the claim that Mary means 'bitterness of the sea' is Ambrose's etymology; 'fons e Merrha' read as the spring of Marah (Exod. 15:23-25). 'Episcopus' in §35 refers to an unnamed bishop (probably Bonosus). The bracketed '27, q. 2, Cum initiatur' in §41 is an editorial cross-reference to Gratian's Decretum, kept as printed. The chapter summaries are editorial.",
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.46": "Section 45: 'netum' read as 'meum', 'tum' as 'sum', 'hiant ... nmenliam' as 'tantam ... amentiam'. Section 47: the edition's reference (Luke 23:43) fits only the thief's pardon; the quoted words are John 19:26-27. Section 49: 'Pollebat in cruce filius' read as 'Pendebat' (hung); 'Stabat non degeneri ... quae non metuebat' rendered as edited. Section 52: 'Ælam' renders the Hebrew 'ulam' (porch/vestibule) of Ezek. 44:3, translated 'porch'. The edition's section number '55' at the head of the third paragraph of Chapter VIII is a misprint for 53.",
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.62": "Paragraph numbers follow the edition (scanned 'Go', 'G3', 'Gi', '7t', '7i' read as 60, 63, 64, 71, 72). In 58 'Audi, virga' is read as 'Audi, virgo'. In 59 'adurat' (scorch) is kept, though the sense is odd; some read a different verb. Several of the edition's references are mis-scanned and have been corrected: Ps. 147:13, Isa. 11:1, Isa. 62:3, John 10:30, Eccles. 4:10-11, Luke 12:49. Gen. 38:29 (the breach at the birth of Perez) is quoted in a form unlike the Vulgate.",
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.85": "Scanning errors corrected silently where evident (e.g. 'veneri' for 'veteri', 'praetendam' for 'praetendendam', 'Qagrantix' for 'flagrantiae', 'homescant' for 'humescant', 'hunc modum' for 'hunc mundum', 'artificia' for 'artificis'). In the chapter XII heading, 'cum igitur esse' is read as 'eum igitur esse'. Para. 79: Ps. 59:10 (Vulg.) reads 'Moab olla spei meae'; Ambrose reports variant readings 'aula'/'olla'. Para. 89: the clause 'eo quod continens sibi in omnibus Christi ortus ex Virgine' appears corrupt or truncated; the bracketed supplement is conjectural. Paragraph numbers 77 and 81 restored from scanned '17' and 'Si'.",
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.107": "98: \"Inoperatum meum\" (Ps. 138:16, 'my unformed substance') rendered literally as 'unworked' to keep the wordplay; the following sentence is grammatically loose in the Latin. 101: \"super regem gratiae\" ('above the king of grace') is obscure and may be corrupt. 103: \"stillet\" follows an Old Latin psalter reading (Ps. 118:28), where the Vulgate has 'slumbered'.",
+  "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.120": "108: 'Joan. III, 3' read as John 12:3. 109: 'non enim solitaria dos pudoris est' – 'pMoris' read as pudoris. 111: 'contrectas' (113) read as contrectes ('cherish'); sense uncertain. 112: Job reference corrected to 29:13. 113: 'non incedat in grege sodalium' echoes Song 1:6."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.head",
+   "text": "SAINT AMBROSE, BISHOP OF MILAN, ON THE TRAINING OF A VIRGIN AND THE PERPETUAL VIRGINITY OF SAINT MARY, TO EUSEBIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab1",
+   "text": "ONE BOOK."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab2",
+   "text": "CHAPTER ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.2",
+   "text": "That parents rightly have greater care for a consecrated virgin than for the rest of their offspring. How excellent that consecration is: where [he speaks] especially of silence, which commends the modesty of virginity, just as [it commends] the Church, whose whole glory is within, and which it is fitting for us to imitate in praying."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.3",
+   "text": "1. You commend to me your pledge, who is equally mine, Ambrosia, consecrated to the Lord; and with devout affection you declare that your concern for her is greater than for the rest of your offspring. And truly it is so in a faithful mind; for the others you bring up in order to send them from home and join them to strangers, but this one you will always have with you. In the others, too, you exercise the bond of a father's devotion; in this one you go beyond a father, and you advance by prayer and zeal, so that she may please God. And since she is the more excellent cause of your prayers, she alone may yet pay whatever you owe for yourself and for all your children."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.4",
+   "text": "2. This is the sacrifice which Abel offered from the firstborn young of his sheep (Gen. 4:4). This the Apostle also praises above the rest, saying to the Corinthians: \"Since he who has determined in his heart, being steadfast, and has decided in his heart to keep his virgin, does well. So both he who joins his virgin in marriage does well, and he who does not join [her] does better\" (1 Cor. 7:37, 38). Hence David, when he had described the grace of the Church, whose whole glory is within, not outside (for in good thoughts, and in the spotless disposition of chastity, and in the resolve of a sincere conscience lies the highest praise), fittingly added, saying: \"Virgins shall be brought to the King after her\" (Ps. 44:15, 16). And turning to the Lord the Father, he says: \"Her nearest ones shall be brought to you; they shall be brought with gladness and rejoicing, they shall be led into the temple of the king.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.5",
+   "text": "3. Who is the nearest one, if not she who draws near to Christ, to whom the Word says: \"Arise, come, my nearest one, my beautiful one, my dove; for see, the winter is past\" (Song 2:10, 11)? Before she received the Word of God, it was winter, without honour, without fruit; when she received the Word of God, and the world was crucified to her, it became summer. Then, warmed by the heat of the Holy Spirit, she began to be a flower, and to breathe out the scent of faith, the fragrance of chastity, the sweetness of grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.6",
+   "text": "4. Hence elsewhere too he adds: \"Your eyes are doves, apart from your silence\" (Song 4:1): because, being wholly spiritual and simple as a dove, in whose form the Holy Spirit was seen by John to descend, she sees spiritual things, and knows how to keep silent about the mysteries she has seen. For it is no small virtue to keep silent; for there is a time for keeping silent, as there is a time for speaking, as it is also written: \"The Lord gives me a tongue of learning, that I may know when I ought to speak a word\" (Isa. 50:4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.7",
+   "text": "5. So modesty is a kind of dowry of virginity, and it is commended by silence. Therefore also the glory of the Church is within, certainly not in much speaking, but in its understanding, or in the inner sanctuaries of the sacraments, as she herself says to the Bridegroom: \"Who will give you to me as a brother, sucking the breasts of my mother? I shall find you outside, I shall kiss you, and indeed they will not despise me. I shall take you, and lead you into the house of my mother, and into the secret room of her who conceived me\" (Song 8:1, 2). And above she says: \"The king brought me into his chamber\" (Song 1:3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.8",
+   "text": "6. Outside the Church kisses Christ, and by him she is brought into the chamber. He kissed her outside when, \"as a bridegroom coming forth from his bridal chamber, he rejoiced as a giant to run the way\" (Ps. 18:6). As a giant he is outside; because, \"not thinking it robbery to be equal with God, he took the form of a servant\" (Phil. 2:6, 7). So he who was within became outside. See him within, when you read that he is in the bosom of the Father; recognise him outside, when he seeks us in order to redeem [us]. He became outside for himself, so that he might be within for me, and become the mediator between us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.9",
+   "text": "7. Let us therefore be there where Christ is in the midst, rooted and fixed in our hearts. And therefore, as he himself commanded: \"When you pray, enter into your chamber\" (Matt. 6:6), and pour out your soul upon yourself; your chamber is the secret of your inner parts, your chamber is your conscience. Then Ecclesiastes says to you: \"And indeed in your conscience do not curse the king, and in the inner recesses of your chambers do not devote the rich man with a curse\" (Eccl. 10:20). There, then, pray and plough in secret, so that he who hears in secret may hear you; and pray without anger and dispute, having renounced the hidden things of shame (1 Tim. 2:8); for the righteous man fears not the betrayal of a crime, but its contagion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab3",
+   "text": "CHAPTER II."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.11",
+   "text": "That prayer ought to begin with the praises of God, and, after our requests have been set out, end in thanksgivings. That it is to be commended by peace and tranquillity; on which occasion a passage of the Gospel, which virgins are bidden to observe, is explained most clearly."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.12",
+   "text": "8. How good is prayer with mercy! Good is the prayer which keeps order, so that we begin first with the praises of God. For if, when we plead before a man, we wish to make the judge well disposed, how much more when we entreat our Lord! First, then, let us offer to God the sacrifice of praise; hence the Apostle too says: \"I urge, therefore, first of all, that prayers, entreaties, requests, thanksgivings be made\" (1 Tim. 2:1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.13",
+   "text": "9. Let the eighth psalm of David teach you, which began with the praises of God: \"O Lord, our Lord, how wonderful is your name in all the earth! For your magnificence is raised above the heavens. Out of the mouth of infants and sucklings you have perfected praise\" (Ps. 8:2 ff.). Thus far the prayer; then follows the entreaty, that the enemy be destroyed; the request, that he may see the moon and the stars, the moon being the Church, the stars the children of the Church, shining with the light of heavenly grace; and what he asks, he promises by the prophetic spirit that he will see; the thanksgiving, that the Lord watches over man, and strengthens this clay of our body by divine visitation; or that he has subjected all kinds of living creatures to man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.14",
+   "text": "10. Likewise the Lord's Prayer also embraces all things, which there is no need to make public. But you who read, recognise how you ought to distinguish [its parts]; above all, however, as I said, prayer is to be commended, as I stated before, by calmness and tranquillity of mind, so that each one may be consistent and in harmony with himself, and that may come about which is written: \"If two of you agree on earth about anything whatever that they ask, it will be done for them by my Father, who is in heaven. For where two or three are gathered in my name, there I am in their midst\" (Matt. 18:19, 20)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.15",
+   "text": "11. Who are these two, if not the soul and the body? Hence Paul too chastised his flesh and brought it into subjection (1 Cor. 9:27), so that his flesh might be subject to the soul as to an empress, and obey the commands of the mind; lest there be discord in one man, and he wage war within himself, and the law of the body fight against the law of the mind. So he joined these two different things by a certain reason and peace, according to what he himself declared, saying: \"For Christ is our peace, who made both one, and broke down the middle wall of the hedge, the enmities in his flesh\" (Eph. 2:14); lest he should do what he did not will, and do what he hated. These, then, are the two, soul and flesh. Hence David too says: \"I will not fear what flesh may do to me\" (Ps. 55:5), since he knew it to be the adversary of his soul."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.16",
+   "text": "12. Yet these two, to express it more clearly, are not only two, but also two men, one inner, the other outer. If these two concur with each other in equality of purpose, so that thoughts agree with deeds and deeds with thoughts, the wheel of our life will roll on without any stumbling, so that, as it is written: \"Let the voice of your thunder be in the wheel\" (Ps. 76:19). These two, then, are one; and not only one, but one man. Hence the Apostle too says: \"That he might create the two in one man, making peace, and reconcile both in one body to God, through the cross killing the enmities in himself... that in both we may have access in one Spirit to the Father\" (Eph. 2:15 ff.)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.17",
+   "text": "13. There are also two men, the old and the new. That old one, liable to sin and worn out, and frayed and torn like an old garment, we fasten to the cross in baptism. Hence the Apostle says: \"For our old man has been fastened to the cross with [him], that the body of sin may be destroyed, that we may no longer serve sin\" (Rom. 6:6). So the old is fastened [to the cross], that he may die to sin; so that the new may rise again, who is renewed through grace. We have spoken of the two."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.18",
+   "text": "14. Perhaps someone may say: \"Why do you speak of three, since Scripture has it thus: 'For where two or three are gathered in my name, there I am in the midst of them' (Matt. 18:20)?\" Here too the reason is plain, because the same Apostle says: \"May the God of peace himself sanctify you in all things, so that your spirit, and soul, and body may be kept whole and without complaint on the day of the coming of our Lord Jesus Christ\" (1 Thess. 5:23). Where, then, these three are whole, there Christ is in the midst of them, who governs and rules these three within, and orders them in faithful peace."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.19",
+   "text": "15. Let a virgin, then, guard these three whole in herself above all else, so that she may give no ground for complaint against sacred virginity, and may be without offence, without wrinkle, without stain. Although we have spoken of this in many books, yet for the sake of the pledge I have mentioned, we have thought fit to compose this book for you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab4",
+   "text": "CHAPTER III."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.20",
+   "text": "The female sex is not to be blamed, on which such great gifts have been conferred by God. For God did not approve man immediately when he was created: first because his dignity consists not in the body but in the soul and in the divine image; then because man is to be praised only at the end of all his works; and finally because woman had not yet been created, who was formed from him and was to express with him the figure of a great sacrament; from which she is also shown to have received her name."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.21",
+   "text": "16. Good is virginity, which has not only freed both sexes from guilt, but has also called them to grace. Yet we commonly accuse the female sex of having brought in the cause of error, and we do not consider how much more justly the reproach might be turned back upon us. For, to go back to the beginning and question the origins of things, we shall investigate how much has been granted to her, and what grace woman has nevertheless found in the wretched frailty of the human condition."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.22",
+   "text": "17. For when God praised all his works, heaven, earth, seas, night and day, because the one serves for the use of labour, the other for the benefit of rest, and praised the wild beasts, when it came to man, he alone, for whose sake all things were brought forth, does not seem to have been praised (Gen. 1:10 ff.). What, then, is the reason, unless perhaps this, that other things lie in their appearance, man in what is hidden? In beasts you will find nothing more than what is seen; in man nothing is lower than what is seen. Since he consists of soul and body, that in him which is seen serves, and that in him which is not seen rules."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.23",
+   "text": "18. Rightly, then, other things are praised at the beginning, while his praise is not brought out but held back, because the grace of the others is outward, his within; theirs in their birth, his in the heart. For what is so lofty and so deep as the mind of man, which is covered and hidden as by a kind of wrapping of the body, so that no one can easily look into it and observe it? Therefore man is not praised beforehand, because he must first be proved not in his outward skin but in the inner man, and so be proclaimed. The apostle Peter has described him admirably, saying that the hidden man of the heart, in the incorruption of a quiet and modest spirit, is rich before God (1 Pet. 3:4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.24",
+   "text": "19. Rightly, then, his praise is deferred, so that it may follow with interest; its delay is not a loss but a gain. Let no one, then, despise himself as worthless, nor value himself by the look of his body. For although holy Job said: \"Naked I came out of my mother's womb, and naked I shall go hence\" (Job 1:21), yet he had that by which he was found rich not only among men but also before God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.25",
+   "text": "20. What is richer than that which is in the image and likeness of God? It is the inner man that is in the image, not this outer one: the one who is judged by understanding, not grasped by the eyes. That one, then, must be looked at by us, who is investigated more slowly. Therefore God did not think the fabric of man was to be praised, because the greater part of him lies in virtue. His form is indeed splendid, and more excellent than the other living creatures; but let irrational things be valued by the form of the body, while those that are full of reason should set themselves apart from common praise."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.26",
+   "text": "21. Let man, then, stand out and excel in my admiration not so much by his face as by his disposition, so that he may be praised in those things in which God too is praised by the prophet's judgement, of whom it is written: \"Terrible in counsels above the sons of men\" (Ps. 65:5); a man whose works shine before God, who weaves good deeds together in unbroken works. And so his praise is not at the beginning but at the end: for no one is crowned unless he has competed lawfully. Therefore the Wise Man says to you: \"Praise no man before death\" (Ecclus. 11:30). For what reason he said this, he taught just before, saying: \"For at a man's end his works are laid bare\" (ibid. 29). 22. Let us consider a third point, in which God made his judgement plain: for when he had made man and placed him in paradise to work and guard it, he said that it was not good for man to be alone. \"Let us make,\" he says, \"a helper for him like himself\" (Gen. 2:18). Without woman, then, man has no praise; in woman he is proclaimed. For when he says that it is not good for man to be alone, he surely confirms that the human race is good if the female sex is joined to the male. 23. At the same time this must be considered: that he was made from earth and mud, she from man. Flesh too is mud; but he was still unformed, while this was already formed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.27",
+   "text": "24. Now let us bring in that splendid example from the Apostle, which we have written: \"For a man shall leave father and mother and cleave to his wife, and the two shall be in one flesh. This is a great sacrament; but I speak in Christ and in the Church\" (Eph. 5:31–32). We perceive, therefore, that through woman that heavenly mystery of the Church was fulfilled, and in her was prefigured the grace for whose sake Christ came down and completed that eternal work of human redemption. Hence Adam too called his wife's name Life (Gen. 2:23); for among the peoples the line and offspring of human succession spreads through woman, and through the Church eternal life is conferred."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab5",
+   "text": "CHAPTER IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.28",
+   "text": "That woman's sin was lighter than man's is proved by the difference of sex, the nature of the temptation, the divine sentence, and the answers of both. After this, remedies against the temptations of women are prescribed for men, chief among them the imitation of those same women in their fasting."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.29",
+   "text": "25. Indeed we cannot deny that woman erred. Yet why do you wonder if she erred and the weaker sex fell, when the stronger fell too? Woman has an excuse in her sin; man has none. She, as Scripture declares, was deceived by the serpent, the wisest of all creatures; you by a woman: that is, a higher creature deceived her, a lower one you. For a woman deceived you; her, an angel, though an evil one. If you could not resist one lower than you, how could she resist one higher? Your fault acquits her."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.30",
+   "text": "26. If you are in doubt about the degree of guilt, let us question the sentence. To her it was said: \"In sorrow you shall bear children, and your turning shall be to your husband, and he shall rule over you\" (ibid. 16). But to the man it is said: \"You are earth, and to earth you shall go\" (ibid. 19). And truly the sentence is just: since, if Adam could not keep what he had heard from the Lord God, how could the woman keep what she heard from the man? If God's voice did not strengthen him, how would a human voice strengthen her? 27. Then Adam, when called to account for having tasted contrary to the divine commands he had heard in person, had nothing to say except that the woman had given to him and he had eaten; but the woman said: \"The serpent led me astray, and I ate\" (ibid. 13). How much greater is the woman's acquittal! He is charged, she is questioned. Add this too, that she is the first to confess her fault; for she who says she was led astray bears witness to her error. Confession, then, is the medicine for error."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.31",
+   "text": "28. In the judgement itself, how much more merciful was the woman than the man! He accused his wife; she the serpent; that is, even when accused she did not throw the charge back, but preferred, if she could, to acquit her accuser himself rather than to bind him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.32",
+   "text": "29. You have, then, both the acquittal of guilt in confession, and of the sentence in its carrying out. \"In sorrow,\" he says, \"you shall bear children.\" She acknowledges the weight of her condemnation, she performs the duty of her penal condition. For you the woman serves as a soldier in her pains, and finds reward out of punishment, so that through the children by whom she is afflicted she may be set free. So grace came out of injury, salvation out of weakness; for it is written: \"For she shall be saved through the bearing of children\" (1 Tim. 2:15). So she brings forth with salvation those she laboured with in sorrow, and raises to praise those she bore in pain."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.33",
+   "text": "30. But you say, O man, that the woman was the man's temptation. It is true. Now if she is beautiful, look, another temptation. Yet when Abraham went down into Egypt his wife's beauty did him no harm, rather it helped him more; for he was honoured through his wife, not mocked in his wife (Gen. 12:16, 20). But why do you look for beauty of face in a wife rather than beauty of character? Let a wife please by her honour rather than her beauty. Let her be chosen who recalls Sarah in her character. It is no fault of the woman to be what she is born: but it is the man's fault to seek in a wife that by which he is often tempted; in which, if she is the weaker, the woman herself may fall; if the stronger, the man is put in danger. We cannot find fault with the work of the divine craftsman; but let whoever is delighted by the body's beauty be far more delighted by that loveliness which is within, after the image of God, not more adorned outside."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.34",
+   "text": "31. If then a wife is a temptation, be more cautious, seek a remedy against the danger of temptation: \"Watch,\" he says, \"and pray, that you may not enter into temptation\" (Matt. 26:41). The Lord said this, the man heard it, the woman fulfilled it. Every day women fast, and keep fasts that have not been imposed: they acknowledge the sin, they summon the remedy. Once the woman ate of what was forbidden, and every day she abstains from it by fasting. You who followed her when she went astray, follow her when she sets [it] right. You both ate, why does she alone fast? That is, you both sinned, why does she alone seek a remedy for the error?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab6",
+   "text": "CHAPTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.35",
+   "text": "That the sentence of condemnation on Eve was, as it were, loosed in Sarah, but much more in Mary, who bore God with her virginity intact, and also raised the standard of that same virtue. How shamelessly the heretics have denied that she remained a virgin; their arguments drawn from the Gospels are refuted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.36",
+   "text": "32. Come, Eve, now sober; come, Eve, though once intemperate in yourself, yet now fasting in your offspring. Come, Eve, now safe, so that you are not shut out of paradise, but caught up to heaven. Come, Eve, now Sarah, to bear children not in sorrow but in exultation, not in grief but in laughter. An Isaac many times over will be born to you. Come again, Eve, now Sarah, of whom it may be said to the husband: \"Listen to Sarai your wife\" (Gen. 21:12). Though you are subject to your husband, as it befits you to be, yet you soon loosed the sentence, so that the husband is commanded to listen to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.37",
+   "text": "33. If she, by bearing a type of Christ, deserves to be listened to by her husband, how much does that sex profit which bore Christ himself, yet with virginity kept safe! Come then, Eve, now Mary, who has brought us not only an incentive to virginity, but has also brought in God. Hence Isaiah, glad and exultant at so great a gift, says: \"Behold, a virgin shall conceive in the womb, and shall bear a son, and his name shall be called Emmanuel\" (Isa. 7:14), which is interpreted, God with us (Matt. 1:23). Whence this gift? Not from earth, surely, but from heaven Christ chose for himself this vessel through which he might descend, and consecrated a temple of chastity. Through one he came down, but he called many. Hence too Mary found this special name of the Lord, which means: God from my race."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.38",
+   "text": "34. There were many called Mary even before: for Miriam, the sister of Aaron, was also called Mary (Exod. 15:20, 23); but that Mary was called bitterness of the sea. So the Lord came into the bitterness of human frailty, so that the bitterness of our condition might grow sweet, tempered by the sweetness and grace of the heavenly Word. This was signified by the spring of Marah sweetened by the wood; in that the people of the nations, bitter before through sins, or our flesh, was to be changed to other uses by the tempering of the Lord's passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.39",
+   "text": "35. Excellent, then, is Mary, who raised the standard of sacred virginity, and lifted up for Christ the holy banner of undefiled integrity. And yet, though all are called to the cult of virginity by the example of holy Mary, there have been those who denied that she remained a virgin. We long preferred to keep silent about so great a sacrilege; but since the case has brought it into the open, so that even a bishop was charged with this lapse, we think it should not be left uncondemned; and especially since we read that she is also called woman, as when at Cana of Galilee the Lord himself replied to her when she said to him, \"They have no wine, son\": \"What is it to me and to you, woman?\" (John 2:3–4). And elsewhere we read what Matthew said of Joseph and Mary: \"She was found, before they came together, to be with child of the Holy Spirit\" (Matt. 1:18). And below: \"He did not know her until she bore [a son]\" (ibid. 25). And again of Joseph: \"He did not wish to expose her\" (Matt. 1:19). And the Lord's brothers seem to indicate that they were born of Mary. And the Apostle says: \"When the fullness of time came, God sent his Son, made of a woman, made under the law\" (Gal. 4:4). Each of these we must untie, so that whoever reads them may not be bound by the knot of words of this kind. Let us answer, then, in order."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.40",
+   "text": "36. Why should we be troubled by the name \"woman\"? He referred to the sex; for it is a word not of corruption but of sex. Common usage does not prejudge the truth. Indeed it was virginity that first received this name; for when God had taken one of Adam's ribs, and filled up flesh in its place, \"He built it,\" it says, \"into a woman\" (Gen. 2:22). She certainly had not yet known a man, and already she was called woman. Scripture did not keep silent about the reason for this name either, saying: \"For Adam said: Bone of my bones, and flesh of my flesh. She shall be called woman, because she was taken from her man\" (ibid. 23). Because she was taken, it says, from her man, not because she had experienced a man. So as long as she was in paradise she was called woman, and she had not been known by her husband; but when she was cast out of paradise, then we read that Adam knew Eve his wife, and then she conceived and bore a son (Gen. 4:1). So the first knot is untied."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.41",
+   "text": "37. The second question, because it is written: \"Before they came together, she was found to be with child\" (Matt. 1:18). But the custom of divine Scripture is this, that it establishes the matter it has taken up, and defers what is incidental."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.42",
+   "text": "38. By this the third question too is solved, where it is said: \"He did not know her until she bore a Son\" (ibid. 25). What then? Did he know her afterwards? Not at all. Indeed, you have it written: \"I am God, and until you grow old, I am\" (Isa. 46:4). Did God then cease to be, after those to whom \"until\" was said grew old? Likewise in the prophecy of David we read: \"The Lord said to my Lord: Sit at my right hand, until I make your enemies the footstool of your feet\" (Ps. 110:1). When the peoples of the nations have been subjected, who before seemed enemies, since they denied the author of salvation and served idols, did the Son cease to sit at the Father's right hand, or will he not sit for ever? 39. But what does it prejudice against Mary if Joseph did not understand the mystery of the heavenly plan, and thought she was not a virgin whom he saw pregnant? The angels did not know of his resurrection, as the verses signify: \"Lift up your gates, O princes, and be lifted up, eternal gates, and the King of glory shall come in. Who is this King of glory?\" (Ps. 24:7–8). They ask as if they did not know; and others answer: \"The Lord strong and mighty, the Lord mighty in battle, he is the King of glory.\" And the Prophet repeated the same verses, and they nonetheless asked again as if not knowing; for so it is written: \"Lift up your gates, O princes, and be lifted up, eternal gates, and the King of glory shall come in. Who is this King of glory?\" (ibid. 9–10). How then could a man know the divine secret which the angels did not know? And in the book of Isaiah you have: \"Who is this who comes from Edom, the red of his garments from Bozrah?\" (Isa. 63:1). And surely it was a lesser thing for a man to have risen again than for a virgin to have given birth. For already at Elijah's prayers and Elisha's petitions the dead had risen (1 Kgs 17:22); but never before, never afterwards, has a virgin given birth (2 Kgs 4:17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.43",
+   "text": "40. Now he thought he should expose her as guilty, before he was warned by the angel (Matt. 1:20); but afterwards, as one faithful and not doubting her virginity, he kept the oracle."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab7",
+   "text": "CHAPTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.44",
+   "text": "The two other objections about the same matter are resolved, and it is added that it would have been absurd if Christ had chosen a mother who would not remain in virginity, or had denied her the most glorious gifts of virginity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.45",
+   "text": "41. Nor should it trouble [anyone] that it says: \"Joseph took his wife, and went into Egypt\" (Matt. 1:24; 2:14); for once betrothed to a husband she received the name of wife. For when a marriage is begun, then the name of marriage is taken on (27, q. 2, Cum initiatur, 1 and 2); for it is not the deflowering of virginity that makes a marriage, but the marriage contract. In short, when a girl is joined [in betrothal], it is a marriage, not when she is known by union with a man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.46",
+   "text": "42. As for her having been betrothed in marriage, although we have spoken of it more fully elsewhere, it is enough now to touch on the reason for the heavenly mystery: that those who saw Mary heavy with child should believe the birth to be not an adultery against virginity, but the lawful offspring of a betrothed woman. For the Lord preferred that some should doubt about his own birth rather than about his mother's chastity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.47",
+   "text": "43. That members of a nation, of a race, and also those who share in a people are called brothers, the Lord himself teaches, who says: \"I will declare your name to my brothers; in the midst of the Church I will praise you\" (Ps. 21:23). Paul also says: \"I wished myself to be accursed for my brothers\" (Rom. 9:3). They could, moreover, have been brothers from Joseph, not from Mary. Indeed, anyone who pursues this more carefully will find it. We did not think these things needed pursuing, since it is clear that the name of brother is common to many."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.48",
+   "text": "44. Or would the Lord Jesus have chosen for himself a mother who could defile the heavenly hall with a man's seed, as though she were someone for whom it was impossible to keep the guard of virginal chastity? Would she, by whose example the rest of us are called to the pursuit of integrity, herself stray from the very gift that was through her set before the rest?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.49",
+   "text": "45. And who was there for whom the Lord would lay up a greater merit, or reserve a greater reward, than for his mother? For to nothing did he assign richer gifts than to virginity, as Scripture teaches us. For thus the Lord spoke through Isaiah: \"Let not the eunuch say, 'I am a dry tree.' This says the Lord to the eunuchs: Whoever keep my commandments, and choose what I will, and embrace my covenant, I will give them in my house and within my wall a named place better than of sons and of daughters; I will give them an everlasting name, and they shall not fail\" (Isa. 56:5 ff.). To others he promises that they shall not fail: would he have allowed his own mother to fail? But Mary did not fail; the teacher of virginity did not fail. Nor could it be that she who had carried God should think of carrying a man; nor would Joseph, a just man, have broken out into such madness as to join himself in bodily intercourse with the mother of the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab8",
+   "text": "CHAPTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.50",
+   "text": "Here it is proved that Mary persevered in virginal integrity, from the fact that she was given as mother to the disciple; and it is confirmed that her resolve of virginity could not possibly have been changed, since such great constancy shone forth in her at the passion of her Son, and such great power in the leaping of the Baptist."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.51",
+   "text": "46. But still, let Mary be defended by her own conduct, not by that of others. She did not fail, as I said. The Son of God himself is witness, who, when he was on the cross, commended the disciple to his mother as a son, and handed her over to the disciple as a mother (John 19:26-27). John taught this, who wrote more of the mystical things; for the other Evangelists wrote that at the Lord's passion the earth trembled, the sun withdrew, pardon was asked for the persecutors; but he, the beloved of the Lord, who had drawn the secrets of wisdom from his breast, passing over the hidden things of his loving will spoken by the others (Matt. 27:51 ff.), followed up this more carefully, so that he might by his own judgement confirm the perseverance of the mother's virginity (John 13:23); like a son anxious for his mother's chastity, lest anyone should spatter her with so great a slander of violated integrity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.52",
+   "text": "47. For it was fitting that he who granted pardon to the thief should free his mother from doubt about her chastity. For he says to his mother: \"Woman, behold your son.\" And he says to the disciple: \"Behold your mother\" (Luke 23:43). He is the disciple to whom the mother is commended. How would he take a wife from her husband, if Mary had been joined in marriage, or had known the use of the marriage bed?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.53",
+   "text": "48. Shut your mouths, you impious; open your ears, you devout; hear what Christ says. The Lord Jesus bears witness from the cross (John 19:26), and for a little while he delays the salvation of all, so as not to leave his mother without honour. John signs as witness to Christ's testament. To the mother is bequeathed the defence of her chastity, the testimony of her integrity; and to the disciple is bequeathed the keeping of the mother, the grace of devotion. \"And from that [hour] the disciple took her to his own\" (ibid. 27). Christ was certainly not making a divorce, nor was Mary leaving a husband. But with whom ought the virgin to live, rather than with him whom she knew to be her Son's heir and the guardian of her integrity?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.54",
+   "text": "49. The mother stood before the cross, and while the men fled, she stood undaunted. See whether the mother of Jesus could have changed her chastity, she who did not change her courage. She looked with devoted eyes on the wounds of her son, through whom she knew redemption would come for all. The mother stood at a spectacle not unworthy of her, for she did not fear the slayer. The son hung on the cross; the mother offered herself to the persecutors. If this alone were [her aim], to be laid low before her son, her devoted affection would be praiseworthy, because she did not wish to outlive her son; but if [it was] to die with her son, she longed to rise again with him, not ignorant of the mystery that she had borne one who would rise again; at the same time, she who knew that the death of her son was being spent for the common good waited to see whether perhaps by her own death too something might be added to the common gift. But the passion of Christ needed no help, as the Lord himself foretold long before: \"And I looked, and there was no helper; and I sought, and no one upheld; and I will deliver them by my arm\" (Isa. 63:5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.55",
+   "text": "50. How then could the integrity of Mary have been wrested from her, who, when the apostles fled, did not fear torments, but offered herself to dangers? So great was her grace that she not only kept the grace of virginity in herself, but also conferred the mark of integrity on those whom she visited. She visited John the Baptist, and in his mother's womb, before he was born, he leapt (Luke 1:41). At the voice of Mary the little infant rejoiced, obedient before he was born. And not without reason did he remain intact in body, whom the mother of the Lord for three months exercised with a kind of oil of her presence and the ointment of her integrity. And the same [Mary] was afterwards handed over to John the Evangelist, who knew nothing of marriage. Hence I do not wonder that he spoke the divine mysteries above the rest, he to whom the hall of the heavenly sacraments was at hand."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab9",
+   "text": "CHAPTER VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.56",
+   "text": "The testimonies of Ezekiel, and especially what he has about the gate that is not to be opened, fit Mary, since through her, unopened, Christ alone passed, and so strengthened her that afterwards it was not opened even to Joseph."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.57",
+   "text": "51. Now let those who raise this question tell me what it is that the Lord says through the prophet: \"Now I will bring back the captivity of Jacob, and I will yet have mercy on the house of Israel\" (Ezek. 39:25). And below: \"I will gather them,\" he says, \"from the Gentiles, and I will gather them from the regions of the nations, and I will be sanctified in them in the sight of the Gentiles; and they shall know that I am the Lord their God, when I appear to them among the nations; and I will no longer turn away my face from them, because I poured out my wrath on the house of Israel, says the Lord\" (ibid. 27 ff.)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.58",
+   "text": "52. And below the prophet says that he saw on a very high mountain the building of a city (Ezek. 40:2 ff.), whose many gates are indicated; yet one is described as shut, of which he says thus: \"And I turned back by the way of the outer gate of the holy places, which faces the East, and it was shut. And the Lord said to me: This gate shall be shut, and shall not be opened, and no one shall pass through it; for the Lord God of Israel shall pass through it. And it shall be shut, for the prince shall sit in it, to eat bread in the sight of the Lord. By the way of the porch of the gate he shall enter, and by its way he shall go out\" (Ezek. 44:1 ff.). What is this gate, if not Mary, shut because she is a virgin? Mary, then, is the gate through which Christ entered into this world, when he was poured forth in virginal birth and did not loose the genital bars of virginity. The enclosure of chastity remained undefiled, and the seals of integrity lasted inviolate, when he came forth from the virgin, whose height the world could not bear."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.59",
+   "text": "53. \"This gate,\" he says, \"shall be shut, and shall not be opened.\" A good gate is Mary, which was shut and was not opened. Christ passed through it, but did not open it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.60",
+   "text": "54. And to show that every man has a gate through which Christ enters: \"Lift up your gates, O princes,\" he says, \"and be lifted up, everlasting gates, and the King of glory shall come in\" (Ps. 23:7). How much more, then, was there a gate in Mary, in which Christ sat, and went out? For there is also a gate of the womb. Hence holy Job says: \"Let the stars of that night be darkened, because it did not shut the gates of my mother's womb\" (Job 3:9-10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.61",
+   "text": "55. There is, then, also a gate of the womb, but not always shut; yet one alone could remain shut, through which the virgin's offspring went out without loss to the genital bars. Therefore the prophet says (Ezek. 44:2): \"This gate shall be shut; it shall not be opened, and no one shall pass through it,\" that is, no human being; \"for the Lord,\" he says, \"the God of Israel shall pass through it. And it shall be shut,\" that is, before and after the passage of the Lord it shall be shut; and it shall not be opened by anyone, nor was it opened; for it always had Christ as its door, who said, \"I am the door\" (John 10:7), whom no one could tear away from her."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.62",
+   "text": "56. This gate looked toward the east, because she who brought forth the Dayspring and gave birth to the Sun of righteousness poured out the true light. Let the foolish hear, then: \"This gate,\" he says, \"shall be shut,\" which receives the God of Israel alone. Was he, then, of whom it was said to the Church, \"For he has strengthened the bars of your gates\" (Ps. 147:13), unable to strengthen his own gate? No, he certainly made it firm and kept it untouched. In short, it was not opened."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.63",
+   "text": "57. Let them hear, then, the prophet saying: \"It shall not be opened, and it shall be shut,\" that is, it shall not be opened by the one to whom she will be betrothed; for it will not be lawful for that [gate] to be opened through which the Lord will pass. And \"after him,\" he indicates, \"it shall be shut,\" that is, Joseph will not open it; for it will be said to him: \"Do not be afraid to take Mary as your wife; for what will be born of her is of the Holy Spirit\" (Matt. 1:20)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab10",
+   "text": "CHAPTER IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.65",
+   "text": "How virginity is signified by various symbols, and what consecrated virgins ought to learn from each of them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.66",
+   "text": "58. The shut gate, then, is virginity; the enclosed garden is virginity; and the sealed fountain is virginity. Listen, virgin, more attentively, with open ears; and with your modesty shut, open your hands, so that the poor may know you; shut the door, so that no defiler may creep in; open your mind, keep the seal."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.67",
+   "text": "59. The rod from the root is also virginity, for so it is written: \"A rod shall come forth from the root of Jesse, and a flower shall rise up from his root\" (Isa. 11:1). This rod is not hollow, but solid. Let no one, then, scorch your rod, so that you may guard your flower. You are a rod, O virgin: do not be bent, do not be bowed to the ground, so that the flower of the Father's root may rise up in you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.68",
+   "text": "60. You are an enclosed garden, virgin: keep your fruits. Let no thorns spring up in you, but let your grapes flower. You are an enclosed garden, daughter: let no one take away the hedge of your modesty, for it is written: \"And whoever breaks down a hedge, a serpent will bite him\" (Eccles. 10:8). But let him take away only that one of which it was said: \"Why has the hedge been cut?\" (Gen. 38:29). Let no one break down your wall, lest you be trampled underfoot. You are a paradise, virgin: beware of Eve."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.69",
+   "text": "61. You are a sealed fountain, virgin: let no one pollute your water, let no one stir it up, so that you may always behold your image in your fountain."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.70",
+   "text": "62. You are a shut gate, virgin: let no one open your door, which the Holy and True One has once shut, who has the key of David, who opens and no one shuts, shuts and no one opens (Rev. 3:7). He has opened the Scriptures to you: let no one shut them. He has shut your modesty: let no one open it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab11",
+   "text": "CHAPTER X."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.71",
+   "text": "It is indicated that virginity is a crown in the hand of the Lord, whom the Scriptures declare to be one and not second, just like the Father and the Spirit. Against this the heretics raise a text of the Gospel, but when that is resolved by other testimonies, the catholic faith concerning the Trinity is confirmed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.72",
+   "text": "63. \"I am coming soon,\" he says; \"hold fast what you have; let no one take your crown\" (Rev. 3:11). What is your crown, if not that of which it was said: \"And you shall be a crown of beauty in the hand of the Lord\" (Isa. 62:3)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.73",
+   "text": "64. Who says this, if not he of whom Ecclesiastes said: \"There is one, and there is no second\" (Eccles. 4:8)? Who is this, if not he of whom it was said: \"Your Master is one, Christ\" (Matt. 23:10)? He is one, because he is the only-begotten Son of God; because [he is] alone, as it is written: \"For he alone spreads out the heaven, and walks on the sea as on land\" (Job 9:8). He, then, is not second, because he is first; he is not second, because he is one: \"One God the Father, from whom are all things, and we in him; and one Lord Jesus Christ, through whom are all things, and we through him\" (1 Cor. 8:6). One God the Father, and one God the Son, and one Holy Spirit, as it is written: \"But all these things one and the same Spirit works, dividing to each as he wills\" (1 Cor. 12:11). \"One,\" he says, because one God. None second, because he does what he wills, not what he is commanded. One, then, is God the Father, and one the Son of God. One and one, because they are not two gods. One Son, because he is one with the Father, as he himself said: \"I and the Father are one\" (John 10:30). And one Spirit, because it is the unity of the Trinity, distinguished neither by order nor by time."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.74",
+   "text": "65. But they say it is read: \"Go, baptize the nations in the name of the Father and of the Son and of the Holy Spirit\" (Matt. 28:19); and they object that he named the Father first, the Son second, the Holy Spirit third. Did the Gospel, then, because it says, \"In the beginning was the Word, and the Word was with God\" (John 1:1), signify that the Father is inferior, because it first mentioned that the Word of God always is and was in the beginning? Or when the Apostle said, \"In the kingdom of Christ and of God\" (Eph. 5:5), did he make an order? Or when the Lord Jesus himself says, \"The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach the gospel to the poor, to proclaim release to the captives\" (Luke 4:18), did he testify that the Spirit is more eminent than the Son of God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.75",
+   "text": "66. You notice, virgin, how these things are resolved. Open your ears to them, shut your mouth. Open your ears, so that you may hear the faith; shut your mouth, so that you may keep modesty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.76",
+   "text": "67. Next they read that he said, \"In the name of the Father and of the Son and of the Holy Spirit\"; and they do not understand what he put first: \"In the name,\" he says. He signified three persons indeed, but asserted one name of the Trinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.77",
+   "text": "68. And so there is one God, one name, one divinity, one majesty. None, then, is second, because the Trinity is the beginning of all things, and the primacy of the Trinity is over all things. Therefore there is one and there is no second. He is one who has no second, because he alone is unique without sin, alone without help, who says: \"I looked, and there was no helper\" (Isa. 63:5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab12",
+   "text": "CHAPTER XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.78",
+   "text": "Since Christ has laboured so greatly for us, we ought to labour for him alone. He is not read to be second, except only in so far as he is man, in which sense he is also called the last. And to this a passage of Ecclesiastes and the example of Elisha are applied."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.79",
+   "text": "69. \"There is no end to his labour\" (Eccles. 4:8), because he is our advocate with the Father for all, and he took up our infirmities, and grieves for us, is made weak for us, as he says: \"I was sick, and you did not visit me\" (Matt. 25:43)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.80",
+   "text": "70. \"Whose eye is not satisfied with riches\" (ibid.), because he himself is the depth of the riches of the wisdom and knowledge of God, in whom are the treasures of the heavenly mysteries. Why, then, do we labour rather for the world, and defraud our soul by the loss of such great goodness, we who ought to serve no other than this Lord?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.81",
+   "text": "71. He, then, is not second. I certainly bring forward this testimony: I read that he is first, I read that he is not second. Let those who say he is second prove it by a reading."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.82",
+   "text": "72. But someone says that it is written: \"The first man was from the earth, earthly; the second man from heaven, heavenly\" (1 Cor. 15:47). But pay attention to what he says. \"The second man,\" he says; that is, he called him the second man. And I too say that he is first according to divinity, before whom there is none; but second according to the flesh, because [he came] after Adam."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.83",
+   "text": "73. I say more: not only [do I call him] second according to man, but even last. Indeed, you have it written thus: \"The first man Adam was made a living soul, the last Adam a life-giving spirit\" (ibid., 45). See the mercy of Christ: he himself is first and last. He who was first made himself last for our sake. First, because through him are all things; last, because through him is the resurrection. For he came down and cast himself down, so as to fall, making himself lower than all in order to raise up all who lay fallen."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.84",
+   "text": "74. Hence Ecclesiastes also says: \"For if one falls, the other will raise up his companion; and woe to him who is alone when he falls, and there is no second to raise him up. And indeed, if two sleep, they have warmth; but one, how shall he be warmed?\" (Eccles. 4:10-11). That is, whoever has Christ with him, even if he falls, will rise again; even if he dies, will come to life again, because he is present to him who came to cast fire on the earth (Luke 12:49). Indeed, Elisha too, when he raised the boy, breathed into him (4 Kgs 4:34), to pour in the warmth of life. Have, then, this fire with you in your breast, to raise you up, lest the cold of everlasting death creep over you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.85",
+   "text": "75. This young man, then, who came through Mary, cast himself down, and he poured the warmth of life into the breasts of those who heard him. Hence those [disciples] say in the Gospel: \"Was not our heart burning within us while he opened the Scriptures to us?\" (Luke 24:32)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab13",
+   "text": "CHAPTER XII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.86",
+   "text": "That Christ is understood as the one designated by Ecclesiastes under the name of the second young man, both from other passages and from the context of this very one; he, therefore, is the one who is described as having passed through the gate, and as having eaten while sitting in it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.87",
+   "text": "76. This is the second young man, as Ecclesiastes says: \"I saw all who live, who walk under the sun, with the second young man; who will rise again in his place?\" (Eccles. 4:15). For who will rise again in place of Christ, since he rose again for all, and in him all have risen again, since they have received the hope of resurrection?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.88",
+   "text": "77. And it is clear that this was said of Christ when you observe that this passage agrees with the blessing or prophecy of Jacob, who says of Judah: \"Who will rouse him up?\" (Gen. 49:9). Certainly no other, because he roused himself up, as he himself says: \"Destroy this temple, and in three days I will raise it up\" (John 2:19). But he was speaking of the temple of his body."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.89",
+   "text": "78. That too truly befits Christ alone, which he added: \"There is no end to all his people\" (Eccles. 4:16); because the countless people of Christ has no end, for whom faith in the eternal resurrection gains the age of perpetual life. So there is no doubt that it is according to the flesh that he is called a young man, and that he falls or rises again. Indeed, he also added this: that \"better is a boy poor and wise\" (ibid., 13); for he became poor, though he was rich."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.90",
+   "text": "79. He, then, the King of Israel, passed through this gate; he, the prince, sat in it, when the Word was made flesh and dwelt among us (John 1:14), like a King sitting in the royal hall of the virginal womb, or in a boiling pot, as it is written: \"Moab, the hall of hope,\" or \"the pot of my hope\" (Ps. 59:10). For both are found in different manuscripts. The royal hall is the virgin, who is subject not to a man but to God alone. The womb of Mary is also a pot, she who, by the boiling Spirit who came upon her, filled the world when she bore the Saviour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.91",
+   "text": "80. He ate sitting in the gate (Ezek. 44:3), that is, the food of which he says: \"My food is to do the will of my Father who is in heaven\" (John 4:34)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab14",
+   "text": "CHAPTER XIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.92",
+   "text": "That Mary's virginity is beautifully signified by the pot and by the light cloud; that the rain of this cloud, foreshadowed by many types in the Old Covenant, ought to be gathered by virgins, just as the most potent ointment of that pot ought to be received; and that no one should plead poverty, but should make preparation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.93",
+   "text": "81. O the riches of Mary's virginity! Like a pot she boiled, and like a cloud she rained the grace of Christ upon the earth; for it is written of her: \"Behold, the Lord comes sitting upon a light cloud\" (Isa. 19:1). Truly light, she who knew not the burdens of marriage; truly light, she who lightened this world of the heavy usury of sins. She was light who carried in her womb the remission of sins. Indeed, she lifted up John while he was set in the womb, who leapt at her voice, and the infant exulted with joy, quickened by the sense of devotion before he was by the infusion of the life-giving spirit (Luke 1:41)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.94",
+   "text": "82. Receive, then, receive, holy virgins, the spiritual rain of this cloud, the tempering of bodily burning, so that you may quench all the fires of the body, and the inner parts of your mind may be moistened. The rain of this sacred cloud our fathers announced to us as the future salvation of the world (Ps. 71:6). That this rain was to come was signified by the drops dripping upon the earth, which Jerubbaal asked for and obtained. Follow the good cloud, which brought forth within itself a fountain with which it watered the world (Judg. 6:36 ff.). Receive, then, the willing rain, the rain of blessing, which the Lord poured out on his inheritance. Receive the water, and let it not flow away from you; because she is a cloud, let it wash you and drench you with sacred moisture; because she is a pot, let it steam with the eternal Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.95",
+   "text": "83. Receive, therefore, from this Moabite pot the ointment of heavenly grace, and do not fear that it may run out: what has been emptied out overflows all the more, because its fragrance has gone out into all the earth (Ps. 18:5), as it is written: \"Your name is ointment poured out; therefore the maidens have loved you\" (Song 1:2). Let this ointment descend into the depths of the heart and the secret places of the inward parts, the ointment by which holy Mary was fragrant, not with the scents of luxuries, but with the breathings of divine grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.96",
+   "text": "84. This rain quenched the craving of Eve; this ointment wiped away the stench of inherited error; this ointment Mary the sister of Lazarus poured on the feet of the Lord, and the whole house, filled with the holy scent, was fragrant (John 12:3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.97",
+   "text": "85. Let no woman think herself poor, let none consider herself needy, let none fear that she cannot buy this precious ointment, or think that this fountain is for sale. \"You who thirst,\" he says, \"come to the water; and all you who have no money, come and buy and drink without money\" (Isa. 55:1). And above he says: \"You were sold for nothing, and you will be redeemed without money\" (Isa. 52:3). Therefore the Lord became poor, though he was rich, so that all may buy him, and that he may enrich the needy above all with his poverty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.98",
+   "text": "86. Prepare, then, the vessels of the Lord, to receive this fountain of living water, the fountain of virginity, the ointment of integrity, the fragrance of faith, flowering with the grace of gentle mercy. Put on the innocence of his Lamb, who, when he was reviled, did not revile in return; when he was struck, did not strike back (1 Pet. 2:23)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab15",
+   "text": "CHAPTER XIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.99",
+   "text": "So that virgins may be the more keenly urged to imitate Mary, it is shown that many things said mystically of the Church apply also to the same virgin Mother of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.100",
+   "text": "87. Imitate her, daughters, to whom there beautifully applies what was prophesied of the Church: \"How beautiful have your steps become in sandals, daughter of Aminadab\" (Song 7:1); because the Church has gone forth beautifully in the preaching of the Gospel. Beautifully goes forth the soul which uses the body as a sandal, so that it may carry its footstep wherever it wishes without any hindrance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.101",
+   "text": "88. In this sandal Mary went forth beautifully, who as a Virgin bore the author of salvation without any mingling of bodily intercourse. Hence John excellently says: \"I am not worthy to loose the strap of his sandals\" (John 1:27), that is, I am not worthy to grasp the mystery of the Incarnation within the narrow limits of the human mind, and to set it out in the meanness of poor speech. Hence Isaiah also says: \"Who will declare his generation?\" (Isa. 53:8). Beautiful, then, are the steps either of Mary or of the Church, since beautiful are the feet of those who preach the gospel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.102",
+   "text": "89. How beautiful, too, are the things prophesied of Mary under the figure of the Church, if only you attend not to the members of the body but to the mysteries of his generation! For it is said to her: \"The joints of your thighs are like necklaces, the work of a craftsman's hands. Your navel is a turned bowl, never lacking mixed wine. Your belly is like a heap of wheat fenced about with lilies\" (Song 7:1 ff.); because [Christ's birth from the Virgin was] restrained in all things, and just as victors in worldly battles are accustomed to honour the necks of brave men by bestowing necklaces, so he lightened our yoke, so as to crown the necks of the faithful with the insignia of virtue."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.103",
+   "text": "90. Truly that womb of Mary was a turned bowl, in which was Wisdom, who mixed her wine in the bowl, supplying from the fullness of her divinity the unfailing grace of holy knowledge (Prov. 9:2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.104",
+   "text": "91. In this womb of the virgin there sprang up at once a heap of wheat and the grace of the lily flower, since she brought forth both a grain of wheat and a lily. A grain of wheat, according to what is written: \"Amen, amen, I say to you, unless a grain of wheat falling into the earth dies, it remains alone\" (John 12:24). But because a heap was made from one grain of wheat, that prophetic word was fulfilled: \"And the valleys shall abound with grain\" (Ps. 64:14), because that grain, having died, bore much fruit. This grain, therefore, has filled all men with the perpetual food of heavenly gifts; and the utterance of the prophetic mouth was fulfilled, as the same David says: \"He fed them with the fat of wheat, and filled them with honey from the rock\" (Ps. 80:17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.105",
+   "text": "92. That there is also a lily in this grain the divine oracles testify, for it is written: \"I am the flower of the field and the lily of the valleys; like a lily among thorns\" (Song 2:1). Christ was a lily among thorns when he was among the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab16",
+   "text": "CHAPTER XV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.106",
+   "text": "That virgins can in a singular way be called the lilies of Christ; and that Christ himself is rightly foreshadowed by the heap of wheat surrounded by lilies, since he both made the Church fruitful and won the crowns of various contests."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.107",
+   "text": "93. Hear, virgin, what he says: Christ is the lily of the valleys, that is, of humble and meek souls. Be meek, therefore, humble and gentle, so that Christ may spring up in you like a lily. Of him you have elsewhere too: \"His lips are lilies dripping with the first myrrh\" (Song 5:13). That is, those who speak of Christ's passion and celebrate it together with their own mouths, and carry his dying about in their own body, are Christ's lilies; especially the sacred virgins, whose virginity is splendid and spotless. Hence many take it that the Church is seen to say: \"I am the flower of the field and the lily of the valleys\": she who in this valley of this world breathes out the grace of a good fragrance by the zealous confession of piety. Then too she says elsewhere: \"My brother has gone down into his garden, to the bowls of spice, to feed in the gardens and to gather lilies. I am my brother's, and my brother is mine, who feeds among the lilies\" (Song 6:1-2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.108",
+   "text": "94. From that womb of Mary, then, the heap of wheat fenced about with lilies was spread into this world, when Christ was born of her, to whom the prophet David says: \"You will bless the crown of the year of your goodness, and your fields will be filled with plenty. The borders of the desert will grow rich, and the hills will be girded with rejoicing. The rams of the flock are clothed, and the valleys abound with grain; for they will cry out and sing a hymn\" (Ps. 64:12 ff.)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.109",
+   "text": "95. What is the year of the Lord's goodness, if not that of which it was said: \"In an acceptable time I have heard you, and in the day of salvation I have helped you\" (Isa. 49:8), when the Church abounded with the faith of the peoples and clothed [her] priests with justice? Hence the Apostle too says: \"Behold, now is the acceptable time, behold, now is the day of salvation\" (2 Cor. 6:2), when the Lord came to preach the acceptable year of the Lord and the day of recompense, as he himself recorded in his Gospel, saying: \"The Spirit of the Lord is upon me, because he has anointed me,\" etc. (Luke 4:18)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.110",
+   "text": "96. Then, therefore, the Lord crowned the time of his coming with his works and with glory and honour; for that whole year of his life in this world held contests of various sufferings. As a little child he overcame Herod (Matt. 2:16), over whom he triumphed in the suffering of the infants. He hungered, he thirsted, he was beaten for us, he endured unworthy insults for us, he mounted the cross, he died for us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab17",
+   "text": "CHAPTER XVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.111",
+   "text": "That virgins must go out to meet Christ, and in what manner. That he was indeed crowned by his mother, yet that there must be no doubt about his divinity. That perfect faith must therefore be taken up, foreshadowed in the food which Jacob prepared and in the robe which the prudent woman wove; so that the virgin, having obtained blessings from Christ, may see God in the man, or rather may put on Christ, and with him the ornaments of all virtues."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.112",
+   "text": "97. You see how great the contests [were]! And yet he is no greedy exacter of reward, for whom the one heavenly crown of virtue was abundant. Go out, therefore, daughters of Jerusalem, as divine Scripture urges you in the Song of Songs: \"Go out and see King Solomon in the crown with which his mother crowned him on the day of his espousals and on the day of the gladness of his heart\" (Song 3:11); because, it says, he made himself love from the daughters of Jerusalem. That is: go out from these straits and bodily cares, go out from this carnal delight, and be absent from the body, so that you may be present with the Lord; since those who are in the flesh cannot please their Lord. It is said to you, then, that you are not in the flesh but in the spirit (Rom. 8:8-9), if you can grasp the love of that true Solomon, the peaceful one, which he made for himself; and for this reason he received a crown from his mother."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.113",
+   "text": "98. Blessed is mother Jerusalem, blessed too is Mary's womb, which crowned so great a Lord. She crowned him when she formed him; she crowned him when she bore him; for although she formed him without any working of her own (since the Holy Spirit came upon the virgin; whence he himself also says: \"Your eyes have seen my unworked [substance]\"), yet by the very fact that she conceived and bore him for the salvation of all, she set upon his head the crown of eternal goodness, so that through the faith of believers Christ might become the head of every man. Unworked, therefore, is also the flesh of Christ; for, that the virgin Mary might conceive him, by a certain unheard-of and new mystery of the Incarnation, without any mixture of male seed, by the grace of the divine dispensation he took from the Virgin what belonged to flesh, and in her formed the members of the last Adam, the spotless man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.114",
+   "text": "99. You hear \"man\", but understand [him as] above man; for it is written: \"You shall not cook a lamb in its mother's milk\" (Exod. 34:26). And elsewhere you read: \"He is both man, and who will know him?\" (Jer. 17:9). You must not, then, measure that lamb, in whom the fullness of the godhead dwells bodily (Col. 2:9), by the powers of the human condition, and shut up the majesty of incomprehensible power within the weakness of a degenerate understanding. For Jacob did not cook in milk that food of perfect faith in which his father Isaac so delighted that with prophetic sobriety he conferred on him every prerogative of blessing (Gen. 27:25). And therefore the Apostle wrote that the juice of milk is the food of slight teaching, saying: \"For everyone who is fed on milk is unskilled in the words of justice\" (Heb. 5:13); for he is a little child, but solid food belongs to the perfect."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.115",
+   "text": "100. You too, then, daughter, take up that robe woven by the devout work of the woman who opens her hands to the poor, and whose lamp is not put out the whole night (Prov. 31:19 ff.); and put it on, and bring such dishes to the father, so that he may say: \"How is it that you have found it so quickly, daughter?\" (Gen. 27:20 ff.), praising prudence at a still tender age, and also the feeling of devout dedication. And may he say to you: \"Come near to me, daughter\"; and, having smelled the smell of your garments, may he bless you, saying: \"See, the smell of my daughter is like the smell of a full field which the Lord has blessed\"; and, \"May God give you of the dew of heaven from above, and of the fatness of the earth abundance.\" And may he add to these: \"Whoever curses you shall be cursed, and whoever blesses you shall be blessed.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.116",
+   "text": "101. Clothed in this robe Jacob saw a man, and asked a blessing from him as from the Lord God, and called the place \"Vision of God\" (Gen. 32:26 ff.). Clothed in this robe he saw that robe of Christ of which he says: \"He will wash his robe in wine\" (Gen. 49:11). And he also blessed Joseph, saying: \"My son Joseph is increased, my son is increased, my envied son, the younger, return to me\" (ibid. 22), signifying the mark of the Lord's resurrection. And he added: \"The blessing of your father and your mother has prevailed above the blessings of the abiding mountains and the desires of the everlasting hills\" (ibid. 26), that is, above the king of grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.117",
+   "text": "102. Take up this robe, so that you may put on Christ and be renewed in the knowledge of him. Put on, then, as God's elect, a heart of mercy, kindness, humility, patience, modesty, love, which is the bond of unity (Col. 3:12 ff.); so that you owe no one anything except to love your sister in turn; and do not envy her grace, but imitate her whom you see to be more approved; so that the peace and grace of Christ may be in you, and the word of God may dwell in your heart, and you may flee the thoughts of this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.118",
+   "text": "103. Once dead to the world, do not, I beg, touch or handle the things of this age; but always, in psalms and hymns and spiritual songs, draw yourself away from the way of life of this age, singing not to man but to God (Col. 2:20 ff.). And as holy Mary did (Luke 2:19), ponder in your heart. Like a good little ewe-lamb, also chew over the divine precepts in your mouth, so that you too may say: \"I will be exercised in your wonders\" (Ps. 118:27). And let your soul not slumber or drip for weariness. For drippings drive a man out of his house in winter; but a soul that is whole does not drip, in which there is no crack of graver sin; but it stays in its house, and rejoices in and enjoys the freshness of an unharmed dwelling. But if something should perhaps totter, say: \"Strengthen me in your words\" (Ps. 118:28)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.ab18",
+   "text": "CHAPTER XVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.119",
+   "text": "Thanks are given to God that the life of the angels, once lost in paradise, now shines in virgins; and that virginity was found worthy to bring forth Christ to the world and to lead the Hebrews out through the sea. After this Ambrosia herself is commended and offered to God, that he may guard his gift in her, join her in heavenly wedlock for spiritual births, and grant her virtues in place of dowry and ornaments, by the benefit of which she may deserve to hold her Bridegroom. Finally Christ is entreated to receive his handmaid gladly."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.120",
+   "text": "104. Now, having gone through everything, I turn my prayers to you, Father of grace, to whose kindness we give countless thanks, because in sacred virgins we see on earth the life of the angels, which we had once lost in paradise. For what could you have bestowed, whether to [encourage] the imitation of virgins' pursuits and the strengthening of virtue, or to celebrate together the glory of virginity, more than that God should be born of a virgin? The fault has profited us more than it harmed us: in which indeed our redemption found a divine gift."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.121",
+   "text": "105. But your only-begotten Son himself also, when he was to come to earth to take up what had been lost, could find no purer generation for his flesh than to dedicate the hall of a heavenly virgin as his own dwelling, in which there should be both a sanctuary of spotless chastity and a temple of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.122",
+   "text": "106. And why should I add this, that by your divine gift, together with the holy Moses and Aaron (Exod. 15:20), the virgin Mary led the army of the Hebrews on foot through the waves? I leave aside ancient things, I do not seek private ones: this nobility is enough for the virginal family."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.123",
+   "text": "107. I beg you to guard this handmaid of yours, who has ventured to dedicate to you her service, to you her soul, to you her zeal for integrity. Her I offer by my priestly office, I commend with a father's affection; that you, gracious and presiding, may grant her grace, by which she may rouse the Bridegroom lingering in the inner sanctuaries of the heavenly bridal chambers, may deserve to see [him], may be brought into the chamber of her God and King; may deserve to hear him saying to her: \"Come hither from Lebanon, bride, come hither from Lebanon; you will pass over and pass through from the beginning of faith\" (Song 4:8); so that she may pass over the world and pass through to those eternal things."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.124",
+   "text": "108. Look therefore, Father, upon your gift, for whose sanctifying you sought no one's counsel; but without any suitor or arbiter you conferred on her so great a grace as no one could have believed before the divine oracles: that a virgin should carry God in her womb. Stirred by the privilege of this gift, the pursuits of virginity and the examples of sacred integrity multiply. Provoked by these to the grace of such virtue, may this handmaid of yours too stand at your altars, not bringing golden hair from glowing locks devoted to the bridal veil, but that hair with which that woman of the Gospel, holy Mary, wiped the feet of Christ with diligent devotion and filled the whole house with the poured-out ointment, offering it to be consecrated by the sacred veil (John 12:3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.125",
+   "text": "109. Here is the girl, whom neither the festivities of a wedding, nor its rewards, nor the weight of a burdened womb with the longed-for pain of marriage disturb, but who asks for herself the spotless offspring of faith and devotion; that she may conceive in her womb by the Holy Spirit, and, made fruitful for God, bring forth the spirit of salvation. But so that the grace of merits may advance for her, you, God the Father almighty, add the support of your commendation; for modesty is not a solitary dowry. Let modesty, sobriety and continence gird the hair of sacred virginity, so that, girded with the company of the virtues, crowned with the purple veil of the Lord's blood, she may carry about the dying of the Lord Jesus in her body; for these are the better veils, which are the garments of the virtues, by which guilt is covered and innocence revealed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.126",
+   "text": "110. Clothe your handmaid, then, with these garments, which are to be clean at all times; for whatever no intervening fault has darkened remains clean, so that it may rightly be said to her: \"Since your works have pleased God (Eccles. 9:7–8), let your garments be white at all times, and let oil not be lacking on your head,\" with which she may light her mystic torches; so that when the Bridegroom comes, she may be counted worthy of the heavenly bridal chamber among those wise virgins (Matt. 25:10), lighting up the office of her sacred profession with the light of her devotion, faith and seriousness."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.127",
+   "text": "111. Guard therefore your handmaid, Father of love and glory, that, as in an enclosed garden and a sealed fountain, she may keep the bars of chastity and the seals of truth. Let her know how to till her field, which holy Jacob tilled, and let her gather from it fruits sixtyfold and a hundredfold. In the virtues and strengths of this field may you rouse grace in her and reawaken love. May she find him whom she has loved, hold him and not let him go, until she receives those good wounds of love which are preferred to kisses. Always ready, by night and by day, let her keep watch with the whole spirit of her mind (Song 5:7), so that the Word may never find her sleeping. And since her beloved wishes to be sought more often, in order to test her affection, let her follow him as he runs back; let her faith go out, and let her soul go abroad from the body into your Word, that she may be present with God; let her heart keep watch, her flesh sleep, lest it begin wickedly to keep watch for sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.128",
+   "text": "112. You, Lord, add other ornaments of sacred virginity, add diligent and devout observances; that she may know how to possess her vessel, know how to be humbled; may she hold love, the wall of truth, the hedge of modesty. Let not the pines surpass her veil, nor the cypresses; let not turtledoves surpass her chastity, nor doves her simplicity. Let there be simplicity in her heart, measure in her words, modesty towards all, devotion towards her kin, mercy towards the needy and the poor; let her hold fast what is good, abstain from every appearance of evil; let the blessing of the dying come upon her, and let the mouth of the widow bless her (Job 29:13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.129",
+   "text": "113. Set your word as a seal on her heart, as a seal on her arm (Song 8:6); that in all her senses and works Christ may shine forth, she may aim at Christ, speak Christ. Let not many waters be able to quench her love, nor the sword of persecution, nor danger; but strengthened in every good work and word, may she put on your glory and live in your grace in this world. May you sanctify her in truth, strengthen her in virtue, cherish her in love, and by your divine favour lead her to that heavenly glory of chastity and integrity, the unblemished and spotless crown; that there she may follow the footsteps of the Lamb, and feed at noon, abide at noon, and not walk among the flocks of companions, but, mingled with your lambs, may live without stumbling as a companion of virgins, an attendant of the Marys (Rev. 14:4; Song 1:6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0022.stoa031.opp-lat1.130",
+   "text": "114. Come forth therefore, Lord Jesus, on the day of your betrothal; receive her who has long been devoted to you in spirit, and now also by profession; fill her with the knowledge of your will; take her up from the beginning unto salvation, in sanctification of the spirit and faith of the truth, so that your handmaid may say: \"You have held my right hand, and in your will you have led me, and in glory you have taken me up\" (Ps. 72:24). Open your hand and fill her soul with blessing (Ps. 144:16), that you may save her who hopes in you (Ps. 85:2), and she may become a vessel sanctified for honour, useful to the Lord, approved for every good work: through that eternal cross, through that venerable glory of the Trinity, to whom be honour, glory, everlastingness, to God the Father, and the Son, and the Holy Spirit, from the ages, and now, and always, and for all ages of ages. Amen."
+  }
+ ]
+}

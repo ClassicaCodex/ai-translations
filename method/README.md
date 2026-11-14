@@ -50,3 +50,6 @@ The whole works in `translations/` (marked `"whole_work": true`) are made by one
     - `outside_sample` marks a correction of the same error where it recurred in an unsampled stretch of the same work.
   - `noted` gives a note added to a stretch.
   - `not_upheld` gives each objection that was not accepted, with the reason.
+- **`reviews/whole-works-2.json`:** the review of the second batch, in the same shape.
+  - `read_in_full` names the work the reviewer read from first stretch to last, Philodemus's *On Music*, apart from the sample.
+  - Each objection's `read` says whether it came from the sample or from the work read in full.

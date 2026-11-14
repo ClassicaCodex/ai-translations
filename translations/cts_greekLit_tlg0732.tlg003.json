@@ -1,0 +1,563 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0732.tlg003",
+ "edition_urn": "urn:cts:greekLit:tlg0732.tlg003.ai-claude",
+ "source_edition": "tlg0732.tlg003.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "De febribus [Sp.]: AI translation (Claude)",
+  "author": "Alexander of Aphrodisias",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0732.tlg003.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.1.1.1": "1.2: the construction is loose; 'the time' is supplied as subject of 'does not allow'. 1.6: 'πάλαι' read as 'late/belatedly'; 'ὅτε μὲν εἰσαγωγήν' taken as 'ὅτε μὴ εἰσαγωγήν' (not an introduction). 3.2: 'ἡ μὲν γάρ ἐστι λέγεται' is evidently corrupt; translated as 'one is said [to be] constitutive'. 3.1: the sentence on homonyms is awkward in the Greek. 4.2 and 5.2 end abruptly; 'changed' and 'that harms' are supplied. The 'Zeno' named in 2.1 is uncertain (possibly the Herophilean physician).",
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.6.2.1": "6.2: the sentence breaks off ('base of the conformation and'), as do 8.3-type breaks at 7.3, 9.1, 11.1; text appears lacunose in the edition. 8.1: ᾗ ἡ ἀρχὴ τοῦ ζῴου ἡ φύσις is obscure; rendered literally. 8.3: κρᾶις read as κρᾶσις. 10.1: 'as the extreme from the mean' follows the Greek; 10.2 'as vice to virtue' (ἀρετῇ κακία) is inverted relative to the analogy, kept as given. 12.2 is syntactically corrupt (φέρει, ἄλλως ὑπ᾽ ἄλλῳ...); translation tentative. 12.3: initial αἱ is likely a stray; omitted. 12.6: εὐτομότητι uncertain, rendered 'divisibility'.",
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.8.1": "12.12: ἑκτικός is derived from ἕξις ('settled state'), hence 'hectic'. 12.16 and 13.4 and 14.2 end mid-sentence in the edition; text seems lacunose. 13.4: the clause 'not every part... has fever, that part for which...' is obscure as transmitted. 13.3: reading ἑκτικός for ἐπτικός. 15.2: reading τεθέρμασται, οὐ μικρῶς. 16.1: the attribution of the bath-house example to Hippocrates and Aretaeus is as given; ̔πποκράτει read as Ἱπποκράτει.",
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.16.4.1": "Several passages end abruptly in this text (17.2 'of the', 18.1 'the discussion', 19.3 'states and', 20.4, 21.3 'in relation to', 22.2 'not', 23.2 'for the sake of these'), apparently where the edition breaks off; translated as they stand. 16.4: 'μυρίων' read as 'μορίων' (parts). 22.1 'πρῶόν' read as 'πρῶτον'; 20.2 'ἀποτλοῦν' as 'ἀποτελοῦν'; 20.4 'ἐξ ἡμῖν' as 'ἐν ἡμῖν'. 22.2 is garbled in the text and the rendering is tentative. 23.2 'τὸ γάρ, ἐν ᾧ μόριόν ἐστι καὶ οὐ φυλακτικὸν αἴτιον' seems corrupt; sense uncertain.",
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.24.2.1": "24.5, 25.14 and 26.4 break off mid-sentence in the text (26.4 presumably 'the causes'). 25.1: ἄξιον in 'τὸ παρ᾽ ἰατροῖς ἄξιον' read as αἴτιον. 25.7: 'μετα2ο0 βάλλει' read as μεταβάλλει (page number intruded). 25.9: κρίσεις read as κράσεις (temperaments); the phrase 'δυσκρασία καὶ ξυμμετρία' is repeated, apparently by dittography (perhaps for a word like 'faulty conformation'). 26.2: ἀναντήσαντος read as ἀπαντήσαντος; the referents of τὰ μέν/τὸ δέ are unclear, and the final clause ('in which there is nowhere... anything') seems corrupt. Aretaeus' work 'on preservatives' is not otherwise known to me.",
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.3.1": "27.11: 'ἀμφότεροι γέγονεν' is ungrammatical; rendered as if 'would be right'. 27.7: the clause 'ἔστιν ὅτε μηδενὸς μεσολαβοῦντος...' is loosely joined and the text may be disturbed. 28.2: the passage breaks off at 'ἐξοχώτατός τε καὶ'; the relative 'ὃς' most likely refers to health (ὑγεία), though grammatically awkward. 29.1: 'ἑπτικοί' read as ἑκτικοί; 'σηπομένις' as σηπομένοις.",
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.4.1": "29.7 and 30.2 end incomplete in this text (30.2 breaks off at 'of the', supplied as '[account]'). 31.4: 'οὐ παρὰ τὸ μᾶλλόν' contradicts the sense; read as 'αἱ παρὰ' (those taken from). The phrase 'ἐπὶ πολλοῦ πράγματος ὄνομα ποιότητος' seems corrupt; the sense is probably applying a term of quantity (great/small) to a quality; translated literally. 'ἄλλων μορίων' (other parts) may be corrupt for 'other things'. 31.5 ends with a quotation introduced but not given here. 'Ἔι δὲ' in 31.3 read as 'ἔτι δὲ'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.1.1.1",
+   "text": "You asked me, Apollonius, best of the Asclepiads, to hand down to you in writing about fevers as much as I explained to you by word of mouth, more or less, when you were attending my lectures, so that it might be a kind of memorandum of my teaching for you when you wish to study fevers, and especially now, when I have decided to travel abroad and to be far away from you all, and you will perhaps no longer have someone to explain the mysteries of medicine to you so eagerly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.1.2.1",
+   "text": "I, then, am easily led to follow you wherever you yourself bid. And not only about fevers, but about any other topic of medical theory I would have been ready to give instruction for your sake, both by tongue and in writing, if it were not that now, when I am hurrying toward certain other matters, with my departure pressing upon me, [the time] does not allow serious attention to such things; rather, you ought to have been seen making this request earlier, when, of course, it was possible for me also to have time after the request for writing up the subject."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.1.3.1",
+   "text": "For the theory of fevers, as you know, has many branches and is hard to survey, and needs much time both to grasp and to write up; and you yourself would agree that what is undertaken must be worthy both of you and of me, if I am not to choose to write, and you to read, in vain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.1.4.1",
+   "text": "And for these reasons I would have abandoned the undertaking entirely, had not a saying of the men of old, and a fine one, come to mind and persuaded me that one must yield to friendships, and even if one must lower one's art, not to spare even this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.1.5.1",
+   "text": "So indeed I decided to compose the present treatise as a kind of introduction, and, promising another on the whole theory of fevers, to be written presumably at a suitable time, to give you this one now by way of a pledge, as a memorial of close friendship."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.1.6.1",
+   "text": "And so let me, in compliance, tell you what the occasion allows, making use not of the breadth of the art, nor of my own resources in speaking, if I have any, but rather of the shortness of the time. Each of us will have pardon from the other: you, for having asked so late, when it was easy to receive not an introduction but a long book on fevers; I, for not opposing friends in anything whatsoever."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.2.1.1",
+   "text": "Fever, then, to begin my account from here, has been defined differently by different people; but Empedocles and Zeno and most of the Hippocratics said that it is heat contrary to nature, beginning from the heart and proceeding from it through the arteries and veins to the whole body, and perceptibly harming the natural activities; and rightly so."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.2.2.1",
+   "text": "For the heat that works against the natural activities must be contrary to nature, and must begin from the heart, whence, surely, the natural heat wells up, and must proceed to the whole body through those very channels through which that [natural heat] proceeds in accomplishing the natural activities; for if not through those by which the natural [heat] acts as it proceeds, from where would it get passages so as to spread out over the whole body? So those who defined fever in this way expressed themselves well. But so that our account may be clearer, it would be right also to examine the definition itself part by part, as it stands, and to resolve anything in it that involves a difficulty."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.2.3.1",
+   "text": "Heat contrary to nature, then, is the genus of fever, by reason of which fever is a disease, being a hot dyscrasia not in conformation but in temperament, with which a dry one also goes together. For the essence of fevers lies in the genus of heat contrary to nature, and all the rest are differentiae, by which [fever] is constituted and differs from other heats; for not every heat contrary to nature is a fever, but every fever is certainly heat contrary to nature."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.2.4.1",
+   "text": "For instance, the heat contrary to nature that arises in the spirits from sunburn or fire or another of these initiating causes, but has not yet gone to the heart, either having seized and kindled its body, or the humours contained in its cavities themselves, or the airy substance, neither is nor is called a fever; far from it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.2.5.1",
+   "text": "For fever must begin from the heart and go from it through the spirits and the blood to the whole body; which was not the case with the heat just mentioned. That is why the phrase \"beginning from the heart\" is added in the definition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.2.6.1",
+   "text": "For even if fever is a disease of the whole body, is it not nevertheless primarily of the heart, and consequently of the whole body? For how could heat contrary to nature go into the whole body without first kindling the heart? Or which of the other parts, when heated contrary to nature, can heat the whole body and pass on to the whole the condition it has, as the heart alone of all can, without doing so by means of the heart, kindling first it and then through it the whole body? The cause of this is certainly that the heart, more than the others, supplies and governs the whole body with its own outflows; so that it is clear from this that the heat first kindled contrary to nature in the heart is the true beginning of fever."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.2.7.1",
+   "text": "By \"beginning\" I mean [beginning] as of a magnitude, and not the partless kind, but the kind that can be divided along with the whole magnitude; for the heat kindled contrary to nature in the heart is in truth a real fever, even if it has not yet been passed on to the whole, differing only in quantity from the [heat] in the whole, since the heart alone has power over the whole, and no other of the parts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.3.1.1",
+   "text": "But it is worth raising the difficulty: why is \"contrary to nature\" the genus of fever? For it seems somehow to be a differentia, by which fever differs from natural heat, while heat alone is the genus. Now an account of homonyms must first distinguish what it proposes to speak about, so that it becomes clear, as when we speak of the dog we distinguish the star and the land animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.3.2.1",
+   "text": "Since, then, heat too is among the things said in many ways (one [kind] is said to be constitutive of the animal, which is also natural, another destructive, which is also called contrary to nature, and the being of each lies in being contrary to nature or according to nature), an account of it must first indicate which kind its aim concerns."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.3.3.1",
+   "text": "Homonyms are signified by the account of their essence, and the generic account of the essence of each thing is its genus; reasonably, therefore, \"contrary to nature\" is the genus of fever, as being the generic account of its essence, by which it is signified and has its being, and not \"heat\"."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.4.1.1",
+   "text": "The phrase \"proceeding from it through the arteries and veins to the whole body\" is also well added to the definition. For parts heated contrary to nature can, by contact, heat the nearest parts, and these others, and those still others."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.4.2.1",
+   "text": "But since all the heat sent from the heart into the whole body goes by means of the spirit and the blood, which are present in every part of the body, coming from the heart itself, we reasonably say that the heat contrary to nature, beginning from the heart, goes through the arteries and veins into the whole body. For by the same means by which the heart imparts the natural heat to every part of the body, it will also send the heat contrary to nature, especially since fever seems to be the natural heat [changed] into a fiery [state]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.5.1.1",
+   "text": "Now the phrase \"and perceptibly harming the natural activities\", which is the last part of the definition, separates fever from anger and similar things; for anger does not harm the activities with a perceptible harm such that fever would result."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.5.2.1",
+   "text": "For this reason we hold that fever is not every heat contrary to nature, even if it is passed from the heart through arteries and veins to the whole body, but only that which is a disease; for disease is the condition contrary to nature [that harms] the activities."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.6.1.1",
+   "text": "By natural activities we mean the activities of the natural faculty of the soul, which are harmed most by heat contrary to nature, because, more than the others, they come about and are accomplished as if through the natural heat as their instrument; for the instrument of the natural faculties is the temperament of the parts, just as, in turn, that of the vital ones is the particular conformation of these same parts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.6.2.1",
+   "text": "That natural heat belongs not to the simple things but to the blended ones, who at all fails to recognise? Even if one may call all the activities of the soul natural activities, both because they are accomplished and come about by nature, and because neither perceiving, nor moving, nor indeed being nourished and growing and generating can come about without the natural and innate heat; for the temperament of the homoeomerous [parts] is the base of the conformation and"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.7.1.1",
+   "text": "For this reason we see all the activities of the soul harmed by heat contrary to nature, and more so those which the sons of physicians call natural; from which it is clear that fever is more terrible and more grievous than all other diseases, since it begins from the most principal principle, the heart, and proceeds into the whole body and harms all the activities in it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.7.2.1",
+   "text": "In this way, then, and for these reasons, fever is a heat contrary to nature, beginning from the heart, and proceeding from it through arteries and veins to the whole body, and perceptibly harming the natural activities, as has been said."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.7.3.1",
+   "text": "Since we call it a heat contrary to nature, it would be right to say first what natural heat is and what heat contrary to nature is; for once the genus has been made plain, perhaps that of which it is the genus will not"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.8.1.1",
+   "text": "Natural heat, then — and I mean the same thing, of course, as innate heat — is that of which the principle of the animal is nature; for it grows together with the animal, and for this reason it is called natural, being in general the instrument of the faculties of the soul; for the soul cannot produce any activity whatever without such heat."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.8.2.1",
+   "text": "Every instrument, however, must be proportionate to that of which it is the instrument, and preserve the fitting ratio to the work and its result. Otherwise the instrument, and that of which it is the instrument, and that for the sake of which the instrument [exists], would be in vain, and so something in vain, of course, would be introduced among existing things in its own right."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.8.3.1",
+   "text": "The innate heat, then, being an instrument of the soul, as has been said, must also have a temperament that is not detached and simple, but referred both to the faculties of the soul and to their works, and be proportionate to them, and for this reason be blended with cold and moist and dry, and be well tempered and commensurate. And for this reason it might rightly be called a natural and innate temperament; or rather, from it the natural and innate temperament might be called hot, on the one hand because in the blend of the ratios the hot overcomes and exceeds the other qualities — for animals are surely hot because of the heat that exceeds in them and overcomes the remaining qualities — and on the other hand because the hot is the most active of all the other qualities; for no quality changes what neighbours it as the hot does."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.8.4.1",
+   "text": "Such, then, is natural and innate heat. Heat contrary to nature is that which comes upon the body from some external cause, whatever it may be, neither proper to nature nor having taken its origin from it; it is not a proportionate instrument of the natural faculties, nor does it preserve the ratio fitting to their works, on the one hand because it is introduced and foreign, and on the other because through its own dyscrasia it does not preserve proportion to the faculties and works. Such a temperament might also be called contrary to nature, inclining towards the hotter in the same ratio as the innate heat."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.9.1.1",
+   "text": "One should know that, as we speak of innate heat, so also of introduced heat, but, as we speak of introduced cold, we do not likewise speak of innate cold. The cause of this is entirely that cold does not enter as the work of nature simply and in its own right, as heat does; for cold is foreign to and destructive of the nature of ensouled things, and especially of animals, and is a cause of immobility rather than of motion. For if it does somewhere come to accompany nature, it is not in its own right, but by"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.10.1.1",
+   "text": "It is clear, then, from what has been said, that natural and innate heat differs from heat contrary to nature, first in its causes, then by being well tempered and ill tempered, and generally as the extreme differs from the mean; for as virtue is to vice, so eucrasia is to dyscrasia; and consequently from this [they differ] in kind and form, just as a healthy body differs from a diseased one. Yet both usually arise in the same substrate, as is proper for contraries, whether spirit, or humour, or some part or other, in which they act upon and are acted upon by each other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.10.2.1",
+   "text": "For innate or well-tempered heat is opposed to heat contrary to nature as a mean to an extreme, and innate warmth is contrary to heat contrary to nature as vice to virtue, as we were saying a little before. Such, then, are heat according to nature and heat contrary to nature, and by such differences [they differ] from each other, to say a few things out of many,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.11.1.1",
+   "text": "Since fever is thought and said to be natural heat changing towards the fiery, come, let us consider whether it is rightly thought and said so; for the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.1.1",
+   "text": "I say, then, that when two contraries act upon and are acted upon by each other in the same matter, one is expelled and destroyed and the other introduced in its place. For both cannot be present in actuality in the same substrate, nor again be absent from the same substrate; but when one comes on, the other must give way from the matter, and when one gives way, the other in turn enters and gives form to the matter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.2.1",
+   "text": "For never, not even in the indivisible now of time, can the matter and substance receptive of contraries be under neither form of the contraries by nature, nor again do things standing furthest apart from each other, even if they are under the same genus, bear [their] dwelling in the same, [being] otherwise arranged and disposed under another; nor is it relevant to the argument whether some contraries have intermediates and others are without intermediates."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.3.1",
+   "text": "For the same argument fits both, so far as concerns the matter and the change; and besides, how are intermediates the same as extremes?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.4.1",
+   "text": "Since every natural acting or being acted upon is a motion having its being in becoming, and motion is in time, and of time one part is the beginning, another the middle, another the extreme and last; and further, since the contraries in which the motion takes place have intermediates, there being many forms and states between the two, it is necessary that neither at the beginning of the motion is one of the contraries destroyed and the other introduced in its place, nor yet in the middle; for the motion from the beginning to the middle and the last, and again from the middle to the last, would be in vain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.5.1",
+   "text": "It remains, then, only that at the extreme and last point of the motion one of the contraries is wholly destroyed and no longer exists, and the other is introduced in its place at the same now of time, which is also the limit of the motion, the 'to which'; and between the two limits, the 'from which' and the 'to which', many intermediate forms must surely come about, preceding the one, the 'to which', and following the other, the 'from which', which neither are nor are called either of the extremes, such as grey, pale yellow, red and the other intermediates, into which what changes from black to white first changes; this neither is nor is called white or black simply, unless perhaps, compared with the two extremes, it might be called black relative to the one and white relative to the other; but simply it is not, unless one wished to confuse the forms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.6.1",
+   "text": "One might say the same about the gradations of the same [quality] and about the extremes, except that the extremes differ in kind, while the gradations of the same [quality] differ by more and less and by divisibility. If you understand all the same things in the case of fever too, you will not go wrong."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.7.1",
+   "text": "For when the introduced and foreign heat heats and alters the spirit, or humour, or part in us, which are well tempered in the eucrasia of heat that we spoke of, each must become hotter than itself, as though it changed from cold or lukewarm to hot; and since what is being heated has not yet been heated, and having been heated is the limit 'to which' of the heating, what is being heated from a well-tempered state until it has been heated must certainly pass through as many intermediate forms and gradations of heat contrary to nature as possible, none of which is wholly like the extreme, nor is or is called a settled state."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.8.1",
+   "text": "Such an intermediate state of the alterations of the body, whether it be heating or cooling, or some other of those named derivatively from the primary qualities, is called dyscrasia among physicians, because the battle of the contraries is present in it: dyscrasia because it is not proportionate to the natural activities, and differing in its relation to its natural [state]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.9.1",
+   "text": "In such an intermediate state, then, we say the parts of the body also are, when the body has the fever that is kindled by spirits or putrefying humours, as can be seen from what was said earlier."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.10.1",
+   "text": "But when the alteration has now come to its end, and the battle of the contraries against each other has ceased, the temperament that supervenes is called even, one of the contraries having been wholly destroyed, and we say that the parts are under such a temperament and in the state of having been heated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.11.1",
+   "text": "And when the alteration has ceased and that so-called even temperament has supervened, since perceiving comes about through some alteration of the senses, there will be no perception of that even [temperament], just as there is none of the natural temperament, nor any pain afflicting the sense."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.12.1",
+   "text": "For there has come to be, as it were, a natural disposition and temperament of the parts, of which there is no perception on the part of the one who has it, since no action of anything of his own upon himself occurs, and as it were a settled state (hexis) implanted in the parts, whence it also got its name, being called hectic fever among physicians."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.13.1",
+   "text": "These things having been thus distinguished, it can be seen from this that, just as it is not properly possible to say of black, when it is being whitened, which is the same as saying when it is still undergoing the motion and in the midst of the motion, that it has changed to white, because what is being whitened has not yet been whitened, just as neither could what has been whitened and is at the 'to which' of the motion be called in any way black, the blackness having been wholly destroyed, so neither is it right to call the fever kindled by spirits and putrefying humours heat contrary to nature changing into fiery [heat]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.14.1",
+   "text": "For what is changing has not changed, unless one wishes to call every intermediate form and every gradation fiery heat, being so only potentially, not in actuality; for what is moved is potentially that toward which it is moved, not in actuality; for it would not be moving but at rest, if it were in actuality such as that toward which it is moved; otherwise the same thing would be moving and not moving in the same respect and in the same [thing], which is a contradiction. The hectic fever, however, in one way is natural heat changing into the fiery, and in another way is not."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.15.1",
+   "text": "For if 'the hot' is understood and taken as the quality, it is not; for that fiery heat is in no way the natural heat; but if as the substrate, then very much so; for what changes in hectic fever is a qualified thing, not a quality, and such a thing is not called heat but hot, nor again fever, but rather feverish; yet physicians sometimes use such expressions indifferently, and perhaps not without cause and reason."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.12.16.1",
+   "text": "For since in the midst of such an alteration the forms are surely infinite, as has been shown in the works on nature, and have not received names, the physician, when discussing them, had to call them by the name of the extreme toward which the motion goes, saying of every fever simply that it is natural heat changing toward the fiery. But one speaks more truly if one wishes to say such a thing of the hectic [fever], as has been said,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.13.1.1",
+   "text": "It is worth attention that fever belongs to nothing but only to those [parts] of the body which both properly are and are called ensouled; for neither the spirit in us properly [has fever], nor the humours, but only the parts of the body have fever, which are also the instruments of our activities, reasonably."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.13.2.1",
+   "text": "For just as health, being a natural disposition of the human body through which a human being perfectly accomplishes his proper activities, is in the parts of the body to which the activities belong, while humours and spirits are its efficient causes, the latter as the universal and generic instrument of the soul, the former as the matter of the parts from which they grow and are nourished, so too disease, of which fever is a kind, being a disposition contrary to nature of the human body, by which harm perceptible in itself and primarily occurs in the activities, will be in the same parts of the body to which the activities belong; for contraries naturally come to be in the same [thing]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.13.3.1",
+   "text": "Spirit and humours are rather efficient, not material, causes of disease and fevers. Besides, disease and health, being affections of what is ensouled, insofar as it is ensouled, must be in ensouled things as substrates; and of what is in us only the parts are ensouled; for spirits and humours are soulless, being neither nourished nor having any other natural activity; so that every fever, whether ephemeral, or kindled by putrefying humours, or hectic, is in the parts of the body, even if the former are still coming to be and have their being in coming to be, while the hectic, having already come to be, no longer comes to be, nor has its being in coming to be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.13.4.1",
+   "text": "This, then, is why we say that the parts have fever, and are being heated and have been heated; for everything that has fever either is being heated or has been heated; but not every part that is being heated or has been heated has fever, [namely] that part for which humour or spirit are causes of fevers, causes, however, as"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.14.1.1",
+   "text": "From this it is clear that of fevers some are coming to be, others have come to be, just as of diseases some have come to be, others are coming to be, of which the one has come to be, the other will come to be; and I do not yet say that some also do not yet exist but will exist, from the disposition of the body. But these things [belong] elsewhere, though they will perhaps be spoken of moderately for your sake in what follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.14.2.1",
+   "text": "Thus, then, this too has been determined. It would be time, finally, to turn the discussion to what follows. And first we must speak about the things in us, these being fluids, spirits and solids, since we mentioned them above; then also about causes in general, in a certain sequence of the discussion"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.15.1.1",
+   "text": "There being, then, three things in us, solids, fluids and the airy substance, and the parts of our body being the solids, the humours the fluids, and the natural spirit the airy substance, it happens that heat contrary to nature begins at one time from one, at another from another of those mentioned, and spreads and affects the remaining two kinds together with the one affected, unless it is first dissolved and dispersed beforehand; and from this three differences of fevers according to matter also appear to us."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.15.2.1",
+   "text": "One, in which the airy substance alone has been sufficiently heated, while the fluids and solids are themselves still being heated but have not yet been heated; for being heated differs not a little from having been heated: the one is coming to be, is always mixed with potentiality and does not yet have its being in actuality, while the other has already come to be, is not mixed with potentiality, and is in actuality; another, in which the substance of the fluids has been heated, but neither the airy substance nor the solids have yet been heated, but are still being heated and have not yet been heated; and a third and last, in which the solids have already been heated, while the others are being heated but have not been heated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.15.3.1",
+   "text": "The first of these differences, then, has shown the ephemeral [fevers], the second those kindled by putrefying humours, the third the hectic"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.16.1.1",
+   "text": "What has been said would become clear to you if you go through the examples which we shall set down for their clarification where we speak of the difference of fevers, and no less if you consider the present example, devised by Hippocrates and Aretaeus, as most fitting to what was just said."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.16.2.1",
+   "text": "Let the bath-house be set before us for consideration, and let us consider how many natures differing from one another it has, from which it is composed, and how they are or can be disposed toward heating."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.16.3.1",
+   "text": "There are, then, three different substances constituting the bath-house: walls, water, and the air enclosed within and contained by the walls; and the walls correspond to the solids in us, the water to the humours, the air to the spirits; and let the air contained by the bath-house be heated, none of the others mentioned being heated along with it; such a thing is possible not only in thought but also in actual occurrence; when the air has been heated, first the water in the bath-house is heated, for it is of finer-particled and more easily affected substance than the wall; then the wall."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.16.4.1",
+   "text": "And this would be the example of the first difference of fevers, according to which we said that ephemeral fevers appear, when the airy substance (which is the same as saying the spirit) is already kindled and heated with heat contrary to nature, while the humours and the parts are still being heated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.16.5.1",
+   "text": "Again, let the water in the bath-house be heated first; then, once it has been heated, the air too is heated at once, and after that the wall which encloses it as well; but let [the wall] not yet have been heated, but still be in the process of heating; and this would be the example of the second difference of fevers, according to which we said that fevers are kindled from putrefying humours, the fluids having been heated while the rest are still being heated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.16.6.1",
+   "text": "Further, let the wall of the bath-house be heated first, and after this let the air and the water be heated along with it; and from this the third and last difference of fevers will be pictured for you, according to which [arise] the hectic fevers, the solids having already been heated while the rest are still being heated,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.17.1.1",
+   "text": "It is clear, then, from this also that there are only three things in us in which heat contrary to nature [arises]: parts, humours, spirits; and the same are called in Hippocrates 'containing', 'contained' and 'impelling': 'containing' the parts, which are also called solids, 'contained' the humours, and 'impelling' the spirits, each having taken its fitting name from its own power."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.17.2.1",
+   "text": "For the solids contain and hold, while the fluid and flowing things, which is the same as saying the humours, are held in and enclosed by them, and the spirits in us are impelled, being of the finest-particled and hottest substance, and passing most easily through all the parts of the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.18.1.1",
+   "text": "It is clear too that there are only three kinds of fevers, neither more nor fewer: namely the ephemeral, those kindled from putrefying humours, and further those called hectic fevers. These, however, admit of several differences: that according to the more and less of the heat contrary to nature, which we shall say is the essential difference of fevers, according to which we name fevers great and small; that according to the manner of motion, according to which fevers are called slow and quick, and intermittent and not; and further that according to the symptoms of the heat contrary to nature, from which, as from signs, physicians customarily make the diagnosis of what kind the fever may be, according to which we are accustomed to call some fevers very red, others very pale, others livid, and others otherwise. But these things will be stated more clearly in the [treatise] on the difference of fevers; yet let a few things be said now too for your sake, even if [it makes] the discussion rather digressive"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.19.1.1",
+   "text": "It is clear, then, from what has been said, that the spirit is kindled most easily of all and dissolved most quickly, the humours less so, and the parts still less. For this reason the ephemeral [fever] can arise from almost any chance cause, trivial and faint, and it also departs easily, since the kindled spirit is very easily dispersed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.19.2.1",
+   "text": "But fevers kindled from putrefying humours do not arise from some trivial cause; for the nature of the humours is more solid and more resistant than the spirits, and one [humour] has a more solid and resistant nature than another, as we shall know very well in what follows; and for the same reasons they depart with difficulty, and the more so those that are kindled from a more solid humour."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.19.3.1",
+   "text": "The hectic [fevers], however, both arise with the greatest difficulty and depart with the greatest difficulty; for the parts are not easily kindled, being of a more solid nature, nor again, once heated, do they easily cast off the heat; for the solid is both hard to impress and very retentive of the shape and quality impressed on it, unless perhaps it inclines rather toward the opposite quality. This is why they are also called hectic fevers, as being states (*hexeis*) and"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.20.1.1",
+   "text": "It is worth noting that, while fevers are three in kind, as we said, the ephemeral is subdivided again according to the difference of the causes which first produce such heat contrary to nature in the spirit, and not according to a difference in substance within the spirit; for the spirit is homoeomerous throughout, and does not have the same diversity as the humour."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.20.2.1",
+   "text": "The fever kindled from humours, on the other hand, is not divided according to [the difference] of causes; for there is one cause, namely the conjoined one, which brings about such a fever: the change and putrefaction in the humours; but according to the diversity and difference of the humours the matter of the putrefaction comes to be different."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.20.3.1",
+   "text": "The hectic fever admits of no difference according to its causes, for it is throughout the same fever, even if it arises from different [causes]; but according to the moisture of the parts, which is corrupted, consumed and withered by its persistence, it admits of many differences, as we shall say in the discussion devoted to it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.20.4.1",
+   "text": "Thus, then, there are three most principal differences of fevers, by which the heat contrary to nature is first kindled from the matter in us, neither more nor fewer; and now we shall speak more precisely about each of these. But first we must speak about causes in general, then about these themselves, according to the promise of the discussion"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.21.1.1",
+   "text": "A cause, then, among physicians, is that which is first, from which some condition arises in the human body, or the persistence of a condition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.21.2.1",
+   "text": "'That which is first' has been said because the cause is more of the nature of a principle than its own effect, and is prior to it sometimes in time but always by nature; 'from which some condition arises in the human body' is added, and further 'or the persistence of a condition', the one signifying the productive, the other the preservative cause, either of disease or of the neutral condition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.21.3.1",
+   "text": "For there are two causes among physicians, the productive and the preservative; not, clearly, of one [kind of] body but of several, the healthy, the diseased and the neutral, and of these again, those [so] simply and those [so] at the present moment, as also of those [so] simply, those always and those for the most part; for the cause [is] in relation to"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.22.1.1",
+   "text": "But how is the preservative cause that which is first? For the preserved health is prior to the cause that preserves it; for health must exist, and then be preserved; moreover, these are said relatively to one another: for what preserves health is preservative of preserved health, and conversely; and such things are simultaneous by nature; therefore the preservative cause is not that which is first."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.22.2.1",
+   "text": "Health, qua such, is prior to the cause preserving it; but health, qua preserved, is posterior. And relatives are of the same [order] by nature, and not prior. Not all are simultaneous by nature, but all are simultaneous by nature at least in thought; for without the one the other [can]not"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.23.1.1",
+   "text": "But again, how is what preserves health or disease a cause? For it is not material: for matter is a part of the whole, and it preserves not qua matter, but rather the form [preserves] that of which it is the form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.23.2.1",
+   "text": "Moreover, how will the accidental have the material cause, the 'from which'? For that in which it is a part is not also a preservative cause; nor is it productive, since the productive is distinguished in opposition to the preservative; nor indeed formal: for the preservative cause which physicians discuss is foreign to and outside that of which it is in every case preservative; but the form is proper to, and an essential part of, that of which it is the form; moreover, there is no form of the form, for thus we would fall into an infinite regress; nor yet final, because the preservative cause is not the end of health or disease; rather these are its end, and for the sake of these"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.24.1.1",
+   "text": "The preservative is surely reduced to the productive, and in a way shares in the nature of the formal. For the productive can also be preservative, when its influx upon what receives it is continuous: for light makes colours that are potentially colours actually colours, and once they have come to be, preserves them; and a humour flowing into some part heats or cools it by its own quality, and once it has been heated or cooled still preserves it so, unless it is separated from it; and again, flowing into some part, it obstructs its pores and passages, and then preserves them obstructed, lingering in the place and not moving on, unless it is dispersed, either spontaneously or by some aid."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.24.2.1",
+   "text": "To this also bears what physicians are accustomed to say, that morbid causes produce disease in the body and still preserve the same [disease]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.24.3.1",
+   "text": "This is entirely true of the productive cause of disease: if it is not separated from what is affected, from productive it would also become preservative; and the cause of this is in every case the continuity of its activity and its struggle with its opposite; hence it also in some way shares in the nature of the formal [cause], preserving the disease as the form [preserves] that of which it is the form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.24.4.1",
+   "text": "But it is not entirely true to say the same of the productive cause of health, that once it has produced health in the body it would then change into a preservative one. For if there were a continuity of its activity, the body already healed will be set into the condition opposite to the state from which it had been restored; the reason is that the productive cause of health belongs more to disease than to health, and stands as far from health on the one side as disease in turn stands from it on the other; neither of which one could say of the preservative cause of health."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.24.5.1",
+   "text": "So the productive cause of disease can also become preservative, as we were saying, and for this reason will be reduced to that [productive cause]; the preservative cause of health, however, even if it is not the productive cause of the same [health] in the same [body], is nevertheless reduced to the productive; for preservative causes happen to be restorative in kind, as Aretaeus also [says] in his [work] on preservatives"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.1.1",
+   "text": "It is also worth raising the difficulty how the cause recognised by physicians is only the productive and the preservative of health and disease, [when] some are material, some formal, some productive, some final, from which knowledge of health and disease arises in us."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.2.1",
+   "text": "Strictly speaking, these do not have the material cause, the 'from which', since they are accidents, and it does not belong to accidents to come to be from matter. For matter is that from which, as present within it, something comes to be, and it is an essential part of what comes to be from it; for this reason matter in the strict sense belongs only to compound and composite substance, not to any of the accidents; nevertheless they have the material cause 'in which', and this is the substrate in which health and disease are, being nearer and more remote: the part more proximate, the humour more remote, and the element most remote of all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.3.1",
+   "text": "Hence those physicians speak wrongly who say that some disease comes to be from matter, as the fever arising from putrefying humours [comes] from a humour: for example, that a tertian [comes] from yellow bile and a quartan from black bile, as from matter, in the strict sense; for the humour is not a material but rather a productive cause of such things, and such things come to be from it not as from something present within, but as from something that holds the origin of motion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.4.1",
+   "text": "We have learned from the natural philosophers that the productive [cause] does not coincide even in form with the material cause; so that such things could only ever be productive, not material, causes of such things."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.5.1",
+   "text": "If anywhere among physicians a disease is said to come to be from matter, it is said by a loose use [of the term]; and in saying this they distinguish the disease arising from a humour from those that have no cause, or that have one, but [it is] a dyscrasia or a faulty conformation, neither of which is called matter; not because a humour is matter, from which as present within it the fever comes to be, but because it is a material thing and a substrate for dimensions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.6.1",
+   "text": "Besides this, it is also unreasonable to think that health and disease are in the humour as in a substrate, so that the humour, while still remaining a humour and not yet changed into a part, would be a substrate of disease and health in its own existence, as the part is; for of that which would have no activity, complete or incomplete, what health and disease could there be?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.7.1",
+   "text": "That a humour shares in no psychic activity is something no one doubts. Yet the humour is potentially a substrate of health and disease, just as it is also potentially the parts into which it changes, becoming nourishment for them through alteration, or as that from which the parts have come to be, as from a secondary element."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.8.1",
+   "text": "Disease and health could further be said to be in a humour as in their productive cause, and not as in what receives them, in the sense in which effects are in what makes them, and the statue in the sculptor."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.9.1",
+   "text": "And the temperaments, conformations and faculties, which some physicians say are formal causes of health and disease, are called formal causes of them by a loose use [of the term]; for there is no form of a form, as we were saying a little earlier; temperaments and conformations are, however, forms that are in a way material causes of health and disease; for the temperament or the conformation is not health and disease, but the eucrasia or dyscrasia and symmetry or dyscrasia and symmetry or asymmetry in them, so that health and disease are forms added to forms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.10.1",
+   "text": "And the faculties of the soul, which after health and disease operate well or badly in the body, seem in a way to be formal causes of them; for what supervenes on something seems also to be the form of that on which it supervenes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.11.1",
+   "text": "First, then, are temperaments and conformations, after them health and disease, and third the faculties, all of them forms; health and disease, however, being between the two, are formal causes of the former and in a way material causes of the latter, as has been said."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.12.1",
+   "text": "And indeed there is no one who doubts that activities are final causes of health and disease; for disease is for the sake of incomplete activity, just as health is for the sake of complete and sound [activity]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.13.1",
+   "text": "Taking up the difficulty again, then, we say that even if such things are material, formal and final causes of health and disease, nevertheless an account of their knowledge and a demonstration of them do not belong to the physician, nor does he give an account [of them] qua physician; for he takes these without demonstration from the natural philosopher, and lays them down as indemonstrable principles of his own art."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.25.14.1",
+   "text": "But of the productive and preservative causes of health and disease he gives as full an account as possible, and through demonstration from his own principles he tracks them down and reasons about them, and finds what sort and how many they are. For this reason the cause recognised by physicians is only the productive and preservative [cause] of health and disease and of the neutral condition"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.26.1.1",
+   "text": "One should know that the cause recognised by physicians is divided in three, into the productive, the preservative and the prophylactic. The productive fits the three conditions, that is, health, disease and the neutral condition; the preservative the two, health and disease; and the prophylactic the neutral [condition] alone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.26.2.1",
+   "text": "They differ in that the [prophylactic] make their corrections little by little, before the harm meets [the body] all at once, while the [preservative] [do so] when the harm too has met it, though somehow imperceptibly. For preservatives are not prophylactic of the evil that is going to be and of the disease, which has its being in its own cause, which disposes the body in some way; but preservative of present health and of the healthy body, in which there is nowhere and in no way, neither simply nor regarding the disease, anything."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.26.3.1",
+   "text": "Therefore the ones are named by physicians preservatives of health and of the present constitution, the others prophylactics of the evil that is going to be and of the disease."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.26.4.1",
+   "text": "From all this it has become clear that the cause recognised by physicians is that which is first, from which there arises in the human body some condition or the persistence of a condition; next it would be [proper] to say how many and of what sort, again, among them are the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.1.1",
+   "text": "Of causes, then, whether healthy, morbid or neutral, or again productive, preservative or prophylactic, some have been called by physicians antecedent and initiating, some preceding, some conjoined."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.2.1",
+   "text": "Initiating [causes] are those that are outside the substance of the body, falling upon it from outside and greatly altering and changing the body; of these some alter and change the body of necessity, those which it cannot avoid coming near, others not of necessity. Of necessity are these, being six in kind: one, air and everything that in any way surrounds [the body]; another, rest and motion, of the whole body and part by part; third, sleep and waking; fourth, foods and drinks and in general what is taken in; fifth, what is excreted and retained, and simply repletion and evacuation; sixth, the affections of the soul, such as anger, joy, grief and all such things."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.3.1",
+   "text": "For these too are outside the substance of the body, since the soul is something other than the body. Those [that act] not of necessity are whatever comes from chance and accident, and whatever from deliberate choice, such as a sword or a wild beast or a stone or hemlock or a cliff and other such things, which one does not encounter of necessity, but which by chance, accident and choice often befall, and often do not."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.4.1",
+   "text": "Those [that act] of necessity are indeed inescapable, and one must always encounter them, if the body is to live. For a human being, if he is to live, must spend all his hours in air, and move at times, and rest either as a whole or in parts, and likewise sleep, and be awake, and eat, and drink, and be filled, and be emptied, and rejoice or grieve, and be angry or afraid, and undergo the other things that are affections of the soul."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.5.1",
+   "text": "Such, then, are the initiating causes, coming upon [the body] of necessity and not of necessity, as has been said; preceding and conjoined [causes] are those within the body itself, such as obstructions, humours, temperaments and conformations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.6.1",
+   "text": "They differ from one another in that some bring about the condition directly, as putrefaction [brings about] fever: these are the conjoined; others indirectly, as constriction or obstruction [brings about] fever by way of putrefaction in between: these are the preceding."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.7.1",
+   "text": "The antecedent causes, however, sometimes bring about directly the condition they bring about, and in this they coincide with the conjoined causes, like the heat of the surroundings or some excessive motion. Sometimes, with nothing intervening through which [they act], they have kindled and brought about fever of themselves, as one may see happen very rarely in some fevers; and sometimes indirectly, either with only the conjoined cause intervening, in which case [the antecedent] holds the place of a preceding [cause], as one may see in most ephemeral fevers and in a few of the fevers arising from humours, or with both the preceding and the conjoined [causes] intervening, as happens in some ephemeral fevers and in very many of the fevers arising from humours."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.8.1",
+   "text": "An example of the former in ephemeral fevers: when the heat of the sun or motion or something else of this sort kindles directly the spirit in us, and with this intervening brings about the ephemeral condition; and in fevers arising from humours: when the heat of the sun or violent motion or bad food and the like alter and corrupt the humour, or simply the temperament or the conformation, and then, with one of these intervening, kindle and bring about the [fever] arising from humours."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.9.1",
+   "text": "An example of the second in ephemeral fevers: when the cold of any surrounding [medium] condenses the skin, and through its condensation kindles the spirit, and through the kindling of this in turn brings about the ephemeral condition; in fevers arising from humours, what was just said in the case of the ephemeral [fever] also applies, if the cold of the surroundings, through condensation of the skin and kindling of the humour, brings about some fever of this kind; and [cases] also apply in which you would find not just one but several of the preceding causes. For in fevers of this kind, as a rule, many such preceding causes come into play."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.10.1",
+   "text": "There are some physicians who say that the antecedent and initiating cause of a disease is the one that has brought about the disease through other preceding causes in between, while the one [acting] through the conjoined [cause] alone in between, whether it is internal or falls upon the body from outside, they say is a preceding, but not an initiating, cause; just as [they say] the one that brings about the disease directly, whatever it is, is always conjoined, yet differs from the conjoined and preceding [causes] in the strict sense in that these are in the body, while it falls upon the body from outside."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.11.1",
+   "text": "Both would be right, if the one party divided the causes by considering the nature of the causes in relation to one another, and the other their relation to and distance from the disease."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.12.1",
+   "text": "So many and of such a kind, then, are the causes, being initiating, preceding and conjoined, as we have said. But note also, I ask you, that of these in turn some are causes in themselves, others accidentally, of the things of which they are causes: in themselves, those that, having the productive power in themselves, either potentially or actually, always in themselves bring about by it the same condition in the body; for example, if you like, pepper and opium, the one always heating by the heat it has potentially, the other cooling by the coldness it possesses both potentially and actually; accidentally, those that produce conditions not by the power they have, whatever it may be, but by something else that supervenes on their activities, just as cold water heats the body, but not in itself; for heating does not belong to coldness in itself, but accidentally; accidentally, because by condensing the pores and passages of the body, as is natural for something cold, through which the body breathes out and the heat lodged in us is dispersed, it prevented the flight and movement of the heat outwards, and thereby made the body hotter than it was."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.27.13.1",
+   "text": "Likewise hot water cools, but not in itself; since cooling also does not belong to heat in itself, but accidentally, because by rarefying the pores and passages of the body, as is natural for something hot, through which the innate heat in us is dispersed and breathed out, it made its movement outwards easy, and thereby [made] the body, by the dispersal of the heat, colder than it was."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.28.1.1",
+   "text": "It is worth observing that not only do the causes mentioned become causes of diseases, but the diseases themselves may sometimes become causes of other diseases. For from the ephemeral [fever], as from a cause, there sometimes arises directly both a putrid fever and a hectic one, and from a putrid one in turn, as a rule, the hectic. Whether, conversely, a putrid and an ephemeral [fever] can ever arise from a hectic one, and an ephemeral again from a putrid one, we shall perhaps consider in what follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.28.2.1",
+   "text": "So much, then, for the present about causes generically and in general. Next it is necessary to speak about the causes through which fevers arise; for if the causes from which fevers may arise are not known, one could neither know precisely what the fever before one's eyes is, nor the remedies that will help; and these, productive of health and destructive of fever and of its causes, one could neither discover nor introduce by any art and method — [health,] which is the most eminent aim of the therapeutic method and"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.1.1",
+   "text": "Let us say, then, that all fevers — both the ephemeral, and those kindled from putrefying humours, and moreover the hectic — are brought about and arise from the initiating causes, even if some arise directly, others indirectly, and to a greater and lesser degree, as will be shown."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.2.1",
+   "text": "For ephemeral [fevers] arise more directly from the antecedent [causes], which for the most part hold the place, as it were, of the preceding [cause] alone, when through sunstroke or motion or anger or something else of this kind the spirit in us, first kindled, distributes that heat contrary to nature through the heart, continuously, to every part of the body."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.3.1",
+   "text": "For first there is the sunstroke or motion, holding the place of the preceding [cause], then the kindled spirit, the conjoined cause of the ephemeral [fever], and third the ephemeral fever itself, the result of the causes. And sometimes a preceding cause falls in between the antecedent causes and the conjoined [cause], when cold surroundings condense the skin, and the condensation of the skin kindles the spirit, since the airy substance that cools and fans the natural heat is not drawn inwards; for the bodies of animals breathe out at all hours, the vaporous and sooty residues pouring outwards, while the airy substance enters in their place and fans the innate heat. When the skin has been condensed by the cold of the surroundings and the other things that usually condense it, the spirit must be kindled on the principle we stated, and thereby the ephemeral fever arises."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.4.1",
+   "text": "For in this way the first cause will be the coldness of the water or of the air, which is an initiating cause; then the condensation of the skin, a preceding cause; third, the kindled spirit, the cause of the ephemeral condition; and fourth, the ephemeral fever itself, the result of the causes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.5.1",
+   "text": "And it makes no difference whether, the constriction and condensation being slight and very easily dissolved, the ephemeral fever alone arises and passes off, with no other condition supervening in the body; or whether, it not being dissolved, the humours in us, or even the parts, are kindled, either first or after the spirit, and bring about putrid or even hectic fevers. For this has no bearing on the argument, which says that the ephemeral [fever] sometimes arises from the surroundings by way of the constriction or condensation of the skin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.6.1",
+   "text": "Those kindled from putrefying humours also always arise from the initiating causes, but never with the antecedent [causes] acting as preceding causes, as in the case of some ephemeral [fevers], but through one or more of the preceding and conjoined causes. For they always arise from proximate and conjoined causes, the humours and the putrefactions in them, but never from the initiating [causes] as from preceding ones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.29.7.1",
+   "text": "And in this the ephemeral fevers differ from those arising from humours, so far as concerns the causes: the ephemeral arise also from the antecedent causes acting as preceding ones, while those arising from humours [arise] always from the same [causes], but never as from preceding ones, rather through the mediation of one or more of the preceding causes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.30.1.1",
+   "text": "Here I must take exception to Aretaeus and others, who stated as a distinctive and inseparable sign of fevers arising from humours that none of the initiating causes precedes such fevers, on the ground that this belongs to neither of the other kinds, because all ephemeral fevers are established upon the initiating causes, while hectic fevers, when they arise without these, do not even set in from the beginning — although nothing at all, not only no fever but no disease whatever, can begin without one of the antecedent [causes]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.30.2.1",
+   "text": "But these things we shall perhaps examine more precisely in what follows. Now, since we are speaking not about a single kind but about many and differing fevers, it would be right to speak first about their difference, and then so also about the other matters, as the [account] proceeds in a certain sequence."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.31.1.1",
+   "text": "The difference of fevers, then, is either essential or non-essential: essential is that which arises from the very essence of the fevers, non-essential that which arises from what supervenes upon their essence, taken either proximately or remotely."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.31.2.1",
+   "text": "For the essence of fevers is heat contrary to nature, as has been said; for their essence admits of more and less. It is also something accidental, existing in a substrate and unable to exist by itself, or else in its productive cause."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.31.3.1",
+   "text": "Moreover, it has a mode of motion according to the nature and quality of that in which it is, whether this be substrate or cause. And further, it produces certain symptoms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.31.4.1",
+   "text": "Reasonably, then, some of the differences both are and are called essential, those taken from the more and less of the heat contrary to nature, according to which we name fevers small and great — not properly applying a name of quality to a much thing, yet nonetheless accustomed to do this not only with fevers but also with other parts which have their existence in quality yet are called great and small. Non-essential are all the remaining differences: those according to the matter and the substrate in which the heat contrary to nature is, and those according to the mode of motion, and further according to the symptoms of the heat contrary to nature. For these — the matter, the mode of motion, and the symptoms — supervene upon the heat contrary to nature, and do not belong to it essentially."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1.31.5.1",
+   "text": "For this reason we say that the differences of fevers taken from these are non-essential and not according to essence, the first difference being according to essence, which is taken and spoken of on account of the more and less of the heat contrary to nature, according to which we call fevers great and small, as has been said. All these differences of fevers one of those before us set out both precisely and clearly, saying:"
+  }
+ ]
+}

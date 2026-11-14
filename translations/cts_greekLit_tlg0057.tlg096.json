@@ -1,0 +1,488 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0057.tlg096",
+ "edition_urn": "urn:cts:greekLit:tlg0057.tlg096.ai-claude",
+ "source_edition": "tlg0057.tlg096.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "De Humero iis Modis Prolapso quos Hippocrates non Vidit: AI translation (Claude)",
+  "author": "Galen",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0057.tlg096.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.excursus.head": "The long excursus passage is evidently corrupt in places. 'ὡς οἷόν τε καὶ αὐτοὶ' is obscure, and the sense is supplied. In the Smyrna sentence something seems lost after 'spent most of his time', before 'after my thirtieth year I lived in Rome'. 'οὐχ ὡς ἑωρᾶτο κατὰ συμβολὰς τῶν μυῶν' is unclear. The sentence beginning 'one must push it towards the opposite region' is defective, and the clause in square brackets restores the apparent sense. In the 'condition' passage, 'ὀλίγοισί τε εἰκῆ' is read as 'yield to little', and 'ἀνίστασθαι' is read as 'be balanced' (perhaps for ἀντισηκοῦσθαι). The Hippocratic lemma at 24 is garbled, and its syntax is translated as it stands. 'Bald bones' renders φαλακρῶν, i.e. bones with rounded heads.",
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.26.quote1": "In 27.4 the argument about *sarkazein* (lower row of teeth, 'eating flesh') is obscure and probably corrupt; rendered as closely as possible. The etymology of *mōnycha* from 'asses' hooves' (ὄνων ὄνυχας) is as printed; one expects 'single hooves'. In 29.1 'εὑρημένοις' is taken as 'by methods that have been found'; the sentence is grammatically defective. In the quoted lemma 26, 'thick and blunt upper jaw' lacks an explicit subject (the ox); supplied in brackets.",
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.31.quote1": "34.quote1: ἄλλα τὰ αὐτὰ read as ἀλλὰ τὰ αὐτὰ, with 'compare' understood. 38.1: the Greek is garbled (καὶ εἰ ἔτι ὁ κατὰ τὴν μασχάλην ἀγκὼν); translation conjectural. 39.1: a conditional (εἰ μὲν) seems lost before εἰσενεγκεῖν; rendered as a condition. 42.1: πυρίνες / διαπύρινα / σπαθομίλαι are instrument names of uncertain identity (probably olive-tipped probes and spatula-probes); κατὰ τὰς μασχάλας may be corrupt for some other phrase; ἐμπλήρωμα ('projection') is doubtful. 43.quote1: ἀντεχνότερον read as ἀτεχνότερον.",
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.43.1": "50.quote1: the lemma reads κάτωθεν ('below'), but Galen's comment explains τὸ ἔκτοσθεν ('outside'), so his text of Hippocrates evidently read ἔκτοσθεν ('Outside the armpit'). 47.1: the comment explains 'used up' (καταδαπανᾶσθαι), which does not match the lemma's σιμοῦται; the lemma reading may differ from Galen's. 48.1: the text is somewhat corrupt (e.g. καθήμενος for καθειμένος, μέχρι for εἰ δὲ); translated by the evident sense. 52.1: 'front parts' renders πρώτοις, probably for πρόσω.",
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.53.quote1": "53.quote1: Galen notes most copies read 'at the back' (ὀπισθίην), which he rejects as the place is 'outside'. 53.1: the latter part of Galen's comment (from 'Conceive the inner region…') is badly corrupt; the rendering is literal and its sense uncertain. 55.1: 'ἡνίκα δ’ ἂν φλεγμαίνει' must mean 'when they are no longer inflamed'; a negative seems lost. 'ἐπειδὴ πρόσθεν ἡμῖν ἥκειν' is also corrupt, rendered by sense. 56.quote1: 'ἀπολειφθείη' read as 'be left [closed]', i.e. the space is eliminated; uncertain. 59.1: the passage is garbled; rendered by evident sense.",
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.61.quote1": "Line 2: several clauses appear corrupt. In the account of the wrestling-school injury the text shifts between the trainer and Galen (\"I ordered ... I myself inserted\"); translated as transmitted. \"περιέτρεπόν τε παρέχειν αὐτὸν ἑαυτοῖς οὐκ ἐμαυτοῦ\" is garbled; the sense \"urged me to entrust myself to them rather than to myself\" is conjectural. The clause \"εἰ μὴ κατὰ τύχην ἐπιφανὴς ἕτερος εὖ ἰδὼν, μηδέποτ’ ἂν διὰ μαλακίαν εἶρξα\" is syntactically broken, and a connective seems lost before \"εἰς τὸ βαλανεῖον\". Line 4: \"μετ’ αὐτοῦ καὶ συνενδείξασθαι\" and \"οὐδὲν ἐνεγκεῖν φαίνεται\" look corrupt; translated for the probable sense. \"ἀποπασθῇ\" in line 1 is read as ἀποσπασθῇ.",
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.63.1": "65.quote1: the lemma reads στενοχωρίῃ, but Galen's comment discusses στενυγροχωρίῃ, evidently the reading of his text. 65.1: the Simonides quotation is corrupt as printed (λέγονται δὶς ἐν οὐδὲ); it is rendered only in part, with [...]. 66.1: πηγάνεια πτέρνα is corrupt; taken as the bird's tail-feathers, since the κίγκλος (wagtail) was proverbial for wagging its tail. 68.1: the second half (from ᾧ καὶ τὸ ζῶον to the end) is badly corrupt and the syntax breaks down; the translation follows the words as printed and the sense is uncertain, especially 'the visible animal' and the final sentence on how ἄγχιστα is to be construed.",
+  "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.69.quote1": "72.3: 'τῆς χειρὸς μόρια' (parts of the hand) makes no sense; read 'bone' (probably κλειδός/ὀστοῦ). The first sentence of 72.3 is syntactically disordered ('διανάγειν ... ἀπωθεῖν'); translated by sense. 72.2: Homeric quotation (Odyssey 22.84). 73.1: 'παρέχειν' is likely an error for 'παράγειν' (bring across); the clause with 'διακινουμένου' is obscure and possibly corrupt, and the logic of the sentence (which posture is to be avoided) is uncertain. 69.1: 'ἰητρείῳ' taken as the Hippocratic work On the Surgery (Kat' ietreion)."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.excursus.head",
+   "text": "ON THE DISLOCATIONS NOT SEEN BY HIPPOCRATES."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.excursus.1",
+   "text": "Hippocrates says that he has seen the upper arm slip out only into the armpit; but some of the physicians after him have also written of other dislocations, as far as possible [having seen them] themselves too, and we ourselves have seen [them] five times up to now, once in Asia and four times in Rome. And as often, I think, as such an injury happened to occur to anyone in the city, because all the physicians are inclined to show me unusual things for the sake of consultation, there were four dislocations, all in the forward region, but differing from one another in being nearer to or farther from the joint, along the length and the breadth of the limb. I was somewhat surprised, then, that he had not seen [this] at all, while of those after him who say they have seen it, one [saw it] once, another twice, but no one so often as we have up to now. Perhaps something of the kind will be seen by me again. For I think that the matter has turned out so not by chance but for reasonable causes, about which I shall speak next. In our Asia, then, I first observed such a dislocation, while I was still being trained under the teachers there, in Smyrna. This city is many times greater in size than [the one] which Hippocrates mentions continually as the one in which he spent most of his time; after my thirtieth year I lived in Rome, a city holding so great a multitude of people that Polemon the rhetor is praised for calling it an epitome of the inhabited world. So it is clear why four such dislocations have occurred in it up to now. And because, as I said, all the physicians share with me the unusual things they have seen, not only in Rome could anything of this kind happening not escape me, but not even at the harbour and the town near it which they call Ostia, because all those practising medicine in those places too are friends, these places also being populous. But the cities which Hippocrates mentioned, as having spent rather a long time in them, did not have more inhabitants than one district of those in Rome. It is therefore no wonder that in a city holding a multitude of people more [persons] suffer in the same way. Further, I was also taught the following by experience and was led on to the discovery of the cause. For some had fallen in such a way in the wrestling-schools, while for others it seems to have been brought about by the physicians. For two of those seen by me said that the dislocation had occurred into the armpit, but that when the physicians levered it ignorantly the joint became wedged, not as was seen at the junctions of the muscles; so that, given the multitude in the city of the Romans, if you put forward the two causes mentioned, you will ask not why I saw so many, but why I did not see more in whom the joint was dislocated in this way. For indeed in the times of Hippocrates those practising medicine had learned the art properly, and especially in such operations. But those of the present day have either not learned at all or learned for an altogether short time; and then the skill in wrestling holds has advanced to a wonderful degree, with those who teach them twisting and bending the limbs in many ways. So you will ask, I said, not why I spoke of so many, but why I did not see more among so many tens of thousands of people who are brought into such dislocations by many trainers and by very many ignorant physicians. Now the reduction of dislocations, indeed, is governed by the same aims: counter-extension, leverage, and setting in place. But it is fitting to lever here not as in a dislocation into the armpit. For in that case one had to bring the joint first forwards, then upwards, until it came into line with the socket. But now, since it is in every case in the front parts of the joint, and is either shut in towards the inner or the outer region, wedged among the muscles, one must push it towards the opposite region, and once it is thrust out from the muscles, [take care that it does not,] drawn up, be carried into the armpit. Above all, then, the counter-extension does not allow this to happen, and in this counter-extension it is not a bad thing for the region of the armpit to have been secured, as we did in Smyrna with the dislocation that occurred in this way. For it happened to someone in a wrestling-school when his arm was spread out by his opponent, which is the manner most able to shift the joint forwards. Laying the injured man on his back, we performed a counter-extension similar to that made with the heel, seating someone behind him and putting a broad strap round the armpit, after some padding had first been placed into the hollow. And we ourselves, as I said, pushed [the head of the bone] out from the muscles clamping the joint, then, slackening the extension, let it be drawn up by the muscles contracting into themselves and be put back into the socket. This one, then, went in easily; for we undertook the treatment immediately, in the wrestling-school itself. And the extension of the injured arm done by ourselves sufficed, just as in the method with the heel; at other times, indeed, we also made the extension by means of a noose. The noose must be of equal tension, such as the double *karchēsios* (carchesian knot) and the one made of two loops running through; and at other times, when the dislocation was of long standing, we needed the Hippocratic bench, about which he himself will give instruction further on in the treatise; for now, what has been said about the slippings out will suffice. Next, then, we shall follow him as he teaches about the difference of the bodies themselves in which the joints are dislocated less and more."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.23.quote1",
+   "text": "One must know, then, that constitutions differ greatly from constitutions as regards the ease with which dislocated parts go back in. For one socket may differ somewhat from another socket too, one being easy to pass over, another less so. But most of all the binding of the ligaments differs, in some having give, in others being taut."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.23.1",
+   "text": "Having completed the account of reductions, he has now begun to teach the causes. In some, then, any joint whatever both dislocates easily and is put back without great trouble. But in those in which it dislocates rarely, it is put back with difficulty. And we have already said earlier [that the causes are] the articulation of the bones resisting, and the tautness or slackness of the muscles lying in front of them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.24.quote1",
+   "text": "For moistness arises in people, that from the joints, through the ligaments, the attachment, either if it is slack by nature and bears stretching easily. For one may see many who are so moist that, whenever they wish, their joints go out painlessly and are set back painlessly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.24.1",
+   "text": "He seems to me to have made the expression in inverted order; for it is because of the moistness of a person's constitution that the sinewy bodies become slack, not that the parts round the joints are moistened because these are slack. His wording has said the opposite; it seems to me that, wishing to make out the very ready extension of the sinewy bodies to result from people's moistness, he did not master this in his expression, but, using a connective not very properly, he leads the readers to the understanding of the cause."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.25.quote1",
+   "text": "A certain condition of the body also makes a difference; for in those whose limb is in good state and fleshy, it dislocates less and goes back in with more difficulty. But when they are themselves thinner and less fleshy than usual, then it dislocates more and goes back in more easily. And a sign that this is so is the following: in cattle the thighs dislocate from the socket more at the time when they are at their thinnest. And cattle become thinnest at the end of winter; so it is then also that they suffer dislocation most. If indeed one should write such a thing too in medicine — and one should."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.25.1",
+   "text": "The natures and differences of the joints, on which depends whether dislocations and reductions happen easily or with difficulty, are two, which I have often mentioned and wrote of in the passage before this one. To these a third is sometimes added, about which he is now teaching, arising from the stoutness and thinness of the body, which they call 'condition'. For the more fleshy people are found to be than they used to be, the more difficult for them are both the slippings of the joints and the reductions, because the joints are compressed on all sides by the abundance of flesh. Conversely, in those who have become thin the skin of the flesh lying around the joints becomes slack and the joints yield readily to little force. If, however, someone is lean by nature, he is in no worse state than the stouter man. For it has been shown in the books on mixtures that the man leaner by nature is drier in mixture, and the stouter one moister, so that in the lean the substance of the muscles, being taut, compresses the articulation, while in the stouter, in so far as the flesh is more abundant, it shuts off the space around the joints, but in so far as it is soft it is easily displaced, receiving in turn the heads of the bald bones that move out, so that in each case the [factors] bearing on dislocations are balanced. If, however, someone fleshy by nature becomes at some time leaner than himself, [the joint] would dislocate and go back in again more easily for him at that time than before, just as, if someone thin by nature should become fleshy, it would dislocate for him with difficulty and be put back with difficulty; and as testimony to this account he writes of what is observed in cattle, expressing it clearly, so that it needs no explanation, except perhaps for some one or two such words, which I too shall point out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.26.quote1",
+   "text": "For Homer had learned well that of all the beasts cattle suffer most at this season, and of cattle the ploughing oxen, because they work during the winter. In these, then, dislocation occurs most, for these become thinnest; for the other grazing animals can crop short grass, but the ox cannot well do so until it has grown deep. For in the others the projection of the lip is thin, and the upper jaw is thin, but [in the ox] the upper jaw is thick and blunt, and for this reason they cannot get under short grass."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.26.1",
+   "text": "By 'beasts' (*probata*) he has here meant all grazing animals, as is written word for word in the book On the Sacred Disease thus: 'there is no other beast than cattle and goats.' And the usage in the poet is of this kind, where he says:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.26.2",
+   "text": "'And he has many beasts.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.26.3",
+   "text": "For he means to indicate herds of grazing animals. Others of the ancients too used the word in this way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.27.1",
+   "text": "And again the solid-hoofed animals, inasmuch as they have teeth in both jaws. For they can nip (*sarkazein*), and they can put their teeth under short grass, and they take more pleasure in grass in this state than in deep grass. For on the whole short grass is better and firmer than deep grass, since [it is so] even before the deep grass goes to seed. For this reason, then, he composed these verses thus:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.27.2",
+   "text": "'as when welcome spring has come to the crumple-horned cattle',"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.27.3",
+   "text": "because to these the deep grass appears most welcome. But besides, the ox has this joint naturally slacker than the other animals, and for this reason it is also more shambling-footed than the other animals, and especially when it is thin and old; for all these reasons dislocation occurs most in the ox. I have written more about it because these things are testimony to all that was said before. As regards the [joint] now under discussion, it dislocates more in those without flesh, so that it goes back in more quickly than in the well-fleshed; and inflammation follows less in the moist and fleshless than in the lean-and-hard and fleshy."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.27.4",
+   "text": "Some say that *sarkazein* means bringing the lips together so firmly that some part of the plant can be torn off by them; others, doing the same thing with the teeth, the lower with the upper, since some people who sneer (*sarkazontes*) also bite the lip with their teeth. But those people bite the lower lip with the upper teeth, while the ruminants have only the lower row of teeth; and, they say, the word *sarkazein* is used with reference to biting because both kinds of animal use [their teeth] when eating flesh. And the context of the passage seems to bear these men out, since he has said not that the ruminant animals nip, but those that have two rows of teeth, which they call 'with teeth in both jaws'. These can graze even short grasses, that is, plants, such as horses, asses and mules. Of those with one row, only those can do so in which the projection of the lip is thin; and for this reason, of the plant-eating animals, oxen alone lack food in winter, because they can neither nip the short grass, that is, cut it off with their teeth, nor take hold of the short grass with their lips as goats and sheep can. Now these three kinds of animal have cloven hooves. But the 'solid-hoofed' (*mōnycha*) are those with teeth in both jaws, the name being contracted, as those who value etymologies say, from *mon-onychas*, since they have asses' hooves (*onychas*). For in the hoofed animals that is what corresponds to what, at the tips of the feet, nails are in men. And inflammation follows less in these because the joint also dislocates more easily. For on this follows its being put back [easily], and on these in turn, that little or no inflammation follows. For in violent dislocations, as also in reductions, pains arise in the muscles, and inflammations follow them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.28.quote1",
+   "text": "And it is held bound less for the time afterwards; but also, if the mucus beneath were more than moderate, though without inflammation, it would thus be slippery. For on the whole the joints are more mucous in the fleshless than in the fleshy."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.28.1",
+   "text": "He may be speaking of all [this] as a twofold time: that immediately after the reduction, in which the inflamed parts are treated, and that of the untroubled state which follows next after it. For the time immediately after the reduction, when there is inflammation, has the joint compressed by that very [inflammation], as he himself has said; and the time after the treatment [has it compressed] because in such people the substance of the muscles is taut, and because, owing to the inflammations that supervene, being great, a certain hardness is left behind in the muscles, so that the joint is compressed as if by a bandage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.29.quote1",
+   "text": "For the flesh of thin people who have not been properly reduced by starving through the art is more mucous than that of the stout. In those, however, in whom mucus forms together with inflammation, the inflammation keeps the joint bound. For this reason joints with mucus do not dislocate much, though they would dislocate if somewhat more or less inflammation had not supervened. Now those in whom, when the joint dislocates, the surrounding parts do not become inflamed, can use the shoulder at once without pain. These think they need take no care of themselves. But it is the physician's business to foresee such things. In such people dislocation occurs again more readily than in those whose sinews become inflamed; this holds thus for every [joint] in a person, and especially at the shoulder and the knee. For these indeed slip out most. But those whose sinews become inflamed cannot use the shoulder; for the pain and the tension of the inflammation prevent it. Such people, then, must be treated with cerate and compresses and many bandages, binding [them] up. And one should put into the armpit soft clean wool rolled up, making a filling for the hollow, so that it may be a counter-support to the bandaging and hold the joint up. And the arm should be kept for the most part inclined upward, for thus it would be as far as possible from the place into which the head of the shoulder slipped. And when you have bandaged the shoulder, you should then also bind the arm to the ribs with a band passed round the body in a circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.29.1",
+   "text": "Those who have become thin from taking insufficient food because of famine or siege or mourning or grief or loss of appetite do not at once have their flesh become dry, as do those properly reduced by starving through the art. Rather, he has said that in all such circumstances they make it on the whole moister, since certain colliquations occur in it because of the deficiency. And those to whom grief is added are wasted even more; indeed the poets call griefs *meledones* [cares], as if eating and devouring the limbs (*melē*). In these all the fat is wasted away, and all the flesh that is soft and newly formed. But when a physician deliberately makes some body leaner, he does this by methods that have been found, and after this he rubs when necessary. If any colliquation should arise, [he should] evacuate it, either perceptibly through sweats or, as seen by reason, through the transpiration imperceptible to sense. And it is likely, surely, that he does not neglect foods and drinks either, but tries by these too to make all the excretions free-flowing, not only those through the belly but also those that take place through the urine. For in this way, if there were any moisture in the body due to colliquation, he would most effectively bring about its evacuation from every side out of the body. For if it remains within, it makes the flesh somewhat mucous in time, especially when the imperceptible transpiration takes place without the other [evacuations]. For whatever in the colliquations is entirely thin and serous departs and is dispersed; but the somewhat thicker part alone remains, and this, taking on a certain stickiness with time alone, becomes like mucus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.30.quote1",
+   "text": "And one should also rub the shoulder gently and smoothly. The physician must be experienced in many things, and especially in rubbing; for from the same name the same result does not follow. For rubbing can bind a joint that is slacker than it should be, and loosen a joint that is harder than it should be. But we shall define [matters] concerning rubbing in another discourse. Such a shoulder, at any rate, should be rubbed with soft hands, for it is beneficial in any case [to do it] gently."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.30.1",
+   "text": "Rubbing done gently and smoothly is suited to leaving no hardened remnant of the inflammation behind. And it must be done in many ways, the hands being moved from above downward and from below upward, and then obliquely, not only from below upward but also from above downward. And moreover also [strokes] in a circle and as it were transverse, from right to left and back again from left to right, so that all the fibres of the muscles are softened. For the word *anatripsis* was used by the ancients for *tripsis* [rubbing]. Do not suppose, then, as some have thought, that he requires the movement of the hands to be made from the lower parts upward when we rub (*anatribein*) the shoulder; rather, *anatribein* itself turns out to indicate the whole genus of rubbings, not the single variety from below upward. He himself makes this clear when he says 'but [matters] concerning rubbing are defined in another discourse'; for surely he does not promise to give an account of one variety, leaving out the others. And indeed in the Surgery too he indicated them all, naming there too the whole genus: 'rubbing can loosen, bind, put on flesh, reduce', and what follows these, about which it has been said in the commentaries on that book, and moreover it has been stated most completely in the work on hygiene."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.31.quote1",
+   "text": "The joint should be moved about, not by force, but only so far as it will move without pain. All [such cases] settle down, some in a longer time, others in a shorter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.31.1",
+   "text": "Nothing is more useful than such movement when inflammations are declining. For it dissolves all their residue, from which, if it is neglected, the joints naturally become stiffened and bound; for people call the affection both ways."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.32.quote1",
+   "text": "One should recognise whether the upper arm has been dislocated by these signs."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.32.1",
+   "text": "In the work On Fractures too he came first in his discourse to those who err, and now he has done the same. Since, joining it to his refutation of them, he also spoke about reduction, which not only follows from what had been said but is also attested by it, he came to that first, and then next he now teaches the signs of the slipping at the shoulder. In the works of the art these necessarily come first, but in teaching not necessarily. Let this be your mark of what necessarily follows or precedes: that the following task cannot properly be performed, or the lesson understood, before what precedes is known. Now the reduction of dislocated [joints] cannot be clearly taught before one has understood into what place the displaced [bone] has moved; but it can be taught before learning its signs. At any rate, having learned only this at the beginning of the discourse, that the dislocation occurs into the armpit, we could ourselves have devised the reduction, and could learn it when another taught it; not, however, without knowing clearly that the dislocation occurs into the armpit, [and] before that knowing the whole nature of the articulation. If, then, someone, having spoken of reduction, teaches next for what varieties of slipping he has described the reduction, he reverses the necessary order, just as if someone, having come in his teaching to the variety of the dislocation, goes to the nature of the articulation after it. For if someone has fully understood how dislocation into the armpit occurs, it is superfluous for him to be taught the nature of the articulation. But if one must hear about it first, so as to learn what sort of thing it is, and next about the dislocation, this lacks nothing for the teaching of reduction. Certainly here too ignorance of the signs has hindered us in no way in understanding the reductions; and this holds in all teaching of treatment. For someone can be taught the treatment of inflammation of the liver, or of the stomach, or of the kidneys, or of the colon, before the diagnosis of the affections in them; but he cannot treat before the diagnosis, just as he cannot methodically either find the treatment or be taught it by another before knowing precisely the nature of the part being treated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.33.quote1",
+   "text": "This first: since people have the body, both the arms and the legs, symmetrical, one should use the healthy [side] as a model for the unhealthy and the unhealthy for the healthy, not looking at other people's joints."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.33.1",
+   "text": "He called 'symmetrical' what is exactly equal on either side, right and left; and since people have differing forms of limbs, he requires that the paired limb of the patient himself be compared, and that one infer from it how far [the affected limb] has departed from its natural state."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.34.quote1",
+   "text": "For some people are by nature more 'out-jointed' than others, but [one should compare] the patient's own [parts], in case the healthy [side] is unlike the affected one."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.34.1",
+   "text": "He has called 'out-jointed' those who have joints that stand out and project while in their natural state itself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.35.quote1",
+   "text": "And this will be rightly said, yet it involves a great deal of misapprehension. It is because of such things that it is not enough to know this art by theory alone; one must also be familiar with it by practice."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.35.1",
+   "text": "He does not call all ignorance without qualification 'misapprehension' (*parasynesis*), but [ignorance] lying beside and close to knowledge. He himself will teach in what follows how it happens that those who compare the healthy with the affected [side] are sometimes deceived."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.36.quote1",
+   "text": "For many, because of pain or for some other reason, though their joints have not been displaced, are nevertheless unable to put [them] into the same positions as those into which the healthy body is put. One must therefore anticipate and consider such a position too. Moreover, the head of the upper arm appears lodged in the armpit, much more [in] the dislocated [side] than in the healthy one. Next, above, at the point of the shoulder, the place appears hollow, and the end of the acromion bone appears to project, since the joint has sunk into the lower part of the place."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.36.1",
+   "text": "This one misapprehension, as he himself named it, he has taught in the present passage, occurring with regard to positions; for sometimes [patients] cannot put the affected limbs into certain positions. The patients suffer this not through dislocation of the joint but through pain or contraction of a muscle. Next he teaches another [case of] ignorance."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.37.quote1",
+   "text": "There is some misapprehension in this too, but it will be written about later, for it is worth writing about."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.37.1",
+   "text": "He says that the place at the point of the shoulder appearing hollow involves a certain error, which he promises to speak of later. For this sometimes occurs when the collarbone has been torn away from the shoulder blade."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.38.quote1",
+   "text": "Next, the elbow of the dislocated [arm] appears to stand further away from the ribs than that of the other. If, however, someone forces it, it is brought to them, but with pain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.38.1",
+   "text": "This sign has an error lying beside it, and also [if] the elbow [is held away] at the armpit while the head of the upper arm falls under the touch of those feeling there, because of which [the patient] cannot bring the arm to the ribs without great pain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.39.quote1",
+   "text": "Next, he cannot well raise the arm up beside the ear with the elbow extended, as [he can] the healthy one, nor move it to this side and that in the same way. These, then, are the signs of a dislocated shoulder; and the reductions [are those] written, and these [are] the treatments."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.39.1",
+   "text": "This is the sign which a little earlier he said involves misapprehension. This is clear from what he added, saying: 'for many, because of pain or for some other reason, though their joints have not been displaced, are nevertheless unable to put [them] into the same positions as those into which the healthy body is put.' If someone can readily bring the arms to the ribs, as he has said, it is a sure mark that the joint is in its natural state. But if it is impeded in some way, this may happen through pain or contraction of muscles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.40.quote1",
+   "text": "The lesson of how one should treat shoulders that are frequently dislocated is well worth learning. For many have before now been prevented from athletic contests by this misfortune, though fit in all other respects, and many have become useless in war and have perished through this misfortune. It is worth learning also for this reason, that I know no one who treats it correctly, but some who attempt nothing, and others who think and do the opposite of what is beneficial. For many physicians before now have cauterised shoulders that become dislocated, at the point of the shoulder, and at the front, where the head of the upper arm makes a swelling, and a little behind the point of the shoulder. Now these cauterisations would have been correct if the upper arm were dislocated upward, or forward, or backward. But as it is, since it is dislocated downward, these cauterisations promote [dislocation] rather than prevent it; for they shut the head of the upper arm out of the upper space. One should cauterise these [cases] as follows: taking hold of the skin at the armpit with the fingers, draw it away, especially along the very line along which the head of the upper arm is dislocated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.40.1",
+   "text": "In this passage too most things are clear, and we shall not mention them, except where some obscurity is involved."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.41.quote1",
+   "text": "Then, with the skin drawn away like this, burn right through to the other side."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.41.1",
+   "text": "He requires that no part of the stretched-up skin be left unburnt, but that the red-hot iron be passed through from the right to the left parts of the armpit, and from those to the right."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.42.quote1",
+   "text": "Such things should be burnt with irons that are not thick nor too blunt, but elongated; for they pass through more quickly, and [one should] press with the hand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.42.1",
+   "text": "He has called 'blunt' those that have a rounded shape at the end, such as the *pyrēnes* [olive-shaped knobs] have at the armpits, that is, those called *diapyrina*, and the *spathomēlai* [spatula-probes]. 'Elongated' he called those in the opposite condition to these, whose end is not rounded but a rather sharper projection, somewhat similar to the instruments suited for tapping (paracentesis)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.43.quote1",
+   "text": "One should burn with [irons] that are glowing, so that [the burn] passes through as quickly as possible; for thick ones, passing through slowly, make the falling-off of the eschars broader, and there would be a danger of the scars breaking into one another; and though nothing would be worse for it, it would be more unsightly and less workmanlike. When you have burnt through to the other side, for most [patients] it would be enough to place these eschars alone in the lower part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.43.1",
+   "text": "He means that the irons [applied] at the armpit should be made red-hot, for he has called those that are sufficiently glowing 'glowing'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.44.quote1",
+   "text": "But if there seems to be no danger of the scars breaking into one another, and the interval between is large, one should pass a thin *hypaleiptron* [spatula] through the burns while the skin is still held up, for otherwise you could not pass it through. When you have passed it through, let go of the skin, and then between the eschars put in another eschar with a thin iron and burn through until it meets the *hypaleiptron*. How much of the skin from the armpit should be taken up must be judged by these [signs]: glands lie beneath the armpit, as in many other parts of the body too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.44.1",
+   "text": "He has called the sores 'scars' (*ōteilai*), much as the poet does when speaking of a fresh wound:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.44.2",
+   "text": "'so that the blood still rose warm for him from the wound (*ōteilē*).'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.44.3",
+   "text": "So if, as he said, you lift up the skin and burn through it crosswise, driving the iron through from right to left, he wants you to make another, second burn on top of this one, letting the glowing iron down no longer crosswise from one side to the other, but straight into the depth as it were, until [it reaches the spatula]. Clearly the interval between the earlier wounds must be considerable; for if it is small there is a danger of the ulcerations breaking into one another and becoming one large one. Nothing worse will come of this for us, who burn in order to dry and tighten the part; but there is no need to make a large scar and render the area more unsightly, when one can obtain the same benefit with small perforations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.45.quote1",
+   "text": "But in another treatise it will be written about the whole nature of glands, what they are, and what they signify and can do in which [conditions]. The glands themselves, then, should not be taken in as well, nor what lies deeper than the glands, for the danger is great."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.45.1",
+   "text": "By *oulomeliē* he has meant the whole nature of the glands, which he promised to teach elsewhere; but no such book of Hippocrates, *On the Whole Nature of Glands*, survives. One of the later Hippocratics, however, wrote a short little book entitled *Hippocrates, On the Whole Nature of Glands*, which falls very far short of the genuine writings of Hippocrates both in style and in thought; nor did any of the earlier physicians mention it, and not even those who compiled the catalogues know the book."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.46.quote1",
+   "text": "For they are neighbours to the most vital cords (*tonoi*). But as much as lies outside the glands may be taken up to the greatest extent, for it is harmless. One must know that if you stretch the arm up strongly, you will not be able to take up any of the skin under the armpit that is worth mentioning, [for it is] stretched tight."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.46.1",
+   "text": "He says that under what lies beneath the armpit there are vital cords (*tonoi*), naming the nerves so. Some of the later physicians, then, absurdly think that he here calls 'cords' only those nerves that arise as a pair from the brain, since in the book of the *Epidemics* he said: 'two cords from the brain beside the bone of the great vertebra', and what follows these. For it is agreed by all anatomists that the [nerves] going to the hands arise from the spinal cord in the neck, in the parts where it approaches the thorax; and he evidently calls these 'cords' both in the passage just quoted and twice more in succession after it. And further down, again, in the discussion of the spine, he names nerves 'cords'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.47.quote1",
+   "text": "For [the skin] is drawn flat in the stretching up; nor again must the cords be wounded by any means. For these become exposed and stretched tight in this posture. But if you raise the arm a little, you will take up much of the skin, and the cords, which one must take care of, come to lie inside and beyond [the reach of] the operation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.47.1",
+   "text": "They say the skin at the armpit is used up by the stretching up of the whole arm, since, being loose before, so that it seems superfluous, in this posture it is wrapped around the underlying parts, so that what earlier appeared to be in excess is lost and, as it were, used up in the stretching up of the arm."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.48.quote1",
+   "text": "Should one not, then, in the whole art, make it of the utmost importance to find the symmetrical postures for each case?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.48.1",
+   "text": "[He means] those equal in effect, that is, in which what is fitting and proper to each matter is preserved. Now, at any rate, the matter at hand is the burning of the skin at the armpit, which must be done with the arm positioned suitably. If, then, it were let down so far as to touch the ribs, it would be raised altogether too little, and one could not even see the depth of the armpit, still less lift up the skin with the fingers and burn through it; while if the arm is raised as far as possible, it is not possible to lift up with the fingers any skin worth mentioning. For in this posture it is stretched around the underlying bodies, and at the same time the nerves become exposed. The arm should be raised and drawn away from the armpit just so far that it lets us see the area and slip the fingers under easily, and stretch the skin up and burn through it; when it becomes possible to do these things, one should undertake the operation in that posture, and not stretch it up any further. For we raised the arm for no other reason than to be able to lift up the skin around the armpit with the fingers enough to burn through it, as he himself said before; so that, if it were possible for us to do these things with the arm let down, that posture of the arm would be needed, since it makes the skin looser; for in this way it will be lifted up the most, and the operation will be entirely free of danger."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.49.quote1",
+   "text": "These, then, [are the things] at the armpit, and these takings-up are sufficient, if the eschars are placed correctly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.49.1",
+   "text": "The 'takings-up' are said with reference to the skin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.50.quote1",
+   "text": "Below the armpit there are only two places where one might put eschars that come to the aid of the affection."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.50.1",
+   "text": "He has now said 'outside' not to signify a difference of place, but in the way that in Demosthenes and the other orators something is said to be spoken 'outside' the matter, [the speakers] indicating the matter. What Hippocrates says, then, is this: apart from the burning at the armpit already described, there are two other burnings that help the affection. For 'coming to the aid of (*timōreousas*) the affection' plainly means 'helping', just as Euripides made Orestes say:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.50.2",
+   "text": "'Doing unholy things, yet coming to the aid of my father.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.50.3",
+   "text": "For *timōrōn* ('aiding') differs from *timōroumenos* ('avenging'), which with the so-called accusative case signifies the one who punishes; thus Menander's play is entitled *Heauton timōroumenos* (*The Self-Tormentor*)."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.51.quote1",
+   "text": "One in front, between the head of the humerus and the tendon at the armpit."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.51.1",
+   "text": "In this place we too have seen the joint lodged, which is a part of the whole front region. For since this whole region is broad, one part of it is exactly in the middle, and there are two others, one on each side, one on the inner side, which he has now mentioned, and the other on the outer side, which he mentions after this. And one may well marvel at him, that, though he had never at all seen the joint fall out into any other place than the armpit, he was not content with the burning there alone; but by adding two others he aimed precisely at those places in which we too have seen the head of the humerus lodged. Of these, the region of the shoulder vein, where the two muscles meet, the large one from the breastbone and the one called the deltoid, has been seen by us four times receiving the dislocation; the [region] outside the middle region once, about which he will speak next."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.52.quote1",
+   "text": "And here one must burn through the skin completely, but not deeper; for a thick vein is near and nerves, neither of which should be heated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.52.1",
+   "text": "By 'thick' he now means the so-called shoulder vein, in the sense of 'wide' or 'large'. Over it lies the junction of the two muscles mentioned before, which has a nerve lying alongside, from which all the skin around the vein receives branches. That one must take care not to touch the nerve and the vein in burning the skin he taught clearly; but he did not make clear whether he bids us burn in the front parts of the vein, or in the inner ones, or exactly over it. For it is possible to do this by first lifting up the skin in the way described for the armpit, then burning through it crosswise, and then passing the spatula through and making the second application of the cautery in a circle. For just as at the armpit, although very large nerves lie beneath and with them an artery and a very wide vein, he nevertheless bade us burn the skin, providing safety for the underlying parts by passing the spatula through, so in the burning now described it is no wonder that he thinks the eschars should be placed on the very skin lying over the vein. Those nerves, then, he called 'most vital cords', being accustomed to use this name for those having great power, as those do, by being near the spinal cord and themselves very thick in substance; but the [nerve] beside the shoulder vein he called simply 'nerve', no longer adding 'vital'. For it is very far from the spinal cord and small in size."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.53.quote1",
+   "text": "And again at the back another eschar may be put in, a good deal above the tendon at the armpit, but a little below the head of the humerus; and one must burn through the skin completely, but not make this one very deep either; for fire is hostile to nerves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.53.1",
+   "text": "In his account he has come to the remaining region of those that receive the shoulder joint when it falls out; this is in the outer parts of the front region, into which I too have once seen the humerus fall out. But in most of the copies the passage is not correctly written thus, 'and again another eschar at the back'; for this place is not behind the articulation, but outside it. If, then, anyone wished to define precisely the places lying around the shoulder articulation that have breadth, it is clear that, conceiving them all, [he would take it] that in the front parts there is a middle line without breadth, conceived as exactly in the middle, stretching from above along the length of the humerus, and that on either side the front [region] is bounded in breadth: on the inner region by the shoulder vein, and on the outer as far again by another interval, as great as that by which this vein stands off from the line without breadth. These, then, are the bounds of the front region, and on either side of these two there are others, from which come the tendons at the armpit, one bounding the inner region, the other the outer. Conceive the inner region of the articulation as [that] of the tendon which, with the vein and not between [it and] the armpit, marks the outer boundary; and further of that line, from whose intervals I thought [it] fit to keep a distance between, an interval of the shoulder vein and of the exactly front middle line, so that by this division, so far as it is higher than the outer tendon at the armpit, the hollow of the shoulder blade would not be behind the articulation, just as the armpit [is] for the shoulder, and the upper [region] between the acromion and the head of the humerus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.54.quote1",
+   "text": "One must treat the sores throughout the whole treatment without ever raising the arm strongly, but moderately, as much as is needed for the care of the sores; for it would be less chilled. For it is beneficial to cover all burns, so that they are treated properly. And it would gape less, it would bleed less, and spasm would come on less."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.54.1",
+   "text": "He himself stated the reasons for which he bids us never to raise the arm strongly. The first is that it is beneficial to cover all burns, so that they are treated and not chilled; for even otherwise, as he himself said, for sores cold is biting, hardens the skin around, and produces pain that does not suppurate; and much more so those that a hot cause has produced, as fire does now. 'And it would gape less,' he says, that is, the sore would be drawn apart further at its lips. For in this [state] it is chilled more, scars over more slowly, and has larger scars themselves. What is said next, 'it would bleed less', he added being carried into the general account of all sores, not as proper to those now under discussion. For if someone burned through the skin as he bade, no fear of haemorrhage would follow. But perhaps from the nerves being chilled when the skin is laid bare, not only the danger of spasm would follow; and this he mentioned at the end of the whole passage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.55.quote1",
+   "text": "But when the sores have become clean and go on to scars, then above all the arm must always be bound to the ribs, both night and day."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.55.1",
+   "text": "Here he used 'scars' properly of cicatrices, not as before of sores. He thinks one should take the greatest care that the arm never stands away from the ribs, except briefly at that time when the sores are being treated. For clean sores seem most to be seized by all the symptoms he mentioned in the passage before this, and above all by those from external causes. Since before, when they were still foul and inflamed, they had their foulness as a sort of shield and covering, and the excess of unnatural fluids, and also the heat of the inflammation held out against cold things coming from outside. But when [they no longer] are inflamed, then they have become clean and as it were free of excess, and they feel what they suffer more than before. For all these reasons they are easily pained and chilled by external causes, above all cold ones; and through the keenness of sensation they have sharper pain and acquire the troubles that attend on it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.56.quote1",
+   "text": "And moreover, when the sores have healed, one must likewise bind the arm to the ribs for a long time; for in this way above all the wide space, by which the arm chiefly slips, would scar over and be left [closed]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.56.1",
+   "text": "Here too he himself made clear the aim he advised, saying, 'for in this way above all the wide space by which the arm slips would scar over and be left [closed]', meaning this in effect. For the shorter the scar becomes, the more the skin around the armpit will be drawn together into a small compass; and this is of the greatest importance for the arm not slipping easily there."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.57.quote1",
+   "text": "Those whose shoulder it has proved impossible to reduce, if they are still growing, the bone of the humerus will not grow along with [them] like the healthy one, but it grows to some extent, and becomes shorter than the other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.57.1",
+   "text": "He now goes through the symptoms that necessarily follow in those who have the shoulder out-jointed. The first and most common, on which all the others follow, is that this same [limb] becomes less nourished; and on this in turn follows, when the limb is already fully grown, thinness, and while it is still growing, smallness also. This lack of nourishment comes about through the distortion of the vessels and muscles in the limb, and the cause is the immobility of the whole joint; for even one of the healthy limbs that has remained wholly immobile for a long time clearly appears less nourished."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.58.quote1",
+   "text": "And those called weasel-armed from birth come to be so through these two misfortunes: if some such dislocation seizes them while they are in the womb, and through another misfortune, about which it will be written later."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.58.1",
+   "text": "Whether the weasel-armed were so called from their likeness to weasels or from something else must be left to those who busy themselves with such things to investigate carefully. But it is useful for a physician to know that some are born with both shoulder joints out-jointed, the left and the right, and that these necessarily have small arms. One must also know of another misfortune producing the same affection, about which he promises to speak again. But it is hard to find another [than] the one he himself says next befalls infants. The passage runs thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.59.quote1",
+   "text": "And moreover those in whom, while still infants, deep and submerged suppurations occur at the head of the humerus, these all become weasel-armed too. And whether they are cut or cauterised or [the abscess] bursts of itself, one must know well that these things are so. Those weasel-armed from birth, however, are very well able to use the hand; yet not even they can raise the arm beside the ear with the elbow stretched out, but [they do it] much more deficiently than with the healthy arm."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.59.1",
+   "text": "This can also befall those in the womb. But it is hard to find another misfortune that becomes a cause of dislocation in those still in the womb; yet it is not impossible for both of these to occur. For it is possible for the unborn infant to suppurate, and for [the abscess] to burst and scar over by nature; and this is even more possible in the case of the shoulder joint falling out, because of the moistness of the child's nature and the ease with which the socket of the articulation is overpassed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.60.quote1",
+   "text": "Those in whom the shoulder has fallen out when they are already men and has not been reduced, the point of the shoulder becomes less fleshy and the condition in that part thin, once, however, they have ceased to be in pain. Whatever work must be done by raising the elbow from the ribs sideways, all this they cannot do as before; but whatever must be done by moving the arm along the ribs, either backwards or forwards, these things they can do. For they could draw a bow-drill and a saw, and hew with an axe and dig, provided they do not raise the elbow very high, and do the other works of such postures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.60.1",
+   "text": "The point of the shoulder in those so affected not only appears thinner and less fleshy at once, the head of the humerus having left the shoulder, but later on appears still more so, because as time goes on the parts of the deltoid muscle become less nourished, the muscle being weakly stretched, since it is forcibly drawn down, following the head of the humerus into the armpit; and because, through not moving or performing its proper action, which it had in raising the arm, being stretched out it becomes colder and weaker, and for this reason less nourished. For motion strengthens, but idleness wastes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.61.quote1",
+   "text": "\"Those in whom the acromion has been torn away show the bone of the torn-away parts projecting. This is the bond between the collarbone and the shoulder blade; for the nature of man is different in this respect from that of the other animals. Doctors are therefore especially deceived in this injury: since the torn-away bone has risen up, the point of the shoulder appears low and hollow, so that they even take precautions as for shoulders that have fallen out. I know, then, many doctors, not bad in other respects, who have already done much harm trying to reduce such shoulders, thinking them to have fallen out in this way, and they do not stop before they either give up or are at a loss, supposing that they themselves are reducing the shoulder. For these patients the treatment is the same as for the others of this kind: cerate, compresses, bandages and bandaging of this sort. One must, however, force down the projecting part and place most of the compresses over it and press on them, and above all keep the arm fastened against the ribs and held towards the upper part; for in this way the torn-away part would best be brought close. These things one must know well and foretell as certain, if you wish to do so otherwise: that no harm, neither small nor great, comes to the shoulder from this injury, but the place is uglier. For this bone would not settle into its old seat in the same way as it naturally was, but it must necessarily be more or less swollen upwards. Nor indeed does any other bone return to the same state, if, being in partnership with another bone and grown onto it, it has been torn away from its original nature. The acromion becomes painless in a few days, if it is bandaged properly.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.61.1",
+   "text": "He indicates that the acromion is a junction, and he also says that it is a bone and binds together both the [bones] mentioned. It is clear, then, that the acromion is a cartilaginous bone lying upon the junction of the collarbone and the shoulder blade, having membranes growing out of it by which the ends of the bones are bound together. When it is torn away the collarbone also usually follows, and for this reason correction is made by forcing the collarbone downwards, so that certain rounded curves of it are produced. Here indeed this forcing succeeds better in younger people; for the further age advances, the drier our bodies become. Just as dry wood is not suited to bending, while moist and green wood easily undergoes this, in the same way the bones of those still growing can be bent when forced, and much more so when they are loose-textured and porous, as the collarbone is. And I myself experienced this in my own case, perceiving the collarbone being bent; for it throbbed deep within whenever it was violently drawn down by the force of the bandaging, and I endured this for up to forty days, in which the collarbone was brought so close to the head of the humerus that those who see it now do not believe it was ever torn away, while those who saw it when it was torn away, when the gap between had become three fingers' breadth, marvel greatly at the matter. It happened, however, that the arm entirely lacked nourishment during that time, so that it became altogether thin, and the forearm too lacked nourishment along with it. But having corrected this by one remedy, that of bandaging, the whole limb was nourished again, not long after the bandages were undone. In a youth, and still more in children, bandaging would force the bone more readily; for it happened to me to suffer this in the wrestling-school in my thirty-fifth year, but I was not able to cure in the same way anyone else among those already full-grown, because they did not bear the force of the bandaging. I myself, then, felt the place to be thoroughly cold, so that I was compelled throughout the whole day and night to pour warm oil over it, with a hide laid beneath my whole body; for I lay naked on it, as it was also the time of the heat under the Dog-star. An empty basin being placed at the part towards the feet, the hide was shaped at that point suitably for drainage, and what collected in the basin they again transferred into a cauldron set over a fire and warmed, and taking it from there poured it over the whole affected place. And if ever they left off for a short while, I at once felt tension in the muscles of the neck, so that it was clear that a spasm would follow if they grew slack about the pouring. In my case another cause, not a small one, also contributed to the distress of the muscles, which it is well to make clear too, lest anyone think that the muscles became susceptible through the forcing of the collarbone alone. For when the acromion was torn away in the wrestling-school, the trainer, seeing the point of the shoulder low and supposing the arm had slipped into the armpit, extended it and attempted to apply leverage, and did these things skilfully. When the work made no progress and time was being wasted in vain, thinking that he was making some mistake in the leverage, I ordered the others to stretch the arm along with him and to counter-stretch the shoulder upwards, and I myself inserted the fingers of my unaffected hand as far in as possible to where the arm seemed to have slipped, so that, placing them between the ribs and the head, I might lever it up a little; finding nothing contrary to nature in the armpit, I ordered those who were stretching and counter-stretching with the trainer to stop the stretching, for the joint had not fallen out. But they, as though I were going soft after the pain, kept urging me to entrust myself to them rather than to myself, and did not stop stretching, so that someone might have torn the muscle apart, as has already happened to some others, had not by chance another person appeared who saw well [what was happening], since I would never, through softness, have kept them from the stretching; he released them, and asked me what it was that had happened and what I bade him do. I told him, then, that what had happened was that the acromion had been torn away, and that I needed oil, a bandage and wool; I went to the bath myself and, pouring much oil over myself, stayed in the pool as long as possible, while waiting for the things for the treatment to be brought. So for this distress too my muscles needed continual pouring. Most people, even when there has been no such [distress], do not bear the bandaging, but choose to have trouble from the affection in the time afterwards rather than suffer pain for up to forty days; for I do not think the bone of the collarbone can be bent precisely in less than that many [days]. The rest of the passage is clear."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.62.quote1",
+   "text": "\"The collarbone, when broken, if it is snapped clean across, is easier to cure; if lengthwise, harder to cure. But the facts are the opposite of what one might think. For one could more readily force the bone snapped clean across to come into its natural state, and if one took great care, one could bring the upper part lower with suitable postures and fitting bandaging. And even if it did not settle completely, yet the projecting part of the bone does not become very sharp. But when the bone is broken lengthwise, the misfortune is like that of the torn-away bones written about before; for it is not very willing to settle against itself, and the projecting point of the bone becomes very sharp. On the whole, one must know that no harm comes to the shoulder or to the rest of the body through the fracture of the collarbone, unless it becomes gangrenous; and this happens seldom.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.62.1",
+   "text": "He means [the collarbone] snapped right through, so as to be attached at no point, and the opposite of this is 'not clean across', which happens in one way that he indicated by saying 'if lengthwise, harder to cure', and with this he also indicates that the one snapped exactly across suffers this transversely, and the one not exactly, lengthwise. When it is snapped wholly through, the parts usually shift from one another altogether, one going up and the other down, one inwards and the other outwards. And in this case the fracture appears both large and hard to cure; but in the other way, when the disposition of the fracture is lengthwise, the appearance is smaller, but the cure harder. For an encircling wrapping, as with the limbs, which alone could press together and bring into line the part of the collarbone split lengthwise, is not possible. If, then, you remember what I have now said, nothing of what he says next will appear unclear."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.63.quote1",
+   "text": "\"Disfigurement indeed attends the fracture of the collarbone, and in these cases it is greatest at first, but afterwards becomes less.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.63.1",
+   "text": "It would have been better to say 'becomes less'. For at first, because the thing is strange, what has happened seems disfiguring to them; but in time, as they grow used to it, as with all other things, so with this too the disfigurement comes to be disregarded."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.64.quote1",
+   "text": "\"The collarbone unites quickly, as do all other spongy bones; for such bones form callus quickly. When it has just been broken, the injured are anxious, thinking the trouble greater than it is, and the physicians are eager, supposedly, to treat it correctly. But as time goes on, the injured, since they feel no pain and are not hindered either in walking or in eating, grow careless; and the physicians in turn, since they cannot make the parts look well, slip away and are not displeased at the carelessness of the injured; and meanwhile the callus forms all the faster. The method of bandaging that has become established is much like that for most cases, treating with cerate, compresses and soft bandages; and one must add the following treatment and understand the following, especially in this operation: that one must place the most compresses over the projecting part, and press most with the most bandages at this point. There are some who have even devised the further trick of binding on a heavy piece of lead, so as to force down the projecting part. Perhaps those who simply bandage do not understand either; but this method does not suit a fracture of the collarbone, for it is not possible to force down the projecting part to any degree worth mentioning. There are others again who, having learnt this, that these bandagings slip and do not force the projecting parts in accordance with nature, bandage them using compresses and bandages like the others, but first gird the person with a band where he is most easily girded; then, when they have put the compresses on the projecting parts of the fracture, building them up over the prominences, they tie the start of the bandage to the girdle in front, and so bandage along the line of the collarbone, stretching it and drawing it backwards, and then, passing it round the girdle, they bring it forwards and again backwards. Some do not pass the bandage round the girdle, but round the perineum, alongside the seat itself and along the spine, carrying the bandage round, and so they press the fracture. To one without experience these things seem, on hearing, to be close to the natural, but to one using them they are useless. For they do not stay in place for any time, not even if the patient lies down, although they would come nearest to it so; but even so, if while lying he bent his leg or bent himself, all the bandages would shift; and besides, the bandaging is distressing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.64.1",
+   "text": "He himself gave the reason why such bones unite quickly; but he did not go on to give the reason why the callus forms quickly, as being something that can be understood from the very nature of the bones under discussion. For spongy bones contain more moisture within them. We have said earlier that when this is poured out and then solidified by the power in the affected bone, the callus grows over the edges of the broken bone. And when this has happened sufficiently, the edges of the fracture are bound together and clamped, not because the affected bone has united through its depth, as flesh unites, but, as has been said, over the outer surface, like a kind of bond for something burdened. Everything that follows is clear to those who pay attention."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.65.quote1",
+   "text": "\"For the seat is enclosed, and the bandages are bunched together in this narrow space. And again, those passed round the belt are not girded so firmly as not to force the belt to ride upwards; and so all the bandages would necessarily slacken. One would seem to come nearest, though without achieving much, if one passed some of the bandages round the belt but applied the old bandaging with most of them; for in this way the bandages would be most stable and would support one another. Most of what befalls those who break the collarbone has now been said; but one must also understand this further point, that the collarbone is for the most part broken in such a way that the bone growing from the breast projects upwards, while the bone growing from the acromion is in the lower position. The reasons for this are these: that the breast would move neither much lower nor much higher,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.65.1",
+   "text": "The word *stenygrochōria* is not a compound formed from 'moist' (*hygron*), 'narrow' (*stenon*) and 'space' (*chōra*), as some think, but comes from *stenygron*, which itself means no more than 'narrow', *stenygrochōria* having been formed by a kind of derivation and meaning nothing more than narrowness. This is clear also from what Simonides said, which runs something like this: 'Never yet did any man, in mountains so shaded [...] alone, meeting a leopard in a narrow (*stenygros*) path.' It is evidently written with smooth breathing on the second syllable."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.66.quote1",
+   "text": "\"for the 'wagging' (*kinklismos*) of the joint at the breast is small."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.66.1",
+   "text": "He called the slight movement 'wagging' (*kinklismos*). Whether the word comes from the creature *kinklos* [wagtail], because it continually moves its [tail-]feathers, or from something else, does not belong to the present inquiry; rather, what needs to be stated is the reason why the articulation of the collarbone with the sternum, though not among the smallest, as certain others are, nevertheless has no movement worth mentioning. Let us then hear from the text what Hippocrates himself says the reason for this is. By 'breast' he seems to mean not the whole region at the front of the thorax, but the middle bone, in which the ribs articulate, which the physicians after him call specifically the sternum, and he spoke truly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.67.quote1",
+   "text": "\"For the breast is continuous with itself and with the spine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.67.1",
+   "text": "That the sternum is continuous with itself is plainly evident; that it is continuous with the spine will be clearly understood if you ever see in a skeleton of an animal the ribs plainly resting behind on the spine and in front against the sternum."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.68.quote1",
+   "text": "\"The collarbone is most 'floating' (*ploōdēs*) close to the shoulder joint; for it is compelled to move frequently because of its yoking with the acromion. Besides, when it is injured, the part attached to the breast escapes upwards and is not very willing to be forced downwards. For it is naturally light, and it has more room above than below. But the shoulder and the parts attached to it are easily detached from the ribs and the breast, and for this reason they can be drawn both much higher and much lower. So when the collarbone breaks, the bone at the shoulder inclines downwards; for it is easier for it, together with the shoulder and the arm, to slip down than up. Since this is so, those who think the projecting part of the bone should be forced downwards do not understand; it is clear that the lower part must be brought to the upper. For this is what has movement, and this is what has departed from its natural position. It is clear, then, that this cannot be forced in any other way; for bandagings do no more to force it in than to force it away. But if one were to force the arm upwards while it is held as close as possible to the ribs, so that the shoulder appears as pointed as possible, it is clear that in this way it would be fitted to the bone growing from the breast, from which it was torn away.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.68.1",
+   "text": "Hippocrates is accustomed to use figurative and rare words for his ideas, although writing in the ordinary civic style, and Xenophon had a similar habit; for he too, though writing in the civic style if anyone ever did, nevertheless often inserts rare and figurative words. In him such a thing is rarer, but in Hippocrates more frequent, as in the passage written above he said 'wagging', and here 'is floating'. For by the word he indicates something like 'unsupported', to which the visible animal also bears witness, in that he says 'it is compelled', in that he himself showed it to be 'frequently moving', saying 'because of its yoking with the acromion'. And this acromion in turn is frequently moving because of the shoulder joint, [being] unstable, since this itself exists and has the greatest movements. As for what is said at the beginning of the passage, 'close to', its ambiguity should be taken as referring to the place rather than to the matter itself. For it plainly means 'nearest'; but either it will indicate that the collarbone is frequently moving near the joint, which is what seems to me more correct if one understands it rightly, or, as some have thought, if 'nearest' is to be joined [with it], what is said will have to be 'frequently moving', so that it is in this sense that the collarbone is nearest to being frequently moving near the shoulder joint."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.69.quote1",
+   "text": "\"If, then, one were to use the customary bandaging for the sake of quick healing, but were to consider everything else useless apart from the posture described, one would understand correctly and would treat most quickly and most finely; it makes a great difference, however, that the person should lie down, and fourteen days are sufficient if he keeps still, while twenty are a great many.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.69.1",
+   "text": "By 'customary bandaging' he means the one that is habitual with everyone and has already become, as it were, an unwritten law; for so too in life certain customs, those practised by everyone, are close to laws. Now they did not perform the fracture-bandaging entirely as was proper, and for this reason he wrote more about it in the first book of On Fractures. Here, however, there is no such bandaging for any affection. For I have shown in my commentaries on that book, and it was recalled now as well, that all the affections that fall under the method of fracture-bandaging were written about by him in that book, and all those, in turn, that fall under the other [method] in this one. For fracture-bandaging is done when we wrap the strips of linen in a circle around the broken part; the second kind of bandaging, when we make them range over other parts, and for the most part over those opposite the affected one, as he also said in On the Surgery: 'and at the same time the wrapping around the other armpit agrees'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.70.quote1",
+   "text": "\"If, however, in someone the collarbone were to break the opposite way, which does not usually happen, so that the bone from the breast has slipped under and the bone from the acromion projects and rides upon the other, these would need no great treatment. For the shoulder itself and the arm, when let go, would settle the bones against each other, a simple bandaging would suffice, and the callus would form in a few days.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.70.1",
+   "text": "Earlier he said that, for the most part, when the whole collarbone snaps across through its whole thickness, the part of it from the sternum moves to the upper position, while the part from the acromion becomes lower. Now he writes about the rarer manner, in which the part from the acromion becomes higher and the part at the sternum lower, which he also says is easier to cure. For when [the shoulder] itself is let down, the part of the collarbone that is continuous with the acromion also settles together with it; and so, having become level with the other, it receives bandaging and treatment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.71.quote1",
+   "text": "\"But if it does not break in this way, but slips sideways in one direction or the other, it would be necessary to bring it back into its natural position by drawing the shoulder up together with the arm, as has been said before. And when it settles into its original natural position, the rest of the treatment would be quick. Most displacements, then, are put right by the arm itself being forced upwards.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.71.1",
+   "text": "You must understand that this has now been said by him with regard to the displacement of the bones inwards or outwards. And understand me, when I say 'inwards', to mean into the depth of the body, and 'outwards', towards the skin."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.72.quote1",
+   "text": "\"As for those cases in which the upper [bone] has slipped and gone sideways or lower, it would help the correction if the person were to lie on his back and something a little higher were placed beneath him between the shoulder blades, so that the chest is bent back over as much as possible, and [if] one were to draw up the arm stretched along the ribs. The doctor, placing the palm of one hand on the head of the arm, should push it away, and with the other should set the broken bones straight; in this way he would best bring them into their natural position. But, as has already been said, the upper bone very much tends to slip under towards the lower. In most cases, then, when they have been bandaged, the posture helps, the shoulder being forced upwards in this way with the elbow held along the ribs themselves. There are some in whom the shoulder must be forced upwards, as has been said.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.72.1",
+   "text": "When, then, the part of the collarbone continuous with the sternum slips either sideways or downwards, he says that it helps prepare for the correction if one lays the person on his back and places between the shoulder blades, along the spine itself, evidently a cushion or a neck-pillow or something of the sort, so that the whole thorax becomes bent back over at this point. For 'is bent back over' (*perirrhēdes*) is said in this sense also in the poet:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.72.2",
+   "text": "\"and bent over the table, he fell.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.72.3",
+   "text": "With the person positioned in this manner, then, he requires the doctor with one hand to draw up the head of the arm, stretched along the ribs, [and] push it outwards. For in this way the broken parts of the collarbone would best be drawn apart, the bent-back posture also contributing not a little to this. And with the other hand [he should] mould and bring together the separated parts of the bone, drawing up the arm stretched along the ribs; in the next passage he says that sometimes it is better"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.73.quote1",
+   "text": "\"to bring the elbow across to the chest and to hold the end of the hand against the acromion of the healthy shoulder; if he can bear to lie down, some support should be placed so that the shoulder is as high as possible, but if he walks about, one should make a sling from a band around the point of the elbow and suspend it from the neck.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg096.1st1K-grc1.73.1",
+   "text": "Such a posture evidently draws the head of the arm to the outer position, so that the part of the collarbone joined to the acromion is drawn along with it; but he says that for the most part there is no need of such a posture. For the correction takes place sufficiently also by the former, in which the arm was drawn up stretched along the ribs, the elbow staying there, and not, as now, brought across to the chest. So this bringing across to the chest is not to be avoided by us as though the former were useless, but because, even when it is moved, the intended action can for the most part be accomplished. But if in carrying it out the result does not follow, then we shall pass on to the second posture."
+  }
+ ]
+}

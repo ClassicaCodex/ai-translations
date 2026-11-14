@@ -1,0 +1,834 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0564.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg0564.tlg001.ai-claude",
+ "source_edition": "tlg0564.tlg001.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "De renum et vesicae affectionibus: AI translation (Claude)",
+  "author": "Rufus of Ephesus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0564.tlg001.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.0.head": "0.2: αὐτοῦ is taken as 'there' (in the kidneys). 1.3: the 'great vein' is the vena cava. 1.15: the clause order is unclear: the poppy juice may belong with the first recipe, the all-heal root being an alternative. 2.3: εἰ καὶ μεταξὺ ἐβιῶ is odd Greek. It is rendered as 'whether he lived on after that'. Plant identifications are conventional: βούκερας as fenugreek, σχοῖνος as camel grass, μῆον as spignel, ἄγρωστις as dog's-tooth grass, σταφυλῖνος as wild carrot, κρῆθμον as samphire. Kept untranslated: πόλιον, λιβανωτίς, δαῦκος.",
+  "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.8.1": "Line 2.34–2.36: words in square brackets are editorial restorations of a damaged text. 'Euryodes the Sicilian' (Εὐρυώδης) is unidentified; the name may be corrupt. 'Him' in 2.36 is singular in the Greek though two men are named. *choinix*, *kyathos*, *kotyle*: Greek measures of capacity. Plant identifications of *daukos*, *kachrys*, *sikyonia* are uncertain.",
+  "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.head": "3.18: the text is badly damaged; between 'flushed out as much as possible' and 'to guard against' the words are fragmentary and untranslatable. 3.15 ἀλκυόνιον: a sea-growth (sponge or coral-like substance), kept transliterated. 3.25 τῷ ἀρσενικῷ: probably orpiment (yellow arsenic), used by women as a depilatory. 3.12 θερμίνῳ: lupin meal.",
+  "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.4.2.1": "5.1.1: 'sea-lung' (θαλάσσιος πνεύμων) is a jellyfish-like sea creature. 6.3.1: the text is lacunose and the restored γε ὀνομαζέσθω (scanned 'γεὀνομαδέσθω') is uncertain; the name meant may be 'diarrhoea of urine' or the rejected *leiouria*. 7.7.1: the sentence seems to lack a verb or connective before 'and someone else standing by'; possibly corrupt. 7.9.1: 'raw lotions' (ὠμαῖς λύσεσι) is obscure. 8.5.1: 'Pontic root' may be rhubarb; *promalos*, *medeion*, *klymenon* left unidentified. 8.6.1: 'τοῦτο δὲ' read as 'τὰ δὲ' ('others'). 9.1.1: 'Cyrenaic juice' is presumably silphium.",
+  "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.10.head": "10.1: 'Γὰς' read as 'Τὰς' (scanning error). 12.12: 'λαβή' of the knife is probably the scoop-shaped blunt end of the lithotomy knife. 13.3: the restored text '[γῆς ἀπή]θημα ... ψυχροτέρας' is uncertain; the sense 'filtrate of colder earth' is tentative. 13.4: heavily restored; translation follows the restorations.",
+  "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.7.1": "13.7: αἱ τῷ σικύῳ read as καὶ τῷ σικύῳ. 13.8: μῆον rendered 'spignel'. 14.5: ἐχῖνος χερσαῖος is the hedgehog. 14.6: βουκέρας taken as fenugreek. 15.7: σικυωνία taken as wild cucumber; σικυώνιον ἔλαιον (15.5) as cucumber oil, though it may mean oil from Sicyon. 15.12: final [ἀκ]ρατέστατον restored; sense 'least able to hold'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.0.head",
+   "text": "[Preface.]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.0.1.1",
+   "text": "I shall describe, one by one, all the diseases that arise in the kidneys and the bladder, both how they must be recognised and how they must be treated."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.0.2.1",
+   "text": "On the whole, the diseases that arise in the kidneys are not very acute; yet they are no less deadly than those elsewhere. For ulcers and abscesses forming there have killed many in the course of time. For even when the kidneys are inflamed they cause somewhat greater pain, but the disease itself does not hasten [death]. Inflammations of the bladder, however, are more acute: for in these cases it is more likely that the urine will be retained, and that [the patients] will become feverish, delirious, and vomit much undiluted [bile]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.0.3.1",
+   "text": "The other diseases of the bladder are also more acute; for the place is more vital, and it is accustomed to fall ill right from childhood, the age at which acute diseases chiefly occur. Disease of the kidneys, on the other hand, befalls old men more than young ones; for this reason it is also milder than those."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.0.4.1",
+   "text": "But all of them, both those of the kidneys and those of the bladder, are not easy to manage, and especially the ulcers that form in them; for the urine, flowing over them continually, both bites them and prevents them from forming scars. One must therefore make one's predictions and one's treatment knowing that they are of this kind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.head",
+   "text": "1 (Aetius, 16). On inflammation of the kidneys."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.1.1",
+   "text": "Now, these are the signs of inflammation of the kidneys. Pain is felt below the flanks, and [the patients] can neither stand upright nor walk; and if a sneeze or any other jolt occurs, they cry out; and when lying on the belly they cannot bear it, but they can bear to stay lying on the back."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.2.1",
+   "text": "For the kidneys lie against the flanks. And for anyone in pain in this way it is easier to keep still while lying down."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.3.1",
+   "text": "Such are their sufferings as regards posture. In other respects, the pains spread upward as far as the liver, for [the kidneys] are connected with it by the great vein, and more so if it is the right one that is inflamed; for this one is also nearer to the liver and touches its lobe, while the left one is farther away and lower down. Other pains run down to the bladder and the genitals, and they are not continuous, but intermittent, striking chiefly into the loins, hips and lower abdomen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.4.1",
+   "text": "Their extremities grow cold, especially the shins and feet, and they pass urine continually and with pain, at first thin and watery, but, as the inflammation advances, redder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.5.1",
+   "text": "When they reach this stage, the hips and buttocks waste away, and the legs become weaker. In some the kidneys have also suppurated; and most of these cases end in this way. But about abscesses I shall speak shortly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.6.1",
+   "text": "Inflammations are to be treated thus: lay [the patient] down as softly as possible, and keep him from food on the first day. Starvation, however, does not benefit these patients altogether, as it does other inflammations; rather one should also give some [food], watching the fevers, where they slacken and where they intensify. For fasting does them not so much good as the stinging caused by the urine when it becomes undiluted does harm."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.7.1",
+   "text": "At first, feed them on thin gruels, and for drink, water. Do not give honey-water unless you think it right already to stimulate urination, which I do not approve of at the beginning, before the pains have clearly subsided; but then I say it is very necessary to purge with diuretics."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.8.1",
+   "text": "If the bowel also needs emptying, contrive no other evacuation, such as those that have been devised using drugs, but inject a small warm enema: boil mallow in water, or linseed, or fenugreek, and give an enema of one of these with oil, mixing in a sufficient amount of it. Do not inject a large quantity, so that the filling of the intestine does not press on the kidneys."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.9.1",
+   "text": "When the bowel has moved, if the pain abates, put wool round [the body] and let [the patient] rest, moistening it with warm oil. It is not inappropriate to have boiled with the oil some rue, marsh mallow, dill and mugwort."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.10.1",
+   "text": "If they are in more acute pain, open a vein at the elbow. And if even so some of the inflammation remains, apply poultices, at first of meal boiled in honey-water, or of linseed; then mix in also ground pine and *polion* [hulwort], and mix in southernwood too, and bryony, and rue, and wormwood, and centaury, and mugwort, and the leaves of germander, and asarum, and the flower of camel grass. And then no longer boil the poultices in honey-water, but either in sweet wine or in honeyed wine. Mix four parts of this meal with two parts of any of the drugs mentioned; and if you wish to use a stronger [poultice], [mix] somewhat more, and add pounded dry wax [or resin]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.11.1",
+   "text": "The poultice of Chrysippus is also good. It is this: of galbanum, terebinth resin, *polion* and bitter-vetch meal, fifty drachms each; of dry iris, thirty drachms; of fragrant cerate, one *kotyle*; of wheat meal, a quarter of an Attic *choinix*. Boil these in sweet wine and apply as a poultice, to patients with kidney disease from behind, and to those suffering in the bladder in front."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.12.1",
+   "text": "If the pain is not soothed by poulticing, apply cupping glasses both to the rest of the loins and under the flanks, scarify, and draw off some blood. Then foment with sponges and seat [the patient] in hot water, in which poppy, chamomile, reed and camel grass have been boiled."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.13.1",
+   "text": "Before this, also fill a bladder with oil and water and lay it alongside him, and foment the other parts with oily applications."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.14.1",
+   "text": "After these, apply cerates and emollients: cerates made with henna oil, [or] with rose and iris perfume; emollients of the most fragrant kind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.15.1",
+   "text": "During the pains, [let them] drink drugs such as these: two obols of fennel seed, an obol of *libanōtis*, twenty grains of cucumber seed, and poppy juice; or three obols of the root of Heraclean all-heal, a little melilot, and half an obol of cedar resin and of roasted poppy head; better [too] half an obol of storax, as much celery as three fingers [take up], and poppy juice the size of a vetch seed. Grind each of these as fine as possible, mix in sweet wine [or in] water, and give to drink. For it will help at once, if [the pain] is acute, and sleep will take hold of the patient."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.16.1",
+   "text": "And when the right time appears, then also purge with diuretics."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.17.1",
+   "text": "Let the diuretics be these: sweet flag root, ground pine, cassia, spignel, cinnamon, *polion*, parsley and dog's-tooth grass. Boil these in water and drink with wine or honey-water."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.18.1",
+   "text": "[Let them] eat sea urchins, and of vegetables fennel, celery, *daucus*, radish boiled as well as possible, boiled cucumber, and all the wild ones; for they promote urination well, especially wild carrots, samphire and chervil."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.1.19.1",
+   "text": "And in such patients one must look for urine that is copious and thick and has good sediments; and this above all brings the disease to its crisis. Watery, clear and transparent urinations come to a crisis with more difficulty."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.head",
+   "text": "2 (Aetius, 18). On suppurated kidneys."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.1.1",
+   "text": "This, then, is how one would best treat inflammations. In those whose kidneys become suppurated, there is by now some swelling about the flanks, and also a strong burning heat in the kidneys, and they pass reddish and undiluted urine, and the pains are no longer sharp, as before, but heavier and throbbing; and the fevers are not settled, but become irregular and accompanied by shivering."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.2.1",
+   "text": "In these the [abscess] bursts mostly into the bladder, and this is the best of the ruptures. Sometimes, however, it also bursts into the intestine, when the abscess has come to a head there and putrefied."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.3.1",
+   "text": "Praxagoras said that he had seen in one man the urine also being discharged through the anus, and that this man lived twelve years, but that he did not know whether he lived on after that; for he himself had gone away first and learned nothing further later."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.4.1",
+   "text": "In others it bursts outward, passing out beside the flank, which must then fill with pus and urine; and [these] stay there, but in time force their way to the anus and pass out that way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.5.1",
+   "text": "In some, however, it will not burst from the kidneys at all, but stays there a long time, until you either burn through it or open it in some other way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.6.1",
+   "text": "When it has burst into the bladder, they at first pass urine mixed with pus and blood, as from the incision of any other abscess, and afterwards in accordance with [the state of] the ulcers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.7.1",
+   "text": "If the ulcers turn bad, as with other putrefying ulcers too, [the matter that] passes is copious, foul-smelling, livid and mucous, and some elongated bits of flesh like fibres; but if the ulcers are healthy, the pus that passes is white, smooth, odourless and scanty."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.8.1",
+   "text": "If you think the kidney is turning to pus, and you will judge this by the signs already described, ripen it as quickly as possible and so contrive that it bursts; for in most cases it turns towards the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.9.1",
+   "text": "So foment continually with sponges, and apply a poultice of barley meal with a decoction of figs; boil the figs in honey-water or wine. It is good also to grind up some of the figs themselves and mix them in, and to chop and add the foliage of wormwood, and *chamelaia* [spurge olive], and sifted iris, and the root of bryony; these at once help to ripen [the abscess] and promote urination."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.10.1",
+   "text": "Urination must also be stimulated, so that it is useful to order [the patient] to drink diuretics as well. Most suitable is the seed of the chaste tree drunk in wine or honey-water, and the root of giant fennel, and alkanet, and arum, each one singly, or if you mix two or three together."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.11.1",
+   "text": "This too is good: put about a *choinix* of oregano and of *daukos*, and about a *choinix* of false dittany into fragrant white wine and set it aside; when you need it, take four *kyathoi*, mix with two of water, and further add one drachm of rue leaves ground as finely as possible, and give it to drink. This will bring away pus and copious urine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.12.1",
+   "text": "If, when you do these things, the abscess bursts no more readily, also give enemas with pungent clysters."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.13.1",
+   "text": "The clysters are: an infusion of black hellebore, and of radish, and of garlic, and of *sikyonia* [wild cucumber]; steep them in brine or in sea water or in vinegar, and adding a little oil so that it is slippery, give enemas with these. Order [the patient] to retain it as long as possible; for it often bursts the abscess, and then [the patient] is relieved."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.14.1",
+   "text": "You should, however, still foment with the sponges and with the poultices, until all the pain has abated and the pus flows freely."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.15.1",
+   "text": "Give also the cleansing diuretics, reckoning with regard to the ulcer: whether it is benign is indicated by the fevers and pains becoming lighter, by what comes in the urine being smooth, white and odourless, and by urination passing easily. If things are so, give the milder ones, such as cucumber seed with honey, and the decoction of dates, and iris with honey, and honey itself; but if you wish to cleanse more strongly, [give] a decoction of maidenhair with honey-water [or] water, and galbanum with hazelnut, and terebinth resin dissolved in water, then, when the water has settled, strained and mixed with honey-water or wine; give it so. These are for the more benign of the ulcers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.16.1",
+   "text": "For the worse ones stronger [remedies] are needed, both internally and externally. Internally, then, what has already been said to help towards bursting, and Ethiopian cumin with sweet wine, and rue with honey and wine, and *kachrys* with leek seed in soft wine; externally, poultice with bitter-vetch meal boiled in wine and honey, and with dried roses ground with lentils and honey, and with myrtle berries boiled with one of these; for these, and other such things, keep putrefaction from the ulcers, when the poultices cover the loins and the whole flanks."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.17.1",
+   "text": "It is good also to inject one of the remedies for dysentery, if [the ulcer] is spreading further."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.18.1",
+   "text": "If, because of pain and inflammation, the pus cannot pass out, give enemas of thin barley gruel and milk, and foment with other warm applications, and seat [the patient] in hot water; for in this way it would most readily come away. If it is held back by its thickness, [let him] drink a decoction of fennel, and of celery, and of ground pine, and of wormwood, and of oregano. These things must be done thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.19.1",
+   "text": "After that, [let him] drink milk with honey, at first ass's or mare's, for it helps in cleansing the ulcers; but when they no longer need cleansing, and only a little pus comes away, and the stinging from the urine is dulled, and the person needs to be fattened, then give cow's milk, and still more sheep's; for it is thicker and less laxative. Give a quantity of two, three, or even more *kotylai*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.20.1",
+   "text": "And [let him] take no other food at once, until this has been digested. What passes of the milk is the finest remedy for other internal ulcers too, most soothing to harsh discharges, and quickly building up the body, especially in wasting diseases, when the person must be restored to good condition as quickly as possible; so that if you fatten the kidney patient with the rest of the diet as well, you would not go wrong."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.21.1",
+   "text": "So [the patient], lying softly, should be rubbed every day and fed, at first with milk, as has been said, and with barley-gruel broths, and starch cakes, and fine-washed meal boiled in milk, and pastries crumbled into rich chicken broth, and with soup of yellow peas, and [that] of cowpeas, and of bitter vetch, first taking the bitterness out of the vetch, and boiling them by themselves or mixing them with one of the pulses mentioned."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.22.1",
+   "text": "Vegetables suitable for the present [condition] are mallow, dock, blite, purslane, asparagus, gourd, boiled cucumber and boiled lettuce; but nothing raw is good to eat."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.23.1",
+   "text": "These gently loosen the bowels and dull the stinging of the urine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.24.1",
+   "text": "As time goes on, when the fevers have stopped completely and the bulk [of the body] is being built up, he must also be fed with meat."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.25.1",
+   "text": "The meats I recommend for this disease are kid, lamb and pork, and tender fowl, and of fish the rock fish, boiled, and angel sharks, and skates, and electric rays, and that sort of cartilaginous fish."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.26.1",
+   "text": "If in a long illness he wants some dessert as well, he should keep off dried figs, for they are hostile to ulcers; but give dates, and Pontic nuts, and pine kernels, and raisins, and give roasted almonds with honey. Let him drink honey-coloured wine, and keep off vinegar and everything salty, both drink and food. Such, then, are the foods for kidney patients."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.27.1",
+   "text": "As for the rest of the regimen, conduct movement neither to excess nor quickly; for movement does not help any other ulcer, and much less ulcers in the kidneys."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.28.1",
+   "text": "Rather, keeping him at rest, restore him in every comfort, with rubbings as rich [in oil] as possible, baths and shelter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.29.1",
+   "text": "Surfeits that arise it will be enough to empty with a dry vapour bath and vomiting; the bowels should not be softened below, except as much as [is done] daily by one of the foods mentioned."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.30.1",
+   "text": "So that they are not greatly distressed by vomiting, order them to vomit without having filled them too full, after giving foods that promote vomiting: these are fatty and sweet things, and seedy cucumbers, or if these are not available, their seed ground with honey, and boiled meal, and after these a sweet and plentiful drink."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.31.1",
+   "text": "I recommend vomiting not only for surfeits; it seems to me that someone who ventured to vomit frequently would quickly resolve both an ulcer in the kidneys and any other harm from that quarter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.32.1",
+   "text": "When he has come to the point of being able to recover and to bear moving, let him first walk quietly, a little, and on level ground; let him guard against standing, running, jumping and sudden stooping. Then, as far as he progresses in strength and good condition, so far let him add to his walks and other exercises."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.33.1",
+   "text": "The kinds of other exercises are arm-swinging and rubbings in great quiet. This is the regimen of kidney patients."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.34.1",
+   "text": "If the abscess turns outwards, it swells more there, and becomes more evident to the hand [and to the sight]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.35.1",
+   "text": "[These] the ancients used to cauterize where it came most to a head, and they treated the hollow [ulcers as common ones]; but it did not heal completely, [but some part] of the ulcer [became a fistula]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.36.1",
+   "text": "Euryodes the Sicilian and Hippocrates [knew how] also to cut kidney patients, so that they advised treating [a] kidney [with stone] and one full of pus by cutting it there; I cannot disbelieve him, since he is otherwise good at the art. I myself, however, say that I have never yet ventured on anything of the kind; for the man who cut into the chest in consumption beside the lowest ribs and pierced inwards had a good outcome once, when the pus came out there so that the upper ulcer dried up."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.2.37.1",
+   "text": "And perhaps in the most extreme illnesses something of this kind must be ventured; but where there are other remedies to hand, one should not willingly resort here to the extreme ones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.head",
+   "text": "3 (Aetius, 4, 5, 6). On kidneys with stones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.1.1",
+   "text": "Stones form in the kidneys, most like little chalky concretions; and then pains of the kidneys arise, and [they come] with urine that is for the most part thin and watery, but sometimes also with black, red and thick [urine]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.2.1",
+   "text": "On the whole, however, black urinations resolve the disease; others also resolve it, which are purgations rather than signs, except in acute and feverish diseases; in those they bring sleeplessness, inflammations of the viscera, convulsions, delirium and death."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.3.1",
+   "text": "For just as in other matters season and age, constitution of the body and regimen make a great difference, both for bad and for good, so one must also form expectations about the urine; for black urine is less dangerous for an old man, in autumn and winter, and for [anyone who] is of black humours; besides, it may also carry off something that would cause trouble if it did not pass; but for a young man, in spring, and for anyone of moister humours, it is more serious."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.4.1",
+   "text": "The art of the urine, which deserves to be known by the physician [more than anything], I shall write about later."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.5.1",
+   "text": "Those with stone have [also pains at] intervals; when the colon is troubled — this is the [lower] bowel — [either by wind or] from undigested food, or chilled in some other way, then [wind and evacuations] and belches coming up have relieved the pain; [but those with stone also have] urinations of much thick [urine], with little concretions coming away with it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.6.1",
+   "text": "[For the most part] men get stones in the kidneys, and women least of all; yet a woman has been seen passing sand, one from the kidneys, another from the bladder; and in these the disease is not at all severe, for neither strangury nor strong pains afflict them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.7.1",
+   "text": "The cause is this: the ureters are wider in a woman, as are the other inner parts; besides, they run straight and are shorter in length. The other kidney diseases do not, on the whole, occur in females at all, except those due to association with the womb; perhaps the menstrual purgations also prevent them; but the greatest [reason] is that they come off from sexual intercourse with less strain than men; and if anything else brings on kidney troubles, so too do the strains of intercourse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.8.1",
+   "text": "In those who have larger stones inside, they cause sharp pains and strangury; for the cavities in the kidneys are not wide, but are themselves rather small, and the kidney, because of its firmness, cannot stretch apart, as the bladder does."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.9.1",
+   "text": "These, however, are passed in urine more than those in the bladder; for they are also somewhat smaller and softer; yet being long-standing, they are most painful in the kidneys, and as they go through the ureters, and again when they lodge against the genitals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.10.1",
+   "text": "Many have also passed blood in the urine from the violence of the stone, and have had numbness of the thighs and hips, and the other afflictions that were described in connection with ulcers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.11.1",
+   "text": "Others have had no pain at all, nor passed blood, in whom concretions do not form but fine sand; these [men] take no great trouble, nor do they think themselves ill, since they feel no pain; but one must [neglect] nothing, [for] in time everything shows itself more serious."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.12.1",
+   "text": "Those who suffer these things must therefore be treated, [both] for the passing of stones and for the pains, with infusions of [rue], and by applying poultices of lupin meal [boiled in] sweet wine; and mix with the meal roots of hog's fennel [ground as finely as possible], mandrake bark, poppy, henbane seed, and fragrant chamomile."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.13.1",
+   "text": "It is also good to boil bread in sweet wine and apply it as a poultice, chiefly to the loins and flanks; but it is no worse [applied] to the bladder and lower belly too; and apply one after another frequently, before the first becomes cold; otherwise cover it from outside with another warm application, so that it does not cool."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.14.1",
+   "text": "For many, these alone have sufficed for passing the stone; but you should also give some of the diuretics to drink beforehand: spignel, sweet flag, dog's-tooth grass, the decoction of nard, and of calamus, and of mountain parsley, St John's wort seed, *libanotis*, asarabacca, and the kermes berry with which they dye things crimson, with gillyflower seed, and a decoction of asphodel root with celery seed, and of pine leaves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.15.1",
+   "text": "Also administer whatever can break up the stones: these are water parsnip, maidenhair, bdellium, *alkyonion*, chaste tree, the root of sharp myrtle, myrrh, laurel root, and Christ's-thorn seed; for often, held fast by their size, they bring [the patient] into the utmost danger, both by the sharpness of the pains and by not letting the urine pass."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.16.1",
+   "text": "I know of one man in whom the stone had passed through the rest, but got stuck not far inside the tip of the penis, and the man came close to dying from difficulty in urinating; but with the narrow forceps we were able to draw it out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.17.1",
+   "text": "If it had not been possible to draw it out like this, we were considering making a lengthwise incision from above; for the urethra should not be cut where there is no great necessity; [for it generally becomes fistulous], and later [urine] leaks out there."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.18.1",
+   "text": "One must also bear this in mind [in those with stones in the kidneys]: if the stones are [packed together] and [are holding back the urine, one must bring up] … having flushed out as much as possible and … [text broken] … to guard against much drink and diuretics, but to relax with warm applications, and to empty the [belly with an] enema, so that the ureters are not compressed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.19.1",
+   "text": "And then, [when] the stone [has come out], give donkey's milk to drink; failing that, mare's; failing that, goat's, mixed with honey; and in other respects use a more wholesome regimen, as for ulcers. These are the treatments concerning the passing of stones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.20.1",
+   "text": "After this it will be stated how the kidneys may not form stones at all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.21.1",
+   "text": "The most important part of the treatment is moderation in food and digestion; surfeits and indigestion not only aggravate the disease but also bring it on; many indeed after these have passed turbid and sandy sediments; therefore I advise both vomiting often after dinner, drinking wormwood frequently, sometimes also being purged downwards, and choosing foods from which neither surfeit nor indigestion will result."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.22.1",
+   "text": "I also advise purging with diuretics: on a daily basis eating boiled carrot, fennel, alexanders, sow-thistle, golden thistle, pennyroyal, calamint, and of sea creatures, urchins and whelks, crabs and lobsters, and shellfish; all these daily; but at longer intervals drinking a decoction of eryngo, of ground pine, of dittany, of *polion*, of caltrop root, of wild cumin, and of the things said to break up stones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.23.1",
+   "text": "The water too, both for the rest of the regimen and that in which the drugs [are boiled], should be light, sweet and clean; river and marsh waters [must be rejected], for they could produce stones where there are none; and the wine should be light, [sweet] and white; for it is more diuretic than dark, astringent [and thick wine]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.24.1",
+   "text": "And in general bring the patient into good condition by using exercises [in moderation], and by rubbing both the rest of the body and the loins, [sometimes] more dry, sometimes with more oil, and sometimes with drugs: wine-lees, soda and pumice."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.25.1",
+   "text": "It is also beneficial to use arsenic, in the way women are accustomed to, and to do the other things as we are accustomed to in chronic cases, and to drink hellebore."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.3.26.1",
+   "text": "If the disease does not stop with these, it grows old with [the patient]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.4.head",
+   "text": "4 (Aetius, 17). On hardness of the kidneys."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.4.1.1",
+   "text": "Such hardenings as arise in the kidneys no longer cause pains, but it seems to them as though [something] hangs from the flanks; they are numb in the hips, lack control of their legs, pass little urine, and in the rest of their condition most resemble those with dropsy; and some clearly develop dropsy in time, as also happens from the other viscera when they harden."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.4.2.1",
+   "text": "These patients should be softened with cerates, emollients, rubbings and hot fomentations; one should give diuretics and wash out the belly with enemas."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.4.3.1",
+   "text": "From this there is hope both that the movements of the legs will return and that they will not develop dropsy."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.5.head",
+   "text": "5 (Aetius, 2). On passing blood in the urine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.5.1.1",
+   "text": "This too is a disease of the kidneys: they cannot strain the urine, but, being too wide, they let through some of the blood from the vein, and other thick matter as well; so that, if [the urine] is left to settle, it has sediments and a crust on top most like a sea-lung; so indeed Cleophantus son of Cleombrotus compared it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.5.2.1",
+   "text": "When the food has been digested and has passed into the veins, urine of the kind described is passed; but while [the food] is still fresh, [the urine is] clear, without sediment, thin and watery. The reason is this: the food has not yet been soaked by the drink, nor turned into blood."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.5.3.1",
+   "text": "Such is the form of the [condition; they feel] no pain, or very little; some even [feel] easier after [passing urine]; yet all of them grow thin over time, and more so those [who pass more blood]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.5.4.1",
+   "text": "At the beginning it helps these patients to keep still, [to take astringent] foods and dark wines, and to abstain from diuretics and from sexual [intercourse; and to drink] the drugs for haemorrhages, especially the juice [of knotgrass], and tragacanth soaked in wine, and the decoction of comfrey [root]; and also to apply to the loins from outside the remedies for [fluxes] and for spitting of blood, and whatever can contract by drying. After that, one should build up the condition with sheep's milk, little cakes of bread and meat, until they can now accept exercise as well, and bring the whole body [to] strength; for so the kidneys too will perform their proper work. And the proper work of the kidneys is, I take it, to strain the urine from the blood, and to let out neither the colour of blood, nor blood itself, nor any other thick matter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.5.5.1",
+   "text": "Those in whom passing of blood occurs periodically are heavy and in pain in the loins before they are emptied of the blood; once emptied, they are relieved, as with a haemorrhoid. So one should open a vein at the elbow a little before the periodic attack."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.5.6.1",
+   "text": "This is the main point of the treatment; and one should regulate the diet so that no plethora develops, and exercise the upper parts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.head",
+   "text": "6 (Aetius, 1). On diarrhoea of the urine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.1.1",
+   "text": "There is another disease common to the liver, to the vein that extends to the kidneys, to the kidneys themselves, and further to the ureters and the bladder: [it is present] if burning heat holds the person, and unceasing thirst, and he urinates as soon as he drinks, and the body melts away towards the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.2.1",
+   "text": "Their bowels dry up, they do not sweat, and in time they waste away and die."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.3.1",
+   "text": "And [since they found lienteria] closest to this, they named it diarrhoea into the urine, [not *leiouria*; but] let it now be called so; for just as lienteria is [in the intestines], so the ailment described is another of the same kind in the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.4.1",
+   "text": "And [it happens from this], as also from lienteria, that [the patient] dies when the urine is suddenly stopped, unless one is willing to draw [it off by] vomiting; for this is the greatest cure for [this] disease: to drink and vomit it up at once."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.5.1",
+   "text": "He should drink as cold as possible, and in other respects keep to a rather cold diet, eating the cooling vegetables, drinking *kykeon* [barley drink], and sipping barley-gruel juice; give no diuretic, but draw [the fluid] off into sweats as well; for if he can sweat out well, the urinations would dry up."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.6.1",
+   "text": "It is best if he is given a vapour bath in a jar, holding his head up out of it, so that the rest of the body is heated while he draws in cold air; and in other respects treat him as for *kausos* [burning fever], so that he quickly becomes free of thirst for you."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.7.1",
+   "text": "So knead the fine flour of barley-meal with vinegar and rose oil and plaster it on the hypochondrium; also tender vine leaves, crushed, and navelwort, and *helxine*, and purslane, and whatever else [of this kind]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.8.1",
+   "text": "Give him also beforehand knotgrass juice to drink, continually, and elecampane in dark wine, and comfrey, and an infusion of dates, of myrtle berries and of pears."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.9.1",
+   "text": "At the beginning one should open a vein at the elbow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.6.10.1",
+   "text": "Kidney ailments, then, one would treat best in this way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.head",
+   "text": "7 (Aetius, 26). On inflammation of the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.1.1",
+   "text": "Of the diseases of the bladder the most severe and most deadly is inflammation of the bladder; so that they have acute fever, are sleepless, become delirious, vomit unmixed bilious matter, and cannot urinate; the lower belly grows hard on them; strong pains strike the pubic region; hands and feet no longer warm up; and [the pains] seize them especially around the pubes and a little in front. It kills quickly, unless they pass much [urine, thick and] purulent, and part of the inflammation [turns] outwards, [or the] pain [abates]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.2.1",
+   "text": "Open a vein, but do not delay opening it, [but do so as] the disease [begins], and [warm] continually with fomentations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.3.1",
+   "text": "Let rue be boiled in the oil, [and] dill, and marsh-mallow root; and let the belly be washed out with a mild enema, and then let some of the fomentation be injected into the intestine, so that relief comes from there as well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.4.1",
+   "text": "It is better if you also boil poppy with the oil, and if you melt goose fat, or hen's, and pour it in."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.5.1",
+   "text": "I myself have also smeared a third of a half-obol of poppy juice with myrrh and a little saffron on wool and inserted it, like the pessaries for women; and at once the pains stopped, and at once the person fell asleep; so that this drug now serves me for other pains too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.6.1",
+   "text": "One should also apply hot fomentations with bladders of hot water, and with hot meal in bags and in oiled rags, and seat him in hot water, urging him to urinate in the water; let the water also be a decoction of linseed and fenugreek, and let some small fragrant seed be thrown in."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.7.1",
+   "text": "It is indeed a matter for great experience; for the bladder, constricted by inflammation and hardening, cannot send out the urine; and [one should have] someone else standing by press the lower belly, but not more than is fitting, so that no needless pain arises."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.8.1",
+   "text": "The idea is Philomelus' first, as far as I know, and the person urinated when he did this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.9.1",
+   "text": "One should also put poppy, henbane and mandrake into the raw lotions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.10.1",
+   "text": "After that, anoint with Sicyonian oil, [and apply] cerates made with wool-grease and castoreum."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.11.1",
+   "text": "[The insertion of the] tube I reject for a man; for because it [is inserted with difficulty] it aggravates the pains further; but for a woman [I think it not] out of place to insert it; for the [urethra] is short and grows straight, so that it is managed with less pain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.7.12.1",
+   "text": "[That is how] to treat inflammations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.8.head",
+   "text": "8 (Aetius, 27). [Haemorrhage] from the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.8.1.1",
+   "text": "There is also another acute disease in the bladder: a vein [bursts] in it, and some of the blood passes outwards, while some clots inside."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.8.2.1",
+   "text": "Such cases are always accompanied by nausea and sweating, the extremities grow cold, and the urine is held back."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.8.3.1",
+   "text": "Quickly, then, as in other haemorrhages, bind the arms, wrapping wool round them, or with bandages, and apply sponges soaked in vinegar and water to the pubic region and the perineum, and plaster on knotgrass and bramble, pomegranate flowers, celery, coriander and mastic leaves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.8.4.1",
+   "text": "Plaster each of these on with fine barley-meal, and remove it frequently, before it becomes lukewarm."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.8.5.1",
+   "text": "Give also to drink the drugs for haemorrhages, such as the Pontic root pounded, shavings of lotus wood, the red seed of peony, buckthorn leaves, an infusion of *promalos*, root of *medeion*, and *klymenon*, horsetail, the root of great centaury, and frankincense bark."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.8.6.1",
+   "text": "Many others too have been discovered over long time; most of them have already been mentioned under spitting from the chest, and others will be mentioned later under women's diseases."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.9.head",
+   "text": "9 (Aetius, 27). On a clot in the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.9.1.1",
+   "text": "In those in whom the blood clots in the bladder, first try to dissolve it with drugs, giving to drink *hemionion*, mugwort, *helichrysos*, [Cyrenaic juice], fleabane, [wormwood], radish seed, bramble juice, [beet juice], preparing each in [vinegar], [or] the rennet of a hare, or of a fawn, or [of a kid, or of some other animal]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.9.2.1",
+   "text": "After that, if it does not dissolve, cut the perineum from below, as [for a bladder with stone], and having removed the clots, try to treat the rest [as] haemorrhages; and when it no longer bleeds, [as] bloody [wounds]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.10.head",
+   "text": "10 (Aetius, 27). [Haemorrhage from the penis.]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.10.1.1",
+   "text": "Haemorrhages from the penis are healed both by a [cooling] application and by injecting one of the [remedies] mentioned."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.10.2.1",
+   "text": "And if you inject one of the [styptics] through the tube, and another by clyster into the large intestine, this too helps the haemorrhages."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.10.3.1",
+   "text": "The tube should be in other respects as it [usually] is, but should have a bladder-bag fastened to its end."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.head",
+   "text": "11 (Aetius, 28, 29). On growths in the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.1.1",
+   "text": "As for growths in the bladder that need to be brought to a head, the best thing is to try to disperse them at their beginning, so that they do not turn to pus; but if this cannot be done, bring them to a head quickly with the [remedies] we mentioned for the kidneys too, and besides with cress with meal, and bitter vetch with honey, and pigeon dung with dried figs, and with the vapour baths, and with all the other things as stated there."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.2.1",
+   "text": "Most of them suppurate around the neck of the bladder and around the anus, and in that way hinder defecation; but they also suppurate elsewhere, some toward the lower belly, others on one side or the other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.3.1",
+   "text": "It is not hard to judge all of them by the pain, by the heaviness, by the pulse, and by palpating; for those about to suppurate become at once hard-fleshed, swollen and hotter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.4.1",
+   "text": "Those abscesses that incline inward also break inward; those turned outward also break outward, some toward the anus, others wherever they happened to incline."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.5.1",
+   "text": "These are dangerous [and, on the whole, fatal]; but more dangerous still are those that break inward: [for the pains] are acute, and the ulcers lasting, because the urine, being nitrous and salty, continually [touches] them; for even if [the urine passes] in very large amount, the whole bladder [cannot] be emptied, but some always [remains in it and] washes over the ulcers, and it is always full [of urine], having only so much [dilation] and contraction as it is naturally able to fill and [empty]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.6.1",
+   "text": "For this reason, and because it is sinewy, the ulcers in it are not healed at one stroke; and the pus is passed in the urine sometimes blood-tinged, at other times mucous and thick, and with sediments like meal; and sometimes thin membranes also come away with the urine; and it smells worst at those times when the ulcers are putrefying."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.7.1",
+   "text": "They are always in pain, but most of all when they begin to urinate and when they stop, and when the urine is undiluted; and they cannot bear either standing upright or lying in any position: for lying on the back gives them no great help, since the bladder hangs from the lower belly; lying on the side makes the bladder sag over, and lying face down presses on it more."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.8.1",
+   "text": "So from the unceasing pain, and from fevers, sleeplessness and wasting they perish, some more quickly, others more slowly, according to the size of the ulcers and the extent of the other ills."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.9.1",
+   "text": "Such are the sufferings of the disease. The treatment is the same as for ulcers in the kidneys; and here too the greatest [help] is milk-drinking and [the] rest of a wholesome regimen, so that the urine does not become sharp and bite and irritate the ulcers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.10.1",
+   "text": "Soothe [them] also with drugs: on the one hand, from outside, put cerates on the lower belly made with washed wool-grease, butter, storax and goose fat; on the other, inject into the urethra water, milk and rose oil, warmed; and again inject into the intestine [barley-gruel] juice, fenugreek, and cucumber seed with [milk, ground very fine], dropping some rose oil onto each."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.11.1",
+   "text": "One should not [give the clyster with the patient on his back; for] the bladders do not let the clyster in, since [they are hard and heavy] and lie on the intestine; but lay the person on his knees; for in such a posture the bladders move away and release the [intestine, so that] it takes in the clyster."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.11.12.1",
+   "text": "Have [him sit] often [in hot water] too, for this also soothes the pains; and anoint with the ointments as [stated there], and do the rest in the same way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.head",
+   "text": "12 (Aetius, 9). [On the bladder with stone.]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.1.1",
+   "text": "Stones formed in the bladder should at first be drawn out, if possible, with drugs; the drugs are horehound seed, root of horse-fennel, mugwort, fragrant chamomile, marjoram, dog's-tooth grass, and all that was mentioned earlier for the kidneys."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.2.1",
+   "text": "If they cannot be passed in the urine, cut from below; for in general large and hard stones form in the bladder, by which the bladder is ulcerated, and difficulties of urination set in, above all if they lodge in the urethra."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.3.1",
+   "text": "[So] if you do not wish to cut those whose stone has lodged, push it back with the tube; for the others it suffices either to shake [the patient] up on his back or to turn him to one side or the other; for so the stone will be dislodged, and the person will urinate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.4.1",
+   "text": "Standing upright they can hardly urinate, since the stone blocks the urethra."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.5.1",
+   "text": "Because of the pain, then, they are forced to squeeze their genitals, and at the same time get some help from doing so; for the passages of the urethra are closed off when the penis is stretched."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.6.1",
+   "text": "Since in many the bladder becomes ulcerated by the roughness and size of the stones, they pass bloody, purulent and mucous urine, and these suffer more than the others, both while urinating and while not urinating."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.7.1",
+   "text": "Those in whom ulcers have not yet formed, but stones are present, pass clear, thin and watery urine, and fine sand settles in their urine, and pains seize them as they urinate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.8.1",
+   "text": "When the signs mentioned are present, then, [one can] diagnose the bladder with stone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.9.1",
+   "text": "The method of probing is this: [having placed the] person on his back, tell him to bend his legs as far as possible, and having spread them apart as seems suitable, insert the fingers of the left [hand] as far as possible into the rectum, then feel the bladder with the [fingers], while someone else standing by presses [the lower belly until] you come upon the stone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.10.1",
+   "text": "It is enough to insert even one finger, if you are a physician experienced in handling such things, and have long fingers, and are probing a child, and the stone is not much larger than moderate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.11.1",
+   "text": "It is enough too to press the lower belly yourself with the right hand, and this will seem less troublesome both to the patient and to the one probing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.12.1",
+   "text": "Having got hold of the stone, draw it down toward the urethra, and when it has come there, then, holding it more firmly so that it does not slip away, make a transverse incision across the perineum; and if [the stone] is within reach, remove it with the handle of the knife, pressing it with the handle, which is rough and curved at the tip, as best suits the task; if not, using the instrument devised for such purposes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.13.1",
+   "text": "When cutting, do not make the cut too large; for there is danger of wounding the bladder itself in some way, which must be guarded against above all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.14.1",
+   "text": "Treat the incision as wounds dressed with lint."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.12.15.1",
+   "text": "This is the clearest diagnosis and treatment of stones in the bladder, and most who do it this way succeed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.head",
+   "text": "13 (cf. Aetius, 14, 15). Stones of the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.1.1",
+   "text": "It is no less necessary to know how stones form; for this helps with the subsequent regimen, and one who has learned the cause of the disease will find many preventives so that the bladder never forms stone again later."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.2.1",
+   "text": "A sufficient cause is if the water contains silt; for the silt, settling in the bladder, must solidify; and for these it suffices to drink the water strained."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.3.1",
+   "text": "Stones may also arise from other waters which are clean and without sediment, but colder and harder [than is right; these I consider] to be a filtrate of colder [earth], having for the most [part tested it myself]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.4.1",
+   "text": "Since the urine is thin and watery [in children more] than in men, the disease arises [in them]; and in many cases [they naturally drink] colder [water] than would [suit] someone grown bigger; and in those with poor digestion, distributions of raw [matter go] to the bladder, which, if they are not easily passed in the urine, solidify."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.5.1",
+   "text": "The urethra too, being narrow, [contributes]; for it does not admit all the sediment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.6.1",
+   "text": "Such are the indications that a colder bladder breeds stones; yet it is likely also that sediment in the bladder is sometimes dried up by some heat, just as wine lees and other silt outside [are]; but I have no other indications to state for this [form of the] disease, except perhaps the colour of the little chalky concretions; for they resemble baked potsherds."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.7.1",
+   "text": "Sometimes, then, it is beneficial to use the cooler diuretics, such as celery, and cucumber, and hyacinth seed, and asparagus, and the [seed] of the gillyflower, and the roots of saffron crocus, and the leaves of the violet; and to vomit regularly after dinner, and to take nothing fiery that will heat the bladder; and to work out a less strenuous regimen in other respects."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.8.1",
+   "text": "But where cold prevails, use the hotter diuretics, such as iris, and Ethiopian cumin, and the fruit of the balsam, and cinnamon, and cassia, and sweet flag, and spignel; avoid indigestion and surfeits; choose spring water that is clean, and wines that are tawny and fragrant; exert the body most eagerly, and [bathe rarely, but anoint oneself] frequently, and sometimes also be [rubbed] standing by the fire."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.9.1",
+   "text": "[Likewise] cold baths are beneficial, [but] hot ones [are altogether the worst]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.10.1",
+   "text": "[Do not move] the bowels in any of the [bladder] conditions, [and least of all] in the present ones; for if [they pass much] that way, the urine would become [saltier] and scantier."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.13.11.1",
+   "text": "[Such, then, are the measures] to be taken for the stone-forming bladder, together with some of those stated [for stone-forming kidneys]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.head",
+   "text": "14 (Aetius 22). On the scabby bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.1.1",
+   "text": "Bladders have also been seen to become scabby; [this is indicated] by urine that has rough, bran-like sediments, and by itching of the abdomen and of the lower belly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.2.1",
+   "text": "As the disease advances it also ulcerates the bladder and causes more pain, so that the [signs] of ulcers too would naturally accompany it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.3.1",
+   "text": "By these [signs] the disease is indicated; those undertaking its treatment should know that it is not wholly curable, but should nevertheless try to relieve it as far as possible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.4.1",
+   "text": "Order [the patient] to abstain from things that bite and that make the humours sharper and saltier; give sweet wines and milk, and broth of fowl, or of kid, or of lamb, and an infusion of dates, and fine wheat flour, and starch, and gruels, and pulse soups, and soft-fleshed fish, all boiled, and those vegetables that promote urine but bite least, such as boiled carrots, and samphire, and fennel, and alexanders, and asparagus, and cucumbers, and any others; for the bladder must be cleansed with diuretics, but rather gently; for there is a danger of ulcerating it with stronger ones, which is worse than anything."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.5.1",
+   "text": "Good diuretics, then, are also crabs, and pinnas, and limpets, and the flesh of the urchin, both the land [hedgehog] and the sea [urchin], and cicadas."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.6.1",
+   "text": "Nor is it unsuitable to sup boiled fenugreek [with honey; for] this too blunts irritations, and if it is [diverted to the] bladder, it is [gentler] to the scabs; and tragacanth [does the same; and they are glad] also to drink an infusion of myrtle with wine, [or an infusion of quinces], and of wild pear, and of some other [astringent] fruit; [for it helps against] itching."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.14.7.1",
+   "text": "These, then, [are soothing for the condition; but one must] make [the patient] as well-humoured as possible by regimen, [exercising him] in moderation and applying steam baths, and ordering him to vomit from time to time, [and] flushing [him] with whey; for if he is not relieved in this way, he is not [relieved] by other means."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.head",
+   "text": "15 (Aetius 24). Paralysis of the bladder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.1.1",
+   "text": "Since the bladder also becomes paralysed, it seems to me necessary to find some cure for this disease too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.2.1",
+   "text": "It is paralysed sometimes when the hips are powerless, sometimes [when] the lower back [is]; and in a woman also when the womb is numbed; but it is also paralysed on its own."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.3.1",
+   "text": "They suffer the following: in some the urine cannot pass unless you insert a catheter; in others it passes, but without sensation; and in some it is discharged all at once without their foreseeing anything; in others it drips constantly; and the genitals do not become erect, and stool is not held back."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.4.1",
+   "text": "In time they also waste in the abdomen, and lower back, and hips, and legs; they have no pain in the bladder, but they have pain in the lower belly, and the flanks, and the kidneys — those, that is, whose urine will not pass, since in the others all [these parts] are without sensation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.5.1",
+   "text": "Such are the sufferings; the treatment is more exertion of the lower parts, by running, and walking uphill, and rubbing the buttocks, and lower belly, and loins, both by oneself and by others; it is better if the ointment is also cucumber oil, and iris oil, and laurel oil, with castor mixed in; it also helps to rub with soda and vinegar, [and to moisten the parts with sweet-must] unguent, and [to soothe] with *kachrys* and [wool-grease] cerate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.6.1",
+   "text": "Castor, [if applied] to the other [diseases of the bladder], also gives greater and more evident [benefit to the patient, so] that it suffices for some even to drink it, and also if, having first emptied [the belly], you [then] flush [the intestine] with it, and if you [inject it] through the urethra."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.7.1",
+   "text": "[One should] also use the other, stronger enemas; [such] enemas are an infusion of wild cucumber and of [black] hellebore, and of nigella, and of centaury; for they are beneficial for sensation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.8.1",
+   "text": "These are injected into the anus, but keep them away from the urethra; for there is a danger of ulcerating it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.9.1",
+   "text": "One should also frequently plaster the lower belly and the lower back all round with boiled resin, and warm [them] continually with mustard, and order [the patient] to swim in the sea and in hot springs, and to sweat the whole body, and give drinks that both heat and tend towards the bladder, such as the fruit of the chaste tree, and the root of Heraclean all-heal, and spignel root, and Ethiopian cumin, and wild thyme seed, and wormwood tops with Celtic nard."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.10.1",
+   "text": "Vomiting that draws off phlegm is also good, and hellebore treatments."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.11.1",
+   "text": "After such evacuations, anoint the lower belly and the lower back with [juice] of *thapsia*, especially if they are wasting, and soothe the swollen parts with cerate, and apply fragrant emollients."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0564.tlg001.1st1K-grc1.15.12.1",
+   "text": "Weak bladders that cannot hold the urine for long, treat both by exercising and by rubbing, as was said for paralysis; do not give diuretics, but try the same applications and an otherwise [warmer] regimen; for by heat all things become controlled, while cold is most [incontinent] for the bladder."
+  }
+ ]
+}

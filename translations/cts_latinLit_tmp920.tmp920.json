@@ -1,0 +1,519 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp920.tmp920",
+ "edition_urn": "urn:cts:latinLit:tmp920.tmp920.ai-claude",
+ "source_edition": "tmp920.tmp920.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Epistolae: AI translation (Claude)",
+  "author": "SS Simplicius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp920.tmp920.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp920.tmp920.opp-lat1.head": "Letter I: the edition corrects 'Spalensem' to Hispalensem (Seville). Letter II: 'parium' read as paritum (obeyed); 'ecclesiro' in Letter III read as ecclesiae. Letter III: Aufinum (variant Offinium) is uncertain of location. Letter IV: the Verdun codex addresses it to Basiliscus, which fits the events (Timothy Aelurus' return c. 475-6) better than Zeno.",
+  "urn:cts:latinLit:tmp920.tmp920.opp-lat1.13": "Line 15: the dating consuls are Basiliscus and Armatus (476); 'Armato' is supplied by the edition. Line 22: 'imo et am donec venialia' is corrupt; read as 'immo etiam donec veniant alia' ('indeed until others arrive'). Line 24: 'vitam in Domini voluntatem' is obscure, perhaps for 'vitam in Domini voluntate'; rendered tentatively. 'Cadere didicit qui resultat' is translated literally; sense uncertain. 'Madusius' not identified.",
+  "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab22": "Summary of Letter VIII: 'MOt suæ' read as 'sedi suae', 'et eonis' as 'et Leonis'. In Letter VIII, the clause 'quod iniquitas temporum, et eos quos ... concitavit' is syntactically broken; a verb such as 'decreed' has been supplied in brackets. 'a fonesto' read as 'a funesto' (deadly). Summary of Acacius' letter: 'Patri Moggi' read as 'Petri Mongi'. Acacius' account of Peter's ordination ('ita ut propter hoc majoribus suppliciis subderetur') is obscure and possibly corrupt. In Letter IX, 'tuae constituens potestati' is awkward and possibly corrupt (perhaps 'suae'); the sentence is anacoluthic. 'tUo viro clarissimo consule' read as 'Illo' (Illus, consul 478). The alternative readings in square brackets are the edition's variants and are rendered as such.",
+  "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab33": "The edition numbers the letter to Zeno as 'XIII' as well as the following one to Acacius; it follows XI, so it is rendered as XII. Letter X: 'stans' read as 'status'; 'cuhui' as 'cultui'; 'lumen nt' as 'tamen ut'; the subject of 'per nos serio postulat' is unstated, presumably Timothy. The sentence 'unde tam praeclarae fructum ... facio' lacks an object; 'gratias' supplied from what follows. Letter XI is corrupt in places: 'eorum qui pariter repente diabolo jamdudum turbantur' and 'expertus erga se ... nunc divinae miserationis affectum' are rendered by sense and are uncertain; 'altuna' read as 'altaria'; 'religione' read as 'regione' (as the edition suggests); 'zelo fiei' as 'zelo fidei'. In Letter XII, 'viro charissimo consule' omits the consul's name; the date of the next letter shows it is Illus.",
+  "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab44": "Letter XIV: 'junrta' read as 'juncta'; 'repcn is' is garbled (perhaps 'rependens' or similar), translated loosely as 'in these words'; 'tantus' read as 'tantas' and 'notia' as 'noxia' ('harmful'). The subject of 'meruit vindicare' is unexpressed; taken as the emperor. Letter XV: 'rel. rre' read as 'referre', 'submittere' as 'submitteret'; 'veniale judicare non pervides' appears corrupt, and is rendered by the evident sense ('you judge pardonable'). Pagi's note: 'iict 13' read as '12 et 13', and 'anno 473' as 478 (the consulship of Illus), to match the preceding letter; Pagi gives the consul of 481 as both Placidus and Placidius. Letter XVI: the Timothy whose death is mentioned is presumably a bishop of Alexandria (Timothy Salofaciolus), not Timothy Aelurus; this is not certain.",
+  "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab57": "In XVII the edition's bracketed variants (latitare, quondam, proinde) are followed. In the fragment to Zeno, 'expetit' is read as 'non expetat' in sense ('should not seek'); the editor suggests 'exspectat'; 'religionis' appears to lack a noun. In XVIII 'excusabiles' is read with the editor's 'inexcusabiles'. In the Holstenius letter, 'Timotheos' is taken as Timothy (Aelurus); the quotation of Psalm 8:3 has 'defensor' where the psalm has 'ultor' (avenger); 'irrogavit' has no expressed object beyond 'vim... lapsus exsiliis', read as 'violence, ruin(s) and exile'. The identities of Paul of Ephesus, Antony and John of Apamea are not further specified in the text.",
+  "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab71": "Line 53: 'laborare poterit' is rendered 'labour in vain' as the sense requires; the printed text may have lost a word such as 'frustra'. The date 'post consulatum Basilisci et Armati' with year 477 follows Pagi's own reckoning. Scanning errors silently corrected (e.g. 'Cctob.', 'dirersis', 'reclce filei' read as recte fidei, 'x!' read as ut)."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.head",
+   "text": "LETTERS OF POPE SIMPLICIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab1",
+   "text": "LETTER I."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab2",
+   "text": "FROM POPE SIMPLICIUS TO ZENO, BISHOP OF SEVILLE [more correctly HISPALENSEM]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.1",
+   "text": "On the vicariate of the see entrusted to him in all the churches of the Spanish provinces. He appoints the bishop of Seville, an excellent man, vicar of the apostolic see."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab3",
+   "text": "Simplicius to his most beloved brother Zeno."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.2",
+   "text": "We have learned from the report of very many that you, beloved, through the fervour of the Holy Spirit, are such a pilot of the Church that, with God's help, it feels no losses from shipwreck. Glorying, therefore, in such evidence, we have thought it fitting that you be supported by the vicarial authority of our see; fortified by its strength, you are in no way to permit the decrees of apostolic institution, or the boundaries set by the holy Fathers, to be overstepped. For he through whom divine worship is known to have grown in those regions deserves to be loaded with a fitting reward of honour. May God keep you safe, dearest brother."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab4",
+   "text": "LETTER II"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab5",
+   "text": "FROM POPE SIMPLICIUS TO JOHN, BISHOP OF RAVENNA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.3",
+   "text": "He rebukes John for having ordained Gregory bishop by the use of force; he directs Gregory to govern the church of Modena, without having any dealings with John."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab6",
+   "text": "Bishop Simplicius to John, bishop of Ravenna."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.4",
+   "text": "If there were any regard for church discipline, or if any priestly restraint were kept by you, punishable excesses would never be committed. If you could not be held back from them by any precept of the fathers' rules, you should at least have been recalled by the example of your predecessor of holy memory. Although he had offended less, by making a man a presbyter against his will, he nevertheless received a judgement fitting for such a usurpation. Where did you learn these things which you have committed against our brother and fellow bishop Gregory, not out of choice but out of malice, allowing him to be dragged to you with inexcusable violence and harassed, so that you might impose an honour on him not through calmness of mind but through madness (as it must be called)? For such things could not have been done with sound judgement. We do not wish to dwell on what is deserved, lest we be compelled to pass the judgement that is deserved. For he who abuses the power granted to him deserves to lose his privilege. But one consideration makes us of a milder sentence, which we preferred you to learn from the report of our brother and fellow bishop Projectus, rather than to publish it in our letter, because of the disgrace. For our moderation has so checked the scandal, of which you are known to be the author, that my brother and fellow bishop Gregory (who, it is clear, was not promoted but driven out) is to govern the church of Modena, having no dealings with you (as he requested), and is not to refuse to embrace the spiritual [variant: special] fellowship which he ought not to have received against his will. If any business should perhaps arise concerning him, let our examination be sought, whether by him or against him. We will also provide for the hardships which he is forced to endure (through your doing) by this ruling: that the estate which he states was given him a year ago having been given back and returned to the church of Ravenna, a property in the territory of Bologna, yielding thirty solidi of free revenue, shall be handed over to him without hesitation, namely for the term of his life, saving the right of ownership of the church of Ravenna, to which it will revert after his death. If our decisions are not obeyed, you yourself can weigh what awaits the obstinate after transgression. We give notice, moreover, that if hereafter you presume anything of the kind, and think fit to make anyone a bishop, or a presbyter, or a deacon against his will, you are to know that the ordinations of the church of Ravenna and of Aemilia will be taken from you. Given on the third day before the Kalends of June (A.D. 482), in the consulship of the most distinguished Severinus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab7",
+   "text": "LETTER III"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab8",
+   "text": "FROM POPE SIMPLICIUS TO THE BISHOPS FLORENTIUS, EQUITIUS AND SEVERUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.5",
+   "text": "Gaudentius, bishop of Aufinum, is deprived of priestly function on account of unlawful ordinations he has made, and of three parts of the church's revenues."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab9",
+   "text": "Bishop Simplicius to the bishops Florentius, Equitius and Severus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.6",
+   "text": "The report of you, beloved, has informed us, and the record of the proceedings has made fully known, that Gaudentius, bishop of the church of Aufinum [Burchard: Offinium], has carried out unlawful ordinations against the statutes of the canons and our instructions; we order that all power of ordaining be entirely taken from him. For we have written to our brother and fellow bishop Severus that (if need be) he himself, having regard to the rules of the Fathers, should perform in that church this office which the other has been convicted of abusing; so that those who were unlawfully promoted by him are removed from church ministries. At the same time, concerning the revenues of the church or the offering of the faithful, he is to permit nothing to one who does not know what is fitting, but only a fourth [one] portion of them is to be left to him. Two [portions], to serve the church buildings and the relief of strangers and the poor, are to be administered by the presbyter Onager [Bonager], at the peril of his rank; the last is to be divided among the clergy according to the merits of each. As for the church vessels which we find to have been alienated, the presumptuous man is to be compelled by the insistence of the aforesaid brother to restore them; on whom we also specially lay the duty of seeing that he restores those three portions which he is said to have claimed for himself alone for three years. Given on the thirteenth (fourteenth) day before the Kalends of December (A.D. 475), after the consulship of Leo Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab10",
+   "text": "LETTER IV"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab11",
+   "text": "FROM POPE SIMPLICIUS TO ZENO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.7",
+   "text": "He asks him to restrain by royal power Timothy Aelurus, who was trying to seize the see of Alexandria again and secretly to spread his heresies at Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab12",
+   "text": "Bishop Simplicius to Zeno Augustus [to Basiliscus in the Verdun codex]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.8",
+   "text": "I would indeed wish, as far as concerns the judgement of my devotion, by which I hold Christian princes in constant reverence, to offer the duties owed to your piety in continual conversation. But since concern for sacred religion is also added to increase this intention, the claim of a weightier matter presses upon me, that I should at once pay you honour with a willing mind and faithfully set out the matters at issue: for to both I am either drawn by my ever devoted affection for your clemency, or compelled by regard for my office and the care of apostolic governance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.9",
+   "text": "Having performed, then, the duty of greeting, most glorious and most clement son, emperor Augustus, I neither ought nor am able to keep silent about the scandals which are said to be stirred up again in the churches of the East by the robberies of heretics. For as the letters of monks fervent for the catholic faith have brought to my notice, I have learned that the parricide Timothy, who formerly laid waste the Egyptian church, and who, like Cain (as divine scripture is read [Gen. 4]), was cast out from the face of God, that is, shut out from the dignity of the Church, and, already wandering through deserts and about to suffer for a long time the torments of a wicked conscience, was led away into the exile of his own error, has, rekindling the fires of his former fury, nevertheless gathered bands of lost men, and, himself bloodstained, has now again invaded the church of the city of Alexandria, which he earlier stained with priestly blood, by driving out the lawful bishop: so that the humiliation of banishment, which ought to have pricked him to repentance for the impious things he had done, seems rather to have given him leisure for nourishing a more atrocious madness; by which, without doubt, he is shown to be far more detestable than Cain himself. For Cain, once condemned, abstained from the crime he had committed once; this man advanced to greater crimes after punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.10",
+   "text": "Not content, however, with this limit to his crimes, he is said to have boldly entered in addition the city of Constantinople, always burning with love of right doctrine (so that the ravager of human salvation might leave nothing undefiled), and to have gladly heard from the partners of his depravity the cry due to Christ alone, by which he was plainly shown not as blessed coming in the name of the Lord, but evidently as an Antichrist, usurper of the divine summit. Although he had been so laudably excluded even from catholic communion, he is reported to have celebrated, in certain private houses, with hands spattered with human blood, not divine sacrifices but sacrileges; by which his reception was certainly not confirmed, but the treachery of his accomplices was made public, since they will fall in every way together with him, unless they come to their senses, from that seat of iniquity which, like the devil his father, who made himself like the Most High, he faithlessly never ceases to build for himself to his eternal ruin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.11",
+   "text": "Venerable emperor, while my mind shudders that these things were even attempted by so great a gladiator, I am nevertheless held, I confess, in the greatest astonishment that they could have been committed under the eyes of your piety. For who either does not know or doubts that your clemency's mind is ever devoted to God and given to orthodox rules? For by the disposition of providence above, just as you were trained for the public good by the virtues of Marcian and Leo of august memory alike, so you were also instructed by their convictions towards catholic truth; nor can anyone at all doubt that your piety follows the faith of those whose empire you have succeeded to. Since these things about the mind of your tranquillity are held by all as certain and fixed, far be it that in your times the integrity of divine worship, and the purity of the catholic faith, strengthened from of old, should be thought liable to interference."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.12",
+   "text": "Look, I beg, to the divine benefits, and weigh what has been bestowed on you; and, so that this prosperity may endure, judge that the author of the gift must be propitiated, not offended. For among whatever public occupations, a religious prince must take the greatest care of that which protects his rule; and the rightness of heavenly observance must be preferred to all things, without which nothing stands rightly. Abundant documents agreeing with the decision of our forebears are amply available to your clemency (if it orders them to be sought in the archives of its palace). For it is not to be believed that what was spread through all the provinces of the East from the citadel of your empire escapes your knowledge: namely, those replies which my predecessor of blessed memory, Leo, sent either to Marcian and likewise Leo of august memory, or to the council of Chalcedon, in which he set out the mystery of the Lord's incarnation so fully and clearly that anyone who does not plainly recognise there the grounds of his own redemption cannot be called not only a catholic, but not even a Christian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.13",
+   "text": "Certainly, so that you may not lack easy and necessary instruction, I have sent copies of those same letters to our brother and fellow bishop Acacius, to be offered to your consideration. If your piety deigns to review these, or what the bishops of the whole East wrote back about their agreement with this teaching, it will surely see that they were carefully examined and truthfully promulgated, and therefore must in no way be assailed by the windings of pestilent falsehood. For truly, what has flowed pure and clear from the most pure fountain of the Scriptures cannot be shaken by any arguments of cloudy cunning. For this same rule of apostolic doctrine endures in the successors of him to whom the Lord entrusted the care of the whole sheepfold, to whom he promised that he would not be absent until the end of the age, and that the gates of hell would never prevail against him; by whose sentence, he testified, what was bound on earth could not be loosed even in heaven (Matth. XVI)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.14",
+   "text": "Therefore I pray and beseech your clemency, whom my brother and fellow bishop Acacius will entreat more earnestly in my place, that, becoming imitators of so many and such great predecessors, and rejecting with a catholic heart the workers of this abominable presumption, you resolve that they be restrained by royal power. Whoever (as the Apostle foretold) strives to sow anything other than what we have received, let him be anathema (Galat. I). Let no access to your ears be opened to minds that creep in with ruinous intent; let no confidence be granted of reconsidering anything of the old ordinances. For (as must be repeated often) what has deserved to be cut off by apostolic hands, with the assent of the universal Church, by the edge of the evangelical sickle cannot take the strength to be born again; nor can what is established as assigned to eternal fire return to the fruitful offshoot of the Lord's vine."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.15",
+   "text": "If, then, the contrivances of all heresies, laid low by the decrees of the Church, are never allowed to renew their struggles once crushed by attack, above all I ask that the see of blessed Mark the evangelist (I mean the Church of Alexandria), freed from the occupation of a most bloody robber, be restored to a catholic bishop, and recover its freedom and its peace together. But let the impious parricide, who is guilty under divine and human laws alike, be brought back to the same state into which he had earlier been thrust by right, and be drawn away from the slaughter of innocent souls; let the poisons of that deadly head depart far from the realm of your piety. Since, with ears stopped against saving preaching, they could not take in healing words, let them, removed from the ruin of human society, waste away in a solitude fitting their virulence. All the more, by the voice of the blessed apostle Peter, I, such minister of his see as I am, adjure you not to let the enemies of the ancient faith rage unpunished, you who wish to have your own [enemies] subject to you; that you decree that all the Churches of the Lord keep the peace of the true confession, you who desire to hold the world of your empire at peace; and that you allow the one hope of salvation, which leads mankind to the heavenly kingdom and to eternal life, to be violated in no part, you who desire God to be favourable either to your kingdom or to your salvation. Given on the fourth day before the Ides of January (A.D. 476), in the consulship of Basiliscus Augustus [and Armatus]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab13",
+   "text": "LETTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab14",
+   "text": "OF POPE SIMPLICIUS TO ACACIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.16",
+   "text": "He writes to Acacius that he should resist Timothy with every effort, so that the universal council which Timothy was pressing for with the emperor should not be held."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab15",
+   "text": "Pope Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.17",
+   "text": "As has been revealed by the report of priests and of monks serving the Lord from various monasteries, the devil is again disturbing the Churches of the Lord, so that, the bishop of Alexandria having been driven out, a heretic, condemned by the whole [Church], is said to have occupied the very place from which he had been expelled; moreover, with certain people favouring him, he dared to make his way to Constantinople, so that the city of Christian princes, outstanding in devotion to the truth of the catholic faith, and the Christian people, attentive in defence of religion, might be troubled by the depravity of heretics, which had already been laid to rest. But the mercy of God, whose cause it is, was not lacking, so that Timothy, who had been justly separated from the universal Church by the sentences of bishops and the decrees of emperors, was not permitted to approach the church of your beloved self, or the thresholds of the houses of the faithful. We have learned that he threatens new assemblies on his own behalf, supposing that what universal authority decreed about him can be undone. Therefore, since, with the teaching of our predecessors of holy memory standing, against which it is wrong to dispute, whoever appears to think rightly needs no instruction by new assertions, but everything is plain and complete by which one deceived by heretics can be taught, or one to be planted in the Lord's vineyard can be instructed, appeal to the faith of the most clement prince and cause the call for holding a synod to be rejected; and let not your representation to the ears of the Christian emperor be sluggish, for Christ is his salvation and the strength of his kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.18",
+   "text": "So, together with the aforesaid priests and monks, entreat his piety at a fitting time in our name too, and convey this embassy to his clemency on our behalf as well, so that nothing may creep in: let him be instructed by the prayers of all alike, so that the enemy may not, amid public business, contrive any plots against the peace of the Church; let him grant that the Church of Alexandria be restored to its integrity, and drive the enemy and parricide from the see of blessed Mark the evangelist; and let him graciously inquire in the inner chambers of his palace how the integrity of the catholic faith is held. Lest these [documents] perhaps be corrupted by some fraud of the rivals of the faith, although they can be found in the archives of your church, we have nevertheless sent copies, which you will arrange to be offered to his piety."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.19",
+   "text": "For let them recognise what is known and celebrated among all the authorities there: what my predecessor of holy memory, Leo, wrote in reply to the inquiry of Leo of august memory, and how reverently it was received. Thus let him show himself (as we trust) an imitator of the faith of him whose empire, by God's favour, he is the more worthy successor of; and let him consider written to himself whatever was handed down to princes before him in pious reading. For this is perpetuity, and posterity to be extended through the succession of a reign, if what descends from the predecessor is found in the successor."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.20",
+   "text": "I urge you therefore, dearest brother, that the attempts of perverse men to hold a synod be resisted by every means. A synod has always been summoned only when something new has arisen in depraved minds, or something doubtful in the assertion of doctrine, so that, as they deliberated in common, the authority of episcopal deliberation might illuminate any obscurity there might be; as first the impiety of Arius, and then of Nestorius, and lastly of Dioscorus and Eutyches compelled to be done. And (may the mercy of Christ our God and Saviour avert it!) it must be made known that it is abominable, against the sentences of the Lord's bishops throughout the world and of the rulers of both [empires], to restore condemned culprits, to bring back exiles, and to absolve those banished on account of a wicked conspiracy. Therefore (as must often be repeated) humbly make all these things known to his most clement ears. Without doubt God will come to your aid, in whose hand [the emperor], holding that the king's heart is placed, knows no other source of his power. Given on the fifth day before the Ides of January [another reading: the sixth day before the Kalends of February]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab16",
+   "text": "LETTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab17",
+   "text": "OF POPE SIMPLICIUS TO ACACIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.21",
+   "text": "He commends Acacius because no church in Constantinople was opened to Timothy Aelurus, and urges him to warn the emperor not to allow the decrees of the council of Chalcedon to be violated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab18",
+   "text": "Bishop Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.22",
+   "text": "Since our sons, the illustrious man Latinus, patrician, and the distinguished Madusius, were being sent on a public embassy, we could not neglect what we care for with all our attention. For recently, when the complaint of priests and monks had come about Timothy, long ago separated from the universal Church, we wrote both to the most Christian prince and to your beloved self, dearest brother, that he should resist by every means lest the audacity of heretics contrive anything against the council of Chalcedon; and, praising the constancy of your beloved self, we said that it greatly pleased us, or rather the Lord himself, that you permitted a man condemned not only on account of the faith but also of parricide to enter no church in Constantinople. We now admonish this again: when these writings reach your beloved self, and indeed until others arrive, do not cease to act humbly and make representation before the most Christian prince, in our name too, that what has so often and so well been decreed be violated by no underhand means; for it is the sure and singular support of his reign, before the true and eternal King, to keep inviolate the council of the bishops assembled by the divine Spirit in the cause of the faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab19",
+   "text": "LETTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab20",
+   "text": "OF POPE SIMPLICIUS TO THE PRIESTS AND ARCHIMANDRITES OF CONSTANTINOPLE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.23",
+   "text": "He commends the constancy in faith of the clergy and monks living in Constantinople, since they did not admit Timothy to communion; and he shows that Timothy, having been often condemned, is not to be listened to."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab21",
+   "text": "Bishop Simplicius to the priests and archimandrites established at Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.24",
+   "text": "Having received the letter of your beloved selves, later than you wished, through our son the praiseworthy man Epiphanius, we were moved with great sorrow that fires of scandal are breaking out again there within the Church of God, where they were extinguished by the authority of the apostolic see and the sentence of a universal synod. For to whom in the whole world is the condemnation of Nestorius, Eutyches and Dioscorus, together with the perversity of their abominable doctrines, not known? To whom is the deposition of Timothy, the usurper of the Church of Alexandria, again not known? The earlier council of Ephesus is witness, the recent council of Chalcedon is witness; whoever wishes it to be reconsidered declares that he is not to be counted among the faithful, since the impiety of the aforesaid authors was struck by the condemnation of a united sentence, and by Christian princes separated not only from the body of the Church but, through various exiles, from the company of all. Nothing now needs to be said about their error; for after the tradition of so many bishops of the Lord, who long before us overcame these heresies too in every part of the world, our predecessor of blessed memory, Leo, in manifold discourses of doctrine set out what the integrity of catholic truth follows and what it detests. With this teaching as foundation, there is no need of contention, as though judgement were still to be made about doubtful matters. But, as we rejoice that your beloved selves are doing, stand with firm steps against the deposed; and let not the adversary frighten you, nor think that victory from above comes slowly. He who rebounds has learned to fall. We have written this briefly to your charity in reply to your inquiry, or rather for your consolation, wishing to send some [envoys], as you desire, because of the needs of the case, were it not that for complete fullness, not of defending the faith, which has been solidly laid, but of repelling heretics and condemned men, those writings suffice which you remember my predecessor of blessed memory wrote to Flavian of holy memory, and to the holy synod of Chalcedon, or to Marcian and Leo of august memory, and which the bishops of the whole East made known in their own replies to the prince Leo at that time. Hence there is no doubt that it cannot be undone, whether what so many bishops of the Lord decreed earlier, gathering into one, or what they, each established in his own Church yet holding the same, said with different voices but one mind, condemning the authors and followers of those execrable [doctrines] alike. Wherefore, among so many forms of preaching that have been set up, one must strive not with new assertion but with constancy. It has already been proved what your labours have achieved, with the Lord helping you; the fruit pleasing to God shows it, when, through your opposition, the robber was not allowed to enter his house, who, as some came to meet him, perhaps made public those like him who were still hidden. For good things are not joined to the worst, right things to perverse, nor can the wholesome unite with the harmful: for light has no communion with darkness, nor the unbeliever a share with the believer. Hence those who have chosen the fellowship of such men will necessarily share the end of the condemned; unless perhaps, coming to their senses, and especially those recently deceived, seeing to what precipices they have been led, they shake off the cloud of falsehood and betake themselves to the splendour of the true faith. That this may come about through the piety of the apostolic see we desire, since we know [this] to be life in the will of the Lord; and we have at the same time sent fitting letters to the most Christian prince, and to our brother and fellow bishop Acacius, whose silence we do not think should be blamed, for knowing the faith of this most approved bishop, we hold it certain that what he kept silent was not of his own doing. And so that your beloved selves may know more fully the content of our letters which we sent to the most Christian prince, we have sent copies by the messenger you sent, on his return. Given on the third day before the Ides of January, in the consulship written above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab22",
+   "text": "LETTER VIII"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab23",
+   "text": "OF SIMPLICIUS TO THE EMPEROR ZENO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.25",
+   "text": "He congratulates him on the recovery of the empire, and urges him to restore the bishop of Alexandria to his see, and to have the decrees of Leo and of the council of Chalcedon observed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab24",
+   "text": "Bishop Simplicius to Zeno Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.26",
+   "text": "Among the works of divine providence, which are always holy and just, scarcely any human tongue will be able to tell the mighty deeds of the Lord in our own times too. For who could either embrace in thought or express in speech the fact that, at the very crisis when both [church and state] were in distress, it restored you both to the public prayers and to the peace of holy religion? We can only cry out with the prophet, in contemplation of so great a miracle: This is the change of the right hand of the Most High (Ps. 76), which mightily humbles those who exalt themselves, and mercifully exalts those who humble themselves. And if the measure of the heavenly dispensation in these events is weighed more shrewdly, it plainly appears that the ruin brought by the faithless crept in so that the faith of your clemency might be proved even amid adversity; and that the more you were believed to be pressed by hostile circumstances, the more brightly your magnanimity might shine forth; and that for this reason your mildness departed from the city of Constantinople, so that you might return with greater glory, sought after by the longings of all; so that from the dangers brought by your opponents, what was in you that was of benefit to all might be recognised. This was surely after the example of that virtue of David, by which, yielding a little with singular patience to the fury of a parricide, he was soon, besought by the prayers of the peoples, restored to his kingdom in victory and in more eminent dignity. Rejoice therefore, venerable emperor, that those were your enemies who proved to be the enemies of the Godhead; and be glad that you suffered together with the Church, and that the empire was restored together with the freedom of the catholic faith; and, so that you may show in all things that your cause is common with God's, press on, relying manfully on his aid, so that he through whom [you] subdued the usurpers of the state may also drive out the tyrants of the Church. For just as your piety rightly and properly trusts that at that time we besought our God in supplication for nothing else than that such rulers of the Roman empire as we are now addressing might be restored to us, so you see that it is expected that you will show by the quality of your very deeds that you are such. Look, I beg you, at the constancy in catholic devotion, conspicuous to the whole world, of Marcian and Leo of august memory; and weigh with wholesome consideration that, since those who departed from their uprightness could not stand in the same place, the legitimate successor of the royal power, and the one granted by God, will without doubt be he who has persevered as an imitator of their faith. You owe, most glorious and most clement son and emperor, reverence to such great men of august memory; you owe a return for the gifts of God. He brought you back to the empire of these men: render to God a service like theirs. And since these things, which blessed Peter the Apostle teaches us and my humble self has lately preached, were rejected by those who were destined to fall, let them, with God's favour, bear fruit in those who will remain in firmness of rule. Indeed, receiving in the letter which your clemency sent an immense pledge of venerable religious devotion, I both breathe again with great rejoicing and have no doubt at all that your mind will carry out in divine matters things far better than I wish; but, mindful of my office, I exhort your clemency on this point with a lengthier address for this reason, that out of concern alike for your empire and for your salvation I always desire you to hold fast to those causes by which alone both the stability of the present reign is guarded and the glory of the eternal one is won. Hence above all I pray that you decree that the church of Alexandria, freed by the dispositions of your clemency from the deadly no less than from the heretical usurper, be restored to its catholic and legitimate bishop; and that, those whom he is said to have ordained to various churches with diabolical rashness being expelled, you appoint bishops of the right faith in their place: so that, just as you have purged your state of tyrannical domination, so you may everywhere strip the Church of God of the robberies and contagions of heretics; and do not allow that to prevail which the iniquity of the times and those whom a spirit rebellious not only against your rule but also against God stirred up [decided], rather than what so many and such great bishops, and the consent of the universal Church together with eminent and orthodox bishops, have decreed. Order the decisions of the synod of Chalcedon, and those things which my predecessor Leo of blessed memory taught thoroughly with apostolic learning, to remain in force inviolate; for what has been laid to rest by their definition can in no way be reopened, nor can one so often condemned with one voice on every side be in any way received. For this, as you have experienced, is the catholic faith, which when injured put down the mighty from their seat, and when guarded preserved the humble to be exalted. Wherefore your piety must take every care that he who is the author of this gift to you may himself also be its propagator. Given on the eighth [another reading: seventh] day before the Ides of October (A.D. 477), after the consulship of Basiliscus and Armatus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab25",
+   "text": "LETTER"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab26",
+   "text": "OF ACACIUS TO POPE SIMPLICIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.27",
+   "text": "He informs Simplicius of the state of the church of Alexandria, writing that through the death of the heretic Timothy and the flight of Peter Mongus, the disturber of that same church, peace has been restored to the Church, and Timothy has been restored to his see."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab27",
+   "text": "To the most blessed lord, holy father, archbishop [another reading: patriarch, bishop] Simplicius, Acacius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.28",
+   "text": "Carrying about the care of all the churches, according to the Apostle (2 Cor. 11), you urge us on unceasingly, although we are watchful and forward of our own accord; but you show divine zeal, as is your custom [another reading: you show yourselves anxious with divine zeal], inquiring more exactly into the state of the church of Alexandria, so that you may take up the labour on behalf of the canons of the Fathers, dripping with most holy sweat for them, as has always been approved. But Christ our Lord, who works together for good with those who love him (Rom. 8), presiding over our thoughts, and knowing that we have one and the same mind in these matters for his glory, himself accomplished the whole victory, making us partners with the most serene prince; and Timothy, the predecessor, breathing out storms and disturbing the peace of the Church (as was evident), he removed from human life, saying to him: Be silent and be still (Mark 4). Peter too, who had likewise risen up from Alexandria in the manner of a storm, he scattered and turned to everlasting flight (as the Holy Spirit blew), he too being one of those who had formerly been condemned. For as has been found in our archives [another reading: councils], you too will be able to learn from your own record-office, if you deign to inquire, what followed concerning him at the time, and was reported between the bishop of Alexandria and Rome. This Peter, being a son of night and showing himself a stranger to the shining works of day, finding the darkness entirely suited to carrying out robbery, [and being] its co-worker, at midnight, while the corpse of the man who had subverted the canons of the Fathers still lay unburied, crept into the see [another reading: seized the see], as he himself thought, with one single [bishop] present, and that one a partner who shared in his madness, so that on this account he was to be subjected to greater punishments; nor did what he hoped for come about. But he, passing judgement on himself in even the smallest part, has entirely disappeared and been seen nowhere. Timothy, however, the guardian of the canons of the Fathers, who submitted after the example of David's mildness and was patient to the end, and has been restored by Christ to his own authority, rejoices in the honour of his own see; and, receiving the voices of his spiritual sons, awaits the grace of healing, his honour being multiplied in him by Christ the prince of bishops, for whose sake he also bound on himself the crown of endurance. Let your blessedness therefore pray more earnestly both for the most Christian emperor and for us ourselves. For nothing is neglected of what pertains to the safeguarding of church discipline. Both I and those with me greet the whole brotherhood that is with you in Christ. And in another hand: May you be preserved in the Lord, most holy and most blessed father [another reading: pray for us, most just father]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab28",
+   "text": "LETTER IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab29",
+   "text": "OF POPE SIMPLICIUS TO ACACIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.29",
+   "text": "He rejoices that Timothy, the catholic bishop of Alexandria, has been restored to his church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab30",
+   "text": "Bishop Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.30",
+   "text": "How effective is the perseverance of bishops who make supplication to the Lord, and with what joyful affection he welcomes the zeal shown with sincere minds in defence of the faith, is recognised from the letter of your beloved self, since after such great struggles, in which the mercy of God, in the cause of its own religion, placing [its] servants and ministers under [its] power, made them most approved victors for itself; for you testify that the church of Alexandria, at last freed by divine judgement, calling us into the fellowship of shared joys, [has seen] him who had been put to flight by the heretic return to his see. Hence, with minds exulting at the peace of the universal Church, we first make supplication to Christ our God for the welfare of the most faithful prince, to whom, for the devotion by which he surpasses all bishops, the divine goodness grants this, that it makes us free intercessors for the Christian peoples before the heavenly omnipotence. Therefore, just as we rejoice at the return of our brother and fellow bishop Timothy, so we desire that, with your beloved self admonishing him, he be found irreproachable: for you remember that he formerly did not have the constancy of a faithful prelate, when it was wrung from him that the name of the condemned Dioscorus should be recited at the altar. Given on the third day before the Ides of March (A.D. 478), in the consulship of the most illustrious Illus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab31",
+   "text": "LETTER X."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab32",
+   "text": "OF POPE SIMPLICIUS TO THE EMPEROR ZENO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.31",
+   "text": "He gives thanks that Timothy has been restored to the church of Alexandria, and asks him to order the expulsion of Peter, the disturber of that same church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab33",
+   "text": "Bishop Simplicius to Zeno Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.32",
+   "text": "Through Peter, a *spectabilis* [a senatorial rank] man, count of the most noble lady Placidia, the triumphant glory of your reign in the Lord was formerly spread abroad, in exultation at the divine gifts, when, as I remember, I presented the letter of my lowliness with the joy of the universal Church. Nor, among all the bishops of the catholic faith, could I be either the only one or the first to keep silent about the works of our Lord. For, according to the blessed apostle Paul (2 Cor. 11), bearing the care of all the churches, I have claimed for myself in particular the greatest share of joy at their peace restored through your clemency: that, with the help of the Godhead, the enemies of religion and of the realm having been cast down, we have deserved to have you as victors, and that in one and the same outcome, Christ conquering in us everywhere, both the worship of the true faith and the state of the empire have been restored. Both of these had been thrown into disorder, the devil intruding himself for a time, so that, when the adversaries of each were scattered, the praises of the victor might become greater. Therefore, having obtained the fruit of so splendid a virtue, I now too give [thanks] without ceasing, with the joy of the universal Church; I cannot keep silent thanks that are doubtless perpetual, because you have restored the church of Alexandria to the ancient and true faith in my brother and fellow bishop Timothy. His letter, lately reaching me, related that, the profanity of the condemned Eutyches and Dioscorus having been expelled, he had recovered the see of blessed Peter and of the evangelist Mark to govern the orthodox (which had already been learned), urging us, who were willing, to report these very things to the feelings of your piety. So, in order that the peace of your reign may be perpetual and fixed, guard with watchful protection the quiet which you have granted to all in the aforesaid church; and what, with the Lord helping you, you have done for the salvation of innocent souls, protect with more devout zeal and more attentive diligence. For it is no less glory to preserve what you have founded than to found it; and it has been proved to all that as much divine favour has been bestowed on you as diligence has been shown by your piety to the Christian religion. And although your providence, in every part of its realm, has not ceased to put the peace of the Church, which will benefit divine worship, before public cares, I nevertheless pray that, as he earnestly asks through us, or rather as we ourselves more especially beg, you order by a most pious command that Peter, the usurper of the church of Alexandria, and for this rightly condemned, be removed to outer regions, since he is said to be secretly scheming certain things in the city of Alexandria (as has been written to us) against what you have decreed, lest he infect some of little faith (as he is reported to be doing) and draw them over to be instruments of his perversity. Let deadly contagions be far from the innocent, so that through you there may be purity within the fold of the Lord's flock, which imperial authority alone can maintain."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab34",
+   "text": "LETTER XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab35",
+   "text": "OF POPE SIMPLICIUS TO ACACIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.33",
+   "text": "He writes that Timothy, catholic bishop of Alexandria, has asked his pardon because, led by fear, he had recited the name of Dioscorus at the altars, and that he has sent a letter to the emperor to keep Peter, the disturber of that church, far away."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab36",
+   "text": "Bishop Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.34",
+   "text": "How many and how abundant fruits constancy of faith and the strength of minds devoted to the catholic religion always bear, the toil of your love has shown, and of those who were likewise troubled by the devil some time ago. For when the enemy of Christ and of the Christian realm, soon to fall, seized the palace and shook the faithful and the people of the Lord with impious persecution, [your love] overcame his sacrilegious attempts by prayer and vigils, and the heavenly victory extended so far that, with the return of the most religious emperor, a catholic bishop was restored to the church of Alexandria too; about whom we soon shared our joys with exultation at the divine grace, and caused ourselves to rejoice together in mutual letters. And although the fullness of that joy has never been lacking, nevertheless our brother and fellow bishop Timothy, made more approved by persecution and not forgetful of his former practice, sent a formal letter through our brother and fellow bishop Isaiah and our sons Nilus the presbyter and Martyrius the deacon of the church of Alexandria, in which he related that he had undone what he had earlier done, in terror, concerning the name of Dioscorus, and asked pardon for that error, and made us rejoice at the peace of the Church, having experienced toward himself, as your charity sees together with us, that what we then rebuked in him was not unpunished, and that he, reconciled, has now obtained the divine mercy. Dearest brother, the aforesaid having been present in the City, having lately arrived, we seized the opportunity of our son Peter, a *spectabilis* man, count, setting out as if on purpose, and both by our own intention and at the request of our brother and fellow bishop Timothy and the prayers of his envoys, we wished this very thing to come to your knowledge, so that even now you might become a sharer in the common joys, and might gather with us the fruit of your toil in the peace of the aforesaid church (as we have said); and, presenting our letter to the most Christian and most clement emperor, [you should urge him] on this matter too, so that he also may rejoice in the gifts of his own devotion and faith, God protecting him, and that, with your charity pressing him, he may deign by more vigorous efforts for the catholic religion to fortify the churches by sending salutary writings, lest (as we have experienced) in some region that ancient serpent, whose head has so often been cut off, pour out his poison and again find (which God forbid) an occasion to entice some; [and] that by a provident ordinance of the commands of his piety he may set things in order for the religious, and, as he has more evidently proved himself to God, may sanction [this] by laws commending [it], so that they may not lurk in darkness, and, walking unforeseen, strike those in the light, and lie in wait to seize those whom they have found to be poor in faith (as the prophet testifies). Above all, let him decree by a special command, for the peace of the Church, that Peter, who is sheltered in the hiding places of certain houses and of men like himself, and whom, in zeal for the faith, he decreed to be removed from the episcopate, be cast out into outer lands, as we too have written to his piety; because it is again asserted that he is ceaselessly scheming certain things against the ordinance of his faith. Since, then, we had to make this known and more especially to give warning by the opportunity of a most trustworthy bearer, we urge that, when the messenger begins to return, or if perhaps some other occasion is found, you inform us as soon as possible and hasten to relieve our anxiety. And so that we might rejoice with perfect joy, our same brother and fellow bishop Timothy has likewise sent to us a copy of the document of satisfaction of those whom Timothy and Peter, both condemned, had drawn away from the truth of the catholic faith by the terror of condemnation, [and who are now] asking pardon, since he desires with priestly compassion to help the fallen; which, in view of the divine mercy, which wills that none should perish, we do not think should be refused."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab37",
+   "text": "LETTER XII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab38",
+   "text": "OF POPE SIMPLICIUS TO THE EMPEROR ZENO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.36",
+   "text": "He exhorts him to protect Timothy, restored to the church of Alexandria by his efforts, and to order that Peter, the disturber of that same church, be expelled further away."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab39",
+   "text": "Bishop Simplicius to Zeno Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.37",
+   "text": "Recently, when my lowliness's brother and fellow bishop Timothy, bishop of the city of Alexandria, had sent to the City according to the renewed custom, I learned of the victory of your faith in his restoration. For through your piety, supported by the help of the Godhead, both the peace of the empire and the integrity of the catholic religion, the cloud of scandals having been dispersed, have regained their splendour. For this I remember giving thanks, after God, to your clemency; and now too I could not keep silent the homage owed to your reign, lest I should in some way seem ungrateful if I ceased, at any opportunity, to praise to you so many triumphs of both the empire and the churches. Rendering, then, the duty of due veneration, I pray that you bestow the help of your protection more zealously upon all bishops of the right faith, and above all upon the bishop of Alexandria, of whose struggle you were both witnesses and judges; and that you decree by most pious ordinances that Peter, the usurper of that see (whose rank could not hold even in the diaconate), be banished further from so illustrious a city, lest he perhaps lead astray some of weaker faith, and stir up again in that same church (which God forbid) the scandals which you have laid to rest. You have proved in your own person that he gave you the protection of his right hand who, to the joy of the whole world and the exultation of the universal Church, preserves the Roman empire in your clemency. Given on the tenth day before the Kalends of November (A.D. 478), in the consulship of the most illustrious man [Illus]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab40",
+   "text": "LETTER XIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab41",
+   "text": "OF POPE SIMPLICIUS TO ACACIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab42",
+   "text": "The same as in the preceding letter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab43",
+   "text": "Bishop Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.38",
+   "text": "Recently, at the request of those who had been sent to us by our brother and fellow bishop Timothy, bishop of the church of Alexandria, I made known our common joy to your love by letter, and related that we rejoice together at the fruit of a most pious work, in that a catholic bishop has been restored to the aforesaid church. This we have hastened to signify now as well, so that you might recognise that joys do not love silence. Therefore, always exulting, and desiring that the vows of our common prayers be joined, I exhort you, dearest brother, that, now that matters have been settled by God's doing through the most clement and most Christian emperor, careful diligence not be lacking; but that Peter, cast down from an honour not due to him, not be allowed to live in the region of Alexandria, but that you ask by frequent representation that he be banished far beyond the borders of his homeland, as we too have requested, lest he lead astray any of the unlearned by persuasion to his depravity and turn them from the path of catholic truth. And whatever you obtain from the most religious emperor, let the care of your love bring it to our knowledge, and make us sharers in the actions that pertain to the safeguarding of the gospel teaching. Given on the sixteenth day before the Kalends of November (A.D. 478), in the consulship of Illus, a most illustrious man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab44",
+   "text": "LETTER XIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab45",
+   "text": "OF POPE SIMPLICIUS TO THE EMPEROR ZENO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.39",
+   "text": "He praises the emperor's care in punishing those who conspired at Antioch to murder bishops. He grieves that his letters to Acacius were not carried out, and he approves the election of the bishop of the church of Antioch, made without observing the decree of the council of Nicaea."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab46",
+   "text": "Bishop Simplicius to Zeno Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.40",
+   "text": "I have received with joy the letter of your piety, always to be revered by me, concerning the church of Antioch. In it we found that, by the zeal for the catholic religion that is inborn in you, after your defence of the faith, which preserves and guards you, the audacity of impiety and the crimes committed at Antioch have been restrained. We exult that the spirit of a most faithful bishop and emperor is in you, so that imperial authority, joined also to Christian devotion, might become more acceptable to God, and your integrity might be plain, since those who took part in the sacrilegious slaughter that brought about the deaths of bishops are ordered to perish by fitting punishments. In this you will provide both for the peace of the Church and for your own rule, because when an insult to God is avenged, favour belongs to the one who avenges it, and the help of divine favour is won for those whose care has not left sacrilege unpunished. But, to speak with confidence to a Christian emperor: if the course of the earlier letters had been followed, which I remember I wrote long ago to my brother and fellow bishop Acacius about Peter and others by name, matters could not have come to this, which [your piety] has now rightly had to avenge. For I had instructed that, once representation had been made to your piety, the aforesaid [Peter], like the others who had seized the churches of God by occasion of the tyrant's rule, should be driven beyond the bounds of your empire, so that they might not with sacrilegious mouth pour the poison of their pestilent opinions into any of the simpler folk, and wound the more innocent souls with impious words against the orthodox faith. This becomes plain precisely when such things are less attended to and are believed to be trivial: it has come about that (as you report) among the altars it was no longer the people perishing by their persuasions, but the very prelates and preachers of the faith, bishops, perishing by deadly swords. Therefore, if any other remnants are found under your rule, order them, even now, to be driven out into foreign lands, so that henceforth there may be no necessity or cause for punishment in this matter; for it is better to have blocked the approach to sin than to have exacted its penalty. And since, in your most religious purpose, you judged that the disturbances at Antioch could not be calmed otherwise than by having a bishop ordained at Constantinople at the request of those same people, notwithstanding the precedent of that venerable council of Nicaea, you have stated that this was adopted in his person alone, on the understanding that henceforth, according to the definitions of the Fathers, the creation of the bishop of Antioch be reserved to the Eastern synod; and you do not wish what was done for the sake of removing dissension to be regarded as an injury. The blessed apostle Peter holds this pledge of your piety, and [holds] that the mind of a most Christian and most faithful emperor swore to these words: that hereafter [the bishop] in the city of Antioch be ordained by his fellow bishops of the province, the ancient custom being kept, so that what my brother and fellow bishop Acacius has now carried out at your command may not pass into a practice for posterity and confound the statutes of the Fathers, which you above all have kept unharmed. Therefore we cannot disapprove of what you have arranged in a holy and religious manner out of love of peace, lest the standing of the church of Antioch seem uncertain through our doubting, especially since he who is said to have been ordained is supported by the testimony of your clemency and by such great commendation that, with him established, we may, apart from the grief over these wounds, glory also in the Church that has deserved him. I have taken care to answer in these words and with the duty of reverence, so that you may order the frauds and crimes of the heretics, so great and to be pursued by divine and secular laws, which you have often proved to be so harmful, to be removed from the memory and company of men, since their impiety, as you see, cannot be restrained by any authority. Given on the tenth day before the Kalends of July (A.D. 479), after the consulship of Illus, a most illustrious man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab47",
+   "text": "LETTER XV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab48",
+   "text": "OF POPE SIMPLICIUS TO ACACIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab49",
+   "text": "The same as in the preceding one."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab50",
+   "text": "Bishop Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.41",
+   "text": "Wounded and overwhelmingly affected with grief by the letters of the most clement emperor and of your love concerning the sacrilegious and most deadly slaughter that took place at Antioch, I reply, asserting that if what I had written long ago about Peter and the other accomplices of theirs, and what I had asked you, with the other brothers who were present, to represent to his piety, had been arranged as he had wished, the rashness of the heretics would not have gone so far as so great a crime; nor [perhaps] would any necessity have arisen that the aforesaid church could be helped in no other way than by the remedy itself diminishing something of its rights. For although it has served for peace that the bishop of Antioch was ordained by your charity at the command of the most Christian emperor, even if without prejudice to the canons, nevertheless it was not done without ill will, and the precedent of it must be guarded against henceforth, as even he who ordered it testifies. For this it is fitting that we return thanks to his piety, since he has so moderated the power of his glory that with most faithful devotion he subjected what he ordered to the rules of the Fathers, and [ordered] that what he had decreed should be forbidden in a later age not be received as authority; namely, that it should suffice in this one person alone, whom you consecrated as bishop for the people of Antioch at his command and out of zeal for peace, not by your own usurpation, because it was done by necessity. In this we recognise that the service of your love was not unreasonable, since, having regard to the rights of the churches, you testify that you held back for a long time, not without reason, lest you seem to be seeking what you could not refuse to so great an emperor and in so grave a matter. Wherefore, dearest brother, not forgetful of the ancient institutions, which have been approved in you, just as you judge pardonable what you were certainly commanded to do, so do you yourself, giving honour to the Fathers, work so that there may be no necessity of doing what you now wish to be purged by satisfaction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab51",
+   "text": "OBSERVATION OF FR. ANTOINE PAGI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab52",
+   "text": "On the year of Christ 479, no. 1 and following."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.42",
+   "text": "These two letters just given persuaded Baronius and everyone else that Stephen the elder, bishop of Antioch, was killed by heretics in the year 479, and that in his place Stephen the younger was ordained at Constantinople by Acacius at the emperor's command. But this common opinion is false, and in the subscription of the former letter, of Pope Simplicius to Zeno, in place of \"after the consulship of Illus, v.c.\" one must read \"after the consulship of Placidus, v.c.\", and so that letter was given in the year 482, since Placidus held the consulship in A.D. 481. For once the first letters of the name Placidus had worn away, it was easy for a copyist to err and to read \"Illus\" in place of \"Placidus\"; all the more so because letters 12 and 13, which precede it, were given in the consulship of Illus, v.c., that is, in the year 478. These two letters of Simplicius, therefore, in which mention is made of the slaughter of a bishop of Antioch with his name suppressed, belong to the year 482, and they are to be understood not of Stephen the elder but of Stephen the younger. For he was killed by heretics, and neither was ordained by Acacius, but Calendion, who succeeded Stephen the younger, was, as I shall show under the year 482. As for what Binius says, following Baronius, that a bishop of Antioch was ordained at Constantinople by a new and unprecedented example, this collapses in view of what we said under the year 449. For there we showed that Maximus, bishop of Antioch, was consecrated at Constantinople by Anatolius. In the words of Evagrius reported by Binius after Baronius, the words \"which he held for three years up to this year\" are read neither in Christophorson's edition nor in Valesius' edition. They were therefore printed thus by the error of a printer who did not distinguish Baronius' words from the text of Evagrius by a different typeface. For Evagrius does not mention the length of Stephen's episcopate, and yet here Binius and others ascribe that whole passage to Evagrius; I thought this should be pointed out, so that in future that passage may not deceive anyone. (Read Pagi on the year of Christ 482, no. 3 and following, where there is more on these letters of Simplicius, on the slaughter of Stephen, not the elder but the younger, and on Calendion alone having been ordained at Constantinople by Acacius.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab53",
+   "text": "LETTER XVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab54",
+   "text": "OF POPE SIMPLICIUS TO THE SAME."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab55",
+   "text": "He confirms the election of Calendion, bishop of Antioch."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab56",
+   "text": "Bishop Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.43",
+   "text": "For what reason the beginning of the bishop of Antioch's episcopate was reported rather late, although it could hardly have escaped us, he himself or his synod has nevertheless explained. Just as we did not wish this to happen, so we have shown ourselves ready to accept the excuse that necessity produced, because what is not voluntary cannot be called to account. And so, through our brother and fellow bishop Anastasius, who was sent from the aforesaid region, and having also received the letter of your love, we have returned an exchange of words to your charity; having of necessity embraced the episcopate of our brother and fellow bishop Calendion in the bosom of the apostolic see, we number the bishop of so great a city in our fellowship, through the grace of Christ our God, by the union of the college. But we are surprised that we have learned nothing from your instruction about the state of the church of Antioch, which we now find to be in such a condition that wicked men, taking occasion from the death of Timothy of holy memory, are trying to hold that same church captive. Therefore your love must take action with the most clement emperor, so that what could be secured in the times of the tyrant may not be overthrown under his rule. Given on the Ides of July (A.D. 482), in the consulship of Severinus, a most illustrious man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab57",
+   "text": "LETTER XVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab58",
+   "text": "OF POPE SIMPLICIUS TO THE SAME."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.44",
+   "text": "He complains that he has not received a letter from him together with the emperor's letter, and that the emperor asks for Peter, a heretic, as bishop of Alexandria, while he himself was ready to confirm John. Finally he begs him to warn the emperor not to favour a heretic already condemned."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab59",
+   "text": "Bishop Simplicius to Acacius, bishop of Constantinople."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.45",
+   "text": "We are both surprised and grieved that concern for charity and faith lies so hidden and neglected in the mind of your love. When the most Christian emperor, prompted by piety and religion, sent faithful and skilful messengers to address me and to consult me on church matters, you yourself, forgetting both mutual goodwill and pastoral vigilance, neither chose to address us nor thought that we should be informed about what concerned the safeguarding of catholic truth. And so, dearest brother, weigh up with greater diligence what you see is, not undeservedly, blamed with frank feeling. Recognise therefore the duty laid upon you that presses on you, rouse your faculties wisely, and keep vigorous watch to protect the decrees of the synod of Chalcedon, so that deadly loss may not creep upon the Lord's flocks through our negligence and idleness. Recently a report sent to us according to custom from the Egyptian synod, which was both very numerous and supported by communion in the catholic faith, and from almost the whole clergy of the see of Alexandria, made known that our brother and fellow bishop Timothy, of holy memory, had died, and that in his place, by the harmonious will of the faithful, John had been substituted, who was believed to have every qualification for the episcopate. So nothing at all seemed to remain except that, while we gave thanks to our God and rejoiced that a catholic bishop had succeeded without disturbance to the ministry of the deceased, he should also receive the desired confirmation through the assent of apostolic moderation. But just as I was arranging this according to custom, a letter of the most tranquil emperor was delivered to me, in which he declared the said man unworthy of the episcopate as being guilty of perjury, which, it was said, was also not unknown to your brotherhood. At once I drew back my foot and withdrew my decision on his confirmation, so as not to be judged to have acted over-hastily against so great and such testimony. But this astonished me not a little: that in the same letter he thinks Peter should be promoted to the government of the aforesaid church, Peter who is shown to have long been a companion and leader of the heretics, as we remember is not hidden from your love's knowledge, and we trust you know the very instructions by which he was refuted; and who, there is no doubt, still remains outside catholic communion; and it is certain that we have often written about driving him out of that city. And although he promises to agree with the definitions of the right faith, from whose fellowship (as I said above) he lives as much a stranger as he is separated from its communion, if he now strives to return to it, he cannot enter except through satisfaction befitting the Christian rules, and so [he must] not ascend to the summit of episcopal dignity. Rather, as one reconciled, he should accordingly be fitted to the remedy which is to be granted after penitence, desiring help for his soul, not aspiring to the rank of highest honour, he who is proved to have long been perverse, lest under the appearance of one returning he seek not the remedy of sincere salvation but find the opportunity of spreading depravity. By doing so we would not so much draw him away from error as inflict ruin on the faithful, and in this way, violating the statutes of the synod of Chalcedon, we would open to ravening wolves an entrance into the Church to rampage in savage union. Indeed, the bishop is said to be requested by the very men together with whom he was once divided from catholic participation, so that it appears quite evidently that they do not want the right faith, but seek in their own prelate the power of an abominable doctrine; nor can a peace be produced between them and those who think truly, a foul peace from which the deadly damnation of heretical minds grows and the pitiable captivity of catholics follows. You are therefore bound on every side by the gravest considerations, in view of the character of the episcopate and with regard to catholic preaching, to resist wisely, by whatever means you can, such great evils and dangers. Nor is it right for your love to work too slackly at what you do not doubt concerns the cause of your soul and regard for your honour and reputation. So, when opportunities are found, do not cease to call back the will of the most clement emperor diligently from what is harmful to Christian doctrine, by supplicating unceasingly for the catholic faith, and to instruct it often according to what we command, and rather to press towards the side that is friendly to truth; and (as the venerable apostle Paul instructed holy Timothy) in season, out of season, by beseeching, suggesting and explaining, you will by no means cease to plead, and to report to us truthfully from time to time what is being done or what should be done, so that you may be shown a faithful servant in this multiplication of the talents entrusted to you by the Lord's dispensation, if not only in the church over which you preside but wherever you can, you do not refuse to urge on behalf of catholic unity and the fathers' definitions. Given on the Ides of July (A.D. 482), in the consulship of Severinus, a most illustrious man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab60",
+   "text": "FRAGMENT OF A LETTER"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab61",
+   "text": "OF POPE SIMPLICIUS TO ZENO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab62",
+   "text": "Here begins the letter of Pope Simplicius of holy memory to the emperor Zeno."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab63",
+   "text": "Among other things, and to the point:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.47",
+   "text": "But let us now come to those of whom your tranquillity's letter declares that one is to be excluded from the episcopate of the church of Alexandria and the other set over it; and first, if you please, let us weigh the merit of the person of Peter. Surely this is the accomplice of the parricide Timothy, and most deserving, by your order too, of perpetual exile. This is the man who has always been a companion and teacher of those fighting against the truth. This is the man about whom there is no doubt that I often asked in letters that he be driven from the city of Alexandria; if he were of the right faith, he would certainly have remained in catholic communion. But if he now approaches it to be corrected, this very fact proves the error he long held; yet if he sought this correction even now with a sincere mind, he would accordingly offer satisfaction. He should not seek a dignity who after penitence is worthy of indulgence, not of honour. Far be it from me to begrudge his salvation if he comes to his senses; I embrace it, I encourage it and I rejoice, most glorious emperor. But to one long wounded by the injury of depravity the pardon of medicine is fitting, not that of power. For then he can be called [a man] of religion, if, having condemned his perversity, he chooses to return to sound faith. Otherwise it is manifest that he desires not the cure of his own sickness but courts the summit from which he may spread the poison of his faithlessness more confidently and freely among wretched souls, and from a higher place reduce catholic freedom to servitude far more violently. I ask, next, who support his promotion, and I hear that they are archimandrites and monks, or any others there are who have separated themselves from catholic communion. Is the testimony of these, then, to be approved, is their person to be admitted, who have no ground of conscience in sound faith, and who are held in the same error as he? End."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab64",
+   "text": "LETTER XVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab65",
+   "text": "OF SIMPLICIUS TO THE SAME."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.49",
+   "text": "He says that he is surprised that Acacius has not informed him at all about the troubles of the church of Alexandria; and he urges him to suggest to the emperor that the desired peace be restored to that church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab66",
+   "text": "Simplicius to his most beloved brother Acacius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.50",
+   "text": "We have no holiday from our thoughts, for the cause does not let us rest; if we abandon it, we would be inexcusable before Christ our Lord, whose concern it is. And it is surprising that your love, after so much time has passed and so many opportunities have come from there, has not chosen to inform us of anything concerning the church of Alexandria, which is so gravely shaken; although our rebuke has not ceased to warn you that, sharing our concern, you should accompany my letters to the most Christian and most clement emperor with your love's personal addresses, and, mindful of the ancient practice, should always so apply yourself with us to the defence of the orthodox, that none of us, while the Christian people perish, may incur the guilt of surrender and seem a hireling rather than a shepherd. Therefore we urge your love not to cease to suggest to the pious ears, in season and out of season, that, once the scandals which have rushed upon the church of Alexandria with renewed audacity are removed, the desired peace may be restored, and the success of your vigilance may quickly be brought about, difficulties being set aside. Given on the eighth day before the Ides of November, in the consulship of Severinus, sent by Restitutus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab67",
+   "text": "LETTER"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab68",
+   "text": "OF SIMPLICIUS TO THE SAME."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab69",
+   "text": "Published at Rome by Lucas Holstenius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab70",
+   "text": "Simplicius to his most beloved brother Acacius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.52",
+   "text": "In your love's letter, which you sent by our son Epiphanius, a deacon of proven faith, you set out more fully what the most religious men, our sons the presbyters and archimandrites, with the monks, had earlier written briefly, and you reported it in a lengthy volume indeed, but in necessary words, so that we might learn what had been done by the heretics either at Constantinople or in other regions; and you placed before our eyes each of the things committed anywhere against the church's rules and against the catholic faith itself, so that it may be seen by what remedy help might also be brought to the churches on which, taking occasion of tyrannical domination and through the absence of the most Christian emperor, the pernicious robber and relapsed invader of the church of Alexandria inflicted violence, ruin and exile. Therefore, after God, who has visited the Church and the state with wonderful consolation, we have thought it necessary to implore the help of the most clement emperor, even if you had not asked for this to be done; so that, in return for all that the Lord has granted to his reign, the churches of God throughout the world which he knows to be subject to his rule may not be violated by the contagion and depravity of heretics, but by his piety's command may be kept immune from diabolical teaching; so that those who believed that the priestly ministry was conferred on them by the presumption of a condemned man may, by a promulgated imperial constitution, be ordered to be shut out and separated even from human society; so that, these being removed and condemned to perpetual banishment in the wilderness, catholic bishops may be either restored or created for the deceived churches. In this neither our prayers to the most religious emperor, nor your love's suggestion, nor the entreaty of so many of our brother bishops whom we find have come to Constantinople, nor the supplication of the monks, will be able to labour in vain. Indeed, by the return of his piety, with the Lord attending him everywhere, he has, anticipating the prayers of all, restored whatever pertains to the integrity of the catholic faith, in which the security of the churches is established. And with a most Christian mind the favour of obtaining a request is easy, where the cause is religion. So, just as by our letter, so by the suggestion of your love and of all the brothers who presented themselves before the most Christian emperor to give proof of their faith, it must be requested again that Timothy with his followers be sent into exile from which there is no return. With him Paul, driven from the church of Ephesus, and Peter, driven from the city of Antioch, and all who think they were ordained bishops by him or by those whom he had unlawfully made, ought to be struck by the same law. As for Antony, who, being the standard-bearer of those whom [the tyrant] had sent as tyrants against the Church, appeared, as it is written (Psalm 8:3), as enemy and defender; and as for a certain John of Constantinople, who, by taking from heretics the episcopate of Apamea, which he, having been a presbyter elsewhere, was not permitted to take even from catholics, publicly declared himself a heretic, and turned back upon its author the reproach of what was wrongly done to him, for, expelling from Antioch Peter, its usurper, he himself usurped that same church: these we remove under anathema from the fellowship and even the name of Christians; and no room for satisfaction is ever to be opened to them. For as Judas among the apostles, so these lay hidden among the ministers of God by the treacherous fraud of a diabolical spirit. Rejoicing too in the faith and devotion of the Christian people, we seek its advancement and increase, praying continually to God, that, persevering in the fear and love of the Lord, it may deserve both to grow in number and to be fortified by heavenly protection. In this we glory most, and we will rejoice to please our God, because the increase of the religious fold concerns the pastoral fruit. But it is not fitting for these brothers and fellow bishops of ours to stay on at Constantinople, especially now, when, because of the shock of the persecution that had been stirred up, the cities in the churches mentioned above are anxious and astonished; lest anyone doubtful in reason and fearful in mind should expect that something new is being reconsidered after the council of Chalcedon against its definitions; for throughout the whole world what was established by the whole body of bishops is maintained with indissoluble observance, and, as has appeared, confirmed by the assertion of heavenly vengeance so many times. Hence whoever does not follow the definitions of that same venerable council, after so many examples of divine indignation, struggles against the divine judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.ab71",
+   "text": "OBSERVATION OF FR. ANTOINE PAGI on the year of Christ 477, nos. 12 and 13."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.53",
+   "text": "Holstenius in the Roman Collection published a letter of Pope Simplicius to Acacius, bishop of Constantinople, which is without day and consul, and which Labbe, vol. IV of the Councils, p. 1039, wrongly placed after all the letters of Simplicius. For since Simplicius wrote it shortly after he had learned from Acacius of the violence that had been inflicted on the churches, on the occasion of a tyrannical domination and through the absence of the most Christian prince; and at the very time when Aelurus was still alive, whom, with his followers, he says the emperor Zeno must be asked to send into irremediable exile; it appears that this letter should, in a future collection of councils, be placed immediately after letter 8 of Simplicius to the emperor Zeno, given on the eighth day before the Ides of October after the consulship of Basiliscus and Armatus, in which Simplicius congratulates the emperor on recovering the empire; since after that, in the same collection of councils, there follows the letter of Acacius to Simplicius in which he informs him of the death of Timothy Aelurus, which was still unknown to Simplicius when he wrote the letter to Acacius edited by Holstenius. From it we understand that Acacius had advised Simplicius of a synod convened by him at Constantinople. For Simplicius says: \"Hence, even if you had not at all requested that this be done, we have thought it right to implore the help of the most clement emperor, our one [help] after God, who has visited the Church and the commonwealth with wonderful consolation, that, in return for all that the Lord has granted to his reign, the churches of God may no longer be violated by the contagion and depravity of heretics throughout the world, which he knows to be subject to his rule, but may by the command of his piety be kept immune from diabolical doctrine. That those who have believed that a priestly ministry was conferred on them by the presumption of a condemned man should, by the promulgation of an imperial constitution, be ordered to be excluded, separated even from the company of men; so that, these being removed and condemned to perpetual banishment in solitude, catholic bishops may either be restored to the deceived churches or be created. In this matter neither our prayers before the most religious prince, nor the suggestion of your Love, nor the entreaty of so many of our brothers the bishops, who we find have come to Constantinople, nor the supplication of the monks will be able to labour in vain.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp920.tmp920.opp-lat1.54",
+   "text": "Simplicius, moreover, had implored the emperor's help in the letter to Zeno of the eighth day before the Ides of October after the consulship of Basiliscus and Armatus, and therefore the Holstenian letter was given in the earlier months of the following year. For in that [letter], which Simplicius wrote in the year 477 on the eighth day before the Ides of October, he says: \"Hence before all things I pray that you decree that the church of Alexandria, freed by the arrangements of your Clemency from its deadly no less than heretical usurper, be restored to a catholic and lawful bishop; and that, those also whom he is said to have ordained for various [churches] with diabolical rashness being expelled, you establish bishops of right faith in their place, etc.\""
+  }
+ ]
+}

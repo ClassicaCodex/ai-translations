@@ -1,0 +1,716 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1295.tmp1295",
+ "edition_urn": "urn:cts:latinLit:tmp1295.tmp1295.ai-claude",
+ "source_edition": "tmp1295.tmp1295.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Liber Sacramentorum. Appendix: AI translation (Claude)",
+  "author": "Gregorius I Magnus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1295.tmp1295.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.head": "The scan is heavily corrupted; evident readings adopted include dici = diei, devoli = devoti, vestrous = vestibus, lactis = factis, deQere = deflere, Mora quidem oratione jacta = Mox quidem oratione facta, 'Jube, omne' = 'Jube, domne'. Line 6: 'Scrutator cors, et casae mentis mar' read as 'Scrutator cordis, et castae mentis amator'. Line 5: the alb verses contain two alternative versions of the last line, both translated. Line 8: the stole verses are syntactically incomplete and obscure; 'genlinae' read as 'geminae' (twofold). Line 9: 'gyris' is uncertain (bands or circles?). Line 16: 'flamineato' read as 'duly vested', 'proceario' as 'processio', and 'etai non' as 'et si non'; the reading is uncertain. 'Interim Bane' is taken as 'interim autem'. Line 19: 'Milia' is unclear, perhaps 'litania'; the rendering 'litany' is a guess. 'Rationale' is the episcopal breastplate-like ornament, and 'manicae' are taken here as liturgical gloves.",
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.23": "Line 24: the edition prints 'adnuntianti', with the editor's conjecture 'ad nunciandum'; translated as the latter. 'Evangelium Maria Magdalenae' presumably refers to the Easter Gospel of Mary Magdalene at the tomb. Line 25: 'omnia prote sio' read as 'omnis processio'; 'propitiatorium' rendered 'sanctuary'. Line 27: 'manus diaconum' read as 'diaconorum'. Line 29: 'tatem' read as 'talem'. Line 35: 'stabilientur' is uncertain; it is unclear whether the paten or the ministers are placed. Line 42: 'sicco sacrificio' (bread alone) as against 'misto sacrificio' (bread dipped in the wine) is interpreted thus. Line 43: 'Placeat tibi sancta Trinitas' is followed by incipits for the stations, which are partly garbled in the scan. Line ab5: 'Codex Tilianus' is presumably the manuscript of Jean du Tillet; this identification is uncertain.",
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.48": "Line 48: 'Ubumbrar' read as 'Obumbra'. Line 50: 'innoctatur' is corrupt; rendered as if 'incitetur' (be stirred up); the exact verb is uncertain. Line 52: heading 'Ad ralutam' read as 'Ad casulam' (chasuble), which fits the sequence and the prayer; uncertain. Line 54: the bracketed '[Lege mereamur]' is an editorial correction, rendered '[be worthy to]'. Line 62: the printed text is jumbled across columns; read as 'in quo testimonium boni operis non agnoscis, officium saltem dispensationis creditae non recuses'. Line 68: 'accuset M prius flelti-liter' read as 'accuset se prius fideliter'.",
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.71": "Line 71: 'sanctorum murum ... tuereantur' read as 'sanctorum tuorum ... mereantur'. Line 83: 'a angulis' read as 'a singulis'. Line 95: the edition's bracketed correction 'Spiritu sancto' for 'sanctorum' is followed. Line 104: Salicosa/Sausseuse is the priory of Sausseuse in the Vexin (Velocasses). Line 106: 'quod post a diacono' read for 'quod \"oat a diacono'; the sentence on the thurible lacks a verb ('[is signified]' supplied).",
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.107": "Line 107: 'quatuor partes calicis langat' read as 'tangat' (touch); 'nostrae utilitas fidei' read as 'unitas' (unity). 'mantili indutus' is unclear (perhaps a humeral veil); rendered 'wrapped in a cloth'. Heading ab7 '[RI]TUS' restored from 'tUTUS'. Line 116: 'plebis gubernacula ... invenire' is odd (perhaps 'tenere'); translated as written.",
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.117": "Line 117: 'regnum N. Albionis totius videlicet Francorum' is awkward as printed (an English ordo adapted for a Frankish king); translated literally. 'acuto' read as 'scuto' (shield); 'unatim' rendered 'together'. Line 119: 'temporalia regna' read as 'temporali regno' per the editor's note. Line 120: 'per quae' read as 'per quem' per the editor's note. Line 121: 'pro Spiritu' seems corrupt, probably for 'prosperum'; translated so. Line 129: 'Angelorum apostolici' taken as 'Anglorum' (apostle of the English).",
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.130": "136: 'praesulem Principem' rendered as 'prelate [and] prince'; 'quireMa' read as 'qui regna'. 140: heading 'Regis atalu.' read as 'Regis status'. 141: 'pacem t servans ill emni' read as 'pacem servet in omni'. 154: 'V. D.' = Vere dignum (preface); second 'generatio' read as 'regeneratio'. 155: 'oblatam seriem' read as 'optatam seriem' is possible. 158: the edition's correction 'sanctitate mutua' followed. 159: text badly corrupt in several places (e.g. 'quod homini simile... additur fortiore sexus infirmior', 'in prioris ventura', 'datæ sint legis instituta ventura', 'nexa fidei mandatisque permaneat feminarum'); translated by the evident sense of the standard nuptial blessing.",
+  "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.160": "Both passages are badly garbled in the scan, with footnote numbers scattered through them. In the blessing, 'ritibus' may stand for 'precibus' ('with repeated prayers'). 'supplicatus' is read as 'supplicator' ('intercessor'). 'recnndentur' is read as 'fecundentur'. 'sicut plurimi omnes confirmare dignare' is corrupt, and is rendered only loosely. 'sanctitatem Patrem' is uncertain; it may stand for 'sanctorum patrum' ('the holy fathers'). 'tormine' is read as 'Domine'. In the Postcommunion, 'quod non ministrentur' is read as 'quod nostro ministratur', and 'impicantur' as 'impleatur'."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.head",
+   "text": "APPENDIX TO THE BOOK OF SACRAMENTS OF SAINT GREGORY THE GREAT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab1",
+   "text": "AN OLD MASS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab2",
+   "text": "From the Codex of Ratold, abbot of Corbie."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab3",
+   "text": "On the holy day of Easter Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.1",
+   "text": "First, before the bishop celebrates Mass, he shall enter a certain oratory, and, as the compunction of his heart moves him, let him offer himself to God with the libation of prayer. Let him say this prayer: Jesus Christ, way of all the saints, who have granted the joy of brightness to those who come to you, flood the entrance of this temple with the light of the Holy Spirit, you who have consecrated this place by the name or the blood of your holy martyrs: grant, we beseech [you], almighty God, that all these, through their intercession, may obtain pardon for their offences, be freed from all distresses, obtain whatever they ask for their needs, and always prevail to be pleasing in your sight, so that, defended by you and by Saint Peter your soldier, we may deserve to enter the hall of paradise. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.2",
+   "text": "At the third hour of the day let the priestly arms be brought to him, which he shall put on outside the choir, on the left side, in the place of the sacristy. When he has entered the sacristy, let him say this prayer: Almighty and merciful God, who deign to use the ministry of priests for serving and entreating you, we beseech your boundless mercy that whatever we now visit you may visit, and whatever we bless you may bless, and that at the entrance of our lowliness, by the merits of your saints, there may be flight of demons and the coming in of the angel of peace. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.3",
+   "text": "First let the minister bring the stockings, reaching up to the knee, and say: Lord, we all desire that you bid [these] be blessed. The bishop answers: Almighty God, author of all honour, to repel the wiles of the ancient enemy, through the mystery [perhaps, ministry] of our service bid these stockings be sanctified, so that the truth of the Gospel may shine forth in [our] step, and the integrity of faith be exercised in the mind. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.4",
+   "text": "Then let the minister give the sandals, and say as above. The bishop answers: Clothe me, Lord, with the shoes of justice, [you] whom John saw clothed in a long robe, so that I may serve you at all times with fear. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.5",
+   "text": "After this let him adorn himself with the other vestments, and let the minister hand him the amice and say: Bid, Lord, a blessing. The bishop answers: God, highest power, most bountiful ruler of all, bless our amice, with which we are now adorned, so that we may be able to serve you with a chaste heart. Through all [ages]. Then let him hand him the alb and say as above. [Grant that,] clothed in angelic garments, King of mercy, we may offer the libation of a holy fragrance, and that you in your clemency may purge the contagion of a depraved mind, and that the contagion of an evil mind may more swiftly be blotted out. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.6",
+   "text": "Then let him hand him the girdle and say as above. Searcher of the heart and lover of the chaste mind, gird my loins, God, inmost judge, putting to death depraved impulses in a chaste body. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.7",
+   "text": "Then let the belt of chastity be given to him, and let the minister say as above. The bishop answers: I ask you, most high God of Sabaoth, holy Father, that you deign to chasten me, to gird me, and to encircle my loins with the belt of your fear, and to burn the reins of my heart with the fire of your love, so that I may intercede for my sins, and merit pardon of sins for the people standing by, and offer the peace offerings of each one. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.8",
+   "text": "Then let the minister bring him the stole of joyfulness, which carries the life of twofold contemplation. And let him say as above. The bishop answers: [My] neck to be bowed beneath your sacred yoke, kindly God, at whose tomb, made worthy by a precious death, angelic power had sat in pure array. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.9",
+   "text": "Over these let there be handed to him the tunic, wonderfully fitted with bands and little bells, and let the minister say as above. The bishop answers: Sanctify this tunic which I now put on over [the rest], almighty eternal God, without whose divine power human strength can establish nothing devout. And you who have willed that I use sacred vestments, grant me to serve you, kind judge, with a faithful mind. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.10",
+   "text": "Then let water be given him for his hands and a comb for his head, and let the minister say as above. The bishop"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.11",
+   "text": "answers: Almighty and merciful God, I pray your mercy that you do not let me perish as I boldly approach, but deign to wash, adorn, and gently receive [me]. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.12",
+   "text": "Then let the gloves be given him, as above. May the worthy guardianship of Christ keep our hands, so that they may handle the memorials of our salvation. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.13",
+   "text": "Then let the ring be given him on the right hand, over the glove. Let the minister say as above. The bishop answers: Sealed with the pledge of faith and the earnest of peace, guard me, blessed King, with your right hand. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.14",
+   "text": "Then let the chasuble be handed to him, and finally the rationale joined to the amice. And let the minister say as above. The bishop answers: God, eternal hope, sure [hope] and salvation of all, be mindful of me, who seek you with my whole heart, so that I may worthily perform the duties of the heavenly life. And while the mystic power is handled by my hands, may whatever the old order had contracted perish. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.15",
+   "text": "And let the maniple of chastity be given to the left hand, and let the minister say: Bid, lord, a blessing. The bishop answers: You who sit above the stars, who guard the sceptres of the kingdom, be present, highest God, to me as I follow your commands, and lay a gentle right hand about my head, and kindly grant me help in all things, so that I may be able to stand before you in a perpetually chaste life. Through all [ages]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.16",
+   "text": "Let the bishop also be honoured with all diligence by his own [clergy]. When he has been duly vested, let the whole procession come forward in order: seven, or five, or three, or if not, a priest and a deacon, the priest on the right and the deacon on the left. Let the subdeacon hold the Gospel before his eyes; and let him be attended by two acolytes, or more, with candles and censers. Meanwhile let the schola make ready, and their cantor, [standing] in the middle, at the bishop's nod, begin the antiphon Resurrexi, with the psalm Domine, probasti me. As the bishop proceeds to the vestibule of the church and to the door of the sacristy, let him kiss the Gospel, and then let them advance with all diligence. When the Introit is finished, let the pontiff enter in the midst, with the company of the procession. As he stands and prays, let him say this prayer: Receive my confession, only hope of my salvation, Lord my God, for by gluttony, drunkenness, fornication, lust, sloth, sadness, drowsiness, negligence, anger, greed, envy, malice, hatred, slander, perjury, falsehood, lying, vainglory, levity and pride I am lost, and wholly dead in thought, speech, action and all my senses; you who justify the ungodly and give life to the dead, give life to me, and raise me up, and have mercy on me, my God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.17",
+   "text": "At the bishop's nod, let the psalm be begun by the cantor, with the Introit alternating. Meanwhile let him kiss all those standing around him, beginning on the left and coming alternately to the right."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.18",
+   "text": "When this is done, at the sign of the bishop's finger, let the cantor begin Gloria Patri. And let the bishop proceed to the altar, attended by the ministers, and say this prayer: I confess, Lord, that I am unworthy of your sacred [mysteries], I who am darkened daily by countless sins. Why do I presume to entreat you, Lord, with flattering words, whom I very often offend with wicked deeds? For you, Lord, apply medicine to me in my sickness, and I do what is contrary to my health; I read your law, Lord, set down in the sacred pages, but unhappily I neglect sound discipline. I approach your altar as though devout, but with a stubborn heart I depart from your precepts. Give me therefore, Lord, I pray, a contrite heart, which truly hates sin. Mine it is, if you grant it, to weep for my offences; yours it is to blot them out swiftly like snow. And though I have lost the palm through the enemy's deceit, may I at least come to pardon through your mercy. To you, God, be honour, and kingdom to the King of all, who rules all things for ever and ever. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.19",
+   "text": "Then, when the prayer has been said, let the priests and deacons, in the order in which they are arranged, kiss the horns of the altar one after another. And last the bishop, with them ministering, kisses the Gospel, lifted and opened by them, and placed by the subdeacon in the middle of the altar. And then let Kyrie eleison be sung. And with them leading him, let the bishop come to the throne. And then let him begin Gloria in excelsis Deo. After this let the litany be sung according to his judgement [perhaps, custom]. And the bishop announces: Peace be with you. Response: And with your spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.20",
+   "text": "Prayer. — O God, who on this day through your only-begotten, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.21",
+   "text": "Then let the subdeacon go up to the ambo and read the Epistle, Expurgate. Response: Haec dies. Alleluia, Pascha nostrum."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.22",
+   "text": "Then let the deacon come with the censer, and another minister with the incense, kneeling at the knees of the seated bishop, and let him put on the incense, a smoke of sweet odour, and say: I put on incense for an odour of sweetness, and in the name of the holy and undivided Trinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.23",
+   "text": "And let the deacon, with head bowed, ask for a blessing, and say: Bid, Lord, a blessing. The bishop answers: The Lord be in your heart and on your lips, for proclaiming the reading of the Gospel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.24",
+   "text": "Let him take the Gospel book himself and kiss it and the altar. And let him go up into the ambo to announce the words of eternal happiness. Let the Gospel of Mary Magdalene be read. When the Gospel is finished, let the Gospel book be carried by a subdeacon for the bishop to kiss, and all after him. And let the bishop say: The Lord be with you. Response: And with your spirit. Let us pray. Then let the Offertory Terra tremuit begin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.25",
+   "text": "When it is finished and the offering has been received, let him return to the throne with the whole procession, and take off his gloves and wash his hands, and so let him enter the sanctuary, and let all the procession offer their oblation to him, and lastly the incense, and let him say these prayers while he is being censed: Lord our God, with suppliant devotion we ask that, as you accepted the gifts of Abel, Noah, Aaron, Zechariah and Samuel, and of all your saints, so you may deign to accept from our sinful hand this incense for an odour of sweetness, and for the remission of all our sins. Through [our] Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.26",
+   "text": "Another. — Lord, by this thymiama or incense may your fury against me, and against this place, and against this people, be appeased, and graciously grant that we may be a smoke of good odour to you, to obtain eternal life. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.27",
+   "text": "Afterwards let them arrange themselves in the ecclesiastical manner, that is, the deacons before the altar, the subdeacons behind, the bishop in the middle, because in the mouth of two or three every word stands, bowing their heads until Through all ages of ages is said. Response: Amen. And let him say this prayer over the offerings: Accept, Lord, we ask, the prayers of your people with the offerings of the sacrifices. Look for it above, on Holy Saturday. Then after this they stand upright, and the acolytes serve water for the deacons' hands, and a towel; and let the pontiff say in a loud voice: Through all ages of ages. Response: Amen. Lift up your hearts. Response: We have [them] to the Lord. Let us give thanks to the Lord our God. Response: It is fitting and right."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.28",
+   "text": "Preface. — It is truly fitting and right, just and salutary: you indeed at all times, as above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.29",
+   "text": "While the Sanctus is said, let all bow, and let the bishop meanwhile say this prayer: O God, who desire not the death but the repentance of sinners, do not drive me, a wretched and frail sinner, from your mercy; and do not look upon my sins and crimes and my unclean and shameful thoughts, by which I am lamentably severed from your will, but upon your mercy, and upon the faith and devotion of those who seek your mercy through me, a sinner. And since you have willed that I, unworthy, should be made a mediator between you and your people, make me worthy such, that I may be able to implore your mercy for myself and for that same people of yours. And join our voices to the voices of your holy angels, so that as they praise you unceasingly and tirelessly in eternal blessedness, so we too by their intercession may be found worthy to praise you blamelessly in this pilgrimage. Through [our] Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.30",
+   "text": "You therefore, most merciful Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.31",
+   "text": "In communion with, and venerating the memory, as above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.32",
+   "text": "This offering, therefore, of our service, as above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.33",
+   "text": "Before Through whom [you create] all these things is said, the blessing of meat: O God of all flesh, who to Noah and his sons."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.34",
+   "text": "Through whom, Lord, you always create, sanctify, and give life to all these good things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.35",
+   "text": "Let the acolyte with the paten stand behind the deacon, bowing with the deacons, until the bishop says Nobis quoque peccatoribus. Then let the deacon who read the Gospel, watching for the moment when the bishop makes the sign of the cross over the chalice, anticipate him by raising the chalice in the sight of the Lord, and let him quickly return to his place. Then the subdeacons, from behind the altar, where they named or recited the memorial or names of the living and the dead, come forward behind the deacon with heads bowed. When the Lord's Prayer is finished, let the subdeacon take the paten from the acolyte's hand and give it to the deacon, and he is to bring it to the bishop; and after this let them be set in the place where they were before the Gospel was read, until the blessing and the kiss of peace are finished. Then, when the bishop says Through all ages of ages, Response: Amen, after the Lord's Prayer, when he has finished Deliver us from evil, at the bishop's nod let the deacon say: Bow yourselves for the blessing; and the people respond: Thanks be to God. And let the bishop say this blessing: May almighty God bless you, as today's paschal solemnity intervenes, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.36",
+   "text": "And then, taking part of the Lord's body, let him say: The peace of the Lord be always with you. Response: And with your spirit. And at the bishop's nod let the cantor say: Lamb of God, who take away the sins of the world. Meanwhile let him kiss the archdeacon and the others. Then, turning to the altar, let him say this prayer: The Lord be with you. Response: And with your spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.37",
+   "text": "May this most holy mingling of the body and blood of our Lord Jesus Christ be for all who receive it health of mind and body, and a saving preparation for obtaining eternal life. Through [our] Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.38",
+   "text": "While the body is broken. — Deign, Lord, to send your holy angel to the sacred and immortal mystery, namely your body and blood; for we, Lord, break it; deign to bless it, and grant that we may be able to handle it with spotless senses and hands, and to receive it worthily. Through our Lord. Send your angel, Lord, that he may deign."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.39",
+   "text": "After this, then, let all communicate one by one, the bishop also; and when he has communicated, let him say these prayers: May the receiving of your body and blood, Lord Jesus Christ, which I, unworthy, presume to take, not turn to my judgement and condemnation, but by your mercy profit me as a safeguard of mind and body, who with the Father in the unity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.40",
+   "text": "Another. — Lord Jesus Christ, Son of the living God, who by the will of the Father, with the Holy Spirit working with you, gave life to the world by your death, free me through this sacred body and blood of yours from all my iniquities and all my evils, and make me obey your commandments, and never be separated from you for ever. Who with the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.41",
+   "text": "Another. — Holy Lord, almighty Father, eternal God, grant me so to receive this body and blood of our Lord Jesus Christ that through it I may deserve to receive the remission of all my sins and be filled with your Holy Spirit, for you are blessed, and besides you there is no other, whose glorious kingdom endures for ages of ages. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.42",
+   "text": "And let the bishop give communion to the priests and deacons with the kiss of peace, but with the sacrifice dry, and to the subdeacons without the kiss, with the sacrifice mixed. And let the deacons and priests briefly taste of the blood itself from the chalice, a subdeacon holding it. Meanwhile, at the bishop's nod, let the cantor begin the Communion Pascha nostrum; Psalm Domine probasti me, with the Gloria. When this is completed, let the bishop sit on the throne, and, having washed his hands a third time, return to the altar and say the Collect."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.43",
+   "text": "Postcommunion. — Spiritum nobis, Domine. Afterwards let the bishop, turning to the people, say: The Lord be with you. Response: And with your spirit. At the bishop's nod let the deacon say: Go, it is the dismissal. Response: Thanks be to God. The bishop himself kisses the altar and says this prayer in silence: Let us pray. — May it please you, holy Trinity; at Saint John's at Vespers: Grant, we ask, almighty God; at the fonts: Grant, we ask, almighty God; at Saint Andrew's: Grant, we ask, almighty God, that those who [have received] the grace. Thus far the Easter Mass."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab4",
+   "text": "ANOTHER OLD MASS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab5",
+   "text": "From the Codex of Tilius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.44",
+   "text": "Here begins the Order of the pontiff when he prepares himself for Mass. When he washes his hands, let him say this prayer: Grant to our senses, almighty Father, that as the stains of the hands are washed outwardly, so the pollutions of minds may be cleansed inwardly by you, and the increase of holy virtues may grow in us. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.45",
+   "text": "Afterwards the bishop begins to put on the sandals, and says this prayer: Shoe my feet, Lord, in the preparation of the Gospel of peace, and protect [me] under the covering of your wings."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.46",
+   "text": "Then let him sing with those standing around these psalms: Quam dilecta; Benedixisti, Domine; Inclina, Domine, with the versicles: Exsurge, Domine; Fiat misericordia tua, Domine; Deus tu conversus; Ostende nobis, Domine; Ne intres in iudicium; Propitius esto peccatis nostris; Domine, exaudi orationem."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.47",
+   "text": "Most gentle God, incline the ears of your mercy to my prayers, and illumine my heart with the grace of the Holy Spirit, that I may be able to minister worthily in your ministries and deserve to love you with eternal charity. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.48",
+   "text": "Prayer of the priest preparing for Mass. — Overshadow my head, Lord, with the shade of holy faith, and drive away from me the clouds of ignorance. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.49",
+   "text": "At the alb. — Clothe me, Lord, with the garment of salvation, and surround me with the breastplate of strength. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.50",
+   "text": "At the girdle. — Lord, gird within me the guard of my mind, and let that mind not be stirred up by the spirit of pride. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.51",
+   "text": "At the stole. — Surround my neck, Lord, with the stole of righteousness, and purify my mind from all corruption of sin. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.52",
+   "text": "At the chasuble. — Clothe me, Lord, with the ornament of charity and peace, so that, fortified on every side with virtues, I may be able to resist vices, and the enemies of mind and body."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.53",
+   "text": "Afterwards at the maniple. — Give me, Lord, a right understanding and a pure voice, that I may be able to fulfil your praise."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.54",
+   "text": "After he enters the church, let him kiss two priests and two deacons, beginning by himself Introibo ad altare Dei, with the psalm Judica me, Deus. Meanwhile, while the verse for the Introit is sung, he says these prayers: Take away from us our iniquities, that we may [be worthy to] enter the holy of holies with pure minds."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.55",
+   "text": "Another prayer. — Almighty God, who have willed that I, a sinner, should stand at the sacred altars and praise the power of your holy name: grant, we beseech [you], through the mystery of this sacrament, pardon of my sins, that I may deserve to minister worthily to your Majesty. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.56",
+   "text": "Then, when he kisses the Gospel, let him say: May the peace of Christ, which he handed down to us through his Gospel, strengthen and preserve our hearts and bodies to eternal life. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.57",
+   "text": "Confession of the priest before the altar."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.58",
+   "text": "Receive my confession, only hope of my salvation, Lord my God. By gluttony, drunkenness, fornication, lust, sadness, sloth, sleepiness, anger, greed, envy, malice, hatred, slander, perjury, falsehood, lying, vainglory, levity and pride I am ruined; and by every thought, word, deed, and by all evils I am extinguished; but you, who justify the ungodly and give life to the dead, give life to me and raise me up again, my God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.59",
+   "text": "Prayer of the priest before the altar before he begins Mass. — God, be merciful to me a sinner, for you are the immortal God, and alone without sin. Lord my God, pardon me, your unworthy little servant, for I am a sinner and unworthy, who presume to approach your holy altar and to call upon you, I who have sinned before you and before your angels; but grant pardon of my offences, and strengthen me in your holy Church, in the faith of the orthodox, and teach me to do your will all the days of my life. Who live."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.60",
+   "text": "Likewise a prayer while the Gloria in excelsis Deo is being sung. — Lord Jesus Christ, Redeemer of the world, be merciful to me a sinner, lying in sin in every way, for you alone, Lord our God, are immortal and without sin; pardon me, most wretched, who presume to approach your holy altar and to call upon you, for I have sinned from my infancy until now before you and before all your saints; but through their intercession grant me by divine clemency pardon of my sins, and teach me to do your will all the days of my life. Who live and reign."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.61",
+   "text": "After the collect, up to the Gospel, as seems good to him, he says these prayers: God, who make the unworthy worthy, sinners righteous, the unclean clean, cleanse my body and my heart from every contagion and filth of sin, and make me a worthy minister of your holy altars, and graciously grant that on this altar, which I approach unworthy, I may offer to your mercy pleasing sacrifices for my sins and offences and my countless daily transgressions, and for the flock entrusted to me, and for your servant N. and his wife, and the people subject to him, and for all standing around, and all joined to me by familiarity, and all who pursue me with detestable hatred and oppose your Church entrusted [to me], together with all faithful Christians. And may my vow and sacrifice be acceptable to you through him who offered himself to you, God the Father, as a sacrifice, Jesus Christ our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.62",
+   "text": "Forgive, Lord, that I am compelled to entreat you, while I take your holy name upon my unclean lips, since, when I confess the secrets of my shameful deeds, I have no words before you without guilt. For you know the wounds of my conscience, you know the hidden things of my thoughts, and you alone recognise my uncleanness. Have mercy on me, Lord, have mercy on me; forgive one handling the secrets of your mystery, and do not judge unworthy of your mercy one whom you permit to pray for others; and in whom you do not recognise the testimony of good work, do not at least refuse the office of the stewardship entrusted [to him], Saviour of the world. Who live."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.63",
+   "text": "When he puts the incense into the thurible before the Gospel is read, let him say: May the Lord kindle and fill our hearts with the fragrance of his heavenly inspiration, to hear and fulfil the precepts of his Gospel. Who lives."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.64",
+   "text": "Then let the priest say to the deacon as he bows: The Lord be in your heart and on your lips, that you may fittingly proclaim the Gospel of peace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.65",
+   "text": "When the Gospel has been read through, let it be brought to the bishop to be kissed, and let him say: Through these words of the holy Gospel of your Son our Lord Jesus Christ may the Lord pardon our sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.66",
+   "text": "When the altar has been adorned, before the prelate receives the offerings of the priests and deacons, while the Offertories are sung, let him go up to the altar and most humbly say this prayer: Before your eyes, Lord, I stand guilty, my conscience as witness. I do not dare to ask what I do not deserve to obtain. For you know, Lord, what goes on in us. We blush to confess what we do not fear to commit. We obey you only in words; in heart we lie; and what we say we will, we show by our deeds that we will not. But spare, Lord, those who confess, forgive those who sin, have mercy on those who entreat you. And since my understanding is weak in your sacraments, and sinners have no words before you without guilt, grant, Lord, that if you do not accept words of hard heart from us, unworthy and sinners, you may bestow pardon on us through your own self. Who live and reign, God, both always and for ever and ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.67",
+   "text": "Then let him turn to receive the offerings of the priests or deacons who offer, and let each one say this prayer: To you, Lord God, my Creator, I offer a sacrifice for the remission of all my sins and those of all your faithful."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.68",
+   "text": "When the deacon receives the libation of the chalice, let him say: May this sacrifice be acceptable to almighty God. Then let the priest return to the altar; and before the altar, before he says the Secret, let him first accuse himself faithfully and say this prayer: Before the sight of your divine Majesty I stand guilty, who presume to invoke your holy name. Have mercy on me, Lord, a sinful man; forgive the unworthy priest by whose hands this offering is seen to be offered; spare one polluted by the stain of sins, above all of the capital ones. And do not enter into judgement with your servant, that is, one weighed down by the vices and pleasures of the flesh. Remember, Lord, that I am flesh. In your sight even the heavens are not clean, how much more we mortal men. I am unworthy to be living. You who do not will the death of the sinner, give me pardon while I am set in the flesh, that through the labours of penance I may enjoy eternal life in heaven through you, Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.69",
+   "text": "Then with a pure heart let him offer to the Lord the oblations placed on the altar, saying: Receive, holy Trinity, this offering which I offer to you for myself, a sinner, and for the salvation of our congregation, and for all the Christian people, and for all who give alms to us, and also for those who have commended themselves to our prayers, and who keep us in remembrance in their prayers, that here we may receive pardon of sins, and in the future may deserve to obtain eternal rewards. Amen. Receive, holy Trinity, this offering, which I offer first of all, as is right, in memory of the Incarnation, Nativity, Passion, Resurrection and Ascension of our Lord Jesus Christ, and in honour of all your saints who have pleased you from the beginning of the world, and whose names and relics are contained here, and of those whose feast is celebrated on earth, that it may profit them for honour and us for salvation, that all those whose memory we keep on earth may deign to intercede in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.70",
+   "text": "Receive, holy Trinity, this offering, which I offer to you for the soul of your servant, so that, by your gift, having received pardon of sins, he may also deserve to receive the immense joys of eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.71",
+   "text": "Receive, holy Trinity, this offering, which I offer to you for the souls of your servants, men and women, that, cleansed through this saving sacrifice, they may deserve to be joined to the fellowship of your saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.72",
+   "text": "Then let the deacon offer the chalice to the priest on the altar, and say: Offer to God a sacrifice of praise, and pay your vows to the Most High. May the Lord be your helper and make you clean; when you pray to him, may he hear you."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.73",
+   "text": "And let the bishop, offering the chalice to the Lord, say: Lord Jesus Christ, who on the cross of your passion willed blood and water to flow from your side, with which to consecrate your Church for yourself, receive this sacrifice placed upon your altar, and grant, most merciful one, that for our redemption and also for that of the whole world it may rise into the sight of your divine Majesty with the odour of your sweetness, Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.74",
+   "text": "For mixing the wine with water."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.75",
+   "text": "God, who wonderfully established the dignity of human nature, and more wonderfully restored it, grant us, we beseech you, through the mystery of this water and wine, to be partakers of the divinity of him who deigned to become a sharer in our humanity, Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.76",
+   "text": "Then with raised hand let him bless both."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.77",
+   "text": "In the name of our Lord Jesus Christ may this sacrifice be spotless, and united and blessed by you, the living and true God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.78",
+   "text": "Afterwards, taking incense, let him put it into the thurible, saying:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.79",
+   "text": "Through the intercession of Saint Gabriel the archangel, standing at the right of the altar of incense, and of all his elect, may the Lord deign to bless this incense and receive it as an odour of sweetness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.80",
+   "text": "Then let him put incense over the sacrifice, and around the altar let him say: May this incense, blessed by you, rise up to you, Lord, and may your mercy come down upon us. Let my prayer be directed like incense in your sight."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.81",
+   "text": "When the odour of the same incense is offered to the bishop or to the others, let each one say: May the Lord kindle in us the fire of his love and the flame of eternal charity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.82",
+   "text": "Then let the priest turn most humbly to those standing around, and say: Pray for me, a wretched sinner, to our Lord Jesus Christ, that my sacrifice and yours may be acceptable in the sight of the divine goodness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.83",
+   "text": "Then let it be said by each one: May all the saints of God pray for you. May the Lord remember all your sacrifice, and may your burnt offering be made rich. May the Lord hear you as you pray for us. May almighty God have mercy on you and forgive you all your sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.84",
+   "text": "After the priest begins the Te igitur, let the deacons and subdeacons sing these psalms: May the Lord hear you; To you, Lord, I have lifted up; Have mercy on me, God; He who dwells; with the versicles: Save your servant; The desire of his heart; He asked life of you; The eyes of the Lord are upon the just; Let [your] mercy be; Lord, hear [my] prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.85",
+   "text": "Prayer for the priest. — Let your servant rejoice, Lord God, in the benefits he has obtained; and to him to whom you have given confidence to hope for your kindness, graciously grant the fulfilment of the mercy he longs for."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.86",
+   "text": "Likewise a prayer for all. — Incline the ears of your kindness to our prayers, we beseech you, Lord, and, knower of hidden things, graciously hear the prayers of your suppliants, that by your gift we may attain to eternal pardon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.87",
+   "text": "When the Secret and the Lord's Prayer are finished, and he has said, The peace of the Lord be always with you, let the body of the Lord be mixed with the blood."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.88",
+   "text": "May this holy mingling of the body and blood of our Lord Jesus Christ be for all of us a saving preparation of mind and body for obtaining eternal life. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.89",
+   "text": "And after the episcopal blessing has been completed, taking the portion which he broke earlier and holding it over the chalice, let him break it and say: May the mingling of the holy blood with the holy body of our Lord Jesus Christ profit all who receive it for eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.90",
+   "text": "When he takes the body of the Lord into his hands, let him say: I will take the heavenly bread, and call upon the name of the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.91",
+   "text": "For receiving the Lord's body."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.92",
+   "text": "May the receiving of your body, Lord Jesus Christ, which I, unworthy, presume to take, not turn out for me to judgement and condemnation, but through your kindness may it profit me for the protection of mind and body. Who live."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.93",
+   "text": "When he takes the chalice, let him say: What shall I render to the Lord, etc., as in the Roman Missal. After receiving, secretly:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.94",
+   "text": "May the communion and strengthening of your holy blood, Lord Jesus Christ, profit me for the remission of all sins, and keep me unto eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.95",
+   "text": "Lord Jesus Christ, Son of the living God, who by the will of the Father, with the Holy Spirit working with you, gave life to the world through your death, free me through this your holy body and blood, so that it may not be to me for judgement nor for condemnation, but may profit my soul as a remedy; and free me, God, from all my iniquities, and make me obey your commandments, and never be separated from you and from your saints for ever. Who live."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.96",
+   "text": "Holy Lord, almighty Father, eternal God, grant me so to receive this body and blood of your Son our Lord Jesus Christ that through it I may deserve to receive remission of sins and to be filled with your Holy Spirit, for you are, and besides you there is no other, whose glorious name endures for ever and ever. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.97",
+   "text": "Then, when he begins to give communion to the clergy or people, let him say to each:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.98",
+   "text": "May the receiving of the body of our Lord be for you life and salvation, and the redemption of all your sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.99",
+   "text": "Prayer of Saint Gregory the pope. — May the body of our Lord Jesus Christ profit me for the remission of all sins unto eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.100",
+   "text": "When the Mass is finished, after the deacon says Go, it is the dismissal, let the priest come before the altar and, having kissed [it], say:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.101",
+   "text": "May the homage of my service please you, holy Trinity, and grant that this sacrifice which I, unworthy, have offered before the eyes of your Majesty may be pleasing to you, and by your mercy may be propitiatory for me and for all for whom I have offered it. Who live."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.102",
+   "text": "Another prayer. — By the merits and intercessions of all his saints may the almighty Lord have mercy on us."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.103",
+   "text": "When all is completed, let the bishop, returning to the sacristy with the deacons and the others, sing the hymn of the three young men, and Praise the Lord in his saints. Afterwards the versicles: Let all your works praise you, Lord, and your saints; The just shall exult; Let the just exult; Not to us, Lord, not to us; Let your priests be clothed; Do not enter into [judgement]; Lord God of hosts; May God, our God, bless us; Lord, hear. Then the prayer: God, who for the three young men tempered the flames of fire, mercifully grant through their intercession and that of all the saints that the flame of vices may not burn us your servants. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab6",
+   "text": "ANCIENT RITE OF CELEBRATING MASS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.104",
+   "text": "From an ancient manuscript codex of the priory of Salicosa (commonly Sausseuse) in the Vexin, of the order of Canons of Saint Augustine, not far from Vernon. The beginning of this codex is:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.105",
+   "text": "To the lord truly holy and to be honoured for his merits, Maurilius, venerable archbishop of the holy Church of Rouen, John of Avranches, lowest in merit of all bishops, [offers] the gift of complete obedience in body and spirit, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.106",
+   "text": "Let the Mass of the day be celebrated in this order. First, on ferial days let two bells be rung, on feasts all of them. At the Gloria Patri, while the choir sings the Introit instituted by blessed Celestine, let the priest and the other ministers be vested in the vestry with the holy vestments in order: namely the deacon with alb, stole and dalmatic; the subdeacon with alb, tunic and maniple; the rest only with albs, namely two acolytes, one who is to sing the Gradual and carry the candlestick, the other [who is to sing] the Alleluia and carry the thurible. When the psalm has been said, as the choir begins the Gloria Patri, the priest and the other ministers shall proceed to the altar thus. Let the deacon go before the priest; let the subdeacon, going before the deacon, carry the Gospel book; let the candle-bearer with his candle go before the subdeacon, and the bearer of the thurible before the candle-bearer. So when they have come before the altar, let the subdeacon place the Gospel book on the right horn of the altar, where it will remain until the Gospel. By the altar Jerusalem is signified, in which from the beginning of the Lord's coming the teaching of the Gospel resounded, and from there it will go forth into public, as it is written: Out of Zion shall go forth the law, and the word of the Lord from Jerusalem. Afterwards let the subdeacon pass to the priest's left, the deacon to his right; there, after confession has been made to one another, let the priest kiss the deacon and the subdeacon. For Christ first gave peace to the apostles, [and] through them transmitted it to the world. After this let the priest and the other ministers pray briefly behind, before the altar, standing in their order; then, rising first from prayer, let him bow to the deacon who bows to him, the deacon to the subdeacon who bows [to him], the subdeacon to the choir which bows to him. And after the bow the deacon, kissing both horns of the altar, is to offer the Gospel book to be kissed to the priest as he kisses the middle of the altar. For by the Gospel Christ, blotting out the handwriting of transgression, gave peace to the world, and by its heralds reconciled both peoples to himself, namely the Jewish and the gentile. That the priest kisses the altar signifies the Jewish nation dwelling in Jerusalem, which Christ reconciled to himself; by the Gospel book, the gentile people. Then the priest goes to the right horn of the altar; for Christ always led the right[-hand] life, and by the right[-hand] life heavenly glory is acquired. Let the deacon, imitating the same life, stand behind him until he signals him to sit. The seat of the bishop, according to the decrees of Pope Urban and the council of Carthage, ought to be higher than the others, and in it the pontifical chair is to be set honourably, etc. Let the candle-bearers hold the candlesticks from south to north until the Kyrie eleison, and when it has begun let them set them down in that place. By the south, which is a warm wind, the fervour of the Holy Spirit is signified, which, at the rising of the true Sun, is spread from east to west illuminating the world. A third one is placed in the middle, by which it is signified that where two or three are gathered in the name of the Lord, the Lord is present. By the fact that the candles are set down once the Kyrie has begun, it is shown that while we entreat the Lord we must be humbled with contrite heart. When the priest greets the people, let them hold them again in the same place. When the prayer is finished let them place them from east to west. For the four parts of the world are illuminated by the two Testaments. Seven candlesticks on feasts signify the seven gifts of the Holy Spirit. When the subdeacon begins the Epistle, let the priest sit beside the altar and signal the deacon to sit in his place; but let the subdeacon remain in the choir, except at the time of his ministry. As the end of the Gospel approaches, let the priest put thymiama into the thurible, and with it, once the altar has been censed, let it be carried before the Gospel. By the thurible, which gives off a fragrant odour, [is signified] the fame of good works which went before the teaching of Christ. Let the deacon, having received the blessing from the priest, take the Gospel book from the altar and place it on his left shoulder. For by the left shoulder the temporal life is signified, in which the Gospel must be preached. And let the subdeacon carry a cushion before him. By the cushion which goes before is figured the law which went before the Gospel; by the feathers which are hidden inside, the mysteries which were contained in the law; by the lightness of the feather, the precepts of the old law, light in comparison with the new; for in that one it is said: You shall not kill; but in the new: Whoever is angry with his brother shall be liable to judgement. And so, with the candle-bearer and the thurible-bearer going before, let him go in procession to the pulpit, and with the Gospel book set down and censed, turned towards the north, let him read the Gospel; for by the north is signified the unbelief of the gentiles, to whom the Gospel is preached by the apostles kindled with the fire of the Holy Spirit. When it has been read let the candles be extinguished. For with the sacrifice of the true Lamb the figurative sacrifice ceased, and the other mysteries which were contained in the law and the prophets, designated by the candlesticks. Let incense be offered to the priest in the thurible, and let him kiss the Gospel book, first held out to him by the subdeacon, which is afterwards to be kissed by the deacon. And on feast days let it be presented by the subdeacon to all the clergy, with incense going before. When the Gospel has been read, let the people be greeted by the priest; let the Offertory be begun, and when it is finished let the Verse follow. Meanwhile let the oblations of bread and wine be offered by the subdeacon to the deacon, by the deacon to the priest. On feasts let the cantor bring to the deacon water covered with a linen cloth, which the deacon is to mix with the wine. For by the sweet melody of the cantor the people are kindled with pious devotion and divine love, and so run to the Lord and are made one body in Christ. By the wine [is signified] Christ, by the water the people, by the linen covering of the water the labour of the cantor's melody, by which the people are freed from depravity of thoughts; for by linen labour is expressed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.107",
+   "text": "When the water is mixed with the wine, the people are united to Christ. On other days let an acolyte minister [it]. Let the priest arrange the oblation so that he sets the chalice on the right side of the Host; for from the right side of the Lord flowed blood and water. And so, with [it] covered by the corporal, let him offer incense over it, and then hand [it] to the deacon. Let the deacon carry [it] round the altar, afterwards give [it] back to the priest, then to the minister, so that he may carry it to the clergy and people. Then, taking the paten from the altar, let him hand it to the subdeacon, and the subdeacon, if there is one, to the acolyte. For no one may remove anything sacred from the altar except a deacon or a priest. Then let the priest alone pray, bowed before the altar, asking that he may worthily approach the altar and attend to the divine rites. Let the other ministers stand in prayer, each in his own order. After this, turned towards the people, let him bid them pray, and, turning to the altar, let him say the Secret Prayer; when it is completed, let him utter Vere dignum, etc., with devout mind and sweet voice, at the end of which let the choir respond with the hymn Sanctus, Sanctus, Sanctus, instituted by blessed Sixtus. Let the deacon and ministers remain bowed behind the priest from Te igitur, etc., until Sed libera nos. For the apostles suffered with the suffering Lord in grief and fear. By the bowing of the deacons is signified the sorrow of the apostles; by that of the subdeacons, [that] of the holy women. The subdeacons likewise are to be bowed in sight of the priest; by them are expressed the holy women, who, while the Lord suffered and the disciples fled, though struck with fear and grief, were attentive to what was being done to him, but when the Lord had been taken down from the cross and buried, withdrew from there and prepared spices for the burial; so let the subdeacons depart from that place and busy themselves to minister to the body and blood of Christ, offering the paten through the hand of the deacon to the priest, for breaking the body of the Lord on it, etc. When therefore he comes to these words, namely Per quem haec omnia, Domine, semper bona, then let the deacon approach and take the right corner of the corporal with his right hand, [and] uncover [it] with the priest. Let the priest, saying Per ipsum, etc., touch the four sides of the chalice with the oblation. For by the immolation of the body of Christ the four regions of the world were redeemed. Likewise, when the prayer is finished, let both raise the chalice, set it down together, and cover it. Then let the deacon kiss the altar, then the priest's right shoulder. By the priest's shoulder is signified the stone on which the angel sat at the tomb. For an angel must always be believed to be present at the immolation of the body of Christ. By the deacon Joseph is expressed, by the priest Nicodemus, by the raising of the Host from the altar the taking down of Christ from the cross, by its being set down again on the altar the burial of Christ. After this let the priest utter the Lord's Prayer in a loud voice. By the raising of the voice in the Lord's Prayer the unity of our brotherhood is shown. For God our Father, master of peace and concord, taught us to pray thus, one for all, just as he bore all in one. When the clergy respond Sed libera nos a malo, let him complete the office of consecration. When Sed libera has been said, let the deacon and subdeacon stand upright and fix their eyes on the consecration of the Lord's body. For the evangelist says that those who knew him stood far off, beating their breasts. When therefore he comes to the place Da propitius pacem, let [the one] who, wrapped in a cloth, had held the paten offer it to the subdeacon, the subdeacon to the deacon, the deacon to the priest, and on it let the priest divide the body of the Lord into three: putting one of the parts into the chalice and saying Pax Domini in a loud voice, let him at once add secretly: May this mingling of the body and blood of the Lord together be for us who receive [it] unto eternal life. With another let him communicate himself, the deacon and the subdeacon. The third let him keep on the paten as viaticum, if there is need, until the end of the Mass. By the particle of the oblation put into the chalice is shown the body of Christ which rose from the dead; by that eaten by the priest or people, Christ's life with his disciples after the Resurrection, quickening them in God. The third, which remains on the altar, holy Church calls the viaticum of the dying, to show that those who die in Christ ought to be reckoned not as dying but as sleeping, since they are led to eternal life by so great a guide. But if there is no need, let the priest or one of the ministers take the third. Let the priest communicate not with intincted bread, but, according to the decree of the council of Toledo, with the body separately and the blood separately, except for the people, who are permitted to communicate with intincted bread, not by authority but from the utmost necessity of fear of spilling the blood of Christ. While the priest gives communion to the ministers, let him first kiss each one, and then let the one who is to communicate, having kissed the priest's hand, receive communion from him. Lastly let the priest consume the particle that remained in the chalice, and afterwards hand the chalice to the deacon to cleanse it and consume what remains; let him carry the chalice with the paten to the left horn of the altar, where he is to take part for himself and give part to the subdeacon. After both have been cleansed, let both partake. Let an acolyte bring another chalice to the priest for cleansing his fingers. Let the subdeacon serve the deacon in cleansing the chalice and paten. After the cleansing of the paten and chalice, let the acolyte hold both wrapped in a cloth until the completion of the first Postcommunion, and the other ministers [perform] their own duties. The priest, as we said above, having divided the body of the Lord, is to utter Pax Domini in a loud voice; from him let one of the canons receive the peace, which he is to distribute to the senior members in each choir. Let them pass it to the rest in such a way that no one moves from his place, but each receives from the one above and gives to the one below. Let one of the junior members of each choir receive it from the seniors and distribute it to the rest according to the prescribed order. Let them firmly keep this, according to the Apostle, outdoing one another in honour, so that those giving and receiving the peace always bow. By the kiss of peace is designated the unity of our faith. Let the choir sing Agnus Dei, which Pope Sergius ordered to be sung at the time of the fraction of the Lord's body, since the immolation of this Lamb redeemed the world. When it has begun, let the candlesticks be lit; by the passion of the Lamb the world was illuminated, etc."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab7",
+   "text": "Rite formerly observed at the anointing of the kings of the Franks."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab8",
+   "text": "From the Codex of Abbot Ratold."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.109",
+   "text": "Here begins the inquiry or election by the bishops and clergy, and also by the people, for consecrating or blessing a king."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.110",
+   "text": "Let the admonition of the bishops or clergy or people, to be addressed to the king, be read thus by one bishop before all:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.111",
+   "text": "We ask to be granted by you that you preserve for each of us and for the churches committed to us canonical privilege and due law and justice, and show [us] protection, as a king in his kingdom ought rightly to show to each bishop and to the church committed to him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.112",
+   "text": "The king's reply. — I promise and grant to you that for each of you and for the churches committed to you I will preserve canonical privilege and due law and justice, and will show protection, as far as I can, with the Lord's help, as a king in his kingdom ought rightly to show to each bishop and to the church committed to him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.113",
+   "text": "Then let two bishops address the people in the church, asking their will, and if they are in agreement, let them give thanks to almighty God, singing Te Deum laudamus. And let the two bishops take him by the hands and lead him before the altar, and he is to lie prostrate until the end of Te Deum laudamus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.114",
+   "text": "Invocation over the king. — We call upon you, holy Lord, almighty Father, eternal God, that this your servant N., whom by the providence of your divine dispensation, formed at the beginning, you have granted to grow up to this present day rejoicing in the flower of youth, you may cause, enriched with the gift of your loving-kindness and full of the grace of truth, always to advance from day to day to better things before God and men, so that, rejoicing in the bounty of heavenly grace, he may take up the throne of supreme rule, and, defended on every side by the wall of your mercy from the hostility of enemies, may be found worthy to rule happily the people committed to him with the peace of reconciliation and the strength of victory. Through the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.115",
+   "text": "Another prayer. — O God, who care for your peoples by your power and rule them by love, give this your servant the Spirit of wisdom with the governance of discipline, so that, devoted to you with all his heart, he may always remain fit in the government of the kingdom, and that by your gift the security of the Church may be maintained in his times, and Christian devotion may continue in tranquillity, so that, persevering in good works, he may be able with you as guide to come to the eternal kingdom. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.116",
+   "text": "Another. — In his days may there arise for all equity and justice, help for friends, hindrance for enemies, comfort for the humble, correction for the proud, instruction for the rich, compassion for the poor, peace for strangers, peace and security for his own people in their homeland; governing each one with moderation according to his measure, may he diligently learn himself, so that, watered by your compunction, he may be able to give the whole people examples of life pleasing to you, and, walking along the way of truth with the flock subject to him, may acquire frugal wealth abundantly, and at the same time receive everything granted by you for the health not only of bodies but also of hearts. And so, setting the thought of his mind and all his counsel in you, may he be seen always to find the helm of the people with peace and wisdom together; and with your help may he receive length of present life, and through good times come to extreme old age, and, at the perfect end of this frailty, freed from all bonds of vices by the bounty of your loving-kindness, may he attain the everlasting rewards of infinite prosperity and the eternal fellowship of the angels. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.117",
+   "text": "Consecration of the king. — Almighty, eternal God, Creator and governor of heaven and earth, maker and orderer of angels and men, King of kings and Lord of lords, who made Abraham your faithful servant triumph over his enemies, who granted manifold victory to Moses and Joshua, set over your people, who also raised your humble servant David to the height of the kingdom, and delivered him from the mouth of the lion and from the hand of the beast and of Goliath, and also from the wicked sword of Saul and of all his enemies, and enriched Solomon with the ineffable gift of wisdom and peace: look favourably on the prayers of our humility, and upon this your servant, whom with suppliant devotion we together elect to the kingdom of N., that is, of all Albion and of the Franks, multiply the gifts of your blessings, and surround him always and everywhere with the right hand of your power; so that, strengthened by the faithfulness of the aforesaid Abraham, relying on the meekness of Moses, fortified by the courage of Joshua, exalted by the humility of David, adorned with the wisdom of Solomon, he may please you in all things, and may always walk the path of justice with unstumbling step, and may henceforth so nourish and teach, defend and instruct the Church of all Albion together with the peoples joined to him, and may likewise administer it mightily and royally against all enemies visible and invisible by the governance of your power, so that he may not abandon the royal throne, that is, the sceptre of the Franks, but with your help may restore their minds to the former concord of faith and peace, so that, upheld by the due submission of both these peoples, glorified with fitting love, he may through a long span of life be found worthy by your mercy to establish and govern together the summit of his father's glory; and, fortified with the helmet of your protection, and continually protected by the invincible shield, and surrounded with heavenly arms, may he happily take the triumph of longed-for victory over his enemies, and bring the terror of his power upon the unbelievers, and joyfully bring back peace to those who fight for you; and adorn him also with the manifold blessing of honour of the virtues with which you adorned your aforesaid faithful ones, and set him on high in the government of the kingdom, and anoint him with the oil of the grace of the Holy Spirit. Here let him be anointed with oil. Antiphon. Zadok the priest and Nathan the prophet anointed Solomon king in Gihon, and coming up joyfully they said: May the king live for ever! — With which you anointed priests, kings and prophets, and martyrs, who through faith conquered kingdoms, worked justice, and obtained the promises. May this most sacred anointing flow down upon his head, and descend to the inner parts, and penetrate the depths of his heart, and may he by your grace be made worthy of the promises which the most victorious kings obtained; so that he may both reign happily in the present age and come to their fellowship in the heavenly kingdom, through our Lord Jesus Christ your Son, who was anointed with the oil of gladness above his fellows, and by the power of the cross overcame the powers of the air, destroyed hell, vanquished the kingdom of the devil, and ascended victorious to the heavens; in whose hand rest all victory, all glory and power, and who lives and reigns with you, God, in the unity of the same Spirit. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.118",
+   "text": "Another. — O God, strength of the elect and exaltation of the humble, who in the beginning willed to punish the crimes of the world by the outpouring of the flood, and by a dove carrying an olive branch showed that peace had been restored to the earth, and again consecrated Aaron your servant by anointing with oil, and afterwards by the pouring of this ointment made priests, kings and prophets to rule the people of Israel, and foretold through the prophetic voice of your servant David that the face of the Church was to be made glad with oil: so, we beseech you, almighty Father, deign by the richness of this creature to sanctify this your servant with your blessing, and cause him, in the likeness of the dove, to provide the peace of simplicity to the people committed to him, and diligently to imitate the example of Aaron in the service of God, and always to attain the heights of the kingdom in counsels of knowledge and equity of judgement, and, with your help, through this anointing with oil to keep a cheerful face ready for the whole people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.119",
+   "text": "Another. — May God the Son, Christ our Lord, who was anointed by the Father with the oil of exultation above his fellows, himself, through the present pouring of the sacred ointment, pour upon your head the blessing of the Spirit the Paraclete, and make it penetrate to the inner parts of your heart; so that by this visible and tangible gift you may receive invisible things, and, having administered the temporal kingdom with just governance, may be found worthy to reign eternally with him. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.120",
+   "text": "Here let the ring be given. — Receive the ring, that is, the seal of the holy faith, the firmness of the kingdom, the increase of power, by which you may know how to drive back enemies with triumphant power, to destroy heresies, to unite your subjects, and to be bound to perseverance in the catholic faith. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.121",
+   "text": "Prayer after the ring has been given. — O God, to whom belongs all power and dignity, give your servant the prosperous effect of his dignity, in which, with you rewarding [him], he may remain, and may always fear [you], and strive continually to please you. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.122",
+   "text": "Here let the sword be girded on him by the archbishop. — Receive this sword, conferred on you with God's blessing, by which, through the power of the Holy Spirit, you may be able to resist and cast out all your enemies and all the adversaries of the holy Church of God, and to guard the kingdom committed to you, and to protect the camps of God, through the help of the most invincible conqueror, our Lord Jesus Christ, who with the Father in the unity of the Holy Spirit lives and reigns for ever and ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.123",
+   "text": "Prayer after the sword. — O God, who by your providence govern things heavenly and earthly together, be gracious to our most Christian king, so that all the strength of his enemies may be broken by the power of the spiritual sword, and, with you fighting for him, may be utterly crushed. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.124",
+   "text": "Here let him be crowned. — May God crown you with the crown of glory and justice, with honour and the work of fortitude, so that through the office of our blessing, with right faith and the manifold fruit of good works, you may come to the crown of the everlasting kingdom, by the gift of him whose kingdom endures for ever and ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.125",
+   "text": "Prayer after the crown. — O God of eternity, leader of the powers, conqueror of all enemies, bless this your servant who bows his head to you, and preserve him in long health and prosperous happiness, and wherever and for whomever he calls upon your help, be quickly present, and protect and defend [him]. Grant him, we beseech you, Lord, the riches of your grace. Fulfil his desire with good things; crown him with compassion and mercy, and may he serve you, the Lord, with devout devotion. Through our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.126",
+   "text": "Here let the sceptre be given. — Receive the sceptre, the emblem of royal majesty, that is, the straight rod of the kingdom, the rod of power, by which you may conduct yourself well, defend with royal power from the wicked the holy Church and the Christian people committed to you by God, correct the depraved, bring peace to the upright, and guide them with your help so that they may keep to the right way; so that from the temporal kingdom you may come to the eternal kingdom, with the help of him whose kingdom and dominion endure without end for ever and ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.127",
+   "text": "Prayer after the sceptre. — Lord, fount of all good things, and God, author of all progress, grant, we beseech you, to your servant N. to bear well the dignity he has obtained, and deign to strengthen the honour appointed to him by you. Honour him above all the kings of the earth, enrich him with abundant blessing, and establish him on the throne of the kingdom with firm stability; visit him in his offspring, grant him length of life, may justice always arise in his days; so that with joy and gladness he may glory in the eternal kingdom. Through our Lord Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.128",
+   "text": "Then the rod is given to him. — Receive the rod of power and equity, by which you may understand how to soothe the godly and terrify the reprobate. Teach the way to the one who strays, and stretch out your hand to the fallen, and may you scatter the proud and raise up the humble; and may Jesus Christ our Lord open the door to you, who said of himself: I am the door; if anyone enters through me, he will be saved. And may he who is the key of David and the sceptre of the house of Israel, who opens and no one shuts, shuts and no one opens, be your helper, who leads out of the prison house the captive sitting in darkness and the shadow of death, so that in all things you may be found worthy to follow him of whom the prophet David sang: Your throne, O God, is for ever and ever; a rod of equity is the rod of your kingdom; and by imitating him who says: Love justice and hate iniquity; therefore God, your God, has anointed you with the oil of gladness; after the example of him whom before the ages he had anointed above his fellows, Jesus Christ our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.129",
+   "text": "Then let the Blessing be said. — May almighty God stretch out the right hand of his blessing, and pour out upon you the gift of his protection, and surround you with the wall of happiness and the guard of his favour; through the interceding merits of holy Mary, and of blessed Peter, prince of the apostles, and of Saint Gregory, apostle of the English, and of all the saints, may the Lord forgive you all the evils you have done. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.130",
+   "text": "And may he grant you the grace and mercy which you humbly ask of him, and free you from all adversities, and from all the snares of enemies visible and invisible. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.131",
+   "text": "May he set his good angels to guard you, always and everywhere, to go before you, accompany you and follow you, and by his power free you from sin or the sword, and from the hazard of all dangers. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.132",
+   "text": "May he turn your enemies to the kindness of peace and charity, and make you gracious and lovable to all good men; and may he clothe with saving confusion those who persist in persecuting and hating you; but upon you may everlasting holiness flourish. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.133",
+   "text": "May he always make you victorious and triumphant over enemies invisible and visible, and continually pour into your heart the fear and love of his holy name, and make you persevering in right faith and good works, and, peace having been granted in your days, lead you with the palm of victory to the everlasting kingdom. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.134",
+   "text": "And may he who willed to establish you as king over his people, and [to make you] happy in the present age, grant you to be a sharer of eternal happiness. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.135",
+   "text": "Which may he himself deign to grant."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.136",
+   "text": "Likewise another Blessing. — Bless, Lord, this prelate [and] prince, you who govern the realms of all kings from the beginning of the world. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.137",
+   "text": "And glorify him with such a blessing that he may hold the sceptre of salvation with the sublimity of David, and be found enriched with the gift of sanctifying favour. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.138",
+   "text": "Grant him by your inspiration to rule the people, as you caused Solomon to obtain a peaceful kingdom. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.139",
+   "text": "Which may he himself deign to grant."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.140",
+   "text": "The king's place is assigned. — Stand and hold from now on [the place] which until now you held by your father's designation, delegated to you by hereditary right, through the authority of almighty God, and through our present handing over, that is, of all the bishops and the other servants of God; and the nearer you see the clergy to the holy altars, the greater the honour you should remember to pay them in fitting places, so that the Mediator of God and men may confirm you as mediator of clergy and people on this throne of the kingdom, and Jesus Christ our Lord, King of kings and Lord of lords, may make you reign with him in the eternal kingdom, who with the Father and the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.141",
+   "text": "The duty of a king newly ordained and raised to the throne is to command these three things to the Christian people subject to him: first, that the Church of God and all the Christian people keep true peace at all times. The second is that he forbid robberies and all iniquities to all ranks. The third is that he command equity and mercy in all judgements, so that God, clement and merciful, may by his mercy forgive him and us, who with the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.142",
+   "text": "And then let him kiss all the clergy and people, and let each one say: Long live the king happily for ever! three times: Long live the king! as above. And after the Gospel the king offers into the archbishop's hand the offering and the wine, and so let the Mass be completed in its order. Then let him be given communion by the archbishop in the body and blood of Christ; and so let them give thanks to God, and afterwards go to table."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab9",
+   "text": "LIKEWISE, FOR BLESSING A QUEEN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.143",
+   "text": "She must be led into the church and lie prostrate before the altar. When she has been raised from prayer by the bishops, and with head bowed, let the archbishop say this Prayer: Be present, Lord, to our supplications, and may what is to be done by the ministry of our lowliness be fulfilled by the working of your power. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.144",
+   "text": "Then her head must be anointed with oil. — In the name of the Father and of the Son and of the Holy Spirit, may this anointing with oil profit you for honour and eternal confirmation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.145",
+   "text": "There follows the Prayer after the anointing. — Almighty, everlasting God, graciously pour out upon your handmaid, as we pray, the abundant Spirit of your blessing, so that she who today through the laying on of our hands is established as queen may remain worthy and chosen by your sanctification, and may never afterwards be separated, unworthy, from your grace. Through."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.146",
+   "text": "Then the ring must be put on her finger. — Receive the seal of faith in the Holy Trinity, by which you may avoid all heretical depravities, and by the power granted to you call barbarous nations to the knowledge of the truth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.147",
+   "text": "There follows a Prayer. — God, to whom belongs all power and dignity, grant to your handmaid N., by the sign of your faith, a prosperous fulfilment of her dignity, in which she may always remain firm towards you and strive continually to please you."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.148",
+   "text": "Then the crown must be placed on her head. — Receive the crown of glory, the honour of gladness, that you may shine resplendent and be crowned with eternal exultation. Through our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.149",
+   "text": "Likewise a Prayer. — Lord, fount of all good things and giver of all advancement, grant to your handmaid N. to bear well the dignity she has obtained, and strengthen in her by good works the glory granted her by you. Through our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab10",
+   "text": "THE BLESSING OF A MARRIAGE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.ab11",
+   "text": "From the Codex of Reims."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.151",
+   "text": "Here begins the nuptial Mass. — Be present, Lord, to our supplications, and graciously assist your ordinances, by which you have ordained the propagation of the human race, so that what is joined with you as author may be preserved with you as helper. Through our Lord Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.152",
+   "text": "Likewise another. — We beseech you, almighty God, accompany the ordinances of your providence with kindly favour, and guard with long-lasting peace those whom you join in lawful union. Through our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.153",
+   "text": "Over the offerings. — Be present, Lord, to our supplications, and graciously and kindly accept this offering of your handmaids N., which we offer you for your handmaid N., whom you have deigned to bring to the state of maturity and to the day of her marriage, so that what is sought by your disposition may be fulfilled by your grace. Through our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.154",
+   "text": "It is truly fitting [and right]... who have bound the covenants of marriage with the gentle yoke of concord and the indissoluble bond of peace, so that the chaste fruitfulness of holy marriages might serve to multiply sons of adoption. For by your providence, Lord, and your grace you dispense both in ineffable ways, so that what generation brings forth for the adornment of the world, regeneration may lead to the increase of the Church. Through Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.155",
+   "text": "Within the canon. — This offering, then, of your handmaids N., we beseech you, Lord, graciously accept, for her on whose behalf we humbly entreat your majesty, that as you have granted her to reach an age suited to marriage, so, joined by your gift in marital union, you may make her rejoice in desired offspring, and kindly prolong for her, with her husband, the series of years you have granted. Through Christ our Lord. Which offering, O God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.156",
+   "text": "Within the canon. For the thirtieth day or anniversary of a marriage. — This offering, Lord, of your servants N. and N., which they offer you for the thirtieth day of their union, or the anniversary of the day on which you deigned to join them in the marriage bond, graciously receive, we pray. For this, then, let them render their vows to you, the true and living God, for whom we humbly pour out prayers to your awesome goodness, that together they may grow old well and peacefully, and see their children's children to the third and fourth generation, and bless you all the days of their life. Through Christ our Lord. Which offering."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.157",
+   "text": "You complete the full canon, and say the Lord's Prayer, and then bless her with these words:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.158",
+   "text": "Prayer. — God, who bless the beginning of the growing world with multiplied offspring, be favourable to our supplications, and pour upon this your handmaid N. the help of your blessing, so that in conjugal union, with equal affection, like mind, and mutual holiness, they may be joined."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.159",
+   "text": "Likewise a Prayer. — Father, creator of the world, begetter of those who are born, founder of the multiplying stock, who with your own hands gave Adam a companion, whose bones, growing from his bones, marked a like form with wonderful difference; hence the union of the marriage bed, commanded for the increase of the whole multitude, has bound together the whole world and woven the covenants of the human race. For so it pleased you, Lord, so it was necessary: that, since what you had made like man is far weaker than what you had made like God, the weaker sex was joined to the stronger, so that you might make one out of two, and the offspring might remain mixed with equal pledge; then posterity, brought forth in order, would flow on, so that we might follow in the footsteps of those before, and that they might set themselves no end in so brief a term, though they were mortal. For these things, then, the ordinances of the law to come were given. Therefore, Father, sanctify the beginnings of this your handmaid, that, joined in a good and prosperous union, she may keep the rights of the eternal law; and may she remember, Lord, [that she is bound] not so much to conjugal licence as to the keeping of faith in holy pledges; faithful and chaste, may she marry in Christ, and remain an imitator of holy women. May she be lovable to her husband like Rachel, wise like Rebecca, long-lived and faithful like Sarah. May that deceitful author of transgression usurp nothing of her; may she remain bound to the faith and the commandments; serving the true God devoutly, may she fortify her weakness with the strength of discipline; joined to one bed, may she flee unlawful contacts. May she be modest, grave in chastity, venerable, instructed in heavenly teachings; may she be fruitful in offspring, may she be approved and innocent, and may she come to the rest of the blessed and to the heavenly kingdoms."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.160",
+   "text": "After this say \"Peace be with you\" and so give them communion. Then, after they have received communion, you say the Blessing over them in these words: Holy Lord, almighty Father, with repeated rites we humbly entreat you, for those on whose behalf Christ has interceded with you: deign to cherish the union of your servants; may they be worthy to receive your blessings, so that they may be made fruitful in a succession of children; deign to confirm [them] all. May the snares of the enemy be turned away from them, almighty [God], so that even in marriage itself they may imitate the holiness of the Father, they who by your providence, Lord, have been worthy to be joined. Through our Lord Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1295.tmp1295.opp-lat1.161",
+   "text": "After Communion. — Hear us, holy Lord, almighty Father, eternal God, so that what is ministered by [our] office may rather be fulfilled by your blessing. Through our Lord Jesus Christ."
+  }
+ ]
+}

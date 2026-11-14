@@ -1,0 +1,556 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0040.stoa065b",
+ "edition_urn": "urn:cts:latinLit:stoa0040.stoa065b.ai-claude",
+ "source_edition": "stoa0040.stoa065b.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Dialogus Quaestionum LXV [Incertus]: AI translation (Claude)",
+  "author": "Augustine, Saint",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0040.stoa065b.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.head": "Line .3: 'Dominis' in .6 read as 'Deus' (John 4:24, 'Spiritus est Deus'); the printed 'Dominis' is likely a scanning error. In .3 'in Dei numine' read as 'in Dei nomine' (in the name of God). In .5 'ο̇μουτίαν' is a garbled form of ὁμοουσίαν (homoousia). The quotation of John 8:25 ('Principium, quia et loquor vobis') follows the Latin text and is obscure in sense. In .6 'quorum patres' follows the text's abbreviated citation of Rom. 9:5.",
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.8": "Line 8: the citation 'Rum. v, 1R, 48' is a scanning error for Rom. 5:12, 18. Line 16: 'non enim existendo dedit, sed gignendo' is terse; rendered as contrasting giving to one already existing with giving by begetting. Line 18: the citation of Acts II, 2 is given as 2:3, where the fire appears. Line 23: Gen. 'xxu, 12' read as 22:12; 'Semper omnia in praesentia De.. sunt' read as 'in praesentia Dei'.",
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.25": "Line 36: 'non est cohibenda, ut inde se contineat ac temperet' is awkward; translated as read. Line 38: 'quale < I nos' is garbled; read as 'quale [et] nos'. Line 42: 'Principium, quia et loquor vobis' read as 'qui et loquor vobis' (John 8:25); the closing phrase 'contempletur Trinitatem Deum esse in Deo' is obscure and may be corrupt. Line 27: reference 'I d. XIII, 43' is Matt. 13:43.",
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.43": "Q22: '(lum modo' read as 'Cum modo'. Q24: 'Si saMio' is garbled; translated as 'If God saw'. Q26: 'te totam' is feminine, perhaps implying an omitted noun such as 'animam'; rendered 'yourself wholly'. 'divisio mum' read as 'divisio trium'. 'mors carnis nostrae et resurrectio ejus' read with 'ejus' referring to our flesh/soul. 'simplum Domini bis, et duplum nostrum bis' is obscure as printed (perhaps 'semel' was intended for the first); translated as it stands. A footnote mark after 'dupla' and 'dies sex' omitted.",
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.53": "Q.34 answer: 'clam' read as 'clausi' (closed), evidently the intended sense. Q.31 answer: 'operaremur' read as 'operaretur'. Ps. 104:34 reference as printed (Vulgate numbering); the Virgil citation is to Aeneid 2.20.",
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.69": "Line 74 and 70: stray footnote marks omitted. Line 78: read 'sicut aeterna' for 'Sic tamen alterna' and 'habuit' for 'Imbui'. Line 80: 'docens id quod nescit' ('teaching what it does not know') is odd; perhaps read 'nesciunt' ('what they [the animals] do not know'). Line 84: the quotation 'Now I know that you fear God' is Gen. 22:12; the edition's reference 'XIII, 12' appears to be a misprint. 'quum condidit' read as 'quam condidit'.",
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.85": "Line 92: 'imissio' read as 'amissio' (loss). Line 104: 'nec inis' read as 'nec his'; 'nomalos' as 'et malos'; 'furis' as 'foris'. Line 106: 'linis' read as 'finis'; the sentence 'spiritus est altitudo nostra, ipse scilicet tricenarius doctrinam Evangelicam consecravit' is awkward and possibly corrupt, since 'tricenarius' (aged thirty) seems to refer to Christ beginning his teaching at thirty (Luke 3:23); a footnote mark '2' follows it in the edition. The Isaiah reference is presumably 11:2-3. Line 98: 'maledicti sint' rendered as indicative 'are cursed', following the closing 'maledicti sunt'.",
+  "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.109": "Q.59: 'baptizamur' (we are baptised) read as 'baptizantur' (they are baptised), as the sense requires. Q.61: 'utillimus' read as 'ultimus' (last). Q.62: the edition cites Gen. 12:4; the verse is 12:1. Q.65: 'exagio' taken as 'assessment, testing'; the reading is uncertain."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.head",
+   "text": "DIALOGUE OF SIXTY-FIVE QUESTIONS, IN THE FORM OF OROSIUS ASKING AND AUGUSTINE ANSWERING."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.1",
+   "text": "Although many men, and men of the highest repute, have published countless short works, in different styles indeed but not in a different faith, so that it is difficult to read them all, yet those that are read are very little understood, because of the elegance of their language and the most difficult intricacies of their questions. For in truth, since they are compelled by the depth of divine Scripture to take a hidden road, they have left no small uncertainty to our littleness. There are also plainly spiritual men who follow their language and penetrate their meaning. But we, while we satisfy our desires, do not match their outstanding knowledge, so as to be able to understand these things as they do. Therefore I ask you to answer me as I question you, and to be so good as to clear up what makes for obscurity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.2",
+   "text": "FIRST QUESTION. First of all I ask you whether God is a Trinity; and I wish to know by what testimonies you prove it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.3",
+   "text": "ANSWER. The beginning of Genesis shows it clearly. For it says: In the beginning God made heaven and earth. Whom else shall we think is to be understood as the beginning, except the Son? For he himself, when the Jews asked him who he was, answered concerning himself: The beginning, who also speak to you (John 8:25). Therefore the Son is the beginning. Through the Son God made heaven and earth: All things were made through him, as John the evangelist relates, and without him nothing was made (John 1:3). Without doubt, in the name of God the Father is to be understood, in the name of the beginning the Son. Indeed, when it had said, In the beginning God made heaven and earth, it went on to add, And the spirit of God was borne over the waters (Gen. 1:1, 2): he is the third person in the Trinity. So if there were no Trinity, our Lord Jesus Christ would never have said to his disciples, Go, baptize all nations in the name of the Father and of the Son and of the Holy Spirit (Matt. 28:19); nor, when the Lord had been baptized in the Jordan by John, would a voice from heaven have said, This is my beloved Son, in whom I am well pleased; nor would the Holy Spirit be said to have descended upon him in the form of a dove and to have remained [on him] (Matt. 3:17, 16). I marvel at the wretched Sabellian heresy, that is, [the heresy] of the Patripassians, that they are so blind in mind as not to heed testimonies so clear and so open. For they assert that there is one person, that is, that the one who is the Father is himself his own Son, and is himself the Holy Spirit. But let us leave their blindness and understand three persons according to the holy Scriptures; that is, that the Father who begot is one, the Son who was begotten by the Father is another, the Holy Spirit is another: not another thing, because they are one in substance. We distinguish the persons; we do not divide the deity. So the Son of God is Son by nature, not by adoption. For thus it is written: From the womb, it says, before the morning star I begot you (Ps. 109:3). Not that God the Father has a womb as we do, or is to be believed to be bodily; but by womb he wished the substance to be understood, from which the Son was born. What the Father is, that he begot: God [begot] God, light light. Thus, as a man begets a man and a dog a dog; but it has never been seen that a man begot a dog. And so he begot the Son not from nothing, nor from some other substance, but from himself. QUESTION 2. On the distinction of the persons, and on the person of the begotten Son, I think I have been satisfied: now I ask what you believe about the Holy Spirit; whether he too is unbegotten, or begotten."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.4",
+   "text": "ANSWER. Sure faith declares the Holy Spirit to be neither unbegotten nor begotten. For if we say unbegotten, we shall seem to affirm two fathers; but if begotten, then we shall be blamed for believing in two sons. But what sure faith holds is that he is neither unbegotten nor begotten, but proceeding from both, that is, from the Father and from the Son. And so that I may prove this by testimonies, hear our Lord Jesus Christ himself teaching his disciples: But when the Paraclete comes, he says, whom I shall send you from the Father, the Spirit of truth who proceeds from the Father, he will bear witness concerning me (John 15:26). And again our Lord Jesus Christ himself, after his resurrection, to show that the Holy Spirit proceeds from him as from the Father, breathed on his disciples and said, Receive the Holy Spirit (John 20:22); likewise, I shall send the promise of my Father upon you (Luke 24:49). So the Spirit of the Father and of the Son is one, one Spirit of both. That he is the Spirit of the Father, our Lord and Saviour himself says to his disciples: For it is not you who speak, but the Spirit of your Father who speaks in you (Matt. 10:20). And that the same is also the Spirit of the Son, Paul the apostle is witness: But if anyone, he says, does not have the Spirit of Christ, he is not his (Rom. 8:9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.5",
+   "text": "QUESTION 3. Concerning the individual persons, that the Father is one, the Son another, the Holy Spirit another; and that the Son is begotten and the Holy Spirit proceeding, we have taken note according to the holy Scriptures: but now I wish to know this, whether the Son or the Holy Spirit is God, and whether there is one substance or essence, which the Greeks call <i>homousia</i> [sameness of being]."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.6",
+   "text": "ANSWER. Pay attention with an attentive mind: I shall gladly show [you] what troubles you. The blessed apostle Paul, [showing] that the Son is God, writing to the Romans about the Israelites, says: Whose are the fathers, from whom is Christ according to the flesh, who is God over all, blessed for ever (Rom. 9:5). And again in the Gospel according to John: That they may know, it says, you the only true God, and Jesus Christ whom you sent (John 17:3). The order of the words is: That they may know you, and Jesus Christ whom you sent, [as] the only true God. And again another Scripture says: That we may be in his true Son Jesus Christ; he is true God and eternal life (1 John 5:20). And to show his equality, the Lord himself says: I and the Father are one (John 10:30). They are one, namely in nature, not in person. And again: For this reason, it says, the Jews sought to kill Jesus, because he not only broke the sabbath but also called God his Father, making himself equal to God (John 5:18). And again the blessed apostle Paul: Who, though he was in the form of God, did not think it robbery to be equal to God (Phil. 2:6). For there could be no robbery where the nature was equal; it was not usurped, but born. He did not seize [it], because he had [it]: and countless other things that do not come to mind at the moment. That the Holy Spirit is true God, the Acts of the Apostles teach most plainly: Ananias, says Peter, why has Satan tempted your heart, that you should lie to the Holy Spirit? and below, You have not lied to men but to God (Acts 5:3, 4). And in the Gospel according to John: God, it says, is Spirit (John 4:24). Paul the apostle, writing to the Corinthians, says: Do you not know that your bodies are the temple of the Holy Spirit, who is in you, whom you have from God, and you are not your own? For you were bought at a great price: glorify and carry God in your body (1 Cor. 6:19, 20). The Father, I say, is God, the Son is God, the Holy Spirit is God; not three gods, but there is one God. For if the Father is greater, the Son lesser, and the Holy Spirit less than lesser, as heretical depravity asserts, there will no longer be one God but three gods, which it is wicked to believe. And divine Scripture strongly refutes them: Hear, Israel, it says, the Lord your God is one God (Deut. 6:4). And so, just as we do not say three gods, nor three essences, so neither three wisdoms nor three spirits. For when asked about the individual persons, whether the Father is wisdom, or the Holy Spirit, we answer: the Father is wisdom, and the Son is wisdom, and the Holy Spirit is wisdom: not three wisdoms, nor three spirits, but there is one wisdom and one spirit; just as there is one substance, or one essence: because for him to be is the same as to be wise or to be spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.7",
+   "text": "QUESTION 4. And if the Father and the Son are equal, how does the Son himself say, The Father is greater than I (John 14:28); and, I came not to do my own will, but the will of him who sent me (John 6:38); and, Father, if it is possible, let this cup pass from me (Matt. 26:39); and, My teaching is not mine, but his who sent me (John 7:16)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.8",
+   "text": "ANSWER. All these things, and others which you have not mentioned, were said according to the form of a servant which he assumed. So, when the first man had been made by God, and endowed with free will, and a command had been laid upon him, if he had kept what God had commanded him, he would not have been punished with death either of body or of soul. But he, disobedient to God's command and lifted up with pride, obeying the persuasion of the serpent, despised God's precepts. And this was the cause that he incurred the peril of death, and that from that one man the whole of human nature came to be corrupt, liable to sin, and mortal. The apostle Paul says: Through one man sin entered into the world, and through sin death, and so death passed through to all men, in whom all sinned. For just as through one man all men [came] into condemnation, so also through the righteousness of one all men [come] into justification of life (Rom. 5:12, 18). And again: The first man from the earth, earthly; the second man from heaven, heavenly (1 Cor. 15:47). This, I say, is the heavenly man. I call him heavenly because he was not conceived of human seed, but was assumed from the virgin Mary for our salvation by the Son of God, as the evangelist John testifies: And the Word, he says, was made flesh, and dwelt among us (John 1:14). The Word was made flesh, not changed into flesh, so that he did not cease to be what he was, but began to be what he was not. For he assumed flesh; he did not turn himself into flesh. By this 'flesh' we understand, taking the part for the whole, the whole man, that is, flesh and rational soul. And just as the first man had died in both flesh and soul, so too it was fitting that through the mediator of God and men, the man Jesus Christ, he should be brought to life in both flesh and soul. Therefore, as we said above, it was according to the form of the man assumed that it was said, The Father is greater than I."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.9",
+   "text": "QUESTION 5. I see that, while inquiring about the one Son of God, you have wished to bring in two, so that you speak of the Son of God and the son of man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.10",
+   "text": "ANSWER. There are not two sons, but one. For he who was the Son of God became the son of man in unity of person. For just as soul and flesh are one man, so the Word and man are one Christ. We acknowledge two substances in the one Son of God, one of deity, the other of humanity, not two persons. So if we were to say that there are two persons, we would bring in two sons, and then there would no longer be a Trinity but a quaternity. For indeed, by that by which he is God, ever equal to the Father, he is present everywhere, wholly in heaven and wholly on earth, and contained by no place. By that by which he is man, he both suffered and died, and rose again, and ascended into heaven, and sits at the right hand of the Father; and he will come to judge the living and the dead just as he was seen to go into heaven, in the same form and substance of flesh, to which he indeed gave immortality, but did not take away its nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.11",
+   "text": "QUESTION 6. If the substance of the Father and of the Son and of the Holy Spirit is one, how did the Son take on flesh without the Father and the Holy Spirit?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.12",
+   "text": "ANSWER. Neither the person of the Father nor that of the Holy Spirit, but only the person of the Son took on flesh. And so that you may understand this, I will use comparisons, so that from the creature you may understand the Creator. Certainly there is reason in the soul, and though they are one, the soul does one thing and reason another. By the soul we live, by reason we are wise. So, although the Father and the Son and the Holy Spirit are one substance, the whole Trinity wrought the man, whom not the whole Trinity assumed, but only the person of the Son."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.13",
+   "text": "QUESTION 7. Did the Father beget the Son by will or by necessity?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.14",
+   "text": "ANSWER. Neither by will nor by necessity: because there is no necessity in God; and will cannot precede wisdom, which is the Son; therefore to be rationally wise comes before rationally willing. For one of our people, when a heretic had asked him whether the Father begot the Son willingly or unwillingly, is said to have answered admirably: You tell me too, heretic, he said: is God the Father God by necessity or by will? If he had said, By necessity, a great absurdity followed for him. But if [he had said], By will, the answer to him was: Then he is God by will, not by nature. And so he himself fell into the snare which he wanted to set, and, seeing himself refuted, fell silent."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.15",
+   "text": "QUESTION 8. How is that to be understood which we read: As the Father has life in himself, so he has given also to the Son to have life in himself (John 5:26)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.16",
+   "text": "ANSWER. We know that the Son of God is not from himself, but begotten of the Father; but that the Father was begotten by no one, and received life from no one. The Father gave the Son life by begetting [him]: not that the Son was first without life and afterwards received life, as we [do], who lost life through sin and receive it again through the grace of the Saviour; but it is said, He received life, because he was not begotten of himself; for [the Father] gave it not to one already existing, but by begetting."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.17",
+   "text": "QUESTION 9. Since you have persuaded me both by reason and by testimonies about the subjection of the Son, that he is not lesser according to substance but according to the form of a servant which he assumed, I therefore ask what you think about the sending of the Holy Spirit: did he too assume a man, so that he may be said to have been sent?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.18",
+   "text": "ANSWER. Just as the Son is not said to be either sent or lesser according to substance, so neither is the Holy Spirit. In short, just as the former is said to be lesser or sent on account of the man, so the latter is said to be sent on account of the dove or the fire (Matt. 3:16, and Acts 2:3): namely, because he appeared not in that substance by which he is equal to the Father, but, as has been said, through a subject creature. For the Holy Spirit did not assume the dove or the fire as the Son assumed a man, so as to remain so for ever; but the visions made there out of a lower creature, to make the Holy Spirit manifest, afterwards ceased to exist. For that incomprehensible and unchangeable divinity, which is the Trinity, God, can never be seen by fleshly eyes except, as has been said, through a subject creature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.19",
+   "text": "QUESTION 10. You have made clear how the Son of God is born of the Father, and the Holy Spirit proceeds from both. And so I ask what difference there is between the birth of the Son and the procession of the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.20",
+   "text": "ANSWER. The Son is of the Father alone; the Holy Spirit is not, [but] the Spirit of both, that is, of the Father and of the Son. But if the Holy Spirit were said to be a son: no one is a son except of two, a father and a mother, and far be it from us to suspect anything of the kind between God the Father and the Son. For not even a son of man proceeds from father and from mother at the same time: when he proceeds from the father, he does not then proceed from the mother, and when he proceeds from the mother into this light, he does not then proceed from the father. But the Holy Spirit does not proceed from the Father into the Son, and from the Son proceed to sanctify the creature, but proceeds from both at once."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.21",
+   "text": "QUESTION 11. How is that to be understood which John the evangelist says of the Holy Spirit, that he will not speak from himself? For he says thus: For he will not speak from himself, but whatever he hears, he will speak (John 16:13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.22",
+   "text": "ANSWER. He will not speak from himself, because he is not from himself. For the Father is born of no one; the Son is begotten of the Father; the Holy Spirit is proceeding from the Father and the Son. Therefore he does not speak from himself, but whatever he hears, he speaks. For him, to hear is to be; and his being is not from himself, but from the Father: therefore whatever he hears, he speaks."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.23",
+   "text": "QUESTION 12. What is it that the apostle Paul says, writing to the Romans: For what we should pray for as we ought, he says, we do not know; but the Spirit himself intercedes for us with unutterable groanings. And he who searches hearts knows what the Spirit desires, because he intercedes for the saints according to God (Rom. 8:26, 27)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.24",
+   "text": "ANSWER. This manner of speaking is found frequently in the holy Scriptures, as when the Lord says to Abraham, Now I have known that you fear God (Gen. 22:12), that is, I have made you know; as the Apostle says, Now knowing God, or rather now known by God (Gal. 4:9). All things are always present to God; before they happen, they are present, and future things have already been done: how then are we now said to be known by God, except by God bringing it about that we know God? So here too the Holy Spirit is written to groan for us, that is, to make us groan. For he pours into us love toward God and neighbour. Just as a day is called joyful because it makes [people] joyful, or sad because it makes them sad, or a letter joyful because it makes them joyful, so here too the Holy Spirit is said to groan because he makes us groan."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.25",
+   "text": "QUESTION 13. When the Jews asked a sign of our Lord and Saviour, he answered them: This adulterous generation seeks a sign, and no sign will be given to it except the sign of Jonah the prophet. For just as Jonah was in the belly of the whale three days and three nights, so will the Son of Man also be in the heart of the earth three days and three nights (Matt. 12:39, 40). Show, then, how he was in the underworld for three days and three nights, when on the sixth day of the week, which is the Preparation, at the ninth hour he gave up his spirit, and on the first day of the week, before daybreak, which is the Lord's Day, he rose again. See, these are not three full days, nor three nights."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.26",
+   "text": "ANSWER. Our ancient fathers held this view: that the first day, which is the Preparation, in its last part, and the last, which is the Lord's Day, in its first part, should each be counted as whole along with their nights; and so, by naming the whole from the part, there were three days: the last part of the sixth weekday, the whole Sabbath, and the first part of the Lord's Day, with their nights."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.27",
+   "text": "QUESTION 14. Since our Lord Jesus Christ promises the saints that in the resurrection they will shine like the sun (Matt. 13:43), why did the Lord himself not shine so in his own resurrection?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.28",
+   "text": "ANSWER. He certainly rose with glorified flesh; but he did not wish to appear to his disciples in that glory, because they could not have looked upon such brightness with their eyes. For if, before he died for us and rose again, when he was transfigured on the mountain, his disciples could not look at him, but fell to the ground for fear, how much more, once the Lord's flesh was glorified, could they not look at it?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.29",
+   "text": "QUESTION 15. The evangelist Mark relates that the Lord was crucified at the third hour (Mark 15:25), but John at the sixth (John 19:14-18); which of these two should rather be believed?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.30",
+   "text": "ANSWER. Both the one spoke truly, and the other likewise. For at the third hour the Jews cried out to Pilate: Crucify, crucify him (Luke 23:21). But the soldiers crucified him at the sixth hour. So what the former accomplished with the tongue, the latter accomplished with their hands. And lest the Jews should seem not to have crucified the Lord, the evangelist therefore put down that the Lord was crucified at the third hour, because not only those who carried out the task crucified him, but also those who cried out. For in them was fulfilled what the Psalmist says: Sons of men, their teeth are weapons and arrows, and their tongue a sharp sword (Ps. 56:5). You see what kind of sword they had, with which they killed the Lord at the third hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.31",
+   "text": "QUESTION 16. Since God created all things good, and there is nothing that was not made by him, where does evil come from?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.32",
+   "text": "ANSWER. Evil is not a nature; rather, the privation of good has received this name. Indeed, good can exist without evil, but evil cannot exist without good, nor can there be evil where there has not been good. And for this reason we speak of a good angel and an evil angel, and a good man and an evil man: but [he is] good in that he is an angel, evil in that he is corrupted by vice; good in that he is a man, evil in that he is corrupted by vice. And so when we say 'good', we praise the nature; when we say 'evil', we censure not the nature, but the vice, which is contrary to the good nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.33",
+   "text": "QUESTION 17. Were all the angels created equal or unequal? And if equal, why were not all firm and stable? But if unequal, by what merit did some deserve to receive the stability of their foreknowledge, while others were quite unable to foresee the fall of their future ruin?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.34",
+   "text": "ANSWER. All the angels were indeed created equal; but when those fell through pride, the rest clung to the Lord in devout obedience, receiving certain knowledge of their own stability, which those others never had. And so they are surrounded in all things by the grace of God, so that they can never fall from the blessed life which they enjoy as they cling to the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.35",
+   "text": "QUESTION 18. How is what God says in Genesis to be understood: Let us make man to our image and likeness (Gen. 1:26)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.36",
+   "text": "ANSWER. In the mind are reason and understanding. So this mind itself, when it thinks on the things that are eternal, should then truly be called the image of God. And in thinking on eternal things, it is man: as the apostle Paul says, A man ought not to veil his head, since he is the image of the glory of God (1 Cor. 11:7). And the more it extends itself toward what is eternal, the more it is formed thereby to the image of God; and therefore it is not to be restrained, so as to hold itself back and moderate itself from it. But when it does and thinks on the things that are temporal, it is called woman: then it is not to be called the image of God, and therefore it ought to veil its head, lest its advance toward lower things be excessive, and while it does lawful things, it should desire unlawful ones."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.37",
+   "text": "QUESTION 19. Was the first man made mortal, or immortal?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.38",
+   "text": "ANSWER. Both mortal in one respect, and immortal in another. The first man had such a body as we have, but without sin. For he did not have a law in his members warring against the law of his mind; but he certainly earned it after the transgression. So Adam had an animal body, but such that he would not grow old or fail, through the power of that tree by which he was sustained, which in paradise had received the name 'of life'. Therefore, if he had kept God's commands, by the merit of obedience he would afterwards have been changed into that spiritual body which is promised to the saints in the resurrection. And for this reason he was able not to die, if he had clung to God's commands in devout obedience. For he had not been made such that he could not die, like other natures which cannot die at all; but in such a way that obedience would make him immortal, disobedience mortal."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.39",
+   "text": "QUESTION 20. What is it that the apostle Paul says, Flesh and blood will not possess the kingdom of God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.40",
+   "text": "ANSWER. From this testimony many of lesser understanding, and therefore heretically, assert that a man cannot rise in the same flesh in which he died; but taking away true flesh, they attribute to man after the resurrection some sort of airy body, I know not what, which he never had. This is shown to be quite absurd to those who consider the passage itself. Flesh and blood, he says, will not possess the kingdom of God. And the same apostle Paul, explaining it in a way, went on to add: Nor will corruption possess incorruption. To whom was the Apostle writing? To those, of course, who said: Let us eat and drink, for tomorrow we shall die (1 Cor. 15:50, 32). The blessed apostle Paul refutes these, saying that flesh and blood, that is, the works of flesh and blood, cannot obtain the kingdom of God. For if the actual substance of flesh is to be understood here, what will they say about those to whom the same apostle writes, But you are not in the flesh, but in the spirit? Did the Romans to whom the Apostle was writing not have flesh? But, You are not in the flesh, he says; that is, you are not carnal, you do not do the works of the flesh, which are hostile to God, which are not subject to the law of God. But those who are in the flesh, he says, cannot please God (Rom. 8:9, 8). See what sort of flesh will not possess the kingdom of God. For that man rises in the same flesh in which he dies, our Lord Jesus Christ, after his resurrection, answered the disciples when they doubted and thought they were seeing a spirit: Touch and see, for a spirit does not have flesh and bones, as you see that I have (Luke 24:39). And for this reason we believe that man rises not only with flesh and bones, but also with blood, and whatever belongs to his nature; but without any corruption he will have eternal life always and eternal happiness, contemplating God the Trinity. So, just as the righteous rise with their flesh to eternal happiness, so the wicked rise to eternal misery."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.41",
+   "text": "QUESTION 21. The beginning of Genesis is: In the beginning God made heaven and earth (Gen. 1:1). Were the angels made afterwards, or not? For if the angels were made before, God did not make heaven and earth first of all."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.42",
+   "text": "ANSWER. When the stars were made together, says Scripture, all my angels praised me with a loud voice (Job 38:7, according to the Septuagint). For the stars were made on the fourth day, and the angels already existed. Nor were they made on the third day, nor the second. For in these it is clear what was made. For on the third day the dry land, namely the earth, was separated from the waters. On the second the firmament was made, where the sun and moon and stars run their courses. Moreover, the first day is itself the angelic nature, which was first called by the name of heaven. From this it is clearly shown that on the first day the spiritual, that is, the angelic nature was made, and then this heaven which we see with our eyes. For when it says, In the beginning God made heaven and earth, it is not 'first of all', as you say; but In the beginning, that is, in the Son, or rather through the Son, God made all spiritual and bodily creation, which is called by the name of both heaven and earth. For that he himself is the beginning, he answered the Jews when they asked him who he was: The beginning, who also speak to you (John 8:25). So first he wished to speak of heaven and earth as a kind of spiritual and bodily matter, and then to set out in order how they were made one by one. For what he called heaven seems to me to mean the dark abyss of waters, and a life in a way fluctuating, unless it turns to the Creator, and becomes light, and contemplates God the Trinity being in God. Nor do we say this as though this matter precedes its form as wood precedes a chest, but as sound precedes a word: not in time, but in origin. So the first created light is not that which was made on the fourth day, but the spiritual, that is, the angelic nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.43",
+   "text": "QUESTION 22. The Spirit of God was borne over the waters (Gen. 1:2): was he borne in a place, as the sun and moon and the other stars are, or otherwise?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.44",
+   "text": "ANSWER. The Holy Spirit is God. Therefore he is not contained in a place or extended, nor is he subject to the movements of time, but he is present everywhere, whole. When [Scripture] has just named the creation over which the Holy Spirit was said to be borne, this is said not with respect to place, but with respect to power. God did not make his works out of need, but out of goodness; nor does he need the things he has made. For a needy and wanting love is subject to the things it loves. It was said that the Holy Spirit was borne over the creation for this reason: he did not make that creation out of need."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.45",
+   "text": "QUESTION 23. God said, Let there be light (Gen. 1:3)! Did he say it in a day, or before any day? If he said it in a day, he said it in time; if he said it in time, he said it through some creature. Then light is not the first creature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.46",
+   "text": "ANSWER. He neither said it in a day nor said it in time; for before all creation he begot his Word, and through the Word he created all creation. And so the speaking of God is the Word of God. But divine Scripture, suiting itself to little ones and in a way nursing them with milk, so that they may advance and take spiritual food, chose to speak of the speaking of God throughout the forming of every creature. So that, for example, if you ask, How was light made? you may hear: It was in the Word of God that it should be made. How was heaven made? It was in the Word of God that it should be made. And if you ask in order how the rest were made, they were in the Word of God, that they should be made. For this is [the meaning of]: God said, Let there be light. For the divine nature does not speak in bodily ways; nor did he form words as often as it is said, He said. For he begot one Word, coeternal and consubstantial with himself, in whom he said all things ineffably and outside time."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.47",
+   "text": "QUESTION 24. If God saw the light, that it was good (Gen. 1:4), did he not know it before, and did the seeing give him knowledge?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.48",
+   "text": "ANSWER. Our will precedes every work, while we think about what we ought to do. For no one does anything without knowing, while he considers how the things are to be done which he has arranged by thinking that they must be done. And if it cannot happen to man that he does something without knowing, how much less to God, who made all that he willed by his eternal and steadfast counsel, nor were things made otherwise than he saw they were to be made? So he saw them made in the same way as he had seen them as to be made."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.49",
+   "text": "QUESTION 25. And he divided, says Scripture, the light from the darkness (Gen. 1:4). For everything that is divided must also exist. So just as there is an essence of light, so there is also an essence of darkness. And why did Scripture not say, God saw the darkness, that it was good, as was said of the light?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.50",
+   "text": "ANSWER. God by his good and unchangeable will created all the angels good. And because he foreknew, by the unchangeableness of his foreknowledge, that some of them would fall through pride, he divided between the good and the bad. So he called the bad darkness, and called the good light: of the good he said, God saw that they were good; of the bad he by no means said this, so that he should not seem to approve sins, which are darkness."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.51",
+   "text": "QUESTION 26. You maintain that the first day is a spiritual creature; how then did it have evening and morning (Gen. 1:5)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.52",
+   "text": "ANSWER. Every creature, before it was made in its own time, was first in the very Word of God, to be known by the angels, and so to be made in its own time. Therefore the knowledge of the creature in itself was evening, in God it was morning: because the creature itself is seen more in God than it is seen in itself. That is, a creature is seen more in the art by which it was made than in itself, the thing that was made. For this is why the evangelist John says, What was made was life in him (John 1:3-4). So all things that were made and do not have life are life in the Word of God itself, but in themselves they are not life. Heaven, earth, a stone do not have life, and yet in God they are life. So all the principles of creatures live in God without beginning and unchangeably. And for this reason they are seen more by the holy angels in the Word of God, where they are life, than in themselves; for the knowledge of the angels, in comparison with God, in a way grows dark as evening. So then, in the knowledge of the spirits, [there is] the first day; in the knowledge of the firmament, the second; in the knowledge of the separation of land and sea, the third; in the knowledge of sun, moon and stars, the fourth; in the knowledge of creeping things and birds, the fifth; in the knowledge of cattle and wild beasts and of man, the sixth. For the knowledge of the one day, which we understand as the nature of the spiritual, that is, angelic, creatures, produced six times, made six days, because of the perfection of the number six. But I will gather for you something from the holy Scriptures about the perfection of the number six. Be present willingly, and prepare yourself wholly to listen. One cannot be divided among numbers: for from it every number arises. Two, then, can be divided: but its part is one. So the division of two is one taken twice; the division of three is one taken three times. And what else does this number show but the Trinity, which is God? which, although there are three persons, are believed to be one in unity of nature. Four has two parts: for its fourth is one, its half two. One and two, of course, are three. Here are its parts; it neither exceeds nor is completed; and so it is an imperfect number. Five has only one, which is its fifth. So the number six is perfect, because it is completed by its parts: for it has one, which is its sixth part; two, which is its third; three, which is its half. So one, two and three make six. And therefore, because of the perfection of this number, God made all creation in six days. So these three parts of the number six show us that God the Trinity made all creation in the trinity of number, measure and weight. That the perfection of the number six is of great value we find frequently in the holy Scriptures, especially in the single death of the Lord and his single resurrection, and in our double death and our double resurrection. Now the death of our Lord Jesus Christ was not in the soul, but in the flesh alone. But our death is not in the flesh only, but also in the soul: in the soul because of sin, in the flesh because of the penalty of sin. But he, because he had no sin, did not die in the soul, but only in the flesh; and this because of the likeness of sinful flesh, which he had drawn from Adam. So his single death benefited our double [death], and his single resurrection benefited our double resurrection. For there is the death of his flesh and his resurrection, the death of our flesh and its resurrection, and the death of our soul and its resurrection. The death of his flesh and his resurrection signify our two deaths and our two resurrections. Hence if to the one death of the Lord and his one resurrection, which make two, you add four, that is, our two deaths and two resurrections, they make six. And so the Lord's single [counted] twice and our double [counted] twice are three twice; and three twice, according to what we said above, are the parts from which the number six is made. For the thirty-six hours during which the Lord was in the underworld also correspond to this single and double. Twelve hours, then, were of daytime, and twenty-four of night. Likewise the twenty-four accord with our double death, and those twelve hours with the Lord's single death. Indeed his birth also contains the number six. For the Jews in the Gospel assert that the temple was built in forty-six years, which is understood of the Lord's body (John 2:20-21). The forty-six years are put for days. They say that the infant is formed in the womb in forty-six days, and thereafter grows until the day of birth. For forty-six times six make two hundred and seventy-six, which make nine months and six days. So count from the eighth day before the Kalends of April, when the Lord suffered (for it is also believed that he was conceived then), up to the eighth day before the Kalends of January, and you will find two hundred and seventy-six days, which are made up by the number six. What shall we say of that woman in the Gospel whom Satan had bent over for eighteen years, whom the Lord healed (Luke 13:11-13)? That these years too contain the number six. For three times six are eighteen. So that woman is understood to represent the human race, which our Redeemer the Lord Jesus freed from captivity to the devil in the sixth age of the world. The first age is from Adam to Noah. The second age is from Noah to Abraham. The third, from Abraham to David. The fourth, from David to the deportation to Babylon. The fifth, from the deportation to Babylon to the coming of our Lord Jesus Christ. The sixth, which is now in progress, until the Most High comes to judgement. So in the sixth age of the world the human race is reformed to the image of God. For the eighteen years clearly show not only six ages but also three times: namely one before the Law, another under the Law, the third under grace. So the year itself is also contained in the number six. For it has three hundred and sixty-five days. And six times sixty are three hundred and sixty. There remain, then, five days and a quarter. And five days six times make a month. Yet even if you count that quarter as a day, taking the part for the whole, they make six. See how far the Lord has helped me: concerning the perfection of the number six I have given an account, if not as much as I wished, yet as much as I could."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.53",
+   "text": "QUESTION 27. The order and weight of the elements do not allow a substance of waters to be above the heavens. For water gives way to earth, and air gives way to water, and fire gives way to air. For it can in no way happen that the second element, which is water, should be above the fourth, which is fire. How then was it said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters (Gen. 1:6)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.54",
+   "text": "ANSWER. However and of whatever kind those waters may be which Scripture teaches are above the heavens, let us by no means doubt that they are there. For just as these clouds, which are certainly waters, are borne above the air, which is the third element, so I think it can happen that thin and fine waters are borne above the heaven. For many philosophers too, mocking the resurrection of the flesh on the ground of this weight of the elements, say that it cannot happen that a man, who was certainly made from earth, should be in heaven. But these the truth refutes, which makes many earthly creatures fly about in the air, and water be above the air, and fire, which is certainly the fourth element, be in the earth. Therefore the power of God, which is shown to do these things, brings it about that both man and water are above the heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.55",
+   "text": "QUESTION 28. Did not water cover the whole earth? How then does Scripture say, Let the waters that are under the heaven be gathered into one place, and let the dry land appear (ibid. 9)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.56",
+   "text": "ANSWER. Water covered the whole earth like a very thin mist, which was afterwards brought together and gathered into one, so that the appearance of the earth too could appear. Although the earth, sinking far and wide, could also have provided hollow parts to receive the waters flowing together, so that the dry land might appear."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.57",
+   "text": "QUESTION 29. Since God created all things good, as Scripture says, And behold, all the things that God made [were] very good (ibid. 31), why again does the Lord say in the Gospel, No one is good but God alone (Mark 10:18)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.58",
+   "text": "ANSWER. That a man is good, the same Lord himself says in the Gospel: A good man brings forth good things out of the good treasure of his heart (Matt. 12:35). But as for his saying, No one is good but God alone: he was replying, namely, to the one who was asking him about eternal life, to one who thought him only a man, saying, Good Master. And so he answered thus, saying, Why do you call me good? No one is good but God alone: that is, This assumed form which you see, which the good and the bad, the godly and the ungodly will see, will not be for good to those who do evil. So do not call me good according to this form, which those who pierced [me] will see. There is another form, which the ungodly will not see, which none but the just will see; according to this form I am good to those who are worthy to see me."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.59",
+   "text": "QUESTION 30. A spring, says holy Scripture, went up from the earth, watering the whole face of the earth (Gen. 2:6). If it watered the whole earth, then it watered the mountains too, since the mountains also are certainly earth. But if it watered the mountains too, there was a flood. How then had the earth brought forth green grass yielding seed? Or how did man dwell on the earth, if water covered the whole earth?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.60",
+   "text": "ANSWER. Spring is put there in the singular for the plural number. For if we search carefully, we find this frequently in the holy Scriptures. You have, indeed, in the Psalm, He sent among them the dog-fly, and it devoured them; and the frog, and it destroyed them (Ps. 77:45), when certainly there was neither one fly nor one frog. And elsewhere in the Psalm he said, And the locust came (Ps. 104:34): he does not say locusts, but locust. There you have the singular number for the plural. According to what a certain most noble poet says, \"And they fill the belly with armed soldiery\" (Virgil, Aeneid 2.20). Moreover, one spring is spoken of on account of the unity of nature, so that we may understand all those that are on the earth: because in a certain way all flow from the nature of one abyss. As for its saying, It watered the whole face of the earth, it did not water the whole earth, but a part. For by the whole it signified a part; just as we say, Christ died, Christ rose again, when he neither died nor rose again except according to the flesh."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.61",
+   "text": "QUESTION 31. So the Lord God took the man, says Scripture, and put him in the paradise of pleasure, to work and to keep it (Gen. 2:15). What, I ask, was he to work and keep: paradise, or something else?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.62",
+   "text": "ANSWER. This sentence gives rise to a twofold understanding. For either the man was to work paradise, that is, to work at something in paradise, and he worked not from the necessity of getting food, but for delight: for he had not yet sinned, nor had the earth brought forth thorns and thistles for him, that he should eat his bread in the sweat of his face. This, indeed, he deserved after sin. So before sin, not from want, not from necessity, but, as we have said, from pleasure alone he worked paradise by cultivation, and kept it by discipline. He did not keep paradise against wild beasts or against any animals, but for himself, namely so that he should not lose by sinning what he could keep by obeying. Or else God put the man himself in paradise that he might work and keep him: that is, that he might work [him] so that he would be good, and keep [him] so that he would be safe. Whichever of these is said, whether that the man worked paradise by cultivation and kept it by discipline, or that God worked the man himself so that he would be good, and kept him so that he would be safe: whichever of these you understand, both interpretations agree with reason."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.63",
+   "text": "QUESTION 32. Since God threatened man with death on the day he touched the forbidden food, why did he not die on that day? For Scripture says thus: On whatever day you eat of it, you shall die the death (Gen. 2:17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.64",
+   "text": "ANSWER. Holy Scripture clearly shows that there are four deaths. The first death is that of the soul which deserts its Creator: for when it deserts [him], it sins. Let, says the Lord in the Gospel, the dead bury their dead (Matt. 8:22). See, you have those dead according to the soul, namely those burying the dead; and those whom they bury, dead according to the flesh. So this sentence most plainly teaches two deaths, one of souls, the other of bodies. The third is of the soul alone, which it suffers when it has gone out of this body; according to what we read in the Gospel about the rich man: Father Abraham, says the rich man, send Lazarus, that he may cool my tongue with his finger, for I am tormented in this flame (Luke 16:24). The fourth death is when the soul has received back the body, to be sent into eternal fire; according to what the Lord says in the Gospel about the future judgement: Go into the eternal fire, which is prepared for the devil and his angels (Matt. 25:41). So on the day Adam sinned, he died in the soul. For just as the body lives from the soul, so the soul, that it may live more blessedly, lives from God. Therefore Adam's soul, deserted by God, is rightly said to have died the first death, from which three deaths afterwards followed. For in order that these should follow, the desertion of God first went before, according to which Adam died on the day he sinned."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.65",
+   "text": "QUESTION 33. How could Adam fear death, which he in no way knew?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.66",
+   "text": "ANSWER. Just as we know the resurrection, which we have never experienced nor seen, so he knew death. We know also that the soul going out from the body makes death, and when it has returned to its body it will make resurrection. See, we know the resurrection, which we have never experienced. So he too certainly knew death, not yet by experience, but by knowledge. For he knew what it was to live, and by the privation of life he certainly knew death. Just as darkness is known by the privation of light, and as silence is known by the privation of voice, and as emptiness is known by the privation of body, so he knew death by the privation of life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.67",
+   "text": "QUESTION 34. The Lord brought all the animals and birds to Adam, and seeing them, he gave them names (Gen. 2:19). And of the woman it is said a little later: So the woman, seeing that the tree was good for food, etc. See, Scripture most plainly shows that the eyes of both were open. For it is not right to say that the first humans were made blind. Why then, a little later, after the touching of the forbidden tree, does the same Scripture say: The eyes of both were opened (ibid. 3:6, 7)? For unless they had their eyes open, neither would he have given names to the animals, nor would she have seen the beauty of the tree."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.68",
+   "text": "ANSWER. This indeed is true, that they had their eyes open; and yet unless they were closed to something, Scripture would by no means say: The eyes of both were opened. They were opened, namely, for nothing else than desiring each other, so that there should be a law in the members warring against the law of the mind (Rom. 7:23): so that in the members themselves there should be an involuntary motion, namely as God's just punishment, that man, who would not be subject to God, should not have a body subject [to himself]. So in this the eyes of both were opened, that the members should be moved with concupiscence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.69",
+   "text": "QUESTION 35. When Adam and Eve had heard the voice, says Scripture, of the Lord God walking in paradise, they hid themselves (Gen. 3:8). I ask, what is this walking?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.70",
+   "text": "ANSWER. Far be it that God, who is the Trinity, should be believed to be bodily or in a place because a walking is said to be his. For every body is in a place, and everything in a place is certainly a body. But God is an incorporeal thing: he is neither moved in time, nor contained by a place, nor carried from place to place. His walking is to be understood as done through some creature, and I recall that our elders understood from the context of the Scripture itself that this creature was a man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.71",
+   "text": "QUESTION 36. Since God is one, as Scripture says, Hear, Israel: the Lord your God is one God (Deut. 6:4), how did he himself say, See, Adam has become like one of us (Gen. 3:22)? For \"us\" suggests plurality."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.72",
+   "text": "ANSWER. Although God is one, yet he is a Trinity, namely the Father, and the Son, and the Holy Spirit. \"One of us\" was said not because of a plurality of gods, but because of a plurality of persons."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.73",
+   "text": "QUESTION 37. We certainly see many animals born from the corruption of bodies, especially dead ones. Were they created at the time when those bodies were?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.74",
+   "text": "ANSWER. Far be it that they should be said to have been created at the time when those bodies were; but in a certain way the things that are to arise in their own time have been implanted in the bodies. For just as the seed of any tree has a certain power, so that when it has been buried in the earth it springs up and a shoot is produced, then, thick with branches no less, it spreads out, and with leaves, and then, adorned with flowers, it bears fruit: so there is also in the body a certain seed-bed, so to speak, from which in their own time, under the care of God's providence, certain kinds of animals arise."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.75",
+   "text": "QUESTION 38. Since God said, Let the earth bring forth green grass, and bearing seed, and fruit-bearing trees (ibid. 1:11), when did he make the fruitless trees, or the thorns or thistles?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.76",
+   "text": "ANSWER. God made all things at once, as Scripture says, He who lives for ever created all things at once (Ecclus. 18:1). So trees that in some way bring help to people are by no means to be called fruitless: for in truth, if we do not find in them something to eat, let us certainly find [something] for medicine; we find [something] for use. For how many uses are found in them, consider for yourself. Therefore, since \"fruit\" (fructus) is named from \"enjoying\" (fruendo), and we can have some help from every tree, we rightly call no tree fruitless. As for thorns and thistles, although after sin they spring up for man's toil, as Scripture says, The earth will bring forth thorns and thistles for you (Gen. 3:18), yet it must not be said that they arose from the earth at that time; for they had certainly already been made for the pasture of cattle or birds, not produced to increase man's punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.77",
+   "text": "QUESTION 39. If God arranged all things in number, and measure, and weight, as holy Scripture testifies (Wisd. 11:21), where did he arrange number itself, and measure, and weight?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.78",
+   "text": "ANSWER. Number and measure and weight are God himself. He is number without number, from whom is all number. He is measure without measure, from whom is all measure. He is weight without weight, from whom is all weight. So he arranged all things in number, and measure, and weight, as if it said: he arranged all things in himself. For he did not see creation outside himself, or somewhere, so that, like men, he should hold in memory what he was to make. So the whole cause of creation is the will of the Creator. There, will is the same as nature. Yet as his nature is eternal, so his will is eternal. For no new thought of forming creatures comes upon God. Therefore God the Trinity arranged all things in himself, because he had in himself all the things that he made. It is also understood otherwise: he arranged all things in number, and measure, and weight; that is, all the things he made have number, and measure, and weight."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.79",
+   "text": "QUESTION 40. Did God bring to Adam all the living creatures of the earth and all the birds of the sky (Gen. 2:19) in the way that fowlers or hunters drive [them] to nets? Or perhaps did a voice of command come from a cloud, which they understood as if they were rational souls, and on hearing it they all obeyed?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.80",
+   "text": "ANSWER. The living creatures and birds of the sky did not receive this, that they should be capable of reason, by which they could obey their Creator; yet in their own kind they obey God, not by the rational judgement of the will, but as he moves all things at suitable times, without himself being moved in time. So he moves himself without time and place, he moves created spirit in time without place, he moves bodily creation in time and in place. So the substance that is moved only in time is prior to that which is moved in time and in place. And the substance that is moved neither in time nor in place is prior to that which is moved only in time. Created spirit itself moves itself through time without place, and moves body through time and place. But the creator Spirit moves himself without time and place. Therefore the rational spirit, which is in humans, or the irrational, which is in brutes, is also moved by his commands. But the rational has understanding, by which it can judge whether to consent to the commands or not to consent. Animals, creeping things and birds have not received this judgement; yet according to their kind and nature they are driven on, impelled by some command. Hence the angelic nature, carrying out God's commands, moves every kind of living creature by commands, teaching what it does not know. For if humans can make some kinds of animals tame, so that they seem to do certain wishes of humans, how much more can angels do this?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.81",
+   "text": "QUESTION 41. What cause brought it about that God, whom you assert moves [things], is not moved in time; or that created spirit, which is moved in time, is not moved in place as well?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.82",
+   "text": "ANSWER. God, who established times and is before times, has nothing in him past or future, no new plan, and no new thought: because, namely, if new, then also accidental. But if something befalls God, he is no longer unchangeable. So God is unchangeable: nothing befalls him, no new thought, no new plan; therefore he is not moved in time. So God is unchangeable. But created spirit, such as that of the angels, although they contemplate without time God's eternity, truth and charity, yet because they carry out God's commands among lower things in time, they are rightly believed to be moved in time. Their bodies, however, they move in place, when they descend from heaven and ascend into heaven. The spirit of humans, likewise, is moved in time, by remembering things past, expecting things to come, learning something new. For when I recall some reading or some city, although my spirit was moved by thinking, so as to recall these things in time, it was not likewise moved in place. For if it were moved in place, it would be moved either in heaven or on earth; for without heaven and earth there is no place. For where was this spirit, in heaven or on earth, so as to see that reading or that city? So if it saw in no place so as to remember, it saw in itself. And since thought has a beginning, and everything that has a beginning also has time, therefore, according to the reasoning given above, created spirit can be moved through time, not through place; the creator Spirit, without time and place; but body, both in place and in time."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.83",
+   "text": "QUESTION 42. Since rest comes only after labour, why is God said to rest? Was he too wearied by work, that he is said to rest?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.84",
+   "text": "ANSWER. God did not rest in any creature as though needing its good, but in himself. Indeed, he is read to have rested not on any of the days, but after the works of the sixth day. From which it plainly appears that God made no creature out of need, but by goodness alone. For if he rested in some creature, he would have made some creature out of need. So, since he made no creature out of need, he therefore rested in no creature. As for what Scripture says, that God rested on the seventh day from all his works which he had made (Gen. 2:2), I think this can be understood: not that he rested on that day as though needing its good, so as to be more blessed; but that he brought the seventh day itself, that is, the angelic nature, to his rest: so that they should see in God, as they saw all creation that was to be formed, so also that he had made no creature out of need, but by goodness alone. For I think the rest of God can be understood thus. The rest of God is understood also otherwise, that is, when he makes us rest after good works; in the way that God said to Abraham, Now I know that you fear God (ibid. 13:12), which is understood as \"I have made [it] known\": so here too God is understood to rest when he grants rest to his saints. Again, God is said otherwise to rest from founding new creatures; for after the completion of the six days' works he founded no creature thereafter. As for his saying, My Father works until now, and I work (John 5:17), this is understood not of founding a new creature, but of governing the one he founded."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.85",
+   "text": "QUESTION 43. How could the serpent speak in paradise (Gen. 3:1), when it is evidently an irrational animal?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.86",
+   "text": "ANSWER. The serpent could not speak by itself, because it had not received this from the Creator. For the devil took it up into his service, using it as an instrument through which to emit articulate sound. It was through it, of course, that he spoke the words, and yet even it did not know this. So a nature devoid of reason is subject to a rational nature; but even so, [the rational nature] does not do from it or in it as much as it wishes, but as much as it has received from the Creator."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.87",
+   "text": "QUESTION 44. And if serpents do not understand, how do they hear the words of the Marsi, so as to come out of their holes at their incantation?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.88",
+   "text": "ANSWER. Although they do not have understanding, they are in no way without bodily sense. For they have sight, and hearing, and smell, and taste, and touch. And so although they hear the words of the Marsi, they by no means understand them. For they do not obey by understanding; rather, they are compelled by the devil, with God's permission, to come out of their dens at the words of the Marsi. From this testimony is given to that first deed, that the devil deceived the first man through the serpent in paradise."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.89",
+   "text": "QUESTION 45. Since Adam needed a wife to be made for him, could it not have been done otherwise than by taking a rib from him while he slept, from which the wife would be built (ibid. 2:20-22)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.90",
+   "text": "ANSWER. God could have done it otherwise too, but he judged it more fitting to do it thus, so that something might be signified by it. For just as a rib is taken from Adam as he sleeps so that a wife may be made, so too blood is poured out from the side of Christ as he dies so that the Church may be built. For by communicating in the body and blood of Christ the Church is made the wife of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.91",
+   "text": "QUESTION 46. How should we understand what Adam says: For this reason a man shall leave father and mother, and shall cleave to his wife; and the two shall be in one flesh (Gen. 2:24)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.92",
+   "text": "ANSWER. The blessed apostle Paul, setting this passage before himself, expounded it, saying: This is a great sacrament, but I speak of Christ and the Church (Eph. 5:32). But how could Christ have left the Father, since he is of one substance with the Father? Or where could the Father be without the Son, since it is said of the Son himself, who is wisdom, that he reaches mightily from end to end, and orders all things sweetly (Wis. 8:1)? So if the Son is where the Father is, the Father cannot be without the Son, nor the Son without the Father: because, of course, just as they are inseparable in nature, so they are also inseparable in persons. For thus the Son himself says of the Father in the Gospel: He who sent me is with me (John 8:29). How then did he leave the Father to cleave to his wife, that is, to his Church, unless in the way the Apostle says: Who, though he was in the form of God, did not think it robbery to be equal with God; but emptied himself, taking the form of a servant (Phil. 2:6-7)? So the very taking of the servile form is the emptying, and this emptying, although it is not an abolition of divinity or a loss of nature, yet because of the form of a servant in which he is recognised to have appeared, the Apostle rightly says that he left the Father. He also left his mother, namely the Synagogue, which clung carnally to the Old Testament; and he cleaved to his wife, that is, to his holy Church, so that through the peace of the New Testament the two might be in one flesh."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.93",
+   "text": "QUESTION 47. Why are Cain's gifts from the fruits of the earth rejected, and Abel's gifts from the fat of his flock accepted (Gen. 4:3-5)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.94",
+   "text": "ANSWER. Cain bore the type of the Jews, who performed those bodily sacraments according to the Old Testament. For their sacrifices, when the faith of the New Testament came upon them, were scorned and made void; and the sacrifices of the Christians, which consist of the innocence of Christ, the innocent lamb, are praised, which the gifts of Abel himself from the sheep signified. So Cain's gifts are not accepted. Hence it is also said in the Psalm: Offerings and holocausts you did not want, etc. (Ps. 39:7)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.95",
+   "text": "QUESTION 48. What does it signify that Cain killed his brother Abel in the field (Gen. 4:8)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.96",
+   "text": "ANSWER. We have already said above that Cain signifies the Jews, who killed Christ. So Abel, the younger by birth, is killed; Christ, the head of the people younger by birth, is killed by the people of the Jews, the elder by birth: the one in a field, the other in the place of Calvary."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.97",
+   "text": "QUESTION 49. How should we understand that Abel's blood is read to have cried out from the earth to God (ibid. 9-10)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.98",
+   "text": "ANSWER. Abel's blood signifies the blood of Christ, on receiving which the whole Church says, Amen. For what a cry the whole Church makes when it drinks the blood of Christ and says Amen, consider for yourself, if you can. So the Jews, who are understood in the person of Cain, since they do not believe in Christ and do not drink the blood of Christ, are cursed upon the earth. Upon that earth, namely, which opened its mouth through confession, and drank the blood of its brother, that is, of its Christ. Because the Jews do not drink it, they are therefore cursed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.99",
+   "text": "QUESTION 50. What does it signify that Enoch, seventh from Adam, walked with God, and was not seen (ibid. 5:24)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.100",
+   "text": "ANSWER. Enoch, seventh from Adam, is transferred to God, and rest is promised to the saints in the seventh [age]; because in the sixth age of the world they are reformed into the knowledge of God, so that they may be transferred to rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.101",
+   "text": "QUESTION 51. What does it signify that Noah is delivered through water and wood (ibid. 6-8)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.102",
+   "text": "ANSWER. Water signifies Baptism, and wood signifies the cross. Just as Noah is delivered through water and wood, so too the Church is delivered by Baptism and by the seal of Christ's passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.103",
+   "text": "QUESTION 52. What does it signify that the ark, built of squared timbers, is smeared with pitch inside and outside (Gen. 6:14)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.104",
+   "text": "ANSWER. Just as the ark is built of squared timbers, so too the Church is constructed of the saints. For a square stands firm on whatever side you set it: and the saints remain steadfast in any temptations whatever; they yield neither to adversities nor to prosperities. Pitch signifies charity; through it the saints yield neither to the scandals caused by those who are within, nor to those caused by those who are outside: and they keep the unity of the spirit in the bond of peace, bearing with both the bad Christians who are in the Church and the heretics who are outside the Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.105",
+   "text": "QUESTION 53. What does it signify that the ark had three hundred cubits in length, fifty in breadth, and thirty in height (ibid. 15)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.106",
+   "text": "ANSWER. The holy Church, in order to do the commandments of God, is helped by the Spirit of God, as the Psalmist says: I have run the way of your commandments, when you enlarged my heart (Ps. 118:32). Had he not had an enlarged heart, he would by no means have run the way of the Lord. And how is the heart enlarged, if not through spiritual charity? Hence the blessed apostle Paul too agrees with the Psalmist in like words: Our mouth is open to you, O Corinthians; our heart is enlarged (2 Cor. 6:11). Enlarged by what, I ask? The grace of God, he says, is poured out in our hearts through the Holy Spirit who has been given to us (Rom. 5:5). So, having received the Holy Spirit, the Church performs God's precepts with enlargement [of heart], which without the grace of the Holy Spirit it could by no means perform. For holy Scripture mentions and commends this Spirit as sevenfold (Isa. 11:2-3). Seven times seven, then, makes forty-nine, and with one added to complete the number, it makes fifty. Hence too the Lord, ascending into heaven, sent the Holy Spirit on the fiftieth day (Acts 1:9 and 2:1-4), to enlarge the hearts of believers. The thirty cubits signify the ten precepts of the Law. Ten times thirty makes three hundred. But these precepts cannot be fulfilled unless charity brings it about, that is, the Holy Spirit, who is signified in the breadth of fifty cubits. Therefore the ark has both numbers. For the Church also does its good works for the sake of the end above, which the thirty cubits of height signify. For in truth the spirit is our height; he it is who, at thirty years, consecrated the Gospel teaching. He is also the end above, and without doubt fills the Church with every good work."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.107",
+   "text": "QUESTION 54. What does it signify that seven days after Noah entered the ark, the Lord rained upon the earth for forty days and forty nights (Gen. 7:10-12)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.108",
+   "text": "ANSWER. That the Lord rained upon the earth after seven days signifies this: that all who are baptised are baptised in hope of the future rest, which was signified by the seventh day. And all the guilt of sins committed against the ten precepts of the Law throughout the whole world, which is contained in four parts (whence ten multiplied by four makes forty), whether that guilt belongs to the days, contracted from prosperity, or to the nights, contracted from adversity, is washed away by the sacrament of heavenly Baptism."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.109",
+   "text": "QUESTION 55. What does it signify that Noah was six hundred years old when the waters of the flood overflowed upon the earth (ibid. 11)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.110",
+   "text": "ANSWER. The six hundred years signify the six ages of the world. The first age is from Adam to Noah. The second, from Noah to Abraham. The third, from Abraham to David. The fourth, from David to the deportation to Babylon. The fifth, from the deportation to Babylon to the coming of the Lord. The sixth, which is now going on. In the six hundredth year of Noah's life the flood took place: so in the sixth age of the world man is renewed to the knowledge of God through Baptism."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.111",
+   "text": "QUESTION 56. What does it signify that of every kind of animals and birds, the unclean are brought into the ark in twos, and the clean in sevens (Gen. 7:2-3)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.112",
+   "text": "ANSWER. The unclean signify those people who are easily drawn into schism; the clean, holy people who, receiving the sevenfold Spirit, live by faith. Hence also a certain poet says: God delights in an odd number. (Virgil, Eclogue 8, line 75)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.113",
+   "text": "QUESTION 57. What does it signify that the water rose fifteen cubits above all the high mountains (Gen. 7:20)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.114",
+   "text": "ANSWER. Eight and seven make fifteen. Eight signifies the resurrection, and seven rest. This mystery of resurrection and rest, therefore, has passed beyond all the knowledge of the proud wise men, and they could by no means search out the knowledge of resurrection and rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.115",
+   "text": "QUESTION 58. Why, when Noah was entering the ark, is it said to him, Go in, you and your sons, your wife, and your sons' wives with you (ibid. 1)? So the men are placed apart and the women apart. And when he was going out of the ark, it is said to him, Go out, you and your wife, your sons, and your sons' wives (Gen. 8:16). In the going in, then, they are spoken of as separated, in the going out as joined."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.116",
+   "text": "ANSWER. Their going in signifies this life, where the flesh lusts against the spirit, and the spirit against the flesh, so that we do not do whatever we wish (Gal. 5:17). The going out signifies that life where the flesh will no longer have any lust against the spirit, and there will be nothing of ours that fights against us within us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.117",
+   "text": "QUESTION 59. What does it signify that the raven sent out from the ark did not return (Gen. 8:7)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.118",
+   "text": "ANSWER. That the raven did not return was because it was either caught by the waters, or, enticed by some corpse, settled on it; and it signifies those people who, given over to carnal things, despise the precepts of God, and by no means make satisfaction by penance to the Church, from which they withdrew through evil works. Or certainly, if that raven was caught by the waters, it signifies those who go out of the Church and are defiled by the Baptism of heretics. For although the Baptism of heretics, that is, of those who baptise in the name of the Father and of the Son and of the Holy Spirit, and that of the Catholic Church is one, yet because they are baptised outside the Church, they receive Baptism not to salvation but to destruction: Having indeed the appearance of godliness, but denying its power (2 Tim. 3:5); and again, Animal [men], it says, not having the Spirit (Jude 19). And for that reason the Church does not rebaptise them, because they were baptised in the name of the Trinity. That indeed is the form of the Sacrament; therefore when they have returned they receive the power of the Holy Spirit, which those who are baptised outside the Church do not yet have."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.119",
+   "text": "QUESTION 60. What does it signify that Noah, a just man, planted a vineyard, and drinking wine became drunk, and was uncovered in his tent (Gen. 9:20-21)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.120",
+   "text": "ANSWER. God in a certain way planted the nation of the Jews, by separating it from all nations. Hence he also gave it the sign of circumcision, gave the Law, instituted sacrifices, and foretold in the Law that he himself would come in the flesh; but, as they did not believe him, he suffered from the wine of his vineyard, that is, the malice of his people: he was crucified, smeared with spittle, and mocked. But he suffered this in his tent, that is, among his own nation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.121",
+   "text": "QUESTION 61. What does it signify that Ham, the father of Canaan, seeing his father's nakedness, went outside and told his brothers (ibid. 22)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.122",
+   "text": "ANSWER. In the two sons, the eldest and the youngest, two peoples are figured, carrying one garment behind their backs, namely the sacrament of the Lord's passion, already past and accomplished: covering their father's nakedness and not looking at it, they are those who do not consent to the killing of Christ, and honour him with a covering, as knowing from whom they were born. The middle son, that is, the people of the Jews (middle because it neither held the primacy of the Apostles, nor believed last among the Gentiles), saw his father's nakedness, because it consented to the killing of Christ. And he told his brothers. For through him was made manifest and in a way made public what was the secret of prophecy. And so he becomes the servant of his brothers. For what else is that nation today but the archivist of the Christians, carrying the Law and the Prophets as testimony for the assertion of the Church, so that we honour through the sacrament what they announce through the letter?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.123",
+   "text": "QUESTION 62. What does it signify that God said to Abraham, Go out from your land, and from your kindred, and from your father's house (Gen. 12:1)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.124",
+   "text": "ANSWER. Abraham bore the person of Christ. For just as Abraham left his land and his kindred and his father's house, and came into a land he did not know, so also Christ left his own nation, namely the Jews, and came to the people of the Gentiles. This the literal explanation contains; morally, however, we go out from our land when we despise riches and the resources of this world; and from our kindred, that is, from our former vices, which, clinging to us from our birth, are joined to us as if by a kind of affinity and blood-relationship; and from our father's house, that is, from all memory of this world, which meets the gaze of the eyes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.125",
+   "text": "QUESTION 63. How many kinds of vision are there?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.126",
+   "text": "ANSWER. Three. The first vision is bodily; the second, spiritual; the third, intellectual. Bodily vision, then, is that which takes place through the body. Spiritual, when we store in memory the images of the things we see. Intellectual, when we discern by the intellect the things we see bodily and retain in memory as images: that this is a body, that a likeness of a body. This intellect beasts, cattle and birds by no means have. They see through the body, and an image of the things they see is formed in them, whence cattle recognise their stalls and birds return to their nests; but they understand neither what they themselves are, nor the things they perceive with their eyes. Finally, bodily vision cannot exist without spiritual. For as soon as we turn our eyes away from the things we see, we retain in memory the images of what we have seen. But spiritual vision can exist without bodily; hence we remember absent people, and in darkness see as images the things we have seen. Intellectual vision needs neither bodily nor spiritual. By the intellect we see neither a body nor the image of a body. By it are seen justice, charity, God himself, the very mind of man, which has no body and no likeness of a body. For this reason the apostle Paul was caught up to the third heaven (2 Cor. 12:2), that is, to intellectual vision, so that he might behold God not through the body, nor through a likeness of a body, but as he is, truth itself. The three heavens, then, are the three kinds of vision of which we are speaking. Paul had indeed come to this, that he saw God in this life as the saints will see him after this life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.127",
+   "text": "QUESTION 64. How many kinds of apostleship are there, and what sort of name 'apostle' is, I wish to know."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.128",
+   "text": "ANSWER. 'Apostle' is interpreted 'one sent'. There are four kinds of apostles: from God, not through man; from God, but through man; through man only; and from oneself. Moses was sent from God. From God and through man, like Joshua son of Nun. Through man only, as in our times many have been put into the priesthood by popular favour. From themselves, as are the false prophets themselves."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.129",
+   "text": "QUESTION 65. How can we know who is sent by God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0040.stoa065b.opp-lat1.130",
+   "text": "ANSWER. Recognise as sent by God not the one whom the praise, or rather the flattery, of a few men chooses, but the one whom both an excellent life and character adorn, and who is approved by the assessment of apostolic bishops, or also by the judgement of all the peoples: who does not seek to be over others, who does not give money to acquire the honour of the episcopate. For concerning him who hastens to be over others, one of the Fathers elegantly expressed it, saying: Let him know that he is not a bishop who desires to be over others, not to be of service to them (Augustine, City of God, book 19, chapter 19)."
+  }
+ ]
+}

@@ -1,0 +1,659 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1226.tmp1226",
+ "edition_urn": "urn:cts:latinLit:tmp1226.tmp1226.ai-claude",
+ "source_edition": "tmp1226.tmp1226.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Probationes Quasdam Liturgiae Gallicanae: AI translation (Claude)",
+  "author": "Germanus Parisiensis Episcopus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1226.tmp1226.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.head": "Line 20: the edition marks a lacuna after 'apostolicae'; the missing words (probably 'ecclesiae' and a phrase about the faithful) are not translated. Scanning errors read as: 'initii' = 'mihi', 'eniti' = 'enim', 'Christo veniam' = 'Christi veniam', 'ne fore' = 'ne forte', 'Ps.' before 'Ante' taken as ℟. 'Lagunculam' (flask) follows the Vulgate of Isaiah 10:33. The Isaiah reading's 'sepulcrum ejus gloriosum' is rendered as given. 'Filiola' is the small cloth or pall placed over the chalice.",
+  "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.23": "Line 25: 'sacrificium' sung by the choir is the Mozarabic name for the offertory chant. Line 30: 'habere principium' is odd, perhaps for 'propitium' ('to have [him] gracious'). Line 35: several names in the list of the departed (Visitanus, Cenapolus, Celebrunus) are uncertain or possibly corrupt. Line 37: 'dilecti.' read as 'dilectio' and 'venisorbem' as 'veneris orbem'. Line 40: 'Quia tu es vera pax… vivis tecum' is so in the text. Line 42: 'judicii ac redemptoris' probably for 'judicis'; 'baptizatur… ei elemento' read as 'et elemento'.",
+  "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.44": "Line 45: 'Sanaoth' read as Sabaoth. Line 49: the stray 't' and 'f' marks are taken as misread crosses (†), the signs of the cross printed in the text, and are kept as †. Line 59: 'omousion' rendered as *homoousios*; 'murmurum' read as mortuorum ('of the dead'). Line 60: 'per loculos istos qui supra sunt' apparently refers to a diagram in the printed edition that showing the arrangement of the particles, which is not reproduced here. Line 61: 'ad orationem Dominicam aequaliter' is unclear; rendered as the introduction to the Lord's Prayer. Line 62: 'quod cum* factum es' read as 'quod caro factum es' ('who were made flesh'); 'senorum' read as servorum. Line 65: '4 •' read as ℟; 'f .' read as ℣ and 'P.' as ℟.",
+  "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.69": "Line 92: 'animas implea mos' read as 'animas impleamus'; 'affectis' as 'affectu'; 'aruisse' (wither) is uncertain, possibly corrupt for another verb contrasted with 'genuisse'. Line 93: 'canaliter' read as 'carnaliter', 'Maria' as 'Mariae', 'dignatus et' as 'dignatus es'; 'delicatus olerum a- bus' read as 'delicatus olerum cibus'. Line 94: 'pudat' read as 'pudor'. Line 95: 'tuis caris noticia' is obscure, perhaps corrupt (e.g. for 'discipulis'); rendered 'your dear ones'. Line 96: 'anM non multa tempora' is uncertain, perhaps 'ante omnia tempora' (before all ages); 'hæc lavacro' seems to lack a verb, supplied as '[bore them]'; the clause 'hoc de dono ipsius id ipsam...' is obscure ('id' read as 'in'), translated literally.",
+  "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.97": "Line 100: 'servinte' is probably for 'servientes' ('serving your commands'), rendered 'keeping'; 'ihteriera' read as 'interierat'. Line 104: 'esthasci' read as 'est nasci'. Line 107: 'Oorigera' read as 'florigera'; 'Exarneron' as 'Hexameron'; the letter is a spurious attribution to Augustine. 'Bibianus' is Vivianus (Vivien) of Saintes; 'Trojanus' and 'Eugepius' unidentified. Line 110: several passages are obscure or corrupt: 'eregebat' read as 'urgebat'; 'feste' as 'festive'; 'hoc solum evasit, quod vagitum habere non meruit' is unclear; 'In illa matres filiorum perniciem intentae grandine liberorum' is garbled and rendered literally; 'Quid agit Juda, eorum caecitas mentium' also uncertain.",
+  "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab29": "Line 111: 'ichriarlo' is unintelligible as printed and left untranslated; possibly a corruption of an object name. 'moræ meae Beriovarae' is taken as an error for 'nepti meae' (granddaughter); the sense is uncertain. 'pedatura' rendered 'plot of vineyard'. Line 113: the restorations 'Georgii', 'Cala' and 'Martini' are the editor's. The list of freedmen is partly damaged, and the division of some names (e.g. 'Maxa uxore Chioberga') is uncertain. Line 114: 'Quiritis' reflects the old Roman testamentary formula. Line 115: 'turriculum' probably denotes a turret-shaped vessel for the Eucharist; 'a patribus suis' is obscure, perhaps 'by its [church's] fathers' or a corruption.",
+  "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab32": "Line 118: 'in Cæna Domini' as printed, though the context (Passion, high mass) suggests Palm Sunday; 'sine igne' perhaps means without lit candles. Line 119: the sentence comparing the fruit tree lacks its main clause in the original. Line 120 begins with an accusative-and-infinitive whose governing verb is lost (marked by the edition's '...'); '[We know that]' supplied. 'Cantianellum/Cantianella' rendered Cantianilla; 'Neliam' read as Heliam (Elijah), 'MancUs' as sanctis, 'Ramus' as Ramis. In line 126 the phrase 'post aliquantum tempus susceptionis suae hoc ordine' is obscure; translated literally."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.head",
+   "text": "440 APPENDIX Containing certain proofs of the Gallican Liturgy and of the Gallican *cursus* [order of the Office]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab1",
+   "text": "I. FIRST SUNDAY OF ADVENT, AT MASS, THE *OFFICIUM* [entrance chant],"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab2",
+   "text": "From the Mozarabic Missal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.2",
+   "text": "Behold upon the mountains the feet of him who brings good news of peace, alleluia, and announces good things, alleluia: celebrate your festivals, Judah, alleluia, and pay your vows to the Lord, alleluia. ℣. The Lord will give the word to those who bring good news with great power. Ps. And pay. ℣. Glory and honour to the Father and to the Son and to the Holy Spirit for ages of ages, amen. And pay."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.3",
+   "text": "Let the priest say: through all ages of ages for ever. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.4",
+   "text": "In the Advent of the Lord we do not say Glory in the highest on Sundays and weekdays, but only on feast days."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab3",
+   "text": "Prayer"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.5",
+   "text": "O God, who willed to announce the coming of your Son our Lord Jesus Christ through the choirs of angels, who showed [it] through the proclamations of angels as they cried out, Glory to God in the highest, and on earth peace to men of good will, grant that in the festival of this Sunday of the resurrection the peace restored to the earth may grow strong, and, renewed by the charity of brotherly love, may endure. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.6",
+   "text": "Let the priest say."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.7",
+   "text": "Through your mercy, our God, who are blessed, and live, and rule all things for ages of ages. ℟. Amen. ℣. The Lord be always with you. ℟. And with your spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab4",
+   "text": "Reading from the book of the prophet Isaiah. Chapter 10."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.8",
+   "text": "℟. Thanks be to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.9",
+   "text": "Behold, the Lord, the ruler of hosts, will break the flask 441 in terror, and the tall in stature will be cut down, and the lofty will be humbled, and the thickets of his forest will be overturned with iron, and Lebanon with its lofty ones will fall. [Chapter 11.] And a rod will come forth from the root of Jesse, and a flower will rise up from his root, and the Spirit of the Lord will rest upon him, the spirit of wisdom and understanding, the spirit of counsel and strength, the spirit of knowledge and piety: and the spirit of the fear of the Lord will fill him. He will not judge according to the sight of the eyes, nor reprove according to the hearing of the ears; but he will judge the poor in justice, and reprove with equity on behalf of the meek of the earth. And he will strike the earth with the rod of his mouth, and with the breath of his lips he will slay the wicked. And justice will be the belt of his loins, and faith the girdle of his reins. The wolf will dwell with the lamb, and the leopard will lie down with the kid: the calf and the lion and the sheep will stay together, and a little child will lead them. The calf and the bear will feed, their young will rest together, and the lion like the ox will eat straw. And the infant at the breast will delight over the hole of the asp, and the weaned child will put his hand into the den of the basilisk. They will not harm and will not kill in all my holy mountain, for the earth is filled with the knowledge of the Lord, as with the waters of the covering sea. On that day the Root of Jesse, who stands as a sign for the peoples, him the nations will entreat, and his tomb will be glorious. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.10",
+   "text": "Let the priest say at the left horn of the altar: The Lord be always with you. ℟. And with. *Psallendo* [chant]. He who gives snow like wool scatters mist like ashes; who sends forth his crystal like morsels of bread. Before the face of his cold who will stand? ℣. He sends forth his word and will melt them; his spirit blows and the waters will flow. ℟. Before."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.11",
+   "text": "Let the priest say: Keep silence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.12",
+   "text": "Continuation of the Epistle of the apostle Paul to the Romans. Chapter 15."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.13",
+   "text": "Let the choir respond: Thanks be to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.14",
+   "text": "Brothers. I myself am sure of you, that you too are full of love, filled with all knowledge, so that you can admonish one another. But I have written to you more boldly, brothers, in part, as bringing [things] back to your memory, because of the grace that was given to me by God, that I should be a minister of Christ Jesus among the gentiles, sanctifying the Gospel of God, so that the offering of the gentiles may become acceptable and sanctified in the Holy Spirit. I have therefore glory in Christ Jesus before God. For I do not dare to speak of anything except what Christ works through me for the obedience of the gentiles, in word and deeds, in the power of signs and wonders, in the power of the Holy Spirit; so that from 442 Jerusalem and round about as far as Illyricum I have fulfilled the Gospel of Christ. And so I have preached this Gospel, not where Christ was named, lest I should build on another's foundation, as it is written: Those to whom nothing was announced of him will see, and those who have not heard will understand. For this reason also I was very much hindered from coming to you, and have been prevented until now. But now, no longer having place in these regions, and having a longing to come to you for many years past, when I begin to set out for Spain, I hope that I may see you in passing, and be sent on there by you, if first I have enjoyed you in part. Now therefore I shall set out for Jerusalem to minister to the saints. For Macedonia and Achaia have approved making some contribution for the poor of the saints who are in Jerusalem. For it pleased them, and they are their debtors. For if the gentiles have become sharers in their spiritual things, they ought also to minister to them in fleshly things. When therefore I have completed this, and have assigned this fruit to them, I shall set out by way of you into Spain. And I know that, coming to you, I shall come in the abundance of the blessing of Christ. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.15",
+   "text": "Let the priest say: The Lord be always with you. ℟. And with. Reading of the holy Gospel according to Luke. Chapter 3."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.16",
+   "text": "℟. Choir: Glory to you, O Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.17",
+   "text": "In the fifteenth year of the reign of Tiberius Caesar, when Pontius Pilate was governing Judaea, and Herod tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene; under the high priests Annas and Caiaphas; the word of the Lord came upon John son of Zechariah in the desert; and he came into all the region of the Jordan, preaching a baptism of repentance for the remission of sins, as it is written in the book of the words of the prophet Isaiah: The voice of one crying in the desert: Prepare the way of the Lord, make his paths straight. Every valley will be filled, and every mountain and hill will be brought low; and the crooked will become straight, and the rough ways smooth; and all flesh will see the salvation of God. He said therefore to the crowds who had come out to be baptized by him: Brood of vipers, who showed you to flee from the wrath to come? Bear therefore fruits worthy of repentance. And do not begin to say: We have Abraham as father. For I tell you that God is able from these stones to raise up children to Abraham. For already the axe is laid to the root of the tree. Every tree therefore 443 that does not bear good fruit will be cut down and thrown into the fire. And the crowds asked him, saying: What then shall we do? And answering he said to them: Whoever has two tunics, let him give to him who has none, and whoever has food, let him do likewise. And tax collectors also came to be baptized, and they said to him: Teacher, what shall we do? And he said to them: Do nothing more than what is appointed for you. And soldiers also asked him, saying: And what shall we do? And he said to them: Extort from no one, nor make false accusation, and be content with your pay. And as the people were in expectation, and all were thinking in their hearts about John, whether perhaps he might be the Christ, John answered, saying to all: I indeed baptize you with water, but one stronger than I will come after me, the strap of whose sandals I am not worthy to untie. He will baptize you in the Holy Spirit and fire, whose winnowing fan is in his hand, and he will cleanse his threshing floor, and will gather the wheat into his barn, but the chaff he will burn with unquenchable fire. And exhorting with many other things too, he preached the good news to the people. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.18",
+   "text": "Let the priest say: The Lord be always with you. ℟. And with."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.19",
+   "text": "Let the choir say the *Lauda* [chant after the Gospel]. Alleluia. ℣. Send us help, O Lord, from the holy place, and from Zion rescue us, alleluia. Meanwhile, while the choir says the Alleluia, the priest offers the host with the chalice, and with the prayers that follow."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.20",
+   "text": "May this offering be acceptable to your Majesty, almighty eternal God, which we offer you for our guilt and misdeeds, and for the stability of the holy catholic and apostolic ..... to the worshippers of the faith. Through Christ our Lord. In the name of the Father ✠ and of the Son and of the Holy Spirit. Amen. Putting down the paten upon the corporals. Then let him take the chalice, sanctifying [it] thus. In the name of the Father ✠ and of the Son and of the Holy Spirit, amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab5",
+   "text": "Prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.21",
+   "text": "We offer you, O Lord, the chalice for blessing the blood of Christ your Son, and we beseech your clemency that it may ascend before the sight of your divine Majesty with an odour of sweetness, through the same Christ our Lord. Amen. Let him place the chalice upon the altar, and take the *filiola* [the pall] without sanctification, and place [it] upon the chalice, saying thus:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab6",
+   "text": "Prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.22",
+   "text": "444 Be appeased, O Lord, we pray, and accept this offering, and forgive the sins of all who offer and of those for whom it is offered to you, through Christ our Lord, amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.23",
+   "text": "And let him say, with hands joined, bowing himself:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab7",
+   "text": "Prayer"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.25",
+   "text": "In a spirit of humility and with a contrite heart may we be received by you, O Lord, and so may our sacrifice be made, that we may be received by you today, that it may please you, O Lord God. Come, Holy Spirit, sanctifier, sanctify this sacrifice prepared for you by my hands. Here let him put incense in the thurible, and let him cense the sacrifice if it pleases [him]. Afterwards let the priest bow in the middle of the altar with hands joined, and say in a loud voice: Help me, brothers, with your prayers, and pray for me to God. Let the choir respond: May the Father and the Son and the Holy Spirit help you. And let the priest turn to the people and make the offertory if he wishes, and let the choir say the *sacrificium*. The Lord shall reign in Jerusalem, and in the sight of the elders, alleluia. ℣. Thus says the Lord: he shall be as a father to those dwelling in Jerusalem and to those who inhabit Sion, and I will give the key of the house of David upon his shoulders, and you shall open, and there is none who shuts Jerusalem, alleluia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.26",
+   "text": "Here let the priest take water in his hands, and let him say silently over the offering, with three fingers: In the name of the Father ✝ and of the Son and of the Holy Spirit, you reign, God, for ages of ages, amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.27",
+   "text": "Let him bow before the altar, and say this prayer in silence:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.28",
+   "text": "I will approach you in humility of my spirit, I will speak to you, for you have given me much hope and strength. You therefore, son of David, who, revealed by a mystery, came to us in the flesh, open with the key of your cross the secrets of my heart, sending one of the Seraphim, who with that glowing coal which was taken from your altar may cleanse my unclean lips, clear the clouds from my mind, and supply matter for teaching, so that the tongue which serves the good of neighbours through charity may not sound out a fall into error, but may resound without end with the proclamation of truth, through you, my God, who live and reign for ages of ages, amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab8",
+   "text": "THE MASS BEGINS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.29",
+   "text": "Let the priest say: The Lord be always with you. ℟. And with [your] spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab9",
+   "text": "Prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.30",
+   "text": "445 Awaiting with all our desires the coming of our Lord Jesus Christ, most beloved brothers, let us implore the omnipotence of God the Father, that he may purify our hearts and keep our bodies spotless. May he grant to the minds of the faithful the ability faithfully to seek what may profit salvation. Let us await with a secure conscience him who is to come, whom we believe exalted above every principality and power. Let us also be watchful at every moment, that we may deserve to have [as] beginning him whom we believe and confess is to come in glory to judge us, the living and the dead. ℟. Amen. Let the priest say: Through your mercy, our God, who are blessed, and live, and rule all things for ages of ages. ℟. Amen. Let the priest say, raising his hands: Let us pray. ℟. The choir: *Hagios, Hagios, Hagios*, Lord God, eternal king, to you [be] praises and thanks."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.31",
+   "text": "Afterwards let the priest say:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.32",
+   "text": "Let us keep the holy catholic Church in mind in [our] prayers, that the Lord may graciously deign to increase it in faith, hope and charity. Let us keep in mind all the lapsed, captives, sick and pilgrims, that the Lord may graciously deign to redeem, heal and strengthen them. ℟. The choir: Grant [this], eternal almighty God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.33",
+   "text": "Let the priest say another prayer:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.34",
+   "text": "Purify, O Lord God, almighty Father, the hidden places of our sins, and graciously wash away all the stains of sins; and grant, O Lord, that by the kindness of your mercy, cleansed of our crimes, we may await without fear the dreadful and terrible coming of our Lord Jesus Christ your Son; and so, by your mercy, may we deserve here to receive pardon for all offences, that in the future we may feel your judgement wholly most gentle towards us, and, made sharers of your right hand, may we deserve to receive from you the reward of eternal life, and attain your unconquered, infinite and most mighty kingdom. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.35",
+   "text": "Let the priest say: Through your mercy, our God, in whose sight the names of the holy apostles and martyrs, confessors and virgins are recited. ℟. The choir: Amen. Let the priest say: Our priests offer an oblation to God the Lord, the pope of Rome and the others, for themselves and for all the clergy and the peoples of the Church entrusted to them, and for the whole brotherhood. Likewise all the priests, deacons, clerics and the people standing around offer 446 in honour of the saints, for themselves and their own. ℟. The choir: They offer for themselves and for the whole brotherhood. Let the priest say: Making commemoration of the most blessed apostles and martyrs, of the glorious holy virgin Mary, Zechariah, John, the Innocents, Peter, Paul, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James, Simon and Jude, Matthias, Mark and Luke. ℟. The choir: And of all the martyrs. Let the priest say: Likewise for the spirits of those at rest: Hilary, Athanasius, Martin, Ambrose, Augustine, Fulgentius, Leander, Isidore, David, Julian, another Julian, Peter, another Peter, John, Servus Dei, Visitanus, Viventius, Felix, Cyprian, Vincent, Gerontius, Zechariah, Cenapolus, Dominic, Justus, Saturninus, Salvatus, another Salvatus, Bernard, Raymond, John, Celebrunus, Gundisalvus, Martin, Roderic, John, Guterius, Sancius, another Sancius, Dominic, Julian, Philip, Stephen, John, another John, Felix. ℟. The choir: And of all those at rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.36",
+   "text": "Let the priest say after the names:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.37",
+   "text": "We beseech you, Lord Jesus Christ, that the love of your coming may so remain in us that our hearts may never withdraw from you; and so enrol us now for the eternal calling, that we may not be confounded in the future, when you come to judge the world. ℟. The choir: Amen. Let the priest say: For you are the life of the living, the health of the sick, and the rest of all the faithful departed, for eternal ages of ages. ℟. The choir: Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab10",
+   "text": "Prayer for the peace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.39",
+   "text": "Let the priest say:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.40",
+   "text": "O Lord God almighty, who for the redemption of the human race willed to send to us, by angelic annunciation, through the womb of the virgin Mary, your Son, coeternal and coequal with you, and before the coming of that Son of yours deigned to appoint John as herald, so that through his truthful preaching in the desert wilderness the penitent people might receive pardon for long-standing crimes, and through the new man, God, preaching the kingdom, the world might deserve to attain the full, ineffable grace of the divine Trinity: grant us in this time of the Advent of your Only-begotten the same grace of peace which you deigned to bestow on past ages; and join us, to be numbered in the meeting of faith, with those whom we know to have been washed in the beginning of faith by John in the Jordan with the waves of the waters of penitence, and at last baptised by you through the Son in the Holy Spirit and fire. Let the choir respond: Amen. Let the priest say: For you are truly 447 our peace and unbroken charity, you live with yourself and reign with the Holy Spirit, one God, for ages of ages. ℟. The choir: Amen. Let the priest say, with hands raised to heaven: The grace of God the Father almighty, the peace and love of our Lord Jesus Christ, and the fellowship of the Holy Spirit be always with us all. ℟. The choir: And with all of good will. Let the priest say: As you stand, make peace. ℟. The choir: My peace I give you, my peace I commend to you; not as the world gives do I give you peace. ℣. A new commandment I give you, that you love one another. Let it be repeated: My peace I give you. ℣. Glory and honour to the Father and to the Son and to the Holy Spirit for ages of ages, amen. Let it be repeated: My peace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.41",
+   "text": "Meanwhile, while the choir says: My peace, let the priest take the peace from the paten, saying thus: Have the kiss of love and peace, that you may be fit for the most holy mysteries of God. And at once let him give the peace to the deacon or to a boy, and the boy to the people. Afterwards let the priest bow with hands joined and say: I will go in to the altar of God. ℟. The choir: To God who gives joy to my youth. Let the priest place his hand over the chalice and say: [Lift up your] ears to the Lord. ℟. The choir: We have [them lifted] to the Lord. Let the priest say: Lift up [your] hearts. ℟. The choir: Let us lift [them] to the Lord. Let the priest say, bowing with hands joined: To God and our Lord Jesus Christ, Son of God, who is in heaven, let us render fitting praise and fitting thanks. And while saying: Let us render thanks, let the priest raise his hands on high. ℟. The choir: It is fitting and just. Afterwards let the priest say:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab11",
+   "text": "*Inlatio* [the preface]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.42",
+   "text": "It is fitting and just that we give you thanks, holy Lord, eternal Father, almighty God, through Jesus Christ your Son our Lord, whom John, his faithful friend, went before in being born; went before in preaching in the desert wilderness; went before in baptising; preparing also the way of the judge and redeemer, he called sinners to penitence; and, gaining a people for the Saviour, he baptised in the Jordan those confessing their own sins; not conferring full grace by renewing men, but admonishing them to await the presence of the most loving Saviour; not himself remitting sins to those coming to him, but promising that remission of sins would come for those who believe; so that those going down into the water of penitence might hope for the remedy of pardon from him whom they heard was to come, full of the gift of truth and grace. Christ therefore is baptised by him with the visible element and the invisible Spirit; they were led through obedience to mercy; through the son of the barren woman to the son of the Virgin; through 448 John, a great man, to Christ, man and God. Him, with the Father and the Holy Spirit, the angels and archangels, thrones, dominions and powers adore, saying thus:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.44",
+   "text": "℟. The choir:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.45",
+   "text": "Holy, Holy, Holy, Lord God of Sabaoth. Heaven and earth are full of the glory of your majesty; hosanna to the son of David, hosanna in the highest. Blessed is he who comes in the name of the Lord, hosanna in the highest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.46",
+   "text": "Let the priest say after the Sanctus:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.47",
+   "text": "Truly holy and glorious is our Lord Jesus Christ your Son, whom we believe to have once been made flesh for the salvation of the human race; and now we await him who is to come to judgement in the glory of brightness with all the saints, he himself the Lord and eternal redeemer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.48",
+   "text": "Then let the priest say this prayer in silence, with hands joined, bowing before the altar."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.49",
+   "text": "Be present, be present, Jesus, good high priest, in our midst, as you were in the midst of your disciples; sancti † fy this offering, † that we may receive [it] sanctified † by the hands of your holy angel, holy Lord and eternal redeemer. Our Lord Jesus Christ, on the night in which he was betrayed, took bread, and giving thanks he bles † sed and broke [it]; and he gave [it] to his disciples, saying: Take and eat: This is my body, which will be given up for you. Here let the body be elevated. As often as you eat [it], do this in my † remembrance. Likewise also the chalice, after he had supped, saying: This † is the chalice of the new Testament in my blood, which will be poured out for you and for many for the remission of sins. Here let the chalice be elevated, covered with the *filiola* [the pall]. As often as you drink [it], do this in my † remembrance. And when he has come to where it says: In my remembrance, let the priest say [it] in a loud voice on all days except feast days. In the same way where it says: Into brightness from heaven. And each time let the choir answer: Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.50",
+   "text": "As often as you eat this bread and drink this chalice, you will proclaim the death of the Lord until he comes. Into brightness † from heaven. ℟. The choir: Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.51",
+   "text": "Let the priest say after the Pridie:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab12",
+   "text": "Prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.52",
+   "text": "Lord Jesus Christ, sanctify this living victim by the illumination of your coming, so that, partaking of it, we may be cleansed from sin, and may deserve to receive your grace without end. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.53",
+   "text": "Afterwards let the priest say:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.54",
+   "text": "449 By your gift, holy Lord, who for us your unworthy servants create all these things very good, sancti † fy, vivify †, bl † ess † and bestow [them] on us, that it may be blessed by you our God for ever and ever. ℟. The choir: Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.55",
+   "text": "And then let the priest take the body of the Lord from the paten, and place [it] over the uncovered chalice, and say in a loud voice on all days, namely feast days and Sundays, except in places where there will be a proper antiphon for the breaking of the bread:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.56",
+   "text": "450 The Lord be always with you. ℟. And with [your spirit]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.57",
+   "text": "Let the priest say:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.58",
+   "text": "The faith which we believe in the heart, let us also speak with the mouth. And let the priest raise the body of Christ so that it may be seen by the people. And let the choir say the Creed two by two, namely:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.59",
+   "text": "We believe in one God, the Father almighty, maker of heaven and earth, creator of all things visible and invisible. And in one Lord our Lord Jesus Christ, the only-begotten Son of God, and born of the Father before all ages, God from God, Light from Light, true God from true God, born not made, *homoousios* with the Father, that is, of the same substance as the Father; through whom all things were made, those in heaven and those on earth: who for us men and for our salvation came down from heaven; and was made flesh by the Holy Spirit from the Virgin Mary, and was made man. He suffered under Pontius Pilate, was buried, on the third day he rose again; he ascended into heaven, he sits at the right hand of God the Father almighty; from there he will come to judge the living and the dead, of whose kingdom there will be no end; and in the Holy Spirit, the Lord, the giver of life, proceeding from the Father and the Son, to be adored and glorified together with the Father and the Son; who spoke through the prophets. And one holy catholic and apostolic Church. I confess one baptism for the remission of sins. We await the resurrection of the dead, and the life of the age to come. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.60",
+   "text": "And then let the priest do thus: let him break the Eucharist through the middle, and place the half in the paten, and from the other part let him make five particles, and place them in the paten; and let him take the other part and make four particles, and place them in the paten likewise, made in order, in the places shown above. And at once let him cleanse his fingers well; and with the chalice covered let him make the Memento for the living."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.61",
+   "text": "Afterwards let the priest say this prayer evenly [as an introduction] to the Lord's Prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab13",
+   "text": "Let us pray."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.62",
+   "text": "Word of the Father, who were made flesh, that you might dwell among us: grant us that we who believe that you have already come may be delivered from all contagion of sins, when we have proclaimed from the earth the oracles of your command. Our Father, who are in heaven. ℟. Amen. Hallowed be your name. ℟. Amen. Your kingdom come. ℟. Amen. Your will be done as in heaven so on earth. ℟. Amen. Give us today our daily bread. ℟. For you are God. 451 And forgive us our debts, as we also forgive our debtors. ℟. Amen. And lead us not into temptation. ℟. But deliver us from evil. Let the priest say: Delivered from evil, ever strengthened in good, may we deserve to serve you, our God and Lord. Put an end, Lord, — here let him strike his breast — to our sins: give joy to the afflicted, grant redemption to captives, health to the sick, rest to the dead: grant peace and security in all our days. Break the boldness of our enemies, and hear, O God, the prayers of your servants, all faithful Christians, on this day and at all times. Through our Lord Jesus Christ your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.63",
+   "text": "Let the priest do thus: let him now take the particle which is called Kingdom from the paten, and place it over the chalice. In Eastertide, namely, let him say three times: The Lion of the tribe of Judah, the root of David, has conquered, alleluia. Let the choir answer each time: You who sit upon the cherubim, Root of David, alleluia. And afterwards let him say this prayer to himself in a low voice:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.64",
+   "text": "Holy things for the holy, and the joining of the body of our Lord Jesus Christ; may it be for pardon to us who eat and drink, and may it be granted for rest to the faithful departed. And let him put the particle into the chalice, and cover the chalice, and say in a loud voice thus, if there is no deacon there:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.65",
+   "text": "Bow down for the blessing. The Lord be always with you. ℟. And with [your] spirit. Blessing. May the only-begotten Son of God illumine you with the light of his coming, who did not disdain to redeem you at the price of his own blood. ℟. Amen. May he gird you with the virtues of peace, and enrich you with abundant gifts. ℟. Amen. And may you always have as protector that Lord whom the almighty Father raised up as victor from the tribe of Judah. ℟. Amen. Let the priest say: Through the mercy of our God himself, who is blessed, and lives, and rules all things for ever and ever. ℟. Amen. The Lord be always with you. ℟. And with [your spirit]. Let the choir say: Taste and see that the Lord is sweet. Alleluia, alleluia, alleluia. ℣. I will bless the Lord at all times: his praise always in my mouth. ℟. Alleluia, alleluia, alleluia. ℣. The Lord will redeem the souls of his servants, and will not forsake any who hope in him. ℟. Alleluia, alleluia, alleluia. ℣. Glory and honour to the Father, and to the Son, and to the Holy 452 Spirit, for ever and ever. Amen. ℟. Alleluia, alleluia, alleluia. While saying Taste and see, let the priest take the next particle, which is called Glory, and place it over the chalice, and say this prayer in silence: I will receive the heavenly bread from the table of the Lord, and I will call upon the name of the Lord. And let the priest say the Memento for the dead, holding that particle over the chalice, and when the Memento has been said, let him say these prayers which follow."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.66",
+   "text": "Lord my God, grant me so to receive the body and blood of your Son our Lord Jesus Christ that through it I may deserve to receive remission of all sins, and to be filled with your Holy Spirit, our God, who live and reign for ever and ever, amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab14",
+   "text": "Prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.67",
+   "text": "Hail for ever, most holy flesh of Christ, for ever the highest sweetness: I will receive the heavenly bread, and I will call upon the name of the Lord. Here let him make the sign [of the cross] with the Host, and consume the particle which he holds in his hand, and cover the chalice, and come to the paten, and consume all the particles in order. And then let him take the paten, and place it over the chalice, and cleanse his thumb well with his finger, and say this prayer:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.68",
+   "text": "Hail for ever, heavenly drink, who are sweet to me before all things and above all things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab15",
+   "text": "Another prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.69",
+   "text": "May the body and blood of our Lord Jesus Christ keep my body and soul to eternal life, amen. Here let him receive the blood; and when the priest has consumed the blood, let him immediately say this prayer:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.70",
+   "text": "O Lord my God, Father and Son and Holy Spirit, make me always seek and love you, and never depart from you, through this holy communion which I have received; for you are God, and besides you there is no other, for ages of ages, amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.71",
+   "text": "Let the choir sing the communion [chant]: Refreshed with the body and blood of Christ, we praise you, O Lord, alleluia, alleluia, alleluia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.72",
+   "text": "Let the priest go to the horn of the altar and say this prayer: Refreshed with the body and blood of Christ and sanctified alike, let us give thanks to God the Father almighty, that, having this same resurrection and sanctification here, we may also receive glory in the world to come. ℟. Amen. Let the priest say: Through your mercy, our God, who are blessed, and live, and rule all things for ages of ages. ℟. Amen. The Lord be always with you. ℟. And with [your spirit]. Let the priest or deacon say: The solemnities are completed in the name of our Lord Jesus Christ; may our offering be accepted in peace. ℟. Thanks be to God. The prayer given above is said in the middle of the altar."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.73",
+   "text": "In this mass and in others the priest does not turn to the people, except when he says: Help me, brothers, with your prayers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab16",
+   "text": "II. ON THE NATIVITY OF OUR LORD JESUS CHRIST, AT MASS, THE *OFFICIUM* [ENTRANCE CHANT]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab17",
+   "text": "From the same Mozarabic Missal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.74",
+   "text": "Alleluia. Blessed is he who comes, alleluia, in the name of the Lord, alleluia, alleluia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.75",
+   "text": "℣. The Lord is God, and he has shone upon us. P. In the name of the Lord. ℣. Glory and honour to the Father, and to the Son, and to the Holy Spirit, for ages of ages, amen. P. In the name of the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.76",
+   "text": "Let the priest say: For all ages of ages. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.77",
+   "text": "Let the priest say: Glory to God in the highest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.78",
+   "text": "After the Gloria in excelsis has been said, let him say this prayer:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.79",
+   "text": "Today a treasure is born to us. Today the lamp of the Virgin, which the Holy Spirit kindled, has appeared to us as the true light. Today the physician of the blind is born. Today [is born] the health of the paralysed. Today the support of the weak, the strength of the sick. Today our Saviour, the resurrection of the dead, has come. Today a new light has appeared to us in the midst of the fiery night. Today the Saviour has come to us, whom the prophets had foretold would be born of the virgin Mary. Today, laid in a manger, the everlasting Bread of light is shown to us, who said: I am the true bread who came down from heaven. And if anyone eats of this bread he will not hunger for ever. Grant us, O Lord, through the glory of your nativity, to be freed from our own evils, and ever to glory in your praises. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.80",
+   "text": "Prophecy. Reading from the book of Isaiah the prophet. Chapter 9."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.81",
+   "text": "℟. Thanks be to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.82",
+   "text": "At the first time the land of Zebulun and the land of Naphtali was relieved, etc., as far as: the zeal of the Lord of hosts will do this. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.83",
+   "text": "Let the priest say: The Lord be always with you. ℟. And with [your] spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.84",
+   "text": "Let the choir say the *Psallendo* [chant]:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.85",
+   "text": "The Lord said to me: You are my Son, today I have begotten you. ℣. Ask of me, and I will give you the nations as your inheritance, and the ends of the earth as your possession. P. I [have begotten you]. Let the priest say: Keep silence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab18",
+   "text": "The beginning of the epistle of Paul the apostle to the Hebrews. Chapter 1."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.87",
+   "text": "℟. Thanks be to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.88",
+   "text": "Brothers, in many parts and in many ways, etc., as far as: and your years will not fail. Let the choir respond: Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.89",
+   "text": "Reading of the holy Gospel according to Luke. Chapter 2."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.90",
+   "text": "And it came to pass, while they were there, the days were fulfilled that she should give birth: and she bore a son, etc., as far as: as it was told to them. ℟. Amen. *Lauda* [chant after the Gospel]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.91",
+   "text": "Alleluia. ℣. The Lord has sent redemption to his people; he has commanded his covenant for ever: holy and terrible is his name. P. Alleluia. Let the priest say: Help me, brothers, with your prayers. *Sacrificium* [offertory chant]: A little child is born to us, and a son is given to us; and his rule is upon his shoulders, alleluia, alleluia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab19",
+   "text": "MISSA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.92",
+   "text": "Behold, now is the acceptable time; behold, now is the day of salvation. Light has come forth from the earth: let us go out from the darkness. The Advocate has come down from heaven: let us do what we ought. The Redeemer of the world has appeared: let us cry out for liberty. The physician has come to the sick: let us show our wounds. The living Bread has been given to believers: let us receive it. The everlasting Fountain has risen for the faithful: let us fill our souls. May he, by the power and grace of his mercy, make us stand firm in the progress of faith, in the practice of justice, in the step of confession, in the love of chastity, so that he may prove in it that he has begotten souls for himself, not let them wither. And in that state may our life delight him and bear fruit for us, in which he, remaining God, grafted himself into what is of our kind, not of our crime, being about to be born in us, and appeared, being about to die for us. ℟. Amen. By the granting of the grace of his compassion, whose kingdom and dominion is everlasting and glorious for ages of ages. ℟. Choir: Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab20",
+   "text": "Another prayer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.93",
+   "text": "You, Lord Jesus Christ, you, God saving men in multitude, and man singularly powerful in God, we invoke, we praise, we ask that you be present, spare, have mercy, forgive; that you give in the heart and fulfil our vows; give in the mouth and hear our words; give in the deed and bless our acts. We do not ask that your bodily nativity be renewed for us, as it was once accomplished on this day; but we ask that your invisible divinity be incorporated into us, so that what was granted bodily, but singularly, then to Mary, may now be granted spiritually to the Church: that undoubting faith may conceive you, that the mind freed from corruption may bring you forth, that the soul overshadowed by the power of the Most High may always hold you. Do not depart from us, but proceed from us. Be in very truth our Emmanuel, God with us. Deign to remain in us and to fight for us; for when you fight, we conquer. Loose us, we pray, from the rotten swaddling-clothes of sins, you who for our sins deigned to be bound even in the decay of swaddling-clothes. May your milk nourish the little ones of your Church; may the delicate food of herbs so feed the weak, that their strength may grow daily more vigorous for receiving stronger and solid food. And may we so know how to show a purified will and a most firm faith, that we may strive continually, by your help, to come to life everlasting. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab21",
+   "text": "After the names."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.94",
+   "text": "We, your unworthy servants and lowly priests, sacrificing spiritual victims to your awesome majesty, offer to you, O God, the spotless victim, which a mother's womb brought forth with unstained virginity, which modesty bore, holiness begot, integrity poured forth; a victim which, sacrificed, lives, and living is continually sacrificed; a victim which alone is able to please God, because it is the Lord. This we offer to you, highest Father, for your holy Church, for the atonement of a sinning world, for the cleansing of our souls, for the health of all the sick, and for the rest or pardon of the faithful departed, that, their lot in sorrowful dwellings being changed, they may enjoy the happy fellowship of the just. ℟. Choir: Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab22",
+   "text": "Prayer at the peace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.95",
+   "text": "You, the exalted God, and likewise the humble man Christ Jesus, we, your lowly servants, bowed down, humbly beseech, that the peace which, when about to ascend to heaven, you entrusted to your dear ones, you may give, increase, perfect and guard. And so may your peace be in strength, and abundance in your towers, lest the kisses of duty be coverings for hidden poison; but you who, while the angels sang, granted peace to men of good will, on this day of your Nativity make us messengers and sons of peace. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab23",
+   "text": "*Inlatio* [the preface]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.96",
+   "text": "It is fitting and right that we should render to your omnipotence and loving-kindness such praises as you have granted us to be able [to give], most merciful Father; for after many ages, on this day, not many ages ago, he who always existed for you and for himself, Christ Jesus your only-begotten, was born to us: he became the son of his handmaid, the Lord of his mother; the offspring of Mary, the fruit of the Church; he is brought forth by the one, received by the other; through the one he comes forth small, through the other he is wonderfully spread abroad. The one created the salvation of the peoples, the other the peoples; the one bore the life, the other [bore them] in the washing; into the limbs of the one Christ was poured, in the waters of the other Christ is put on. Through the one he who was is born; through the other he who had perished is found. In the one the Redeemer of the nations is given life; in the other the nations are given life. Through the one he came to take away sins; through the other he took away the sins for which he came. Through the one he wept for us; through the other he healed us. In the one an infant, in the other a giant. There he is an exile, here he triumphs. Through the one he carried rattles, through the other he subdued kingdoms. The one he soothed with the joy of a little child, the other he betrothed with the faith of a bridegroom. There remain, then, the uncorrupted exchanges of a precious love. The bridegroom gave his bride gifts, living waters, that is Christ to the Church, with which she might once for all be washed to merit his pleasure. He gave the oil of gladness, with which she might be anointed with the fragrant ointment of chrism. He called her to his table, he satisfied her with the fat of wheat, filled her with the wine of sweetness, put on her the ornament of justice; he gave her a gilded garment of manifold virtues; he laid down his life for her; he who was to reign as victor displayed as her dowry the spoils of the death he had undergone and trampled; he gave himself to her as food and drink and clothing. He promised her that he would give her an eternal kingdom; he pledged that she would be set as Queen on his right hand; he granted to her also what was granted to his Mother, to be filled, not violated; to give birth, not be corrupted; to the one once, to the other always; to sit as a bride in the chamber of beauty, and to multiply sons in the bosom of loving-kindness: to be fruitful in offspring, not foul in will. So she too, made rich in him and through him, returns humble gifts to her bridegroom and Lord: this by offering from her own what she believed, this by example in that she loved him in return, this by his gift, that she was able to do in him what she willed, and willed in him what she was able. She gave him martyrs as roses, virgins as lilies, the continent as violets. These, the gathered outlays of her work, she sent to him through the apostles, the ministers of his will. Hence now, standing at his right hand in happy and glorious eternity, she praises him, reigning with you, almighty Father, and with the Holy Spirit, confessing [him] with all the angels, and says: ℟. Choir: Holy, Holy, Holy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.97",
+   "text": "Let the priest say after the Sanctus:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.98",
+   "text": "Truly holy, truly blessed is our Lord Jesus Christ, your Son, who came from heaven to dwell on earth: he was made flesh, so that he might dwell among us, Christ the Lord and eternal Redeemer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.99",
+   "text": "Let the priest say after the Pridie:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.100",
+   "text": "These your gifts, O Lord, and keeping your commands, we set forth on your altar as whole offerings of bread and wine, asking the most lavish tenderness of your mercy, that in the same Spirit by which incorrupt virginity conceived you in the flesh, the undivided Trinity may sanctify these offerings; so that when they have been received by us with no less trembling than reverence, whatever lives wickedly against the soul may perish, and whatever has perished may in no way come back to life. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.101",
+   "text": "Let the priest say at the Lord's Prayer:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.102",
+   "text": "What the Way showed us to follow, what the Life taught us to speak, what the Truth instructed us to hold, let us proclaim to you, most high Father, from the earth with trembling of heart: Our Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.103",
+   "text": "Let the priest say the blessing:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.104",
+   "text": "May the Lord Jesus Christ, who once for us deigned to be born today, himself give you life by his nativity. ℟. Amen. And may he who, taking on the infancy of humanity, was clothed in mean swaddling clothes, clothe you with the garments of the heavenly virtues. ℟. Choir: Amen. And may he be the inner food of your hearts, who, laid in a manger, willed to be shown to believers as one to be eaten. ℟. Choir: Amen. Through the mercy of our God himself, who is blessed, and lives, and rules all things for ever and ever. ℟. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.105",
+   "text": "Let the priest say: The Lord be always with you. Here let the choir say: Taste and see."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab24",
+   "text": "Prayer after communion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.106",
+   "text": "We give you thanks, Lord God, and we bless you, God, from day to day, who have deigned to bring us to this holy day of your solemnity. Grant that we may receive this day of your nativity through many courses of years in peace and tranquillity with your faithful people. ℟. Choir: Amen. ℣. Through your mercy, our God, who are blessed and live and rule all things for ever and ever. ℟. Amen. ℣. The Lord be always with you. ℟. And with [your spirit]. ℣. The solemn rites are completed in the name of our Lord Jesus Christ: may our offering be accepted with peace. ℟. Thanks be to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab25",
+   "text": "III. HERE BEGINS THE LETTER OF SAINT AUGUSTINE TO SAINT BIBIANUS OF GOD, BISHOP OF THE CITY OF SAINTES."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab26",
+   "text": "From a manuscript codex of Saint-Père of Chartres (a)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.107",
+   "text": "To the truly holy lord, adorned with the triumph of the palm and crowned with the pontifical office, Bibianus the orthodox, Augustine, servant of the servants of God, greeting in the Lord. Know that the letter of your apostleship has reached us, brought by our dearest son Trojanus, your deacon; and when your well-being had been made certain to us by the page, we rendered immense proclamations of praise to God. And although we are absent in body, yet present in flower-bearing charity, we have been greatly gladdened by the report of your holiness and the excellent summit of your priesthood, which shines far across the world, not only of the West and Gaul, but also of the East and Africa, as the light of your merits runs through it. We pray God that he who began a good work in you may himself complete what was begun; and at the same time we humbly ask of you that, helped by your prayers, we may deserve to be freed from the snares of this world. As to what you deigned to enjoin on us, that we should send you the order of the church of Hippo Regius, how it carries out the divine offices through the yearly harmony of the pages of both the New and the Old Testament: we could not do so at present, because we had our notaries occupied with the book Hexameron. But when that work has been completed, the Lord favouring, we will at once, obeying your command, send you the little book by your servant, our son in Christ, the priest Eugepius: in it we have summarised the work of the whole year, culling the flowers of the divine readings, beginning the order of the Lord's Advent from the eighth day before the Kalends of October, the autumn equinox, because on that same day John, the forerunner of the Lord, is handed down by our elders to have been both conceived at the angel's announcement and slain by the sword of deadly Herod. There is also, besides the Nativity, another solemnity of John the Baptist, namely on the fourth day before the Kalends of September, when the head of the Lord's forerunner is read to have been found. This, I think, the dispensation of the Godhead decreed for this reason: that since in the water of baptism, a ministry which indeed John preached before the face of Christ, we are consecrated by three immersions, so the Church should solemnly render his praises threefold. And because it is written of him by the voices of the prophets and the testimony of the Saviour: Behold, I send my angel, who shall prepare the way before your face; therefore we also begin the office of Christ's Advent from his conception or death. For it is fitting that from that same day until the Nativity of Christ the Church should resound, drumming on the instruments of the prophets."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.108",
+   "text": "But since there are some who are seen unwisely to observe the Lord's Advent from the feast of blessed Martin, bishop of the city of Tours, we do not rebuke them, because not all can do all things, and especially since the Apostle says: To each as God has apportioned the measure of faith. But far different is the fullness of our order and religion. For holy Martin appeared long after the ascension of the Lord, or after his nativity, or departed after his death, since he lived near our own times, although in a short time the fame of his holiness and power has filled the whole world. Among us, therefore, abstinence from meat and from conjugal union is enjoined on the children of the Church from his solemnity, so that they may communicate more securely at the Nativity of the Lord. But this work is more rightly instituted at the conception of Saint John: because he himself went before the Lord, both through the angel's proclamation and through the contact of what it signified, when the Lord was born of a Virgin, and the servant of an old and barren mother; and he himself, enclosed in the womb, leaping with joy, greeted Christ, enclosed in the Virgin's belly, with a mystical presage. And also, when John sensed the day of his death drawing near, he therefore sent to the Lord, saying: Are you the one who is to come, or do we wait for another? as if he said to him: Show me whether you yourself will descend to the gates of hell, or will send another to free the human race: for just as, placed on earth, going before you by teaching and baptising, I pointed you out with my finger as about to arise, so I wish, at your command, Lord, to announce your coming to the people sitting in darkness and daily begging for you? And for these definite reasons the solemnity of John the Baptist is placed before the celebration of the Lord's Advent. But see also the order of the seasons agreeing fittingly in this very thing. At the autumn equinox, when darkness increases, then John is handed down to have been conceived; and about the turn of the same season he suffered. At the equinox when light is extended and darkness diminished, then Christ is handed down to have been both conceived in the Virgin's womb and, in the same course [of the year], fixed to the gibbet of the cross. At the solstice in which the day begins to shorten and the night to lengthen, John is believed to have been born, as the servant; but at that solstice from which the day increases and darkness diminishes, the Saviour was born of the Virgin Mary. For this fourfold course of the turning year we have also divided this book, setting its bounds; so that, as the four seasons of the year are seen to be bounded in this order, so also the four volumes of this book may render a distinct office through the circle of the year, after the pattern of the holy Gospel, as the wheel drawn below appears to show. I beg you, and all to whom this form of reading may come, that you deign to pray for me to the almighty Lord, so that for the labour of this work I may deserve to receive some small portion of grace from him. Given on the Kalends of June, at Hippo Regius, Arcadius and Honorius being Augusti."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.109",
+   "text": "Here happily ends the letter of Saint Augustine, bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab27",
+   "text": "IV. SERMON ON THE VIGIL OF THE EPIPHANY."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab28",
+   "text": "From an old Gallican Lectionary (a)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.110",
+   "text": "Your charity has heard with us the Evangelist saying: When God, he says, was born in Bethlehem of Judaea in the days of King Herod, behold, magi came from the East to Jerusalem, saying: Where is he who is born King of the Jews? For we have seen his star in the East, and have come to worship him. Happy that city, brothers, for which God was born a citizen! which, receiving a singular merit before the Saviour's coming, deserved to be praised first by the prophet, before it learned whom it was receiving. Happy are you, city of Bethlehem! for you are not least among the princes of Judah. For from you shall come forth a King who shall rule my people Israel. What is Judah doing, the blindness of their minds, who deserved neither to understand nor to know the Saviour's coming? The prophet's answer has been fulfilled for all: heaven has disclosed our Saviour. For when could he be hidden, whom God had foretold? The city of Bethlehem received a citizen from the starry regions, and through its new inhabitant passes into great merit, because what it has deserved cannot be ended. But after that birth, shown by a heavenly sign, was found and seen, the venerable infancy troubled the magi. There was nothing at all contemptible there in those cries, because God looked upon human senses; but after [they had] proved the faithfulness of the star itself, the magi, deceiving the royal command, made for foreign regions; avoiding the sight of King Herod, they wished to show more fully what they feared. The king feels a greater goad when what he dreads is not shown to him. But when the anxious king, the time for their coming having passed, learned that the deceiving magi had gone another way, and the unknown sight of the infant scattered his mind with various emotions, he brought forth this by the cruel art of his counsel: that to find the infancy of his successor, he would seek by killing what lay hidden, as it is written: When Herod saw that he had been tricked by the magi, he was very angry, and sent to have all the infants killed in Bethlehem and in all its borders, from two years old and under. Happy was the sport for the little ones, the condition of dying, who deserved to suffer for Christ. The mad savagery of the raging king profited the dying: for while he searches out his successor with diligent cruelty, in his anger he made them worthy martyrs. For Herod, whom a ravenous sense drove with the torches of fury as much as love of sweet power inflamed him, sent his executioners to search out the infants, as if he could find God when he wished. The king's servants go into the city, bearing a cruel command and carrying a harsh order; with swords they hastened to the tears of mothers. An infant war was waged in the houses; and with savagery fighting alone against itself, the cruelty of bereavement stood out. Infants were slaughtered in their cradles, in whom there was not yet awareness of being born: and that first beginning of limbs learns to be a corpse before a body. The beginnings of limbs were slain, the tiniest sucklings, and little ones taken from their mothers were dashed against the hardness of stones, so that, for an accursed evil, the rough mass of rocks scattered their limbs. And the earth unwillingly received the slain, crushed, and once more itself gave burial to mortals whom it had lately received, newborn, in festivity. Under the mothers' eyes the wailing of infants was stifled, and they bore their tears back into their mothers' eyes. Our Saviour was sought among the funerals of infants: who permitted infants to be killed for him to this end, that others might learn to die for him. The houses swam with the blood of little ones; nor was there anyone who could console another, because there was no one who had no tears. Unconquerable bereavement had made all equal, and the common evil was borne everywhere with mourning. Stifled wailings drew forth greater groans. No house, no place had been left to bereavement where diligent cruelty had not been. The small wounds of limbs lay there, and with veiled faces, coloured with sad pallor, they gave tears to the minds of all. The whole city was filled with tiny deaths, and with the posterity of all cut off, only this escaped: that it did not deserve to have [its] wailing. In that [city], the mothers intent on the destruction of their sons under a hail of children, one woman escaped happy, who was a virgin after giving birth. What did it help to fill the earth with so many funerals? What did it profit to dry up so many flowing breasts, when God had foretold the evil to come? It is clear, then, that the Jewish nation prepared destruction for the Lord at his birth; and so at that same time God Christ willed to teach that the Jew did not know what was happening. But because the Lord Christ was kept from or delayed in his passion, he preferred to be known by his mighty works rather than to be killed before the time."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab29",
+   "text": "V. TESTAMENT OF THE ILLUSTRIOUS LADY ERMENTRUDE"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab30",
+   "text": "From the autograph at Saint-Denis, on Egyptian paper (a)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.111",
+   "text": "......... the most sacred treasury shall receive. But if you keep all that I have inserted in this testament....., whatever I have assigned to you above shall remain in your right for all time..... in this testament, to whomever I have not allotted it, I wish you, sweetest son, to have. Likewise....... by the instruction of Deorovald of good memory I give you a silver jug worth about 25 solidi. And on my own part I give you a silver cup worth 30 solidi, and half of the sheep which Vigilius tends, with the shepherd named Gaugiulf. In the same way, from Latiniacum and Balbiniacum, both clothing and bronze-ware or utensils, and of the oxen, half of everything, I direct that you, sweetest son, shall have. On the same condition, by the instruction of Deorovald of good memory, I give you, sweetest son, from his portion and from my own property, the slaves of these names: Unnegisil, Aunemund, and the daughters of Patricius, that is Fedana and Ausegund, and Aguechild, and Baccio with a herd of pigs; two plots of vineyard situated on Mount Maurilio, which Theodahar and Garimund cultivate. A third plot of vineyard, situated on Mount Metobaure, with the vinedresser Guntrachar.... A fourth plot of vineyard, situated at Taurimacum, which Imnerd cultivates, with the vinedresser Munegisil. A fifth plot of vineyard, situated on Mount Vultoricinus, which Sevila cultivates, with the vinedresser. All these things written above I have determined that you, sweetest son, shall have, by my own will and by the instruction of Deorovald of hallowed memory. Of the vineyard situated on Mount Me....., which Habundantius cultivates, I direct that half be given to the holy church of ...eliensis; the other half of that vineyard I order my sweetest grandson Bertigisil to have. The vineyard which the woman Agita held, and the vineyard which Imnachar cultivates, I direct my sweetest granddaughter Deorovara to have, together with Imnachar himself. The young vines which are beside the vineyard of Sevila I direct my sweetest grandson Bertheric to have. The vineyard which Vincimalus cultivates on Mount Vultoricinus, and the girl named Sunnechild, and the maidservant named Iveria with her son Leudin, I order my sweetest granddaughter Beriovara to have. Likewise I determine that my sweetest grandson Bertegisil shall have a silver *ichriarlum*, and the slaves of these names: Sunniulf and his sister Gibethrud, and the daughters of Anthimius, and the younger son of The.....na. To my granddaughter Deorovara I determine that there be given a silver dish marked with a cross, and the slaves of these names: Tanechild, Imnegunth, Imnegisil; and the bedding for one bed, whichever is the better, and a boy named Gundofred, and a maidservant named Theigund, and also a girl named Audechild. I order my sweetest grandson Bertheric to have a boy named Medigisil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.112",
+   "text": "To the basilicas established at Paris, that is, to the basilica of Saint Peter, I determine that there be given a silver jug worth twelve solidi, and a gold brooch set with gems, [worn] at the chin. To the basilica of the Lady Mary I order that there be given a silver bowl worth twelve solidi, and a gold cross worth seven solidi. To the basilica of the lord Stephen I wish that there be given a gold ring inlaid with niello, [worth] four solidi. To the basilica of the lord Gervasius I direct that there be given a gold ring having my name written on it. To the basilica of Saint Symphorian, in which my son Deorovald of good remembrance rests, I direct that there be given a bridle worth twelve solidi, and a saddled horse, and the carriage in which I was accustomed to ride, with the oxen; and bedding with all its coverings, for my devotion and for the repose of Deorovald. Another carriage with oxen and all its coverings I order to be given to the church of the village of Bonisiacum. Likewise I direct that the church of Bonisiacum written above shall have the hamlet called Volonnum, with its appurtenances, for the remedy of my soul. To the sacrosanct church of the city of Paris I direct that there be given a silver serving dish worth fifty solidi. To the basilica of the Holy Cross and of the lord Vincent I order that ten silver spoons be given. One pair of bedding and one set of my clothing I direct to be given to the brothers at the table of the basilica of Saint Denis. Another set of clothing I determine to be given to the brothers at the village of Bonisiacum. A third set of clothing I order to be given to Emilia at the village. Likewise, for the remedy of my soul and by the instruction of my son Deorovald of good remembrance, I direct that the estate called Latiniacum, situated in the territory of Meaux, with the fields and tenant holdings belonging to it, with meadows, pastures, woods, and all its rights and boundaries, since it came into the portion of my aforementioned son Deorovald, be given in its entirety to the basilica of Saint Symphorian, where he is known to have his burial, for his repose. Likewise I order that the aforesaid basilica of Saint Symphorian shall have the swineherd named Gundila with a herd of pigs, and Baudomer with a flock of sheep, and the drove of beasts of burden which are at the estate of Latiniacum written above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.113",
+   "text": "Goderic and Gunderic, on the estate written above which I have assigned to the basilica of the lord Symphorian, I order to labour so that from this the offering may be supplied daily to that basilica. I wish that Leudulf, with the vineyard which he cultivates at Sabucitum, be given to the oratory which is on the estate of Latiniacum, so that from this the offering may be provided there. Baudulf and Sumthahar likewise I order to labour with oxen, so that from this the offering may be presented at the basilica of Saint Symphorian for the repose of Deorovald. In the same way I direct that one plot of vineyard, situated at Tauriniacum, which Pinpo cultivates, be given to the basilica of the lord [G]eorge at Cat.... One plot of vineyard, situated on Mount Buxata, which Juvius cultivates, I determine to be given to the church of Bonisiacum. The vineyard which Uvassio cultivates, with Uvassio himself... ........................... which ..... is to cultivate, I determine to be given to the basilica of the lord Symphorian ........ offering ........... One plot of vineyard, situated on Mount Blixata, which Leudefred cultivates, I order to be given to the basilica of Saint [M]artin ...... ..... the names of my freedmen in..... testament ..... I determine: Mediberga, Honorius, Gundileuba, Pia, Sumthulf, Ciuccira, Hicchicio, Maxa, the wife Chioberga, Sindered, Angilo, Leudefred with his wife Vuandilo, Chaideruna, Childeruna, Thrasteberga, Theodachar, Vigilius with his wife Sunnina, Agio with his son Garilull, Vincimalus with his wife Maurella, Mellita with her younger son, Coccio with his son Daigisil, Mudila with her children Munegisil and Monechrud, Acchio, Bona, Leubosainth, Gibulf son of Vigilius, Dommoruna, Childerima, Baso, Childegisil, Childegunth, Chrodulf.... Sindeberga, Monechild, Aeternus, Bauderuna; all these, with all their personal property, both little plots, small dwellings, little gardens and small vineyards, and with whatever they are seen to have in any kind of goods, I direct to be free men and free women; and whatever they wish to do with it, let them have free power."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.114",
+   "text": "Likewise I direct that Mumola, with all her personal property, be freeborn: let her only take care to supply the lights in the church of Bonisiacum. I order that Vualachar, with all his personal property and with the oxen which he drives, be freeborn on this condition, that he only see to supplying wood for making the offering. I direct Gundefred to labour with two oxen, so that from this wax may be bought for the basilica of the lord Symphorian. Martinian [and] Theoderuna with her elder son, with their personal property, as those written above who have deserved well, I order to be freeborn. In the same way, for the remedy of my soul and by the instruction of my son Deorovald: Gygo, Septered with his wife Goderuna, Theodonivia, Baudonivia, Cara, Patricius with his wife Eusebia, Dagaric with his wife Aurovefa, Ciuncilenus, Blidemund with his daughter Blidechild, Manileub, Trasila, Eumund, Imnered with his wife Torigia, Chadulf, Aridia, Rocculana, Babicco, Gunthivera; all these, with all their personal property, both little plots and small dwellings, small vineyards or little gardens, with whatever they are seen to have at the present time, I determine to be freeborn. Baudulf and Sumthahar, with the oxen which they drive, I direct to labour, so that from this the offering may continually be supplied to the basilica of the lord Symphorian. Thus I give, thus I bequeath, thus I testify; thus do you, Quirites, bear witness for me; all others, men and women, kinsmen and kinswomen, be disinherited by me. And take it that if there are any erasures or scratchings-out in this my testament, I made them and ordered them to be made, while I wished it to be read over to me rather often. I have also determined to add: if anyone wishes to go against this testament, or attempts to corrupt my will in any respect, let him be made a stranger to the communion of all the saints and to the thresholds of the churches, and moreover let him remain anathematised before the tribunal of Christ. Done at Paris on the day and at the time written above. Sign + of Erminethrude, the testatrix. + Mummolus, count, at the request and in the presence of Ermenthrude, have subscribed this testament. Scupilio, sword-bearer, at the request of Erminethrude, have subscribed this testament, on the day and year as above. Munegisil, at the request and in the presence of Ermminethrude, as witness to this testament, on the day and year as above. Baudachar, *defensor* [church advocate], have subscribed. Eusebius, asked by Erminethrude, wrote this testament, read it over and subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab31",
+   "text": "From the testament of Saint Remigius, bishop of Reims."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.115",
+   "text": "A silver vessel of eighteen pounds I have distributed, as I was able, with God's assent, between you, my heir (the church of Reims), and your diocese, the church of Laon, patens and chalices having been made (that is, to be made) from it for the sacrosanct ministry. Another silver vessel, which the illustrious lord Clovis (whom I received from the sacred font of baptism) deigned to give me, I order to be fashioned for you, my heir, the church mentioned above, into a turret-shaped [vessel] and a chalice with images (a).... The vineyard which Bebrimodus works I leave to you on this condition, that on feast days and all Sundays my offering be presented at the sacred altars (b).... I give the vineyard which I planted at Vindonissa, on this condition, that on all feast days and Sundays an offering be presented by its fathers at the sacred altars in commemoration of me."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab32",
+   "text": "VI. FRAGMENTS OF CEREMONIALS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab33",
+   "text": "On the Passion not being read on Palm Sunday at private masses (c)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.116",
+   "text": "On Palm Sunday let the priests at private masses say only one Collect; the Gospel: When he had drawn near; let no one read the Passion, except the brothers who sing in the stalls. (Lanfranc, in the Decrees for the Order of Saint Benedict, p. 260.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.117",
+   "text": "On Palm Sunday at the morning mass only one Collect is to be said; nor is the Passion read, but only that reading of the holy Gospel: When Jesus drew near. This is also enjoined on all the priests who have sung private masses, that they be ready for the two processions which are to be held on that day. (Ulrich, in book 1 of the Customs of Cluny, ch. 54.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.118",
+   "text": "When we are about the end of the Tract, the sacristan will ring one small bell to gather the lords to hear the Passion, because it ought not to be read except at the high mass (Manuscript Customs of Saint-Germain-des-Prés, ibid., on Maundy Thursday). After Prime the seven psalms will be said, and the Litany; afterwards we shall come to sit in the cloister. The priests will go to say their masses, and all ought to celebrate on that day; and they will celebrate without fire."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab34",
+   "text": "VII. THE PASSION OF THE MOST BLESSED MARTYRS, THE HOLY CANTII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.ab35",
+   "text": "From the manuscript codex of the most distinguished man Ulrich Obrecht (d)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.119",
+   "text": "All things (e) which have been done or are done by the saints, if anyone is willing to search them out diligently, yield the fruit of edification both to himself and to very many. And just as a fruit-bearing tree is shown not to occupy the ground without cause while it lives, since it is itself adorned with its fruits, and everyone who partakes of that fruit is fed. We write, as we have found in the acts, what the saints did, what they said, what they suffered. You show yourselves to be catholics, who gladly read, gladly hear the victories of Christ. I ask you who judge that these things should be cast out among apocryphal writings: through whom does the canon of all the divine Scriptures stand? Is it not through those who chose to be killed for that canon rather than be overcome? What then did the martyrs hold? The right faith, which is contained in the sacred volumes, in a fixed number of books. The most sacred letters give thanks to them, for they endure through their endurance. And therefore they wish their acts to be written down, so that the saints may always be praised in the sight of God and men, who in the sight of unbelievers bore monstrous torments in their defence. Accepting nothing besides the canonical Scriptures, we have diligently written these things down, showing the catholic doctrine guarded by catholic martyrs. We give an example to posterity, we hand on edification to believers, we show the art of war to the soldiers of Christ. It is plain that those who will not read of fighters will not fight if need be. Let them impose silence on the unbelievers; let those who scorn to watch the Lord's athletes watch the devil's prize-fighters. We speak, write, and preach the divine powers. Let rivals forbid, let the timid impose silence, let the scornful strike; let them rebuke those who read, accuse those who gladly hear these things; wounds received for the emperor's praise will make soldiers glorious, for love of whom we gladly wish even to lay down our lives. We have brought out from hiding into the open for the armies the labours of the triumphs and victories of Christ. We know that the battles which they suffered visibly are stirred up invisibly against us every day, and that those who fight carelessly are wounded more sharply. Therefore, that you may handle arms, look to the warriors; give your mind to these studies, so that the enemy may begin to fear you."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.120",
+   "text": "2. [We know that] the most blessed martyrs Cantius, Cantianus and Cantianilla were thoroughly instructed in the catholic faith by their tutor Protus... who are known to have been descended from the family of the Anicii, that is, of the emperor Carinus of divine memory, and are shown to have been born and educated within the city of Rome, in the fourteenth region, while Diocletian was ruling at Rome and Maximian in the parts of Illyricum, and Carinus too within the Gauls was dealing well with the Christians; he died not long after. After his death the most wicked Diocletian and Maximian issued decrees through all the provinces that wherever Christians were found, if they refused to sacrifice, they should be afflicted with various punishments. And when the most blessed martyrs the Cantii were in the city of Rome at the time of these edicts, having taken counsel with blessed Protus to avoid the unjust sentence, they resolved to go round their estates situated outside the city, under the pretext of a visit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.121",
+   "text": "3. At that same time they made their way to the city of Aquileia, in which at that time they possessed no small country estates. But since a light could not lie hidden in darkness, it was necessary that the Lord should crown them for the glory of his name. And when the saints had entered the city of Aquileia, they found a harsher savagery towards the Christians than they had left at Rome. For the whole multitude of saints and confessors for the name of Christ were held in chains in prison custody, so that they could not be counted, under the governor Dulcidius, that is, together with the count Sisinnius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.122",
+   "text": "4. So, hearing that the saints of God had arrived, they at once ordered that they be found by the officers, so that they might offer incense to the gods. Then the most blessed martyrs, looking up to heaven, answered: We do not sacrifice to demons, for it is written: All the gods of the nations are demons, but the Lord made the heavens. And again: Let those who make them become like them, and all who trust in them. Go then, tell your unjust governor that for the name of Christ we choose to die rather than depart from his commandments, for from our very cradles we have confessed the Lord Jesus Christ. And they, returning, reported to the governor and the count all that had happened."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.123",
+   "text": "Then the governor Dulcidius together with the count Sisinnius, greatly disturbed, gave this report to the impious Diocletian: Most pious ones, come to the aid of the Roman laws, for which your victorious right hand bends the necks of enemies, and give help to the almighty gods, who are scorned by the Christians. For three brothers have come from the city of Rome, resisting stoutly with one mind, confessing some Christ or other, and scorning the decrees of your piety. So decide what you will decree by your command. Hearing this, the most wicked Diocletian was more violently disturbed, and gave this authority: that if they would not sacrifice, they should be punished with the capital sentence. And when the unjust sentence reached the most blessed martyrs, they mounted a carriage and left the city of Aquileia together with their tutor Protus, having before their eyes the divine Scripture which says: When they persecute you in this city, flee into another. It was reported, then, to the most wicked judges that the saints of God had hastened away. Then the count Sisinnius, with the executioners, followed by order of the most impious emperor Diocletian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.124",
+   "text": "But the most blessed martyrs, having mounted the carriage (a) with mules yoked, when they wished to withdraw and were travelling not far from the city walls, and one of the yoked animals suddenly fell, at the place called Ad Aquas Gradatas, there they were seized by the persecutors. How glorious this event was, and ordained by the Godhead, we ought to notice. For God always leads those whom he has chosen into the hall of the heavenly kingdom like victors, borne aloft on high. For just as Elijah went up into heaven with a chariot brought up to him, so these too came to martyrdom when the carriage was taken away; and as the chariot carried him to rest, so it bore these to glory. And though that was a fiery chariot, this one is not to be held inferior; for that bore one prophet, this upheld three martyrs. But someone says: A fiery chariot would have borne them more gloriously than an earthly one. Nor was this plainly lacking to the holy men. For as a fiery chariot carried Elijah, so a fiery faith was already carrying the martyrs. Christ was carrying them, I say, who is light, who is fire, of whom it is written: Our God is a consuming fire. So when the persecutor pressed upon the blessed ones of whom we speak, they mounted a carriage. For what reason? To flee? Far from it; not to flee, but to reach martyrdom more quickly; not to lie hidden, but to show themselves Christians to all passers-by. Otherwise they could have hidden more secretly among the many in the city; but they did this so that the hearts of the whole people, while they fled through various places, might be set aflame with the love of Christ. But where someone, having arranged the equipment of a carriage, travels along the public highway, that is not to be called flight, but a setting out. For by this act the holy men, as though set in a triumphal chariot, declared, saying: See, persecutor, see, we set out, see, we go before. Why do you sit idle? Why do you delay? Follow in our footsteps. For we do not wish to seem led by force to punishment, who declare that we go before to glory."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.125",
+   "text": "Then the count Sisinnius, hearing this, ordered the blessed martyrs to be seized; and as judge he urged them to offer incense to Jupiter. But the most blessed servants of God, cursing, said that they would never sacrifice to demons, but to the almighty Lord who made heaven, earth, sea and all that is in them. For all idols, and those who worship them, will go with them into everlasting fire. Then the impious count Sisinnius, hearing this, was very angry, and ordered the executioners that if they did not offer incense to Jupiter, they should be beheaded. And the most blessed martyrs the Cantii, together with Protus their tutor, were led by the executioners rejoicing and singing psalms. Then the blessed servants of God, with hands spread out to heaven, poured out a prayer to the Lord, saying: Lord Jesus Christ, who said that you are father and mother to those who persevere in your name, and promised to give, in place of temporal things, the things to come, in place of perishing things, everlasting ones, and in place of earthly riches, incorruptible eternal life with happiness: we beseech you, Lover of a pure conscience, to look down from the height of the heavens at this hour, to receive our souls in peace, and to command that they be placed among your holy Elect, so that all may know that you alone are God and blessed for ever. And when they had completed the prayer, kneeling they received the sword, and they received everlasting crowns; and behold, their blood appeared like milk, in the sight of all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1226.tmp1226.opp-lat1.126",
+   "text": "At that time the venerable man Zoilus the priest, gathering the bodies of the most blessed martyrs, embalmed them with precious spices and laid them in a coffin. And this holy Zoilus himself, some time after his taking them up, went to the Lord in this order. The most blessed martyrs Cantius, Cantianus and Cantianilla suffered on the day before the Kalends of June, in the reign of our Lord Jesus Christ, to whom is glory, honour and power for ever and ever, amen."
+  }
+ ]
+}

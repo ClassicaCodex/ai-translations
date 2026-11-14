@@ -1,0 +1,293 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg4072.tlg003",
+ "edition_urn": "urn:cts:greekLit:tlg4072.tlg003.ai-claude",
+ "source_edition": "tlg4072.tlg003.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Commentarius in libros de planorum aequilibriis: AI translation (Claude)",
+  "author": "Eutocius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg4072.tlg003.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.head": "Greek letters used as labels in the figures are transliterated: Α A, Β B, Γ G, Δ D, Ε E, Ζ Z, Η H, Θ Th, Κ K, Λ L, Μ M, Ο O, Π P, Ρ R, Σ S, Φ Ph, Ψ Ps, Ω W. Quotations from Archimedes (in Doric) are given in quotation marks, followed by Eutocius' comment. Scanning errors read as λέγει (for λέχει), λόγον (for λόχον), τριγώνῳ, τῆς. In the last passage the text's final 'ΦΡ πρὸς ΡΦ' is evidently an error for ΦΡ πρὸς ΡΘ and is translated so. The section heads 'On 1', 'On 4' etc. refer to Archimedes' propositions; the first section in fact discusses the definitions and postulates.",
+  "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.4.4": "Letters are transliterated as before; Ξ is given as X, Χ as Ch, Ϛ (stigma) as St, ϥ as Q, Ϡ (sampi) as Sp. In 2.2.3–2.2.5 the edition's diagram letters are badly garbled (e.g. 'Τ Α', 'Β Α', 'ΔΔ', 'Π Β Γ Δ Ε ϚϚ', and the opening of 2.2.4 where ΑΛ, ΛΔ, ΔΔ cannot all be right); they are transliterated as printed, and the intended points cannot be securely restored. The second heading within book 2 (2.1.head) reads 'On [proposition] 2' (β΄) in the text, but the note concerns the first theorem; translated as 'On [proposition] 1'. Evident misprints read as: Ἴδη for Ἴση, λόχους for λόγους, τργώνου for τριγώνου. 'In the recognised manner' renders γνωρίμως (Archimedes' term for this inscribed figure).",
+  "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.3.head": "Lines marked '|' separate the lemma quoted from Archimedes from Eutocius' comment, as in the edition. 2.6.2: 'ΑΒ τρίγωνον' read as ΑΒΓ; 'ἀνωτέρω τοῦ' lacks a letter, presumably Ρ. 2.9.1: λόφους read as λόγους; 'οὗ σαμεῖον (??)' is marked doubtful in the edition and left untranslated as [...]. In 2.10.2 the scanned text is faulty in many places: △Ζ is read as δ (four times), ΤΒ as ΓΒ, λόχον as λόγον; several numerals have dropped out (e.g. 'τῆς τῆς ΓΒ') and are supplied in brackets from the arithmetic; 'Γ△, Β△ πρὸς ΒΕ' should be ΓΒ, ΒΔ. The sentence 'For the [point] of the stated proportion...' is left without an explicit main clause in the Greek.",
+  "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.10.2": "The letter-labels are given as follows: Γ = G, △ = D, Θ = Th. As in the preceding stretch, the edition's '△Ζ' before a line-name is taken as a misread numeral δ΄ ('four times'), and ς΄ is read as 'six times'. Several letters or numerals are missing in the text. Where the sense is evident they are restored in square brackets: [D]E, [three times] GD, twice [ED], [four times] GB, BD, and [twice] AB, BD. 'Γ△ καὶ γ τῆς △Β' in the antecedent is evidently an error for ΓΒ, since it repeats the earlier composite. In the second paragraph the clause 'and to three fifths of the same it has the ratio that five has to two' appears twice, apparently by dittography. The final conclusion about OA and HTh refers to a result not shown in this stretch, perhaps from Eutocius' fuller argument or from a lacuna.",
+  "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.1": "Τόμος and τομεύς (both used of the piece ADEG between the parallels) are rendered 'frustum'. Letters: Θ = Th, Ξ = X, Χ = Ch, Ρ = R. Evident scanning errors corrected: ἀχόμεναι for ἀγόμεναι (line 1); 'ΞΝ πρὸς M' for ΞΝ πρὸς ΝΜ and 'ΕΝ' for ΞΝ (line 4); '△ τῆς ΑΖ' for β τῆς ΑΖ (line 6); in line 7 'γωνον,Η' for △Η, ναὶ for καὶ, 'αἱ ΜΝΞ, ΟΝΤ' read as MN, NX, NO, NT, and 'ἡ Θ' read as ΖΘ. In line 7, ἐν τῷ ῥητῷ ἀναλογίαι is taken as 'the stated proportions'; the reading is uncertain. In line 3 the sentence opened by Ἐπεὶ has no main clause; its conclusion is reached later in the argument."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.head",
+   "text": "EUTOCIUS, COMMENTARY ON THE TREATISE ON THE EQUILIBRIUM OF PLANE FIGURES, I, II"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.head",
+   "text": "Eutocius on the first [book] of Archimedes' On Equilibria."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.head",
+   "text": "On [proposition] 1."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.1",
+   "text": "That inclination is a genus common to heaviness and lightness, most noble Peter, is said by Aristotle and by Ptolemy, who follows him. But the Timaeus in Plato says that all inclination arises from heaviness, for he holds lightness to be a privation. Those eager to learn may gather their opinions from the book On Inclinations written by Ptolemy, from Aristotle's works on physics, from Plato's Timaeus, and from those who have written commentaries on these. But Archimedes in this book takes the centre of inclination of a plane figure to be [the point] from which, when it is suspended, it stays parallel to the horizon; and the centre of inclination, or of weight, of two or more planes [to be the point] from which, when the balance-beam is suspended, it is parallel to the horizon."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.2",
+   "text": "For example, let there be a triangle ABG, and in its middle some point D, from which, when it is suspended, it stays parallel to the horizon. It is clear, then, that the parts A, B, G will balance one another, and neither will incline towards the horizon more than the other. Likewise, if AB is a balance-beam and the magnitudes A, B are hung from it, and if the beam, when suspended from G, has the parts A, B balancing, it stays parallel to the horizon, and G will be the centre of suspension of the magnitudes A, B."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.3",
+   "text": "Geminus seems to have spoken well about Archimedes when he says that he calls the axioms postulates. For that equal weights at equal distances balance is an axiom, and so with what follows; and they are all clear to those who examine them even moderately."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.4",
+   "text": "\"When equal and similar plane figures are fitted onto one another,\" he says, \"their centres of weight also fit onto one another\"; for all their parts fit onto all [the parts]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.5",
+   "text": "\"Of unequal but similar [figures], the centres of weight will be similarly placed.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.6",
+   "text": "Let it be understood, as in the figure set below, that ABG, DEZ are unequal and similar triangles, and that the centre of weight of ABG is H, and of DEZ is Th, and let AH, HG, BH, DTh, ThE, ThZ be joined. I say that the lines joined from the points H, Th divide the angles equally."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.7",
+   "text": "For let it be contrived that as EZ is to BG, so is ETh to ThK, and ZTh to ThL, and DTh to ThM; and let MK, KL, LM be joined. Then the triangle KLM will be similar to the triangle DEZ. For since as ETh is to ThK, so is ThZ to ThL, EZ is parallel to KL; likewise MK [is parallel] to DE, and LM to DZ. Therefore the triangle DEZ is similar to the triangle KLM. Therefore as DE is to MK, so is EZ to KL, and DZ to ML. But it is assumed, because of the similarity of the triangles ABG, DEZ, that as DE is to AB, so is EZ to BG, and DZ to AG. Therefore [the sides of] ABG are equal to [those of] MKL, so that each fits onto each."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.1.8",
+   "text": "Therefore the triangle ABG is equal and similar to the triangle KML; so the centre of ABG will also fit onto that of MKL. And since H fits onto Th, and A, B, G onto M, K, L, AH, BH, GH will also fit onto MTh, KTh, LTh, and will make angles at M, K, L equal to those in the triangle ABG; and so also in DEZ, for the straight lines joined from Th to M, K, L and to D, E, Z are the same. \"For every figure whose perimeter is concave in the same direction, the centre of weight must be within the figure.\" What he calls lines concave in the same direction has been stated clearly by us in the preface to On the Sphere and Cylinder. Since the figure that has its perimeter concave in the same direction has all the parts of the plane, and the angles, within it, it is clear that it also has the centre of weight within the figure; for in some figures the centre of the figure is outside, or on the perimeter. For in the semicircle ABG the centre of the figure is H, while in the hyperbola DEZ the centre of the figure is outside, at the point where the diameters meet one another, as Th is; for these things are stated in the second book of Apollonius' Conics. Nevertheless, both in the figure ABG and in DEZ the centre of weight, from which, evidently, the figure when suspended is parallel to the horizon, is within the perimeter; for if it were on the perimeter or outside, [the figure] would incline to one side, which is not assumed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.2.head",
+   "text": "On [proposition] 4."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.2.1",
+   "text": "\"Let D be the centre of weight, if possible.\" For it has been shown that it lies on AB; for it was said above that the centre of two magnitudes is [the point] from which, when the balance-beam is suspended, it has its parts balancing while staying parallel to the horizon. So, then, the centre of the magnitudes A, B is on AB."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.3.head",
+   "text": "On [proposition] 7."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.3.1",
+   "text": "\"Either AB is greater than [is required] for it to balance G, or not.\" This statement must be understood not as though the magnitude AB were in every case greater than G, but as assumed to be greater than [it would be] at equilibrium. For it is possible for even the lesser magnitude to have a greater inclination than the greater, because the length of the beam is much greater and makes the ratio unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.3.2",
+   "text": "\"And let there be taken away from AB [a magnitude] less than the excess by which AB is greater than [is required] to balance G, so that the remainder A is commensurable with G.\" He says that one must take away from AB some magnitude B which makes the remainder A commensurable with G and A greater than [is required] for equilibrium with G. This can be done by means of what is stated at the beginning of the tenth [book] of Euclid's Elements, and in the third of Theodosius' Spherics."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.4.head",
+   "text": "On [proposition] 13."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.4.1",
+   "text": "\"And let EZ, HK, LM be joined; these will then be parallel to BG.\" For since BO is equal to PsG and DB to DG, as DB is to OB, so will DG be to PsG; and separando, as DO is to OB, so is DPs to PsG. But as DO is to OB, so is AE to EB, for EO is parallel to AD; and as DPs is to PsG, so is AZ to ZG. Therefore also as AE is to EB, so is AZ to ZG. Therefore EZ is parallel to BG. In the same way the rest will also be shown."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.4.2",
+   "text": "\"Then ADG has to all the triangles described on AM, MK, KZ, ZG similar to ADG the same ratio as GA has to AM, because the straight lines are equal.\" For since the triangles ADG, ASM are similar, they have to one another the duplicate ratio of AG to AM. And since AG is now assumed to be four times AM, the triangle ADG has to ASM the ratio that 16 has to one, and to all the triangles on AM, MK, KZ, ZG the ratio that 16 has to four. Therefore, proportionally, as the triangle ADG is to the triangles on AM, MK, KZ, ZG similar to ADG, so are these triangles to ASM, that is, GA to AM; for they are similar and on equal bases, and for this reason equal, and they are to one another as their bases."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.4.3",
+   "text": "\"But GA has to AM a greater ratio than PhR to RTh; for the ratio of AG to AM is the same as that of PhR to RP.\" For if you imagine RPh, GD produced and meeting, then because of the parallels, as PhR is to RP, so will GD be to DW. But as GD is to DW, so is GA to AM; therefore also as GA is to AM, so is PhR to RP. But PhR has to RP a greater ratio than PhR to RTh; therefore GA also has to AM a greater ratio than PhR to RTh."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.4.4",
+   "text": "\"Which is impossible; for all the centres will lie on the same side of the straight line drawn through Ch in the plane parallel to DA.\" That is, on one of the two sides; and evidently all the magnitudes will incline towards that side and will not balance, which is contrary to what is assumed; for R is assumed to be the centre of the parallelograms, and Ch that of the triangles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.5.head",
+   "text": "On the alternative proof of [proposition] 13."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.5.1",
+   "text": "\"For Th, K, L are similarly situated in the triangles.\" For ATh, EK, ZL, being parallel, divide the angles similarly, and ThLG, ThKB are the same in all the triangles, and so are the remaining KD, DL."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.6.head",
+   "text": "On [proposition] 15."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.6.1",
+   "text": "\"For if you produce GDH, ZEH, BAH, it is clear that they come to the same point.\" For when BAH, ZEH are produced and meet one another at H, GD too, when produced, will fall on the same [point]; for as BH is to HA, so is ZH to HE, and BZ to AE, and ZG to ED, and evidently GH to DH."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.1.6.2",
+   "text": "\"Then the centre of weight of the triangle BDG will be on ThM, since BTh is a third part of BD.\" Let ABG be a triangle, and let AE, BZ, GD be joined from the angles to the points of bisection of the sides; then H is the centre of weight of the triangle ABG. And it is evident that all the triangles are equal to one another, and that the lines joined to the points of bisection of the sides pass through H, so that the same [figure] may not have more than one centre. For since AD, DB, BE, EG, GZ, ZA are equal, the triangles whose vertex is the point H and whose bases are the said straight lines will also be equal; so that the triangle AHB is double the triangle HBE; so that AH is also double HE. If then through H we draw ThK parallel to BG, ATh is double ThB. So that in general, if one side of a triangle is cut so that the part towards the vertex is double the part towards the base, and a parallel to the base is drawn through the point so taken, the centre of weight of the triangle will be on the line so drawn."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.head",
+   "text": "Eutocius on the second [book] of Archimedes' On Equilibria."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.1.head",
+   "text": "On [proposition] 1."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.1.1",
+   "text": "Having gone through the first [book] carefully and made clear what in it is hard to see, we think it necessary to set out, in due measure, also what is stated obscurely in the second. He says, then, in the enunciation of the first theorem: \"Let AB, GD be areas contained by a straight line and a section of a right-angled cone; we can apply [them] to the given straight line.\" This cannot be found directly from what has been proved here; but since it has been proved by him, as he also said in On the Sphere and Cylinder, that such a figure is four-thirds of the triangle that has the same base as it and equal height, and since we can apply to the given straight line [an area] equal to the four-thirds of the triangle, which is a plane rectilinear figure, it is evident that we can do so for such figures as well. Everything stated in the construction is clear from the tenth theorem of the first of these books."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.2.head",
+   "text": "On [proposition] 2."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.2.1",
+   "text": "Before the second theorem he says certain things showing how it is possible for a figure to be inscribed in a section of a right-angled cone in the recognised manner, and he says that these things are to be proved in order. Since, then, what is said is unclear, it is necessary to say a little about it, drawn from the Conics of Apollonius."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.2.2",
+   "text": "Let there be a figure contained by the parabola ABG and the straight line AG, and let its diameter be BD; it is evident then that the point B is the vertex of the segment; for Apollonius called the vertices of the lines the ends of the diameters at the lines. If then we join AB, BG, the triangle on ABG will have the same base as the segment and equal height, namely the perpendicular drawn from B to AG; for BD is not necessarily the axis. If then, taking E, Z, the vertices of the segments AB, BG, we draw through them parallels to BD, such as EHTh, ZStK, these will be diameters of the segments AB, BG; for it has been proved for the parabola that all lines drawn parallel to the diameter are diameters of the section. Then E, Z will be the vertices of the segments, and the tangents through E, Z will be parallel to AB, BG; and ELZ too will be parallel to ADG, since ETh, ZK are parallel and equal, being diameters of equal segments and coinciding with one another, as has been proved in the sixth [book] of the Conics. And since EHTh is parallel to BD, as BH is to HA, so is DTh to ThA. But HB is equal to AH; for the diameter EH bisects it, since it is parallel to the tangent; therefore DTh is also equal to ThA. For the same reasons DK is also equal to KG. But the whole AD is equal to DG; therefore DTh is also equal to DK, and for this reason EL is equal to LZ. So he says truly that the line joining the vertices of the segments will be parallel to the base of the segment and will be bisected by the diameter of the segment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.2.3",
+   "text": "Then let AE, EB, BZ, ZG also be joined and bisected at the points M, N, X, O, and through M, N, X, O let PMRS, TNUPh, ChXPsW, StOQSp be drawn parallel to BD, and let AP, PE, ET, TB, BCh, ChZ, ZSt, StG be joined, and T A Ch and P B G D E StSt; it is evident then from what has been proved before that TCh and EZ and PSt are parallel to AG, and that T A is equal to ACh, and EL to LZ, and P D to DSt."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.2.4",
+   "text": "I say then that they cut BD in the successive odd numbers, that is, of such parts as B A is one, AL is three, and L D five, and DD seven."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.2.5",
+   "text": "For since AH is equal to HB, and ETh is parallel to BD, ATh is therefore also equal to ThD. Therefore AD is double DTh, so that it is also double EL; therefore the square on AD is four times the square on EL. But as the square on AD is to the square on EL, so BD has been proved to be to BL; therefore DB is also four times BL. Therefore DL is three times LB; therefore of such parts as LB is one, LD is three. For the same reasons, then, of such parts as LB is four, LD is twelve. And since EN is equal to NB, and E Z to ZL, and ThPh to PhD, EL is double L Z, that is, of T A; therefore the square on EL is four times the square on T A. Therefore LB is also four times B A; so that L A is three times AB; therefore of such parts as LB is four, B A is one, AL three, and LD twelve. Again, since AM is equal to ME, and AR to RH, and AS to STh, AS, STh, ThPh, PhD are also equal; therefore of such parts as AD is four, SD is three, that is, P D. Therefore of such parts as the square on AD is sixteen, the square on P D is nine; and therefore of such parts as DB is sixteen, BD is nine; and therefore the remainder DD is seven. Since then it has been proved that of such parts as BD is sixteen, B A is one, AD three, and DD seven, the remainder L D is also five. Therefore BD is cut by the parallels in the ratios of the successive odd numbers, the [part] at the vertex of the segment being called one. It is clear, then, from the diagram that the lines drawn down are cut by the diameters in the numbers following in order from the unit. For of such parts as T A is one, EL is two, P D three, and AD four; for being all parallel they cut one another into equal [parts]. The figure APETBChZStG was named by Archimedes a figure inscribed in the recognised manner."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.3.head",
+   "text": "On 3."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.3.1",
+   "text": "Similar segments of sections of the cone were defined by Apollonius in the sixth book of the *Conics*: they are those in which, when lines equal in number are drawn in each parallel to the base, the parallels and the bases are in the same ratios to the [lines] cut off from the diameters at the vertices, and the cut-off [lines] are in the same ratios to the cut-off [lines]; and [he showed] that all parabolas are similar. The figure inscribed in the recognised manner has been described in the preceding lemma. To divide the diameters similarly means that their segments have the same ratio. The rest of the theorem is clear from the figure previously described."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.4.head",
+   "text": "On 4."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.4.1",
+   "text": "Let a rectilinear figure be inscribed in the segment in the recognised manner, so that the remaining segments are less than K | This is evident from what is said in the tenth [book] of the *Elements* and in the first [book] of *On the Sphere and Cylinder*."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.5.head",
+   "text": "On 5."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.5.1",
+   "text": "And since ThZHI is a parallelogram | For since KZ, LH are equal, for they are diameters of equal segments, and are equally distant from the axis BD, and are divided similarly by the centres Th, I, then as KTh is to ThZ, so is LI to IH, and alternately; and therefore ThZ is equal to IH. And it is also parallel [to it]; for all the diameters of the parabola are parallel. Therefore ThZHI is a parallelogram."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.6.head",
+   "text": "On the second part of 5."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.6.1",
+   "text": "Then Ch will be the centre of weight of the magnitude composed of both segments AKB, BGL, and T that of [the magnitude composed] of both triangles AKB, BLG | For it was proved in the preceding [proposition] that ThM, joining the centres of the segments, is bisected by BD at Ch, being parallel to ZH, and that NI is bisected at T; so that Ch is the centre of weight of the magnitude composed of the segments AKB, BLG, and T of the magnitude composed of the triangles AKB, BLG."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.6.2",
+   "text": "Since then triangle BAG has a greater ratio to triangles AKB, BLG than to the segments | and so on. For since it has been proved that E is the centre of weight of triangle ABG, and T the centre of triangles ABK, BLG, it is evident that the centre of weight of the rectilinear figure AKBLG is on TE, cut at R in the inverse of the ratio which ABG has to triangles AKB, BLG. And since triangle AB[G] has a greater ratio to triangles KAB, BLG than to the segments, for the segments are greater than the triangles, it is clear that, if we cut ET in the ratio which the triangle has to the segments, the point will fall above [R], and it will be the centre of the whole segment because of the inverse proportion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.7.head",
+   "text": "On 6."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.7.1",
+   "text": "The centre of the segment is in any case one, and nearer to the vertex of the segment than those of the inscribed rectilinear figures. For the centre of weight of triangle ABG is, say, E, BD being cut so that EB is double ED; it is evident that all the centres of the inscribed rectilinear figures will fall between the points Th and E, and the more sides the figure inscribed in the recognised manner has, the more closely it approaches Th. It is evident, then, that the [distance] between the centres of the rectilinear figure inscribed in the recognised manner and of the segment cannot be greater than ETh, but can be less not only than ThE but also than any given [length]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.8.head",
+   "text": "On 7."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.8.1",
+   "text": "Let there be inscribed in segment ABG a rectilinear figure similar to that in segment EZH, that is, similarly in the recognised manner; for [a figure] is inscribed similarly in the recognised manner when the sections of the parabola ABG become equal [in number] to those of EZH, so that the sides of the [figure] inscribed in the recognised manner in segment ABG are equal in number to those of the rectilinear figure inscribed in EZH. For since the points B, Z are vertices of the similar segments, the figures so inscribed in the recognised manner are similar."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.9.head",
+   "text": "On 8."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.9.1",
+   "text": "And since as BTh is to ThD, so is KM to MZ (for the segments, being similar, will have centres cutting the diameters in the same ratios), then componendo as BD is to DTh, so is KZ to ZM, and alternately as BD is to KZ, so is DTh to MZ; and BD is four times KZ; for this is shown at the end, of which [...] (??) | We shall prove it ourselves next."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.9.2",
+   "text": "Let ABG be a parabola, whose diameter is BD, and let AD be drawn ordinatewise, and let AB be joined, and let AB be bisected at Z, and through Z let EZ be drawn parallel to BD; it is therefore a diameter of segment AB. And from E, Z let EH, ZTh be drawn ordinatewise. Since then AZ is equal to BZ, AB is double ZB, and DB double BTh, and AD double ZTh, that is, EH; so that the square on AD is four times the square on EH, and therefore DB is four times BH in length. Since then BD is double BTh, BTh is double BH. And ThH is equal to HB, that is, to EZ, because EHZTh is a parallelogram; therefore BD is four times ZE."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.9.3",
+   "text": "And since BD is four times BS, for this too is shown | For it was proved in the lemma that BD is four times each of BH, EZ, so that BH is equal to EZ; and therefore here BS is equal to KZ, and BD is four times each of them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.9.4",
+   "text": "Therefore BX is a third part of BD | For since BD is four times BS, then of such parts as BD is four, BS is one; and therefore of such parts as BD is twelve, BS is three. And BS is three times SX; therefore of such parts as BS is three, XS is one, and the whole BX four. And of these BD was twelve; therefore BX is a third part of BD."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.9.5",
+   "text": "And triangle ABG is three times the segments | For it was proved by him in *On the Section of the Right-angled Cone* that every figure contained by a straight line and a section of a right-angled cone is four-thirds of the triangle that has the same base as it and equal height; so that segment ABG is four-thirds of triangle ABG, and separando triangle ABG is three times the segments AKB, BLG."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.9.6",
+   "text": "And DB is three times ED; therefore BTh is one and a half times ThD; which was to be proved | For since BD is three times DE, then of such parts as BD is fifteen, ED is five. And of such parts as DE is five, ThE is one, and the whole ThED six; therefore DTh is six times ThE. Therefore of such parts as BD is fifteen, DTh is six, and the remainder ThB nine; so that BTh is one and a half times ThD."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.10.head",
+   "text": "On 9."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.10.1",
+   "text": "The ninth theorem, being very obscure, we shall set out, paraphrasing it as clearly as possible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.10.2",
+   "text": "For since AB, BG, DB, BE are proportional, separando and alternately AG, GD, DE are also in the same ratio. Since then AB, BG, BD, [B]E are in the same ratio, and also AG, GD, DE, then as in the first magnitudes the leading and the middle are to the following, so in the second magnitudes the leading and the middle are to the following; therefore as AG, GD together, that is AD, is to DE, so are AB, GB together to DB. And as AB, GB together are to DB, so is twice AB, BG together to twice BD, because parts have the same ratio as their equimultiples; and therefore as AD is to DE, so is twice AB, BG together to twice DB. Again, since GB, BD, BE are in the same ratio, and also AG, GD, DE, then because of what was said before, as AD is to DE, so are G[B], BD together to BE. And it was also [shown that] as AD is to DE, so is twice AB, BG together to twice BD; and therefore as one is to one, so are all to all; therefore as AD is to DE, so are the leading [terms] to the following. And the leading [terms] are twice AB, BG together and GB, BD together, that is, two [lines equal to] AB and three GB and one BD, and the following are twice BD and BE alone; therefore as AD is to DE, so is the straight line composed of twice AB and three times GB and DB alone to that composed of twice BD and EB alone. And since the [line] composed of twice AB and four times GB and four times DB and twice BE is greater than that composed of twice AB and [three times] GB and BD alone, and the [line] composed of twice DB and EB alone is outside [both], and the greater has to the same a greater ratio than the less, therefore the [line] composed of twice AB, BE together and four times GB, BD together has to that composed of twice DB and EB alone a greater ratio than the [line] composed of twice AB and [three times] GB and DB alone has to that composed of double BD and EB alone. But as the [line] composed of twice AB and three times GB and BD alone is to that composed of twice BD and EB alone, so AD was shown to be to DE; and therefore the [line] composed of twice AB, BE together and [four times] GB, BD together has to that composed of twice BD and EB alone a greater ratio than AD has to DE. If then we wish to make the same ratio of AD to some other [line], that [line] will be less than DE. Let it be DO; therefore as AD is to DO, so is the [line] composed of twice AB, BE together and [four times] GB, BD together to that composed of twice BD and EB alone. Inversely therefore, as OD is to DA, so is the [line] composed of twice BD and EB alone to that composed of twice AB, BE together and four times GB, BD together; and componendo as OA is to AD, so is the [line] composed of twice AB and [four times] GB and six times BD and three times BE to that composed of twice AB, BE together and four times GB, BD together; for BD was taken six times, four times in the former and twice in the latter, and BE was taken three times, twice in the first and once in the second. And AD is also supposed to have to HTh the ratio which the [line] composed of five times AB, BE together and ten times GB, BD together has to that composed of twice AB and [four times] GB and six times BD and three times BE; and it is a perturbed proportion; therefore ex aequali, as OA is to HTh, so is the [line] composed of five times AB, BE together and ten times GB, BD to that composed of twice AB, BE together and four times GB, BD. For the [point] of the stated proportion will be clear thus: since as in the first magnitudes the leading OA is to the following AD, so in the second magnitudes the leading, the [line] composed of twice AB and four times GB and six times BD and three times BE, is to the following, the [line] composed of twice AB, BE together and four times GB, BD together, and as in the first magnitudes the following AD is to something else, HTh, so in the second magnitudes something else, the [line] composed of five times AB, BE together and ten times GB, BD together, is to the leading, the [line] composed of twice AB and four times GB and [six times] BD and three times BE. Since five times AB, BE together has to twice the same the ratio of five to two, and ten times GB, BD together also has to [four times] the same the ratio of five to two, since both five to two and ten to four have the ratio of five to two, therefore the [line] composed of five times AB, BE together and ten times GB, BD together also has to that composed of twice AB, BE together and four times GB, BD the ratio of five to two; so that AO also has to HTh the ratio of five to two. Again, since it was shown above that OD has to DA the same ratio as EB with twice BD has to the [line] equal to that composed of twice AB, BE together with four times GB, BD together, and as in the first magnitudes the following AD is to something else, DE, so in the second magnitudes something else, the [line] composed of twice AB and three times GB and DB alone, is to the leading, the [line] composed of EB and twice BD, the ratios being set out dissimilarly, that is, the proportion being perturbed, ex aequali, as OD is to DE, so is the [line] composed of twice AB and three times GB and BD alone to that composed of twice AB, BE together and four times GB, BD; so that inversely also, as ED is to DO, so is the [line] composed of twice AB, BE together and four times GB, BD together to that composed of twice AB and [three times] GB and BD alone; and convertendo, as DE is to EO (the antecedent, I mean, to the excess), so is the [line] composed of twice AB, BE together with four times GB, BD to that composed of GB alone and three times BD and twice EB. For in the antecedent there is twice AB and BE, and in the consequent twice AB alone; so that there remains in the excesses twice EB. Again, in the antecedent there is four times GB, BD together, and in the consequent three times GB and BD alone; so that there remains in the excesses GB alone and three times BD. So it was rightly said that convertendo, as DE is to EO, so is the [line] composed of twice AB, BE together and four times GB, BD together to that composed of GB and three times DB and twice EB; so that inversely also, as OE is to ED, so is the [line] composed of GB with three times BD and twice EB to that composed of twice AB, BE together and four times GB, BD together. And also, as DB is to something else, EB, so is AB to BG, and separando, as [D]E is to EB, so is AG to GB; for the same reasons, then, as GD is to DB, so is DE to EB; and therefore as [three times] GD is to three times DB, so is twice DE to twice EB, for parts have the same ratio as their like multiples. And therefore, as one is to one, so are all the antecedents to all the consequents; therefore, as DE is to EB, so is the [line] composed of AG and three times GD and twice DE to that composed of GB and three times BD and twice EB. Since, then, it has been shown that, as in the first magnitudes the antecedent OE is to the consequent DE, so in the second magnitudes the antecedent, the [line] composed of GB and three times BD and twice BE, is to the consequent, the [line] composed of twice AB, BE together and four times GB, BD together, and as in the first magnitudes the consequent DE is to something else, EB, so in the second magnitudes something else, the [line] composed of AG and three times GD and twice DE, is to the antecedent, the [line] composed of G[B] and three times DB and twice BE, ex aequali in perturbed proportion, as OE is to EB, so is the [line] composed of AG and three times GD and twice DE to that composed of twice AB, BE together with four times GB, BD together; and componendo, as OB is to BE, so is the [line] composed of AG and three times GD and twice ED and twice AB, BE together and four times GB, BD together to that composed of twice AB, BE together and four times GB, BD together. But the [line] composed of AG and three times GD and twice DE and twice AB, BE together and four times GB, BD together is equal to that composed of three times AB and six times GB and three times DB. For AB was taken twice directly, and taking in addition AG and one GB out of the four times GB, it makes three times AB; again, one GB being taken away from the four times GB, there are three, and taking in addition three times GD and three times DB, it makes six times GB; again, the three [times] DB being taken away, DB alone remains, and taking in addition twice [ED] and twice EB, it makes three times BD. So he rightly says that OB has to EB the same ratio as the [line] composed of three times AB and six times GB and three times DB has to that composed of twice AB, BE together and [four times] GB, BD together. Again, since ED, DG, GA are in the same ratio, and, by the inverse of the hypothesis, so are each of EB, BD together, DB, BG together, BG, BA together, it will be that as ED is to the middle and the following, DG, GA, that is, to DA, so is EB, BD together to DB, BG together with GB, BA together; and therefore componendo, as EA is to AD, so is EB, BD together with DB, BG together and with GB, BA together to DB, BG together with GB, BA together. But EB, BD together with DB, BG and GB, BA is equal to EB, BA together and twice DB, BG together, for the extremes are taken once and the middles twice; and DB, BG together with GB, BA is equal to AB, BD together and twice BG, for the same reason; so that, as EA is to AD, so is the [line] composed of EB, BA and twice DB, BG together to that composed of DB, BA together and twice GB. So the double also has the same ratio to the double; therefore, as EA is to AD, so is the [line] composed of twice EB, BA together with four times GB, BD together to that composed of twice AB, BD together and four times GB. So also, as EA is to three fifths of AD, so is the [line] composed of twice AB, BE together and four times GB, BD together to three fifths of that composed of twice AB, BD together and four times GB. But BE was taken to be to ZH as AE is to three fifths of AD; and therefore, as EB is to ZH, so is the [line] composed of twice AB, BE together and four times GB, BD together to three fifths of that composed of twice AB, BD together and four times GB. Since, then, it has been shown that, as the antecedent OB is to the consequent BE, so is the antecedent, three times AB, BD together with six times GB, to the consequent, twice AB, BE together and four times GB, BD together, and as the consequent EB is to something else, ZH, so is the consequent, twice AB, BE together and four times DB, BG together, to three fifths of the consequent, that is, of the [line] composed of twice AB, BD together and four times GB, then, the proportion being ordered, ex aequali, as OB is to ZH, so is the [line] composed of three times AB, BD together and six times GB to three fifths of that composed of twice AB, BD together and four times GB. And the [line] composed of three times AB, BD together and six times GB has to that composed of [twice] AB, BD together and four times GB the ratio that three has to two, and to three fifths of the same the ratio that five has to two; for six times are one and a half times four times the same [magnitudes]; and to three fifths of the same it has the ratio that five has to two. For since the antecedents are one and a half times the consequents, they also have to them the ratio that three has to two; they therefore also have that which forty-five has to thirty, for each is fifteen times each. And three fifths of thirty are eighteen; so forty-five has to eighteen the ratio that five has to two, for five and two are ninths of each. Since, then, OA has been shown to have to HTh the ratio that five has to two, and OB to have the same ratio to ZH, the whole ZTh is two fifths of the whole AB."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.head",
+   "text": "On 10."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.1",
+   "text": "It is clear that ZH is also a diameter of the frustum ADEG. For ZB is assumed to be the diameter of the segment, and AG, DE, which are bisected by it at Z, H, are parallel to the tangent to the section at B. And it is clear that all the parallels drawn in the same way as they are, whether between them or between DE and the vertex B, will be bisected by BZ; and for this reason he says that ZH is a diameter of the frustum."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.2",
+   "text": "But as the cube on ZA is to the cube on DH, so is the segment ABG to the segment DEB. For since it has been shown by him that the segment ABG is four-thirds of the triangle ABG, and the segment DEB four-thirds of the triangle DEB, then as the segment ABG is to the triangle ABG, so is the segment DEB to the triangle DEB; and alternately, as segment is to segment, so is triangle to triangle; so also [for] their halves: as the segment ABG is to the segment DEB, so is the triangle AZB to the triangle DHB. So also, if we describe the parallelograms double the triangles, they will be equiangular, because DH, AZ are parallel; so they will also have the ratio compounded of [the ratios of] the sides, of AZ to DH and of ZB to BH. And the triangles and the segments have the same ratio; therefore the segment has to the segment the ratio compounded of that of AZ to DH and that of ZB to BH. But the ratio of ZB to BH is the same as that of the square on AZ to the square on DH; therefore the ratio of the segment to the segment is compounded of that of the square on AZ to the square on DH and that of AZ to DH. But the ratio of the cube on AZ to the cube on DH is also compounded of the same, as has been shown in the scholia on On the Sphere and Cylinder; therefore, as the segment is to the segment, so is the cube on AZ to the cube on DH."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.3",
+   "text": "And since the solid that has as base the square on AZ and as height the [line] composed of twice DH and AZ has to the cube on AZ the ratio that twice DH with AZ has to ZA. For, being on the same bases, they are to one another as their heights."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.4",
+   "text": "And also, as DH is to AZ, so is XN to NM, and as twice DH is to AZ, so is twice XN to NM; and componendo, as twice NX with NM is to NM, so is twice DH with AZ to AZ. And it was also shown that, as the cube on AZ is to the cube on DH, so is both the cube on MN to the cube on NX and MN to NT; for MN, NX, NO, NT are four [lines] in proportion, and as the first is to the fourth, so is the solid on the first to the similar and similarly described [solid] on the second."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.5",
+   "text": "And as the cube on DH is to the solid that has as base the square on DH and as height the straight line composed of twice AZ and DH, so is DH to the [line] composed of twice AZ and DH. For again they are to one another as their heights."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.6",
+   "text": "And as DH is to twice AZ with DH, so is TN to the [line] composed of twice ON and TN; for as AZ is to DH, so are MN to NX and ON to NT; and inversely, as DH is to AZ, so is TN to NO; and as DH with twice AZ is to AZ, so is TN with twice NO to NO."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4072.tlg003.1st1K-grc1.2.11.7",
+   "text": "There have thus come to be four magnitudes lying in succession: first, the solid that has as base the square on AZ and as height the [line] composed of twice DH and AZ; second, the cube on AZ; third, the cube on DH; and fourth, the solid that has as base the square on DH and as height the [line] composed of twice AZ and DH; and certain other straight lines, taken two by two in the same ratio: the [line] composed of twice NX and MN alone, second MN, third NT, and fourth the [line] composed of twice ON and NT. Therefore, ex aequali, it will be that, as the solid that has as base the square on AZ and as height the [line] composed of twice DH and AZ alone is to the solid that has as base the square on DH and as height the [line] composed of twice AZ and DH alone, so is the [line] composed of twice XN and MN alone to the [line] composed of twice NO and NT alone. But it was shown that, as the said solids are to one another, so is ThI to IK; and therefore, as ThI is to IK, so is the [line] composed of twice XN and NM alone to the [line] composed of twice ON and NT alone; and componendo, as ThK is to KI, so is the [line] composed of MN, NT together and twice XN, NO together to the [line] composed of twice ON and NT alone; and [taking] five times the antecedents, as HZ is to KI, so is five times MN, NT together and ten times XN, NO together to the [line] composed of twice NO and NT alone. And therefore, as ZH is to ZK, which is two fifths of it (for each of HTh, ZK is two fifths of HZ, since ThK is assumed to be the middle fifth), so is the [line] composed of five times MN, NT together and ten times XN, NO together to twice MN, NT together and four times XN, NO together; for two is two fifths of five, and four of ten. Since, then, it was shown that, as ZH is to IK, so is five times MN, NT and ten times XN, NO to twice NO and NT alone, and again it was shown that, as ZH is to ZK, so is five times MN, NT together and ten times XN, NO to twice MN, NT and four times XN, NO, it will be that, as the antecedent is to the two consequents, so is the antecedent to the two consequents: as ZH is to ZI, so is the [line] composed of five times MN, NT together and ten times XN, NO together to the [line] composed of twice ON and NT alone and twice MN, NT together and four times XN, NO, which is equal to the [line] composed of twice MN and four times NX and NO and NT; for it was also taken so above. Since, then, the four straight lines MN, NX, NO, NT are in continued proportion, and as NT is to TM, so is a certain [line] taken, RI, to ZTh, that is, to three fifths of HZ, that is, of MO, and the stated proportions have been shown, then, by what was said before, RZ will be two fifths of MN, that is, of ZB; therefore BR is three fifths of BZ. Therefore BR has to RZ the ratio that three has to two; so the point R is the centre of weight of the segment ABG. If, then, we take Ch [as that] of the segment DBE, BCh will be three fifths of BH. It has thus come about that, as the whole ZB is to the whole BR, so is the [part] taken away, BH, to the [part] taken away, BCh; for each of them has to each the ratio that five has to three; and therefore the remainder ZH will have to the remainder ChR the ratio that five has to three. Since, then, it is assumed that, as the frustum ADEG is to the segment DBE, so is MT to TN, and as MT is to TN, so is three fifths of HZ, that is, ZTh, or ChR, to RI, then also, as the frustum is to the segment, so will ChR be to RI. And they are reciprocally proportional, and R is the centre of the whole segment; therefore I is the centre of the frustum."
+  }
+ ]
+}

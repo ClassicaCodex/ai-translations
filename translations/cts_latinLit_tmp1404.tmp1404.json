@@ -1,0 +1,1050 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1404.tmp1404",
+ "edition_urn": "urn:cts:latinLit:tmp1404.tmp1404.ai-claude",
+ "source_edition": "tmp1404.tmp1404.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Allegoriae Quaedam Sacrae Scripturae: AI translation (Claude)",
+  "author": "Isidorus Hispalensis",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1404.tmp1404.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.head": "Printed page numbers in the edition (115–126) are omitted. §21: 'divinam historialem ... Trinitatem' is awkward; rendered as a historical figure of the Trinity. §24: 'Puer Abraham' taken as Abraham's servant (Gen. 24), who fetched Rebecca for Isaac. §33: the edition flags a variant reading; the sense of 'de qua ... pariunt' is uncertain. §35: reference given as Gen. XXXI, presumably for Gen. 29. §46: 'maae' read as 'mane' (morning). §50: 'milit' read as 'misit'.",
+  "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.56": "56: 'fidelibus Matra sanctam Ecclesiam' is corrupt; read as 'intra sanctam Ecclesiam' (within holy Church); 'Matri sanctae Ecclesiae' is also possible. 62: 'DiMico' is garbled; rendered 'white' on the guess 'albido' (Miriam's leprosy was white as snow). 64: 'viam Me!' read as 'viam vitae'. 66: 'proraua' read as 'profana'. 93: 'faciam' read as 'factam'. 100: 'septies oscitans' (yawning seven times) as printed; in 4 Kgs 4 it is the boy who yawns/sneezes seven times, and 'osculans' or similar may be intended. 101: 'dictum Eli' read as 'dictum Eliae' (said to Elijah). Book references follow the Vulgate numbering (1–4 Kings = 1–2 Samuel, 1–2 Kings).",
+  "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.105": "106: 'multa haec' as the Latin sense of Riblah is translated as printed. 120: 'Jesus' is the high priest Joshua (Jeshua) son of Jehozadak. 121: Isidore calls Zerubbabel a priest, though he was governor. 123: the second 'obeæcant' read as 'obcaecant'; the swallows' droppings blinding Tobit are taken as the Jews. 127: stray 'Cui.' after 'diaboli' omitted; 'fuit' assumed. 128: the 'chief of the cooks' follows the Greek/Old Latin title of Nebuzaradan. 135: reference 'Matth. VI' should be Matt. 16. 137: 'peragimur' read as 'peragitur'. 144: 'Multi' read as 'Muti' (the mute), which the sequence of blind, deaf and lame requires. 152: the son and the speaker are the feminine 'faith of the Gentiles' speaking. 154: 'wicas' read as 'micas' and 'saliari' as 'satiari'.",
+  "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.161": "171: the opening word is lost in the scan ('me qui'); the Gospel passage (Matt. 17) shows the subject is the lunatic boy, so 'Lunaticus' is supplied. 190: 'perdidit interfectore. illos' read as 'perdidit interfectores illos', and 'quet populum' as 'qui eorum populum'. 194: 'vaeare videotur' read as 'vacare videntur'.",
+  "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.197": "199: 'quod doctrina' is taken as relative 'which'. 200: 'utentis' read as 'talentis'. 201: 'uude' read as 'unde'. 213: 'eum' read as 'cum'; 'Meque' read as 'quaeque' (or 'atque'). 214: 'habe,' read as 'habet'. 231: 'nonam' read as 'mnam'; the final clause ('ut ei augeretur quod laboravit') is awkward and the rendering is tentative.",
+  "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.232": "232: 'Luc. xxij' is read as Luke 21 (the widow's mites, Luke 21:1-4); the reference appears garbled. The text has 'fructuum' with no governing noun; probably read 'fructum' ('the fruit'), and it is translated loosely as 'the fruits'. 237: 'mandatus' read as 'mundatus' ('cleansed'). 239: scanning errors (snnabalur, colis, passone, sanaius) read as sanabatur, caelis, passione, sanatus. 248: the Psalm reference belongs to the quotation, not to the soldiers (John 19); it is kept where the edition prints it. 250: 'septimam ... requiem' taken as the seventh age of rest; the construction is compressed."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.head",
+   "text": "SAINT ISIDORE, BISHOP OF SEVILLE: SOME ALLEGORIES OF HOLY SCRIPTURE"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.pr.ab1",
+   "text": "Preface."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.pr.ab2",
+   "text": "TO HIS HOLY LORD AND MOST REVEREND BROTHER OROSIUS, ISIDORE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.pr.1",
+   "text": "1. Certain very well-known names of the Law and the Gospels, which are veiled figuratively under allegory and need some interpretation, I have quickly gathered and condensed in brief selection, so as to make them plain and open to readers. Because they are unexplained, the brief little material of the discourse compelled [me] to note them down, and it allowed me neither to produce a book of [full] measure nor to explain the mysteries of the figures most fully. The sense was indeed such that from the things said and set down both what precedes and what follows may be understood."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.pr.2",
+   "text": "2. These things, therefore, we offer to your understanding to be examined and tested, so that whatever in the arrangement of words and meanings hangs together unskilfully you may take care to correct. For I, my dearest, shall consider myself excusable from blame for this work, because I have not kept these things to my own judgement but have committed them to yours to be corrected."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.ab1",
+   "text": "FROM THE OLD TESTAMENT"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.3",
+   "text": "3. Adam (Gen. 1) bore the figure of Christ; for as he was formed on the sixth day in the image of God, so in the sixth age of the world the Son of God put on the form of flesh, that is, took the form of a servant, in order to re-form man to the likeness of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.4",
+   "text": "4. Eve (ibid.) signifies the Church, made through the mystery of the washing [of baptism], which flowed from the side of Christ dying on the cross, as Eve [came] from the rib of the sleeping man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.5",
+   "text": "5. Abel, the keeper of sheep (Gen. 4), held the type of Christ, who is the true and good shepherd, as he himself says: I am the good shepherd, who lay down my life for my sheep, being the future ruler of the faithful peoples."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.6",
+   "text": "6. Cain, his brother (ibid.), older in age, who killed that same Abel in the field, signifies the former people, which killed Christ in the place of Calvary."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.7",
+   "text": "7. Enoch, son of Cain (ibid.), in whose name his father founded a city, signifies that the ungodly are established in this life only."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.8",
+   "text": "8. Seth (ibid.), whose name is interpreted 'resurrection', points to Christ Jesus, in whom is the true resurrection and the life of the faithful."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.9",
+   "text": "9. Enos, his son (ibid.), who in hope called on the name of the Lord, declares the Church living in hope until it reaches the blessedness of the promised happiness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.10",
+   "text": "10. Lamech held the figure of this world, whose sin Christ absolved through the shedding of his blood after seventy-seven generations of the world, according as Luke the evangelist described them (Luke 3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.11",
+   "text": "11. Enoch (Gen. 5), who was seventh from Adam and was translated, signifies the seventh rest of the future resurrection, when the saints will be translated into the life of everlasting immortality."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.12",
+   "text": "12. Noah, whose name is interpreted 'rest', presents the likeness of the Lord, in whose Church all who are delivered from the destruction of this world rest, as in the ark."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.13",
+   "text": "13. Shem held the type of the prophets and apostles, who are born of his stock."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.14",
+   "text": "14. Japheth figured the people of the Gentiles, which dwells in the churches of the Israelites."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.15",
+   "text": "15. Ham signifies the Jews, who mock Christ incarnate and dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.16",
+   "text": "16. Canaan, his son, who is condemned by a curse for his father's offence (Gen. 9), indicates the posterity of the Jews, who received the sentence of condemnation at the Lord's passion, when the Jews cried out: His blood be upon us and upon our children."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.17",
+   "text": "17. Nimrod the giant expressed the type of the devil, who with proud desire sought the summit of divine loftiness, saying: I will ascend above the height of the clouds, and I will be like the Most High."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.18",
+   "text": "18. Heber, in whose house his own speech remained when the other languages were divided, suggests our Redeemer, in whose Church the unity of faith endures without schism."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.19",
+   "text": "19. Melchizedek (Gen. 14), who offered to the Lord a sacrifice from the fruits of the earth, figured the kingship of Christ, who is the true king of righteousness, and [his] priesthood, the sacrament of whose body and blood, that is, the offering of bread and wine, is offered throughout the whole world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.20",
+   "text": "20. Abraham bore the type of God the Father, who handed over his beloved Son to be sacrificed for the salvation of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.21",
+   "text": "21. The three angels coming to him (Gen. 18) suggest the divine Trinity in a historical [figure]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.22",
+   "text": "22. The two wives whom Abraham had (Gen. 16, 21), that is, the free woman and the slave woman, the Apostle designates as the two Testaments (Gal. 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.23",
+   "text": "23. Isaac and Ishmael signify the two peoples proceeding from the two Testaments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.24",
+   "text": "24. Abraham's servant represents the image of the ancient Law, through whom the Church was prophetically prepared as bride for our Lord Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.25",
+   "text": "25. Esau, hairy and red (Gen. 25), is the people of the Jews, bloody through ungodly persecution against Christ and the prophets, and, as the hairy skin indicates, horrible with the covering of sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.26",
+   "text": "26. Jacob (ibid.) shows Christ, or the people of the Gentiles, which by the blessing of God the Father was preferred to the former people of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.27",
+   "text": "27. Laban had the type of the Law and of the devil, from whose body Christ took for himself two wives, namely the people of the circumcision and [that] of the Gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.28",
+   "text": "28. Leah had the figure of the Synagogue, which with the weak eyes of the heart could not behold the sacraments of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.29",
+   "text": "29. Rachel, bright of aspect, held the type of the Church, which discerns the mysteries of Christ with the keen sight of contemplation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.30",
+   "text": "30. The man who entered into a wrestling with Jacob figured Christ's contest with the people of Israel; for as Jacob limped in the contest, so the Jews limped in faith at the Lord's passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.31",
+   "text": "31. Lot (Gen. 19) had the type of the saints, who at the end of the world will be delivered from the burning of the ungodly."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.32",
+   "text": "32. Lot's wife (ibid.) held the type of those who, called through the grace of God, afterwards look back."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.33",
+   "text": "33. Next, Lot himself bore the role of the Law, from which those who use it with carnal understanding give birth to works of unbelief (see variant reading)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.34",
+   "text": "34. His two daughters (Gen. 19) signify Samaria and Jerusalem, which commit fornication in the Law through the adultery of unlawful teaching."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.35",
+   "text": "35. Reuben (Gen. 29), the firstborn, is interpreted 'son of vision'; he figured the people that violated the bed of God the Father, when it nailed to the gibbet of the cross the flesh which Christ had betrothed to himself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.36",
+   "text": "36. Simeon designates the scribes of the Jews, who in their fury killed the prophets, and in their grief dug through with the piercings of the nails Christ, the strongest wall, in whom believers are fortified with steadfast strength."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.37",
+   "text": "37. Levi is both the founder and the figure of the chief priests who crucified Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.38",
+   "text": "38. Judah signifies Christ, who in the bed of the tomb, like a lion, secure in the sleep of the body, and having conquered the dominion of death, rose again after three days."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.39",
+   "text": "39. Issachar held the type of the Church, which put its shoulder under the burden of the cross to carry it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.40",
+   "text": "40. Zebulun signifies the same Church, which, dwelling beside the waves of this life, bears all the temptations and whirlwinds of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.41",
+   "text": "41. Naphtali expresses all the holy preachers, who, leaping like a stag, raise themselves to the heights, and bestow the words of doctrine on all believers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.42",
+   "text": "42. Dan signifies Antichrist, who on the way of this life strives to trip up the horse's hooves, that is, the last [part] of the world, with the bite of pestilential preaching, so as to throw down those who are exalted in the delights and riches of this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.43",
+   "text": "43. Gad shows Christ, who announces that at his second coming he will do battle against Antichrist, girded with the power of a judge."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.44",
+   "text": "44. Asher shows the same Lord Jesus Christ, whose bread is rich in the mouth of the faithful."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.45",
+   "text": "45. Joseph (Gen. 37), who was sold by his brothers and raised high in Egypt, signifies our Redeemer, handed over by the people of the Jews into the hands of persecutors, and now exalted among the Gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.46",
+   "text": "46. Benjamin presented the image of the apostle Paul, because he was both the last and the least of all the apostles in election, and descended from his tribe: he is the ravening wolf, in the morning a persecutor tearing apart, in the evening a teacher feeding."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.47",
+   "text": "47. Manasseh bore the figure of the former people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.48",
+   "text": "48. Ephraim [that] of the Gentiles, which through the patriarch's blessing was set above the elder people of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.49",
+   "text": "49. Tamar (Gen. 38) bears the image of the Church, which through the ring of faith and the rod of the cross merited from Christ the conception of holy fruitfulness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.50",
+   "text": "50. The two twins in Tamar's womb (ibid.) figured the two peoples, of whom the one born later was the one who first put his hand out of the womb, because the people of the Gentiles was indeed shown beforehand through the prophets, but revealed afterwards; and for this reason the midwife bound his right hand with scarlet, because that same people has been marked through the blood of Christ with the sign of the cross."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.51",
+   "text": "51. Dinah, daughter of Jacob (Gen. 34), signifies the Synagogue, or the soul: Shechem, prince of the land, overpowers her when she is found among the external cares of the world, that is, the devil corrupts her through the vice of carnal desire."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.52",
+   "text": "52. Bilhah, Jacob's concubine (Gen. 35), whom Reuben defiled by the crime of incest, signifies the law of the Old Testament, which the people of Israel stained by transgressing [it]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.53",
+   "text": "53. Job in his deeds and words expresses the person of the Redeemer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.54",
+   "text": "54. His wife (Job 2), who provokes him to curse, designates the depravity of the carnal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.55",
+   "text": "55. Job's three friends held the type of heretics, who under the appearance of consoling carry on the effort of leading astray."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.56",
+   "text": "56. Elihu, however, represents a proud and arrogant teacher, who too harshly inflicts his rebuke on the faithful within holy Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.57",
+   "text": "57. Pharaoh had the figure of the devil, who tried to destroy the people of God by the captivity of this world and to weigh them down with the earthly works of the vices."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.58",
+   "text": "58. Pharaoh's daughter (Exod. 2), who took up Moses when he was exposed at the bank of the river, is the Church of the Gentiles, which found Christ at the river of the saving washing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.59",
+   "text": "59. Moses (Exod. 13) bore the type of Christ, who snatched the people of God from the yoke of diabolical slavery, and condemned the devil himself to eternal punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.60",
+   "text": "60. Aaron the priest, who atoned for the people with the blood of victims, signifies Christ, who by the sacrifice of his own blood washed away the sins of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.61",
+   "text": "61. Miriam, the sister of Moses (Num. 12), displayed the likeness of the Synagogue, which became leprous on account of its disparagement and murmuring against Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.62",
+   "text": "62. The Ethiopian wife of Moses (Exod. 2) figured the Church from the Gentiles joined to Christ; on her account the Synagogue, disparaging Christ out of jealousy, is covered with the white contagion of leprosy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.63",
+   "text": "63. Amalek designates the figure of the devil, who, coming against the people of God, is overcome through the sign of the cross."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.64",
+   "text": "64. Sihon too, king of the Amorites, whose name is rendered in Latin \"temptation of the eyes\", signifies the same devil, who by the lie of deceiving transforms himself into an angel of light. He is also Og, king of Bashan, which is interpreted \"enclosure\", who strives to block the way of our life with the difficulty of the vices, so that the passage to the promised kingdom of eternal life may not lie open to us."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.65",
+   "text": "65. The seventy-two elder men, on whom the Spirit of God fell, show the seventy-two languages of the nations spread throughout this world, from which many believers received the grace of the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.66",
+   "text": "66. Dathan and Abiram, and the rest, who, separating themselves from Moses and Aaron, tried to usurp the sacrifice (Num. 16), designate the depravity of heretics, and the ruin of those who divide themselves from the priests of Christ and from the fellowship of the Church, and take up profane sacrifices."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.67",
+   "text": "67. Balaam, who, falling, had his eyes opened (Num. 22), held the type of those who have knowledge of God through faith, but, darkened by evil works, fall to ruin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.68",
+   "text": "68. Phinehas, who killed together Zimri and the harlot as they consorted in adultery (Num. 25), held the figure of the holy teachers, who with the spiritual sword strike Jews and heretics as they come together in the embrace of false doctrine."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.69",
+   "text": "69. That man who, gathering wood on the Sabbath, is ordered to be stoned, signifies the one whom Christ will find with sin on the day of judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.70",
+   "text": "70. The twelve spies held the image of the scribes and Pharisees, who turned the Israelite people away so that they did not trust that they could obtain the grace of the divine promise through Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.71",
+   "text": "71. The two carriers who bore on their shoulders on a pole a cluster of grapes from the land of promise (Num. 13) expressed the meaning of the two peoples, of whom the first, the Jewish, walking turned away, turns its back on Christ; the latter, the Christian, looks upon him whom it carries, and follows Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.72",
+   "text": "72. Joshua son of Nun expressed the image of the Saviour, who led us into the land of promise, and placed [us] in the kingdom of heavenly glory."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.73",
+   "text": "73. Rahab the harlot held the figure of the Church, which through the scarlet, that is, through the sign of the Lord's passion, is saved from the destruction of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.74",
+   "text": "74. The two spies sent by Joshua into Jericho, whom Rahab received (Josh. 2), are understood as the two Testaments sent into the world, which the Church gathered from the Gentiles received."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.75",
+   "text": "75. Achan, who coveted [things] from the accursed spoil of Jericho, signifies the wicked man and sinner who after [coming to] faith craves worldly ways or the allurements of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.76",
+   "text": "76. Gideon, who went to battle with three hundred men (Judg. 7), bore the type of Christ, who in the sign of the cross carried off victory over the world. For the number three hundred is contained in the letter Tau, by which the shape of the cross is shown."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.77",
+   "text": "77. Sisera was a type of the devil. Jael, however, who pierced his temples with a nail and hammer, expressed the type of the Church, which through the standard of the cross destroyed the dominion of the devil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.78",
+   "text": "78. Deborah herself too, bearing the type of the same Church, proclaims a song of heavenly glory, the devil having been defeated in Sisera."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.79",
+   "text": "79. Jephthah, who sacrificed his daughter for the victory he had gained (Judg. 11), showed the figure of the Redeemer, who, triumphing over the world, offered his own flesh in sacrifice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.80",
+   "text": "80. Samson figured the death and victory of our Saviour, either because he drew the Gentiles out of the jaws of the devil, like the honeycomb from the mouth of the lion he found, or because after death he gained more, and killed more in dying than in living."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.81",
+   "text": "81. Delilah, who shaved the crown of Samson's head bald (Judg. 16), signifies the Synagogue, which crucified Christ in the place of Calvary."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.82",
+   "text": "82. Ruth the foreigner, who married an Israelite man, shows the Church from the Gentiles coming to Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.83",
+   "text": "83. Boaz, however, expressed Christ, the true bridegroom of the Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.84",
+   "text": "84. Hannah, who was barren and afterwards was made fruitful (1 Kgs 1), signifies the Church of Christ, which was formerly barren among the Gentiles, [and] now abundantly flourishes throughout the whole earth with offspring of numerous fruitfulness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.85",
+   "text": "85. Eli the priest, rejected (1 Kgs 3), prefigured the casting off of the priesthood of the Old Testament."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.86",
+   "text": "86. Samuel, however, who succeeded in the priestly ministry when Eli had been rejected (ibid.), foretold the succession of a new priesthood, the old priesthood having been cast off."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.87",
+   "text": "87. The two sons of Eli, priests, who were slain when the ark was captured by the Gentiles (1 Kgs 4), signify that the posterity of the former priesthood was extinguished, and that the Testament of the law was transferred to the worship of the Gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.88",
+   "text": "88. Saul suggests the promise, or the rejection, of the Jewish kingdom, or the jealousy of that same people, which tried to kill David, that is, Christ, out of the unjust hatred of envy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.89",
+   "text": "89. David expressed the image of the Son of God and our Saviour, either because he endured unjust persecution through the harassment of the Jews, or because Christ took flesh from his stock."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.90",
+   "text": "90. Uriah the Hittite had the type of the devil, to whose marriage the Church was formerly joined, whom Christ desired as she washed herself from the filth of the world and purified [herself] through the water of the washing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.91",
+   "text": "91. Solomon foretells the figure of Christ, who built a house for God in the heavenly Jerusalem, not of wood and stones, but of all the saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.92",
+   "text": "92. The Queen of the South, who came to hear the wisdom of Solomon (3 Kgs 10; 2 Chr. 9), is understood as the Church, which is gathered to the word of God from the farthest ends of the earth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.93",
+   "text": "93. Rehoboam, the son of Solomon, and Jeroboam the servant, by whom Israel was divided into two parts, signify that division made at the coming of the Lord, in which the part of the believers from the Jews reigns with Christ, who is sprung from the race of David; but the [other] part followed Antichrist, to whose worship in unspeakable servitude they have been bound by error."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.94",
+   "text": "94. Goliath (1 Kgs 17) designates the devil, the pride of whose exaltation the humility of Christ laid low."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.95",
+   "text": "95. Elijah represents Christ, because just as he was taken up on high in a fiery chariot, so Christ was taken up into heaven by the ministries of angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.96",
+   "text": "96. The widow to whom Elijah is sent to be fed (3 Kgs 17) is the Church, to which Christ is read to have come through faith, whose flour and oil are blessed and do not run out, that is, the grace of the body of Christ, and the anointing of chrism, which is spent daily in the whole world, and is never diminished."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.97",
+   "text": "97. Elisha figured the same Redeemer and Lord, who, descending from the height of the mountain, that is, from the loftiness of the heavens, humbled himself from the form of God down to the form of man, and fitted his own limbs to [our] dead limbs, and healed our mortality with the medicine of his body."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.98",
+   "text": "98. The boys who, mocking Elisha, cried out: \"Go up, baldhead, go up, baldhead\", and perished when attacked by a bear (4 Kgs 2), indicate the people of the Jews, who with childish folly derided Christ crucified in the place of Calvary, and, seized by two bears, that is, Titus and Vespasian, perished."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.99",
+   "text": "99. Elisha's servant, sent with a staff to raise the woman's son (4 Kgs 4), shows the type of the ancient law, which, sent to the human race, accomplished nothing, except that in the rod it displayed only the authority of severity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.100",
+   "text": "100. The dead son of the Shunammite woman (ibid.) holds the figure of the human race, over which Christ, yawning seven times, spiritually breathes the Spirit of sevenfold grace, through whom it may come back to life from the death of sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.101",
+   "text": "101. The seven thousand men, of whom it was said to Elijah that they had not bent the knee before Baal, signify the number of the saints, who, filled with the Spirit of sevenfold grace, have renounced the devil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.102",
+   "text": "102. Naaman the Syrian signifies the people from the Gentiles, polluted with the stains of offences, and purified by Christ through the sacrament of baptism."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.103",
+   "text": "103. King Uzziah, who for the desert of his crimes is covered on his forehead with the contagion of leprosy (2 Chr. 26), indicates the kingdom of the Jews, who bear the disgrace and evil of faithlessness on the forehead, where they ought to have carried the sign of the cross."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.104",
+   "text": "104. King Hezekiah, to whose life fifteen years are added for his good work (4 Kgs 20; 2 Chr. 32; Isa. 39; Sir. 48), signifies all the saints, to whom, for acquiring eternal life, the five books of the law with the ten words of the Decalogue have been given, so that through the fulfilment of the law and the commandments they may attain the fullness of the heavenly kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.105",
+   "text": "105. King Josiah, who celebrated the Passover and drove many idols out of the temple of the Lord (4 Kgs 23; 2 Chr. 35), signifies Christ, who underwent the passion for us, and, casting all the abominations of the Gentiles out of the temples of our body, burned them up and broke them to pieces with the fire of his power, and threw them into the torrent of this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.106",
+   "text": "106. Zedekiah, whose eyes the king of Babylon tore out at Riblah (4 Kgs 25), signifies the rich and the sinners of this world; for Riblah is rendered in Latin 'these many [things]', and therefore he signifies those who are so entangled in the many activities and affections of this world that, captured by the devil, they lose the eyes of understanding."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.107",
+   "text": "107. Isaiah expressed the form of the evangelists and apostles, for he preached all the sacraments of Christ not as future but as present."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.108",
+   "text": "108. Jeremiah, moreover, in his words and his sufferings figured the death and passion of the Lord the Saviour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.109",
+   "text": "109. Ezekiel bore the image of Christ, who, placed in an earthly sojourn, urges the people on with saving precepts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.110",
+   "text": "110. Daniel, who kept a celibate life, by his continence bore a likeness to those who are in holy leisure and do not misuse earthly abundance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.111",
+   "text": "111. Hosea shows the figure of Christ, who out of the fornication of the Gentiles took the Church into his body."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.112",
+   "text": "112. Joel, which is interpreted 'beginning', typically indicates those who are beginning to know the door of faith and the sacrament of divine knowledge."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.113",
+   "text": "113. Amos, a shepherd and countryman, is a type of Christ, who, transferred from the pastoral office over flocks, that is, from the governance of the Hebrews, now pastures other flocks among the Gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.114",
+   "text": "114. Obadiah, who fed a hundred prophets in Samaria (3 Kgs 18), signifies all the preachers of the faith, who in this world refresh all believers with the nourishment of the sacred Scriptures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.115",
+   "text": "115. Jonah (Jon. 2) figured the death of Christ, who rested three days and nights in the heart of the earth, as in the belly of the whale."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.116",
+   "text": "116. Habakkuk, 'the strong wrestler', is the faithful people, who, set upon the heights, contemplate the Lord on the cross, saying: 'Horns are in his hands; there the strength of his glory is established.'"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.117",
+   "text": "117. Zephaniah, which is interpreted 'watchman' or 'the hidden [thing] of the Lord', signifies those who through the secret of contemplation arrive at the perfection of merits."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.118",
+   "text": "118. Haggai and Zechariah bore the figure of the saints, who, in the life of this pilgrimage, declare to us the time of the future deliverance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.119",
+   "text": "119. Malachi, which is interpreted 'angel of the Lord', held the type of our Saviour, who is called the Angel of great counsel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.120",
+   "text": "120. Jesus the great priest bore the figure of Christ, through whom entry lies open to us from the pilgrimage of this world to the heavenly Jerusalem."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.121",
+   "text": "121. Zerubbabel the priest (2 Esd. 2 ff.) is a type of the Lord the Saviour, who brought the people back from captivity and built a temple for the Lord out of living stones."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.122",
+   "text": "122. Judith and Esther bear the type of the Church: they punish the enemies of the faith and rescue the people of God from destruction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.123",
+   "text": "123. Tobit held the image of the ancient law, whose eyes the Jewish swallows blind, while, misunderstanding the sacraments of light, they blind them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.124",
+   "text": "124. Tobias his son held the image of our Lord Jesus Christ, who by the brightness of his power illuminates the law, hidden as it were and blinded by the darkness of figure."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.125",
+   "text": "125. The three youths (Dan. 3) displayed the figure of the saints, who offered their bodies to persecution for the name of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.126",
+   "text": "126. Susanna (Dan. 13) has the figure of the Church, which the Jews, as false witnesses, accuse as an adulteress of the law."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.127",
+   "text": "127. King Nebuchadnezzar (4 Kgs 25) was a type of the devil, who led away the people of the heretics, conquered by the captivity of error, from Jerusalem, that is, from the Church, into Babylon, that is, into the confusion of ignorance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.128",
+   "text": "128. The chief of the cooks, who overthrew the walls of Jerusalem, signifies this: that all who serve the desire of the belly destroy the virtues of the soul."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.1.129",
+   "text": "129. The seven Maccabees, who, having suffered the bitterest torments under Antiochus, were most gloriously crowned (2 Macc. 7), signify the sevenfold Church, which endured a great slaughter of martyrs from the enemies of Christ and received the crown of heavenly glory."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.ab1",
+   "text": "FROM THE NEW TESTAMENT."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.130",
+   "text": "130. The four evangelists express Jesus Christ figuratively under the faces of four living creatures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.131",
+   "text": "131. For Matthew, announcing our Redeemer as born and as having suffered, compares him to the likeness of a man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.132",
+   "text": "132. Mark, beginning from the wilderness, puts on the figure of a lion, and proclaims the unconquered kingship and power of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.133",
+   "text": "133. Luke also, through the mystic face of the calf, preaches Christ sacrificed for us."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.134",
+   "text": "134. John, however, through the figure of the eagle, shows that the same Lord after the resurrection of the flesh flew up into heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.135",
+   "text": "135. Peter bears the person of the Church, which has the power of forgiving sins and of bringing people back from hell to the heavenly kingdom (Matt. 16)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.136",
+   "text": "136. All the apostles also bear the type of the whole Church, since they too received a like power in forgiving sins, having indeed also the form of the patriarchs, who through the word of preaching begot peoples spiritually for God throughout the whole world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.137",
+   "text": "137. The seventy-two disciples signify the enlightening of the whole world through the Gospel of the Trinity. For the whole world is run through in twenty-four hours, and this number, tripled on account of the same Trinity, is brought to seventy-two. They are sent two by two for this reason: for the preaching of the love of God and of neighbour, or [on account of] the twin Testaments of the mysteries."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.138",
+   "text": "138. Joseph typically bore the likeness of Christ, who was appointed to the guardianship of the holy Church, which has no spot or wrinkle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.139",
+   "text": "139. Mary, moreover, signifies the Church, which, though betrothed to Christ, as a virgin conceived us of the Holy Spirit, and as a virgin also gives birth (Matt. 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.140",
+   "text": "140. Zechariah the priest, who at the angel's command became mute (Luke 1), shows the silence of the law and the prophets at the coming of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.141",
+   "text": "141. John had the form of the law, for he announced Christ and preached the forgiveness of sins through the grace of the washing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.142",
+   "text": "142. The Magi figured the peoples of the Gentiles who were to know the light of faith, indicating by the gifts of the sacraments that Christ was God through the frankincense, a man who suffered and was buried through the myrrh, and king of all ages through the gold (Matt. 2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.143",
+   "text": "143. Herod, who brought death upon the infants (Matt. 2), expressed the form of the devil, or of the Gentiles, who, desiring to extinguish the name of Christ from the world, raged in the slaughter of martyrs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.144",
+   "text": "144. The mute in the Gospel signify those who do not confess the faith of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.145",
+   "text": "145. The blind signify those who in no way understand the faith that they believe."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.146",
+   "text": "146. The deaf figure those who do not show obedience to the commandments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.147",
+   "text": "147. The lame show those who neglect to fulfil the saving commandments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.148",
+   "text": "148. The prudent man, who built his house upon the rock, signifies the faithful teacher, who has established the foundation of his teaching and of his life in Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.149",
+   "text": "149. But the one who built his house upon the sand designates the heretic, who builds false teaching, so as to make a great ruin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.150",
+   "text": "150. The leper whom Christ healed first on coming down from the mountain (Matt. 8) indicates the human race, stained with the contagion of offence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.151",
+   "text": "151. This [race] the Redeemer, coming down from the height of the heavens as from a mountain, drew away from the varied worship of demons and restored into the unity of faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.152",
+   "text": "152. The centurion (ibid.) signifies the faith of the Gentiles, which, asking for the health of its son who was sick to death, humbly said: 'Lord, I am not worthy that you should enter under my roof, I who persecuted your Church.'"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.153",
+   "text": "153. The centurion's servant, and the daughter of the Canaanite woman, whom Christ saves without coming to them (Matt. 15), show the same Gentiles, whom the Lord did not visit by bodily presence, but saved through faith in the word."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.154",
+   "text": "154. The Canaanite woman herself too (ibid.) bears the figure of the Church from the Gentiles, which, like a dog, sought crumbs from the masters' table, that is, to be filled with the teachings of the apostles and prophets."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.155",
+   "text": "155. Peter's feverish mother-in-law (Matt. 8) signifies the Synagogue, inflamed with the heat of carnal desires, whose daughter is that part of the believers which was given to Peter to govern."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.156",
+   "text": "156. The rejected scribe, who followed the Lord for gain (ibid.), signifies those who seek the faith of Christ not for the Lord's sake but for the sake of worldly profit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.157",
+   "text": "157. The demoniac whom the Lord healed of a legion of demons in the region of the Gerasenes (ibid.) signifies the Gentile people, subject to the worship of many demons."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.158",
+   "text": "158. The swineherds who fled and reported what had been done in the city (ibid.) signify the leaders of the ungodly, who, while they flee the faith of Christ, nevertheless marvel in astonishment at his mighty works and proclaim them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.159",
+   "text": "159. The paralytic lying on his bed (Matt. 9) is the soul enfeebled by vices in its body, which, when it has been healed by the grace of Christ through the forgiveness of sins, at once recovers its former strength and rises, and carries the bed of the flesh, on which it previously lay weak, back to the house of the virtues, so that it may hold itself together within the secret places of its conscience, and no longer run about, enfeebled, among outward pleasures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.160",
+   "text": "160. The daughter of the ruler of the synagogue, to heal whom the Lord was going, though before he came to her a woman who suffered from a flow of blood touched him from behind (ibid.), had the figure of the Church coming from the Gentiles, which, since it believed after the preaching, the passion and the ascension of Christ, touched the Lord as it were from behind, and merited to receive salvation before the Synagogue."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.161",
+   "text": "161. The two blind men sitting by the way (ibid.) signify both peoples, of the Jews and of the Gentiles, drawing near through faith to Christ, who said: I am the way, the truth and the life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.162",
+   "text": "162. The man who had a demon, blind and dumb, who is recorded as cured by the Saviour (ibid.), indicates those who are converted from the idolatry of the Gentiles to the faith of the Lord; for them, once the worship of demons has been driven from the heart, when they have first received the light, afterwards their tongue is loosed to praise God, so that they confess him whom before they denied."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.163",
+   "text": "163. The man who had a withered hand (Matt. 12) signifies the Synagogue, or the soul unfruitful in works of mercy; when it is told, Stretch out your hand, it is a reminder that alms must always be held out to the poor."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.164",
+   "text": "164. The man from whom an unclean spirit went out and then took hold of him again (ibid.) signifies the people of the Jews, and the penitent man, whose mind, through the negligence that follows, the pleasure of the flesh seizes more fiercely, bringing with it seven other spirits of vices, that is, anger, avarice, envy, gluttony of the belly, vainglory, fornication and pride."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.165",
+   "text": "165. The householder who brings out of his treasure things new and old (Matt. 13) is Christ, bringing out of his impenetrable wisdom the two Testaments, namely the Old, in which earthly happiness is promised, and the New, through which the kingdom of heaven is hoped for."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.166",
+   "text": "166. The man who sowed a grain of mustard seed in his field (Luke 13) is Christ, who sowed faith in the world, in which the birds of the air, that is, spiritual souls, find rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.167",
+   "text": "167. The woman who hid leaven in three measures [of meal] (ibid.) signifies the wisdom of spiritual teaching, fervent in the love of the Trinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.168",
+   "text": "168. The man who found treasure hidden in a field (Matt. 13) is he who in this world, having sold everything, acquires Christ and eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.169",
+   "text": "169. The five thousand men who were fed with five loaves and two fishes (John 6) are the peoples of the Church, who through the five senses of the body are refreshed by Christ with the food of the spiritual law, and are filled with the twofold Testament, as with twin fishes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.170",
+   "text": "170. But the four thousand men who are fed with another seven loaves (Mark 8) are the same Church of the Gentiles, which is spread through the four parts of the world and is restored by the abundance of sevenfold grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.171",
+   "text": "171. The [lunatic] who often fell now into the fire, now into the water (Matt. 17), signifies the world. The fire shows inflaming desire, the water the pleasure of the flesh; seized by these, it is always cast headlong in a daily fall."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.172",
+   "text": "172. Moses and Elijah, who appeared with the Lord on the mountain (ibid.; Luke 9; Mark 9), are understood as the law and prophecy, by whose voices the passion, the resurrection and the glory of the Lord are declared."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.173",
+   "text": "173. The man who has a hundred sheep and, leaving them, seeks the lost sheep and, having found it, carries it back on his shoulders (Luke 15), expressed the figure of Christ, who, leaving the thousands of angels in heaven, like a good shepherd sought among the Gentiles and found the sheep that had perished in Adam, and carried it back to paradise on the shoulders of his cross."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.174",
+   "text": "174. The woman who found the lost drachma is the Church, which, when through penance it has found a soul dragged off and lost in the snares of the devil, causes joy to both angels and men."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.175",
+   "text": "175. The debtor of ten thousand talents (Matt. 18) signifies men who are liable to God through transgression of the ten commandments; but just as the bonds of sin are loosed for us by the Lord when we ask, so let each of us forgive after the Lord's example, lest, while we do not remit the smallest debts to those who sin against us, we be compelled to pay our greater ones with the interest of punishments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.176",
+   "text": "176. The rich man who is compared to a camel (Matt. 19; Mark 10) indicates the person of the Jews, who glory in the power of the law, although, because of the earthly things that they cherish, they do not have the kingdom of heaven, into which the people of the Gentiles, twisted with crimes and weighed down with burdens of sins, more easily enters through the eye of a needle, as through the narrow straits of suffering, of pains and of toils."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.177",
+   "text": "177. The householder who hires labourers for the vineyard and promises a denarius (Matt. 20) is Christ, who calls all to the cultivation of faith, promising them the reward of perfect blessedness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.178",
+   "text": "178. The labourers hired at the first hour are those who have attained the cultivation of faith from the first beginnings of infancy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.179",
+   "text": "179. Those [hired] at the third hour are those who came to the faith from adolescence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.180",
+   "text": "180. Those who were hired at the sixth hour are those who believed in the age of youth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.181",
+   "text": "181. Those who came at the ninth hour are those who received grace when already declining from youth into old age."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.182",
+   "text": "182. Those who went at the last hour (ibid.) are those who, already decrepit and called at the very end of their life, came to Christ. Yet they receive a reward of blessedness equal to the first, Christ preserving justice in those who worked from the first hour of birth, and bestowing mercy on these, who laboured for one hour of life."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.183",
+   "text": "183. The two sons sent to work in the vineyard (Matt. 21) show the type of the two peoples. For the first sent is the people of the Gentiles, called through natural understanding to the cultivation of the divine work, which at first was stubborn and said it would not go. But when the Lord came, it cleansed its earlier stubbornness by the obedience that followed. The second sent, [the people] of the Jews, through knowledge of the law answered: All that the Lord has said we will do; but it is condemned for this reason, that it not only transgressed against its profession of the law, but also laid murderous hands on the very Lord of the vineyard."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.184",
+   "text": "184. The man who planted a vineyard (Matt. 21; Luke 20) is God, who founded Jerusalem, in which he built a tower and dug a winepress, namely the temple and the altar, and set a hedge around it, that is, he fortified it with the protection of angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.185",
+   "text": "185. The tenants to whom he lets the vineyard (ibid.) are the people of Israel, who possessed Jerusalem under the worship of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.186",
+   "text": "186. The servants who were sent at the time of the fruits and were killed by the tenants (ibid.) are understood as the prophets, whose blood was shed by the Jews when they sought from them the fruit of righteousness and of the law."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.187",
+   "text": "187. The son sent last, whom the tenants cast out and killed outside the vineyard (ibid.), is Christ, whom the Jews crucified, casting him out beyond the gates of Jerusalem."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.188",
+   "text": "188. The tenants too, whom the lord of the vineyard destroys (ibid.), are understood as the peoples of the Jews, who long ago, as can be seen, were scattered and destroyed. Those husbandmen to whom the vineyard is ordered to be transferred signify the apostles, or the successors of the apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.189",
+   "text": "189. The king who made a wedding for his son (Matt. 22) is understood as God the Father, who joined to Christ virgin flesh from a virgin. The servants who were sent to call those invited are the apostles and prophets, who called the Jews through the law and the Gospel; but they, weighed down now by earthly pleasures, now by the burden of the flesh and of the law, despised the solemn feast of the Lord's coming, whereby they judged themselves unworthy of eternal life, while the Gentiles are shown to have entered."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.190",
+   "text": "190. The angry king, who sent his armies and destroyed those murderers, and burned their city (ibid.), is God the Father, who raised up Vespasian, Caesar of the Romans, who laid waste their people with the sword and overthrew the city of Jerusalem from its foundations with all its inhabitants, so that it could wage war no longer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.191",
+   "text": "191. The man at the banquet without a wedding garment, who was silent when the king spoke, and whom he orders his servants to take away and cast into the outer darkness (ibid.), is he who indeed rests in the faith with the others; but if he is found on the day of judgement to have a polluted garment of the flesh, he is at once ordered to be taken away by the angels and plunged into the Gehenna of eternal fire."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.192",
+   "text": "192. The two debtors, of whom one owed the moneylender five hundred denarii and the other fifty (Luke 7), signify both peoples, namely of the Jews and of the Gentiles; of these, he who owed fifty denarii had the type of the Jews, while he who [owed] five hundred expressed the figure of the Gentiles, which, ever a debtor from the beginning of the world, did not pay off the bond of sin through penance. So when Christ came it at last believed, and received a richer fruit of mercy; hence, because more has been granted to it by Christ, it loves Christ the more, as it is written: He to whom more is forgiven loves more."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.193",
+   "text": "193. The seven brothers who married one woman and died without sons (Mark 12) are understood as unbelieving men, who through the seven ages of the world have spent their whole life on this earth without the fruit of righteousness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.194",
+   "text": "194. The two in a bed (Matt. 24) figure those who, removed from the crowds, seem in a way to be free for a life of leisure."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.195",
+   "text": "195. The two women grinding (ibid.) are understood as those who are carried round in the business of temporal affairs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.196",
+   "text": "196. The two in the field (ibid.) are those who work in the ministry of the Church, as in the Lord's field; of these, when night comes, that is, the adversity of the world, some remain in the faith and are taken up to life, others depart and are left to punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.197",
+   "text": "197. The five wise virgins (Matt. 25) are understood as all holy souls, which, because through the five senses of the body they admit no corruption of heart, are therefore reckoned by the number five."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.198",
+   "text": "198. But the five foolish virgins, who have no oil in their vessels (ibid.), are those souls which indeed have integrity of body, but do not keep within their conscience the witness of good work, since they glory in outward show before men, and not in the heart before God. And therefore, because they do not carry the brightness of the mind in the vessels of their breasts, when the Lord comes they are shut out from the joy of his kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.199",
+   "text": "199. The man setting out abroad, who handed over his goods to his servants (ibid.), is Christ, who, returning to the heavens after his resurrection, handed over the grace of the Gospel to the evangelical traders to be put out at interest. The first servant, in the five talents given to him, received the five books of the Law, which he enlarged by the teaching and practice of the ten commandments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.200",
+   "text": "200. Another, with two talents, earned the two Testaments, and doubled them by dispensing them devoutly in the moral and the mystical sense."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.201",
+   "text": "201. The third, under the figure of one talent, obscured the gift of grace he had received in earthly pleasures, and therefore he was cast into hell, because he produced no fruit from it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.202",
+   "text": "202. Others have understood in the first servant the senses of heart and body received, in the second understanding and work, in the third reason."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.203",
+   "text": "203. The young man, the widow's son, whom the Lord raised from the dead outside the gates of the city (Luke 7), signifies one who openly commits some deadly crime, and who sometimes, on hearing the word of God, rises from the death of sin and through penitence begins to live for Christ; and he is given back to his widowed mother, that is, the Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.204",
+   "text": "204. The man who was going down from Jerusalem to Jericho and fell among robbers (Luke 10) figures Adam himself in his race, who, as he went down from the heavenly paradise into the world, fell among the angels of darkness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.205",
+   "text": "205. The Samaritan going down, who tended his wounds (ibid.), is Christ our guardian, who came down from heaven and healed the human race of the wounds of sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.206",
+   "text": "206. The innkeeper (ibid.) is the apostles, or their successors, who restore our weakness by the preaching of the Gospel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.207",
+   "text": "207. Martha, who received Christ into her house and served in it (ibid.), signifies the Church, which in this life receives Christ in the heart and labours in the work of righteousness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.208",
+   "text": "208. Mary her sister, who sat at the feet of Christ and listened to the word (ibid.), shows the same Church in the world to come, ceasing from all work and resting in the contemplation of the wisdom of Christ alone."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.209",
+   "text": "209. The man who at midnight asked his friend for three loaves (Luke 11) expresses the likeness of anyone who, in the midst of tribulation, asks the Lord to give him knowledge of the Trinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.210",
+   "text": "210. The rich man whose field brought forth abundant fruits (Luke 12) signifies a man given over to luxuries and abounding in sins, whom, as he immoderately desired to sin ever more, the Lord rebukes, saying: Fool, this night they take your soul from you; the things you have prepared, whose will they be?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.211",
+   "text": "211. Those five in one house, that is, father, mother, son, daughter, daughter-in-law, of whom two are divided against three and three against two (ibid.), signify the human race separated from one another in faith and religion, partly in the division of schism, which the two signify, partly in the number of the Trinity, which the three show. For the son is divided against his father, that is, the people coming from the Gentiles against the devil, with whom it had formerly been allied. And the daughter is divided against her mother, that is, the people believing from among the Jews against the impious Synagogue. And the daughter-in-law is divided against her mother-in-law, namely the Church from the Gentiles against the mother of her bridegroom, the Synagogue, from which Christ had been born according to the flesh. These people are separated from one another, some seeking earthly, others heavenly glory."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.212",
+   "text": "212. The eighteen Galileans on whom the tower in Siloam fell and killed them (Luke 13) intimate the destruction of the people of the Jews. For among the Greeks eighteen is expressed by the letters iota, ι, and eta, η, with which characters the name Jesus is written; refusing to believe in him, they were laid low by the Romans together with their city."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.213",
+   "text": "213. The man who planted a fig tree in his vineyard is Christ, who founded the Synagogue among the Jewish people; when the Lord had ordered it cut down as useless, the vinedressers, the apostles, dig for it the trench of humility, and dung is applied, that is, the confession of sins; and in the end, by believing, it will be changed for the better and will give abundant fruits of righteousness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.214",
+   "text": "214. The woman who, having had an infirmity for eighteen years, was healed by the Lord (Luke 13) is a type of the Church, which at the end of times has obtained the salvation of faith. For the world is completed in six ages, whose time nevertheless has a threefold division: one before the Law, another under the Law, the third under grace. So six times three makes eighteen, by which number this time of our salvation is intimated, when, loosed from the bonds of Satan by which we were bent over, we receive the gift of salvation and the hope of heavenly contemplation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.215",
+   "text": "215. The man with dropsy whom the Lord healed (Luke 14) shows those whom the overflowing flux of carnal pleasures weighs down."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.216",
+   "text": "216. The man having two sons (Luke 15) is God, having two peoples, of whom the elder held the figure of the Jews, who remained in the worship of God; the other, the younger, [the figure] of the Gentiles, who, having deserted his Creator, became a slave of idols; when he returns through want of faith, God the Father mercifully receives him, and for his conversion sacrifices his only Son under the type of the calf; he also gives him the ring of faith and clothes him with the robe of immortality; although the Jewish brother is tormented by the envy of jealousy, yet for his salvation the symphony of the angels raises up joy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.217",
+   "text": "217. The wasteful steward, whom his master ordered removed from his stewardship, and who, defrauding his master, remitted part to the debtors so that he might have something to live on afterwards (Luke 16): this comparison is set forth as an example for us; for if he deserved to be praised by his master because, defrauding him, he provided for himself for the future out of another's property, how much more can we please Christ if out of our own property we show mercy to the needy, by whom we may be received into the eternal dwellings!"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.218",
+   "text": "218. The rich man who was clothed in purple and fine linen (ibid.) signifies the pride of the Jews, once flourishing in the splendour of rule or in the eminence of honour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.219",
+   "text": "219. The beggar covered with sores (ibid.) shows the Gentile people, humbled by confessions of sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.220",
+   "text": "220. The five brothers of that rich man who was tormented in the underworld (ibid.) are understood as the Jews, who were placed under the five books."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.221",
+   "text": "221. The ten lepers, who are cleansed by the Lord (Luke 17), signify heretics, who in the variety of colours have the diversity of schisms, and who are therefore sent to the priests, so that, every variety of errors being wiped away, they may receive the sacrament of unity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.222",
+   "text": "222. The unjust judge, who did not fear the Lord, yet heard the widow who entreated him persistently (Luke 18), is a likeness by which it is shown how much hope he ought to have who asks the Lord unceasingly, since even in the ears of an unjust judge the frequent insistence of the entreating widow prevailed. The widow herself can signify the Church, by her perseverance seeking vengeance on her enemies, the devil or heretics."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.223",
+   "text": "223. The Pharisee praying in the temple (ibid.) is the people of the Jews, who extols its merits on the basis of the righteous ordinances of the Law."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.224",
+   "text": "224. But the tax collector (ibid.) is the Gentile people, which, placed far from God, confesses its sins; of these, the one by being proud went away humbled, the other by confessing deserved to draw near to God, exalted."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.225",
+   "text": "225. The blind man sitting by the way (ibid.) shows the Gentile people, which through the grace of Christ deserved the light of faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.226",
+   "text": "226. Zacchaeus (Luke 19) is the Gentile people, small in respect of merits, which nevertheless, lifted up from earthly deeds, contemplates the mystery of Christ through the wood of the Lord's cross."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.227",
+   "text": "227. The nobleman who went away into a far country to receive a kingdom for himself (ibid.) is our Redeemer, who reached to the ends of the earth to receive a kingdom among the peoples of the Gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.228",
+   "text": "228. The citizens who did not want him to reign (ibid.) are understood as the Jews, who spurned Christ the king."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.229",
+   "text": "229. The servant who, receiving one mina, gained ten (ibid.), signifies teachers who, having received the grace of the Gospel, made good use of the ten sayings of the Decalogue in their preaching, and by teaching gained many in the faith; therefore, when the Lord comes, they will be praised, because they have made a profit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.230",
+   "text": "230. But he who from one gained five (ibid.) shows those who, keeping the commandment of God, attain the knowledge of the Law written in the five books of Moses, and by teaching it put it out at interest for the use necessary to salvation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.231",
+   "text": "231. But he who kept the mina itself in a napkin (ibid.) shows one who handled the gift of grace entrusted to him softly and idly; hence he rightly loses the grace conferred, because through negligence he scorned to preach, so that what he had laboured on might be increased for him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.232",
+   "text": "232. The widow who threw two mites into the treasury (Luke 21) shows the faithful soul of one who keeps in the treasury of his heart the fruits of love of God and of neighbour."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.233",
+   "text": "233. The bridegroom (John 2) is Christ, whose wedding with the Church is celebrated; at this union water is changed into wine, because believers pass through the grace of the washing to the crown of suffering."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.234",
+   "text": "234. The steward of the feast (ibid.) is understood as Moses, who marvels that a better and holier people has been gathered by Jesus into the Gospel than that earlier one led out of Egypt; for the wine that ran out shows that the grace of the Holy Spirit was taken away from the Jews and bestowed through the apostles on the Gentiles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.235",
+   "text": "235. The Samaritan woman (John 4) is mystically understood as the Synagogue, subject in a carnal sense to the five books of the Law, as if to five husbands; the Lord mercifully calls her to draw living water, that is, to receive the grace of the washing, or the hidden understanding of the Law."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.236",
+   "text": "236. The adulterous woman who is brought by the Jews to the Lord to be stoned (John 8) is the Church from the Gentiles, which, having first abandoned God, had committed fornication with idols; the Synagogue in its jealousy wanted her put to death, but Christ saves her through the forgiveness of her offence, and does not let her perish, he who knows how to grant pardon to sinners."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.237",
+   "text": "237. Simon the leper (Matthew 26) is the Gentile people, which has been cleansed by the Redeemer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.238",
+   "text": "238. The woman who anointed the Lord's head with ointment (ibid.) is the Church, which offers the fruit of her work and the fragrance of her faith to the praise of God and the glory of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.239",
+   "text": "239. That angel at whose descent the water was stirred, surrounded by five porches (John 5), is Christ, at whose coming the people of the Jews, enclosed by the five books, was troubled: for when the angel descended, the water was stirred and the sick man was healed; when Christ descended from heaven, that same people was stirred at his passion, and the world was healed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.240",
+   "text": "240. The man blind from birth, whom the Lord, after anointing his eyes, sent to the pool of Siloam to wash (John 9), signifies the human race, blighted from birth, that is, from the first man, by the darkness of errors; the Lord smeared its eyes with spittle and clay, because the Word was made flesh. And he ordered the eyes to be washed in the pool, so that, baptized in Christ, it might receive the law of faith and believe in him who appeared humble in the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.241",
+   "text": "241. Lazarus, whom the Lord raised from the tomb four days dead and stinking (John 11), signifies the world, which the heaviest habit of sin had corrupted, but which is nevertheless raised on the fourth day of death. For the first day of death is the line of death drawn from Adam; the second day of death is the transgression of the natural law; the third day of death is the violation of the given Law; the fourth day of death is contempt of the Gospel preaching, on which day the Lord, looking upon his own work, mercifully deigned to raise [it] again."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.242",
+   "text": "242. The servant of the chief of the priests, whose right ear is cut off (Matthew 26), is the Israelite people, made a servant through unbelief. It loses the right ear when it passes over to the left through the understanding of the letter; but in those of them who believe, the Lord restores the hearing of faith, and makes them obedient to the Gospel commandment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.243",
+   "text": "243. The chief of the priests, who tore his garment at the Lord's passion (ibid.), indicates the Hebrew people stripped of the priesthood and emptied, its kingdom torn apart."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.244",
+   "text": "244. Barabbas, who is released to the Jews (Matthew 27), signifies the Antichrist, whom they in their error deserved to receive instead of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.245",
+   "text": "245. Herod and Pilate, who, though they were at odds, are joined in friendship at the Lord's passion (Luke 23), indicate that the two peoples, of the circumcision and of the Gentiles, were at first divided, but nevertheless came into agreement in faith through the Lord's passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.246",
+   "text": "246. Simon of Cyrene, on whom they laid the cross to carry (ibid.), is understood as the people of the Gentiles, which, a stranger to the Law, is made obedient to the Gospel, itself becoming the carrier of Christ's cross and the bearer of faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.247",
+   "text": "247. The two thieves (ibid.) represent the people of the Jews and of the Gentiles: one of them, unbelieving, blasphemes Christ hanging on the cross; the other, believing, rebukes the blaspheming Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.248",
+   "text": "248. The four soldiers who made four parts for themselves of Jesus' garments (Psalm 118[119]:162) prefigured the four parts of the world, which divided among themselves the words of Christ, as it is written: I will rejoice over your words, like one who finds much spoil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.249",
+   "text": "249. The women who announce the Lord's resurrection to the apostles are understood as the Law and prophecy, which proclaimed the glory of Christ's resurrection, before it was revealed, as forerunners."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1404.tmp1404.opp-lat1.2.250",
+   "text": "250. The seven disciples with whom the Lord is described as having feasted after his resurrection indicate the seventh rest, after the future resurrection, through which all the saints will be filled through Christ with the eternal refreshment of blessedness; to which fullness may Christ lead us. Amen."
+  }
+ ]
+}
