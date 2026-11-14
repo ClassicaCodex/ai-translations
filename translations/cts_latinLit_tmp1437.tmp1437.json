@@ -1,0 +1,742 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1437.tmp1437",
+ "edition_urn": "urn:cts:latinLit:tmp1437.tmp1437.ai-claude",
+ "source_edition": "tmp1437.tmp1437.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "De Ecclesiasticis Dogmatibus (Incertus): AI translation (Claude)",
+  "author": "Isidorus Hispalensis",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1437.tmp1437.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab1": "Many scanning errors silently corrected (e.g. Tatrem/Patrem, Artus/Arius, usus/unus, Alarcion/Marcion, Vadianus/Audianus, ex imo/ex uno). Cap. IV: 'nihil sibi invisibile a creaturis' read as 'nothing invisible to itself' (the standard text lacks 'a creaturis', which seems displaced); 'efficio singulave' read as 'officio singulare'. 'Marcianus' (Cap. II) and 'Salvanus' (Cap. IV) kept as printed: the first may stand for Manichaeus or Marcion, the second is unidentified (other texts read Sabellius or similar). Cap. VIII 'cum ante mortuis' read as 'cum antemortuis', 'together with those who died before'.",
+  "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab15": "Ch. XVI: 'Aratus' is probably a corruption; other witnesses of Gennadius read 'Arabici' (the Arabian heretics who held that the soul dies with the body). Ch. XXV: 'the same teacher' refers to Pope Innocent I (the source of the quotation in ch. XXII), who is not named in this extract; the passages from ch. XXII onward derive from the 'Capitula' attributed to Celestine (Indiculus). Ch. XXVI: the Proverbs reference printed as VIII, 25 is evidently VIII, 35 (LXX); in the Zosimus quotation the closing parenthesis is missing in the print and has been restored after 'nascuntur'. Ch. XXI: 'Non tamen ad obtinendam...' is elliptical; 'salutem' is understood. Scanning errors corrected silently (e.g. natuns, earuis, Dci, iuspirante).",
+  "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab33": "Biblical references corrected where the scan garbles them (e.g. 'I Joan. I, U' = 1 John 1:8–9; 'Rom. v, 18' = 5:12; 'Philipp. I, 0' = 1:6). The Job quotation is read as 'In manu omnis hominis signat' (scan 'In mum'). In ch. XXXII 'ex nostra remissione' is taken as 'slackness' (remissio). Heading 'fimmortalis' read as 'immortalis'.",
+  "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab45": "Chapter numbers 'HI' and the second 'XLII' are misprints, rendered as LI and LII by sequence. 'ministerium salutis' read as mysterium. In ch. LII the heretic names are garbled in the source ('Paulini Procliani', 'Siphori ... Bonostani'); rendered as Paulianists, Proclianists, Bonosians; 'Siphori' unidentified (some editions read 'Fotini' or 'Scotiniani'). 'Montani' taken as Montanists. 'non tandem' read as 'tantum' (only). 'Theodosius' may be an error for Theodotus. The Scripture reference 1 Cor. 7:25 is as the edition gives it.",
+  "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab56": "LV: 'sicut Papiae ... acquiescunt' is awkward; taken as Tertullian and Lactantius assenting to Papias. LXXV: 'de vera ejus carnis vitae' read as 'vite' (vine). LXXVI: 'Florianus' taken as Florinus. LXXIV: 'me confitetur' read as 'Ille confitetur'; 'aclibus' as 'actibus'. LXXII: 'in luriam' read as 'in furiam'. LXVII: 'Hierachilarum' read as Hieracites.",
+  "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab80": "LXXX: 'supplicii confessione' read as confession in supplication (supplicium = supplication), though 'confession under punishment' is possible. 'Hierarchy' aside, the scanned 'MOt'i' in LXXXI read as 'nosti'. LXXXIV: 'in dato falso, non meriti debito' is awkward; rendered as transmitted, perhaps 'falsely glorying in a gift, not in a merit owed'. LXXXVIII: the clause 'ut... credatur' seems to imply these teachers wish the soul held incorporeal; Gennadius elsewhere treats the soul as in some sense corporeal."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab1",
+   "text": "APPENDIX XIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab2",
+   "text": "ON THE DOCTRINES OF THE CHURCH."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab3",
+   "text": "CHAPTER ONE. — On faith in the Trinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.2",
+   "text": "We believe that God is one, Father, Son and Holy Spirit. [He is] Father because he has a Son; Son because he has a Father; Holy Spirit because he proceeds from the Father and the Son, co-eternal with the Father and the Son. The Father, then, is the source of the Godhead. Just as he was never not God, so he was never not Father. From him the Son is born. From him the Holy Spirit [proceeds]: not born, because he is not the Son; nor unbegotten, because he is not the Father; nor made, because he is not from nothing, but proceeds as God from God the Father and God the Son. The Father is eternal because he has an eternal Son, of whom he is the eternal Father. The Son is eternal because he is co-eternal with the Father. The Holy Spirit is eternal because he is co-eternal with the Father and the Son. The Trinity is not confounded into one person, as Sabellius says, nor is the Godhead separated or divided in nature, as Arius blasphemes. Rather the Father is one in person, the Son another in person, the Holy Spirit another in person. In nature, in the holy Trinity, the Father, the Son and the Holy Spirit are one God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab4",
+   "text": "CHAP. II. — On the incarnation of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.3",
+   "text": "It was not the Father who took on flesh, nor the Holy Spirit, but the Son alone, so that he who in the Godhead was the Son of God the Father should himself become, in the man, the son of a human mother, lest the name of son pass to another, who would not be Son by eternal birth. So the Son of God became the son of man: born according to the truth of nature from God as Son of God, and according to the truth of nature from man as son of man, so that the truth of the one begotten should have the name of Son by birth, not by adoption, not by designation, but in each birth, and he should be true God and true man, one Son. We therefore do not confess two Christs or two Sons, but God and man as one Son, whom for this reason we also call only-begotten, abiding in two substances, as the truth of nature conferred on him, the natures neither confounded nor mingled, as the Timotheans hold, but united by fellowship. God, then, took on man, and man passed into God, not by a changeability of nature, as the Apollinarians say, but by God's condescension, so that neither was God changed into human substance by taking on man, nor was man, glorified into God, [changed] into the divine, because change or changeability of nature brings about both the diminishing and the abolition of the substance. We believe the holy Trinity to be joined without confusion and distinct without separation. The Son of God was therefore born of a human being, and not through a human being, that is, not from a man's intercourse, as Ebion says, but drawing his flesh from the Virgin's body, and not bringing it with him from heaven, as Marcion, Origen and Eutyches affirm. Nor [was he] in appearance, that is, without flesh, as Valentinus asserts, that is, not imagined in seeming, but a true body. Not only flesh from flesh, as Marcianus [holds], but true God from the Godhead and true man from the flesh, one Son: in the Godhead the Word of the Father and God, in the man soul and flesh. A soul not without sense and reason, as Apollinaris [holds], nor flesh without a soul, as Eunomius [holds], but a soul with its reason and a body with its senses, through which true senses he bore the pains of his flesh in his passion and before his passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab5",
+   "text": "CHAP. III. — That the eternal God was born of the Virgin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.4",
+   "text": "Nor was he born of the Virgin in such a way that, as a man, he received the beginning of his Godhead by being born, as though he had not been God before he was born of the Virgin, as Artemon, Beryllus and Marcellus taught; rather, the eternal God was also born as man of the Virgin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab6",
+   "text": "CHAP. IV. — On the perfect Trinity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.5",
+   "text": "Let us believe nothing in the Trinity to be created or serving, as Dionysius, the fount of Arius, holds; nothing unequal, as Eunomius and Arius hold; nothing unequal in grace, as Aetius holds; nothing earlier or later, or lesser, as Arius [holds]; nothing alien or subordinate in office to another, as Macedonius [holds]; nothing inserted by persuasion or by stealth, as Manichaeus [holds]; nothing bodily, as Melito and Tertullian [hold]; nothing shaped in bodily form, as the Anthropomorphite and Audianus [hold]; nothing invisible to itself, as Origen [holds]; nothing visible to creatures, as Fortunatus [holds]; nothing differing in character or will, as Marcion [holds]; nothing drawn from the essence of the Trinity down into the nature of creatures, as Plato and Tertullian [hold]; nothing singular in function and not communicable to another, as Origen [holds]; nothing confounded, as Sabellius [holds]; but the whole perfect, because the whole is from one, and one from the whole; yet not solitary, as Praxeas and Salvanus presume, that damnable doctrine of the Pentapolis."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab7",
+   "text": "CHAP. V. — On the homousion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.6",
+   "text": "The Son, then, is homousios, that is, co-essential, with the Father in the Godhead; the Holy Spirit is homousios with the Father and the Son; the one Son is homousios with God and with man, abiding as God in his manhood in the glory of the Father, longed for by the angels to be seen; just as the Father and the Holy Spirit is worshipped by the angels and by every creature. [He is] not a man made apart from God, or a Christ alongside God, as Nestorius blasphemes, but man in God and God in man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab8",
+   "text": "CHAP. VI. — On the resurrection."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.7",
+   "text": "There will be a resurrection of the dead, of all human beings, but one, all together, and once for all. Not a first [resurrection] of the righteous and a second of sinners, as is the fable of dreamers, but one of all. And if that is said to rise which falls, then our flesh will truly rise, just as it truly falls. And there will not, as Origen [holds], be an exchange of bodies, that is, another new body in place of the flesh; but the same corruptible flesh which falls, of the righteous as of the unrighteous, will rise incorruptible, so that it can either bear punishment for sins or remain in eternal glory for merits."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab9",
+   "text": "CHAP. VII. The resurrection is common to all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.9",
+   "text": "There will be a resurrection of all human beings. If it will be of all, then all die, so that death, derived from Adam, holds sway over all his children, and there remains to the Lord that privilege which is said of him specially: You will not let your holy one see corruption (Ps. 15:10). For his flesh did not see corruption. This account we have received as handed down by the great majority of the Fathers. But since there are also other men, equally catholic and learned, who believe that those who are to be found alive at the Lord's coming will be changed to incorruption and immortality while the soul remains in the body, and that it is reckoned to them as resurrection from the dead that they lay aside mortality by change, not by death, in whichever way anyone accepts it he is not a heretic, unless he becomes a heretic through contentiousness. For it is enough by the law of the Church to believe that there will be a resurrection of the flesh from death."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab10",
+   "text": "CHAP. VIII. — On the judgment of the living and the dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.10",
+   "text": "As for our saying in the Creed that at the Lord's coming the living and the dead are to be judged, we believe that not only the righteous and sinners are meant, as Diodorus thinks, but also the living, those who are to be found in the flesh, who are believed still to be going to die, or are to be changed, as others hold, so that, raised at once or remade, they may be judged together with those who died before."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab11",
+   "text": "CHAP. IX. — After the judgment no restoration is to be expected."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.11",
+   "text": "Let us not believe that after the resurrection and judgment there will be a restoration, as Origen raves, so that demons or wicked men, after torments, as though purged by punishments, should return, the former to the angelic dignity in which they were created, the latter be granted the fellowship of the righteous, on the ground that it befits the divine mercy that none of the rational creatures should perish, but should be saved in some way or other. But let us believe the judge of all himself, the just rewarder, who said: The wicked will go into eternal punishment, but the righteous into eternal life (Matt. 25:46), so that they may receive the fruit of their works."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab12",
+   "text": "CHAP. X. — The creation of the world. The creation of the angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.12",
+   "text": "In the beginning God created heaven and earth and water out of nothing. And while darkness still concealed the water itself, and the water hid the earth, the angels and all the heavenly powers were made, so that God's goodness should not be idle, but should have beings in whom it might show its goodness through long ages beforehand; and so this visible world was made and adorned from the matter that had been made by God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab13",
+   "text": "CHAP. XI. — God alone is incorporeal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.13",
+   "text": "Nothing is to be believed incorporeal and invisible by nature except God alone, that is, the Father, the Son and the Holy Spirit. He is rightly believed to be incorporeal for this reason, that he is everywhere and fills and holds together all things; and he is invisible to all creatures for this reason, that he is incorporeal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab14",
+   "text": "CHAP. XII. — Every creature is corporeal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.14",
+   "text": "Every creature is corporeal; the angels and all the heavenly powers are corporeal, although they do not subsist in flesh. We believe intellectual creatures to be corporeal for this reason, that they are circumscribed in place; as is the human soul, which is enclosed in flesh, and the demons, who by substance are of angelic nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab15",
+   "text": "CHAP. XIII. — Intellectual natures are immortal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.15",
+   "text": "We believe intellectual natures to be immortal, because they lack flesh and have nothing by which they could fall, so as to need resurrection after a fall."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab16",
+   "text": "CHAP. XIV. — How the soul of a human being is created."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.16",
+   "text": "[We hold] that the souls of human beings did not exist from the beginning among the other intellectual natures, nor were they created all together, as Origen imagines; nor are they sown with bodies through intercourse, as the Luciferians, Cyril and some presumptuous persons among the Latins affirm, as if preserving the logical consequence of nature. But we say that the Creator of all alone knows the creation of the soul; that the body alone is sown through the union of marriage, but by the judgement of God is curdled in the womb, put together and formed; and that when the body has been formed, the soul is created and poured in, so that the human being may live in the womb, consisting of soul and body, and may come out of the womb alive, complete in human substance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab17",
+   "text": "CHAP. XV. — That there are not two souls in a human being."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.17",
+   "text": "Nor do we say that there are two souls in one human being, as James and other Syrians write, one animal, by which the body is animated and which is mixed with the blood, and another spiritual, which supplies reason; but we say that there is one and the same soul in a human being, which both gives life to the body by its partnership and orders itself by its reason, having in itself freedom of choice, so that in the thought of its own substance it chooses what it wills."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab18",
+   "text": "CHAP. XVI. — The soul of a human being is immortal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.18",
+   "text": "We believe that only the human being has a substantial soul, which lives when stripped of the body and keeps its senses and faculties in full life. It does not die with the body, as Aratus asserts, nor after a short interval, as Zeno says, because it lives substantially."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab19",
+   "text": "CHAP. XVII. — The souls of brute animals."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.19",
+   "text": "But the souls of animals are not substantial; they are born with the flesh, by the very life of the flesh, and are ended and die with the death of the flesh; and therefore they are not governed by reason, as Plato and Alexander think, but are led towards all the promptings of nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab20",
+   "text": "CHAP. XVIII. — The soul is poured in."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.20",
+   "text": "The human soul does not die with the flesh, because it is not sown with the flesh, as we said above; but when the body has been formed in the mother's womb, it is created by the judgement of God and poured in, so that the human being may live within the womb, and so come forth by birth into the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab21",
+   "text": "CHAP. XIX. — The two substances of a human being."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.21",
+   "text": "A human being consists of two substances only, soul and body: the soul with its reason, and the body with its senses. These senses, however, the body does not move without the partnership of the soul. But the soul keeps its rational faculty even without the body."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab22",
+   "text": "CHAP. XX. — Soul and spirit are the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.22",
+   "text": "Spirit is not a third [element] in the substance of a human being, as Didymus contends, but the spirit is the soul itself; it is called spirit on account of its spiritual nature, or because it breathes in the body. It is called soul (anima) because it animates the body for living or for giving life. But the third, the spirit which the Apostle introduces together with soul and body, we should understand to be the grace of the Holy Spirit, which the Apostle prays may remain whole in us (1 Thess. 5:23), so that through our fault it may not be lessened or driven from us, because the Holy Spirit will flee from what is feigned (Wisd. 1:5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab23",
+   "text": "CHAP. XXI. — On free choice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.23",
+   "text": "The human being was entrusted to the freedom of his own choice at once in his first condition, so that, by the vigilance of the mind alone exerting itself, he would also persevere in keeping the commandment, if he wished to remain in that state in which he had been created. But after he fell through Eve by the seduction of the serpent, he lost the good of nature, and likewise the vigour of choice; not, however, the power of election, lest his avoiding of sin should not be his own act, and lest what he had not washed away by choice should be pardoned without merit. Therefore freedom of choice, that is, rational will, remains for seeking salvation, but with God first admonishing and inviting to salvation, so that it may choose, or follow, or act upon the occasion of salvation, that is, upon the inspiration of God. But that it attains what it chooses, or what it follows, or what it does upon the occasion, we freely confess to be of God. So we have the beginning of our salvation by God's mercy; that we assent to the saving inspiration is within our power; that we obtain what we desire by assenting to the admonition is of divine gift; that we do not fall away from the gift of salvation once obtained is a matter of our own care and likewise of heavenly help; that we fall away is within our power and of our sloth. Not, however, for obtaining [salvation] without him who makes seekers find, who opens to those who knock, who gives to those who ask. So, just as we believe that we have the beginning of our salvation with God showing mercy and inspiring, so we freely confess that the choice of our nature follows divine inspiration. Therefore, that we do not fall away from the good either of nature or of merit is a matter of our own care and likewise of heavenly help; that we fall away is within our power and of our sloth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab24",
+   "text": "CHAP. XXII. — Grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.24",
+   "text": "It is to be believed most firmly that in the transgression of Adam all human beings lost their natural capacity and innocence, and that no one can rise from the depth of that fall by free choice unless the grace of a merciful God has raised him up; « for he, having undergone free choice, while he used his goods too rashly, falling was plunged into the depths of transgression, and found no way by which he could rise from there; and, deceived for ever by his own freedom, he would have lain hidden under the weight of this fall, had not the coming of Christ afterwards lifted him up by his grace, who through the purification of new regeneration cleansed every past fault in the washing of his baptism. »"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab25",
+   "text": "CHAP. XXIII. — No one is good of himself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.25",
+   "text": "[We hold] that no one is good of himself, unless he who alone is good has granted a share in himself."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab26",
+   "text": "CHAP. XXIV. — Perseverance in good things is from God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.26",
+   "text": "[We hold] also that no one, even one renewed by the grace of baptism, is able to overcome the snares of the devil and to conquer the desires of the flesh, unless he has received perseverance in good conduct through the daily help of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab27",
+   "text": "CHAP. XXV. — Free choice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.27",
+   "text": "That no one uses free choice well except through Christ, the same teacher proclaims in the letter given to the Council of Milevis, saying: « Take note at last, O teaching of most depraved minds, that freedom itself so deceived the first man that, while he used its reins too indulgently, he fell through presumption into transgression. Nor could he be rescued from this, had not the coming of Christ the Lord, by the providence of regeneration, restored to him the state of his former freedom. »"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab28",
+   "text": "CHAP. XXVI. — Merits."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.28",
+   "text": "That all the efforts, and all the works and merits of the saints are to be referred to the glory and praise of God, because no one pleases him from any other source than from what he himself has given: to this view we are directed by the authoritative rule of Pope Zosimus of blessed memory, when, writing to the bishops of the whole world, he says: « But we, by the prompting of God (for all good things are to be referred to their author, from whom they arise), have referred everything to the knowledge of our brothers and fellow bishops. » This statement, shining with the light of the purest truth, the African bishops revered with such honour that they wrote thus to the same man: « But that which you set down in the letter you had sent to all the provinces, saying: Nevertheless we, by the prompting of God, etc., we take as said in such a way that, passing by as if in haste, you cut off with the drawn sword of truth those who exalt the freedom of human choice against the help of God. For what have you done so freely by choice as referring everything to the knowledge of our lowliness? And yet you faithfully and wisely saw, and truly and confidently said, that it was done by the prompting of God. Surely for this reason, because the will is prepared by the Lord (Prov. 8:35, according to the Septuagint), and he himself touches the hearts of his sons with fatherly inspirations so that they may do something good. For as many as are led by the Spirit of God, these are sons of God (Rom. 8:14); so that we may neither feel that our own choice is lacking, nor doubt that in each and every good movement of the human will his help prevails the more. »"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab29",
+   "text": "CHAP. XXVII. — Whatever is good is from God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.29",
+   "text": "God so works from the hearts of human beings and in free choice itself that holy thought, devout counsel and every movement of good will is from God, because through him we can do something good, without whom we can do nothing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab30",
+   "text": "CHAP. XXVIII. — The power of grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.30",
+   "text": "Whoever says that the grace of God, by which we are justified through Jesus Christ our Lord, avails only for the remission of sins already committed, and not also as the help of grace so that they are not committed, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab31",
+   "text": "CHAP. XXIX. — Understanding comes from grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.32",
+   "text": "Whoever says that the grace of God through Jesus Christ helps us not to sin only in this, that through him the understanding of the commandments is revealed and opened to us, so that we know what we ought to seek and what to avoid, but that through it we are not granted also to love and to be able to do what we have recognised must be done, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab32",
+   "text": "CHAP. XXX. — The prayers of priests."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.33",
+   "text": "Let us also consider the sacred mysteries of the priestly supplications, which, handed down by the apostles, are celebrated uniformly throughout the whole world and in every catholic Church, so that the law of praying may establish the law of believing. For when the leaders of the holy peoples carry out the embassy entrusted to them, they plead the cause of the human race before the divine mercy, and, with the whole Church groaning with them, they ask and pray that faith may be given to unbelievers, that idolaters may be freed from the errors of their impiety, that the light of truth may appear to the Jews when the veil of the heart is taken away, that heretics may come to their senses by receiving the catholic faith, that schismatics may receive the spirit of renewed charity, that the remedies of penance may be granted to the lapsed, and finally that the hall of heavenly mercy may be opened to catechumens brought to the sacraments of regeneration. That these things are not asked of the Lord perfunctorily or in vain is shown by the outcome of the things themselves, since God deigns to draw very many from every kind of error, whom, rescued from the power of darkness, he transfers into the kingdom of the Son of his love, and from vessels of wrath makes vessels of mercy. This is felt to be so entirely the work of God that thanksgiving and confession of praise are always offered to God who brings it about, for the enlightenment or correction of such people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab33",
+   "text": "CHAP. XXXI. — Exorcism and breathing out."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.34",
+   "text": "We also do not look with idle regard on what the holy Church does uniformly throughout the whole world concerning those to be baptised. Whether little children or young people come to the sacrament of regeneration, they do not approach the fountain of life before the unclean spirit is driven away from them by the exorcisms and exsufflations of the clergy, so that it may then truly appear how the prince of this world is cast out (John 12:31), and how the strong man is first bound and then his vessels are plundered (Mark 3:27), transferred into the possession of the victor, who leads captivity captive and gives gifts to men (Ps. 67:19)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab34",
+   "text": "CHAP. XXXII. — Grace and free choice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.35",
+   "text": "We profess that God is the author of all good dispositions and works, of all efforts and of all virtues by which, from the beginning of faith, one strives towards God. And we do not doubt that all of a person's merits are preceded by his grace, through whom it comes about that we begin both to will and to do something good. By this help and gift of God free choice is certainly not taken away but set free, so that from dark it becomes bright, from crooked straight, from sick healthy, from imprudent provident (Phil. 2:13). For so great is the goodness of God towards all people that he wills his own gifts to be our merits, and for what he has bestowed he will give eternal rewards. For he works in us so that we both will and do what he wills; and he does not allow to lie idle in us what he gave to be exercised, not neglected, so that we too may be co-workers with the grace of God. And if we see anything in us growing feeble through our own slackness, let us run back anxiously to him who heals all our sicknesses and redeems our life from destruction, and to whom we say daily: Lead us not into temptation, but deliver us from evil (Matt. 6:13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab35",
+   "text": "CHAP. XXXIII. — Adam at first immortal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.37",
+   "text": "Whoever says that Adam, the first man, was made mortal, so that whether he sinned or did not sin he would die in the body, that is, leave the body, not as the desert of sin but by the necessity of nature, let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab36",
+   "text": "CHAP. XXXIV. — On baptising little infants."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.38",
+   "text": "Whoever denies that little children newly come from their mothers' wombs are to be baptised, or says that they are indeed baptised for the remission of sins, but draw from Adam nothing of original sin to be expiated by the washing of regeneration, from which it follows that in them the form of baptism for the remission of sins is understood to be not true but false, let him be anathema. For what the Apostle says, Through one man sin entered into the world, and through sin death, and so it passed into all men, in whom all sinned (Rom. 5:12), is to be understood in no other way than as the catholic Church spread everywhere has always understood it. For because of this rule of faith even little children, who have not yet been able to commit any sins in themselves, are truly baptised for the remission of sins, so that what they contracted by generation may be cleansed in them by regeneration."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab37",
+   "text": "CHAP. XXXV. — We are all truly sinners."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.39",
+   "text": "As to what the holy apostle John says: If we say that we have no sin, we deceive ourselves, and the truth is not in us, whoever thinks it should be taken so as to say that out of humility we ought not to say that we have no sin, not because it is the truth, let him be anathema. For the apostle goes on and adds: But if we confess our sins, he is faithful and just to forgive us our sins and cleanse us from all iniquity (1 John 1:8–9). Here it is quite clear that this is said not only humbly but also truthfully. For the apostle could have said: If we say, We have no sin, we exalt ourselves, and humility is not in us; but when he says: We deceive ourselves, and the truth is not in us, he shows clearly enough that whoever says he has no sin speaks not what is true but what is false."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab38",
+   "text": "CHAP. XXXVI. — All must pray for the forgiveness of sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.40",
+   "text": "Whoever says that in the Lord's Prayer the saints say Forgive us our debts (Matt. 6:12) not so as to say it for themselves, because this petition is no longer necessary for them, but for others among their people who are sinners; and that for this reason each of the saints does not say Forgive me my debts, but Forgive us our debts, so that the just man is understood to ask this for others rather than for himself, let him be anathema. For the apostle James was holy and just when he said: For in many things we all offend (James 3:2). For why was all added, except so that this statement might agree with the psalm where we read: Do not enter into judgement with your servant, for no one living will be justified in your sight (Ps. 142:2)? And in the prayer of the most wise Solomon: There is no man who does not sin (Eccles. 7:21). And in the book of holy Job: He seals [it] in the hand of every man, so that every man may know his weakness (Job 37:7). Hence also Daniel, holy and just, when in prayer he said in the plural: We have sinned, we have done iniquity (Dan. 9:5), and the rest that he confesses there truthfully and humbly, lest it be thought, as some suppose, that he said this not of his own sins but of his people's, afterwards said: When I was praying and confessing my sins and the sins of my people to the Lord my God. He did not wish to say our sins, but said both his people's and his own, since as a prophet he foresaw that there would be these people who would understand so badly."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab39",
+   "text": "CHAP. XXXVII. — Debts are forgiven even to the saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.41",
+   "text": "Whoever hold that the very words of the Lord's Prayer, where we say Forgive us our debts (Matt. 6:12), are said by the saints in such a way that this is said humbly, not truthfully, let him be anathema. For who would tolerate one who prays and lies not to men but to the Lord himself, who says with his lips that he wishes to be forgiven, and says in his heart that he has no debts to be forgiven him?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab40",
+   "text": "CHAP. XXXVIII. — The fall of Adam."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.42",
+   "text": "If anyone says that through the offence of Adam's transgression man was not changed for the worse as a whole, that is, in body and soul, but believes that, with the freedom of the soul remaining unharmed, only the body was made subject to corruption, he is deceived by the error of Pelagius and opposes Scripture, which says: The soul that has sinned, it shall die (Ezek. 18:4); and: Do you not know that to whom you obey, and by whom someone is overcome, to him he is made a slave (Rom. 6:16; 2 Pet. 2:19)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab41",
+   "text": "CHAP. XXXIX. — The sin of Adam in his descendants."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.43",
+   "text": "If anyone asserts that Adam's transgression harmed him alone and not also his offspring, or at any rate declares that only the death of the body, which is the penalty of sin, and not also sin, which is the death of the soul, passed through one man into the whole human race, he will ascribe injustice to God, contradicting the Apostle, who says: Through one man sin entered into the world, and through sin death, and so it passed into all men, in whom all men sinned (Rom. 5:12)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab42",
+   "text": "CHAP. XL. — Grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.44",
+   "text": "If anyone says that the grace of God can be conferred through human invocation, but not that grace itself brings it about that it is invoked by us, he contradicts the prophet Isaiah, or the Apostle saying the same: I was found by those who did not seek me; I appeared openly to those who did not ask for me (Isa. 65:1; Rom. 10:20)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab43",
+   "text": "CHAP. XLI. — Good will is from God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.45",
+   "text": "If anyone contends that God waits for our will in order that we may be cleansed from sin, but does not confess that even our willing to be cleansed comes about in us through the infusion and working of the Holy Spirit, he resists the Holy Spirit himself, who says through Solomon: The will is prepared by the Lord (Prov. 19:14, according to the LXX). And the Apostle, who preaches for our salvation: It is God who works in us both to will and to accomplish according to [his] good will (Phil. 2:13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab44",
+   "text": "CHAP. XLII. — Grace works all things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.46",
+   "text": "If anyone says that, as the increase, so also the beginning of faith and the very disposition of belief, by which we believe in him who justifies the ungodly and come to the regeneration of holy baptism, is in us not through the gift of grace, that is, through the inspiration of the Holy Spirit correcting our will from unbelief to faith, from ungodliness to godliness, but naturally, he is shown to be an adversary of the apostolic teachings, since the blessed apostle Paul says: We are confident that he who began a good work in you will bring it to completion until the day of Christ Jesus (Phil. 1:6). And this: To you it has been given for Christ's sake not only to believe in him but also to suffer for him (Phil. 1:29). And: By grace you have been saved through faith, and this not from yourselves, for it is the gift of God (Eph. 2:8). For those who say that the faith by which we believe in God is natural in a way define all who are strangers to the Church of Christ as believers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab45",
+   "text": "CHAP. XLIII. — That all things are owed to grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.47",
+   "text": "If anyone says that mercy is conferred on us by God when, without the grace of God, we believe, will, desire, strive, labour, ask, seek, knock, but does not confess that it comes about in us through the infusion and inspiration of the Holy Spirit that we believe, will, or are able to do all these things as we ought; and either makes the help of grace dependent on human humility or obedience, and does not agree that it is the gift of grace that we are obedient and humble, he resists the Apostle, who says: For what do you have that you did not receive (1 Cor. 4:7)? And: By the grace of God I am what I am (ibid. 15:10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab46",
+   "text": "CHAP. XLIV. — That man can do nothing without God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.48",
+   "text": "If anyone affirms that by the strength of nature he can think, as is fitting, or choose any good thing that pertains to the salvation of eternal life, or consent to the saving, that is, the evangelical, preaching, without the illumination and inspiration of the Holy Spirit, who gives to all sweetness in consenting to and believing the truth, he is deceived by a heretical spirit, not understanding the voice of God saying in the Gospel: Without me you can do nothing (John 15:5); and that [word] of the Apostle: Not that we are sufficient to think anything of ourselves as from ourselves, but our sufficiency is from God (2 Cor. 3:5)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab47",
+   "text": "CHAP. XLV. — God alone draws man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.49",
+   "text": "If anyone contends that some can come to the grace of baptism through mercy, but others through free choice, which is clearly vitiated in all who have been born from the transgression of the first man, he is shown to be a stranger to the right faith. For he asserts that the free choice of not all was weakened through the sin of the first man; or at least he thinks it so injured that some are nevertheless able, without the revelation of God, to obtain the mystery of eternal salvation by themselves. How contrary this is the Lord himself proves, who testifies that not some, but no one can come to him unless the Father has drawn him (John 6:44). As he also says to Peter: Blessed are you, Simon Bar-Jona, for flesh and blood has not revealed [this] to you, but my Father who is in heaven (Matt. 16:17); and the Apostle: No one can say 'Lord Jesus' except in the Holy Spirit (1 Cor. 12:3)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab48",
+   "text": "CHAP. XLVI. — Free choice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.50",
+   "text": "The choice of the will, weakened in the first man, cannot be repaired except through the grace of baptism; what has been lost cannot be restored except by him who was able to give it. Hence the Truth says: If the Son sets you free, then you will be truly free (John 8:36)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab49",
+   "text": "CHAP. XLVII. — Grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.51",
+   "text": "Human nature, even if it had remained in that integrity in which it was created, would in no way preserve itself without its Creator helping. Hence, since without the grace of God it cannot keep the salvation it received, how will it be able without the grace of God to repair what it has lost?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab50",
+   "text": "CHAP. XLVIII. — Whether grace is nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.52",
+   "text": "Just as the Apostle says most truly to those who, wishing to be justified in the law, have also fallen from grace: If justice is in the law, then Christ died for nothing (Gal. 2:21); so to those who think that the grace which the faith of Christ commends and receives is nature it is most truly said: If justice is through nature, then Christ died for nothing. For the law was already here, and it did not justify; nature too was already here, and it did not justify. Therefore Christ did not die for nothing, so that both the law might be fulfilled through him who said: I have not come to abolish the law but to fulfil [it] (Matt. 5:17); and nature, lost through Adam, might be repaired through him who said that he had come to seek and to save what had been lost."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab51",
+   "text": "CHAP. XLIX. — A recapitulation of the foregoing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.53",
+   "text": "According to the above-written statements of the holy Scriptures and the definitions of the ancient Fathers, we ought, God being gracious, both to preach and to believe this: that through the sin of the first man the human race has been so bent down that no one afterwards could either love God as he ought, or believe in God, or do for God's sake what is good, unless the grace of divine mercy has gone before him. Hence we believe that to the just Abel, and Noah, and Abraham, and Isaac, and Jacob, and to the whole multitude of the ancient saints, that splendid faith which the apostle Paul proclaims in their praise (Heb. 11ff.) was granted not through the good of nature, which had first been given in Adam, but through the grace of God. And we know and at the same time believe that this grace, even after the coming of the Lord, is not held in free choice by all who desire to be baptized, but is conferred by the bounty of Christ, according to what has already often been said, and the apostle Paul proclaims: To you it has been granted for Christ's sake not only to believe in him but also to suffer for him (Phil. 1:29); and this: God, who began a good work in you, will bring it to completion until the day of our Lord (ibid. 1:6); and this: By grace you have been saved through faith, and this not from yourselves, for it is the gift of God (Eph. 2:8). And what the Apostle says of himself: I obtained mercy so that I might be faithful (1 Cor. 7:25). He did not say: because I was, but: so that I might be. And this: What do you have that you did not receive? And this: Every good gift and every perfect gift is from above, coming down from the Father of lights (Jas. 1:17); and this: No one has anything unless it has been given to him from above (John 3:27)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab52",
+   "text": "CHAP. L. — The will of man after baptism."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.54",
+   "text": "This too we believe according to the catholic faith: that after receiving the grace of baptism all the baptized, with Christ helping and working with them, can and ought to fulfil what pertains to the salvation of the soul, if they are willing to labour faithfully. But that some have been predestined to evil by divine power we not only do not believe, but if there are any who wish to believe so great an evil, we say anathema to them with all detestation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab53",
+   "text": "CHAP. LI. — Whence the beginning of merits [comes]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.55",
+   "text": "In every good work it is not we who begin and are afterwards helped through the mercy of God, but he himself, with no good merits preceding, first breathes into us both faith in and love of himself, so that we may both faithfully seek the sacraments of baptism and after baptism be able with his help to fulfil the things that are pleasing to him. Hence it is to be believed most clearly that the so admirable faith both of that thief whom the Lord called back to the homeland of paradise (Luke 23:43), and of Cornelius the centurion, to whom an angel of the Lord was sent (Acts 10:1), and of Zacchaeus, who was worthy to receive the Lord himself (Luke 19:6), was not from nature, but given by the bounty of divine grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab54",
+   "text": "CHAP. LII. — Who are to be held as baptized."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.56",
+   "text": "Baptism is one, but in the Church, where there is one faith, where it is given in the name of the Father, and of the Son, and of the Holy Spirit. And therefore if any have been baptized among those heretics who baptize in the confession of the holy Trinity, and come to us, let them be received indeed as baptized, lest the invocation or confession of the holy Trinity be annulled; but let them be taught fully and instructed in what sense the mystery of the holy Trinity is held in the Church; and if they agree to believe, or consent to confess, being now cleansed by the integrity of the faith, let them be confirmed by the laying on of hands. But if they are little children or dull-witted, who cannot grasp teaching, let those who present them answer for them according to the custom of baptizing; and so, fortified by the laying on of hands and chrism, let them be admitted to the mysteries of the Eucharist. But those who have been baptized among heretics not with the invocation of the holy Trinity, and come to us, we declare ought to be baptized, not rebaptized. For it must not be believed that those were baptized who were not dipped in the name of the Father, and of the Son, and of the Holy Spirit, according to the rule laid down by the Lord, such as the Paulianists, Proclianists, Borborites, Siphori, who are now called Bonosians, Photinians, Montanists, and Manichaeans, and the various offshoots of impiety, or the other plagues of their origin or order, who introduce two principles unknown to themselves, like Cerdo and Marcion; or opposed [principles], like Mani; or three, and barbarous, like the Sethian and Theodosius; or many, like Valentinus; or [hold] that Christ was a man without God, like Cerinthus, Ebion, Artemon, and Photinus. From these, I say, if any come to us, it is not to be asked of them whether they have been baptized or not, but only this: whether they believe the faith of the Church; and let them be baptized with the Church's baptism."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab55",
+   "text": "CHAP. LIII. — On the Eucharist."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.57",
+   "text": "To receive the communion of the Eucharist daily I neither praise nor blame. But I urge and exhort [all] to communicate on all Lord's days, provided the mind is without inclination to sin. For I say that one who still has the will to sin is burdened rather than purified by receiving the Eucharist. And therefore, although someone is stung by sin, if he has no will to sin in future, and, being about to communicate, makes satisfaction with tears and prayers, and trusting in the compassion of the Lord, who is accustomed to forgive sins to devout confession, let him approach the Eucharist fearless and secure. But this I say of one whom capital and mortal sins do not burden; for one who is weighed down by mortal crimes committed after baptism I exhort first to make satisfaction by public penance, and so, reconciled by the judgement of the priest, to be joined to communion, if he wishes to receive the Eucharist not to his own judgement and condemnation. But we do not deny that mortal crimes are also loosed by secret satisfaction; but [only] when the secular dress has first been changed, and zeal for religion has been professed through amendment of life, and with continual, indeed perpetual mourning, God showing mercy, and only on condition that he does the contrary of those things he repents of, and receives the Eucharist on all Lord's days as a suppliant and submissive [man] until death."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab56",
+   "text": "CHAP. LIV. — On penance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.58",
+   "text": "True penance is not to commit things that must be repented of, and to weep for those committed. The satisfaction of penance is to cut away the causes of sins, and not to grant entry to their suggestions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab57",
+   "text": "CHAP. LV. — On the divine promises."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.59",
+   "text": "In the divine promises let us expect nothing earthly or transitory, as the Meletians hope; not the union of marriage, as Cerinthus and Marcion rave; not what pertains to food or drink, as, on the authority of Irenaeus, both Tertullian and Lactantius assent to [the views] of Papias. Nor let us hope that for a thousand years after the resurrection there will be a kingdom of Christ on earth, and that the saints will reign with him in delights, as Nepos taught, who invented a first resurrection of the righteous and a second of the impious; and [taught] that between these two resurrections of the dead the nations ignorant of God are to be preserved in the flesh in the corners of the earth; that after the thousand years of the reign of the righteous on earth, at the instigation of the devil, they are to be stirred up together against the reigning righteous, and, the Lord fighting for the righteous, are to be checked by a rain of fire; and that so, having died, they are to be raised in incorruptible flesh, with the others who died before in impiety, to eternal punishments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab58",
+   "text": "CHAP. LVI. — That no one is saved except by God's agency."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.60",
+   "text": "We believe that no one comes to salvation except at God's invitation; that no one who is invited works out his salvation except with God's help; that no one merits help except by praying; that no one perishes by God's will, but by his permission, according to the choice of [free] choice, lest the freedom of the power once granted to men be forced into servile necessity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab59",
+   "text": "CHAP. LVII. — That evil is not from God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.61",
+   "text": "Evil or wickedness was not created by God, but devised by the devil, who himself also was created good by God. But because, as a rational creature, he was entrusted by God to free choice, and had received the faculty of thinking, he turned the knowledge of good to evil, and by much thinking became the inventor of evil; and what he had lost in himself he envied in others; and, not content to perish alone, he persuaded others, so that he who was the inventor of his own wickedness became also the author of others', and from him evil or wickedness ran through into the other rational creatures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab60",
+   "text": "CHAP. LVIII. — Nothing is unchangeable except God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.62",
+   "text": "From this we know that nothing is unchangeable by nature except God alone, the Father, and the Son, and the Holy Spirit, who cannot be changed from good, because he possesses good by nature, and cannot be anything other than good."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab61",
+   "text": "CHAP. LIX. — Stability in the angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.63",
+   "text": "But the angels who persevere in that blessedness in which they were created do not possess good by nature, [so] that they were not changed with the others, but [by] keeping the good will of [their] choice, and the good of their condition, and faith to their Lord. For this reason they are also rightly called holy angels by the Lord himself, because they held to the holiness of [their] choice, and did not stray from the good by the example of their companions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab62",
+   "text": "CHAP. LX. — Nothing is evil by nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.64",
+   "text": "The true faith, which is the catholic [faith], confesses that the substance of all creatures, whether spiritual or bodily, is good, and that evil has no nature, because God, who is the founder of the universe, made nothing that is not good. Hence even the devil would be good, if he had remained in what he was made. But he who used his natural excellence badly, and did not stand in the truth, did not pass into a contrary substance, but departed from the highest good, to which he ought to have clung."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab63",
+   "text": "CHAP. LXI. — The happiness of the angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.65",
+   "text": "The angelic powers, which remained fixed in divine love when the angels fell through pride, received this gift in recompense: that they are no longer gnawed by any rust of creeping fault; so that they both remain in the contemplation of the Creator with no end to their happiness, and, being so established in this, subsist in eternal stability."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab64",
+   "text": "CHAP. LXII. — The free will of the angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.66",
+   "text": "The angels were created such that, if they wished, they would persist in the light of blessedness. But if they wished, they could also have fallen. Hence Satan too fell with the legions that followed him. But after his fall the angels who persisted were so confirmed that they could not fall at all, because they received the power of unchangeableness so that they would no longer fall at all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab65",
+   "text": "CHAP. LXIII. — Marriage."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.67",
+   "text": "Marriage is good, but for the sake of children, and for the purpose of restraining fornication."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab66",
+   "text": "CHAP. LXIV. — Continence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.68",
+   "text": "Continence is better, but it does not suffice of itself for blessedness, if it is kept for the love of chastity alone, but [only] if it is chosen also with the desire of being free for the Lord; otherwise it seems to be a divorce from marriage rather than a pursuit of chastity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab67",
+   "text": "CHAP. LXV. — Virginity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.69",
+   "text": "Virginity is more excellent than either good, because it overcomes both nature and struggle: nature, by bodily integrity; struggle, by the peace of chastity, which, for the love of purity alone, is at peace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab68",
+   "text": "CHAP. LXVI. — The choice of foods."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.70",
+   "text": "It is good to take food with thanksgiving, and whatever God has prescribed to be eaten. But to abstain from some [foods], not as evil but as unnecessary, is not evil. To moderate their use, however, according to need and season is properly the mark of Christians."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab69",
+   "text": "CHAP. LXVII. — Marriage and food."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.71",
+   "text": "To call marriage evil, or comparable to fornication or debauchery, and also to believe foods evil, or that they cause wickedness in those who take them, is not [the belief] of Christians, but properly of the Hieracites and Manichaeans."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab70",
+   "text": "CHAP. LXVIII. — Merits and abstinence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.72",
+   "text": "To make marriage equal to virginity consecrated to God, or to believe that no merit accrues to those who abstain from wine or meat for love of chastising the body, is not [the belief] of a Christian, but of Jovinian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab71",
+   "text": "CHAP. LXIX. — That the Blessed Virgin was always a virgin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.73",
+   "text": "It must be believed with entire faith that blessed Mary, mother of God Christ, both conceived a virgin, and gave birth a virgin, and remained a virgin after giving birth. Nor should one assent to the blasphemy of Helvidius, who said: 'She was a virgin before giving birth, not a virgin after giving birth.'"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab72",
+   "text": "CHAP. LXX. — On the elements of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.74",
+   "text": "Let us not believe that the elements, that is, heaven and earth, are to be abolished by fire, but changed for the better; and that the figure of the world, that is, its appearance, not its substance, will pass away."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab73",
+   "text": "CHAP. LXXI. — On distributing possessions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.75",
+   "text": "It is good to distribute possessions to the poor with careful management. It is better, with the intention of following the Lord, to give them all at once, and, freed from care, to be in want with Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab74",
+   "text": "CHAP. LXXII. — Impediments to the clerical state."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.76",
+   "text": "The husband of two wives after baptism is not to be ordained a cleric. Nor he who had only one, but [as] a concubine, not a wife. Nor he who took a widow, or a divorced woman, or a prostitute in marriage. Nor he who has mutilated himself in any member of his body, overcome by some indignation, or by just or unjust fear. Nor he who is proved to have taken usury, or is known to have performed on the stage. Nor he who is weeping for mortal crimes in public penance. Nor he who has at any time gone mad, turned to frenzy, or been troubled by affliction of the devil. Nor he who, through ambition, in imitation of Simon Magus, offers money."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab75",
+   "text": "CHAP. LXXIII. — On the relics of the saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.77",
+   "text": "We believe that the bodies of the saints, and especially the relics of the blessed martyrs, are to be honoured most sincerely as if members of Christ, and that the basilicas called by their names are to be visited, as holy places given over to divine worship, with most pious affection and most faithful devotion. If anyone goes against this view, he is held to be not a Christian, but a follower of Eunomius and Vigilantius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab76",
+   "text": "CHAP. LXXIV. — On catechumens who have died, and martyrs not baptized."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.79",
+   "text": "We believe that the way of salvation belongs only to the baptized. We believe that no catechumen, even if he has died in good works, has eternal life, except by martyrdom, in which all the sacraments of baptism are fulfilled. The one to be baptized confesses his faith before the priest, and when questioned answers; this the martyr also does before the persecutor, for he both confesses his faith and, when questioned, answers. The former after confession is either sprinkled with water or dipped; and the latter is either sprinkled with blood or touched by fire. The former receives the Holy Spirit by the laying on of hands of the bishop; the latter is made a dwelling of the Holy Spirit, since it is not he who speaks, but the Spirit of the Father who speaks in him. The former communicates in the Eucharist in commemoration of the Lord's death; the latter dies with Christ himself. The former professes that he will renounce the acts of the world; the latter renounces life itself. To the former all sins are forgiven; in the latter they are extinguished."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab77",
+   "text": "CHAP. LXXV. — How the Eucharist is to be offered."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.80",
+   "text": "In the Eucharist pure water ought not to be offered, as some are deceived by an appearance of sobriety; but wine mixed with water, because there was wine in the mystery of our redemption, when he said: 'I will not drink henceforth of this fruit of the vine' (Matt. 26[:29]); and mixed with water, not because [water] was given after the supper, but because, when water came out with blood from his side pierced by the lance, it is shown that wine from the true vine of his flesh was pressed out with water."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab78",
+   "text": "CHAP. LXXVI. — On human flesh."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.81",
+   "text": "Our flesh is good, and very good, as created by the only good God, and it is not evil, as the Sethian, the Ophite, and the Patrician hold; nor a cause of evil, as Florinus taught; nor compounded of evil and good, as Mani blasphemes. But since it is good by creation, by the choice of the soul it becomes either good or evil for us, not by change of substance, but by the reward of its conduct. For it is this that will stand before the judgement seat of Christ, at which the soul will receive the things proper to the body, according as it has done, whether good or evil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab79",
+   "text": "CHAP. LXXVII. — Resurrection."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.82",
+   "text": "In the resurrection from the dead the form of sex will not be changed; but a dead man will rise in the form of a man and a woman in the form of a woman, lacking, however, the condition of the sexes [as it is] in this life, not the natural appearance, lest it be no true resurrection, if what falls does not rise."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab80",
+   "text": "CHAP. LXXVIII. — The souls of the saints before the Lord's passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.83",
+   "text": "Before the Lord's passion all the souls of the saints were held in the underworld under the debt of Adam's transgression, until by the Lord's authority, through his undeserved death, they were set free from the condition of slavery."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab81",
+   "text": "CHAP. LXXIX. — The souls of the saints after the ascension."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.84",
+   "text": "After the Lord's ascension to heaven the souls of all the saints are with Christ, and on leaving the body they go to Christ, awaiting the resurrection of their body, so that together with it they may be changed to complete and everlasting blessedness, just as the souls of sinners too, placed in the underworld in fear, await the resurrection of their body, so that with it they may be thrust down to eternal punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab82",
+   "text": "CHAP. LXXX. — On the pardon of sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.85",
+   "text": "We believe without doubt that sins are wiped out by penance, even if one repents of what was committed at the last breath of life, and the sins are disclosed by public lamentation, because the purpose of God, by which he decreed to save what had perished, stands immovable; and therefore, because his will does not change, whether by amendment of life, if time is granted, or by confession in supplication, if life is departed straight away, pardon of sins may faithfully be presumed from him who does not will the death of the sinner, but that he turn back from perdition by repenting, and, saved by the mercy of the Lord, live (Ezek. 18:32; 33:11). If anyone thinks otherwise of the most just loving-kindness of God, he is not a Christian but a Novatian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab83",
+   "text": "CHAP. LXXXI. — That thoughts are hidden from the devil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.86",
+   "text": "We are certain that the devil does not see the inward thoughts of the soul; but we have learned by experience that they are inferred by him from the movements of the body and the signs of the emotions. But the secrets of the heart are known only to him to whom it is said: You alone know the hearts of the children of men (3 Kings 8:39)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab84",
+   "text": "CHAP. LXXXII. — Thoughts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.87",
+   "text": "Not all our evil thoughts are always stirred up by the devil's prompting, but sometimes they arise from the movement of our own choice. Good thoughts, however, are always from God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab85",
+   "text": "CHAP. LXXXIII. — How demons take possession of people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.88",
+   "text": "We do not believe that demons, through their energetic operation, enter substantially into the soul, but that they are joined [to it] by attachment and oppression. To enter into the mind is possible only for him who created [it], who, subsisting by nature incorporeal, is able to be contained in his own handiwork."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab86",
+   "text": "CHAP. LXXXIV. — On signs and miracles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.89",
+   "text": "We have learned from God himself that even sinners perform signs, wonders and healings in the name of the Lord; and while they help others by this presumption, they harm themselves through the ambition for human glory, because they glory in what was given, falsely, not in what was owed to merit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab87",
+   "text": "CHAP. LXXXV. — That no one becomes holy by signs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.90",
+   "text": "We rightly believe that a Christian can become renowned by signs and wonders, yet not holy, if he behaves with intemperate and harsh manners; but that by temperate and gentle manners, even without the working of signs, he becomes both holy and perfect and a man of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab88",
+   "text": "CHAP. LXXXVI. — The saints too are sinners."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.91",
+   "text": "No holy and just person is without sin; yet he does not on that account cease to be just or holy, since he holds to holiness in his affection. For we acquire holiness not by the powers of human nature but by the aid of our purpose, through the grace of God. And therefore all the saints truthfully declare themselves sinners, because in truth they have something to lament, if not by the reproach of conscience, certainly by the instability and changeableness of a transgressing nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab89",
+   "text": "CHAP. LXXXVII. — Easter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.92",
+   "text": "Easter, that is, the feast of the Lord's Resurrection, cannot be celebrated before the passing of the spring equinox and the completion of the fourteenth [day of the] moon, [a moon] born in that same month."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.ab90",
+   "text": "CHAP. LXXXVIII. — The soul as the image of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1437.tmp1437.opp-lat1.93",
+   "text": "On account of the new lawgivers, who say that the soul alone was created in the image of God, so that, since God is rightly believed incorporeal, the soul too may be believed incorporeal, we freely confess that the image is found in eternity, the likeness in conduct."
+  }
+ ]
+}

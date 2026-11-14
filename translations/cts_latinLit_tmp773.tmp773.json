@@ -1,0 +1,548 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp773.tmp773",
+ "edition_urn": "urn:cts:latinLit:tmp773.tmp773.ai-claude",
+ "source_edition": "tmp773.tmp773.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Liber Subnotationum In Verba Juliani: AI translation (Claude)",
+  "author": "Marius Mercator",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp773.tmp773.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.head": "Bracketed variant readings from Baluze's edition (e.g. quondam for quidam, sparsim for partim, Dei before Ecclesiam) are omitted from the translation; footnote letters are dropped. 'auditorialis scholasticus' is obscure: probably an advocate (scholasticus) attached to a court of hearing. In §9 'avertit' read as 'evertit' (overturned) and 'obludit' as 'obtudit' (blunted); in §12 'parvi' read as 'parui' (I have obeyed). In §6 'commanipularibus' rendered 'comrades'. 'partim' in §13 (Baluze 'sparsim', here and there) may be the better reading. The Matthew reference printed as xi, 32 is 11:30.",
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.2a": "Ch. II: 'naturam esse peccatum' and 'causam addictae' are difficult; the latter is rendered literally. Ch. II.2: 'devoret Manichaeos' read as 'devorent Manichaei'. Ch. III.1: the edition opens a bracket before 'Deum' that is never closed. Ch. IV.1: 'Phi- Iistion' is Philistion, the mime writer; Lentulus and Marullus are taken to be mime writers. Ch. IV.2: 'Atabulus' is the hot south-east wind of Apulia; 'mafesanus' read as 'male sanus'. Ch. IV.3: 'turpio', 'durio' are uncertain; probably corrupt for terms for stage clowns; rendered loosely. Ch. V: 'Arbitri' presumably Petronius Arbiter; 'detristi' read as 'detrivisti'. Ch. V.1: 'magna vasa' rendered literally; the [Baluz. juri] variant is unclear.",
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.head": "Line 4: 'paululum nos patere' taken as 'if you bear with us a little' (reading pati); the text may be corrupt. Line 5: 'non dilemmatus' and the bracketed variant 'un. et tu nunc err. spiritu' make the parenthesis uncertain; Loxias is Apollo, whose ambiguous oracles to Croesus and Pyrrhus are meant. The sentence 'how are you not a traducianist too...' is awkwardly constructed in the Latin. Line 6: the edition punctuates as a question; rendered as statement. Line 12: 'illas' read with Baluze's 'istos' (they, the infants). Line 14: 'Calumniatum me tibi' is syntactically incomplete; translated as if 'ne... dicas' governs it ('lest... say that I have slandered you').",
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.head": "7.1: 'capitulolxvi' read as 'capitulo lxvi'. 7.4: a word after 'libros' is illegible in the scan ('(??)os'), marked [...]; 'Baluz. ullus' would give 'any shame' rather than 'old shame'. 7.3: 'dicet' read as 'dices', 'did' as 'dici'. 8.5: 'Domni' read as 'Domini'; the citation 'Joan. iii, 6' is given as printed, though the verse is John 3:5. 'Qui nos redemit, salvos fecit' follows the text's form of Titus 3:5.",
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.6": "Section 6: 'constratus' read as 'constratus' (reclining, as at table); 'con- debat' read as 'condebat'. Section 12: 'redemptio- misque' read as 'redemptionisque'. Section 10: 'Humanus sermo' follows the Old Latin form of 1 Tim. 1:15 (Vulgate 'fidelis sermo'). Several scriptural references given in the edition are inaccurate (e.g. 1 Cor. 5:3, Rom. 4:10, Col. 2:15); they are reproduced as printed, except Col. 2:15 in section 17, which seems meant for Col. 2:13.",
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.18": "§20: 'b aliis' read as 'aliis' (stray footnote mark); syntax of the clause is strained. §19: 'Quis quos et quales' is awkward; rendered loosely. §22: 'remissionis scilicet peccatorum' is ungrammatical (genitive); translated as 'of the remission of sins'. §24: Tit. 'I, 24' is a misprint for Tit. 2:14. §25: 'dolens' is evidently an error for 'delens' (blotting out), and has been translated as such. §26: 'versuram solvis' is a proverb meaning to pay one debt by contracting another. §3: the reference given as 1 Cor. 15:12 should be 15:22. §3: 'per gustum ligni vitae' could also be taken with 'peccasset' rather than with 'adipisci'.",
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.4": "In 4, 'trans(??)t' read as 'transiit'. In 5, 'exspectandum sociae' taken as 'it had to wait for its companion'; the sense is sarcastic and the wording may be corrupt. In 6, 'quanam sciat morte et Evam' seems to lack Adam's name ('et Adam et Evam'); supplied in brackets. In 7, 'sepetire' read as 'sepelire'; 'persecutus cum' as 'persecutus sum'; 'loquitar' as 'loquitur'. The text quotes 1 Cor. 15:55 but is referred by the edition to Hos. 13:14. In 8, the Baluze variant 'non sunt' for 'sint' would reverse the sense locally; the main text has been followed.",
+  "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.9": "§14: the quotation is Sallust on Catiline (Cat. 5), the closing proverb Horace, Ars Poetica 139. The sentence 'scis namque... consumit' is syntactically loose in the edition; '[lies]' supplied. Baluze's variant 'ulterius vel unde' is not followed. §13 is awkward Latin; rendered by sense."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.head",
+   "text": "THE BOOK OF SUBNOTATIONS OF MARIUS MERCATOR ON THE WORDS OF JULIAN."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.head",
+   "text": "Preface,"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.1",
+   "text": "WHICH IN THE ANCIENT COPIES IS ENTITLED"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.2",
+   "text": "A Memorandum to the reader against the heresy of Pelagius and Caelestius, and also against the writings of Julian, by Marius Mercator, servant of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.1a",
+   "text": "1. A question against the catholic faith, raised long ago among some of the Syrians, and especially in Cilicia, by Theodore, formerly bishop of the town of Mopsuestia, is still gnawed over among a few of them, very secretly, and is not brought out openly; but it is kept for the time being by those very people who chatter about it, as though [they were] catholics within the Churches. [It is this:] that the progenitors of the human race, Adam and Eve, were created mortal by God, and that by their transgression they harmed none of their descendants, but injured only themselves, and made themselves guilty of [breaking] the commandment before God, but no one else at all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.2a",
+   "text": "2. This foolish question, no less hostile to the right faith, was first brought to Rome, under Anastasius of holy memory, supreme pontiff of the Roman Church, by a certain Rufinus, a Syrian by nation; and, being shrewd, he protected himself from the odium of it, and not daring to put it forward himself, he then deceived Pelagius, a monk of the British race, and thoroughly imbued and instructed him in the aforesaid impious vanity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.3",
+   "text": "3. He soon dared to compose Commentaries on the apostle Paul, and when he came to that very well-known place in the Epistle to the Romans, where it reads thus: Therefore, as through one man sin entered into this world, and through sin death, and so it passed through to all men, etc. (Rom. 5:12), there he said that only those are guilty and held liable for that transgression who have chosen to imitate him in transgressing the commandments of God: not all who have been begotten from his seed through the line of succession; and from this he argues at greater length on the following places of this Epistle, and declares that no man at all has been harmed through generation, or is harmed, by the transgression of Adam's sin; \"But by imitation,\" he says, \"because he sinned first in the human race; and that man becomes guilty and liable who has imitated him by his own will, not by being born, but by sinning.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.4",
+   "text": "4. To this Pelagius Caelestius attached himself, a man of noble birth indeed, and at that time a scholasticus of the audience-court, but by a defect of nature born a eunuch from his mother's womb. Instructed by Pelagius, he drank in this most impious doctrine undiluted, and with unbelievable loquacity made many sharers and accomplices in this madness of his."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.5",
+   "text": "5. For he dared openly and publicly to spread the same man's doctrine everywhere among the peoples in these statements, that is:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.3a",
+   "text": "\"That Adam was made mortal, and would have died whether he sinned or did not sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.4a",
+   "text": "\"That the sin of Adam harmed him alone, and not the human race."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.5a",
+   "text": "\"That infants who are born are in that state in which Adam was before the transgression."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.6",
+   "text": "\"That neither does the whole race of men die through the death of Adam, since neither does the whole race of men rise again through the resurrection of Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.7",
+   "text": "\"That infants, even if they are not baptized, have eternal life.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.8",
+   "text": "These five headings produce a single most impious and abominable doctrine."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.9",
+   "text": "He added besides \"that man can be without sin, and easily keep the commandments of God, since before the coming of Christ there were men without sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.10",
+   "text": "\"And that the Law sends [men] to the kingdom of heaven just as the Gospel does.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.6a",
+   "text": "6. These and other things of the kind also pleased Julian himself and the rest of his comrades. And when, having been learned of and exposed, they had been condemned by ecclesiastical authority together with the aforesaid persons, they were also defended by this same Julian in a multitude of books, and he chose to be counted third in the condemnation alongside Pelagius and Caelestius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.7a",
+   "text": "7. Then against his childish ventures Bishop Augustine of holy memory composed various books at various times, and out of all of them Julian picked one of the two first published, to Valerius, to contradict in four books he completed, addressed to Turbantius; and to the following one he boasts that he responded in eight later volumes sent out to Florus, pretending to be wholly ignorant of the many other works which that holy man had produced on this matter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.8a",
+   "text": "8. In these last eight, having rambled on with horrid loquacity, wishing rather to show himself eloquent and knowledgeable, after countless insults of abuse which he hurled at the aforesaid holy man, he shamelessly, nay now impiously, [dared] to defend those things which, as we have recalled above, he learned to his own ruin from Pelagius and Caelestius; although, just as in the former four books, turning over the same things and always the same, and finding no sensible way out, he filled the parchments or papers with injuries and insults rather than with any reasoning of the right faith. And though this question ought to have been treated with the utmost brevity and by the authority of the holy and divine Scriptures, he wrote out for himself a great deal of twisted and wholly unnecessary material for loquacity, out of which he might both forge impieties and achieve absolutely nothing. For he achieves nothing who devotes his effort to impiety."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.9a",
+   "text": "9. The oft-mentioned holy bishop Augustine overturned his first four [books] in six books of his own; the latter eight also, with his own responses placed under each heading one by one, he so blunted, nay shattered, his empty and leaden daggers with the hammer of catholic truth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.10a",
+   "text": "10. When this work of both of them came into our hands, I read it through very carefully and understood that the whole sum of the foolish, and rather impious, labour of Julian seems to be reduced to one perverse doctrine: namely, that the transgression of Adam and Eve did not make them mortal, nor did their guilt pass to their descendants by succession of origin; but that one becomes guilty only by imitation of those who despised the divine commandments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.11",
+   "text": "11. So, as I said, having read this whole work very carefully, I too have replied briefly, according to the measure of our powers, by attaching Subnotations to his books wherever occasion required, so that the reader, after the trumpet of so great a father and master, not disdaining to take up also our straw pipe, may understand with all brevity that Julian, in working out his very numerous books, spent an empty labour, full rather of boasting along with the utmost impiety."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.12",
+   "text": "12. Indeed, since you too, venerable presbyter Pientius, ordered that I should gather those same Subnotations I mentioned into one body, I have obeyed your commands, not unaware that we shall run into the curses and abuse of that unbridled tongue. But what can the barking of a rabid dog tied up outside the Church do? Let us glory in becoming sharers and companions of such great men, such great ecclesiastical teachers shining throughout the whole world, against whom he hurls such unheard-of, such abominable, such obscene and atrocious curses."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.13",
+   "text": "13. I know indeed that he will also be angry with us about the order of the headings, and, talking more than he usually does, will raise an empty din of words against us, accusing us, namely, that there is no order in what we have said against him. As we have already said, we have attached or applied Subnotations to his perverse doctrines in part; we have not composed any book against him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.1.14",
+   "text": "14. Let him by all means take care, about us, to fill capacious wax tablets in the middle of the crossroads... (Juv. Sat. 1); we, with slenderness of wit, founded in the Christian faith, far removed from the wise of the world, both patiently receive his reproaches together with our Fathers and masters, and refute, convict and lament his deviations from catholic truth by the divine utterances of the Scriptures, not by the art of sophisms."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.head",
+   "text": "THE BOOK BEGINS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.head",
+   "text": "CHAPTER ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.1",
+   "text": "Now the words of Julian from his first book to Florus, heading CXI, thus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.2",
+   "text": "\"But let them run to him who cries out: My yoke is pleasant and my burden is light (Matt. 11), who both grants pardon to the evildoer out of his inestimable goodness, and makes innocence, which he creates good, better by innovating and adopting [it].\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.1a",
+   "text": "1. To this. Besides the answers of the holy man: he does indeed innovate all by creating, but he does not renew all by regenerating, except only those of whom he himself says: Unless one has been reborn of water and the Holy Spirit, he cannot enter the kingdom of heaven (John 3:5). Or as he also says: Unless one has been born anew (ibid.). Hence you are suspected of fraud and deceit, because nowhere in your whole work did you see fit to make mention of renewal; but talk of innovation always comes to your mind. For it is certain that there is a very great difference between innovation and renewal: for what is innovated, as is known to all, can be understood as what never was and has newly come into being; but what is renewed [is] that which certainly already existed and had come to oldness; if it is renewed, it is called renewed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.2a",
+   "text": "2. But neither could it easily be proved that divine Scripture has used this expression, namely innovation; but of renewal it speaks very frequently."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.3",
+   "text": "3. Hear, though unwilling, the apostle Paul saying: As the truth is in Jesus, that you put off, according to your former way of life, the old man who is corrupted according to the desires of error; but be renewed in the sense of your mind, and put on the new man, who has been created according to God in the justice of holiness and truth (Eph. 4:22). Likewise the same: But when the kindness and humanity of God our Saviour shone forth, not by works of justice which we have done, but according to his mercy he saved us through the washing of regeneration and renewal of the Holy Spirit, whom he poured out most richly upon us in Christ (Titus 3:5). Likewise the same: Even if our outer man is corrupted, yet the inner is renewed from day to day (2 Cor. 4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.4",
+   "text": "4. Next hear who are also adopted; hear, I say, not me, but the apostle Peter: You, he says, are a chosen race, a royal priesthood, a holy nation, a people for adoption, that you may proclaim the powers of God, who called you out of darkness into his wonderful light (1 Pet. 2:9). Do you hear what he says? Do you perceive what he proclaims? Namely that those are adopted, so as to become the people of God by adoption, who have been called out of darkness into that wonderful light: from which it follows that unless one has been called out of darkness into that wonderful light, he is not a chosen race, not a royal priesthood, not a holy nation, nor does he deserve to be a people for adoption."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.1.5",
+   "text": "5. Or will you perhaps say, and order, that only grown men, who are called out of darkness into that wonderful light as sinners, only they become the people of God; but little children, set in the light from their very birth and free of darkness, because, as you would have it, they have only been innovated, not renewed from some oldness of sin, are not of the people of God? Which of the Christians would bear you saying such things? Who would not shudder at you, and flee you as a deadly poison when you write these things?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.2.head",
+   "text": "CHAPTER II."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.2.1",
+   "text": "Likewise in book II, heading XVI, the words of Julian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.2.2",
+   "text": "\"But the feeble defence of your opinion multiplies sins, it does not diminish them. This itch, then, of wretched men who are dwindling of their own accord can bring no weight against the very reasoning of truth. But since they assert that natural sin is confirmed by some passages of the Scriptures, and especially of the apostle Paul, etc.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.2.1a",
+   "text": "1. To this. No one says that sin is natural, or is nature, but original; and that it is in nature, not outside nature; and yet that it can be called natural not absurdly or improperly, though not nature: for, deceived yourself, you deceive whom you can. Between original and natural there is some difference; and although what is natural can also be called original, yet what is from origin does not compel one to admit anything as natural. And take an example: nature is every human being, of whatever age, sex and condition; but origin is senator, curial, slave, colonus and barbarian, which are not names of nature but of a condition by origin. So we do not say that sin is nature or natural, but the cause of an origin made over in servitude through sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.2.2a",
+   "text": "2. Although, as we have already said, it cannot exist apart from the nature in which it is, unless you most insanely think it should be sought outside it, or that it has of itself its own substance or nature; and if you think so, may the Manichaeans devour you, who rave with impiety that a nature of evil holds and possesses a sovereignty of its own right, its own state and origin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.3.head",
+   "text": "CHAPTER III."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.3.1",
+   "text": "Likewise in the same heading a little below, the words of Julian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.3.2",
+   "text": "\"It has been shown, therefore, that nothing can be proved through the holy Scriptures which justice cannot defend: for if in the law of God there is the perfect form of justice, its adversary, that is, injustice, is permitted to gain no strength through it; and therefore what reason censures, authority cannot uphold.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.3.1a",
+   "text": "1. To this. I wish you would prove by your reason the virgin's childbearing, or conception without union with a man, [and also God made man, and brought through the growth of the ages of life to the cross: which, since no human reasoning attests it, the authority of the divine utterances upholds through faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.3.2a",
+   "text": "2. So what you say is to be laughed at, or rather wept over in you: \"What reason censures, authority cannot uphold.\" But who could count the testimonies of the Scriptures, so great and so frequent, against this wretched little declamation of yours, in which, since reason can search out nothing, recourse is had to faith, so that eternal salvation may be sought by its authority?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.head",
+   "text": "CHAPTER IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.1",
+   "text": "Likewise in the second book, heading LVIII, the words of Julian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.2",
+   "text": "\"Or if perhaps, since your dogma cannot otherwise stand, you answer that Adam conceived and gave birth from himself, no one will doubt that the Apostle did not think this. But you have shown what you would wish to happen to your own sex.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.1a",
+   "text": "1. To this. Blush, most unhappy man, at such obscenity of a scurrilous, or rather mime-actor's, tongue. You deserve to hear the cheers of the crowd: You alone, you are a Philistion, you alone the Lentulus of the Latins, you alone to be compared with Marullus; for you alone have surpassed the talents of Martial and Petronius."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.2a",
+   "text": "2. Most truly the foulest stench of the Ampsanctus spring, in your own region, the most noxious breath of Lake Avernus, and finally the pestilent blast of the Atabulus of your province have puffed you up, so that, swollen with so many diseases and of unsound mind, or rather made insane, you belched these things, vomited these things, exhaled these things; and would that, since this would have been more useful to you, you had exhaled your breath of life before you uttered with full mouth things so obscene and so full of disgrace!"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.3",
+   "text": "3. What stage buffoon, what clown, or what mimic, with the licence of professed indecency, would publicly utter these things? Are chaste matrons to read you, are honourable and distinguished men? But if they are mindful of decency and modesty, they will shudder and flee from you as from a monstrous viper, such as the hydra is said to have been."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.4",
+   "text": "4. Are you the son of Memor, a bishop of holy and blessed memory? Were you born from the womb of Juliana, a woman of the first rank, than whom you could find nothing more honourable among the most reverend matrons? Far be it, far be it, that I should dare to believe this of you. I would rather believe you the son of their household slaves, and substituted for them, as has often been said and done, and as you rather confirm by such insolence and obscenity of your mouth; or if that is not so, no one will doubt that they degenerated in you, who knows the holy manners, holy life and conduct of those people, and has carefully examined your speech in these writings."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.4.5",
+   "text": "5. After the death of those holy people, you fittingly trained your two sisters in such disciplines of your mouth. We know, we know, what one of them threw at you or reproached you with, when you rose up too severely against the ruin of her chastity, and you, at once struck dumb, did not dare any further to inflict any vexations of your censure on her grief."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.5.head",
+   "text": "CHAPTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.5.1",
+   "text": "Likewise in the same book, heading LIX, the words of Julian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.5.2",
+   "text": "\"For it is not said: There will be two men in one man, but: The two will be in one flesh (Gen. 2); by which term of union that pleasure and desire of those coming together, which, affecting the senses, excites the members and, as that wise man understood, eagerly seeks to make one flesh, is shown to have been instituted by God and implanted in bodies before sin.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.5.1a",
+   "text": "1. To this. You speak elegantly as a buffoon, in your usual way, and in the way in which you have worn out the theatre of Arbiter and Valerius. It is agreed that in those progenitors of the human race there was desire implanted in their nature, which the divine Scriptures usually call not 'lust', as you would have it, but concupiscence of the flesh, by which they would fulfil that: Increase and multiply, and fill the earth (Gen. 1:28). And that: He will cleave to his wife, and the two will be in one flesh (Gen. 2). But if they had kept the divine command, it would not have been for them an immoderate goad, hostile and importunate instigator when its work is not sought, such as it is now, dragging by its force, and often casting down great vessels from the citadel of chastity. Therefore, if it is not such as it naturally had been given by God only for the sake of offspring, as indeed it is not, it has been vitiated: and when it begets with this vice of its own, what is born of vice is vitiated, and therefore needs Christ as physician and restorer."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.head",
+   "text": "CHAPTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.1",
+   "text": "Likewise in the same book, heading LXIII, the words of Julian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.2",
+   "text": "\"For he did not say that sin passed on, but death; death, that is, inflicted by the severity of judgement, the avenger of transgression; pursuing not the seeds of bodies, but the vices of conduct.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.1a",
+   "text": "1. To this. You utter dolt, you have struck yourself with your own dagger: for you want not sin but death to pass on through the seeds, and yet you say that it was \"inflicted by the severity of judgement, the avenger of transgression.\" So let your own words be put back to you. What has this to do with the descendants, who all without exception have died, are dying, and will die, by that very death which passed through to all men, and which is, as you say, the avenger of transgression? For that other thing you say is laughable: that death, which you have said is the penalty of sin, alone passed into the race, without that which was the cause of so great an evil. Here is a fine defender of the just judgement of God, who passes the penalty of the progenitor on to the descendants, though they do not have the cause of his penalty!"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.2a",
+   "text": "2. But I am delighted by what you add: \"pursuing not the seeds of bodies, but the vices of conduct.\" As though you were ordering rather than teaching that no one has died, or dies, or will die, except one who has been an imitator of Adam's transgression. Are you not ashamed of such emptiness? Has there then been no one, nor will there be, nor is there, at least according to the definition of your master Pelagius, which you have defended in so many books, by which you both decree that \"a man can be without sin, and easily keep the commandments of God\"? As we were saying, then, even according to you yourselves, has there been no one through so many ages who, found a stranger to this imitation of yours, did not deserve to receive in himself this penalty of Adam, which you call \"the avenger of transgression, and which was ordered to pursue not the seeds but the vices of conduct\"? And certainly those who you say \"can be without sin, and easily keep the commandments of God\" must be without vices. Lastly, so many thousands of infants, according to you, are born, have been born, and will be born without any vice. Why then are they punished with this death, which was inflicted by the severity of judgement as the avenger of transgression, and which neither its cause has followed, nor, as you say, has passed into any one of them?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.3",
+   "text": "3. Here there has fallen from your hands, so to speak, that excellent definition of your fellow-pupil Caelestius: \"That the sin of Adam harmed him alone, and not the human race.\" This is the Caelestius who is one of those of whom you say this in the first book of your work of four [books] to Turbantius: \"The teachers of our time, most blessed brother Turbantius, and the authors of the wicked sedition which still rages, have resolved to bring about the insult and destruction of the men by whose holy studies they are burned, through the ruin of the whole Church, not understanding how much honour they have conferred on those whose glory they have shown cannot be overthrown except together with the catholic religion.\" Have you so forgotten friendship? Is this how you are accustomed to defend? Or do you now need a patron yourself? And were those deceived who had procured you as their defender?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.4",
+   "text": "4. And let these things have been said by me as by one who did not understand you, so very clever and eloquent, which you too will boast of without any hesitation; but if you persuade yourself of this, you will be greatly deceived. For I have understood you, and I know what you most absurdly think against the steadfast faith of what is right, and I keep in memory the windings of words you use here, and, if you bear with us a little, we will prove these things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.5",
+   "text": "5. You are, of course, abusing the simplicity of Christians who happen upon reading these books of yours: these words of yours are indeed: \"Not sin, but death passed into all men, inflicted, that is, by the severity of judgement, the avenger of transgression.\" Here, here let me hold you for a little while; here let me usefully spend some delay with you. I ask, if you are speaking simply, and not in dilemmas, as Loxias [spoke] to Croesus and Pyrrhus (for the spirit of error is one), how are you not a traducianist too, as you please, and are still permitted, to impose that name on catholic Christians? For not even the death itself which you assign comes, or will come, otherwise than by passing on, or by transmission, as even you agree, [the death] which you also want to be a penalty without desert of penalty."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.6",
+   "text": "6. So to escape these straits, which you, more talkative than eloquent, have made for yourself, you reply in what follows and argue that here you spoke of that death with which Adam was punished after the transgression, which does not destroy bodies, but which comes about in the soul through crimes, by contempt of God, and is eternal, since it drags to eternal punishment; which holy Scripture also signifies, saying: The widow who lives in pleasures is dead (1 Tim. 5:6). And in the Gospel: Let the dead bury their dead (Matt. 8:22; Luke 9:60). And such a death, you will say, I said passed and passes into the descendants of Adam, not into all without exception, but only into those who have been imitators of his transgression, forgetful, as he was, of the divine commandments. But that other death, you will say, which is the dissolution of the body, or the separation of the soul from the body, would have been in Adam even if he had not sinned."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.7",
+   "text": "7. From this come those excellent definitions of your comrade and fellow-pupil Caelestius, and of the master of you both, Pelagius, which together with their persons were long ago condemned throughout the whole world by the authority of the Church: \"That Adam was made mortal, and would have died whether he sinned or did not sin; and that the sin of Adam harmed him alone, and not the human race; and that infants are in the state in which Adam was before the transgression.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.8",
+   "text": "8. From this too was born that last [doctrine] of yours, which you did not fear to bring forth to your own harm: \"Infants, even if they die unbaptised, have eternal life.\" And that more than sacrilegious [saying]: \"Neither does the whole race of men die through the death of Adam, since neither does the whole race of men rise again through the resurrection of Christ.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.9",
+   "text": "9. Are these, then, the magnificent decrees of your teaching, these the doctrines of truth of what you call Christian learning, but we Christians do not?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.3a",
+   "text": "Trappings for the crowd. I know you inside and in your skin. (Persius, Sat. 3.) What good does it do you, as the same poet says, to keep a cunning fox in your stale breast? (Idem, Sat. 5.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.4a",
+   "text": "I shall certainly dig up your most twisting and stinking pits, and by careful investigation drag you into the light, to be exposed to the Christian peoples."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.10",
+   "text": "10. Hear now, both you and those who will deign to read me and you, what you yourself once declared against this most impious, most perverse, most shameless, most wanton opinion of yours, namely in your letter which you dared to send to the apostolic see at that time, when, being summoned, you refused to condemn Pelagius and Caelestius together with the whole Church throughout the world; a letter which, before it came into the hands of the bishop of that holy Roman Church, is known to have been carried around, at your instigation, through almost the whole of Italy by some whom you had deceived, and to have been instilled into the ears of many as something great. For there, among other things, you say thus: \"Whoever, then, asserts that neither does the whole race of men die through the death of Adam, nor does the whole race of men rise again through the resurrection of Christ, thinks against the Apostle, who says: As in Adam all die, so in Christ all will be made alive (1 Cor. 15:22).\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.11",
+   "text": "11. Here we know and grasp with what fraud and with what guile you say and mean 'all', namely not all men without exception, that is, the whole human race, but all those who have chosen to be imitators of Adam; and that through the resurrection of Christ, as that Apostle said, all will rise again, you must likewise without doubt mean that not the whole human race without exception will rise again, but only the just and holy, who have imitated the justice and holiness of Christ; whereas it is agreed that all without exception will rise again through Christ, though some to the kingdom, others to judgement. And you add: \"Rightly, then, is he condemned who contradicts this sentence, which says: Through a man [came] death, and through a man the resurrection of the dead (1 Cor. 15:21)\"; likewise: \"That the sin of Adam harmed him alone, and not the human race: this sentence too,\" you say, \"is rightly refuted by us; for it must be believed that it harmed not him alone, but the human race.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.12",
+   "text": "12. And here too you have not been able to hide from us what you are doing, keeping, as you think, your most perverse and twisted meaning intact: because those very people, as you want to teach, though few in comparison with the whole race, are the human race. Likewise: \"That infants,\" you say, \"are in the state in which Adam was before the transgression, I count among undisciplined questions. For those who are born today are not in every respect in that state in which Adam was before sin, although it cannot be denied that they are the work of God, as he also was.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.13",
+   "text": "13. Here too we know very well what state you mean and intend, keeping, as you suppose, your meaning intact: not, that is, [the state] of the soul before sin, but of the smallness and littleness in which infants are born. Note well that here you said nothing just now about unbaptised little ones, if they are overtaken by death, having eternal life, which is utterly false: because Christ does not will this, nor has he willed it, as your most senseless rashness commands and teaches. Likewise you add: \"That Adam too was made mortal, and would have died whether he sinned or did not sin\"; and you said that this too is not supported by reason. \"For it must be believed,\" you say, \"that he was indeed made immortal, but such that, if he had not sinned, he could have attained the power of immortality by tasting the tree of life\"; so it was wrongly said that \"whether he sinned or did not sin, he would have died.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.6.14",
+   "text": "14. Lest anyone, or you yourself, say that I have slandered you, and that you did not afterwards hold views contrary to these definitions, hear again what is contained in your own words in your book with which we are dealing."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.head",
+   "text": "CHAPTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.1",
+   "text": "Likewise from the same book, heading 66, the words of Julian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.2",
+   "text": "\"Therefore, according to the Apostle, sin entered through one man, and through sin death, since the world saw him both guilty and liable to the condemnation of perpetual death.\" Certainly a moment ago you were saying something else, and denying that sin entered into this world through that one man, whereas now you confess that it entered. \"But death passed through to all men, because one form of judgement embraced all the transgressors of later ages. Yet this death is not permitted to rage either against the saints or against any innocent people; but it spreads only into those whom it has seen imitating the transgression: and this transgression, though it was not made natural, was nevertheless the pattern of sin; and for this reason, though it does not weigh upon those being born, it nevertheless accuses those who imitate [it]. But judicial death passes on in that in which all have sinned, but by free will.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.1a",
+   "text": "1. To this. If this death with which Adam was punished is judicial, and it is the same one that passed and passes to his descendants, not, as you say, to absolutely all, but only to the imitators, what or what kind will be that other [death] which separates the soul from the body? Here, hemmed in, you will say: \"Natural, because Adam would have died whether he sinned or did not sin.\" Behold a Christian pedigree! Behold ancient Church tradition! But you surely see how, contradicting yourself in your own statements, you tear yourself apart like a viper, while you spend empty effort on the rattles of words rather than on any real declamation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.2a",
+   "text": "2. But I should like to question you more closely on what you think about death of any kind, you who at least allow one or other of them to pass on. So I should like you to tell me what death is, which in your judgement passes on. Is it a substance or nature, or some accidental thing? For we remember that at the time when, present in the city of Rome with the leaders of this most insane error of yours, you were stirring up the Church among some of the simpler folk, how you used to ask: \"What is sin,\" you would say, \"something evil, or good?\" Evil, of course, was the answer given you. To this you added: \"Is God the author and maker of this evil?\" Far be it, far be it, they cried out to you; far, as far as can be, be such madness. Not even the most impious Manichee dared to profess this, who neither thinks nor professes that God is the author of evil; but most wickedly insists that it has its own principle from eternity, its own essence and its own nature. Whereupon you yourself then said it must next be asked \"whether sin was a substance, or a nature, or some accidental thing.\" And when Christian simplicity hesitated a little at this, you went on thus: \"Sin can in no way be a substance or nature, because then,\" you said, \"it would have God as its maker and author; for there is no nature which God did not create. But since it was established above that God is not the author of evil, sin, which has most plainly been shown to be evil, is therefore not a substance or nature; and what is not a substance,\" you say, \"must by no right and no reason be believed to pass into a substance or nature, which is what man is\"; and you concluded: \"So it is wrongly and foolishly believed that sin is transmitted by descent from Adam.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.3",
+   "text": "3. As I was saying above, then, allow me also to question you by this route and along the same lines of argument, so that you may teach us by answering. Death, at least this one which concerns the soul and is eternal, which Adam the transgressor received and handed on to his descendants, which you define as passing, alone, to however many, not to absolutely all men in general, as the Apostle says, but to a very few imitators (for of that other one which separates the soul from the body you make no mention), is it some substance, or nature, or some thing accidental to a substance? If you still have any light in you, you will answer and say that it has befallen the substance of nature, and cannot be called a substance, since it was given as a penalty to the first transgressor and thereafter to the human race; and no sensible person, you will say, would call a penalty a substance or nature: whereupon you must at once be caught in your own nets. For it has been declared that that judicial death, which, because it is penal, is no substance, and which you transmit to the descendants, at least to the imitators of Adam, can by no means ever pass from substance into substance, or from nature into nature, which is what man is."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.7.4",
+   "text": "4. Do you see, distinguished teacher of the lost and dialectical disputant, do you see where you have fallen? Do you perceive now at least how far you have strayed from the path of truth? But for the moment, if you have any old sense of shame, let these things suffice: and if God grants a span of life, and allows time to re-examine these excellent books [...] and to reread that most wise letter of yours, we will answer you again when God wills. Meanwhile I shall bring forward other things of yours as well, which we should shun with great execration."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.head",
+   "text": "CHAPTER VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.1",
+   "text": "Likewise from the third of the four books published to Turbantius, near the beginning of the third heading, the words of Julian."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.2",
+   "text": "\"We say that the grace of baptism is not to be changed according to cases, because it dispenses its gifts according to the capacity of those who come to it; and therefore Christ, who is the redeemer of his own work, increases his benefits toward his image with continual bounty, and those whom he had made good by creating, he makes better by innovating and adopting.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.1a",
+   "text": "1. I should like you first to teach and prove, regarding the little ones, whom you confess to be the work of God and deny to be guilty, whence captivity came upon them, so that they need a redeemer? For no one unreasonably offers the price of redemption for a free person. From what oldness, too, are these to be renewed, or, as you would have it, innovated, whom you say are the image of God, if they are not, as you think, defiled by the old foulness of the sin of their forefather Adam?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.2a",
+   "text": "2. But I will press you more closely on the baptism of little ones for this purpose, to convict you by your own definitions of rather holding that they have no need of it, but that you judge that they ought to be baptised only in word, so as to deceive the simple, while in fact you deny it through the conclusions of your disputations. For those who according to you have an unstained state of birth, from what are they to be cleansed when they are washed? And since, as you would have it, they are born liable to no guilt of their origin, from what are they to be freed, so that Christ may truly and properly be Jesus for them also, which in Latin speech is expressed as Saviour? And those who draw no fault from their generation, from what are they to be regenerated?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.3",
+   "text": "3. Finally, leaving aside countless things for now, this must be said against you: if the little ones obtained at their birth this state, as you say, of innocence and purity which Adam had before sin, whom, as you decree, no stain of that same forefather has sprinkled, no contagion has defiled; if, as they grow, with the free choice of the will, which is in nature, up to the final end of life, they have never fallen away from the goods inborn or born with them, what need did they have of Christ's baptism?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.4",
+   "text": "4. Or will you perhaps say, for the sake of the kingdom of heaven, and adoption as sons? For why would such a state, and so great a holiness of life acquired afterwards by their own acts, with their nature preserved, not admit them to that kingdom, or adopt them as sons? But as they rush in, let them hear, as from a temple-keeper and a watchful guardian: Unless someone has been reborn of water and the Spirit, he cannot enter the kingdom of God (John 3:6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.5",
+   "text": "5. But let us look at baptism itself, of what power it is, and how many and how great forces and causes of effects it has. The apostle Paul says of it: Who redeemed us, he saved us through the washing of regeneration and renewal (Titus 3:5). Therefore it is both salvation and redemption and renewal. Will it then be no penalty for unbaptised little ones not to have salvation, redemption, renewal, and finally not to enter the kingdom of heaven (John 3:6), not to be rescued from the power of darkness and transferred into the kingdom of the Son of God's love (Col. 1:13), not to eat the flesh of the Lord and drink his blood (John 6:54)? Of which sacrament the voice of the Saviour is: Unless you eat my flesh and drink my blood, you will not have life in yourselves (John 6:54); which certainly, without any evasion, no one takes without baptism, nor does he become a partaker of that sacrament."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.6",
+   "text": "6. Or do you bid [us], as is your habit, to say here too by evasion that this sentence about taking the flesh and blood of the Lord is not general but specific, namely to those in whose presence he was then speaking? Let Christians hear, let them hear, if you leap to this, and let them answer you on this basis about the Lord's supper, in which, reclining with the apostles alone, he was establishing the sacraments to be observed concerning that same body and blood of his. Do you declare that it was commanded to them alone, and pertains to no one else who either was not present at that supper then, or to all of us who come after? Do you see with what snares, with what straits you are being choked, when you deny that the bond of origin, from which Christ has released absolutely the whole human race, every age, only through these sacraments, in which the washing of regeneration and renewal comes first, is a great evil, a great penalty, and an inescapable damnation?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.7",
+   "text": "7. With these things gathered against so great and so manifest and most impious audacity of yours, it is clear that you, as a follower of Caelestius, who laid down that \"infants, even unbaptised, have eternal life,\" rather deny that little ones ought to be baptised; but, as I have already said, you merely play with words, while in sense you hold an open impiety along with pagans and Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.8",
+   "text": "8. And so that we may prove this clearer than daylight, hear from which titles, with their proper grounds, which Christ conferred on the human race in his benefits, you make the little ones strangers, and [claim] that the Lord Christ Jesus himself owes them none of these, and has bestowed none."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.9",
+   "text": "9. Surely, whether you will or not, Christ is the giver of life: here I will ask, of both soul and body? You, though unwilling, will so confess. I will repeat the question: of every age altogether? You will answer: of every age. I will press more closely: of the little one too? You will say: yes; but hear, I will tell you, in what way he gives life, and, so to speak, by what art? But God, says his herald and Vessel of election, the apostle Paul, who is rich in mercy, because of the great love with which he loved us in Christ, by whose grace we have been saved (Eph. 2:4). What do you think now? He has counted and named the little ones too along with [us]. Or are they outside this compassion and love, because they are not dead in sins, and do they wait for you, a most empty doorkeeper, so that you may admit them to mercy to be given life at the time when he has ceased to have mercy on sinners, so that he may give them life otherwise than others?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.10",
+   "text": "10. But let us pass on from here, for the sake of brevity, to another title, that he is Saviour. Of the Saviour it is thus written in the Gospel: To you is born this day a Saviour in the city of David (Luke 2:11). Hence also in the Greek tongue [he is] properly Jesus; and to Zacchaeus: Today salvation has come to this house, since he too is a son of Abraham (Luke 19:9). Likewise: The Son of Man came to seek and to save what had been lost, he says (ibid., 10). You, without doubt, since you declare that the flocks of little ones have not been lost, [hold that] they are not saved, not sought out: hear this, both about the lost sheep, sought and found, and this about the drachma or handful which had been lost (Luke 15). Likewise the apostle Paul: A human saying, and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am the first (1 Tim. 1:15). From him, you excellent teacher, drive away the crowds of little ones, so that they may not run to him who came to save what had been lost (Luke 19:9); who came not to call the righteous but sinners to repentance (Luke 5:32); who baptises for the remission of sins (Acts 2:38); who seeks the sheep that has strayed (Luke 15:4); who [seeks] the drachma (ibid., 8), that is, the handful which had been lost; who died for sinners (1 Cor. 5:3); who shed his blood for the remission of sins (Eph. 1:7); who was handed over for the sins of men (Rom. 4:25); who was wounded for our iniquities (Isa. 53:5); who bore our sins in his body on the tree (1 Pet. 2:24); who was offered like a sheep for slaughter for our sins (Isa. 53:7); who blotted out the bond of debts (Col. 2:14); who, according to the apostle Peter, suffered, the righteous for the unrighteous, to bring us to God (1 Pet. 3:18); whose blood, according to John the evangelist, cleanses us from every offence (1 John 1:7); who, when we were weak, at the [appointed] time died for the ungodly, as the apostle Paul says (Rom. 5:6); who in the likeness of sinful flesh, by sin, condemned sin in the flesh, as the same Paul is witness (Rom. 8:3); who reconciled us from offence to God the Father, as the same Apostle says again (Rom. 4:10); who gave himself for our sins, and one died for all, to rescue us from the present evil age (Gal. 1:4). And what end will there be, if we review here all the things from which this excellent doctor drives away the countless multitude of little ones?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.11",
+   "text": "11. That he enlightens us, the apostle John says thus: But if we walk in the light, as he himself is in the light, we shall have fellowship with one another, and the blood of Jesus his Son will cleanse us from every offence (1 John 1:7). I ask, with what ears, with what face do you hear that we are cleansed from every offence by the blood of Jesus the Son of God, when you keep infants, having, as you say, no offence, away from this most holy blood?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.12",
+   "text": "12. That he is Redeemer, hear: Giving thanks, says the Apostle, to God the Father, who has made us fit for a share in the lot of the saints in light, who rescued us from the power of darkness, and transferred [us] into the kingdom of the Son of his love, in whom we have redemption, the remission of sins (Col. 1:13). Do you think you will wake up, weighed down by so deep a sleep, and hear what he says, and feel with what shamelessness you said of the little ones, \"Christ, who is the redeemer of his own work,\" when this great herald says that those are redeemed and are being redeemed who have been drawn out, or are being drawn out, of the power of darkness, and are transferred into the kingdom of the love of the Son of God, and that the gift of redemption is not obtained except with the remission of sins? Hear further, whether you will or not, and unwillingly: Who gave himself to redeem us from all iniquity, and to cleanse for himself a people zealous for good works (Titus 2:14). Drive the infants away from here, then, since they are not redeemed from an iniquity which they do not have, nor cleansed, since they have nothing, as you say, from which to be cleansed, so as to be joined to God's people zealous for good works! And indeed under this heading of redemption, if we pursue everything so as to be able to show the abyss of your most empty impiety, when shall we finish? Hence I think it more convenient, to avoid prolixity, to gather as many titles of the Saviour's benefits as we can, and to add, for the fewer of them, a few select testimonies of Scripture, from which your impiety tries to exclude infants, so that it may be plain to all how harmful you are, and what an enemy of sound and right faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.13",
+   "text": "13. That Christ is liberator, that [he is] mediator, that [he is] propitiation: I would like you to state the ground of mediation for a little one, whom you deny to have any ground of offence; you would also [have to] state the access to propitiation for one whom you decree to have no fault, for whose remission God might be propitiated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.14",
+   "text": "14. That [he is] physician, who is needed only by those who are ill (Mark 2:17)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.15",
+   "text": "15. That [he is] reconciler, hear Paul saying: For if, when we were enemies, we were reconciled to God through the death of his Son, much more, being reconciled, shall we be saved in his life (Rom. 5:10). Likewise the same: God was in Christ reconciling the world to himself, not counting their sins against them (2 Cor. 5:19). And the same himself: And not only so, but we also glory in God through our Lord Jesus Christ, through whom we have now received reconciliation (Rom. 5:11). With what face do you refuse that little ones should belong to this reconciliation?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.16",
+   "text": "16. That [he is] circumciser, you will hear in what follows. Meanwhile give this infant a foreskin, which you deny he has, so that he may be circumcised."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.17",
+   "text": "17. That [he is] shepherd; but he receives no sheep into his fold which he has not first circumcised: and he certainly circumcises this one, which is dead in offences and the uncircumcision of its flesh, he who came also to the lost sheep (Col. 2:13; Matt. 15:24)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.18",
+   "text": "18. That he is merciful and compassionate, hear Paul the apostle: We too, he says, were children of wrath, just as the rest. But God, who is rich in mercy, because of the great love with which he loved us, even when we were dead in sins, made us alive together with Christ (Eph. 2:4)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.19",
+   "text": "19. That [he is] testator, that [he is] consoler, that [he is] advocate, that [he is] adopting or adopter. Who [adopts], whom and of what kind he adopts, since you have become utterly deaf, let catholic Christians hear the apostle Peter saying: But you are a chosen race, a royal priesthood, a holy nation, a people for adoption, so that you may proclaim the powers of him who called you out of darkness into his wonderful light (1 Pet. 2:9)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.20",
+   "text": "20. That [he is] regenerator; but he regenerates no one except one who contracted a fault in his first origin: for others, who are in a good state, and, as you like to think, in [their] generation, what just cause for regeneration would there be? Or what is there in that [generation] which ought to be amended or corrected, unless perhaps it is something depraved?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.21",
+   "text": "21. That he is justifying or justifier, hear the apostle Paul: As the truth is in Jesus, that you put off, as regards your former way of life, the old man, who is corrupted according to the desires of error. But be renewed in the spirit of your mind, and put on the new [man], who according to God is created in justice and holiness of truth (Eph. 4:23). These, whom you declare to be clothed with no oldness, what will they do if they listen to you? They will not approach the renewer, they will not be clothed with him, having put off oldness, so as to be renewed in the spirit of their mind."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.22",
+   "text": "22. That those who have been baptized are transferred from darkness to the kingdom, hear the apostle Paul: Giving thanks, he says, to God and the Father, who has made us fit for a share in the lot of the saints in light, who rescued us from the power of darkness and transferred [us] into the kingdom of the Son of his love, in whom we have redemption, the remission of sins (Col. 1:13). I ask, with what mouth, or rather with what impudence, did you think these things should be considered otherwise, so as not to be pressed down by the truth of so great a light and the weight of Christian reason? You will therefore separate little ones from this heading too, lest, innocent according to you and established in the light by the merit of innocence, they should seem to be drawn out of the power of darkness. But, most senseless of mortals, they are transferred into the kingdom of the Son of God's love in no other way and not before they have first been drawn out of the power of darkness, and unless they have had redemption, namely, of the remission of sins. And note here: redemption, which you too will speak of and concede, but some fabricated one, I do not know what; but another, which the Apostle says is in the first place nothing other than the remission of sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.23",
+   "text": "23. That he is cleanser or expiator, hear John the Baptist: Behold the Lamb of God, behold him who takes away the sins of the world (John 1:29). What, I ask, does this Lamb signify here, if not a victim for sins, who for his own certainly, whom he expiates when he was offered and is offered daily in his sacraments, grants remission of past and present sins?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.24",
+   "text": "24. Do you then bid little ones, liable for no sin, to say that this sacrifice was of no benefit at all to them, which is known to have been slain only for sins, or for sinners? Rather, you ought to hear what the herald of this victim proclaims in what follows of [his] epistle (1 John 5:7): And the blood of Jesus the Son of God has cleansed us from every offence. Likewise Paul: Who gave himself for us, to redeem us from all iniquity, and to cleanse for himself a people zealous for good works (Tit. 2:14). Where will you turn? Where will you flee, to escape these snares? Do you see, most impudent man, that the blood of this sacrifice is a cleanser of sins, and also redemption from all iniquity, by which he would prepare for himself a people zealous for good works? And you, with brow of iron and heart of stone, separate little ones from the people of God, which, expiated and redeemed, rejoices in so many and such divine rewards."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.25",
+   "text": "25. That he is blotter-out of the bond, hear the apostle Paul: And you, when you were dead in offences and the uncircumcision of your flesh, he made alive together with him, blotting out the bond written in decrees which was against you, which was contrary to you, taking it out of the way, he nailed it to the cross; stripping off the flesh, he led away principalities and powers confidently, triumphing over them in himself (Col. 2:14). What will you build up here, distinguished teacher? Does he in baptism blot out the bond of little ones too? Or, since they have no bond, neither their own nor their father's, do you not care to admit them to this grace of the giver? Let catholic Christians hear here what you think, and whom they ought to understand you to be, I leave to their judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.26",
+   "text": "26. That Christ is life, hear the apostle John: And this is the testimony: that God has given us eternal life, and this life is in his Son. He who has the Son has life; he who does not have the Son does not have life (1 John 5:11), but the judgement of God remains upon him (John 3:36). Come, headlong man! Admit that a little one has this life without baptism. You are stuck here, I believe, and by sticking in the same mud you pay off one debt with another. If, then, he does not have life without this sacrament, the judgement of God remains upon him. From what cause? I do not ask; let the good sense of readers understand."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.8.26a",
+   "text": "26. That [he is] one who refreshes and relieves, the Lord in the Gospel: Come to me, all you who labour and are burdened, and I will refresh you: take my yoke upon you, and learn from me, for I am meek and humble of heart, and you will find rest for your souls. For my yoke is sweet, and my burden light (Matt. 11:28). Will there be any doubt here too that no one hastens to that preacher except one who, burdened with some load, is worn out by labour, so that, laying it down, he may take his light yoke upon himself, meek and humble of heart? And what else is that, as we have said, but the load of sins? Since, as it pleases you, little ones have none, let them not listen to this preacher (whom the Greeks call Ecclesiastes), and let them not care to understand about taking up his meek and light yoke, since they had no burden to lay down. Is it not an abomination for Christians to hear such things? And is it not the ultimate punishment that you are still allowed to chatter, through the negligence of priests?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.head",
+   "text": "CHAPTER IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.1",
+   "text": "A re-examination of the question of death having entered the world through sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.1a",
+   "text": "1. You have, I believe, something to touch and goad you; but if you stir yourself again, I know that, God granting, you will be bound more tightly so that you do not stir further."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.2",
+   "text": "2. Yet I shall still come back, by a necessary consideration, to what was said above, examining more closely what you think about the penalty which the transgression of our first parents merited by divine judgement; and bringing you back to this question, I shall again lay open your abyss. When it has been untangled, and the authority of the divine Scriptures has pressed your throat, you will know that with all your books you have supplied arms to pagans and Jews, but leaden ones indeed; for they could have no strength to overthrow faith in Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.3",
+   "text": "3. But let us see again what they are and of what sort, in which, I ask, what is this error of an inextricable labyrinth? What insoluble riddles of the Theban monster? In your letter which, as we have mentioned, was sent to Pope Zosimus of holy memory, you are displeased with, and condemn, the one who holds that Adam was made mortal, who would have died whether he sinned or did not sin. And you say this is not supported by reason either; for I believe, you say, that he was made immortal indeed, but [as one] who, if he had not sinned, could through tasting the tree of life attain the power of immortality. You add also that he is rightly to be condemned who contradicts the Apostle when he preaches, saying: As in Adam all die, so in Christ all will be made alive (1 Cor. 15:22). And soon you add this other testimony: Through a man death, and through a man the resurrection of the dead (ibid.). When the simple Christian hears these things, believing that nothing of guile, nothing of deceit is being offered, in the manner in which the Church was accustomed to be taught by the apostles, he judges [you] an excellent teacher and his own, and is intent on hearing the rest of the same Apostle's words which you pursue in this case. But you, holding one thing shut in your breast and another ready on your tongue, a new and distinguished disputant, now thrust this into that Work of yours, worked out after so long a time in Cilicia."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.4",
+   "text": "4. By a necessary repetition of the heading, then, let us examine anew what new and unheard-of thing you have brought back from there, after ploughing the sea and touring the East. \"Therefore, according to the Apostle,\" you say, \"through one man sin entered into this world, and through sin death, since the world saw him both guilty and destined to the condemnation of perpetual death.\" And you add: \"But death alone passed through into all men, because a single form of judgement takes in all transgressors, even of the rest of the ages; yet this death is not permitted to rage either against the saints or against any innocent persons, but it spreads,\" you say, \"only into those whom it sees to have imitated the transgression: and this transgression, though it was not made natural, was nevertheless the pattern of sin; and for this reason, though it does not weigh upon those being born, it nevertheless accuses those who imitate [it]: and judicial death passed through in that all sinned, but by free will.\" Are these, then, the more plausible and more refined meanings of the doctrine from there, while those definitions of the earlier time have been thrown away? Or do you have some hidden depth, which is to be expounded to us perhaps from the Brahmans, the Gymnosophists, or the Hyperboreans, or any other nations, if there are such, wiser than the known world?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.5",
+   "text": "5. Let us come, then, to this more recent definition, by which it has pleased [you] that sin entered through one man, and through sin death; but that only death passed through into all men. I ask you not to take advantage of the slowness or feebleness of my wit: you say that two things entered, sin and death; but you will have it that death alone passed through into men, and yet not altogether into all men, very foolishly, because if sin entered and did not pass through, where did that which entered remain? I suppose it had to wait for its companion until it came out, and that too after finishing some business. But if we are acting in earnest, and such a matter is not to be laughed at, then, by your own account, if sin could enter, it passed through; but if it could not pass through, neither did it enter. Or did it enter in order to stand still? But if that is absurd even to say, it passed through, and where could it pass, if not into all men? Then, how imitative sin, as you would have it, should have passage, and original sin not have it, you will never be able to explain. These things cannot be read without laughter, or rather without tears, because you are to be wept over by Christians rather than laughed at. Let us leave it, then, to those who read you, but Christians and prudent men, what they ought to think of your emptiness. For who could even suspect that in your earlier statement you thought otherwise than all those priests of God who, under the presidency of Pope Zosimus of holy memory, condemned Pelagius and Caelestius and you, concerning all these headings on Adam which had previously been rejected and condemned by you, and now, as if gathered up again and stored away, have earned admission into your creed?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.6",
+   "text": "6. Next, on this question, namely of death, let us see what the universal Church (which in the Greek language we call catholic) says and thinks, and teaches her sons, by what death she knows both [Adam] and Eve to have been punished after the transgression. Was it that which separates the soul from the body, and which we know and see to be common to absolutely the whole human race from him onward? Or that which is spoken of with respect to the soul, and is eternal, of which it is written: The widow who lives in pleasures is dead while living (1 Tim. 5:6); and again: Let the dead bury their dead (Matt. 8:22), and whatever else can be brought forward to this understanding? But there is no doubt that they were punished by both, and that Christ brought a remedy for both. For since He remits sins through the washing of regeneration and renewal, and will confer immortality at one time on all through the resurrection of the flesh, which we now hold in hope through faith, it must be believed that the aforesaid forefathers of the human race were condemned by nothing other than a twofold death, and that both pass into the race."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.7",
+   "text": "7. But since this most learned teacher holds and tries to teach that this bodily death was natural to them, and is in like manner natural to us, and that it never passed through by sin, nor can pass through by seed, let us see, as I said, what in the meantime the apostle Paul thought and preached about it. For writing to the Corinthians, when he was treating of the resurrection of the body, to which this death, that is, the dissolution of the body or the separation of the soul from it, is contrary, he speaks thus at greater length: Now I make known to you, brothers, the Gospel which I preach to you, which you also received, in which you are saved; in what terms I preached to you, if you hold [it], unless you believed in vain: for I delivered to you first of all what I also received, that Christ died for our sins according to the Scriptures (1 Cor. 15:1-3). Come now, you who have strayed, declare, if you dare, that the death of Christ, who died for sins, does not concern little children, whom you maintain to be without sins, or that they are not baptised into the death of Christ. And that He was buried, he says, and that He rose on the third day according to the Scriptures, and that He was seen by Cephas, and after these things by the eleven. Then He was seen by more than five hundred brothers at once, of whom many remain until now, but some have also fallen asleep. Then He was seen by James, then by all the apostles. But last of all, as by one untimely born, He was seen also by me; for I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the Church of God. But by the grace of God I am what I am, and His grace in me was not empty, but I laboured more abundantly than all of them, yet not I, but the grace of God with me. For whether I or they, so we preached, and so you believed; but if Christ is preached, that He rose from the dead, how do some among you say that there is no resurrection of the dead? But if there is no resurrection of the dead, neither has Christ risen; but if Christ has not risen, our preaching is empty, and your faith is empty too: and we are also found false witnesses of God, because we have spoken testimony against God, that He raised up Christ, whom He did not raise up. If the dead do not rise, neither has Christ risen; and if Christ has not risen, your faith is vain, and you are still in your sins; therefore those who have fallen asleep in Christ have perished. If in this life only we are hoping in Christ, we are more wretched than all men: but now Christ has risen from the dead, the firstfruits of those who sleep, since through a man death, and through a man the resurrection of the dead; and as in Adam all die, so all will be made alive in Christ, but each in his own order, Christ the firstfruits, then those who are Christ's, who have believed in His coming: then the end, when He has handed over the kingdom to God and the Father; for He must reign until He puts all enemies under His feet; and the last enemy, death, will be destroyed (1 Cor. 15:4-26). Again the same [apostle], a little later: Behold, I tell you a mystery: we shall all indeed rise, but we shall not all be changed. At the last trumpet, for it will sound, the dead also will rise incorrupt, and we shall be changed: for this corruptible must put on incorruption, and this mortal put on immortality, then will come about the saying which is written: Death is swallowed up in victory: where, death, is your sting? where, death, is your contention (Hos. 13:14)? Now the goad of the flesh is sin, and the power of sin the law, but thanks be to God, who has given us the victory, through our Lord Jesus Christ (ibid., 51-57)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.8",
+   "text": "8. Have you heard, you most insane man, do you perceive, you who rage most madly with singular shamelessness and fury? Through a man death, he says. Tell us, what death is this which is preached to have run its course through a man? Is it that one of yours, or the one which the Church knows to be already conquered by the resurrection of Christ, and to be conquered in us also at the end? But, I warn you, lend an ear and hear what follows: For as in Adam, he says, all die, so all will be made alive in Christ. Who has ever doubted that the Apostle here understood no other making-alive than the resurrection of the flesh that is to come in all men? Do you then order that only a very few should rise, and that death be conquered, and at the end to be overcome, only in those who are or have been imitators of Adam in his transgression, into whom that death of yours (for it must always be called yours) was able to pass through, and not in absolutely all men who draw their origin from Adam and Eve, the first transgressors, of a mortality not inborn in them, but acquired through sin? And what is the meaning of this great herald's so lengthy, yet sound and salutary, teaching of words on this matter, if you, a new spirit (which God forbid), are to be listened to? Nor will any opening lie open to you for slandering us, as though we said and held that an equal resurrection, that is, one of the same merit, is to be granted to all: because all, though with different outcomes, yet die by one death, since the plain word of the Apostle teaches us, saying: Each in his own order. And again: We shall all indeed rise, but we shall not all be changed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.9",
+   "text": "9. Let the reader, I ask, go back to what we said against you just above, where we said that our forefathers were punished by both deaths, and let him see what I thought on this heading, and let him stop your jaws with that cornerstone, laid indeed for you as a stumbling-block and a rock of offence."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.10",
+   "text": "10. Yet hear still something that may rouse you to greater rage against us and the Church of God: For whether we are out of our mind, it is for God; or whether we are sober, it is for you. For the love of Christ urges us, judging this, that if one died for all, then all died, and Christ died for all, so that those who live may no longer live for themselves, but for him who died for them and rose again (2 Cor. 5:13), so that he may be Lord of both the living and the dead (Rom. 14:9). Be silent: no one has died, or will die, except through Adam, but as a penalty; no one will rise except through Christ, but one to reign, another to pay eternal punishments: each, as Scripture says (1 Cor. 15:23), in his own order, provided only, as we have often said and cry out against you with the Apostle, that no man at all, in absolutely any age, has died except through Adam, and none will live again in the flesh except through Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.11",
+   "text": "11. Remember also that we hold, and keep as certain in our faith, concerning the two deaths of which we spoke above as best we could: that Christ did not have the one which is according to the soul (and we pray that no one may most insanely say or think [otherwise]), because he was not born as all other men are, from carnal pleasure, but a new generation took place in him, without lust, from a virgin immaculate before the birth and after the birth. Pay attention, reader. But the other, that is, the separation of the soul from the body, he took on voluntarily, not owing it; and if he had not been killed by the crime of the Jews, it could have happened that, long-lived in old age, since this had once pleased him, he would take it on of his own accord, and die, not owing it, for us, that is, for our debt which we contracted in Adam, and for our own [sins] which we have added. Although no Christian at all ought to doubt that the presages of all the prophets about him had rather to be fulfilled, including the cross to be inflicted on him by the murderous fury of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.12",
+   "text": "12. Now go to the gallows with this magnificence of your words, runaway; no one listens to you barking in your rage, no one from the Church follows you as you stray, no one agrees with one so insane. We, concerning the mortality which was given as a penalty to the human race from the transgression of our first parents, and runs through into nature by the seeds, and will run on to the end, until it is said at the blast of that divine trumpet: Death is swallowed up in victory; where, death, is your sting? where, death, is your contention (Hos. 13:14)? — we, with the whole Church of God, with our fathers, the illustrious teachers of the Church, have sworn to this sense of the divine Scriptures, to these words."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.13",
+   "text": "13. With due reverence indeed and fitting honour to Augustine, the bishop of holy and blessed memory, who with his pastoral club scared you off from the Church, drove you out and broke you, these things too, set beside or attached by me to certain headings of your fragments in the codices I read, after reading through this whole Work of yours, as we said at the outset, here and there and wherever it seemed convenient — either you may take note of them, or any reader who wishes may observe them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp773.tmp773.opp-lat1.3.9.14",
+   "text": "14. Nor will you have cause to laugh at the great brevity of this little work of ours, since you ought not to boast of your so numerous books, full of rough loquacity rather than of any matters worthy even of consideration. I do not want you to feign ignorance on this point; for you know that in this question which is debated between us, namely on the mortality of the human race, which through the first transgressors of the divine command has run, and runs, and will run on to the end, universally through the seeds, and which utterly consumes the whole of your case, [you being] like one to be tied to a very strong stake: and if the Christian and prudent reader observes that this case between us, or rather in you, has been extinguished, he will recognise that nothing, absolutely nothing further, has remained to you on which you either ought to have muttered or ought now to mutter; and he will judge that concerning your whole discourse, which you boast to be the height of eloquence, that saying fits and suits you better than the man of whom it was said: \"Enough eloquence, too little wisdom. His vast mind always desired the immoderate, the incredible, the too lofty.\" And concerning your ideas, by which you are lifted up, wandering and vain, the prudent reader will pronounce through the mouth of another age, and will apply everywhere this saying: that the mountains were in labour with you, and from them a ridiculous mouse was born."
+  }
+ ]
+}

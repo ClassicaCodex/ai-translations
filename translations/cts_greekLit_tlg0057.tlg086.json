@@ -1,0 +1,302 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0057.tlg086",
+ "edition_urn": "urn:cts:greekLit:tlg0057.tlg086.ai-claude",
+ "source_edition": "tlg0057.tlg086.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "In Hippocratis vel Polybi Opus de Salubri Victus Ratione Privatorum Commentarius: AI translation (Claude)",
+  "author": "Galen",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0057.tlg086.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.prooemium.head": "Title: 'ΑΛΗΝΟΥ' read as ΓΑΛΗΝΟΥ. In the comment on winter, 'κᾀπὶ καὶ κατὰ' and 'ἐναποστέγει στεγανοῦν' look corrupt; rendered by the evident sense. In the lemma on summer, 'τὰ ἐνιαύσια ποιέοντα' is odd; rendered as 'doing the opposite' (reading τἀναντία), which the sense requires. 'ἰδιώτας' rendered 'laymen' though Galen argues it means private persons managing their own affairs.",
+  "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.4.1": "1.4.1: ἀκραιφνῆ μέθοδον ('pure method') is obscure; the sentence may be corrupt. 1.10.1: 'brief movements' (βραχείας) probably means slow or moderate movements in contrast to quick ones. 1.11.1: πρόπτωσιν taken as 'first contact'; the sense is uncertain.",
+  "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.12.quote1": "In the first comment, the lemma reads οἶνον ... μὴ σφόδρα ψυχρόν but Galen quotes μὴ πάνυ ψυχρόν; rendered both as 'not very cold'. 'Πρώτης συμπλοκῆς' at the end of 1.14.1 is odd ('first grappling'); possibly corrupt. In 1.15 quote, 'θερμὰ' is taken as fevers/heat. 1.14.1 'ἐξ ἅπαντος ... ἐπὶ τροφῇ ... περιλαμβάνων' understood as placing the bath before food; sense uncertain. Kotyle and chous are Greek liquid measures.",
+  "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.19.quote1": "In 1.19.1 the second clause (ἀποῤῥύψαι) is taken as dependent on πρὶν. In 1.20.1 'ὡς ἤτοι πίνειν ἔνεστι' is awkward and may be corrupt; rendered by sense. 'ἔτ᾿ ἀνθρώπου γνώμη ἠγνόηται' also looks corrupt (perhaps a dead man's intention was meant); rendered as 'still unknown'. In 1.23.1 μείζοα read as μείζονα. ἄραδον in the Hippocratic quotation taken as 'disturbance'.",
+  "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.24.quote1": "1.27.1: Galen calls the drink εὔκρατον ('well-mixed'), whereas the lemma prescribes the drinks 'as undiluted as possible' (ἀκρητέστατα); possibly a slip or corruption. 1.28.1: the clause 'that the good condition of athletes [comes] with a filling...' lacks a main verb; the text may be defective. 1.29.1: 'εἰ δὲ ταῦτα' makes no sense as a conditional; read as 'εἰκότως δὲ ταῦτα' ('and reasonably these').",
+  "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.31.quote1": "In the last line Galen's phrase 'τὰς ἀπὸ τοῦ ἐγκεφάλου' omits the noun; 'diseases' is supplied from the lemma. The sentence structure (οὔτε... οὔτε) is somewhat loose in the transmitted text."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.prooemium.head",
+   "text": "GALEN'S COMMENTARY ON THE REGIMEN IN HEALTH FOR LAYMEN BY HIPPOCRATES OR POLYBUS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.prooemium.1",
+   "text": "Galen's preface. This is a single book with its own stated purpose, just like the first part of the whole book before us, in which [the author] discusses the nature of man. For in that part what was promised has been completed, needing no further pretext. In this one, again, he teaches what he set out [to teach] through the whole book. For this reason, once the material between these two books was removed, the whole received a fitting title of its own, which some have given it: On the Nature of Man and Regimen. Just as On the Nature of Man is wholly blameless, and the things inserted between the two books are wholly blameworthy, so the Regimen in Health is blameless in most respects, always keeping to Hippocrates' elementary teaching. In a very few points, however, one might find fault with it. Let it be assumed that it is by Polybus, as many have thought."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.1.quote1",
+   "text": "Laymen should follow this regimen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.1.1",
+   "text": "Which laymen he means has been passed over by those who have expounded the book, at least in the commentaries I have come across. Nor did I myself ever ask about it when reading the book with my teachers. But now that I have set out to write an exposition of it, I have realised that both our teachers and the commentators wrongly omitted to consider which laymen he means. For it is clear that Polybus recommended the regimen written next not to all people, but only to laymen. And indeed, if he wrote his advice for laymen alone, those who expounded the book were wrong to take it without qualification, as though it were said to all people in common. For we find that among the Greeks people are called laymen not absolutely but in relation to something. They say that one man is a layman in this art, another in that pursuit. And sometimes, contrasting with those who govern a nation or a city, or in general do some public business, those who, as it were, manage their own affairs, they have called them laymen. When I considered which of these Polybus here calls laymen, it seemed to me that he plainly separates athletes from other people, since they have one fixed regimen consisting of bread and the eating of meat. Next after them, all who wage war or travel or even fight. For these too cannot choose which foods they should take and which they should not, since each must use whatever he has to hand. And perhaps it is also impossible for those who make hurried journeys of any kind to live as Polybus directs, and in general for those occupied with civic business or in the so-called life of affairs. So the regimen about to be described is only for those who attend to their private affairs, whom they call 'those who manage their own affairs'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.2.quote1",
+   "text": "In winter one should eat as much as possible and drink as little as possible. The drink should be wine as undiluted as possible, the food bread, and all relishes roasted. One should use vegetables as little as possible at this season. For in this way the body would be most warm and dry."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.2.1",
+   "text": "Having stated the main point of the whole regimen, he did rightly to add at the end of the passage why he chooses each of the things mentioned. For he wants to warm and dry the body because of the imbalance of the season's mixture. If it were balanced, as it is in spring, he would have directed that the regimen too be balanced. For things in a balanced condition should be preserved, things in an unbalanced one changed. And change can come about only from the opposite imbalances. A body that is rather unbalanced, either heated or being heated, should be cooled, and one that is chilled or being chilled should be warmed. In the same way, in the case of imbalances of moist and dry, one must remove the morbid excesses by applying opposites, bringing in the opposite imbalance, standing as far from the mean and balanced state as the morbid one stands away. Accordingly, in winter, which is cold and moist in mixture, it is beneficial to eat as much as possible and drink as little as possible. 'As much as possible' is to be understood not in relation to one's capacity but in relation to the other seasons. Likewise 'drink as little as possible', referring the comparison to the other seasons. Similarly it is said that the wine should be as undiluted as possible, in relation to its mixing in the other seasons. But by attending always to the measure suited to the capacity and to the benefit at hand, you will give a balanced amount of wine and food, as also of sleep and exercise and, simply, of all the things physicians call 'practices'. That rather undiluted wine and roast meats warm and dry, compared with barley-cake and vegetables, no one is unaware. Similarly bread too, if compared with barley-cake, will be said to warm and dry. These things, then, should be taken as said by the man by way of example. You yourself will also select among pulses those that warm and dry, such as the lentil; and among vegetables those that have this property, such as cabbage; and likewise among meats, such as those of wild animals and salted ones. All these I too have mentioned for the sake of example. The whole material of foods in detail is set out in three books bearing this title: On the Properties of Foods. Just as these things are well said about the choice and avoidance of foods according to their qualities, so too are the things about the quantity of foods. For one must allow eating the most in winter compared with the other seasons, having learned that it is rightly said in the Aphorisms: 'In summer and autumn people bear food with most difficulty, in winter most easily, in spring second.' And if anyone wishes to learn why this happens, he taught this too in the Aphorisms, saying: 'The bellies are hottest by nature in winter and spring', because the surrounding [air], being cold, shuts in and encloses the innate heat in the depth of the body. In summer, however, this is dispersed through transpiration, and through respiration the surrounding heat is drawn in. By respiration I mean the movement of breath out and in through the mouth, and by transpiration that which occurs likewise through the whole body."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.3.quote1",
+   "text": "When spring comes on, one should drink more wine, and more diluted, and little by little, and use softer and fewer foods; and, taking away bread, add barley-cake; and reduce the relishes on the same principle, and make them all boiled instead of roasted, and in spring now use a few vegetables, until the person settles into the summer [regimen], using all softer foods and boiled relishes and vegetables raw and boiled, and likewise drinks as diluted and as plentiful as possible, and so that the change may not be great, [making it] little by little, not using it suddenly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.3.1",
+   "text": "He said 'more' and 'more diluted', not 'most' or 'most diluted', for the drink to be taken in spring. For he directs drinking the most and most diluted in summer, as having the opposite mixture to that of winter. But spring, just as it has its mixture between the extremes, so it requires a middle regimen, colder and moister compared with winter, warmer and drier compared with summer. From this, then, it is clear how one should understand the regimen he describes for summer and autumn; so it is fitting for me to pass over it, and for those who read it often and attend carefully everything has been said clearly, so as to need no exposition regarding the things said up to this point."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.4.quote1",
+   "text": "In summer one should be nourished on soft barley-cake and on drink diluted and plentiful, and on relishes all boiled, and one must use these when it is summer, so that the body may be cold and soft. For the season is hot and dry and makes bodies burning and parched. One must therefore defend oneself by these practices. On the same principle, just as from winter into spring, so too from spring into summer one should make the transition, taking away from the foods and adding to the drink; and, doing the opposite in this way, make the transition from summer into winter. In autumn, again, making the foods more plentiful and drier, and the relishes on the same principle, and the drinks fewer and less diluted, so that the winter may be good and the person may get through it using drinks less diluted and few, and foods as plentiful and as dry as possible; for in this way he would be most healthy and least chilled. For the season is very cold and moist."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.4.1",
+   "text": "The present sections, for these reasons, need no exegete, since Polybus has made them plain to all, and does not seek any pure method; but as they stand, they are clear by themselves alone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.5.quote1",
+   "text": "For the fleshy, soft and ruddy types it is advantageous to use a drier regimen for the greater part of the year; for the nature of these types is moist."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.5.1",
+   "text": "Just as the differences of the seasons indicate a different regimen, so too do the conditions of the body, to which he has now come after completing his account of the seasons. And just as in the seasons he indicated the appropriate regimen, so too in the forms of the body. For the fleshy, soft and ruddy have become such because of the moistness of their mixture; those disposed in the opposite way, of whom he will speak next, because of dryness. It is fitting, therefore, for the moist to use a drier regimen, and for the dry a moister one. And if this has been said truly, it is plain that the well-mixed too should use a well-mixed regimen. By well-mixed I mean those whom people call neither fleshy nor fleshless, but well-fleshed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.6.quote1",
+   "text": "The firm, the drawn-in, the reddish and the dark should be kept on the moister regimen for the greater part of the time; for such bodies are dry."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.6.1",
+   "text": "The signs of the mixtures have been written by me completely in the treatises On Mixtures, in which [I showed] that the firm, that is, the hard, and the drawn-in, that is, the lean, are of a drier mixture, as we taught, just as are the dark too. We did not, however, say that the reddish are dry in mixture, but those close to them in colour, whom people call yellow-haired, since yellow bile too is dry in mixture. Some writers of books, by sometimes using names inexactly, confuse the teaching of the facts. Thus some call the Germans yellow-haired, though they are not yellow-haired, if one wishes to name precisely, but reddish. The rest of the passage before us has been said both truly and clearly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.7.quote1",
+   "text": "For young bodies it is advantageous to use softer and moister regimens; for that age is dry and the bodies are firm. But older people should spend the greater part of the time in the drier manner; for bodies at that age are moist, soft and cold."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.7.1",
+   "text": "Passing on to the ages, he made a deficient distinction, not dividing them into four differences but into two only. Yet if he was going to take an indication of the manner of regimen from the mixtures belonging to the ages, then, just as the mixtures are four, so he should have divided the ages into four, calling that of children moist and warm, that of those in their prime dry and warm, that of those past their prime dry and cold, and that of old men moist and cold. But it is fitting that the age of children be moist, since growth cannot occur in another mixture. Whereas for the age of those in their prime, since it is warmer and drier than is proper, it is advantageous to use the opposite regimens, as also for that of those past their prime. Regarding the age of old men there is no small question, neglected by almost everyone, about which I shall speak a little later, after completing the account of the preceding ages. For if it is agreed that children have more moisture than suits those who are healthy without harm, and more warmth (for they are not simply warm like those in their prime, but in respect of the innate heat, which is well-mixed, having its existence in good blood), then the age between children and those in their prime, which is that of adolescents and youths, would be in the best mixture. And since the best is the middle, it is fitting also to make the regimens middle for the mixture, rendering their body neither moister nor drier, nor warmer nor colder. The body of children, however, even if it has more moisture relative to a healthy condition, should nevertheless not be dried; for we shall make them stunted. As for old men, since some say they are moist and others dry, each without distinction, we must distinguish in what respect they are dry and in what respect moist. This was shown in the treatises On Mixtures. For in the solid parts of the body themselves they were shown to be dry; but having many residues because of the coldness of their mixture, they are called moist on account of these. Accordingly, an opposite and twofold indication arises for physicians from this age: because of the dryness of the mixture of the solids they need to be moistened, and because of the excess of fluids to be dried. How one might aim at both has been said completely in the work on hygiene. In the present account it will suffice to state the summary of what we wrote there. Let food and drink and all the rest take as their aim the moist and the warm, since one must moisten and warm the solid parts of the body of old men, which alone are, for those naming properly, parts. But one must again take forethought for the evacuation of the phlegmatic residues. If, then, you gather and learn scientifically from the work on mixtures that the proper mixture of old men is cold and dry, but that they hold an acquired moisture through the generation of phlegmatic residues, and, coming from those to the treatises on hygiene, you learn further how one should regulate the regimen of old men, the lack of distinction in the present passage will be evident to you. For neither should human life have been divided into two, nor should the bodies of old men have been called moist and soft, nor [should it have been said] that they must be fed on foods dry in mixture. However, by saying that the young have firm bodies and are dry in mixture, he has evidently made his account about those in their prime only, and called these 'young'. He therefore omitted the age of children and that of those past their prime, and, as I say, the best-mixed too, which is between children and those in their prime. He himself evidently suspects his own account. For he did not simply say that older people should follow the drier manner, but added 'for the greater part of the time'. This is the same as saying 'not always', which he added neither to the condition of the body nor to any other age; for one should always choose the regimen proper to each body."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.8.quote1",
+   "text": "One must therefore make the regimens according to age, season, habit, region and types, opposing the prevailing heats and cold spells. For so they would be most healthy."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.8.1",
+   "text": "This general statement has been made by him both clearly and truly, and has already been set out by us many times in many [works]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.9.quote1",
+   "text": "And one should walk quickly in winter, but in summer at an easy pace, unless walking through the heat."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.9.1",
+   "text": "He teaches how one should walk in each of the seasons: in winter choosing the walk that dries and warms, and in summer aiming at the opposite, unless, he says, one is walking in the sun. For then one must hurry, to be rid more quickly of the dryness and heat arising in the body from such walking."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.10.quote1",
+   "text": "The fleshy should walk faster, the lean more gently. One should use many baths in summer, and fewer in winter. The firm should bathe more than the fleshy."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.10.1",
+   "text": "Quick movement, increasing the heat further, melts the body. But in brief movements the moderate heat makes both blood-formation and nourishment better, and for this reason assists animals toward good nourishment."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.11.quote1",
+   "text": "In winter one should wear clean clothes, in summer oil-soaked ones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.11.1",
+   "text": "Whether the writer had in mind something more intelligent than what all the exegetes have said, he himself would know. But if he thinks clean clothes should be worn in winter because they warm more, or because they do not hinder transpiration, and oil-soaked ones in summer either because they cool or because they block transpiration, I do not approve the reasoning. For those clean clothes that have a close weave, and especially if they are worn thin, cool; it is better, then, to use these. For oil-soaked ones are altogether dirty, and no cleanly person tolerates dirty clothes, especially in summer. Moreover, oil-soaked clothes, after some time, warm more than clean ones, even if at first contact they are very cold."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.12.quote1",
+   "text": "Those who are fat, and those who wish to become thin, should do all their exertions while fasting, and should set about their food while still panting and not cooled down, and after first drinking wine that is mixed and not very cold. And they should prepare their relishes with sesame or seasonings and other things of that kind. And let the relishes served be rich, for in this way they will be filled from the very smallest quantity of cakes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.12.1",
+   "text": "The phrase said at the end of the passage, \"for in this way they are filled from the smallest [quantity]\", some say was said of all the preceding [instructions], others of the relishes alone, which he bids be prepared with sesame and similar things, and many others. The preceding [instructions] are: to exercise while fasting, for this plainly empties, just as exercise after food fills; and further, besides these, to eat while panting from the exercises, when the heat from them has not yet been dispersed, nor the body cooled. That this becomes a cause of being quickly filled is clearly evident; but whether the author of the book wishes to thin [the body] by some other reasoning, this is unclear to us. That this, however, has been for many the cause of obstructions in the viscera, and especially those in the liver, I know precisely, as indeed sharp exercises after food also are. Moreover, baths too produce obstructions in those who have narrow passages for the nourishment in the liver. I have spoken about these matters, together with the appropriate distinctions, in my treatise on hygiene. It remains to examine the wording itself, in which he says \"and after first drinking wine not very cold\". For he has framed the statement as though bidding it be cold, but not very cold; yet he does not at all think one should drink wine immediately after exercise, but water first, just as athletes also do, taught this by experience. For wine affects the head, especially if it is drunk immediately after the bath, before all other foods and drinks. Nor, indeed, is drinking cold [water] after exercise harmless without first drinking something warm. For it too plainly harms the stomach and the liver, and in some people the nerves as well. Moreover, cold wine also tones up the bodily states, whereas the writer of these words wishes to relax them. Perhaps, then, it was written otherwise, and the copyist erred. For many such things are seen happening even now, and [he wrote] \"not too cold\" when he should have written \"not hot at all\". For one who thinks fit to give food to people while they are still panting, when the body is full of much vapour, will also wish to fill them more by a drink of warm wine. But since the very hot naturally contracts and tones the stomach much as the cold does, he guards against doing this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.13.quote1",
+   "text": "But also to eat one meal a day, to go without bathing, to sleep on a hard bed, and to walk about lightly clothed, as much as is at all possible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.13.1",
+   "text": "It would have been better for him to have said not \"eat one meal a day\" but \"eat little\". For some of those who eat one meal take in far more than those who eat twice. And just as the bath, by heating the body thoroughly, and especially its exterior, contributes to the distribution of nourishment and to the adding on of what has been distributed, by the same reasoning going without bathing assists the opposite effects. And sleeping hard also distresses, compresses and binds the body, and for this reason hinders its growth in every part. By the same reasoning, walking about lightly clothed cools all the parts beneath the skin, and drives the heat into the depth and the viscera, so that the food is well digested, but its conveyance everywhere is hindered."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.14.quote1",
+   "text": "Those who are thin and wish to become fatter should do the opposite of what I said for those others in other respects, and should undertake no exertion while fasting."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.14.1",
+   "text": "The opposite of what was said for the fat is neither to set about food while panting, but when they are already breathing naturally, nor to eat one meal a day, but to eat either twice or even three times. So too, doing the opposite of going without baths, he will bathe twice, always placing the second bath before food, and sometimes the first as well. So too he will take exercises that are short and slow, and after food. By the same reasoning, sleeping softly and not meeting the surrounding air lightly clothed is useful for these people. For this reason, at any rate, trainers include the exercises done with grappling and body-fighting (for that is what they themselves call certain exercises) for those whom they wish to put on flesh, taking care not to exercise them with the body bare and not without grappling. Conversely, those whom they wish to thin they exercise with quick exercise and without the first grappling."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.15.quote1",
+   "text": "Emetics and washings-out of the belly should be used thus: vomit during the six winter months; for this season is more phlegmatic than summer, and the diseases arise about the head and about the region above the diaphragm. But when it is hot, use washings-out. For the season is burning, and the body is more bilious, and heaviness occurs in the loins and in the knees, and there are fevers and colic in the belly. One must therefore cool the body and draw down from these regions what rises up."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.15.1",
+   "text": "What he calls washings-out he himself made clear in what follows, naming those made from milk, water in which chickpeas have been boiled, brine and sea water. For the purging drugs, which empty the whole body, are different from these. Just as bath-attendants speak of washing out the baths, rinsing the mud and dirt from the stones in them, so too the washings-out of the stomach and intestines rinse away the phlegm and bile from them. Since, then, in winter phlegm is generated in the belly, he advises emptying it by vomiting; and in summer drawing down the bile that floats on top above. If, however, you wish to purge the whole body, you should give drugs in summer through the upper belly, and in winter through the lower, as is said in the Aphorisms. For purging cures what is already in excess when it is done through the regions toward which it tends: for one must lead it where it tends, through the appropriate regions. But what you wish to prevent from increasing should be drawn off through the opposite regions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.16.quote1",
+   "text": "Let the washings-out be saltier and thinner for those who are fatter and moister, and richer and thicker for those who are drier, drawn-in and weaker. Among washings-out, the rich and thick ones are those from milk, water in which chickpeas have been boiled, and other such things; the thin and salty ones are brine, sea water, and the like."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.16.1",
+   "text": "He thinks the more cutting ones should be given to the fatter, for these are more phlegmatic, and the smoother ones to the lean, as being more bilious. What the materials of each are he made clear in the following passage, which needs no explanation; so I shall pass it over and turn to what follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.17.quote1",
+   "text": "Vomiting should be done thus: those people who are fat and not lean should vomit fasting, after running or walking quickly, in the middle of the day."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.17.1",
+   "text": "He wants the body of the fat to have been heated thoroughly when they are about to vomit, for the sake of melting the phlegmatic humours, which the fat have in greater amount. And also the opening of the vessels and the loosening of all the fine pores would best come about in this way. All these things are useful for the vomiting to happen easily and painlessly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.18.quote1",
+   "text": "Let there be half a kotyle of hyssop pounded in a chous of water, and let him drink this up, pouring in vinegar and adding salt, so that it may be as pleasant as possible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.18.1",
+   "text": "That he wants the drink to be cutting, and for what reason, is not unclear. For since fat people also have humours that are for the most part thick and cold, and some of them viscous, for this reason he bids their drink be cutting. How large a quantity of the drinks he compounds he gives, I cannot say precisely, because the measure called the chous does not always have the same size among all peoples. If he bids them drink the Attic one, I do not much agree with the custom, for it seems to me a great deal. It was, however, customary for the ancients, whether they chose to use milk whey or some such washing-out, to give a very large quantity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.19.quote1",
+   "text": "Let him drink at first rather slowly, and then faster."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.19.1",
+   "text": "If he drinks greedily at the start, he will vomit at once, before he has drunk it all up and washed off the humours in the stomach, along with which those in the first veins are also emptied out. But if he drinks rather slowly at the start and later drinks more in every way, he will thus be able to hold [it] down for a moderate time, and will be driven to vomit at the right moment because he drinks in greater quantity later."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.20.quote1",
+   "text": "Let the thinner and weaker make their vomiting after food, in the following way. After bathing in hot water let them first drink a kotyle of unmixed [wine], then let them eat foods of every kind, and let them not drink with the food, nor after the food, but let them wait as long as it takes to walk four stades. Then mix three wines and give them to drink, a dry one, a sweet one and a sharp one; at first less diluted, a little at a time and at long intervals, then more watery, faster and in large amounts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.20.1",
+   "text": "He thinks fit that after bathing in hot water one should first drink a less diluted drink, using reasoning of the following kind, as one might guess. From the hot bath the whole body is heated, the humours melt and the vessels become slack; and the less diluted wine brings about these same effects, together with also strengthening the faculty, which he seems to care about most in the case of the lean. Then, he says, let them eat foods of every kind. The reason for this has not been given the same way by all who have expounded the book. For some of them think he gives every kind of food because foods at odds with one another more easily drive [one] to vomit; others, for the sake of taking in more. For simple foods of a single kind quickly fill one up. And he does not let them drink at once, so that the foods do not quickly float on the surface, which he does not want. To prevent this, he also prescribes spending some time in between, enough for nourishment, and he stated the time itself: as long as it takes to walk four stades. After these [people] have been thus prepared, he gives the drink, three wines differing from one another in quality. For he bids one of the wines be dry, another sweet, another sharp, without stating here either the reason why he prescribed thus. Those who divine his intention say that he gives the dry wine for the strength of the organs through which the vomiting will take place, the sweet one so that [the person] may be driven to vomit, and because sweet wine melts the humours, and the sharp one so that it may wash off what is plastered onto the stomach. Perhaps, then, he also bade them take foods of every kind in their qualities so that some may strengthen the stomach, others provoke vomiting, and others wash off the plastered-on humours. What I often say in my gatherings with my students and my other friends, I will say now too. Those men who champion the dogmatic sect seem to me to err in no small way when, without stating the reasoning for what they advise, they pronounce like royal commands. For it would have been better for the writer of the book himself to state the power of each of the things done, as Hippocrates did in On Regimen in Acute Diseases, saying of barley-gruel: 'For its viscous part is smooth, soothing and coherent, slippery and moderately moist, not productive of thirst and easily washed out, if there should be any need of this too, and it has no astringency and no harmful disturbance, nor does it swell up in the belly.' So too he wrote about honey-water, wine and oxymel, and also about baths, so that we have a starting point for the method by which, following the author, we may add some of the things he did not state. Now, then, since he has stated the rest without the reasoning for the cause, and indeed that one should drink the wine at first less diluted, a little at a time and at long intervals, then more watery, faster and in large amounts, we must conjecture the intention with which he wrote. Every conjecture is an uncertain matter in any case, and especially when a man's intention is still unknown. To drink the wine more watery, faster and in large amounts might seem reasonably stated for those who wish to vomit, if indeed the opposite things are suitable for those who wish to hold down and digest their food, namely less diluted, a little at a time and at long intervals. But why he applied first at all the things suited to holding [food] down in someone who is about to vomit a little later, we cannot say anything persuasive. Perhaps what also pleased some of the exegetes seemed persuasive to the man who wrote this: since he wants the faculty of the thin people about whom he writes these things not to be broken down, for this reason he first strengthens it, and only then proceeds to the things that provoke vomiting. But for the strengthening of the faculty the time taken over the eating of the foods was sufficient. One thing seems persuasive to one person and another to another, as I said; it is not marked off as a single thing, like the necessary, which is confirmed by scientific demonstrations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.21.quote1",
+   "text": "Whoever is accustomed to vomit twice a month, it is better for him to make the vomitings on two successive days rather than at intervals of fifteen. But people do quite the opposite."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.21.1",
+   "text": "Of these things too the writer himself ought above all to have added the reasoning, especially since he spoke without qualification about those who vomit twice a month. For I see some vomiting for the sake of evacuation, just as others fast one day a month; and some to purge the humour, either viscous or thick, that has settled in the stomach. And nothing prevents doing both of these at an interval, not on two successive days."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.22.quote1",
+   "text": "For those for whom it is not suitable to vomit up their food, or whose bellies do not pass [their contents] easily, it is beneficial for all of these to eat often during the day, to use foods of every kind and relishes prepared in all manner of ways, and to drink two or three wines. But for those who do not vomit up their food, or who also have moist bellies, it is beneficial for all of these to do the opposite of this way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.22.1",
+   "text": "Vomiting up food is suitable for those who wish either to wash out the belly or to make a moderate evacuation of the whole [body]. He thinks fit that these should eat often and varied things and drink several wines. Conversely, those who do not wish to vomit and have bellies moister than is proper, so as to need restraining, should neither eat often nor take foods and wines of many kinds. For eating once some single kind of food and drinking one wine contributes to the stomach holding them down and digesting them, whereas the opposite things are both harder to digest and harder to keep in the stomach. And depending on the quality of what has been taken and the order in which it was taken, it happens that it either floats on the surface or passes downwards."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.23.quote1",
+   "text": "Infants should be bathed in hot water for a long time, and be given very watery wine to drink, and not at all cold. And give that [wine] which least distends the belly and will cause wind. Do this so that convulsions seize them less, and they become larger and of better colour."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.23.1",
+   "text": "He himself stated the aims of the regimen described: namely so that convulsions seize them less and they become larger and of better colour. For children bathed in hot water stay soft for a longer time, and this contributes to not being convulsed. For Hippocrates himself says that convulsions occur more in tense bodies than in relaxed and slack ones; and soft bodies grow more easily, since they also have easier expansion in every direction. That children who are not caught by convulsions and grow well have a healthy overall condition is plain to everyone. This he has indicated by one sign of no small importance, good colour. He also bids them drink their wine watery, not wishing them to be overheated, especially because they are often convulsed, which in turn happens to them through the weakness of their nerves and their gluttony. For this reason he himself also bids them not drink it cold. That the wine should be of such a kind as is least windy is beneficial to all people in common, not only to infants."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.24.quote1",
+   "text": "Women should be given a regimen in the drier manner. For dry foods are more suitable to the softness of women's flesh, and less diluted drinks are better for the womb and for nourishing the foetus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.24.1",
+   "text": "Having thought fit that women be given a regimen in the drier manner, he himself also described what this manner is. But the man's opinion is open to objection. For if it were contrary to nature for women to be moist, as in badly mixed natures and in those suffering from a moist disease, he would rightly dry them; but since this is natural to them, it should be preserved, unless it should at some time exceed the healthy balance. But this is just what we consider in the case of men too. For it is natural for them also to be drier than women. But when they go further than the proper dryness, then we correct their bad mixture by means of the opposites."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.25.quote1",
+   "text": "Those who exercise should both run and wrestle in winter; in summer they should wrestle a little and not run, but walk a great deal in the cool."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.25.1",
+   "text": "He teaches differences of exercises suited to the seasons: in winter those able to heat and dry, and in summer the reverse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.26.quote1",
+   "text": "Those who are fatigued from running should wrestle; and those who are fatigued from wrestling should run. For in this way the part of the body that is fatigued from the toil would best be warmed through, firmed and rested."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.26.1",
+   "text": "If everything had been written in this way by the dogmatic physicians, the commentators would have had no occasion for long-windedness. I mean in such a way as to add the cause for which he bade us act in some particular way, which is what Polybus has now done."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.27.quote1",
+   "text": "Those who are especially seized by diarrhoea while exercising, with stools full of food and undigested, should have their exercises reduced by not less than a third part, and should take half their food. For it is plain that the belly cannot warm [the food] together so that the quantity of food that goes in is digested. Let the food for these be bread baked as thoroughly as possible, crumbled into wine, and drinks as little as possible and as undiluted as possible, and let them not take walks after the meal. They should eat one meal a day during this time, for in this way the belly would best be warmed and would master what goes in. This kind of diarrhoea occurs especially in the close-fleshed, when the person is forced to eat meat while his nature is of this kind. For the veins, having become dense, do not take up the food that goes in."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.27.1",
+   "text": "He does not seem to be speaking now about those who exercise for the sake of health, but about those who pursue some athletic practices and can neither stop it entirely nor reduce it to a very small amount; for this reason he takes from them a third part of their exercise and half of their food. For he hopes that by so much he will master it, so that they no longer fail to digest and suffer diarrhoea. And he did rightly here too in adding his reasoning, using which he advised both these things and the things said along with them. For this kind of diarrhoea, he says, occurs in the close-fleshed when they are forced to eat meat, making clear here that his discourse is about athletes. For they force these men to eat meat. Then next he says: the veins, having become dense, do not take up the food that goes in. He said this unclearly, and for this reason the commentators were compelled to suppose that by \"having become dense\" he means having become hard and hard to distend, so as not to admit the nourishment, and they say this is signified by \"they do not take up the food\". But this tends to harm distribution rather than digestion, so that such people pass moist stools, yet not undigested ones. Yet he said earlier that such people pass stools full of food and undigested. And when, even though he has added the reasoning trusting in which he advised what he advised, some puzzle nevertheless remains, what must one think happens in those passages in which he did not add the cause of what he bids us do? For my part, if he had not added the remark about the close-fleshed, I would admit that I was entirely at a loss, as in many other places in which, though the author has added nothing of the kind, the commentators most rashly declare whatever comes into their heads. But since he himself mentioned the close-fleshed, he gave us occasion to write something useful ourselves concerning such natures. For these people very quickly accumulate a surplus, since they transpire deficiently; and for this reason, since their distribution is held back, their stools are always moist, and sometimes not only moist but also thin, especially in gluttons. For when some of what has been swallowed is distributed, the stomach more readily digests the remainder. But when the quantity of food remains in it, whenever it is weighed down by it, it rids itself of it all before it is digested. Perhaps also the distribution of the nourishment was hindered by the hardness of the veins, since they cannot expand further. But he ought to have written the care of such natures by means of leading them towards the opposite. For the aims are the rarefaction and softening of the whole condition, brought about by gentle rubbing and much oil in the baths. He, however, stops at the symptom alone, omitting to cut out, as it were, its root. And this too is said by him in the present passage: for it is plain that the belly cannot warm [the food] together. And yet, if he truly blamed the density of the condition and the veins not taking up the nourishment, he is not right to blame the belly. If one were to grant that he speaks truly in this, one would also grant that the regimen written next is rightly stated, the thoroughly baked bread and the well-mixed drink; and to a lesser degree also the single meal and not walking after food."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.28.quote1",
+   "text": "This nature is quick, and turns in either direction, and good condition is at its peak for a short time in bodies of this sort."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.28.1",
+   "text": "He called the nature of the close-fleshed \"quick\", as equivalent to making its changes rapidly. At any rate, he will add: and turns in either direction, that is, both towards good condition and towards the opposite. And next he says further: and good condition is at its peak for a short time in bodies of this sort. For it was shown in the commentaries on the Aphorisms that the good condition of athletes [comes] with a filling of blood and flesh, preserving the strength of the natural faculties. But just as there we showed that extreme good condition is precarious, though it does not arise quickly in loose-textured bodies, so too in the close-fleshed, since it arises very quickly, being forced, evidently because it is hard to bear, to change at once, it makes both its coming into being and its dissolution quick."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.29.quote1",
+   "text": "But the looser-textured and hairier kinds both tolerate meat-eating and endure hardships better, and their good conditions last longer."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.29.1",
+   "text": "That the hairier bodies have looser-textured skin and fleshy parts we learned in the books On Mixtures. These, then, he reasonably says tolerate meat-eating better, since they transpire, and hardships too; for they are less caught by fatigue. This too we learned in the works on health. And [reasonably] these will also have longer-lasting good conditions, since they do not readily reach the extreme."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.30.quote1",
+   "text": "And those who belch up their food the next day and whose hypochondria are distended, since the food is undigested, benefit from sleeping a longer time, but their bodies should be compelled by other hardship, and they should drink their wine less diluted and in greater quantity, and take less food during this time. For it is plain that because of weakness and coldness the belly cannot digest the quantity of food."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.30.1",
+   "text": "He did well here in himself adding at the end: for it is plain that because of weakness and coldness the belly cannot digest the quantity of food. For looking to this aim, he tries to heat it thoroughly. And accordingly he advises them to sleep a longer time and to exercise, and to drink their wine less diluted and in greater quantity, and to take less food during that time in which they happen to have failed to digest, so that for the rest, exercising, moving and drinking wine as we have said, they need not reduce the moderate quantity of food at all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.31.quote1",
+   "text": "Those who are seized by thirsts should reduce their food and their hardships, and drink their wine watery and as cold as possible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.31.1",
+   "text": "Here the sign of hot natures is stated in this way, but in the sixth book of the Epidemics in the following passage: in a hot nature, a cold drink, water, rest. For having himself named the mixture of the body, he wrote next the regimen which those so disposed need, having cooling as its chief point. And within this chief point of the regimen the more active [measures] are water-drinking and lack of exercise. In the present passage he named the 'rest' differently, saying 'reduce their hardships' too. And instead of 'drink water' he wrote 'drink their wine watery and as cold as possible', and he seems to me to have advised better here. For a watery and cold drink is not deprived of the power to cool, but has gained in addition the benefits of wine."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.32.quote1",
+   "text": "Those who get pains from the viscera, either from exercise or from some other journeying, benefit from resting without food. And they should use a drink which, entering the body in the smallest quantity, will pass the most urine, so that the veins that run through the viscera are not stretched by being filled. For from such [conditions] growths arise, and fevers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.32.1",
+   "text": "I have gone through all these precepts completely in the treatise on health, and now, as much as serves for reminder, as in what came before, so too will be said on this passage. For many who are without fever are attacked by pains in the viscera, and especially in the liver, when they happen to have exercised or bathed after food; and this comes about through the narrowness of the passages in the organ and the thickness of the humours carried up. For being blocked and held fast in the narrow ends of the veins, where the transfer of blood takes place from the concave parts of the liver to the convex, they hinder the passages and plainly distend the veins in the concave parts of the liver, and when these are so affected they suffer pain without fever. These people should rest for as long as they are in pain, and drink something diuretic and clearing obstructions of the liver. For if they do not pass urine, growths and fevers follow from such causes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.33.quote1",
+   "text": "Those in whom diseases arise from the brain: numbness first seizes the head, and he urinates frequently and suffers the other things that occur with strangury; he suffers this for nine days. And if water or mucus breaks out through the nostrils or the ears, he is freed from the disease and ceases from the strangury. He urinates painlessly, much and white, until twenty days have passed, and the pain leaves the person's head, but when he looks his sight is stolen from him. A man who is intelligent, reckoning that health is worth most to human beings, should know how to help himself by his own judgement in diseases."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1.1.33.1",
+   "text": "Some have reasonably suspected this passage, and some have condemned it entirely, as written neither by Polybus nor, still less, by Hippocrates. For the beginning of the account is wholly undefined, claiming that [diseases] from the brain bring numbness and strangury; nor, if one supposed that he does not declare all diseases from the brain to be of this kind, but only those in which water and mucus flowing through the ears and nostrils ended the disease, is what is said true; for this is not seen to happen always, nor even for the most part."
+  }
+ ]
+}

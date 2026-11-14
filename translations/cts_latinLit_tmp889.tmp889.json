@@ -1,0 +1,882 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp889.tmp889",
+ "edition_urn": "urn:cts:latinLit:tmp889.tmp889.ai-claude",
+ "source_edition": "tmp889.tmp889.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "In Ecclesiasten Expositio Mystica: AI translation (Claude)",
+  "author": "Salonius Viennensis Episcopus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp889.tmp889.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp889.tmp889.opp-lat1.ab1": "Line 15: 'pacificans omnia ... fecit utraque mium' read as 'fecit utraque unum' (scanning error). Line 15: biblical reference 'Matth. IX, xv et xx' given as printed. Line 25: 'natoque' read as 'necnon et' or similar; rendered 'And'. Line 27: 'Occidit etiam meridie' rendered literally 'sets at midday'. Line 29: 'quae flumina' read as 'quod flumina'.",
+  "urn:cts:latinLit:tmp889.tmp889.opp-lat1.36": "Line 41: cachinnus rendered 'guffaw'. Line 49: 'affigatur' read as affligatur. Line 52 'dedit... habere' rendered literally. Line 59: 'aut eum quem... poterit unquam sanare' is somewhat awkwardly phrased; rendered as a further objection.",
+  "urn:cts:latinLit:tmp889.tmp889.opp-lat1.62": "Line 65: 'ibi venerit' read as 'ubi venerit'; 'baptiste' as 'baptizantes'. Line 78: the edition's reference 'Eccli. IV' should be Eccles. 4. Line 66 opens without 'Eccle. III' reference in the edition.",
+  "urn:cts:latinLit:tmp889.tmp889.opp-lat1.85": "Line 109: 'rep t' is damaged; read as 'respuat' (reject). Line 125: 'c j' read as 'cujus'. Line 111: 'quia ... sumpserit' is loosely construed; rendered as the content of what was named beforehand.",
+  "urn:cts:latinLit:tmp889.tmp889.opp-lat1.129": "Line 141: 'cum' (omnes cum ... traxerunt) is read as 'eum', 'drew him'. Line 167: 'exaltat justitia' may be a misreading of 'exaltat justitiam' ('exalts justice'); rendered as printed.",
+  "urn:cts:latinLit:tmp889.tmp889.opp-lat1.169": "175: 'luci' read as 'luet' (will pay); 'ad i, turam' as 'futuram'. 185: the edition says only that the shell signifies the divinity, leaving husk and kernel unassigned; possibly an omission in the text. 193: 'restruxit' read as 'instruxit'. 191: 'exercent' (stir, rouse) kept as printed; perhaps 'excitant'. 208: 'Quomodo bestia vocatur?' rendered by sense as 'What beast is he called?', given the answer."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.ab1",
+   "text": "THE MYSTICAL EXPOSITION OF BISHOP SALONIUS ON ECCLESIASTES."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.ab2",
+   "text": "SPEAKERS:"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.ab3",
+   "text": "VERANUS AND SALONIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.2",
+   "text": "VERANUS. By how many names was Solomon called?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.3",
+   "text": "SALONIUS. By three, as the sacred Scriptures most plainly teach, that is, Solomon, Jedidiah, and Ecclesiastes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.4",
+   "text": "VERANUS. Why was he called by these names?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.5",
+   "text": "SALONIUS. He was called Solomon, that is, peaceable, because there was peace in his reign. He was called Jedidiah, that is, beloved of the Lord, because the Lord loved him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.6",
+   "text": "VERANUS. In what language is [the name] Ecclesiastes?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.7",
+   "text": "SALONIUS. Greek; for in Hebrew he is called Coheleth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.8",
+   "text": "VERANUS. What does Coheleth, or Ecclesiastes, mean in the Latin tongue?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.9",
+   "text": "SALONIUS. He is properly called Ecclesiastes who gathers an assembly, that is, a church. Hence in the Latin tongue Ecclesiastes is rightly called Concionator [the Preacher to the assembly], because he addresses an assembly, that is, speaks to the people; and his speech is directed not particularly to one person, but generally to all. So in the holy Church the preacher can be called Concionator."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.10",
+   "text": "VERANUS. How many books did Solomon produce?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.11",
+   "text": "SALONIUS. Only three, matching the number of his names: Proverbs, Ecclesiastes and the Song of Songs."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.12",
+   "text": "VERANUS. What does Solomon say in Proverbs, or what does he teach in Ecclesiastes, or in the Song of Songs?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.13",
+   "text": "SALONIUS. In Proverbs he teaches the little one, and through various sayings instructs him as if a son. In Ecclesiastes, however, he trains a man now of mature age, so that he may understand that in the things of this world nothing is lasting, nothing glorious or great, but all the things we see are brief, perishable and vain. In the Song of Songs he joins a man now complete and perfect in all things, and adorned with various virtues, to the embraces of the Bridegroom, that is, of our Lord Jesus Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.14",
+   "text": "VERANUS. But spiritually, what do that Solomon, Jedidiah and Ecclesiastes signify?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.15",
+   "text": "SALONIUS. The Lord Jesus Christ, who is our Solomon, that is, the one who, making peace in all things through his blood, made both one (Eph. 2), that is, built for himself one Church out of two peoples. Hence the Apostle says: Christ is our peace, who made both one. He is Jedidiah, that is, the most beloved Son of the Father, of whom the Father himself says to the disciples: This is my beloved Son, in whom I am well pleased (Matt. 3; Mark 1; Luke 3). He is surely Ecclesiastes, that is, our Preacher, who gathers the assembly, namely the holy Church from the whole world, to which he speaks, saying: Learn from me, for I am meek and humble of heart, and you will find rest for your souls (Matt. 11). This is the son of David, to whom the blind in the Gospel cried out, saying: Have mercy on us, son of David (Matt. 9, 15 and 20). This is also the King of Jerusalem, not the earthly one, but that heavenly one which is the mother of us all."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.16",
+   "text": "VERANUS. What does it mean that Ecclesiastes says: Vanity of vanities, and all is vanity (Eccles. 1), when it is written in the book of Genesis: God saw all that he had made, and they were very good (Gen. 1)? If all that God made is very good, how then is all vanity, and not only vanity, but even vanity of vanities?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.17",
+   "text": "SALONIUS. Heaven and earth, the seas and all that is contained within this circle, are indeed good in themselves, since they were created by a good God; but compared with God they are certainly to be counted as nothing, because God will always remain what he is, whereas all those things will pass away. For the things that are seen are temporal, because transitory; but the things that are not seen are eternal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.18",
+   "text": "VERANUS. Why did he repeat his statement twice, saying: Vanity of vanities, said Ecclesiastes; vanity of vanities, and all is vanity?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.19",
+   "text": "SALONIUS. He repeated his statement to heighten the greatness of the vanities, so as to show by this that all the glory of the world will wither like the flower of the grass, and will pass away like smoke."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.20",
+   "text": "VERANUS. Of which generations does he say: A generation passes, and a generation will come (Eccles. 1)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.21",
+   "text": "SALONIUS. Of the generation of the Jews and the generation of the gentiles. For the first generation, that of the Jews, departs, since it perished through unbelief, and a generation from the gentiles succeeds, namely the holy Church of the faithful gathered together, which is saved through faith in Christ. It can also be understood thus: A generation goes, and a generation comes, that is, as some die, others are born, and those whom you saw before you no longer see, and you begin to see those who had not existed before."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.22",
+   "text": "VERANUS. Why does Solomon say: The earth stands for ever (ibid.), when the Lord says in the Gospel: Heaven and earth will pass away (Matt. 5 and 24; Mark 13; Luke 21)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.23",
+   "text": "SALONIUS. Truly, according to the Lord's saying, Heaven and earth will pass away by improvement, but not by removal; for, purged by the fire of judgement, they will be improved, since they will be renewed, but they will not be utterly destroyed. For heaven above and earth below will burn just so far as the wickedness of men and demons together was able to defile [them]. Therefore, according to Solomon's saying, the earth will stand for ever (Eccles. 1), since it will never be destroyed; yet it will be renewed and improved."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.24",
+   "text": "VERANUS. What did Solomon mean to signify when he said: The sun rises and sets, and returns to its place, and being reborn there circles through the south, and turns toward the north (ibid.)? For who does not know that the sun rises and sets, and by ways unknown to us goes back to its place from which it rose, in order to rise again?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.25",
+   "text": "SALONIUS. Solomon says this in order to show that the sun itself, which was given to men for the light of day, by its changeableness, that is, by its rising and setting, daily displays the passing away of this world. And through these changes of the seasons, and through the rising and setting of the stars, Solomon teaches that human life daily rises and sets."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.26",
+   "text": "VERANUS. What does the sun signify spiritually in this place?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.27",
+   "text": "SALONIUS. That true sun, namely the Lord Jesus Christ, who is the sun of justice, of whom the prophet says: For you who fear God the sun of justice will rise (Mal. 4). This sun of justice rises daily for those who fear him, that is, for his faithful, namely holy and devout people. It also sets at midday for the false prophets, that is, heretics and bad catholics, because on account of their sins they lose the light of his grace. It sets too for unbelievers, because they do not deserve to be illuminated by the light of faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.28",
+   "text": "VERANUS. What does it mean that he says: All rivers run into the sea, and the sea does not overflow; to the place from which they go out they return, so as to flow again (Eccles. 1)? For who has known that rivers return to their place so as to flow again?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.29",
+   "text": "SALONIUS. That Ecclesiastes, namely Solomon, knew it through the grace of the Holy Spirit. But this our Ecclesiastes, namely Jesus Christ, who is the maker of those very waters, through the power of the divinity by which he is equal to God the Father, knows most fully that the rivers (since they run into the sea) flow down into the abyss, and through hidden channels return to the heads of the springs, and begin again to bubble up from the mother abyss."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.30",
+   "text": "VERANUS. But spiritually, what do these rivers signify?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.31",
+   "text": "SALONIUS. By these rivers are designated the holy preachers, who, when they shine forth with virtues and gleam with teachings, are truly rivers, since they water the dry earth of carnal hearts with their holy preaching and conduct alike, so that they may bear the fruits of good works."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.32",
+   "text": "VERANUS. How then do these rivers flow back, so as to return again to the place from which they go out?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.33",
+   "text": "SALONIUS. Because the holy preachers, in all the teaching and work that they do, have recourse to the praise of their Creator, so as to render praise and thanks to the Lord their author, through whom they received [the power] to do such things and all their good. For they always return to the fount of true light, lest perhaps they dry up and be parched, so that from him they may receive the water of knowledge and the grace of virtues, in order to flow again, that is, both to fill themselves with good works and to pour the streams of spiritual teaching into the hearts of others. All the faithful are also rivers, and these rivers return to the place from which they go out, since through holy desires they go back to the love of their Maker, and for all good things render praise and thanks to him from whom they received them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.34",
+   "text": "VERANUS. Why did Solomon give his heart, that is, apply himself with anxious heart, to know prudence and learning, and errors and folly (Eccles. 1)? For it is good to know prudence and learning, but what good is there in knowing errors and folly?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.35",
+   "text": "SALONIUS. Just as it is good to know prudence and learning, so it is truly good to know errors and folly, since the first wisdom is to be free of folly; but no one can be free of folly unless he has understood it. Likewise no one can avoid errors unless he understands them. For this reason very many harmful things were created among earthly things, so that while we avoid them we may be trained in wisdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.36",
+   "text": "VERANUS. Why did Solomon have an equal zeal to know prudence and learning, and, on the contrary, errors and folly?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.37",
+   "text": "SALONIUS. So that, while he sought some things and turned aside from others, that is, laid hold of good things and avoided evil ones, his wisdom might be proved true."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.38",
+   "text": "VERANUS. What is it that Solomon says: That in much wisdom there is much indignation, and he who adds knowledge adds also toil (ibid.)? How is there much indignation in much wisdom?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.39",
+   "text": "SALONIUS. In much wisdom there is much indignation for this reason: the greater the wisdom anyone gains, the more he is indignant with himself and grieves that he is subject to vices and sins and does not have virtues. For the more anyone advances in wisdom, the more he is angry with himself over the evil works he has done, and is saddened and grieves over his sins; and therefore he adds also toil, because the more fully he comes to know heavenly and eternal things, the more he toils in grieving and weeping so that he may escape the snares of errors and be able to be freed from the misery of this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.40",
+   "text": "VERANUS. Why does he say: I counted laughter an error, and to joy I said, Why are you deceived in vain (Eccles. 2), when it is natural to men to laugh, and the Lord says in the Gospel: Rejoice and exult, since your reward is great in heaven (Matt. 5; Luke 6)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.41",
+   "text": "SALONIUS. Solomon does not censure natural laughter, that is, modest and seemly laughter; hence he says elsewhere: A wise man will laugh quietly (Ecclus. 21). But laughter that is dissolute, immoderate and loud he calls error; such laughter indeed is called a guffaw. Likewise he calls not spiritual but temporal joy a deception. Those who do not lament their past evils, nor understand the ruin of their sins, both guffaw and rejoice in temporal things, because they think new and brief things to be lasting goods; and therefore, deceived by the sweetness of the present life, they are daily troubled by the error of this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.42",
+   "text": "VERANUS. What is it that he says: I saw in all things vanity and affliction of spirit, and that nothing remains under the sun (Eccles. 2, 4, 6, 8 and 12)? How does he say that nothing remains under the sun, when he said above: But the earth stands for ever (Eccles. 1)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.43",
+   "text": "SALONIUS. Nothing will remain under the sun that does not pass away, since all things are vain; hence the Lord says in the Gospel: Heaven and earth will pass away (Matt. 24). And yet the earth will stand for ever, because it will not be utterly destroyed but made better, as was said above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.44",
+   "text": "VERANUS. Why does he say: The wise man's eyes are in his head, but the fool walks in darkness (Eccles. 2)? Are the fool's eyes not in his head?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.45",
+   "text": "SALONIUS. Eyes in this place cannot be understood as bodily but as spiritual: namely the eyes of the mind, that is, the perceptions and intentions of the soul. By the head Christ is signified; hence the Apostle says: The head of the man is Christ (1 Cor. 11). The eyes of the wise man are in his head, because the wise man directs all his intention to Christ and places it in Christ, and always raises the eyes of his mind to meditate on heavenly things. But the fool walks in darkness, because he is darkened both by folly and by the darkness of his sins together, and is darkened by love of this world; for he hates heavenly things, and therefore cannot, like the wise man, lift his eyes to heaven, because he does not think on the things that are God's, but those of this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.46",
+   "text": "VERANUS. What difference, then, is there between the wise man and the fool?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.47",
+   "text": "SALONIUS. This is the difference: the one is illumined and adorned with wisdom and brightness; the other is darkened and thrown into confusion by the error of his folly. Indeed, the wise man differs from the fool as much as day from night, light from darkness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.48",
+   "text": "VERANUS. How does the wise man differ so much from the fool, when the end of both is one: for the learned dies just as the unlearned, the wise as the unwise (Eccles. 2)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.49",
+   "text": "SALONIUS. Although the setting is one, and the death of the wise man and the fool alike, and often in this life the wise man is more afflicted than the fool, yet their remembrance will not be alike in the future, nor will they receive equal reward, since the wise man on the day of judgement will be raised to the glory of the heavenly kingdom, but the fool will be plunged into the eternal torments of damnation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.50",
+   "text": "VERANUS. Who, then, is this wise man who differs from the fool as much as light from darkness? Is it he who is strong only in an abundance of philosophical learning, or shines with the eloquence of the liberal arts?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.51",
+   "text": "SALONIUS. Sometimes worldly prudence is hostile to God, and fleshly wisdom, though adorned with the flowers of eloquence, yet contains in itself no spiritual fruit, no fruit of everlasting blessedness. But he is truly wise who loves the Lord, who keeps his commandments, and, as far as is possible for human frailty, strives to fulfil his will in all things; of whom he says a little further on: To the man who is good in his sight God has given wisdom, and knowledge, and gladness (ibid.)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.52",
+   "text": "VERANUS. Why does he add at once: But to the sinner he has given affliction and needless care? For if God gave the sinful man to have needless care and anxiety, how then does he himself sin, if he is afflicted with needless cares and anxiety about temporal things?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.53",
+   "text": "SALONIUS. The cause of needless care and evil anxiety is not in God, but in him who first sinned of his own will, because, his sins demanding it, he deserved to have needless care and anxiety. And therefore when he says: But to the sinner he has given needless care, it is to be understood that he permitted it to be given as his deserts demanded, namely because he was a sinner."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.54",
+   "text": "VERANUS. What does he wish to show by saying: All things have their time (Eccles. 3)? For if all things have their time, then does the substance of the eternal Godhead have a time?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.55",
+   "text": "SALONIUS. Far from it. For that ineffable, eternal essence of the divine majesty, which created all things from nothing, is not enclosed by place, not constrained by time, not bounded by any extent. And therefore Solomon, to show of what things he said this, at once adds, saying: And all things under heaven pass in their own spans. For he wishes to show that all things that are in the world are contrary to one another, and nothing of all that is under heaven is everlasting, and these things are contained in time."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.56",
+   "text": "VERANUS. Of what planting does he speak, or of what uprooting, when he says: A time to plant, and a time to uproot what has been planted (ibid.)? Does he speak of the planting or uprooting of trees or plants?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.57",
+   "text": "SALONIUS. No, but of the birth and death of men. For what he said above, A time to be born, is what follows, and a time to plant: for to plant is that which is born. What he says above, a time to die, is what follows here, a time to uproot what has been planted: for to be uprooted is the same as to die. For to God alone are known the rising and setting of men, that is, the time of being born and the time of perishing, and the time of planting and the time of uprooting; since he himself has appointed both the time in which each would be born and planted into life, and the time in which he would die and be uprooted from this life, that is, be torn out by the sentence of death."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.58",
+   "text": "VERANUS. What is it that he says again: A time to kill and a time to heal (ibid.)? No one doubts that a time to heal is granted by God; but God never appointed a time for killing another; nor can a man ever heal one whom he has once killed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.59",
+   "text": "SALONIUS. Not at all; but the time to kill and the time to heal belong to him alone who speaks through Moses, saying: I will kill and I will make alive, I will strike and I will heal (Deut. 32). He indeed appoints the time in which sinners are killed and the sick are healed, that is, those weak with sins. For he kills when he afflicts sinners either with bodily sickness or with some adversity of this world, so that they may be corrected and die to sins and live to God. For God often scourges the wicked so that he may kill and heal them, that is, so that they cease to be what they are and begin to be what they are not. There is, then, a time to heal, when almighty God pricks with compunction, by hidden inspiration, those whom he has killed, that is, has mercifully afflicted with adversities, and calls them to penance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.60",
+   "text": "VERANUS. Of what destruction or building does he speak, when he says: A time to destroy and a time to build (Eccles. 3)? Does he speak of the building and destruction of houses? What would it profit us if he said this? For who does not know that some destroy and others build houses?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.61",
+   "text": "SALONIUS. Solomon does not speak here of the destruction of houses, but of evils, and of the building of good things; since it is necessary first to destroy evil things and so afterwards to build good things, according to that saying of the Psalmist: Turn aside from evil, and do good (Ps. 36). This, then, is what he says: there is a time to destroy evil things and a time to build good things, since in the present life time has been granted us by God to destroy evil things and build good things: that is, first to blot out sins in ourselves through penance, and afterwards to construct the buildings of the virtues through holy desires."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.62",
+   "text": "VERANUS. Why does he say: A time to weep and a time to laugh, a time to mourn and a time to dance (Eccles. 3)? For who does not know that at one time we weep and at another we laugh? Or what did it profit [him] to say, a time to dance? Did he perhaps wish to show that we ought to practise the frivolities of dancing?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.63",
+   "text": "SALONIUS. Far from it; we ought to do nothing in a buffoonish way: but the time to weep is in the present life, the time to laugh in the life to come. Whoever, then, in the present life has striven to purify himself with daily weeping and tears will laugh, that is, rejoice, in the life to come. Likewise the time to mourn is the present life; the time to dance is the blessed life. For in the movement of dancing a man shows the joy of his mind and the affection of his soul. Whoever, then, in this life strives by mourning to abolish his sins will dance in the life to come, that is, will be glad and exult in the glory of eternal happiness."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.64",
+   "text": "VERANUS. What is it that he says: A time to scatter stones, and a time to gather [them] (ibid.)? For what profit is there in scattering stones, or what profit in gathering them, unless perhaps someone wishes to build a house?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.65",
+   "text": "SALONIUS. Solomon does not speak of this matter, but of the scattering and gathering of the nations. For by stones the nations are signified: hence John says: God is able from these stones to raise up children to Abraham (Matt. 3). For there was a time to scatter stones before the coming of the Lord, because the gentiles did not remain in the unity of faith, but withdrawing from God were scattered, since they adored various gods and worshipped diverse idols; but there was a time to gather stones after the coming of the Lord, because, as the Apostle says: When the fullness of time came, God sent his Son, made of a woman, made under the law, to redeem those who were under the law, so that we might receive the adoption of sons (Gal. 4). Then indeed he began to gather stones, because, the mystery of his passion and resurrection being accomplished, he sent his apostles into the whole world, saying: Go, teach all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit (Matt. 28). Then, when the mystery of the ascension into heaven had been celebrated on the fortieth day, as soon as the fame of his name was spread by the apostles far and wide through the world, the stones, that is, the gentiles, who had been scattered through the varied worship of idols, were gathered, because, coming to their senses and abhorring idols, they came together into the unity of faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.66",
+   "text": "VERANUS. Why again does he say: A time of love and a time of hatred; yet John the apostle says: Whoever hates his brother is a murderer (1 John 3); and in the Gospel it is said: Whoever hates his soul in this world keeps it for eternal life (John 12); likewise: Whoever does not hate his father and mother, brothers and sisters, wife and children, and his own soul besides, cannot be my disciple (Luke 14). Tell [me], then, when is the time of love, and when the time of hatred?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.67",
+   "text": "SALONIUS. Even now it is indeed a time of love, since after the Lord we ought to love father and mother, wife and children and our other kin; but a time of hatred, because for the confession of Christ we ought both to despise and to hate father and mother and all our kin (if they are opposed to us on the way of the Lord), as the holy martyrs are often read to have done."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.68",
+   "text": "VERANUS. What is it that he says again: A time of war and a time of peace (Eccles. 3)? How is there a time of war, when the Lord says in the Gospel: Agree with your adversary quickly, while you are with him on the way; and again: If anyone strikes you on your right cheek, offer him the other also, and whoever wishes to take away your tunic, let him have your cloak as well (Luke 6)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.69",
+   "text": "SALONIUS. Truly for us it is always a time of war and battle as long as we are in the present life, since it is always necessary for us to fight against the snares of the ancient enemy and to defeat the powers of the air (that is, of the evil spirits). But the time of peace will be when we have departed from the present world; since if we have fought well in this world, we shall be crowned in the world to come, and shall rest in eternal peace in the heavenly Jerusalem."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.70",
+   "text": "VERANUS. Why does he say: God made all things good in their time, when he said above that all things are vanity? If all things are vain, how then are they good?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.71",
+   "text": "SALONIUS. All things are vain, because transitory; yet all things are good, since they were created good by God, and good indeed they are; not, however, always, but in their time. For it is good to keep watch, and good also to sleep; yet always to keep watch, or always to sleep, is certainly not good."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.72",
+   "text": "VERANUS. Why does Solomon speak doubtfully, saying: Who knows whether the spirit of the sons of Adam ascends upward, and the spirit of beasts descends downward (Eccles. 3)? For who does not know that the spirit of beasts (that is, of cattle and of all brute animals) is dissolved together with the body? But the spirit of the sons of Adam (that is, of men) is not dissolved together with the body; rather, as soon as it goes out of the body, it is either led to glory or plunged into punishment?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.73",
+   "text": "SALONIUS. A little above, Solomon showed that, as regards the use of the body, there is no difference between beast and man, because as the beast dies, so also the man dies; but to show that according to the dignity of the soul man differs greatly from beast and cattle, he therefore made a distinction, saying: Who knows whether the spirit of the sons of Adam ascends upward, and the spirit of beasts descends downward (ibid.)? For he shows that this alone is the difference between men and beasts, that the spirit of man ascends to heaven and the spirit of a beast or of cattle descends to the earth, because it dies and is dissolved together with the flesh."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.74",
+   "text": "VERANUS. Why then does Solomon say: Who knows? as if there were no one who could know this!"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.75",
+   "text": "SALONIUS. He says Who knows? to show the difficulty of the matter: for 'who' in the sacred Scriptures usually signifies not impossibility but difficulty or rarity, as in this: But who will tell of his generation (Isa. 53)? That is, either no one, or very few. For what is impossible to be done can in no way be done, even with great labour. So he says Who knows? because very rarely, or certainly with difficulty, is a man found so spiritual that he can perfectly comprehend, when the spirit goes out of the body, whether it ascends or is led to punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.76",
+   "text": "VERANUS. What do these sons of Adam, or those beasts, signify spiritually?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.77",
+   "text": "SALONIUS. The sons of Adam signify the holy and elect men who are rightly called men, who live rationally, holily and spiritually; but by the beasts are designated the carnal, who are called beasts because they live bestially and carnally, like beasts and cattle. Hence the holy prophet David says: Men and beasts you will save, O Lord (Ps. 35). For it often happens that those who seem to be just men sin and turn from their justice and do iniquity; and on the contrary those who are wicked and impious turn from their iniquity and do justice and equity. Therefore Solomon says: Who knows whether the spirit of the sons of Adam ascends upward, and the spirit of beasts descends downward? Because the state of this life is so uncertain that both the sinner, who is called a beast, converted through penance, may rise and ascend into heaven, and the just man may fall from his justice into sin and be plunged down to hell."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.78",
+   "text": "VERANUS. What is it that he says: The fool folds his hands and eats his own flesh (Eccles. 4)? For who is so foolish as to eat his own flesh?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.79",
+   "text": "SALONIUS. This fool should be understood as that sluggard of whom he says in Proverbs: The sluggard hides his hand under his armpit, and does not bring it to his mouth (Prov. 19). This sluggard and fool folds his hands and eats his own flesh, because he prefers to live in idleness and torpor and have a handful of meal, rather than by labouring to acquire what he may be fed with. But that phrase, He eats his own flesh, is said by hyperbole."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.80",
+   "text": "VERANUS. What is hyperbole?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.81",
+   "text": "SALONIUS. It is called hyperbole when something incredible is stated."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.82",
+   "text": "VERANUS. How then is He eats his own flesh said hyperbolically?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.83",
+   "text": "SALONIUS. Because it is incredible that a man should eat his own flesh: but to exaggerate the sloth of this fool, he says, He eats his flesh, to show that the fool would rather his flesh waste away with want and fail in the misery of hunger than be sustained by the labours of his hands."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.84",
+   "text": "VERANUS. Who is the one of whom Solomon says: There is one, and he has no second, neither son nor brother, and yet he does not cease to labour, nor are his eyes satisfied with riches?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.85",
+   "text": "SALONIUS. He is the one who, since he is one, that is, alone, has no second: that is, no son, no brother, or any kinsman; and he never ceases to labour, that is, to gather riches, nor does he gather so much that it is enough for him. And therefore it is the greatest vanity to gather riches and not know to whom one is to leave them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.86",
+   "text": "VERANUS. Whom does that one who has no second signify spiritually?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.87",
+   "text": "SALONIUS. The Lord Jesus Christ, who by nature alone is the Son of God the Father, and alone came down from heaven to redeem the human race."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.88",
+   "text": "VERANUS. How does he have no son or brother, when in holy baptism all Christians are made sons of God and brothers of our Lord Jesus Christ?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.89",
+   "text": "SALONIUS. He alone is the proper and natural Son; all the others are adopted, and so they are his brothers not by nature but by grace."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.90",
+   "text": "VERANUS. How then does this one not cease to labour?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.91",
+   "text": "SALONIUS. Because he patiently bears our sins and mercifully waits for [us to come] to penitence, and daily intercedes for us with God the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.92",
+   "text": "VERANUS. How are his eyes not satisfied with riches?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.93",
+   "text": "SALONIUS. Because he always desires our salvation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.94",
+   "text": "VERANUS. What is this threefold cord of which Solomon says: A threefold cord is hard to break (Eccles. 4)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.95",
+   "text": "SALONIUS. The unity of the Father and the Son and the Holy Spirit, because in the Godhead there are three persons, but only one nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.96",
+   "text": "VERANUS. Why then does he say, It is hard to break? Whatever is hard can be done, though with great labour: can this cord, then, be broken?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.97",
+   "text": "SALONIUS. Truly never, because the nature of the holy Trinity is indivisible: but in this place hard is to be taken for impossible, because it cannot happen that the nature of the Godhead should be split."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.98",
+   "text": "VERANUS. Who is that poor and wise boy of whom Solomon says: Better is a poor and wise boy than an old and foolish king (Eccles. 4)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.99",
+   "text": "SALONIUS. The Lord Jesus Christ, who is called a boy because of his innocence and simplicity, since he committed no sin, nor was deceit found in his mouth (1 Pet. 2). This boy, though he was rich, became poor for our salvation. He is truly wise, because in him dwells all the fullness of the Godhead bodily."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.100",
+   "text": "VERANUS. Who is that old and foolish king?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.101",
+   "text": "SALONIUS. The devil, who has reigned over the human race almost from the very beginning of the world, and so is called old. And he is truly a foolish king, because the more he deceives, the greater the punishment he heaps up for himself. Indeed, in the kingdom of this old and foolish king, that is, the devil, the best of boys was born, namely the Lord Jesus Christ, who has become King of kings and Lord of lords."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.102",
+   "text": "VERANUS. What does he mean by: Guard your foot when you enter the house of God? Is he warning us to guard our foot against stumbling on stones when we enter the house of God, that is, the church?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.103",
+   "text": "SALONIUS. Although we ought always to enter the house of God decently and with fear and silence, he is nevertheless teaching us to guard not the foot of the body but the foot of the soul, that is, the step of the mind, so that we may pour out pure prayers in the sight of God: and the sense is, when you enter the house of God (that is, the church), guard your foot, that is, the step of your mind, so that you do not stumble in evil thoughts, and your prayer may be directed pure to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.104",
+   "text": "VERANUS. What does he mean by: Do not give your mouth to make your flesh sin (Eccles. 5)? How does a man give his mouth so that he makes his flesh sin?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.105",
+   "text": "SALONIUS. When he speaks vanities and lustful words by which the flesh is roused to sin. But this is the proper sense of this place: Do not give your mouth to make your flesh sin; that is, do not seek vain excuses by which you give your flesh occasion to sin: that is, do not say: It is not I who sin, but the sin that dwells in me, that is, the frailty of my flesh: because if you say this, you provoke the Lord to anger, as if he himself were the author of wickedness and sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.106",
+   "text": "VERANUS. What does he mean by: All the labour of a man is in his mouth, but his soul will not be filled (Eccles. 6)? How can it be that everything a man labours at is in his mouth?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.107",
+   "text": "SALONIUS. A churchman, wise and learned, has all his labour in his mouth, because everything he learns in the holy Scriptures he meditates on, preaches and teaches daily; and his soul will not be filled, because what he has learned is not enough for him, but he always longs and strives to learn more and more."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.108",
+   "text": "VERANUS. What does he mean by: It is better to see what you desire than to long for what you do not know (ibid.)? How does a man see what he desires, or how does he long for what he does not know?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.109",
+   "text": "SALONIUS. He who discerns between good and evil with the eyes of the mind sees that he should desire the good and reject the evil: but he who follows the will and desires of his heart often longs for what he does not know, because he wants to grasp what he cannot."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.110",
+   "text": "VERANUS. Of whom does Solomon say: He who is to come, his name has already been called, and it is known that he is a man?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.111",
+   "text": "SALONIUS. Of the Lord Jesus Christ, whose name was called beforehand in the holy Scriptures, [foretelling] that he would take flesh from the Virgin, and it was known to the prophets and saints of God that he would come as true man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.112",
+   "text": "VERANUS. If this is said of the Lord Jesus Christ, what is it that follows: And he cannot contend in judgement against one stronger than himself? Who is that stronger one against whom the Lord Jesus cannot contend in judgement?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.113",
+   "text": "SALONIUS. God the Father, who is stronger, because the Son according to his humanity is less than the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.114",
+   "text": "VERANUS. What does he mean by: Anger is better than laughter (Eccles. 7), when laughter is natural, but anger is a vice?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.115",
+   "text": "SALONIUS. Anger is not always a vice, but sometimes it is a virtue, when we are angry with ourselves or with others who sin: this anger, then, is better than laughter, because laughter dissipates the mind, and merriment corrupts a man's spirit; but this anger corrects and amends sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.116",
+   "text": "VERANUS. What does he mean by: Slander troubles the wise man and destroys the strength of his heart (ibid.)? For one who is truly wise is troubled by no slander and cast down by no adversity."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.117",
+   "text": "SALONIUS. The wise man in this place is to be understood not as one who is perfect and complete in wisdom, but as one who has already begun to have wisdom and yet is not yet perfect. Such a wise man is easily troubled by men's slander or by some adversity, and it destroys the vigour and fortitude of his soul, since, while he does not bear adversity patiently, he is harassed by impatience."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.118",
+   "text": "VERANUS. Why is it wrong to say that former days were better than these that are now?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.119",
+   "text": "SALONIUS. It is wrong to say this because he himself says: Such a question is foolish."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.120",
+   "text": "VERANUS. Why is it a foolish question if someone says: What is the reason that former times were better than they are now (ibid.)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.121",
+   "text": "SALONIUS. It is a foolish question because one God is the maker of all times and of all days."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.122",
+   "text": "VERANUS. But although there is one God, maker of all times and of all days, have there not been good times and bad?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.123",
+   "text": "SALONIUS. Truly there have, but virtues make times good for us, vices and sins make times bad; and therefore we ought always to live so well that the present days are better for us than the past."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.124",
+   "text": "VERANUS. What does Solomon mean by: Do not be very just, and do not be wiser than is necessary (Eccles. 7)? For what harm is there if a man is very just, or who can be wiser than is necessary?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.125",
+   "text": "SALONIUS. He is very and excessively just whose justice is harsh and cruel and even stirs others to complaint and murmuring; for example, one who sees his brother sin and would rather condemn and punish him than correct and amend him through penitence, he is certainly very and excessively just."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.126",
+   "text": "VERANUS. How is a man wiser than is necessary?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.127",
+   "text": "SALONIUS. When he is wise in pride: hence the Apostle warns: Do not be high-minded (Rom. 11): that is, do not be proudly wise, but fear. He too is wiser than is necessary who wants to understand things he cannot grasp or penetrate."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.128",
+   "text": "VERANUS. Why does Solomon say: He who fears the Lord neglects nothing (Eccles. 7), when the apostle James says: In many things we all offend (James 3)? Did James and the other apostles, who confessed that they offended in many things, not fear God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.129",
+   "text": "SALONIUS. They certainly feared [him], and they offended in many things, because there is no man on earth who does good and does not sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.130",
+   "text": "VERANUS. How then is what he says true: He who fears the Lord neglects nothing (Eccles. 7)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.131",
+   "text": "SALONIUS. For whoever has the holy and chaste fear of God neglects nothing at all, because he is neither lifted up by prosperity nor cast down by adversity, since whatever befalls him does not sadden him."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.132",
+   "text": "VERANUS. Who, then, is he who has the holy and chaste fear of God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.133",
+   "text": "SALONIUS. He who wishes to offend the Lord in nothing, and, as far as [the Lord] himself deigns to help, wishes and strives to fulfil his will and his commandments in all things."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.134",
+   "text": "VERANUS. What is it that he says: Wisdom will strengthen the wise man above ten princes of the city (ibid.)? What is this wisdom, or who are these princes?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.135",
+   "text": "SALONIUS. Wisdom in this place signifies the Lord Jesus Christ, who is the power and wisdom of God; by the princes of the city the holy angels are to be understood, who are princes of the city, that is, of the heavenly Jerusalem. They are also princes of the Church, because they rule and guard it daily."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.136",
+   "text": "VERANUS. Why, then, are they said to be ten?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.137",
+   "text": "SALONIUS. Because there were ten orders of angels, but one fell through pride; and therefore the good angels always labour to this end, that the number may be filled up from among men, and may reach the perfect number, that is, ten."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.138",
+   "text": "VERANUS. How, then, does wisdom strengthen the wise man above ten princes of the city?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.139",
+   "text": "SALONIUS. Because the help of wisdom, that is, of the Lord Jesus Christ, is greater than that of the angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.140",
+   "text": "VERANUS. What is it that Solomon says: One man among a thousand I have found, but a woman among them all I have not found? Were there not many holy women, virgins and widows alike, who pleased God by modesty and chastity and good works, of whom very many were crowned with martyrdom?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.141",
+   "text": "SALONIUS. Truly there were, and to this day there are, very many virgins and widows acceptable to God; but Solomon says this because in his time among many men he could scarcely find a good one, and among women he found none, because they all drew him not to virtue but to lust."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.142",
+   "text": "VERANUS. Can this saying be understood spiritually?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.143",
+   "text": "SALONIUS. Truly it can, for by the man is signified a good thought of the mind, and by the woman a carnal and dissolute thought. Among a thousand, then, one man is found, that is, one clean and pure thought, which is not disturbed by a perverse thought, that is, is not polluted from outside; but among women none is found that pleases God, because a carnal and perverse thought is not acceptable to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.144",
+   "text": "VERANUS. What is it that he says: He who keeps the commandment of God will experience no evil (Eccles. 8)? How will he who keeps the commandments of God experience no evil, when holy men who kept the commandments of God suffered many things in this world?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.145",
+   "text": "SALONIUS. It is true, because he who keeps the commandments of God, that is, all that God has ordered and commanded, will experience no evil in the future, that is, he will suffer no evil, he will endure no evil on the day of judgement. For although he may suffer some evils in this life, they are light and passing; but in the future life he who has reached the glory of eternal blessedness will suffer no evil."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.146",
+   "text": "VERANUS. What is it that he says: A living dog is better than a dead lion (Eccles. 9)? What does Solomon want to be understood by the living dog or the dead lion?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.147",
+   "text": "SALONIUS. The living dog signifies the people of the Gentiles; the dead lion, the people of the Jews, abandoned by God. This living dog, then, is better before God than that dead lion, because we who, [coming] from the Gentiles, believe and live, know through faith God the Father, and the Son and the Holy Spirit. Otherwise, the living dog is the sinner who confesses himself dead in sins, and, rising again through penance, begins to live by justice; the dead lion is the just man, because he trusts in his own justice and glories in his merits, and therefore, puffed up with pride, he is dead before God. Better, then, is the humble sinner, corrected through penance, than the proud just man; because the latter is abominable, the former acceptable to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.148",
+   "text": "VERANUS. What is it that he says: At all times let your garments be white, and let oil not be lacking from your head (Eccles. 9)? Can anyone always have white garments? And if perhaps he is so rich that he can always have white garments, which is very difficult, how can it be that oil is never lacking from his head? For who can bear always to have his head anointed with oil?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.149",
+   "text": "SALONIUS. This saying must be understood not historically but spiritually. For by the garments are signified the virtues with which the soul is clothed and adorned; and by the oil is signified the work of mercy, that is, almsgiving, or else spiritual joy. And the sense is: At all times let your garments be white; that is, whatever good things you do, let them be clean and pure, so that they may be acceptable to God; and never fall short in works of mercy, and strive always to have spiritual joy."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.150",
+   "text": "VERANUS. What are the flies of which Solomon says: Dying flies destroy the sweetness of the ointment (Eccles. 10)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.151",
+   "text": "SALONIUS. Truly, Solomon certainly means spiritual flies."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.152",
+   "text": "VERANUS. What are those spiritual flies?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.153",
+   "text": "SALONIUS. Demons, vices and sins: for all these here destroy the sweetness of the ointment, that is, the grace of the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.154",
+   "text": "VERANUS. What is it that he says: The heart of the wise man is in his right hand, and the heart of the fool in his left (ibid.)? For who has his fleshly heart in his right or in his left hand?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.155",
+   "text": "SALONIUS. Truly no one, and therefore this saying must be understood spiritually."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.156",
+   "text": "VERANUS. How must it be understood spiritually?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.157",
+   "text": "SALONIUS. By the heart is signified intention or thought; by the right hand, good work; and by the left, evil. The heart of the wise man, then, is in his right hand, because the intention and thought of the wise man aims at this and labours for this, always to do good, so that on the day of judgement he may deserve to stand at the right hand of the Lord, that is, in the lot of the just, and to glory with them in eternal blessedness. But the heart of the fool is in his left, because he both thinks evil things and heaps up evil works, for which on the day of judgement he will be placed on the left, that is, in the lot of the reprobate, and will be punished with them for ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.158",
+   "text": "VERANUS. Who is that spirit of which he says: If the spirit of him who has power rises up upon you, do not leave your place? Who is this who has power, whose spirit, if it rises up upon us, we must not leave our place?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.159",
+   "text": "SALONIUS. The devil, the prince of this world; his spirit is evil suggestion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.160",
+   "text": "VERANUS. How does the spirit of the devil rise up upon us?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.161",
+   "text": "SALONIUS. Because by persuading he makes us think evil things. If, then, at the devil's suggestion, an evil thought rises up into our heart, we must not give it place, but fight bravely against it, lest perhaps we fulfil the evil thought in deed. It can also be understood thus: if you have in you humility, cleanness, chastity, patience, charity, and the devil suggests to you pride, lust, uncleanness, anger, hatred, do not leave your place, that is, do not abandon humility and become proud. And so it is to be understood of the rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.162",
+   "text": "VERANUS. Why does Solomon say: Woe to you, land whose king is a youth, and whose princes eat in the morning? Was not the land of Israel blessed, which had a young king, namely David, who was thirty years old when he received the kingdom? Was not Josiah a good king, who began to reign in his youth?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.163",
+   "text": "SALONIUS. Truly David was a good king, and Josiah good too. But woe to the land whose king is a youth, that is, in which wisdom is small and weak, and [there is] carnal prudence, which follows youthful desires [and] hates justice, truth and judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.164",
+   "text": "VERANUS. How do princes eat in the morning?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.165",
+   "text": "SALONIUS. Princes eat in the morning when they lead a life of luxury; and therefore woe to the land whose princes eat in the morning, because they love the pleasures of this world and the delights of the flesh more than the welfare of the people, and so, by living luxuriously, they pervert judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.166",
+   "text": "VERANUS. How is the land blessed whose king is noble, and whose princes eat in their due time?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.167",
+   "text": "SALONIUS. If the king is noble, that is, graced with wisdom, shining with justice, adorned with good morals and deeds, truly blessed is the land over which he presides, because he rules it in judgement and equity, and exalts [it] with justice."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.168",
+   "text": "VERANUS. Who are those princes who eat in their due time?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.169",
+   "text": "SALONIUS. Those, certainly, who do not live in luxury, who do not love the pleasures of this world, who do not live in gluttony and drunkenness, but seek food only to sustain the body. And so blessed is the land that has such princes, because while they love justice and equity, they certainly do not pervert judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.170",
+   "text": "VERANUS. What does he mean when he says: Give portions to seven, and also to eight (Eccles. 11)? What are those seven or eight portions which he commands us to give?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.171",
+   "text": "SALONIUS. By the number seven the Old Testament is signified, because of the sabbath, which is the seventh day, sanctified in the law; and by the number eight the New Testament is signified, because of the Lord's day, which is the eighth, made holy by the resurrection of the Lord Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.172",
+   "text": "VERANUS. How then is what he says to be understood: Give portions to seven, and also to eight (ibid.)?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.173",
+   "text": "SALONIUS. In this way: that is, receive both Testaments (namely the Old and the New) with equal reverence by believing [them], and strive diligently to fulfil their precepts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.174",
+   "text": "VERANUS. What does he mean when he says: If the tree falls to the south, or to the north, in whatever place it falls, there it will be (ibid.)? Is a tree that falls to the north, or to the south, not often moved to other parts of the world?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.175",
+   "text": "SALONIUS. No one doubts this, but this saying ought to be understood spiritually. For by the tree man is signified, since each person is like a tree of the forest of the human race. By the south, which is a warm wind, the rest of paradise is signified. By the north, which is cold, the punishment of hell is signified. And the sense is: wherever a man has prepared for himself a place for his future dwelling, if [it is] to the south, when he falls (that is, when he dies), he will remain for ever in the rest of paradise and the glory of the heavenly kingdom. But if by living wickedly he has prepared a place for himself to the north, he will pay the penalties of hell for ever and ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.176",
+   "text": "VERANUS. What does he mean when he says: He who watches the wind does not sow, and he who regards the clouds never reaps (Eccles. 11)? For who is so foolish as always to watch the wind, so that he does not sow, and always to regard the clouds, so that he never reaps?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.177",
+   "text": "SALONIUS. This saying is to be understood spiritually. For just as a storm is often produced by wind and clouds, so too by the wind the devil is signified, and by the clouds the adversities of the present world. Whoever, then, fears the persecution of the devil or the adversities of this world does not sow, that is, does not preach the word of God, nor does the good works he is able to; and he will never reap either, because even if he begins some good things, he does not bring them to completion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.178",
+   "text": "VERANUS. What then is to be done?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.179",
+   "text": "SALONIUS. Without regarding the clouds and without fear of the winds, we ought to sow in the midst of storms; that is, in all adversities we must always preach the word of God and do the good works we are able to do."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.180",
+   "text": "VERANUS. What is [this]: In the morning sow your seed, and in the evening let your hand not cease (ibid.)? For who can always sow both morning and evening, especially since in the icy season no one dares to sow?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.181",
+   "text": "SALONIUS. Seed in this place is not to be understood as [the seed] of wheat or of any other grain, but as the seed of good work, from which springs the fruit of justice and the reward of eternal recompense."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.182",
+   "text": "VERANUS. What then does he teach when he says: In the morning sow your seed, and in the evening let your hand not cease?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.183",
+   "text": "SALONIUS. That at no time, at no age, should we cease from good works, and that the evening should find our morning justice, and the rising sun should in turn add to our evening mercy: that in youth and old age alike an abundance of virtues should always commend us to God. In the morning, then, sow your seed, and in the evening let your hand not cease (ibid.): that is, always exercise yourself in good works."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.184",
+   "text": "VERANUS. What does he mean when he says: And the almond tree will flower, the locust will grow fat, and the caper will be scattered (Eccles. 12)? For what use was it to say this, since no one is unaware that the almond tree usually flowers, the locust grows fat, and the caper is scattered?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.185",
+   "text": "SALONIUS. This saying is to be understood spiritually, and contains a great mystery within it. For by the almond tree the Lord Jesus Christ is signified: because just as the almond nut consists of husk, shell and kernel, so Christ [consists] of flesh, soul and divinity. For by the shell of the almond the divinity is signified."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.186",
+   "text": "VERANUS. What is signified by the locust and the caper?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.187",
+   "text": "SALONIUS. By the locust the gentile people, by the caper the Jewish people."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.188",
+   "text": "VERANUS. How then is this saying to be understood?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.189",
+   "text": "SALONIUS. The almond tree will flower, that is, Christ will be born and will shine with miracles; the locust will grow fat, that is, the gentile people will believe and will be filled with spiritual gifts; the caper will be scattered, that is, the Jewish people will perish because of unbelief."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.190",
+   "text": "VERANUS. Why are the words of the wise likened to goads and nails? For so Solomon says: The words of the wise are like goads, and like nails driven deep (ibid.)."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.191",
+   "text": "SALONIUS. Most fittingly are the words of the wise compared to nails and goads, because they do not know how to stroke the faults of sinners, but [only] to prick [them]. For those who are truly wise, their words are without doubt nails and goads, because they do not coddle sinners with flattery, but rebuke [them] with harsh reproof, and, as if by pricking, stir their secret consciences to sorrow and lamentation, so that they may be corrected."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.192",
+   "text": "VERANUS. What does he mean when he says: Which were given through the counsel of the masters by one shepherd (ibid.)? Who are those masters through whose counsel the words of the wise were given, or who is that one shepherd by whom they were given?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.193",
+   "text": "SALONIUS. The masters are the prophets and apostles; the one shepherd is God, by whom all the words of the wise were given, because he himself taught the masters (that is, the prophets and apostles) and instructed their counsel, since he himself put the words in their heart and mouth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.194",
+   "text": "VERANUS. What is it that Ecclesiastes says at the end of his book: Fear God and keep his commandments, for this is the whole man? How can it be that man is only this, that is, to fear God and observe his commandments? For by far the greater part of men are those who neither fear nor keep [them]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.195",
+   "text": "SALONIUS. Truly the greater part is of the wicked rather than of the good, because, as the Lord says: Many are called, but few are chosen (Matt. 20), and the multitude of unbelievers is incomparably greater than that of believers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.196",
+   "text": "VERANUS. What then does Solomon wish to show in this place?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.197",
+   "text": "SALONIUS. This is what he shows in these words: that he who does not fear God and does not keep his commandments is not a man."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.198",
+   "text": "VERANUS. Why is he not a man?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.199",
+   "text": "SALONIUS. Because he does not keep the measure and the reason of his nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.200",
+   "text": "VERANUS. What is the reason and measure of human nature?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.201",
+   "text": "SALONIUS. To live rationally, because among all living creatures man alone was created a rational animal, and he alone received reason and understanding from God, so that he might acknowledge his Creator, and love and fear him, and praise [him] with heart and mouth together."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.202",
+   "text": "VERANUS. What is it to fear God?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.203",
+   "text": "SALONIUS. To fulfil his will, and to do the good things that ought to be done."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.204",
+   "text": "VERANUS. If, then, he who does not fear God and does not keep his commandments is not a man, what then is he?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.205",
+   "text": "SALONIUS. He is a beast."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.206",
+   "text": "VERANUS. How is he a beast, when human substance and person are seen in him?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.207",
+   "text": "SALONIUS. Although he seems to have human substance and person, yet because he lives not rationally but like a beast, he must be called not a man but a beast."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.208",
+   "text": "VERANUS. What beast is he called?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.209",
+   "text": "SALONIUS. If he is cruel to his household and subjects or neighbours, he is a lion, not a man; if he is a robber, a tiger or a wolf; if he is an adulterer or fornicator or unclean, he is a dog or a pig; or if foolish, he is compared to an ass; the deceitful or the dissembler is fittingly likened to a little fox; and so it is to be understood of the rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.210",
+   "text": "VERANUS. Who, then, is truly a man?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp889.tmp889.opp-lat1.211",
+   "text": "SALONIUS. He who fears God and keeps his commandments."
+  }
+ ]
+}

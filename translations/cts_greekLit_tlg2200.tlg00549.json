@@ -1,0 +1,461 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2200.tlg00549",
+ "edition_urn": "urn:cts:greekLit:tlg2200.tlg00549.ai-claude",
+ "source_edition": "tlg2200.tlg00549.opp-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-09",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Declamatio 49: AI translation (Claude)",
+  "author": "Libanius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2200.tlg00549.opp-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.head": "2.2.1: the text reads 'εὐ- φανερὰν φανερὰν', evidently corrupt; translated as 'τὴν ... εὔνοιαν, φανερὰν' ('goodwill ... plain'). 2.4.1: 'τὸ δὲ ἡμέτερον' is elliptical; rendered 'in the other, ourselves' [as the cause]. Printed section numbers inside the lines have been left out.",
+  "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.12.1": "§16: the text reads παρεμυθούμην <ὐπ᾿> α ἐμαυτῷ πατέρα, which appears corrupt (the α is probably a footnote mark); translated as 'I tried to comfort my father'. §14: ὃς λογισάμενος is odd and taken as 'nor, reckoning ... did I become more cautious'. §27: Πατρῷος and Γενέθλιος taken as cult titles of Zeus.",
+  "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.32.1": "§32: a stray ')' after γὰρ is a print artefact and has been ignored. §50: τῶν ὄντ’ ὢν read as τῶν ὄντων. §41: 'Yes, she says' takes the opponent to be the stepmother, as μοι ('to me') implies.",
+  "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.70.1": "72: the text reads 'οὐκ ὄψεται ταῦτα καταμηνύσει νῆν', evidently corrupt; translated as 'οὐκ ὄψεται· ταῦτα καταμηνύσει νῦν'. 73: 'διέφθειρας' with no expressed object is awkward; the sentence may be corrupt. 81: 'τελὴς' read as 'ἀτελὴς' ('without gain'). 84: Ποιναί rendered 'Avengers' (personified Punishments).",
+  "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.87.1": "89: a stray closing parenthesis after πόλιν has been ignored. 95: οὔτ’ ὢ γάρ read as οὕτω γάρ. 96: τὴς read as θεατής ('spectator'); <ἀποκτεινομένην> is an editorial supplement. 97: αἰ read as ἀεί."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.head",
+   "text": "XLIX."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1",
+   "text": "When a fire broke out, a man saved his own father. Trying to save his mother as well, he both failed to save her and lost his eyes besides. The father brought a stepmother into the house over him. She showed the father a drug tied up in the boy's clothes. And when the father asked where the drug came from, he made no answer. After this, writing his will, the father left the estate to his wife and left the boy disinherited. And when there was an uproar in the house at night and many people gathered, the father was found freshly slaughtered, the boy's sword lying beside him, the stepmother sleeping beside him, and the blind man standing on the threshold of the room in which he lived by himself. The blind man and the stepmother accuse each other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.head",
+   "text": "Preliminary analysis."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.1.1",
+   "text": "The difficulty of the question is plain to listeners even at first sight, but it appears much more clearly to those able to examine it more closely. For by nature all conjectural cases with cross-accusations are very troublesome, as regards division, arrangement and the rest of the management of the speech; but this one especially so, because of the complication and reversal contained in the invented case."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.2.1",
+   "text": "Those who have written handbooks on division ask whether one should set out the comparison point by point, heading by heading, or complete one part entirely and only then pass on to the other. And in asking they find that making the comparison heading by heading is more combative, but causes very great confusion, while treating [each part] entirely is clearer, but slacker. And in the end they decided to make the defence first, complete, and the accusation second in the same way, caring less about the slackness for the sake of clarity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.3.1",
+   "text": "We, however, guarding as far as we could against the fault in each, have kept the virtue [of each]. For in emulating the combativeness of the one we have escaped its confusion; and in guarding against the slackness of the other we have kept its clarity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.4.1",
+   "text": "How this has been achieved the speech will easily show as it proceeds. For placing the defence before each heading, we follow it with the accusation, and we introduce the objections on each point separately in their proper order, so that the whole treatment becomes at once cogent, combative and clearly distinguished."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.5.1",
+   "text": "It is worth observing how emotion lies hidden in the arguments, and again how, no less, he argues while hidden within the emotional passages, filling out each of these in both, both in the speeches on his own behalf and in those against the stepmother; and how from far off he prepares in advance what is advantageous and dissolves in advance what is harmful; and, using Demosthenic discernment, how he quietly supports the points that are massed together, wrapping them round from every side and confirming them, while for those whose force is evident and which appear strong on their own he puts forward no helping device from outside, so that he may seem to prevail by the facts themselves and not by cleverness; and how by the same means he does both at once, defending himself by the things through which he accuses, and by those through which he accuses at the same time defending himself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.6.1",
+   "text": "It is fitting to suppose the boy good and earnest, since the invention of the case gives us the occasions for this, for in this way we would rather heighten his misfortune, for good men in misfortune rouse the emotions more strongly; and throughout the whole speech to preserve what is fitting both to the character of such a boy and to the nature of the matters at hand, and to use more persuasive reasonings."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.1.7.1",
+   "text": "For in such contests, in which probabilities have the greatest force, it is fitting to work out the more persuasive arguments from what usually happens for the most part. For these most of all draw the listeners to belief, when the jurors, reckoning and considering them in their own cases, readily believe that they would happen in the case of others too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.1",
+   "text": "The maimed man."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.1.1",
+   "text": "Having scarcely, gentlemen of the jury, rested a little from my laments for my father, I have come before you, as you see, led by the hand, longing for death, for what consolation for living is left to me? But I judged it fitting first to avenge my father; for it would be most unreasonable, if I gave myself unsparingly to fire and the most terrible things out of care for my father, but now did not help him at all when he has been so inhumanly slain against all the laws, even though I am easily able, with you, to expose the plot that was made against him."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.2.1",
+   "text": "For nevertheless, even if the woman who has been the cause of these misfortunes has many advocates against us, whom she has hired with our money and put forward, and I am entirely alone and unable to speak, I think that, having the truth on my side and the goodwill of you jurors, I will make plain to you the bloody crime of this murderess. For by the very means by which she tries to defend herself concerning the murder and to accuse us, by these we shall show that she is guilty of the charges."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.3.1",
+   "text": "So it happens, gentlemen of the jury, that I am both confident and afraid. For when I reckon up the facts I suppose that I will prevail; but when again I consider my own misfortune, I am led to expect the opposite. For we have suffered many great misfortunes, but the present one is greater and harsher than the rest. For when the woman has gone to such a pitch of inhumanity and daring as to kill my father because of me, and through his killing to try to bring a false charge against me too, how is it not grievous and wretched, unfortunate and harsher than any cruelty?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.4.1",
+   "text": "Nevertheless I must try to render this last aid to my father as well. For it is far preferable to take up the trial on his behalf and suffer, if anything should happen, than to fear this and, guarding against it, let the murderess go away untried. For in the one case it will be possible to consider fortune the cause, in the other, ourselves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.5.1",
+   "text": "Would that I had become the work of that fire and suffered the same death as my mother, for I would have been spared altogether the experience of the misfortunes after it, and would have departed with a fine funeral honour, the ever-remembered glory for saving my father. But since it was fated, as it seems, that I should experience misfortunes so many and so great, I would have wished at least to perish by falling victim to the bloodthirstiness of the murderess."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.6.1",
+   "text": "For now, guarding against the suspicion arising from the deed, she has destroyed us more pitiably, by becoming my father's murderer with her own hand; whereas then I would have had a lighter end, receiving the customary rites and leaving behind my own father as avenger of what I suffered. For he would easily have investigated his son's murder and would have exacted the fitting penalty; but now I would not have trusted, I think, that I could readily expose the destruction that befell him, deprived as I am entirely of my eyes, if the plot of the bloody crime were not wholly evident even to those in my condition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.7.1",
+   "text": "Unfortunate, then, is my father, but I am more unfortunate. For he has surpassed all men in ill fortune, but the son is far more wretched than the father. For I myself am the cause of my misfortunes; I myself brought the stepmother in over me; and whether of folly or of misfortune, I would not hesitate to accuse myself justly in these matters."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.8.1",
+   "text": "And let no one, considering the paradox, disbelieve what has been said, for I will tell you the reason for the oddity a little later. For those who have not gained exact knowledge of our affairs think that my father was the cause of these things for us, but those who know our circumstances more exactly reasonably reckon the blame as mine. And if I narrate everything to you from the beginning, you too will readily agree."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.9.1",
+   "text": "Therefore I have considered myself the most unfortunate of all men. For the first part of my life was enviable and admired: a father who loved his son, a mother like him, a happy life, sufficient wealth; but of the present it is better to be silent. For the misfortunes themselves show you more vividly than any speech."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.10.1",
+   "text": "But the crown of my misfortunes: that father has been snatched away and is dead, O Zeus and Sun, because of his surpassing goodwill towards us, the one father who loved his son, who surpassed all fathers who ever were. For who brought up [a son] as he did? Who educated [him] so liberally? What fitting schools did he leave me without experience of? What fine and useful teachings did he leave me unacquainted with?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.11.1",
+   "text": "So all the lessons that are splendid and much sought after by the right-minded: to serve the gods, to embrace humanity, to love one's kin, to help those in need, to respect those older in years and to do nothing unjust, and, believing that Justice is overseer of what is done, to keep away from human wrongdoing and to pursue zealously what is finest; these, and things like them, I learned and was educated in through my father's care."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.12.1",
+   "text": "But the greatest and most precious of the lessons, about which much has been said by poets and prose writers, and more still was set out by teachers, who praised it as pious and divine, and often called happy and blessed those who make this lesson true in their deeds: what is it I mean? To honour the gods, whom one must honour most, to serve one's parents after them, to provide for one's fathers and care for them, to be pleasing to them in every way, to tend them in old age, to repay them the fitting thanks, not to let it pass if someone insults them, to prosecute if someone wrongs them, and, if there is danger, even if it happens that one must die, to bear it gladly. For that death is worth praying for and much to be desired, when it comes about on behalf of one's fathers."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.13.1",
+   "text": "Educated in these lessons, gentlemen of the jury, I looked after him, took thought for him, served him, cared for him. If my father were alive, he himself would tell you of my great care, my goodwill, my concern, my attentiveness. For at no time did I rest from doing and saying what I thought would benefit them; or rather, in accomplishing these things I was planning my own advantage. For all who serve their own fathers as is fitting receive the gratitude due to them through the very things they do in caring for them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.14.1",
+   "text": "And why need I speak of each thing, when it is possible to show my surpassing zeal and eagerness by one proof? When Fortune and the divine power handed us an occasion, unwanted indeed, but the only one sufficient to display the disposition of a good and caring son, I did not hesitate before the danger, nor did I, reckoning the magnitude of the daring deed, become more cautious; but thinking it better to die than to look on while my parents perished, and considering this danger alone enviable and worth fighting for, I rescued my father, who was surrounded by fire on every side."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.15.1",
+   "text": "It seemed to me more just to help him first, for I saw that if I wanted to help both at once I was the less able to do it; but though I showed the same eagerness for my mother, I failed to save the poor woman, since the fire had become the stronger, and I was robbed of my eyes, fighting it too stubbornly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.16.1",
+   "text": "When this had happened thus, and my mother, as I said, had perished, that good father, most affectionate towards his family, lamenting at once her death and at once my misfortune, was plainly mourning and groaning more bitterly over what I had suffered; but I, while lamenting my mother with him, tried to comfort my father: 'The suffering is terrible, father, but it also holds some honour; for when I consider the cause, I bear the misfortune more lightly. For it is a reminder and a token of my goodwill and eagerness towards you.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.17.1",
+   "text": "When we had ceased from our laments for my mother and a long time had passed after that, 'It is time, my son,' he said, 'to take counsel about what has befallen us, time for us to decide on what lies before us. I am already at this age, and I see that you need a great deal of care. Who, then, will both look after you and tend me in old age? It would be good for you to take a wife. The plan is useful to us both.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.18.1",
+   "text": "When he said this repeatedly, 'Will you not keep silent, father,' I said, 'and allow me to bear my misfortune easily? For by what you are now attempting to say you make my ill fortune heavier for me, stirring up the memory of my suffering and bringing into the open the hardship that lies in my calamity. Am I to put up with a wife, father, a wife, in this condition? So that with what eyes may I behold her, and, having beheld her, with what sight may I strengthen my goodwill towards her by constantly seeing her? For it is through these that the beginning of goodwill and intimacy, and the beginning of friendship and longing and of all the finest things, naturally arises."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.19.1",
+   "text": "How then, deprived of sight, shall I be able to obtain these things? And how will the woman look on me in this condition? How will she feel goodwill? How then will there be harmony between us? What benefit could I have from a partnership without sight? The begetting of children, someone might say. But that in fact is more a bar to the marriage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.20.1",
+   "text": "It is not a fortunate thing, father,' I said, 'that you are eager for. For children are a sweet and most precious possession, when they are disposed as is fitting and have been taught, and are by nature inclined, to care for their parents with goodwill; but only for those who see and are able to have the enjoyment of the possession. But what use, what profit is it to me, who can neither look at them nor recognise them, blind and wretched and deprived of all good things? For which of the children will be like me? I shall not see. Which [will be like] my fathers or forebears, and which will be dearer to me? It pains me to be compelled to say this and to reckon up the most terrible part of my misfortune."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.21.1",
+   "text": "But [am I to have them] so that I may leave my estate to them? To strangers? To aliens? For I shall think them suspect and bastards. I have a dearer heir, the people, the city. I shall spend my estate on what benefits the fatherland in common, funding choruses, paying war-taxes, making donations, giving freely, making myself useful now privately, now publicly. I shall perform public services with my money, since I have been robbed beforehand of [performing them] with my body. Through these I shall pay off my debt to the fatherland and shall be, as far as I can, a most useful citizen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.22.1",
+   "text": "Who then will look after me? Who will tend you in old age? Who will fulfil the care of us both? You yourself, father, take a wife. For you are already an old man and aged, and you need a wife not for bearing children so much as for tending you in old age; and there are many such women in the city."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.23.1",
+   "text": "Now I know what a terrible thing a stepmother is and how hostile by nature: she is capable of plotting against and utterly ruining a happy house, and clever, by unholy slanders and intrigues, or by poisonings and sorceries, at dissolving a father's goodwill, setting families at war with one another, and contriving in every way hatred of those dearest. She has also something murderous about her and worthy of the tragic stage. The dramas, at any rate, are full of such things, and human life is full of them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.24.1",
+   "text": "Nevertheless you will counsel her and exhort her and, by admonishing her, make her gentler, even if her nature drives her towards the worse, and if she plots you will expose it, so that her plotting is in vain. For you will neither tolerate her schemes nor be persuaded by slanders or tales concocted against your son. I know precisely your goodwill towards us, and you yourself have made trial of ours more precisely still.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.25.1",
+   "text": "My father was persuaded and married. But in following this [advice] he unwittingly took to wife a murderess rather than a nurse for his old age. Thus I became the cause of my own misfortunes and of the evils that have befallen me. For as soon as she had entered the house, immediately there were countless poisonings and intrigues and, most terrible of all, a most unholy murder."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.26.1",
+   "text": "She has come to such a pitch of cruelty and impiety alike as to kill him and commit a savage murder, and to dare to bring the charge of his killing against his son. At any rate, while she is on trial for what she dared, she tries to put me on trial, and says, 'You killed your own father too.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.27.1",
+   "text": "I, my own father? This is harder to me than my incurable misfortunes, this more unbearable than both blindness and orphanhood. I, by Zeus of the Fathers and of the Family, did away with my own father? The one who begot me, educated me, brought me up and cared for me? For whose sake I both wished to live and bore my misfortune more lightly? Who alone was the comfort of my life, alone the cause of my pleasure, keeping me company and talking and doing everything to please me?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.28.1",
+   "text": "At any rate, hearing his voice I was gladdened, and I seemed to see and to have the eyes of which I had been robbed. For while he was alive I saw everything and obtained all the finest things. But now I am truly maimed, now I have my misfortune complete."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.29.1",
+   "text": "Tell me, who wishes to become the murderer of his father? Indeed, what human being of a human being at all, if he has been educated as is fitting and has learned what befits one who has lived by the laws, serving the gods, knowing humanity? Does anyone strike his father, knowing him and convinced [that he is his father]? Does he insult him? Does he contradict him at all?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.30.1",
+   "text": "For my part I think that those who attempt to do any of these things are secretly strangers and bastards of the family. For who, if he is in his right mind, would grieve his own father? Who would involve a brother or friend or kinsman in some harm? Who is so wild? Who so savage?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.31.1",
+   "text": "Even wild beasts respect nature, and though fierce towards all others they display great gentleness out of love for their kind. At any rate I often saw them too, in that first happiness of mine, eagerly fighting and running risks for their parents, and serving and tending them and showing the greatest care. And all human beings are disposed towards their own fathers more affectionately than these by as much as those who have reason are gentler than irrational creatures, and those mildest by nature differ from the most savage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.32.1",
+   "text": "Why need I say a great deal? For you know these things, even if I pass over them. Most of you are fathers, and surely all of you have been sons. Which of you, then, either knows of or has heard of, I do not say a father's murder having taken place, but a son who mistreated [his father] with blows or used abuse against his father? Or am I alone the cruellest of all, alone the most bloodstained? If [I am] the most unfortunate, I would not deny it, for I have more than enough of that; but if [I am] the most wicked, I leave it to you to consider. For if [a man is] blind, he is not therefore also a murderer, nor, if unfortunate, therefore also a parricide."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.33.1",
+   "text": "Is the man who is humane towards strangers most cruel towards his own? Is he who cares for acquaintances and companions most hostile to his parents? Not one of the household slaves, I think, has been grieved by me, and would I have done away with my own father? I would not abuse a servant who looks after me faithfully, yet would I have become the murderer of my father, who was everything to me, father and friend, mother and kinsman, servant, guide, most indispensable slave? For he had already thought it right, out of goodwill towards me, to endure even the services of slaves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.34.1",
+   "text": "Even if I had not cared for him as a father, I would at least have spared him as one who served me. Even if I had been savage in character, I would have become milder through his kindnesses. Even wild beasts are tamed when they are tended, though they were fierce before. But I, it seems, am wilder even than the savage beasts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.35.1",
+   "text": "Before I received such great care from my father, I loved him, I was concerned for him, I ran risks for him, and everyone acknowledged my great goodwill; but when I was being tended beyond all expectation and getting what I wanted, when my former goodwill ought to have been doubled, was it then that I would have been seen to be ill-disposed and most hostile? And who would believe this?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.36.1",
+   "text": "I did not need such great care while I could see and could still do what was needed, yet I prayed to the gods on every occasion that my father be kept safe and experience nothing unpleasant, and I eagerly undertook every danger on his behalf. Then, when I did not need him, I was so concerned for him, but when I could not live without his care, would I have attempted to kill him, and gone all at once to such a bloody crime, having never before done anything disagreeable to him, never having contradicted him, never having grieved him with a word, never having been insolent?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.37.1",
+   "text": "And yet all men are accustomed to commit the small and petty wrongs before the greatest and most terrible. If someone contradicts his parents, clearly such a man will insult them, and if he insults them, he will in time strike them, and the further he goes, the worse he will become. But am I the strangest of all the criminals there have ever been, ill-disposed and a murderer at one and the same time?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.38.1",
+   "text": "And have I, wretched man, changed so far from my former disposition as to kill the man I was saving, as to become the murderer of the man for whose sake I gave myself up to manifest dangers, both fire and death? For how could it belong to the same goodwill at one time to run risks and save him and think it fitting to die before my father, and then again to kill the same man, to plot against him and display every hostility, and to have held him in greater honour than my mother, but now [to be] altogether more hostile to him than natural enemies, and, having run risks so that he would not become the fire's work, to have reserved the achievement for my own right hand? Certainly! For the two do not come from the same teachings, nor does each of these come from the same disposition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.39.1",
+   "text": "39. And with what aim would I have resolved in this way to commit impiety and be driven by the Furies, and to bring my misfortune to completion for myself and take away the consolation that remained, to add my father to my mother and show myself bereft on every side and most unfortunate? Was the misfortune not enough, the loss of my mother, blindness, all the hardest things, which I thought bearable only because my father was safe?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.40.1",
+   "text": "And what great wrong had I suffered that I took revenge so pitilessly? I, who received everything fitting, and experienced nothing unwelcome, thanks to my father. And this woman, who plotted against us all the time, I never chose to take revenge on, though it would have been just; how then would I have attempted to kill the man who had been the cause of no harm to me but of countless goods?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.41.1",
+   "text": "41. 'Yes,' she says, 'for you were angry because he gave the estate entirely to me and left you without a share.' Was I angry, tell me, by the gods, at what he did after taking counsel on my behalf, when I knew the intention with which he had so decided about the estate, and had become a partner and sharer in the deliberation?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.42.1",
+   "text": "For he, gentlemen of the jury, seeing this woman continually plotting against us and eager to destroy us utterly for no other reason than her desire for money, recognised what was expedient and disclosed his plan to us: to contrive something against her desire, by which he would stop her plotting against us, and stop her easily scheming against us from every side."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.43.1",
+   "text": "So reasoning, he thought it would be expedient to remove the pretext for her hostility towards us and to leave the estate to her alone. For in this way both things would turn out well: she would have stopped plotting, and he would not yet have made the favour secure. For he would be able afterwards to amend what had been written. Having taken this counsel, my father acted thus; with this in mind he then left me without a share of the estate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.44.1",
+   "text": "How then is it likely that I was angry at what he contrived for our safety? How [likely] that I took it hard because of what he thought he was doing out of goodwill towards us, and that at things for which I ought to have loved him more than before for his surpassing care, at these I was angry, and stretched my anger as far as irreparable and most terrible deeds?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.45.1",
+   "text": "And even if he had not written with this in mind, but truly wishing to make me a stranger to the estate, would it not have been more profitable for me, for that very reason, that my own father live rather than die? For while he survived there was hope that his intention would change and he would return to nature, and undo what he had done earlier when deceived, and value the truth above slanders, and correct an unfitting judgement with a better one; but once he was dead there was utter ruin, and the expectation of a change for the better was taken away on every side, with no hope remaining any longer. For what he would likely have done if he had survived cannot be once he has perished."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.46.1",
+   "text": "So was it in order that I myself might be entirely cut off from the estate, and secure for her the possession of all the property, that I did away with my father and took on such a bloody crime? For even if it had been the other way round, and it was not to be expected that I would get the estate while he lived, but receiving it was ready to hand as soon as he died, would I have gone so far in inhumanity as to commit murder for money, and that a father's murder? I valued my father's safety above my own, and would I have thrown away the man for whom I thought I ought eagerly to run risks and die, blaming him for the estate having been alienated from me?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.47.1",
+   "text": "Does anyone grow so angry over such grievances, and, having suffered nothing irreparable, is he provoked to kill his father? Anyone would say many things to himself before committing some terrible deed, and I had more reasons than others, as I reasoned, to bear my anger easily."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.48.1",
+   "text": "'My father has now wronged me, but he has already often done me good. He has left me without a share of the property, but he has been the cause of my birth. Greater things are more valuable than lesser, more than fewer, and older than those that came later. Even if he is angry now, in time he will be kinder. For the present he is stirred up; a little later, being a father, he will think better of it.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.49.1",
+   "text": "These things and things like them I would have said to myself, if he had happened to be hostile and had not so decided for the sake of what was expedient. But knowing exactly the intention behind what was done, what pretext did I have for anger against him?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.50.1",
+   "text": "And apart from this, is it not foolish to seem to be taking revenge, but in fact to be doing myself far worse wrongs, and through the very means by which one takes vengeance, to bring irreparable harm on oneself? For what is more unholy among all things than a man-slayer? And when someone does away with his father too, and dares that terrible deed, disbelieved among all men, Heracles, what impiety! No one in his right mind could bear to see even the imitation of such a drama on the stage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.51.1",
+   "text": "51. Besides this, I wish to say this to you as well. Many and great are the misfortunes of those deprived of sight, but the greatest is this: they themselves could not do anything unnoticed, while everyone plots against them without risk. How then would I have dared the murder, afraid that someone might see, and guarding myself above all against this woman who slept beside him? And how would I have recognised the very man I was eager to kill, I who am led by the hand in everything?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.52.1",
+   "text": "It is not so. How could it be? The impiety is yours, as a woman, and a stepmother at that, who chose to plot against her stepson, who coveted the whole estate, and who was disposed more hostilely toward your husband as well, because you saw him caring for his son, making useless the plots you set in motion against us, an unbeatable guardian at all times, and yet already overtaken by old age and no longer able to beget children."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.53.1",
+   "text": "These things, father, have wretchedly destroyed you: your great goodwill toward us, the unsurpassable degree of your care for us, the woman's desire for money, because of which she long ago plotted against us, and now has brought on, all at once, this irreparable plot."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.54.1",
+   "text": "54. 'And yet with what purpose,' she says, 'did I kill, when I had become mistress of the estate?' To make her possession of it more secure, to seize the abundance of wealth more safely, and to fear no change of mind on the father's part afterwards. For you knew, you knew his intention and how great his goodwill toward us was, from the advice he often gave you on our behalf, from his asking you to look after us, to desist from plotting, and to show the disposition of a mother rather than of a stepmother."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.55.1",
+   "text": "Using these as evidence, you suspected, you surmised, about the will. You clearly recognised the father's intention concerning the estate. For this reason you committed the murder, for this reason you became my father's murderer, wishing his decision about the estate to remain unchanged, cutting off by his death his change for the better, and taking away from him the time for a change of mind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.56.1",
+   "text": "For you were not unaware that while the father lived, you possessed the estate in appearance, but he, while he survived, was more truly master of his own property, and that when he came to the destined end of his life he would leave the estate to his son, reckoning this both honourable and just; but once he was killed, there would be no fear of a change of mind, the possession of the wealth would be more secure, and the estate thereafter free of risk, since the one who could have taken it away again had been killed; and through the same act it would be possible for you to obtain what you were eager for, and possible too to cast your stepson into irreparable misfortunes, rendering him orphaned, destitute, lacking necessities."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.57.1",
+   "text": "57. Perceiving that the killing of the father would be easy, she proceeded the more readily to the murder. 'The son,' she said to herself, 'is most devoted and eager toward his father, but he is blind, and more in need of someone to guard him than able to help another. No one else will prevent me from doing away with him, no one will catch me plotting against him. Now will not be the moment for the killing, but while he sleeps I shall easily be able to become his murderer."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.58.1",
+   "text": "And if I commit the murder, I shall escape the charge as well. For who will bring the accusation, who will eagerly drag me into court? If it is an outsider, he will most likely shrink from the risk, and if he does undertake it, knowing nothing exactly of our affairs, he will be convicted of bringing a false charge to no purpose. But if the son takes up the indictment, I shall accuse him of the murder in return, and shall easily put him in danger, bringing an incredible charge, it is true, against a virtuous son, the murder of his father, but able to use many pieces of evidence for the proof. For the very means by which I myself carried out the plot I shall use against the son. And by the same means we shall at once show him guilty and at once escape the penalty.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.59.1",
+   "text": "59. These things, then, having been so planned, some she has already accomplished, and the rest she expects to add. 'At any rate, you were caught with a poison,' she says, and she thinks she should bring against us the very things one might use against her. Now I would not deny that a poison was tied up in my clothes, but that the contrivance came from her is obvious. For she informed the father of it, and he at once suspected the plot, and when he asked where the poison came from and I kept silent, thereby indicating the malice against us, he understood the manner of the contrivance and rightly hated her wickedness in devising such things against her stepson."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.60.1",
+   "text": "For having had the good fortune of my blindness as a sufficient opening for every plot, she continually used this advantage against us. And she brought that poison and tied it into my cloak. For who would not go unnoticed by a blind man while contriving everything against him, doing what he likes in his presence, and openly devising the worst with the greatest freedom from fear?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.61.1",
+   "text": "Or, by the gods, was I so senseless as to suppose that others too were blind, and while preparing a poison, to make it plain to this woman that I was plotting? Whom did I intend to destroy with it, that I went about displaying it to those who could see? Her or my father? For on either alternative we shall show her to be bringing a false charge."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.62.1",
+   "text": "If she says the father, let her say for what reason. And ask her the pretext itself. For since the estate had not yet been given to her, on account of which, as she says, I was angered, what other cause could anyone name with which I began to plot? But if the poison was prepared by me against her, how is it that I was eager to kill her, yet instead of her did away with my father?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.63.1",
+   "text": "Then how is it not unreasonable to accuse me of plotting against my father, and, when asked for proof of this, to bring forward the poison, which in no way demonstrates a plot against the father?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.64.1",
+   "text": "I would gladly ask her this too, together with you: was this poison so conspicuous as to be plainly visible, or did it escape the notice of everyone else? For if it was conspicuous, first, it is surely sheer madness to plot to carry out something irreparable in secret, yet to betray it openly, as though afraid I might go unnoticed while contriving the plot. And then, with all the others, so many as they were at the paternal hearth, did no one ever see this and expose it, while the stepmother alone saw what was plain to all? And who would believe this happened without foul play?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.65.1",
+   "text": "But if, on the contrary, she says the poison was hidden, how did she look for it? How did she search out what was hidden? What prompted her to pry into our affairs? I for my part think this too is surely the greatest proof of her plot against us; yet she did not search for something hidden, but what she clearly knew because she had contrived it, this, with full confidence, she disclosed to the father. For she would neither have pointed out what the thing tied up was, if she had not known, nor would she have known it so exactly, unless she had happened to tie up the poison herself beforehand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.66.1",
+   "text": "At any rate the father at once recognised that this ambush against us was hers, and understanding, he asked where the poison came from, and knowing this too when I kept silent, he made his decision about the estate. For he thought he would thus stop her plotting. But he did not realise, it seems, that he was being clever against himself. For by the very means by which he thought to block her purpose against us, he brought upon himself a more fatal blow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.67.1",
+   "text": "Besides this, if he had been killed by poison, it would have been possible even then to expose the crime, and perhaps one might have been more suspicious; but where she dared the murder with a sword, why does she bring forward the poison here and say the drug is a sign of the killing? It is as if someone bringing a charge of poisoning had no evidence of it to offer, but said that he had seen the accused holding a sword. What, then, would one say to him? 'You thunderstruck fool, this does not indicate the charge. A poison proves poisoning, but no one destroys a man with a sword in this way.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.68.1",
+   "text": "68. And on these matters, I think, enough has been shown. For the poison plot was hers, and the father, reckoning this at once, I almost say, wept at my silence when questioned, by which I hinted the plot to him grievously. For by my silence I indicated the stepmother, being neither able to expose her openly then nor thinking it proper to tell any lie."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.69.1",
+   "text": "69. As for the sword, for this too she brandishes against us even now and brings it up often, I would say just this: the sword is our sword, kept for other hopes, which I will use for my country, for my parents, if need be, against the enemy; but fortune set it out, common to anyone wishing to steal it. And anyone in the house who chose could easily have done away with me too with it, since I could neither prevent its theft nor, surely, guard myself. Does anyone believe that I, if I had chosen to become my father's murderer, would have carried out the killing with my own sword, or, having done away with him with it, would have left it behind as evidence of the murder?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.70.1",
+   "text": "70. This, gentlemen of the jury, is her contrivance. That was the stepmother's scheme, by which she expected to achieve both ends: to escape notice as the murderer, and to gain a means of slandering us. But it seems that the divine power watches sharply over what is done, and through the very means by which someone plots against others and supposes he will escape notice in his crime, through these it proves him liable to the charges."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.71.1",
+   "text": "So, at any rate, by what she attempted against us she informed against herself. For having expected that daring the murder with that sword and leaving it in plain sight would give her sufficient evidence against me, she showed the opposite: that neither would I myself, had I done away with him, have planned so senselessly, nor would anyone else have arranged these things against me. Rather, the manner of the plot exposes the stepmother's design. For what murderer leaves behind a token against himself? What thief? What temple-robber? Who, having done wrong, carries it out by means through which he will be convicted?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.72.1",
+   "text": "72. Clever indeed is your scheme, fine indeed your contrivances: to murder, and to accuse in turn; to plot, and to charge others with what you have done. You misused my blindness for impiety, my misfortune for every kind of plot. 'If I fill his clothing with drugs,' she said to herself, 'since he is blind, he will not see them; these will now inform against him. If I steal the sword, who will inform against me when I have committed the murder? I will slander my stepson, and if I am asked for evidence, I will put forward the sword.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.73.1",
+   "text": "These are your sophistries, these your devices, surpassing all wickedness. Mine, woman, is the sword, but yours the daring deed. Pretending to sleep beside him, you ruined [him], having observed the moment for the murder right there, [the sword] with which you did away with that most unfortunate man. And he rested, expecting nothing fatal, while you, seeing him at last overcome by sleep, easily killed him."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.74.1",
+   "text": "But if the murder was not done in this way, how did you not notice the killing? How did anyone escape your notice while doing away with him? How, while dealing the blow and carrying out so great a deed? When he received the fatal wound and let out such a cry as those killed in this way are likely to let out, did you not recognise the murder? Did not the feel of blood rouse you at once, as it filled the whole bed and at the same time came close to your body? Did not, finally, the confusion and uproar, the whole house in commotion, and the great lament raised aloud?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.75.1",
+   "text": "Yet I, resting somewhere far from my father in other quarters, noticed at once, and roused, stood at the entrance of the house in which I happened to live, seized by shock and fear, but unable to go further; and you, sleeping beside the body, would the grief not rouse you? The neighbours, perceiving what had happened, came running, and those asleep were roused; but she alone, though sleeping beside the man lying there, was not disturbed at all by his fall? What sleep, what drug of insensibility, could have overpowered her so completely?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.76.1",
+   "text": "But, I think, what happened was pretence, and she imitated sleepers though no sleep had seized her, thereby making herself unsuspected and striving to escape suspicion for what had happened. For she thought that if she were awake, she would make herself detected by her face, her guilty knowledge and many other signs, but if someone found her asleep afterwards, as though knowing nothing of what had happened, she would escape suspicion for it. But a Justice that oversees human affairs turned the design of her crime to the opposite. For what she planned while trying to escape notice, this surely made her more evident."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.77.1",
+   "text": "77. 'But if,' she says, 'I were a bloody-handed woman and so savage in character, I would not have spared my stepson altogether and done away with my own husband.' Will you then tolerate her sophistry again, and, distrusting the facts themselves, attend to what was devised for deception? Still, this argument of hers too must be refuted."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.78.1",
+   "text": "Many things prevented my killing: first and greatest of all, my father, well-disposed, guarding, caring; then the fear of suspicion, the danger of punishment, the difficulty of the killing and the ease of the proofs. For neither did my father give her an opportunity for the killing, nor indeed did I, always afraid and on guard; nor, had she dared the murder, would she have escaped notice, nor would she have attempted, as now, to accuse others in turn; rather my father would easily have exposed the murder and would have stood over her as a most bitter accuser, now recounting her former plots and through them confirming the present ones, and again using the signs of the killing for proof. And if he lacked these, a stepmother's natural hostility towards stepchildren would have confirmed the suspicion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.79.1",
+   "text": "Besides what has been said, even if she expected to escape the charge of murder, she clearly knew she would lose the estate. For my father would have exacted this penalty from her, sending her away from the house and taking the estate from her. And now the sword and the drugs have given her a pretext for slandering us, flimsy, as has already been shown, yet still contributing to an easily detected slander; but then, what drugs, what sword, what plot could she have contrived to shift suspicion of the killing onto another?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.80.1",
+   "text": "And with my father dead, she expected easily to kill me too afterwards, either secretly, since no one would guard me as before, or by bringing a charge of such great crimes and putting me in danger of everything; but if I were killed, one of two things would follow: either she would suffer punishment, or, with my father hostile to her, she would neither be able to kill him as well, since he would be wholly on guard against her, nor be mistress of the estate thereafter. For this reason she postponed our killing to another occasion, and this became the prelude of her bloody crime, while me she reserved for a second contest."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.81.1",
+   "text": "81. To be dead, then, will be welcome to me, but a death befitting an unfortunate man rather than a criminal; and to end my life now, but first to exact vengeance for my father. For she has handed over drama upon drama, beyond belief to those who hear, most terrible to those who see. So my blindness was not unfortunate in every way, my misfortune was not wholly without gain. Even a misfortune that cannot be surpassed often brings some profit. At any rate I recently found my misfortune a piece of good fortune: I did not see a most horrifying sight, I did not see a savage suffering."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.82.1",
+   "text": "If only the power of hearing too had been taken away with it, and I had been maimed in both. For so I would have been at once unseeing and again unhearing of the suffering. But now, spared the sight, I learned the misfortune through my ears. For what a drama, O Sun, did they report to us! What a display of bloody crime!"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.83.1",
+   "text": "That most unfortunate father lay dead in the very posture in which he happened to be sleeping, killed by an inhuman blow and flowing all about with his own blood and gore. And she, fouler than any beast, who had done the murder, rested beside the body. And that unfortunate sword made the sight more horrifying, being recognised as the son's, and, because the deed had been dared with it, making the misfortune more terrible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.84.1",
+   "text": "Learning and recounting these things, how do you think I was affected? How, too, do I bear thinking of them? I think I myself am being killed by the sword and the blow is being brought against me. Now the Furies are quiet, now neither avenging spirits nor any Avengers drive the bloody-handed woman. But these, they say, arm themselves against children and avenge fathers killed by their children, yet at such impieties they are not stirred, when a woman has done away with her own husband at the very moment of trust and partnership."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.85.1",
+   "text": "85. It is I, father, who truly killed you. Because of me you suffered this punishment. For why did you love me sincerely? Why did you care for us so eagerly? Why did you make your surpassing care evident, and so make your wife more hostile, not even pretending to hate your son, so that you could hide your care, nor keep up a pretence of anger by seeming angry with us?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.86.1",
+   "text": "86. You were evident even then, angry in appearance but rather showing your goodwill. You could not, father, feign hostility towards us. This most wicked of all women perceived your intention. So she thrust the sword through both of us, for she wounded me too more mortally, and we both have become the work of the same blow. For how do I differ from a senseless body? What do I have in common with the living?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.87.1",
+   "text": "87. I have only the sense of my own misfortunes, and, robbed of the knowledge of the finest things, I know my own calamities. I saw my mother being consumed by fire, and, having seen what should have made my eyes fall out at once, before that sight, I was robbed of them as well. When I became blind, I had my father's safety as sufficient consolation. One eye was left to me, and the finest, my father. And of this too I have been maimed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.88.1",
+   "text": "88. I go about as a memorial of disasters, of the magnitude of misfortunes. One might call me the most unfortunate. Everyone names me the maimed one. If someone should say 'the maimed one', he will mean the ill-starred one. The unsurpassable [scale] of my disasters has become more properly my name than my former one. For they have made me a byword for misfortunes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.89.1",
+   "text": "And almost everyone in the city grieves with us, but the stepmother laughs at my misfortune and tramples on our troubles. And she pretends to mourn my father, for she has practised pretending, sometimes sleep, sometimes mourning and tears, but she is already contemplating marriage again, holding out the estate and luring many with our money."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.90.1",
+   "text": "90. Now you weep, woman, now you lament and expect to be pitied by these men. There was once a time for tears, a time for pity and humanity, when my father, trusting in the gods of marriage and the law of partnership, was taking his rest, and you committed the most savage murder of the ill-starred man, considering neither his pitiable old age nor the long habit of your life together."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.91.1",
+   "text": "Having dared such things she stands here; having come from such impieties she pollutes the court. You need purifications, or rather the whole city does, from so great a pollution. And the most fitting purification will be her punishment. But I shall give what is left of my body to a purifying fire. For before, fire that came of its own accord consumed my mother and my eyes together; but now, having taken vengeance on the bloody-handed woman, I shall add what is left to a fire made by hand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.92.1",
+   "text": "92. For on what hopes shall I still live? Who will care for me? Who will look after me? What father, what mother either, will show me kindness? What ancestral hearth, what home of my forefathers will receive me? Whence [will come] help with necessities? For these too have been destroyed along with my father. And everything together has become the stepmother's: the estate, the murder, our utter ruin. My father barely obtained a burial, barely, O Earth and Sun, the customary rites, though he left a sufficient estate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.93.1",
+   "text": "For this reason it is good to die, for this reason it is more profitable to end my life having avenged my father. For you have an avenger, father, an avenger of your murder, who is, it seems, most fortunate only when he must contend for you in some way. For I overcame that hostile fire, fighting for your safety."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.94.1",
+   "text": "And now I have taken up this more terrible contest, for she is far harder than the fire, but I nevertheless trust that I shall prevail. For compassionate judges will console me, who have learned to punish and hate the wicked, but to pity the unfortunate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.95.1",
+   "text": "95. I shall make to all of you a request perhaps the least distressing: let the executioner do away with her with this sword. Let us cleanse away the gore that lies upon us with her blood. And if you approve, let us slay her besides at my father's tomb, a sacrifice both pious and most just. For thus, I think, we shall make his spirits more favourable to ourselves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.96.1",
+   "text": "So I shall not see the bloody-handed woman justly <being put to death>, nor be able to become a spectator of the punishment, but nevertheless, hearing people recount it, I shall seem to have seen her punished. This account will console me for the one given the other day about my father's suffering; this will cause that report to fade and will make my disaster lighter."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00549.opp-grc1.2.97.1",
+   "text": "97. I, then, O gods of my fathers, have helped my father both living and dead, doing everything within my power; but who will care for me? Who will tend me and bury me when I die, utterly desolate and most unfortunate as I am? Saying only this much I shall step down: may it be, gentlemen of the jury, that you never have experience of a stepmother; but if this should happen, let no one trust her, even if she pretends goodwill. For she will be all the harder and will do harm more terribly, the more she escapes notice while contriving worse things against those who trust her. Having learned this by experience, as I wish I never had, I would be, it seems, a worthy adviser, and more profitable to my hearers than to myself."
+  }
+ ]
+}

@@ -1,0 +1,390 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0293d.stoa004",
+ "edition_urn": "urn:cts:latinLit:stoa0293d.stoa004.ai-claude",
+ "source_edition": "stoa0293d.stoa004.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Contra Felicianum Et Arianum De Unitate Trinitatis Optatum Liber: AI translation (Claude)",
+  "author": "Vigilius Tapsensis",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0293d.stoa004.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.head": "The edition's 'ratione convicto' is taken as referring to the learner. In ch. IV 'ut ille ait' likely echoes a classical author (cf. Cicero); unidentified. The final sentence of ch. V is awkwardly constructed in the Latin; the rendering follows the evident sense.",
+  "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab7": "Line 39: 'et hoc utpote proprio' is elliptical; rendered as 'by this, as his own [property]'. In line 29, 'genua' is read as 'genita' and 'ahero xvo' as 'altero aevo'.",
+  "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab11": "Ch. XIII, last sentence: 'non per veri similitudinem' is obscure; rendered literally. Ch. XI: 'Non enim sicut ... sic ad Patrem refertur' read as 'just as ... so ... is not referred', the negation applying to the second clause. Ch. X: 'qui aliquando non defuit' rendered 'who was never at any time absent'.",
+  "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab15": "Printed page numbers and evident scanning errors (e.g. 'pe- Llimus' for pedibus, 'ex a n- gulis' for ex singulis, 'Datus' for natus, '\"nam' for unam, 'actavit' for aptavit, 'nasti' for nasci, 'cum suscepisse' for eum suscepisse) have been silently corrected. In 48, 'in nullo differentem monadem, nisi quod monas docetur' is obscure as transmitted; the bracketed '[begotten as]' is conjectural. In 48, 'nascimur' is read as nascitur ('he is born'). In 49, 'quia contra rationem vi orationis exorta non in nobis possunt esse continui' seems corrupt (no subject agrees with 'exorta'/'continui'); the rendering is a conjectural sense.",
+  "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab18": "The 'reading from the Apostle' (Rom. 5:12–19) is given as the text quotes it, including 'in whom all sinned'. In ch. XVII, 'quae hujus praecedentis sunt consecuta' is awkward; rendered 'what follows from this premise'. In ch. XVIII, 'poenae... ad dicta' is read as 'addicta' (bound). In ch. XX, 'Christi autem divinitati' is read as 'divinitatem' (subject of 'sensisse'). 'Postliminium' is the Roman legal right of a returning captive to recover his former status.",
+  "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab22": "Line 58: 'substantiæ sim plenitudine' is garbled; read as 'substantiae suae plenitudine'. Line 60: 'tenebrale majus' is an ironic coinage parallel to 'luminare majus' (Gen. 1:16), rendered 'greater darkness'. Line 63: 'plus parens' read as 'plus apparens' ('appearing more'). Line 61: 'tertium ... speciale majestas est' is awkward; taken as the majesty being a third element beside soul and body."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.head",
+   "text": "VIGILIUS OF THAPSUS, AGAINST FELICIAN THE ARIAN, ON THE UNITY OF THE TRINITY"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab1",
+   "text": "A BOOK TO OPTATUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab2",
+   "text": "CHAPTER ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.1",
+   "text": "You have pressed me, dearest son, to write something on the unity of the Trinity, which is always the perfect and highest God, not forgetful of my priestly duty. And when, conscious of my own weakness, I repeatedly excused myself, you demanded it of me in many ways, asserting that the religious receive an account of the common faith, and that priests ought not to deny it to the faithful: lest either the former, while they do not receive it, begin to be easily deceived by unbelievers, or, when the latter do not give what is desired, the heavenly treasure should seem not to be spent on the members of Christ, but in a manner hidden in the earth of a barren skill. And so I confess myself overcome by persuasive reasons, lest I seem to hand over the unarmed to the evils that oppose them, while they are not equipped against unbelievers with the defence of truth. But since in questions of this kind a certain obscurity is often met in continuous discourse, it therefore seemed best to me to take in, within the brevity of the present little book, the conversation that was recently held between me and Felician, with the initial letters of the names set before [each speech] to distinguish the persons."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab3",
+   "text": "CHAPTER II."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.2",
+   "text": "For when some days ago we were sitting together, he then said: \"Among other things that often offend me in your disputations, I think nothing worse than that you hand on the precepts of the faith to the untaught in such a way that you prescribe to those you converse with, not by reasoning about the things to be understood, but rather by a kind of display of testimonies. Not to call this crafty, everyone knows meanwhile how boorish it is. First, if the one being taught already believes the books, he complies, he does not resist; otherwise, he must contradict the very testimonies that are pressed on him as proof no less than he contradicts you. And therefore this seems to me the better way of teaching, by which first an account of the faith is given without testimonies; then, once [the hearer] is convinced by reason, that path is polished with the Scriptures agreeing. And not without reason. For if these testimonies are proved by this, that they are not lacking in reason, reason can suffice by itself, since it seems to establish even these only through itself. But if the contrary: who can bow the neck of a rational faith to irrational testimonies, even if they are claimed to be divine? And that way of disputing, I admit, I would tolerate in others, whom the necessity of inexperience, since they cannot stand on their own, compels to take refuge in what belongs to others. But in you I will in no way at all put up with it, because I see that you lack neither eloquence nor knowledge of the faith.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.3",
+   "text": "Then I said: \"Do you really think I am so led by praise of myself as to do injury to the saints who went before, and that I would ever presume on wisdom of speech, lest the cross of Christ be made void (1 Cor. 1:17)? Rather, content with the authority of the Scriptures, I strive to obey simplicity rather than pride. 'But,' you say, 'one is better taught by reason than by testimonies.' What then? What reason can you bring if you preach the childbirth of a virgin, if you do not deny that sight was given back to the blind, if you show that the buried returned from the dead? If, then, the reason for these things is incomprehensible and yet their truth is evident, in matters of faith it is easier to believe testimonies than to search out the reason. But since you distinguish these two not too inconsistently, in that, putting reason first, you do not leave out testimonies either, I confess I shall follow in this disputation what you yourself have approved.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab4",
+   "text": "CHAPTER III."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.4",
+   "text": "Fel. said: \"Then,\" he said, \"since we are at leisure, let us come to the question of your <i>homoousios</i> [of one substance], which has often been discussed not only between us but also among our elders. And so that the discussion does not wander too far, take on yourself now, as you usually do, the role of proposing, and question us who seek the account of our faith, intending in turn to give your own.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.5",
+   "text": "Then I said: \"Tell me whether what I hear you say is true, that the Son is not at all <i>homoousios</i> with the Father.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.6",
+   "text": "Fel. said: \"It is true, and I cannot be persuaded that what is begotten is unbegotten, lest I seem to preach the same one as Father whom [I preach] as Son.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.7",
+   "text": "Aug. said: \"It is not so: for not even I have it in mind that the same one is unbegotten who is begotten, but rather that what is begotten is that which is unbegotten.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.8",
+   "text": "Fel. said: \"And how do you not say that the same one is unbegotten who is begotten, if you think both are one, not another?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.9",
+   "text": "Aug. said: \"I notice that you have not at all attended to the force of the words: for when I say both are one, I do not separate at all the substance of the true Father and the true Son. And when I preach that the Father is not the same one as the Son, I distinguish the person of each, preserving the property of each one. So if you ask about substance, the Trinity itself is one God; if about person, the Son is another.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.10",
+   "text": "Fel. \"And how do you say both that [he is] the same and that the Son is another?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.11",
+   "text": "Aug. \"The same,\" I said, \"by communion of substance, another by property of person.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.12",
+   "text": "Fel. \"I do not know how there is believed to be one substance, when there is not said to be one person.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.13",
+   "text": "Aug. \"There is not one person,\" I said, \"because one is said to have begotten and the other to be begotten; and yet the substance of the one born and of the one begetting is not different, because [the one born] is taught to have come forth not unlike the one who begets.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.14",
+   "text": "Fel. \"I should like you, please, to clarify what you have said with an easier example.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.15",
+   "text": "Aug. \"In incomprehensible things, indeed, examples are not available to one disputing; yet as far as possible I shall not fail in this respect either. See, then: a human father has a human son. What is common to both is that he is a man; yet it seems proper to one that he is son, to the other that he is father. For in both the person is distinguished in such a way that the common humanity is not denied; while one begets, the other is begotten: but both the one who begot and the one who is begotten are equally called man.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab5",
+   "text": "CHAPTER IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.16",
+   "text": "Fel. \"This at least I should like you to say: is the begotten separated from the unbegotten by a beginning, or not?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.17",
+   "text": "Aug. \"Not even this is accepted by the truth of spiritual understanding, that the Father is separated from the Son by an interval, I do not say of time, which consists of days and nights, but of any space of age or period.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.18",
+   "text": "Fel. \"If this is so, you admit two unbegottens. And how is the one thought to be the person of the Father, the other of the Son, when through the meaning of a common 'unbegotten' both seem to be confused?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.19",
+   "text": "Aug. \"In this a sophism of no small malice is indeed woven by your elders; yet with the help of the Trinity itself it must be undone by catholic simplicity. For I say the Father is unbegotten, the Son begotten, and yet I do not therefore deny that the begotten is coeternal with the unbegotten; teaching only that the Father is unbegotten in that he did not proceed from another, and the Son begotten in that he did not come into being from himself. For being born is not common to both, not being begotten is not common; and yet it is common that the one is not torn from the other by an intervening interval of time. So if we seek what is proper to the Father, it suffices that he alone has no Father; if [what is proper] to the Son, it is enough that he has no offspring; but we say the deity of Father and Son is one and coeternal.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.20",
+   "text": "Fel. \"As far as I am concerned, I do not see what you are now concluding. For although you contend with me with Aristotelian subtlety, it still cannot be that you distinguish him who was begotten from him who begot by no priority of intervening age.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.21",
+   "text": "Aug. \"I know indeed, as that man says, in how difficult a place the discussion stands; yet we have nothing to fear, who through the help of the Holy Spirit bear witness to God. What then shall we say? Is there anything in the Father that is denied to be unbegotten, or not? If there is, let him be called unbegotten not wholly but rather in part; otherwise, the Son did not begin to be from a point in time. For if the Father's fatherhood did not begin, no beginning of the offspring can be found. If a beginning of the offspring is granted, the fatherhood of the Father will not be shown to be eternal. And how will it stand that you teach the whole in the Father is unbegotten, you who think the very name of fatherhood had a beginning, when you say the Son began from a point in time, [the Son] by whom, before he existed, the Father cannot be said to have been named?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.22",
+   "text": "Fel. \"I am not so foolish as to place time before the Son; but it is certain that a beginning is granted to the begotten.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.23",
+   "text": "Aug. \"What then? Do you say there was nothing in between the Father and the Son?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.24",
+   "text": "Fel. \"Exactly so.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab6",
+   "text": "CHAPTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.25",
+   "text": "Aug. \"How then do you deny the Son is coeternal with the Father, you who admit there is nothing in between the Father and the Son, lest that very thing be shown to be not only something in between but a third?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.26",
+   "text": "Fel. \"Since you hem me in by the art of disputing, I shall briefly set out what was said by our elders. For they say, whenever the beginning of the Son and the eternity of the Father are discussed: 'There was when he was not, and before he was born he was not.'\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.27",
+   "text": "Aug. \"As far as I notice, while the error of wrong belief remains, only the words have been changed. For you said, 'There was when he was not.' Do you want this 'was' to refer to an age, or to the Son? If to an age, that is, as it were to some space of eternity before the Son's birth, see, you slide of necessity into the earlier blasphemy, since you insert some third thing, time, between Father and Son; and you say that before the Son there was God the Father and time; after these two, the Son; after these three, the Spirit fourth. But if we admit that the Son could not be begotten without time, see how widely what we say extends. For if the Son is not without time, certainly he must not be said to be begotten except in a place. Once this is admitted, before the Son and the Spirit, time and place are taught to be in a manner coeval with the Father. But if it is so, that the Son could not be born without place and time, in what place or in what time do you say place and time were made? If in none, see, time and place could be made without time and place. If in some, that very thing seems to be time and place, in whose origin likewise a place and a time are required. But if something could be made so far without time and place that you teach neither that place was made in a place nor time in a time, I do not know with what rashness you contend that the Son could not be born without these, who, as far as sound faith is concerned, is taught to have made both place and time. But enough of this. Now let us consider what you proclaim was said by your elders. 'There was,' you say, 'when he was not.' If you refer that 'was' to time, see, time is before the Son; if to the Son, the Son never was not: for the Son already was when there was no time, by whom time is said to have been made. 'But before he was born,' you say, 'he was not.' Who, I ask, was not before he was born? If the Son, see, by that very understanding time is said to have been before the Son. But if before the Son was born there was no time, it follows that the Son is said to be coeternal with the Father, between whom and the Father there is said to have been no time: especially since, among other things, as the evangelists attest, the Son is said to have made even time. But perhaps someone may think it was said of the Father: 'There was when the Son was not.' The words that follow do not agree with this sense, in which it is said: 'And before he was born he was not.' For the Father, being always existent, cannot be said to be born even by you; and of him who is not taught to have come forth from a beginning, 'There was when he was not begotten' cannot apply to the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab7",
+   "text": "CHAPTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.28",
+   "text": "Fel. \"Since, in my opinion, you weary me not a little with words that contend with unexpected subtlety, I ask you, if it can be done, to show by the example of some thing or other that what you are trying to teach is possible. For, though overborne by the force of your speech, I cannot otherwise believe that the begotten is coeternal with the Father, unless you say either that both are begotten, or that each is father to himself.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.29",
+   "text": "Aug. \"Since you drive me to examples from things that cannot be compared, let us therefore see what the power of fire is, from which there is always brightness and always heat. Both are born from it, and yet fire is not for that reason found at any point without either of them. These three do not beget one another, for it is not that fire and heat are begotten from brightness, or fire and brightness from heat, but brightness and heat are always begotten from fire. Since this is so, do you see that even among creatures something can be born, and yet no time can be shown in which that from which it was born could have been found without what was begotten? If, then, we perceive these things by visible examples, why should we not proclaim similar things of the Father and the Son, and the Holy Spirit, at least as far as their common and undifferentiated eternity is concerned? For it is not therefore necessary that we call the Father and the Son and the Holy Spirit equally unbegotten, because we say that none is separated from another by an intervening age: since among other things too certain begotten things are shown to be neither equally begetting, nor existing without one another. But what is the use of collecting many of these, when from the testimony of a few the rest too may be judged?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.30",
+   "text": "Fel. \"Since you throw my opinion, founded on the authority of the preceding Fathers, into confusion with a new art of disputing, I would therefore like you to tell me what you think of the nature of the Son of God, that is, of his very substance. For if, as you are accustomed to say, he is homoousios [of one substance] with the Father, he is in a certain way father to himself; otherwise he cannot be consubstantial with the begetter. For one of our people used to mock the opinion of the Homoousian thus, saying: 'If the Son was brought forth not from outside, but from the very same [being], the one has in a certain way been divided into two, since the begetter is said to be nothing other than the begotten.'\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab8",
+   "text": "CHAPTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.31",
+   "text": "Aug. \"While you say that we contend with Aristotelian art, you yourself seem to have fled to the snares of the dialecticians. But these things can in no way frighten us, who trust in the truth of the faith. What then do you say? I suppose, that the Son could not have been born from the substance of the Father, lest we seem to divide the unbegotten Father by the generation of the Son. But if this is so, he is wrongly believed to be the Son who is proclaimed not to have been begotten from the Father, that is, not from the very same [being], but to have been made from outside among other things. That this may be easier to understand, I shall explain this very point as best I can. For of sons some are adoptive, others natural. Those who are begotten are always sons and their own from the beginning; the others are first strangers, afterwards sons, when they are seen to be taken into the family by adoption. To which, then, is the Son of God to be compared? If to the adoptive, he will be like us in the Father's presence. If to [sons] of one's own, he must be said to have subsisted from the substance of the begetter. 'But,' you say, 'the paternal substance is divided in two, if the Son is begotten substantially from the Father alone.' How foolish this is, even visible things themselves teach us. For who, even among fleshly fathers, was ever divided by begetting? But if division itself does not befall even the condition of the body, and no one has begotten a son in such a way as to lose half of himself, do you say that the Son could not have been born with the Father's integrity kept intact? But why say more? To those searching into the birth and origin of the Son of God these [possibilities], unless I am mistaken, present themselves: that is, that he is either from the Father, or from nothing, or from another, or from himself. Let us, I ask, see what follows from these. If from himself, he is not rightly called Son, who is proclaimed not born but unbegotten. If from nothing, he is shown to be a creature along with the rest, not the author of creation. If from another, he is proclaimed the son not of him in whom we believe, but of some unknown father or other. But if beyond these four no fifth can be found, and three of these cannot be proclaimed at all because of their evident blasphemy, it remains that he was begotten substantially from the Father: because, as we have said, neither can a fifth be found, nor can any manner be shown among these besides the first, inasmuch as he is neither a creature, nor the son of another father, nor called unbegotten like the Father.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab9",
+   "text": "CHAPTER VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.32",
+   "text": "Fel. \"As if I had proclaimed either a fifth beyond these, or any of these three: I who say that the Son did not come to be from the substance of the Father in such a way that I yet do not deny that he was begotten by his will.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.33",
+   "text": "Aug. \"By the very consequence you are thrust into one of the aforesaid. For when we inquire about the substance of the Son, whom you do not admit to have been begotten substantially from the Father, without doubt you contend that he was made from nothing among other things: since we say that not even corruptible creatures have come to subsist otherwise than that God both willed to bring them about by his ineffable dispensation and was able to by his singular power, as we know that there was both the will, by which it pleased God, and the power, by which the possible is subject to the Lord.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.34",
+   "text": "Fel. \"Is the Father's power then not sufficient for the Son's existence?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.35",
+   "text": "Aug. \"As if I were arguing about the Father's power, and not about the very truth of fatherhood. Or did he prefer to be called Father of one whom he willed to be like not to himself but to creatures? And therefore you must admit that the Son came to be from the substance of the Father, if he is both born and God: or else deny him to be both Son and God, if he was created not from the paternal substance, but from none, by the Father's will and power alone at work, as also in other creatures.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.36",
+   "text": "Fel. \"Since you compel me by necessity to a confession of this kind, I shall not keep silent about what our elders are accustomed to say. For they say that the Son is a creature, but a perfect one, and one which is able to rule over all creatures.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.37",
+   "text": "Aug. \"I am glad indeed that you have betrayed by open confession the inner poison of an irreligious preaching: yet you put forward nothing that seems worthy of belief. For a creature is the substance of any corruptible thing, made through the will of almighty God from what either is not yet or once was not, as far as lies in itself. Let us see whether this definition applies to the Son of God. For the Son, in that he is, was brought forth in the truth of an undifferentiated nature: because he was born not unlike him from whom he is, that is, from the begetter. And therefore between the Son and a creature this, unless I am mistaken, is the first distinction: that he is begotten substantially from the Father; a creature is brought to completion not from the substance of its maker, but from his will and power alone. It is corruptible by nature, unless it has been preserved by grace. He is incorruptible, who by being born is seen to have an incorruptible substance from an incorruptible Father. The Son is like the Father in all things; the creature unlike its maker. He [went] not from what is not into what is, and therefore never [goes] from what is into what is not. It [went] from what is not into what is: and therefore, as far as it is concerned, by the condition of its origin it returns from what is into what is not.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab10",
+   "text": "CHAPTER IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.38",
+   "text": "Fel. \"I do not see what you are wrapping up in the secret of this obscurity; and so you will do right if you explain more intelligibly what, in my opinion, you have said incomprehensibly.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.39",
+   "text": "Aug. \"I said, I tell you, of the Son, when I was distinguishing him from the definition of a creature, that he [went] not from what is not into what is: which is as if I were saying, he was not made from nothing. And therefore never from what is into what is not; that is, he is never to be dissolved into nothing from that very thing which he is, by the property of his nature. But a creature [went] from what is not into what is. By this it is shown that it was brought forth from nothing. And therefore, as far as it is concerned, from what is into what is not, that is, into nothing, it must be turned by the quality of its nature, unless perpetual grace acts. Therefore the Son, who is shown to be substantially everlasting, will never not be; and by this, as his own [property], he is rightly known to be set apart from the condition of all creatures which were made through him.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.40",
+   "text": "Fel. \"Although you dazzle my understanding with a new subtlety of things, I still do not know on what grounds you say that the Son is coeternal with the Father: since by the common manner of speaking, and by the law of nature, the begetter seems to be prior to the begotten.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab11",
+   "text": "CHAPTER X."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.41",
+   "text": "Aug. \"If we judge the author of nature by the laws of creatures, when we proclaim that the Father is prior to the Son, why do we not say, by the same law of nature, that the Son becomes stronger than the Father with the passing of time, since growth is not lacking to him as he is born, and old age brings on the Father the injury of weakness? But if reason itself does not admit this, let us set aside in God the law of bodily understanding, so that we do not say the maker is like his works; above all since from what is evident among us we can show even what is hidden. For just as a mother without precedent gave birth to her own author, so the Father must be believed to have begotten ineffably a coeternal Son. He was born of a mother who already existed before; [he was born] of the Father who was never at any time absent. Let faith believe this, let understanding not inquire into it: lest it either think incredible what it has not found out, or, having found it, not believe it unique. For see, Christ was born of a mother, and yet the mother's chastity was not diminished for that reason by contact with a man. A virgin gave birth, because a virgin conceived: and without the order of things being kept, Christ took an entire body from the entire body of his mother. If then he is shown to have been born from a body according to the flesh in a new way, with no precedent, what wonder if he proceeded from the Father not according to the custom of human birth? The son, begotten of her alone, did not diminish the substance of his mother, and we know that the body of the son was born without harm to the body of the one giving birth: and is the incorporeal substance of the Father believed to have been diminished, when he who was brought forth from that very [substance] substantially and incorporeally is said to be begotten? Therefore if we weigh the nature of things with understanding as our guide, let us grant [him] a beginning, if we do not deny [him] an end. Otherwise, let us say that the Son has no beginning precisely because we confess him to be everlasting not by grace but by nature. In sum, greater and lesser can be said in three ways: that is, in age, in form, in power. In age, an old man [is greater] than a boy; in form, a tall man than a small one; in power, a strong man than a weak one. Let us see whether any of these applies to the Son. For he is not lesser in age, who, it is agreed, came forth as a beginning from the Father as beginning; nor in form, since it is not right to proclaim him as anything other than God; nor in power, since we know that by him the whole was made perfect.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab12",
+   "text": "CHAPTER XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.42",
+   "text": "Fel. \"I want to know how the dignity of the Father passes to the Son, and the lowliness of the offspring does not pass back to the Father.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.43",
+   "text": "Aug. \"The everyday examples of things teach us that these things are not now said according to nature. For see, let us suppose that some king, and a king's son, laying aside the insignia of royal majesty, puts on the clothing of a subject soldier, and for a certain arrangement of his father's and for the safety of his comrades endures the insults of rebels: surely, because it is certain that a share in the royal power comes down to him by birth, it is not therefore certain that the injury to the son reaches the one who begot him, not by a feeling of compassion, but by the very property of the suffering? It is not so, because it is certain that the father was not born of the son, but the son of the father. And therefore we say that everything between them which pertains to the communion of nature is alike; but that is proper which is known to have befallen one person by accident. The Son, then, by being born has with the Father everything that the Father is, but the Father [does] not [have it] from the Son. Whatever he himself suffered specifically is not common to both. That a man is born of a man is a specific accident. And very often, without prejudice to the common nature, neither is shown to have in the other [what is proper to him]. The Father's substance is one, his person one. When this begot, beyond doubt [the begotten] is known to have come forth not as different from it, but as another; which is shown to be nothing other than the first, since it is shown to be both common and proper: common, I say, by unity of substance, proper by distinction of person. Since then that which was born exists in itself, whatever befalls it does not necessarily pass to the begetter; as whatever is agreed to be proper and substantial to the begetter passes to the one born. For just as the divinity of the Father was conferred on the Son by the very begetting, so the sickness, poverty, death and lowliness of the offspring are not referred back to the Father. This does not happen because, although [the offspring] was begotten like [him] from one, that is the father's, substance, yet because it now exists in itself, whatever is brought upon it inwardly is said to be not common but proper. If then this is the condition of the human race, since the substance of the son is never so far changed into something else from him who begot him that it cannot be the same, but [only] another; while, though many things befall the son externally, the nature nonetheless remains common; what is it fitting for us to believe of God and his Son, what is it proper to proclaim? Although their nature is not unlike according to the simple glory of undivided majesty, a body was specifically taken by the Son, so that he who could suffer nothing in the divinity of the common substance might be humbled in the weakness of our flesh. The man, the son of a man, did not take another nature. And though he suffers in the same [nature] which is common with his father, yet he does not pass the injury on to the father: nor is God the Father believed to have been humbled in the Son passibly, since [the Son] is believed to have endured the faithlessness of the Jews not in that very [nature] which is common to both, but rather in ours, which he alone took up. In sum, what, I ask, is it that hung on the cross? What is it that the lance is said to have wounded? Passible flesh, or the substance of the deity? If, as a profane preacher of the incorporeal, you take [it to be] the majesty, you are seen to believe God corruptible. If [you take it to be] passible flesh, this is not common with the Father, so that through it that cross could touch him.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab13",
+   "text": "CHAPTER XII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.44",
+   "text": "Fel. \"While you sweep away like a torrent everything said by us, you are in fact proclaiming two Christs, not one. And not without reason; for if the divinity endured nothing at all in him, Christ according to the man was another; otherwise, through the feeling of the common deity, the suffering itself reached even the Father.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.45",
+   "text": "Aug. \"It is not so. For I neither confuse nor divide our Saviour. I do not confuse [him], lest I proclaim either an incorporeal and imaginary flesh, or a carnal and mortal deity. I do not separate [him], lest I seem to introduce one offspring of God the Father according to the flesh and another according to the majesty: because the same Son of God both proceeded from the Father without beginning, and deigned to be born in time from a Virgin. Impassible in what is his, he suffered in what is ours, while he deigned to clothe his incomprehensible majesty as if with a garment of flesh. From both [there is] one person of the mediator, not one substance. One person, I say, lest Christ be any less; not one substance, lest, the dispensation of the mediator being removed, he be called Son either of God only or of man. I do not, therefore, extend the flesh taken up in Christ by the everlastingness of the divine generation, nor do I confine the immeasurable deity within the age of a bodily birth; because the same who in divinity is the author of things is in the flesh the Redeemer of men; the same is impassible in himself who suffered in the body; while, born like both his begetters, he so truly expressed the property of each nature that it is agreed both that he took true flesh from his mother and that he has an undifferentiated deity from the Father. When these were joined into one person by the incomprehensible dispensation of the mediator, he kept to each what is proper, but joined to the proper things what belongs to the other. He kept what is proper, while he did not lose the immensity of the divinity, and did not reject the weakness of the flesh. He joined to the proper things what belongs to the other, while the same and inseparable Christ is both slain by what is proper to the flesh and is not held in the underworld by what is proper to the deity. By what is proper to the flesh he tasted a brief death; and by what is proper to the deity he rendered the flesh everlasting. It is not, therefore, rightly said that the Father suffered in the Son, since the Son suffered in the flesh which is not common to him with the Father. So the flesh was glorified by the majesty, while the majesty is shown to have been humbled in the flesh. But it is certain that we proclaim both, not of two Christs, as you think, but of one and the same, whom after the Virgin's childbirth we know as God and man.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab14",
+   "text": "CHAPTER XIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.46",
+   "text": "Fel. \"If, then, Christ was born of a Virgin, how is he said to be coeternal with God the Father?\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.47",
+   "text": "Aug. \"On this, indeed, we have a dispute in different directions against others too: and therefore, lest the explanation of the truth be more difficult, let us first set out the cause of the error. For, having started from one beginning of bad belief, they pour out, as it were, into two ravings of unlike understanding. For it is common to both to proclaim one birth of Christ, not two. But some accept in the definition of their own dogma that principal [birth] by which God was born of God before all things, others only this by which the Lord here proceeded from a Virgin; who, by the consequence of the badly sown seed, have fallen into the pit of a similar blasphemy. For see, those who do not believe him born of a Virgin overturn the whole faith of the Gospels, the whole benefit of baptism, the whole preaching of the apostles, and in sum the whole authority of the New Testament, as if by a kind of blindness of Jewish unbelief. And therefore they are not to be thought to have recognised even the majesty in the Son of God, because they have cast off the mystery of the mediator, by which the Father wished to make him known to the gentiles. But those who contend that he was born not from the Father before every beginning, but in time by the Virgin's childbirth, have not learned that he is creator of all, nor Lord, wholly like the Father in omnipotence and majesty. For how will he be thought to have made all things, before whose birth it is certain that the universe existed? Or how is his divinity to be professed, when individual things were made while he was not yet born? Or how is his divinity believed to be everlasting, when it is proclaimed to have been brought about not always, like the Father's, but in time? These too, therefore, in a way deny the mystery of the mediator by the necessity of the consequences; because they proclaim Christ born not as God and man; not from eternity, but from time; not from power, but from weakness; not as Son like the Father, from the Father before all things, but from a mother among all things; not as a true but as an imaginary son of man, manifestly not born in true likeness. So it comes about that they are not to be thought to know as God even in the flesh him whom they do not think begotten of the Father before the taking of the flesh.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab15",
+   "text": "CHAPTER XIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.48",
+   "text": "\"Do you see, then, how among these, though by differing middle steps, the same beginning and the same outcome of error are taught? We, on the contrary, defend both births in such a way that we do not abolish either by affirming the other. For we neither condemn the temporal birth because of the everlastingness of the first, nor confine the eternal one by the brevity of this temporal one: knowing the inseparable offspring of the true God, and afterwards the most true flesh of this true offspring. We do not confess that Christ's divinity began when the Virgin conceived; nor that the flesh began when, by a certain ineffable birth, that Monad, without any interval of intervening time, begot a Monad differing in nothing, except that it is taught to be [begotten as] monad. His omnipotent majesty did not shrink from Christ's voluntary weakness, nor did bodily weakness extinguish his omnipotence. I know that the divinity of the Son of God descended to the underworld by the property of the flesh; I know that the flesh ascended to heaven by the merit of the deity. It is not what is proper to God that he felt hunger; but it is what is proper to God that he satisfied so many thousands of men with a few loaves. It is not what is proper to the flesh that he walked with dry feet over the roaring waves; but it is what is proper to the flesh that he endured spittle, blows and scourges. Yet it is one and the same Christ who both bore insults so many times and did not sink his limbs in the deep. And in this way I confess that in the mediator between God and men the deity was affected by the injury to his body, just as we know that the flesh was glorified by the majesty of the deity. Therefore Christ died, who also rose again: yet not, for that reason, both [things] from one [nature], but each from each. Yet he himself, perfect in both, accomplished [them], while he, one and inseparable, accomplished things so different: by one he tasted death, by the other he raised the dead. And so, as the true mediator of both, he showed himself God and man, with neither a doubled person nor a confused substance. The Son of God entered the Virgin's womb, so that he, already begotten before, might be born again; and he took up the whole man, he who already had the fullest deity from the Father. Not unlike his begetter when, everlasting, he was born from the eternal; not unlike man when he is born of a mother, destined to die. Yet the same is both eternal in what is his own and mortal in what is ours, while he holds each from himself and loses neither through the other. And so Christ was born from God and man not imperfect, but most full in diverse property; just as each human being is taught to be complete from soul and body. The body is not one man and the mind another, although the mind is one thing and the body another; yet one and the same man is taught to be both body and mind. Again, body and mind are not one and the selfsame thing, because from both one man has been made. For these neither confuse the substance through the reality of the person, nor double the person through the diversity of substance; since from these one man is known to have come into being. They do not lose what is proper to them, but because they have come together into one inseparable [whole], common things seem to have been made out of proper ones. The mind is affected in the body by the body's pains; the body is wearied by the mind's thoughts; and yet one of these is proper to the body, the other to the mind. When this happens to one man, it seems common both to the body and to the mind. So after the Virgin's childbirth there was not one Son of God and another of man, but the same Christ was Son of God and of man. And just as in one man the mind is one thing and the body another, so in the mediator between God and men the Son of God was one thing, [the Son] of man another; yet from both there was one Christ the Lord. One thing, I say, because of the distinction of substance; not one person and another, because of the unity of person.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab16",
+   "text": "CHAPTER XV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.49",
+   "text": "Fel. \"In what came before, you had indeed compelled me to believe in Christ's birth from a mother with his everlastingness kept safe; but because [convictions] produced against reason by the force of speech cannot be lasting in us, therefore, when I look back with careful attention to my proposition, I do not yet seem to myself to have found in what you have said what I am seeking. For I do not know how you teach that he was born in time whom you say already to have existed, coeternal with the Father. For to be born is, as it were, a kind of motion of a thing that does not exist before it is born, bringing it about, by the benefit of birth, that it exists. From which it follows that Christ, who was, could not be born; if he could be born, he did not exist.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.50",
+   "text": "Aug. \"You drive us, by a novel curiosity in questioning, into an inquiry into incomprehensible things; and therefore what you seek can be explained only by certain outlines of examples. Allow me, then, to bring forward as if affirmed a matter belonging to another question: for since I now put it forward not to establish it but to illustrate something else, do not infer that in it I am setting out what I believe; but suppose that I believe it for the present, so that you may more easily understand what I shall say. Let us suppose, then, as many would have it, that there is in the world a universal soul which by an ineffable motion so gives life to all seeds that it is not compounded with what is begotten, but itself furnishes life to what is to be begotten. Surely, when it has come into the womb to shape passible matter for its own uses, it makes one person with itself of that thing which, it is agreed, does not have the same substance; and, the soul acting and the matter undergoing, one man comes to be from two substances, though the soul is taught to be one thing and the flesh another. And so we confess that the soul is born from the womb, the soul which we say, on coming to the womb, conferred life on what was conceived. It is said, I say, to be born of the mother because from her it fitted for itself a body in which it could be born; not because, before it was born, it had, as far as concerns itself, not existed at all. And here, if you attend to the force of the words as an observer of everyday speech, we propose contraries and assert things in conflict; and yet it is agreed that what we say in them is true. We know that the soul is born with the body from the mother's womb, but we also see the soul declared to be prior to the mother. The mother begets the soul in the son, and yet in the mother herself too nothing but the soul lives, without which she who begot could not even exist. So, if we inquire into the origin of the animating power, it is prior to the mother, and again it seems to have been born from her together with the offspring. The soul is prior, I say, through which the mother is animated; the mother is prior, through whom the soul too seems born in the son. But the mother did not turn the soul into flesh, nor change the flesh into soul; rather the same creator of flesh and soul and of the whole man produced animated flesh from the mother's womb, who, by a dispensation of proportion joining diverse things, in one and the same man both conjoined each in an indissoluble unity and confused neither through participation in the other.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab17",
+   "text": "CHAPTER XVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.51",
+   "text": "\"In this way, then, or rather far more incomprehensibly and sublimely, the Son of God was born of a mother by taking up perfect man, he who by his singular omnipotence is for all begotten things not only the capacity but also the cause of being born. According to the man, I say, God was born of the Virgin, in the way in which the mind is taught to be born with the body: not because the substance of both is one, but because from both one person comes to be. The body is not one man and the mind another, but body and mind are one man. So after the Virgin's childbirth there is not one Son of God and another of man, but the same Christ is Son of God and of man. And just as in one man the body is one thing and the mind another, so in the one mediator the Son of God is one thing, the Son of man another; but yet the same, and not another, is Son of God as of man, though he is Son of God on account of one thing and Son of man on account of another. We do not say that the Son of God began from the beginning of the flesh, lest anyone believe the deity temporal. We do not know the flesh of the Son of God to be from eternity, lest we think he took up not the reality of a human body but some image. For neither does the reality of the flesh consume the majesty of the Son of God, nor the immensity of the deity the reality of the flesh, while the one shines with his own powers and the other is shown in our weaknesses. But the one inseparable Christ is both humbled in what he assumed and glorified in what is his own, since he does not disdain to be affected by insults and he keeps his equality with his begetter. Mary, therefore, both bore and did not bear the Son of God. She bore [him] when Christ was born of her according to the flesh; she did not bear [him] when the Son came into being from the Father without beginning. She bore [him] when from her the Word came forth as flesh, to dwell among us; she did not bear [him] when in the beginning the Word was God, who gave origin to all things. Do not, then, set a limit to the origin of God the Word by the Virgin's childbirth. Do not call the body born of the Virgin coeternal with the deity; because the mediator between God and men, the man Christ Jesus (1 Tim. 2:5), by the first birth is coeternal with the Father, by the second a sharer in our time: in the former he is the author of time, in the latter a sharer in age.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab18",
+   "text": "CHAPTER XVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.52",
+   "text": "Fel. Since you have treated the mystery of the mediator with clear reasoning, and sufficiently for anyone to believe, I therefore ask that you have explained to me also what is to be thought about the soul of Christ. For it has always been handed down by our elders that the indwelling of the Son of God himself animated the body of Christ in place of a common soul, and that it had no need of the addition of a vital spirit, since the fountain of life dwelling in it could confer on it the life it lived. Aug. We could indeed teach from the testimonies of the divine volumes what is prescribed on this question by the definition of catholic authority; but since it has now been agreed to discuss everything not by the evidence of books but by reason alone, therefore, reserving the records of the Scriptures for another time, as was done above, so too we shall treat the inquiry about the soul. So that this may be done more easily, let us briefly inquire, setting down just one reading from the Apostle, what was the cause for our Saviour of taking up man; once this is found, we shall pass without any difficulty also to the things that follow from this premise. In the beginning, then, God made man of body and soul; who, having transgressed the precepts of the law, after laying hold of the forbidden tree, received, in a manner, the sentence of capital punishment. He could return to the state from which he had fallen only if restored by the grace of his author, by a kind of right of postliminium, as one who has let himself fall headlong from a height of his own will had in his own power what he did, but it is certain that his falling is no longer subject to his own choice. So he who fell by his own act rises by another's kindness. Nor must he therefore be said not to have fallen by his own act, because he is known to rise by another's; nor, on that account, to have risen by his own, because it is certain he did not fall by another's. But of this elsewhere; now let us return to our subject."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab19",
+   "text": "CHAPTER XVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.53",
+   "text": "The venerable Paul says, then, that Christ was born according to the flesh for this reason: That as through one man sin entered into this world, and through sin death, and so it passed through to all men, in whom all sinned (Rom. 5:12). And a little after: But not as the offence, so also the grace. For if by the offence of one many died, much more the grace of God and the gift, in the grace of one man Jesus Christ, has abounded to many. And not as through one sin, so also the gift: for the judgement [was] from one to condemnation, but the grace from many offences to justification. For if by the offence of one death reigned through one, much more, receiving the abundance of grace and the gift of righteousness, shall we reign in life through the one Jesus Christ. Therefore as through the offence of one [it came] upon all men to condemnation, so also through the righteousness of one [it came] upon all men to justification of life. For as through the disobedience of one man many were made sinners, so also through the obedience of one many are made righteous."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.54",
+   "text": "Christ came, then, to save what had perished (Luke 19:10). Let us first, therefore, see what it was that perished through the transgression of the first-formed man, and then we shall easily be able to know what the Lord could save by coming. We must therefore inquire who it was that received the law of the Creator. For he without doubt sinned, because he despised the precepts; he despised the precepts who committed what was forbidden. Now Scripture says: The Lord commanded Adam, saying: Of every tree that is in paradise you shall eat, but of the tree of the knowledge of good and evil you shall not eat of it. And on the day you eat, you shall die the death (Gen. 2:16). Let us ask, then, whether the whole man received this law. For if, as is contained in the book of Genesis, he received it already complete of body and soul, the whole man sinned by transgressing; and if the whole sinned by transgressing, the whole then perished by the fault of his sin. But if the whole perished, the whole needed the kindness of the Saviour. And if the whole needed the kindness of the Saviour, Christ by coming saved the whole; and if by coming he saved the whole, he assumed not a body without a soul, but the body and the soul of which the whole man is seen to consist and to have sinned before. For if, when the whole man sinned, Christ assumed his flesh alone, the soul has remained even now bound to the penalty of that first transgression without any hope. If that is so, I do not know what the person of the mediator has conferred on us, which, not redeeming what is ours wholly, took up flesh that is brute in itself and which without a soul could not even perceive his kindness."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab20",
+   "text": "CHAPTER XIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.55",
+   "text": "I should like, however, to ask preachers of this kind why the dispensation of the mediator, having taken flesh, omitted the soul. Unless perhaps either, knowing it innocent, it did not believe it in need of medicine; or, thinking it alien to itself, did not grant it the kindness of redemption; or, judging it wholly incurable, was unable to cure it; or cast it aside as worthless and seeming fit for no use. In two of these they rave, through the unbelief of a blasphemous spirit, against the very creator of the whole man. For in the first they have believed him powerless, in the second not the God of all. For how is he shown to be almighty if he could not cure [the soul] despaired of? Or how the God of all, if he did not himself make our soul? In the other two, by one the soul's case is not understood, by the other its worth is not seen. Is he to be thought to understand the soul's case who strives to separate from the sin of voluntary transgression the soul which was equipped, for receiving the law, with the endowment of implanted reason? Or how does he know its nobility who says it was despised for the fault of ignobility, preferring the flesh, which it is agreed was formed not by the breath of God, as the soul was, but from the mud of the earth? But if none of these is rightly thought about the soul, let us believe that our Redeemer took up the whole man, lest we seem in some way to cut off from our soul an everlasting kindness. Alas! Christ, he says, assumed the flesh alone; he did not seek the soul. Here, if you consider the origin of each as one who knows things, the substance of the soul is more precious; if [you consider] the guilt of transgression, because of its understanding its case is worse. But I know Christ to be perfect in wisdom, and I do not doubt that he is most loving: by the first of these he did not despise the better [part] and the one capable of prudence; by the second he took up the one which had been more wounded. For it neither befits wisdom, of two things equally its own, to love the more foolish more, nor perfect love not to have helped the one more in need."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab21",
+   "text": "CHAPTER XX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.56",
+   "text": "Fel. All the things you have said, not only reasonably but also truthfully, I confess I have understood in what precedes, and I do not deny that I have approved them; but in what way the divinity of Christ is said to have experienced death, I do not know. Whether you said something obscurely about this, or whether I could not grasp what was sufficiently said through slowness of wit, I do not know. For I would not dare to believe that that fountain of life, from which all things have their life, during the three days that the body lay in the tomb, fell so far from the property of its nature that, if it is right to say so, with its senses buried it lost all motion of living substance; and that for the redemption of the human race it abandoned not only the Father but also all the adornments of spiritual glory."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.57",
+   "text": "Aug. Far, far from the faithful be that suspicion, that Christ so experienced our death that, being life in himself, he lost life. For if this were so, how do we say that anything could live during those three days, if we believe that the fountain of life dried up? The divinity of Christ therefore experienced death by participation in the human condition which it had taken up of its own will; it did not lose the power of its nature through which it gives life to all things. So in the tomb, by dying with it, it did not abandon its flesh, just as in the Virgin's womb, by being born with it, it formed it. And so in both cases the Lord willed both to be born and to die, not compelled by another but of his own will, so that it is agreed he endured what he did: neither therefore not suffering, because he himself was doing it, nor therefore not doing, because no other was enduring it. For if you consider the mystery of the Lord's incarnation, keeping intact the cooperation of the undivided Trinity, in this humility he is both author and work to himself: the same author, because he is born of his own will and suffers of his own will; the same work, because though no other compels him, he alone nonetheless endures both. He made flesh in his mother's womb: you have the author of the work; he deigned to be born in it: you have the work of the author. Yet there is one person, with the property of the substance of each, both author and work, kept intact. So, then, he died without life departing, just as he suffered without power perishing. No one takes his soul from him, because he has power to lay it down and power to take it up (John 10:18). Here you have the author of the work. He lays down his soul for his friends: you have the work of the author. To conclude this with a general definition: whenever Christ suffers anything in the flesh, it is the work of the author. But because he endures this very thing by his own power, not compelled by another, he himself is the author of the work."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab22",
+   "text": "CHAPTER XXI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.58",
+   "text": "So the divinity did not come to Mary by movement from place to place, but by the inexpressible manifestation of its power; and, being about to be born, it filled the womb, and did not deprive the whole of what is [his] of the fullness of [his] substance. He did not leave the Father when he came to the Virgin. He is everywhere whole, everywhere perfect, because incorporeal simplicity admits no division, and fullness knows no parts. So at one and the same time he was whole even in the underworld and whole in heaven: there suffering the injury of the flesh, here not relinquishing the glory of the deity. In the underworld he was the resurrection of the dead; above the heavens he was the life of the living. Truly dead, truly alive: in him the taking up of mortality received death, and the divinity, preserved, did not lose life. So whenever you consider these things that Christ humbly endured, you should recognise him as the author of a voluntary passion. Thus it will come about that, while humility is ascribed to the one suffering and power to the one acting, the same Christ, at one and the same time, is shown to be weak when he suffers and almighty when he acts. But so that you do not think we still admit some insensibility in the death of the Son of God, it is not out of place to look into what has been held about death. In it, without doubt, our life abandons the body; it does not perish. For the departing soul does not lose its own force, but lets go of what it had given life to; and, as far as lies in it, it causes the death of another, but does not itself receive it. It causes it, I say, by not giving life to what it leaves, not by losing its own life. Therefore the death of a man is nothing other than the setting of the flesh: when the force of the life-giving power has departed from it, it returns to the earth from which it was taken, having lost the senses which it did not have of itself."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab23",
+   "text": "CHAPTER XXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.60",
+   "text": "\"But death,\" you say, \"is the contrary of life.\" I grant it; but not of that kind of contraries which destroy each other by the opposition of an existing substance, but rather of those which, when they occur in anything, cannot indeed exist together, yet arise from the possession and privation of one substance only. As, for example, we explain night and day. For these too are explained as contraries of the same kind, since there appears to be the substance not of both but of one only. For see, we say that it is day when the sun is above the earth, and it is agreed that the sun is a substance. When, having completed the course of the daytime, it has withdrawn from the view of human sight, by withdrawing it soon makes night. It makes it, I say, by withdrawing the abundance of light, not by receiving into itself a substance of night. Thus the one substance of light is seen to make both night and day, but not in one way: for it brings about day when it comes, night when it withdraws. Hence we often refute the not only irreligious but also foolish division of the Manichaeans, by which they strive to separate good things from evil ones as from equally existing substances: we show them the greater light, by which we know day is made, and we press them likewise to show us what might be, if it is right to say so, the greater darkness, by which we should believe night also to be made substantially. But of these elsewhere, who through the folly of a blasphemous doctrine are seen to assert either non-existent things for existent ones, or consequences for principles, or common things for contraries. If anyone not deprived of the eyes of faith examines these, he refutes all their contrivances with easy reasoning. So, as we had begun to say, the soul, no differently from the sun, gives life to the flesh when it comes and brings about death when it withdraws. And lest anyone think it is consumed by the death of the body, let him hear what the Lord defines about this in the Gospels with general authority: \"Do not fear,\" he says, \"those who kill the body but cannot kill the soul; but rather fear him who can kill soul and body in the Gehenna of fire\" (Matt. 10:28). So it is agreed that the body is killed while the soul survives; and therefore it is not a consequence, nor necessary, that souls are consumed by the destruction of bodies. If this is so, even after the death of the body there is life nonetheless in minds. And if this is rightly held of each one of us, how is the fountain of life claimed to have lost its life-giving power through sharing in a human mind? \"But,\" you say, \"soul and body can be killed in the Gehenna of fire.\" This does not tell against us, first because that death appears to belong not to [our] condition but to guilt: for, guilt removed, we are told not to fear men, who though they can kill the body are said not to be able to kill the soul. Next, because this is said to be possible for God alone, at whose hands we do not believe that his only-begotten Son, by communion of nature and equality of power, deserved this. So the Saviour took on the condition of our death, but not so as to make it worse by permitting it, against what is customary, to dominate the soul, but rather so as to prove that it does no harm at all to the soul and life of all the just alike."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab24",
+   "text": "CHAPTER XXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.61",
+   "text": "But let us suppose, though the Gospels cry out against it, that souls perish. Is there not in our Saviour, even if he did not repel death in these [parts], a third and special [element], the majesty, which human death could not touch? In short, let us see what he promised when placed on the cross: \"Today,\" he says, \"you will be with me in paradise\" (Luke 23:43). \"Today,\" he says, not after three days, when I have raised my flesh from the rest of the tomb, not when I have shown in myself the first fruits of the future resurrection. Whose voice do we suppose this is: of the majesty, of the mind, or of the body? No one is unaware that the body was in the cave. It remains that this voice belongs to the divinity or to the mind. But someone says: \"We believe this to be the voice of the divinity, not of the soul of Christ.\" And what do we understand in him to whom the promise was made? \"Today,\" he says to the thief, \"you will be with me in paradise\" — the thief whose body common death enclosed until the future resurrection. It is therefore the soul to which the Lord promised and granted this. If, then, when the body is dead, the soul is at once called to paradise, do we believe anyone is still so impious as to dare to say that the soul of our Saviour, during those three days of bodily death, was consigned to custody in the underworld? \"And who else is it,\" you say, \"who groaned as the passion of Christ approached, saying: 'My soul is sorrowful even unto death' (Matt. 26:38)?\" Sorrowful unto death, because of the affection of the flesh he had taken up; not after death, when fellowship with the deity pledges blessedness. That death is not the beginning of grief but its end. Nor do the scourges of the just begin after it, but they cease, when [the just] lay aside the hindrances of fluctuating matter and now grasp their author in the contemplation of a fuller understanding."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab25",
+   "text": "CHAPTER XXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.62",
+   "text": "\"So,\" you say, \"the Son of God neither endured death in his soul nor felt it in his majesty? What then will you say it is that he endured?\" He certainly felt and endured it, but by sharing in another's sickness, not as a wound of his own. He felt it as all feel it who live in their minds while the flesh dies; not as the impious, who, as the same [Lord] says, are killed in both parts by the fires of Gehenna. Some indeed also define common death in this way, saying that it is nothing other than when, after the agreement of different things that produce life, a separation from one another has taken place as through a kind of discord. If this is the death of a man, which does not consume what was joined but divides it, while it restores each to its origin, what shall we now say of the soul of the Saviour, which — not to say because of the indwelling divinity and because of its singular justice — certainly because of the common lot of dying could leave the body for those three days in such a way that it could not itself perish utterly?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.63",
+   "text": "\"Was it not, then,\" you say, \"the soul of Christ in the underworld, and not the divinity?\" It was, I say. For I do not see how he could otherwise have raised his flesh, if I were to proclaim that in the underworld the power of God was not present, as though he were absent. Yet let no one therefore believe that we proclaim a local presence of God, of whom we say these things for the manifesting of a certain work: that he was somewhere as one who was not lacking anywhere. As to the flesh he lay dead in the tomb, raising the dead in the underworld, giving life to all in heaven. He did not leave the world when he ascended to heaven, nor desert heaven when he came to earth; but at one and the same time he filled the whole, whole himself — he who, appearing more in some place through the manifestation of his works, denied knowledge of his presence to the unworthy, but did not bring about an absence of the immeasurable deity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.ab26",
+   "text": "CHAPTER XXV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa004.opp-lat1.64",
+   "text": "Do you want to know what I think about this death of the mediator? Of everything that I have scattered above under the necessity of the questions that arose, this is altogether the conclusion: that I believe the Son of God died, not according to the penalty of injustice, which he did not have at all, but according to the law of nature, which he took up for the redemption of the human race; by that death of which it is said: \"Who is the man who shall live and not see death?\" (Ps. 88:49); not that of which Isaiah says: \"But the dead shall not see life\" (Isa. 26:14); that which according to nature is common to all, not that which is particular to the wicked. Let us suppose, then, that this is in a way the force and power of a seed, by which he will restore souls by [his] soul and, at the impending judgement, raise the flesh of all of us by [his] flesh, while, giving life to all things through the working of his own deity, from the one grain of the man he took up he is to render to the Father an innumerable harvest. Then he will separate the crop from the tares (Matt. 13:30), when he begins to pay the just their reward."
+  }
+ ]
+}

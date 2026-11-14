@@ -1,0 +1,556 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg0284.tlg054",
+ "edition_urn": "urn:cts:greekLit:tlg0284.tlg054.ai-claude",
+ "source_edition": "tlg0284.tlg054.perseus-grc2",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Orationes 54: AI translation (Claude)",
+  "author": "Aristides, Aelius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg0284.tlg054.perseus-grc2, from the Perseus Digital Library (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit the Perseus Digital Library and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.head": "The text of 2.1 breaks off and resumes at 4.1 without a clean join; there appears to be a gap or corruption, and the opening sentence has been rendered with bracketed supplements. In 6.1 the clause εἰ δʼ ὅπως κύριος ἔσται ... ποιησόμεθα λόγον is awkwardly punctuated in the edition; translated as a single conditional with a parenthetic wish. In 20.1 the syntax is loose and the rendering of οὐδὲ τοὺς ἀναξίους προϊσχόμενος ἐν καιρῷ is tentative.",
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.24.2": "In 24.2 the phrase 'θανάτου τιμᾶται' is taken as proposing the death penalty. 'Μελητίδας' (30.1) refers to Melitides/Meletides, a proverbial fool. 'βαράθρων' (46.1) alludes to the Athenian execution pit (barathron). The Euripus is the Euboean strait proverbial for shifting currents; 'Pharian Proteus' refers to Proteus of Pharos. The end of 48.1–50.1 ('τῇ πρὸς τοὺς ἄλλους χρῆσθαι ταῖς γνώμαις') is elliptical; rendered loosely.",
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.50.2": "In 50.2 the antecedents of 'latter/former' follow the Greek τὴν μὲν... τὴν δέ; in 56.2 I take 'the latter' (greater) as the benefit from exemption-holders and 'the former' as that from the services gained by abolition. The ellipsis '[...]' at the start of 64.1 is an error and should be disregarded; nothing is missing there. In 68.1–70.1 κατὰ τὸ τῆς χρείας ἑστός is obscure ('as need stands'); the proverbial 'on two feet' is rendered literally. Eurybatus is the proverbial traitor and cheat.",
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.76.2": "76.2/78.1: the last clause (οὐ μόνοις παρεικότες ἀπιστεῖσθαι τοῖς μύθοις) is awkward and may be corrupt; rendered as the sense seems to require. 78.1: the subject of ἠξίωκε ('has thought worth consideration') is unexpressed; taken as the city. 96.1/98.1: οἱ μέν / τοὺς δέ are taken as the gods and men respectively, following the order 'men... gods'. 98.1: ὅπως... μὴ τὴν φύσιν προΐσχῃ has no expressed subject; rendered as 'let no one'.",
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.120.2": "In 126.1 εἰκότος is read as εἰκότως ('reasonably'). The 'suit of ejectment' (δίκη ἐξούλης) is used figuratively: the law is to be ejected from the name 'law'. In 130.1 κύφωνες are pillory-like wooden collars; the comic source is not identified. In 132.1 οὐκ ἄγεις ἐν ψήφοις is obscure; it is rendered 'do you not count it in the votes', and the sense is uncertain.",
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.142.2": "Line 150.1: the edition marks a lacuna (***) after ὅταν; the construction of the sentence is incomplete, so the rendering around [...] is approximate.",
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.160.2": "164.2: ‘stirring up the anagyris’ is a proverb for bringing trouble on oneself. 170.2–172.1: the text appears corrupt or lacunose; Iphicrates is said to have cut down the Spartan mora (Lechaeum), yet the following praise (Naxos, seventeen cities, death in battle, son Ctesippus) belongs to Chabrias; the subject ‘he’ is taken as Chabrias.",
+  "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.180.2": "In 186.1 the construction ὡς μήτε ... γεγενημένῳ ... εἰληφότος is grammatically inconsistent (dative then genitive); the text may be corrupt, and the sense 'as at a thing never yet done anywhere' is given. οὐδέ γε πολὺ μᾶλλον is also awkward and translated as it stands. The 'contest and allotment among the foremost gods' (184.1) presumably refers to the contest of Athena and Poseidon for Attica."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.head",
+   "text": "Against Leptines, on Behalf of Exemption"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.2.1",
+   "text": "If anything at all, men of Athens, [is good] for the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.4.1",
+   "text": "common advantage of the city and contributes most to its glory, [it is this]; and [it is right] that the law of Leptines, as not good for us, be done away with. For if he, through what he proposes and enacts, so completely abolishes exemption that he not only takes it away from those who hold it, but also [makes]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.6.1",
+   "text": "us ourselves no longer able to judge anyone at all worthy of it; while through this very [exemption] the greatest benefits come to us from everyone, after the gods, then not only ought we in no way to adopt measures that are plainly against us, but we ought also to punish and hate the man who has brought this about, and drive him out of the city altogether like some plague. For one of two things is needed, or rather it is entirely necessary: if we truly take account of ourselves, we must take no account of this [law] at all, or rather take every account of how it may be stopped at once; but if we take account of how it may become valid (may that be far from us!), we shall seem to everyone, I know well, to take no account whatever of ourselves, but"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.8.1",
+   "text": "to take a great deal of account of how our own affairs may go badly. And who would say this? Yet if we say that to be negligent toward the city and not to show the forethought owed to it is not the mark of a good and democratic citizen, when someone, on top of this very thing, chooses gratuitously to propose and enact measures that utterly damage it, where shall we place this man? That Leptines, men of Athens, is a scoundrel toward us, and ill-disposed, and the like, and an adversary of the good fortune that has been the city's lot from the beginning, I will show clearly later on; but that he advises nothing of what is needed and what our affairs most require, but what ought not [to be done], and that he innovates against the established laws of the city, himself introducing new ones into the constitution, you will learn now as I speak."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.10.1",
+   "text": "First, then, men of Athens, we must understand this: that although so many and such great advisers and lawgivers have arisen from of old, not only at Athens but among all the Greeks, none of them ever proposed or introduced anything of this kind; yet they would most surely have said this too, if they had known it to be advantageous, just as [they said] the other things through which our city, if I may say so with the gods' favour, is in the best condition; but this man alone, as if he had come from the gods and knew from there what is advantageous better than all the others, has gone forward to this, and thinks he must enact what ought not even to have been considered in the first place. Second, that while practically all who have made laws have looked not only to advantage but have also contrived above all that it should come with glory, since to prosper with glory is truly to prosper, while without it fortune is only half [complete], Leptines has fallen so far short of taking account of both these things that by the law he proposes he robs the city of both of them, putting exemption"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.12.1",
+   "text": "out of the way. But not this yet; rather [consider] that by the very means through which he alone of all men tries to abolish it, and devotes all his zeal to ensuring that it will no longer exist in future, by these above all he establishes it, and clearly makes sure it will last for ever. For when he brings no charge whatever against it, and does not see fit to speak ill of it, but says that certain unworthy people who have shared in it have escaped the public services, he testifies to both these things: that exemption is an excellent thing and that it ought to remain with the city for ever, and further, that he himself would not have been moved to legislate if he had seen that those who share in it were worthy. Since, then, he would not have done this if no one were unworthy, he proceeds neither reasonably nor of necessity against exemption, when he should have proceeded only against the unworthy, as having no claim to the thing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.14.1",
+   "text": "And let no one say that, since some base people have shared in it, it must for that reason be counted among base things. Rather, since it is given to practically all the best men as a reward for their zeal on our behalf, for that reason it must necessarily be thought worthy of serious regard along with the things that most hold the city together. Besides, no unworthy man has ever shared in it, in my opinion, or come near it, but [only] whoever has been seen to be the best toward us and has appeared at the critical moment. For such men above all the city rewards with all it has and honours fittingly, considering them the finest on account of what they did; even if in other respects some happen to be base and not deserving of renown on their own account. So no one is unworthy, Leptines, in this respect. Nevertheless, even if"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.16.1",
+   "text": "this is entirely so, I pass over the point that it is much finer and more humane that the unworthy too should be honoured for the sake of the worthy than that the worthy too should be deprived of it for the sake of the unworthy. But even so you trip yourself up. For why do you deprive of exemption not only the unworthy but also the worthy without distinction? If you really are annoyed with these alone, you ought surely to have mentioned these alone and left the others alone. But as it is, by bringing everyone without distinction under the law, you seem not to be finding fault only with those you name, but, out of general spite toward all, to be trying to strip everyone of their grants. Or rather, you let us not guess but know clearly, having nothing whatever to say against this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.16.2",
+   "text": "Look at it this way too. If whoever is unworthy, as you yourself say, is also unworthy of exemption, it is entirely necessary that the worthy should obtain it, so that the difference between the two"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.18.1",
+   "text": "may be preserved; but if these too lose it along with the unworthy, first, I do not know in what they will differ from the unworthy; second, they will seem to be unworthy, though they are among the worthy. Or rather both things will happen: the worthy will seem unworthy in this respect, and the unworthy worthy, since both will be deprived of it equally. And indeed the city, by what it granted them, showed the unworthy to be worthy, whereas you, by depriving them, make even those who are worthy in their own right unworthy, and much worse than the others, in that for the latter nothing new would happen if they lost the grant: being unworthy on your account, they will be unworthy again; but the worthy, being worthy even before it and having obtained it worthily, will end up among the unworthy when deprived of it, and that without being charged with anything at all, as the others are. So both with respect to the worthy and surely with respect to the unworthy themselves the matter turns round against you, and you refute yourself: by putting forward only the unworthy and not the worthy, you deprive the worthy, for no reason, of what they deserve; and again, by wishing to abuse the worthy too and not only the unworthy,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.20.1",
+   "text": "you do not even put forward the unworthy appropriately, and so, misleading us by what you say, you refute what you say by what you do. And holding out the unworthy, you do not keep your hands off even the worthy, or rather off all of us. And off us so much the more, in that you deprive them only of exemption, while you wrong us no less in this respect as well, if indeed what is theirs should be called ours."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.20.2",
+   "text": "And you wrong us also in that you are bent on showing us to be ungrateful toward our benefactors, and in that we shall not be able to provide exemption for ourselves, if anyone of us should need it when the occasion calls, nor to grant it to any others whatever, either now or hereafter. And the most terrible thing of all: we shall shut everyone out from ambition to serve us, if what we long ago rightly and justly gave to our benefactors we now take away from them against"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.22.1",
+   "text": "all the laws, for the sake of your laws. This is not only absurd but altogether impious; since it is by the goodwill of the gods that men prosper, and we most of all, contributing some things ourselves from our own resources, and having others as fellow-contenders for our good fortune; just as, conversely, when the gods are unwilling, affairs both at home and abroad go badly. If, then, to use pretexts that do not exist and to fabricate what one should not, in order to bring about common harm, is the mark of a corrupt and wholly unsound man, and to check once and for all those who choose to do good is the mark of one who wars against the gods, and you are plainly guilty of all these things, you are fit not only not to propose laws, but not even"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.24.1",
+   "text": "to listen to laws at all, since they are preventers of crimes, while you are a craftsman of such things if anyone is. At the same time I would not even call this law of yours a law, but lawlessness, the overturning of the constitution, and nothing sound, not only because it has none of the qualities good laws may be expected to have, which we all know to be the common saviours of our affairs after the gods, but also because it would be the cause of so many and such great evils for the city, as I said, if you, men of Athens, let it pass."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.24.2",
+   "text": "That Leptines himself does not have much confidence in what he says, he shows somehow by the means through which he takes forethought for the future and proposes death as the penalty for those who shall in turn propose a law on behalf of exemption, although none of the lawgivers, as all know, ever added anything of the kind to the laws. \"Yes,\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.26.1",
+   "text": "he says, \"for because the people are easily deceived, it was reasonable to add this.\" What then prevented, Leptines, if this were so, all the lawgivers from the beginning from adding this to their own laws, instead of simply laying down what was needed? Or was it that then gods, superior to passions, presided over the constitution, whereas now, since men are able to lead the people and public affairs are managed in this way, there is room for trickery? But you could not say so; rather, I think, because they were conscious that their laws held nothing at all that was bad, but everything of the best, they cared nothing for any such addition, while you, by the fact that you cared for it, have shown that you have no great confidence in the laws of which you speak."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.26.2",
+   "text": "Apart from this, if it lay with no others but with the people alone to vote on all matters, not even so would there be reason to suspect any deception whatever, because"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.28.1",
+   "text": "the people of the Athenians are better than the judges among other peoples, and such as befits the nursling of Athena. Still, perhaps something of the kind might have happened. But when we have a remarkable Council, and a people that chooses everything that is fitting, and a body of jurors fine and good and who in their exactness concerning the laws would surpass even Rhadamanthys, how could deception make its way through so many and such great bodies? Or how could it have occurred and escaped the notice of all of them together? And indeed, if deception masters us and we are readily disposed to fall victim to it, surely we ought to have suffered this at your hands in the present case too. But as it is, in the matter on which you are now bringing in a law and trying to deceive us that this is among the things best for the city, you are so far from easily accomplishing what you wish, that you easily fall into what you do not wish, being plainly convicted of malice and"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.30.1",
+   "text": "false accusation. Further, if it is expressly agreed by everyone that the Athenians are clever, most of all people, at discerning what is needed and, what is finer than this, at using what has been discovered better than those who discovered it, while you, by claiming that they are readily disposed to deception, rank them among the Meletides, I should gladly ask you to which we ought to pay attention, all the others or you? For you will not, I think, say both, nor is it possible; rather, one of two things is necessary: either to consider that all men speak untruly about"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.32.1",
+   "text": "us, if we are among those easily deceived, according to your argument, or to make no account of your drivel, since we know that the testimony and vote of all has such authority that not only must one follow it in every matter and consider it truly far preferable to that of a part, but even the report that comes from it has been called a god. And you yourself are a witness of this, wishing to get not one or two, but all the Athenians, and through them all mankind, as fellow-voters and fellow-contenders for your law, on the ground that the testimony of a part is nothing when that [of all] is absent. Well then."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.32.2",
+   "text": "If you regard as our deception the things that, in decrees and allies and generally in matters set before us for consideration, sometimes turn out for us contrary to expectation, so that"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.34.1",
+   "text": "we make some bad men instead of good, and use others otherwise than we intended, you are imagining what is not so. Why? Because these things turned out so not contrary to our judgement and vote, nor because, knowing what was fitting in these matters, we then willingly let it go and chose what was not fitting, but because of the unevenness of affairs and the occasions and whatever else of the kind one might name. For we thought we must both do and say everything so that all this would turn out as well as possible; and if nothing of what we wish has come about, blame the necessity of what befell, not us. For just as he who handles affairs without counsel rightly bears alone the unpleasantness that follows, but if anything good turns out, one must look elsewhere for its cause, so he who goes to his work with the greatest possible counsel succeeds, as is likely, always, and attains what he wishes, and if somewhere"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.36.1",
+   "text": "he should fail through some chance, even so he would deserve praise, since justice prevails: as far as it lay with him, everything is well, in respect of forethought and zeal and of leaving nothing undone. So, as long as there is the choosing of what is best, no one would be willingly deceived, as I at least think, even if he misses the outcome ten thousand times. You, then, consider: if you find us neglecting exact examination and counsel where they are possible, and not entrusting everything to reasoning and judgement, but handling affairs just as it comes, then say that we are easily led and vulnerable to deception. But if, besides all else, this too is a mark of the Athenians, councils and trials and proceeding everywhere with the most numerous and finest decrees, people who even the generals themselves"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.38.1",
+   "text": "not only choose by this means, but also bring to account when they have left office, how are you not doing something similar, slandering these men for credulity, as if you saw fit to abuse even the Pythian god as knowing nothing of what is needed, he who is the guide to others in what must be done and a sure counsellor, and, so to speak, the leader and prophet in such matters for the whole inhabited world? Therefore by what has now been very clearly demonstrated to us, it has been shown that we are not only not easy to deceive, but are clever above all at exposing deceivers; while you, by what you say, are not only unworthy to be believed in such matters, but also give us to infer that you belong among the deceived, by having formed such an opinion about us."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.38.2",
+   "text": "So much, then, for this point, shown to be such and in this way. But you, when you drive exemption out of the city because"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.40.1",
+   "text": "you claim that the public services are reduced for the city by it, and that public services are needed if anything is, or rather that cities need nothing of all this as much as public services: first, be well assured, you are unaware that you yourself are cutting down the very public services for the city and plainly warring against them. For if exemption is given as a prize to those who have been zealous on our behalf, and these, after the gods, sustain the city by what they do, and while the city stands it is possible to perform public services and do everything, then he who abolishes exemption surely abolishes all these things along with it, since it is not possible to perform public services unless the city's affairs are well settled. And this is impossible unless all contribute every zeal on its behalf; and they do contribute eagerly, expecting themselves to be well treated in return by it. Next, even if we need public services, and we do"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.42.1",
+   "text": "need them, and no one will deny it, surely we need far more those who on each occasion show ambition on our behalf and take pains that our affairs may be in the best condition. That I speak the truth is clear from the fact that the latter we deem worthy of honours and call our benefactors and saviours and all such names, whereas the former, as debtors, we not only feel no gratitude toward for what they do, but if ever they fall short of what is due, we indignantly bring them to trial; and because from the one the city has this benefit alone, while the others along with this become the cause of no small glory. Then shall we, because of you, consider those lesser who excel in all respects and are of the better portion? And how is it not absurd to do everything to acquire benefactors, while we, those whom we now have by the gift of the gods, shall show ourselves ungrateful to and deprive of their honours, and those whom we are going"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.44.1",
+   "text": "to have, we shall shut out from zeal on our behalf, if we now show ourselves ungrateful?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.44.2",
+   "text": "And not only this, men of Athens, but in this we shall seem worse than our ancestors, or rather we shall show them to be quite marvellous and magnanimous men, while bringing the greatest shame on ourselves, since they continued for all time doing good even to their bitterest enemies, while we shall deprive those from whom we have received good of the favours we deemed them worthy of; favours which in appearance they received from us, but in truth surely from themselves, by having been the cause of them through what they did for us; so that what came from them to us one might justly call a favour, and what came from us to them a repayment and fitting return. And so, if they were now stripped of the exemption given, they themselves will none the less still keep it even so, as being worthy of it, but we shall thereafter seem to all not only ungrateful but also faithless and unreliable for the future: the one if what"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.46.1",
+   "text": "we have given we take away, the other if we behave in this way toward our benefactors above all. And I say nothing of the shame and common reproach that will remain for ever on the city: that the most ancient of the Athenians acquired their friends by doing good, not by receiving it, while we, quite the contrary, make enemies even of the friends we had, by wishing the benefits from them to us to be fixed once and for all, while immediately overturning the returns we make to them; thereby showing both that we ourselves are unworthy of the good we have received, and making them more cautious so that they no longer wish to bestow such great favours. And how many cliffs and pits do these things deserve? When we, who are"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.48.1",
+   "text": "an example of what is fine and just to all others, then incur the charge of ingratitude and faithlessness and of changing at random and lightly, and seem to move with the Euripus, and to destroy our original principle, and to be in no way better than those who play on the stage or in the sand. Or rather far worse: since they do what they set out to do, and they set out never to remain the same but to change each time according to need; whereas we, who ought to be equal and alike throughout and to think the same to the end, shall then, no doubt, be willing to change shape like Pharian Proteus, and in our dealings with others"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.50.1",
+   "text": "to use our judgements so. May Leptines never be strong enough to bring it about that we are thought of in such a way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.50.2",
+   "text": "And indeed, if just as words of praise are the wage of virtue, so too there is a return for things done rightly, then virtue must be admired, and those who have done any good whatever must be honoured, whether you call this [honour] exemption or anything else. If, then, you are able to deprive virtue of praise altogether, deprive also those who have shown themselves zealous on our behalf of their prizes, and let there be no sparing of any kind. But if that is absurd, I cannot see how this, at least, keeps to reason. For virtue will not seem to be what it is if it does not enjoy the applause that arises, nor will anyone recognise the best of deeds if they lack returns. If, then,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.52.1",
+   "text": "giving what is fitting to both belongs to a good man, depriving them of these very things belongs to the envious. You would not endure being thrown out of your possessions and being deprived of what belongs to you; indeed, I think you would be troubled even if you saw this in a dream. Yet in leading these men away from the exemption of which the city judged its benefactors worthy, you think it something bearable, when you ought to judge their situation from your own, and not require of them what you yourself would not have accepted had it happened to you?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.52.2",
+   "text": "Or rather, one of two things must follow: either the city too is deprived of the benefit from them, since you think these men should be deprived of the privileges from it, or these men too must not be troubled in any way, since neither is the city. But if you think the city should enjoy for ever what it has received from them, but these men not, you seem to be judging the matter neither rightly nor justly, and besides to be requiring of the city not only what it should not,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.54.1",
+   "text": "but even what one would simply pray to avert. For you surely make it your prayer that it be admired every day and spoken well of and have all men as fellow champions of its glory, if you are not a common enemy of the state; yet you act in ways for which you would rightly be hated by all. For surely, if we are persuaded by you in such things, we shall not make enemies of our benefactors alone, those from whom we have had the greatest benefits, but simply of all other men as well, not so much because of our ingratitude towards those men as because we handle affairs with a view to deceit and live like Eurybatus. And yet when this is so, and we have brought on ourselves the worst reputation, what more shall we have from the public services, even if we acquire not only the Athenians, I say, but all mankind as performers of public services? Apart from this, if it were possible"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.56.1",
+   "text": "both to deprive the same men of exemption and to keep them as friends just as before, even so we would be no less ungrateful for keeping to the end what does not belong to us, while they, besides being fine and good men because of what they did for us, would also win a reputation for greatness of spirit, as men not troubled by the dishonour done them but remaining in the attitude they had. But if they are at once to be deprived of it and to be ill-disposed to us, as men simply outraged by us, it is surely plain madness, for the sake of small and paltry public services, to be slandered among so many, to be ill spoken of, and to be hated among Greeks and barbarians, when we could, quite the contrary, be admired and loved, and through our respect towards these men urge all to the like."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.56.2",
+   "text": "Moreover, about the public services themselves, which Leptines says are being destroyed by the exemptions, I say this: if one examines precisely the benefit that will come from that source and that which those receiving exemptions provide to the city, one will find the latter greater in every respect and more conspicuous, and such that to obtain it is worth a prayer, and the former not only smaller but wholly paltry, and not even"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.58.1",
+   "text": "seeming, by its very smallness, to be any benefit at all, but such that, if overlooked, it would not harm the common good in any way. Why? Because not everyone shares in exemption, nor has it simply come to all, but [only] to those to whom it is fitting to give such things as benefactors. And these are so few that, as to numbers, they do not even come near those who perform public services, and even if they were added to them they would make no difference whatever, either to the increase of numbers or of resources; or rather, since not to numbers, much less to the increase of resources. So that if someone now asked you whether you should choose the contribution to the public services of those who add nothing to the increase of the common benefit, or the greatness of spirit of these same men towards us, I know well that you would all say the latter,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.60.1",
+   "text": "all of you, if you have regard for yourselves. Is it not then absurd and at war with your own advantage not to admire, nor honour equally, these men who bring what yields you glory and profit, yet to reproach them for not doing what yields no benefit at all, and to value the public service that has no profit more highly than their admirable devotion on your behalf? It is so that they may not seem, men of Athens, to belie this devotion that they want their prizes to be wholly fixed for them, not needing these, I think, so much as to seem to all to be fine and good men; or rather, because they want to seem to all to be fine and good, they surely need these, knowing well that even if their having become fine and good is the chief cause of their being judged worthy of privileges, since without this that would not have happened, yet because being judged worthy of privileges shows them more as fine and good, and makes them better known to all, just as the processional"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.62.1",
+   "text": "crowns do for Olympic victors, for this reason it is surely right, or rather wholly necessary, that they be judged worthy of privileges, so that they may both seem and be the more fine and good to all, now and hereafter; since some men before now who excelled in battles, or did any other good thing, because they did not receive what they should, neither enjoyed the zeal of later times, nor became known as being such men, but were disbelieved by the many, having been acclaimed by the spectators alone at the very time of the display."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.62.2",
+   "text": "Furthermore, if they had taken no account at all of being honoured by the city, they would not have thought fit to be good to it at all, nor to have begun their ambitious service to us; but if they did all those things in order to obtain it, and the hope from us supplied the means for their goodness, where is the justice in cutting away what they most strove for, and undermining the matter at its vital point?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.64.1",
+   "text": "[...] And yet it would have seemed more tolerable to them to have received nothing at all in the first place than, having received it so splendidly, then to be deprived of it on no pretext worth mentioning. For the former would only be a kind of ingratitude towards the city's benefactors, but the latter is outrage and disgrace for both; and for the city in particular, reproach and hatred from all, and to be thought worthy of trust by no one at all in anything. Yet the city has so great a share of glory and admiration, and is so supreme in everything and victorious in all, that it alone"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.66.1",
+   "text": "of the cities under the sun, to put it briefly, has become the common beloved of men and gods. For men regard it not only as a fatherland but even above their fatherland, and honour it with their whole heart, as is fitting for the common cause and nurse of all. For it first bore man and first"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.68.1",
+   "text": "discovered the use of livelihood, and for this reason it alone is the refuge and protector of all mankind; and all, in the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.70.1",
+   "text": "standing of need, truly on two feet, as the saying goes, go to it as to a mother, and obtain what they want more finely than they expected. And as it is so eagerly sought by men, so it is also dear to the gods and plainly a concern of the higher powers, so that some of them long ago contended with one another over it, others held here the trials of the disputes they had with one another, and all, in short, at all times, surely bring every zeal not only to accomplish in every way what is profitable and increases it, but also, whenever we err, themselves to change it for the better."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.70.2",
+   "text": "So we can reasonably say this about exemption too, and worthily of the providence of the gods: that if"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.72.1",
+   "text": "this were among the things that do harm, as you argue, Leptines, the gods would not have let it revel so long in the city, but just as, through the common prophet and interpreter, the ancestral god of the city, they stopped the war against Eumolpus and stopped the plague, Leos giving up his daughters in the one case and Erechtheus his child in the other, and again granted the city victory in the war against the Dorians and Peloponnesians by causing Codrus to die willingly,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.74.1",
+   "text": "so too, if they had known exemption to be harmful to the city, they would at once in the same way have removed it from our midst. And all the gods, so to speak, since we are the concern of all and all are ours, but much more Pallas, who was allotted the city from the beginning, and Iacchus who dwells near, who has shown very many and very fine proofs of his goodwill and kindness towards us on every occasion, and the greatest, which all celebrate, in that during the Persian War he helped us in the most crucial things, both by himself and by causing a cloud to fall upon the barbarians' ships together with the mystic song. But, as"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.76.1",
+   "text": "I said, if exemption had turned out to our harm, it would have been reasonable for it to have been stopped at once by the gods, who wish to benefit our affairs in every way; but since they have thought it worth no consideration to wipe it out, though it has belonged to the city not since yesterday or the day before but from long ago and from the beginning, and rather take every pains to establish and increase it every season, by which on each occasion they urge very many to benefit the city in order to obtain it, it would be absurd and simply at war with the gods for us to slander what they judged to be good, as if either claiming to be better than the gods at discerning what is needed, or showing that they honour the worse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.76.2",
+   "text": "Since, then, so great and so splendid a reputation is ours, men of Athens, and one which, the gods willing, will not only stay much the same for ever but will be far more conspicuous and greater still, since what is reasonable always prevails, shall we then not value it above"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.78.1",
+   "text": "this, but think that Leptines' public services are safer and finer to have relied on, though because they bring the city no benefit worth mentioning it has never until now thought them worth any consideration at all? And how shall we not provoke the gods, who from of old have contended at our side in such matters, if they do everything so that on each occasion our reputation may advance further, while we shall see fit not only not to increase the reputation that has been ours from the beginning, but even to wipe it out, and to bring upon ourselves as much hatred as possible, the very opposite of their former goodwill? For all will cast their votes on these last acts, and we shall seem, men of Athens, to pride ourselves on empty things of the past, and on myths rather than deeds, we who, through the novelty and greatness of our deeds, have let even more than the myths be disbelieved."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.80.1",
+   "text": "But most absurd of all would be this. Long ago, when the Persian offered our ancestors very many and very great gifts, giving some at once and promising others, if they would join him against Greece, and if not, threatening them with all the most shameful things of all, none of these won them over at all or persuaded them to become base. Rather, they kept so far from planning and doing anything unworthy of themselves and of the great name of the Athenians that they would sooner have chosen to perish once and for all, themselves and all they had, than give way in any respect on what they had resolved from the beginning on behalf of Greece; and that when there was necessity, under which even acting against the laws earns pardon. Shall we, men of Athens, yield to anyone at all against ourselves, and shall Leptines, by advising what he should not, achieve more than Xerxes coming against us with, so to speak, the whole inhabited world? And indeed, whereas when"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.82.1",
+   "text": "he asked for earth and water through his envoys we paid no heed whatever, but were so affected at the very moment of hearing that, when someone dared to say that we should agree, we not only stoned him to death at once but also threw the envoys into a well and then heaped earth on them, as though this were the only encouragement to courage, and so at that time we gave Greeks and barbarians alike a marvellous impression of extraordinary greatness of mind; now, if we do not restrain Leptines, who is trying to wrap the city in unbearable and lasting reproach, we shall seem to have fallen away from ourselves entirely. And"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.84.1",
+   "text": "then, of Arthmius of Zelea and the man who interpreted the letters besides, we thought it right to put the interpreter to death beyond all pardon, and we voted Arthmius an enemy of the Athenian people, disfranchised, himself and his family, because the one, in the King's service, brought gold into the Peloponnese, and the other lent his tongue to the King against the Greeks; but this Leptines, who by his legislation brings into disgrace not only us but also"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.86.1",
+   "text": "our ancestors, and whom we ought to punish more than those men, since he harms the city more than they did, we allow to speak freely and say these things, and we think his proposals deserve a vote and deliberation on whether they should be obeyed or not."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.86.2",
+   "text": "Apart from this, other wrongs, I suppose, bring their harm not for all time but in part; but what this man is now trying to do, by legislating to take away what we have given, slanders most of all the Athenians now living, those to come and those before, as the saying goes. For we shall no longer, so to speak, be able with steady"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.88.1",
+   "text": "eyes to look upon those whom we shall dishonour by taking away what we have given, but we shall need the cap of Hades when they appear; and the reproach will overtake our descendants, and all will shun and hate them as the children of ungrateful men. Moreover, not only the wonderful and extraordinary eagerness and zeal of our ancestors even on behalf of those who wronged them, but also their kindness towards those who had met misfortune and fled to the city for refuge, and the saving of them, all this, I think, will seem idle talk, disbelieved because of our baseness. For our being willing, as if from regret, to take back from our benefactors what we gave them in return, besides being the act of the most unjust of men, all will surely take as proof"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.90.1",
+   "text": "either that our ancestors did none of the things I mentioned, or that we are not related to them by birth at all, because they out of magnanimity often stood up even for those who had wronged them as if they were benefactors and devoted every effort on their behalf, while we out of ingratitude have taken away even what we justly gave our benefactors, as though they had shown themselves our bitterest enemies. This also makes me wonder: if, having nothing to charge them with, we dishonour them so far as to take away their grants, what more shall we then be able to do should they prove base towards us?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.90.2",
+   "text": "Apart from this, if, when someone secures the best for himself by the very means by which he harms another, he is surely not freed from blame, because he has acted wickedly, nor is he more to be praised for the one than blamed for the other; then surely when someone harms both himself and another, or rather, while seeming to harm the other too, is really at war with his own interests, who would not, for both these reasons,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.92.1",
+   "text": "justly resent such a man? So if, without harm to others, we had procured advantages for ourselves as you argue, Leptines, we would be enviable; but as it is, if we deprive the holders of the grants we gave, we shall deprive ourselves too both of being trusted in future and of expecting anything better from anyone at all. For this is how it is: if we let our benefactors keep what we gave them, we shall not only be doing what is just by them, but shall also urge the rest to the same. But if, heaven forbid, we take these things away, we shall wrong them no more than ourselves, depriving [ourselves] of what is advantageous and of what we least should; and besides, we shall seem either not to have deliberated well then, in giving them what we were shortly going to take away, or, if we deliberated well then, not to be taking it away well now. Further, men of Athens, if you had resolved to use an entirely unstable judgement in everything and to shift in every direction of"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.94.1",
+   "text": "affairs like the turnings of the Euripus, it would not be unreasonable to be willing not only to abolish the vote for exemption, but also to set the drivel of so-and-so or so-and-so above practically everything well resolved by us and by our ancestors. But if you would not tolerate even in a dream being sick in this way and at odds with yourselves in your judgements, then as long as you count as Athenians and preserve this great and wonderful spirit, you will never vote anything new in any way about exemption, even if some people burst ten thousand times harping up and down on public services, but you will abide once and for all by what was resolved best and most advantageously."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.94.2",
+   "text": "Consider it this way too. Of things, men of Athens, some hold together by what they have of their own and do not so much need time as an ally; others, though they may be lacking in other respects, are helped most towards being honoured by having begun long ago;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.96.1",
+   "text": "and there are some that share in both of these, but do not share equally in being honoured by all: some make more use of them, some less, some do and some do not. But to honour benefactors with every means available and to fall short in nothing that is fitting is, men of Athens, for both these reasons so entirely worth practising that all men and the gods who dwell on Olympus and the divinities cast the same vote on it and agree on it, the gods setting Ixion"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.98.1",
+   "text": "and Ixion's fate before human life as an example that no one should ever again be ungrateful at all; and as for men, one cannot even say how highly they value their parents and teachers, and how they treat them, living and dead, for the whole span of their life, not only repaying them with very many and very great thanks in word and deed and almost raising them above their heads, but also ranking them, so to speak, next after the gods themselves. Just as, then, no one would admire those so disposed for their judgement, since they choose to do nothing new but what reason demands, whereas if they fail in this necessary payment they will then be convicted of the utmost injustice, so it seems to me we must also vote about those who have been benefited in other ways. And let no one put forward nature in that case. For even if the penalty is greater in those cases, the ingratitude is surely the same, whether it concerns nature or arises otherwise. For the man who has done this very"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.100.1",
+   "text": "thing to any soldier at all would not seem less a murderer than one who killed a general, nor again the one who stole public property less [guilty] than one who robbed temples; for we shall not call the law that proceeds against traitors any more a law than the one that exacts penalty from burglars."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.100.2",
+   "text": "And now we, who in giving our benefactors gifts are doing nothing new but rendering what is due, if we deprive them of what we have granted, will do a greater wrong, I am sure, than if we had never contributed [it] to them in the first place. For that would have been a matter of ingratitude, but this of injustice, if they are to be unjustly deprived of what they have justly received from us. And injustice is so much greater than ingratitude that this is a part of injustice; for not everyone who does wrong is thereby also ungrateful towards his benefactors, but the man who is ungrateful towards them commits only this one wrong,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.102.1",
+   "text": "that he does not choose to do what is due to them. So the one is hated, but we know that the laws are the punishers of injustice. Then, men of Athens, shall we, by taking away after giving them what we would have been ungrateful not to give, wish such a story to arise about us among all men, that the Athenians, guarding against the lesser thing as an evil, of their own will fell into the greater? By no means. Further, the man who will not repay those from whom he has received benefits with equal [benefits] incurs a charge of ingratitude and injustice together, but the man who takes away what he has given, besides being liable to these, surely also attaches to himself the reputation of not knowing how to do what is needful, and in addition of clumsiness and meddling. For the very means by which he thinks he must take back again"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.104.1",
+   "text": "what he has given compel everyone to reckon either that he did not give those things in honesty of mind, but in order to grieve more deeply those whom he would deprive, or, if not, this is necessarily what remains, that he did not give them with reflection at the time, since he took them back again without cause. For to shift readily to something else with no necessity whatever pressing—and against necessity, they say, not even the gods fight—is a remarkable proof both of a thoroughly unstable mind and of having planned nothing from the start, just as, again, it is the mark of a mind that is very strong and takes matters in hand with reflection and judgement to change nothing at random but to abide by what was decided from the start. Well then."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.104.2",
+   "text": "Leptines, if someone asks you for what reason we honour the gods with sacrifices and rites and processions, if you say [it is] for the benefits we have received from them alone, you will not say rightly; but if it is clear to all that these things look both ways"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.106.1",
+   "text": "and that through them we take thought not only for the past but also for the future—praying that the one may be present in abundance and always with every improvement, and giving thanks for the other and summoning [them] to equal and greater [benefits]—what is new if we think we must do this same thing towards our benefactors too, since we all know the gods to be the first benefactors, both as having framed this universe at the beginning and as holding it together always by their unbroken providence through all things and ordering it, and delighting in this title more than in costly offerings? So that in this way it is the same to offend against benefactors and against gods. Moreover, men are in need of all things, but the gods need nothing"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.108.1",
+   "text": "at all, being themselves the providers of all things; yet if what comes from us ever falls short and we do not bring this customary contribution, we are at once accursed and polluted and betrayers of the divine and the worst of the wicked, and must pay the penalty, according to Socrates son of Sophroniscus. If, then, we are debtors for so much to the gods who need nothing, and this is the most necessary contribution of all, how much must this be so towards men who need everything?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.108.2",
+   "text": "But beyond all this I say that which matters most of all to us: that even if honouring benefactors and letting them keep for good what we have granted them happened to be the least of just obligations, even so we would not have departed from our accustomed magnanimity and our eagerness to benefit all in every way, in common, to the best of our power; and rightly. For we have not, we have not any regard for money whatever, as all others have, but for a wonderful glory and for being generous to all in everything out of abundance. A clear proof is that long ago we"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.110.1",
+   "text": "had great wealth indeed, but spent it all out of love of honour and the wish to be admired, truly thinking the only abundance to be expenditure on such things, both for other reasons and because money is subject to fortune, while the possession of honour is immortal and its fame will never perish; and no one of all men has ever been able to dispute it with us even slightly, nor have we ever shrunk from any danger whatever for its sake, but for this very thing we gladly spent without stint bodies and money, public and private, and every other resource whatever. Hence we saved the Heraclidae when they were in danger of being utterly destroyed by Eurystheus, and through us they managed both to defend themselves against him and to set foot again in Lacedaemon with much advantage; and we saved not only Oedipus son of Laius,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.112.1",
+   "text": "who had met misfortune at Thebes and was the destroyer of the Sphinx, when he had been driven out of Thebes and all Boeotia by his kinsman Creon and had taken refuge with us, and was deemed worthy of the greatest care; but also the Thebans themselves, later, when they were in a bad way under the Laconian garrison. And indeed we came in good time to the Tanagraeans and the Thessalians—the latter when they had fallen into civil strife and were already coming to nothing, the Tanagraeans when they had been driven from their homes by the Thebans—becoming, after the gods, the cause of their not being utterly destroyed. This same thing the Messenians and the Plataeans can say: the latter, the Plataeans, razed by the Lacedaemonians and Thebans but saved by us; and to the former, razed by the Lacedaemonians, we gave the greatest help, and they are Messenians now because of the city. And I pass over the Dryopes and the Pelasgians and all the others whom [the city] received in danger, and became to them like a good divinity, so that they forgot both what they had suffered and the benefits [they received]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.112.2",
+   "text": "And it is not that long ago the city behaved so wonderfully and magnanimously towards all, but now otherwise and far unworthy of its ancestors and its principles; rather, just yesterday and the day before, in the Persian Wars, when the barbarian was offering us great things that no one would have expected, on condition that he could gain us as allies, and the Lacedaemonians on the other side were then in fear chiefly for this reason, so that they promised to support our children and wives and old men in every way as long as the war lasted, what sort of men did we show ourselves to be, and how did we treat them,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.116.1",
+   "text": "pray? For we reproached the one party for having planned, by what they offered, things unworthy of our principles and generosity, and the other, as attempting the impossible, we would not even consent to hear at all in any way; and so we caused him to withdraw from Greece in disgrace, and rescued the others, together with Greece, from their dangers. Again, we thought we must all contribute in common the money to the Lacedaemonians which the Thirty had borrowed from them against the men in the Piraeus; and when matters were settled and the Lacedaemonians demanded it back, all the others"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.118.1",
+   "text": "thought that those who had borrowed should repay it and settle the matter, as was reasonable, but these men cried out that this would be the first token of concord, if the whole people paid it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.118.2",
+   "text": "When, then, men of Athens, with no necessity at all pressing beforehand, but out of the sheer generosity of our minds alone, it seemed among the finest things to act in this way, and we have continued through all time striving for this finest and most profitable and the only fitting [honour] for men, now, when both apply—that it is necessary to do what is just and to have used our judgement, and not to abandon this wonderful stance we have held from the beginning—shall we then be unwilling? And how is it not absurd to be willing to rescue others from dangers at our own risk, yet, when it is possible to have both—to be benefited by others ourselves and to have others thought worthy of equal treatment by us—then to have resolved to be deprived of both; and to have thought those who did the most terrible things of all to the city and left no excess"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.120.1",
+   "text": "of wickedness untried, so that one cannot even recall it without tears, worthy of such zeal for the sake of concord that we undertook the greatest expense of money on their behalf; but our benefactors and friends, whom for this very reason we must, they say, treat as of the highest worth—these, though they deserve to obtain even greater care than they now enjoy from us, we would wish to deprive even of what we have given them, as though they were worthy of nothing? And who does not know that in this way our conduct would become a riddle, as we are now this way and now that, or rather neither, since both this way and that?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.120.2",
+   "text": "And indeed every law, by the provisions through which it takes thought in every respect for the common advantage, makes those who"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.122.1",
+   "text": "use it prosper, both in other ways and in holding the same views to the end, which is truly the mark of prosperity. But this man takes no account of this; instead, introducing innovations he should not, even against the common interest, he does the city harm in the most important matters, not only setting it at odds with itself, but also depriving it of things that very much belong to it, and which everyone would join in praying it might obtain for all time. And what could cities pray for more than to acquire friends and benefactors day by day? If this [law] is made valid, it will lead the city away from these altogether; if it is not, it will fill the city with them altogether. If, then, to have annulled this law binds our acquaintances to us for all time and makes them more numerous besides, while wishing to preserve it drives them away from us, it is finer and more profitable, and truly more in the city's own interest, to annul this law than to preserve it, by as much as obtaining benefactors and friends is better than being"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.124.1",
+   "text": "wholly deprived of them. Thus your law, Leptines, being altogether disadvantageous and, to put it in a word, nothing sound, will be of benefit to the city in this one respect only: if it no longer exists in future. For it will itself pay this penalty, having nothing good in it at all, and from this it will ensure that others will never be willing to talk such nonsense."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.124.2",
+   "text": "Apart from this, men of Athens, consider the difference between this law itself and the laws that have existed from the beginning, so that you may know clearly that it is so far from being comparable with these and on an equal footing with them that it does not deserve to be called a law at all. For if those laws take so much account of benefactors that they not only think them worthy of equal treatment but honour them, as men who first did good, even more than was fitting, while this one advises the complete opposite, that they be stripped of what they had received, it is wholly necessary to pay no attention at all to the one who legislates things vexatious and disadvantageous, and going so far in absurdity that they have never even come to anyone's hearing, but to let him say farewell"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.126.1",
+   "text": "to the very things he claims to delight in; and as for those laws which hold all men of all time, and nature itself besides, as voting in agreement with what they say, not only to love and admire them, but also to rejoice with them, since they are in the best state of all. Besides, in this respect too one might reasonably bring a suit of ejectment against it. For those laws, even if they speak of different matters and about whatever one might name, yet since they all look to one thing only, the profit of cities, for this reason they all share the same title, and this common name has prevailed over them all: laws. But this one,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.128.1",
+   "text": "agreeing with none of them in such things, how could it make sense for it to be ranked in their list? Rather, this would be what makes sense: that just as we honour those as being on our side and regard them, after the gods, as saviours and guides of life, in the same way we should put an end to this one altogether as being against us. For if all laws that are sound are a correction of evils, the one that cures nothing of the kind at all, but even prepares the city to be at strife with its benefactors, which is the same as saying with itself, how will it not be to us in the role of a Fury, if it remains in our life? Then too it is a terrible thing, men of Athens, if, when a tyrant and laws are wholly opposed, and the laws urge us to do what is just towards benefactors in every way, while the tyrant strips them of the grants they had received together with their own property besides—"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.130.1",
+   "text": "which is what Leptines now proposes without any shame—we are then to call this man a lawgiver, on whom we ought for this reason to call down drums and pillories, as the comedy has it, as one who belies the character of the city and drives it into war with those it least ought to?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.130.2",
+   "text": "I should gladly learn from you, Leptines: if a favour you had received from someone were then taken away from you, would you be annoyed or not? Or rather, if when you received it you paid no attention to it at all, first of all I do not know why you received it; for it is not possible to receive it without valuing it very highly. However, if you like, let it be granted that you took no account of it then, and that now"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.132.1",
+   "text": "you would not be annoyed at its being taken away. But if you were glad to receive it, as indeed you were and no one will deny, you will also, I know well, be annoyed at its removal, and especially if you yourself happened first to have done that person a good turn. Do you then think it right that others should suffer at our hands what you yourself would never choose to experience, and do you alone of all men think you should legislate things which, even if they had been established long ago, ought to be struck out altogether as having nothing to do with us—and that one should rather pass a law punishing with death anyone who should attempt them again? And if you yourself had been outraged by anyone at all, you would perhaps never have put up with it, but would have defended yourself by whatever means you had; yet you, who by what you legislate bring disgrace on those of us now living and those to come, do you not count it [an outrage] in the votes? For if someone who has promised something and not given it is counted among cheats and has many accusers, what blame would the one who has even taken back what he gave not receive from everyone?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.132.2",
+   "text": "We ought, then, men of Athens, we ought,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.134.1",
+   "text": "since by nature and through time we all have it allotted to us, as it were from the beginning, to choose to do good rather than to receive it, to be disposed in the same way towards those who now enjoy exemption, and to have thought them worthy of it even before we had been benefited by them. But when we were first benefited by them and then thought them worthy of it, shall we be willing in turn to take it away from them again, as though we had given it on stated conditions, or as though we condemned ourselves for having granted it? And what reputation shall we give the Greeks concerning ourselves, we who have a name for magnanimity in every land, and were so manifestly, above all men, favoured by the gods for our excellence that once, when famine had seized almost the whole inhabited world, both Greeks and barbarians, the Pythian god declared that the famine would not cease otherwise than if the Athenians on behalf of all"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.136.1",
+   "text": "raised their hands to heaven? For besides the fact that taking away what has been given belongs to the utmost ingratitude, the exemption these men now hold they hold from their own resources and from themselves, not having received it as a favour from us, but having obtained it as a kind of wage in return for the benefits they conferred on us. So if we take it away from them, first, we shall surely not be taking from them what we granted them as a favour, but they will be deprived of what they own by the reckoning of justice; and second, they will reasonably demand back what they did for us, and with much more justice than we,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.138.1",
+   "text": "since we shall come to this point with no charge to bring against them and no complaint, but of our own free will, while they [will come] unwillingly and accusing us of this unreasonable act. So we would be unwittingly thrusting the sword against these men by our own hands, or rather, in wishing to abuse them, we shall harm ourselves to this extent: they will be unjustly deprived of what they held justly, while we shall not only seem to be cheats, but shall also justly pay the penalty, through our ingratitude towards them, for what we previously enjoyed from them—that is, its exaction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.138.2",
+   "text": "By as much, then, men of Athens, as undertaking the finest things is better than choosing to do nothing good, by so much more must we keep our faith with them to the end rather than wish to have disturbed it. Indeed, if after contributing so much to us beforehand they are to be dishonoured like this, and the fact of having first done favours is to avail them nothing at all, what"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.140.1",
+   "text": "would they have suffered if they had contributed nothing at all beforehand? These men ought, if not for this reason, then because of our magnanimity towards all and our natural bent for doing favours, to keep not only these things to the end but more besides. And when both these reasons come together, Heracles, will they get no benefit from them, when either one alone would have sufficed? Apart from this, if, when they were being granted the exemption by you, they had said they feared you would soon take it away from them, you would not only have convicted them of madness for thinking so, but would also have rebuked them for belying your intention. Would you then willingly choose to have done to them the very thing for which they would have been reproached for fearing? And yet those who put forward such a plea then would not have seemed to be saying anything wholly unpardonable, but for us, if we behave like this, there will be no excuse whatever from anyone; rather everyone, I know well, will refuse to believe it, both knowing our magnanimity even towards the most wicked,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.142.1",
+   "text": "and thinking it impossible that we, who have been established as advisers on what is needful to all without exception, should then have used Leptines as an adviser against ourselves, so as to vote for this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.142.2",
+   "text": "But I return to that point again. If, when you thought you ought to do them good in return, these men had demanded oaths that you would not change your minds, you would certainly have yielded to the challenge: annoyed with them for not being trusted, yet quite unable to refuse to confirm, once and for all, that their fear was groundless. Is it not absurd, then, that what you would then have pledged by oaths you should now be unwilling to keep without oaths, and this although it is truly the finer course and brings you more glory? For then you would have seemed to keep it under the compulsion of the oaths, but now, doing so even without the compulsion that comes from them, you would win a reputation for the best intention and the one most fitting for you. And it occurs to me, men of Athens, to wonder that, if others slandered us, we would surely not"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.144.1",
+   "text": "have put up with it, but would even have brought a suit for outrage against them, and yet we ourselves shall be willing to slander ourselves in the most shameful way of all. For when we punish with death those who have deceived the people in what they promised, if they are tried, as the law commands, and convicted, while we take away even what we have given, how shall we not seem to be plotting against ourselves, having willingly done the very things for which we deem others worthy of death? This above all we must guard against, not only because we above all must do what is right, inasmuch as we above all are dear to the gods, but because this too, more than anything, is beyond pardon. And rightly. For the man who does any wrong whatever bears blame for that alone, but the man who, in the things which among others are"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.146.1",
+   "text": "punished most severely, willingly involves himself, casts his vote against himself to be justly hated by all, both because he chooses to do such things and because he condemns in others the very things he himself chooses to do. To such a man I would say: if these things, my good sir, happen to be among those that are praised, how can you think them deserving of punishment in others? But if they are by nature of the meanest sort, how can you think you ought yourself to practise as the best the things you punish when they are found in others?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.146.2",
+   "text": "Indeed, if harm done privately to anyone at all deserves blame, surely what brings harm publicly and in common admits not even of excuse. Now you so hate any citizen who is base and has gained no good reputation that you drive him out of the city as quickly as possible, so that the others may not be harmed by him and the disease may not spread to many. But if we ratify the law of Leptines, we shall not only seem accursed in such matters, but shall also rouse against ourselves a common"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.148.1",
+   "text": "hatred, and we shall take away from our benefactors what was given them no more than we take away from ourselves being trusted. And if falling from the goodwill of all and getting a bad reputation instead of a good one is far harder than being deprived of any grants whatever, then, first, we shall in fact be punishing ourselves more than our benefactors by what we take away; and then it is terribly absurd to bring a new war upon ourselves from our own house, and for the same people to be, not in part but at once, both wrongdoers, surely, and wronged, both executioners and sufferers. If this had come about from someone else, it would have held some consolation for us and would even have seemed to be in keeping with precedent; but that we should be the ones who abuse and harm ourselves, and, what is worse than this, though we could avoid suffering, should choose to suffer, goes beyond all misery. For where we think we ought to show magnanimity even towards insolent men and sycophants, and to do everything so as afterwards to make them well disposed to us, surely it is"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.150.1",
+   "text": "plain madness when [...] our benefactors, who value our interests very highly indeed and will not cease from this madness of theirs even if we wish it, instead of honouring them fittingly with everything that is due to them and showing them the utmost generosity, we ourselves shall even show them to be our enemies by what we take away?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.150.2",
+   "text": "If, then, we possess so good a disposition and have come so far in being well disposed towards all without exception that we are willing to make even our enemies well disposed and to turn them to what is right, while this man by what he advises sets us at odds with everyone at once and forces us into what is contrary to our nature, he is not only an enemy of the constitution, so that no attention whatever should be paid to him, but he is also turning the nature we have all upside down like a whirlwind, and is making those who are most reasonable by nature and have been raised on good laws and customs worse off, O gods, than the most lawless and savage barbarians, if indeed"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.152.1",
+   "text": "they honour benefactors while we dishonour them. And they, who through savagery of mind go daily against the common nature of mankind and even against their own closest kin, in this alone, surely, keep to it, in which all men share by nature, I mean justice towards benefactors; but the Athenians, who have not only surpassed almost all mankind in goodness of nature, but have often appeared beyond human nature in their virtues, are now in danger at Leptines' hands of departing even from what is natural. Again, the Thirty, when they pulled down the walls of the city, did not pull down its spirit with them, but, since this stood very firm, the walls rose again far more splendid and fine. But Leptines is now trying to pull down not walls, but what"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.154.1",
+   "text": "is altogether greater, the city's magnanimity and its being trusted. And then Thrasybulus, taking a few men with him, overthrew the tyranny; and shall one man, whoever he is, now prevail over all of us? By no means, men of Athens."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.154.2",
+   "text": "Consider this too, men of Athens, so that you may know clearly that Leptines says the opposite of what he proposed, and is not ashamed to war against his own words. For when he takes the grants away from all the others, and allows only the descendants of Harmodius and Aristogeiton to keep them, he plainly regards this thing as neither wholly good nor wholly bad, but holds opposite views on this single matter. Yet it is impossible for both to be true at the same time; it must be one or the other. However, let it be granted that the refutation has become evident. Nonetheless, if you think, sir, that the matter of grants is something fine and just and advantageous to the city, why do you not give a share"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.156.1",
+   "text": "to all without exception, but to some and not to others? And if they seem to you unprofitable, and you have condemned them and think there is nothing sound in them, why do you not deprive everyone of them? As it is, by depriving all the others of what was given while allowing the descendants of Harmodius and Aristogeiton to keep them, you seem to deem the latter worthy of honour while dishonouring all the rest, and to do neither of these things reasonably. Rather, without noticing it, you honour the former unworthily, since you do not honour all, and you dishonour all unjustly, since you see fit to honour those alone. For both should share equally. And by the very means by which you separate them, you unwillingly join them together, implying that all ought to enjoy the grants equally."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.156.2",
+   "text": "That these grants are worth a great deal is clear from this. For by giving them only to the descendants of Harmodius and Aristogeiton, you most of all allow both of these to be voted: that these men are held to deserve to enjoy them because of their family, and that the grants are"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.158.1",
+   "text": "regarded as so very valuable that they are given as a kind of privilege to these alone out of all men. Is it not monstrous, then, and wholly contradictory, here to claim that they hold the place of the best things, but in the case of all the others to reject them as worth nothing? Apart from this, it was not fitting in any way at all to mention the descendants of Harmodius and Aristogeiton. For if you claim to withhold the grants as being bad, these men make your argument contradict itself; and if as being of the greatest worth, all will share in them equally, and not only the descendants of Harmodius and Aristogeiton. Further, we consider that Harmodius and Aristogeiton were such wonderful men for us, and better than the rest, that we were willing to honour them with statues in the same way as the gods, and to fall short of nothing in honouring them except sacrifices. Yet we shall not grant that their descendants be deemed worthy of equal honours, nor anything near it. For neither"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.160.1",
+   "text": "do we know of Olympic victors ever sharing their olive crown with their children, any more than their title, nor can [children] inherit virtue along with descent; rather these often turn out diametrically opposed. How then did you mention these men as acknowledged good men, if they had to be mentioned at all? For if one ought not, for the reasons I gave, to mention even those truly good, surely to mention as good those who are not is laughable."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.160.2",
+   "text": "And I do not mention that in these very words you are unwittingly depriving Harmodius and Aristogeiton too, whom you hold in such high regard that for their very sake you allow the grants to their descendants as well, of their statues, which they hold as a privilege for being tyrant-slayers, a gift worthy of that wonderful daring and most fitting for them. In which way would you have been more honourable and more worthy of belief: by upholding the grants outright and agreeing with all men on this point, or by upholding them in part and disparaging them in part, and to some wholly"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.162.1",
+   "text": "forbidding them, to others allowing them, and not only confirming neither of these by means of the other, but also opposing the common vote about them? I think the former, and all would agree. But you, by limping so in your counsel, do the work of a man who has no confidence in what he says, but distrusts, so to speak, himself. A lawgiver, an adviser and everyone of that kind must declare his view clearly, and not strike two notes, as the saying goes. And yet when the man who asks others to believe him does not himself"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.164.1",
+   "text": "hold the same opinion about what he says, he could hardly seem trustworthy to anyone at all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.164.2",
+   "text": "And I am moved, men of Athens, to wonder at Leptines as well: how, rogue that he is and clever at handling affairs, he has failed to see that by the very means through which he strips the others of their grants he is stirring up the stinking bean-trefoil against himself, depriving himself of the greatest things: free speech, reputation, speeches, and the right to come forward before the assembly on whatever matter he chooses each time. For it is not only the man who receives meals in the Prytaneum, or exemption, or plethra of land, or something of that kind who receives gifts; whomever the people deem worthy of this right to come forward, he too receives gifts in this very thing. And these ought to be called gifts so much more"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.166.1",
+   "text": "than those, inasmuch as those might more justly be called repayment than gifts, while these are purely gifts, given to men who have contributed nothing beforehand. So in this way we shall wrong the others by taking away their grants, while he will have nothing of the kind to put forward [in his defence]; rather, he would be grateful not to suffer this, and if he suffers it, he will surely not justly be aggrieved, nor cry out as one wronged. Or rather: if no one is to lose his grants, neither will you lose your access to the assemblies; but if they are deprived of them, you yourself, be sure of it, will share in the effects of the law. And having lost the use of free speech, you will find the law you proposed from that position perishing along with it. When things have gone this way, you will be disfranchised for the future, while all will hold their grants as before, the law having been stopped and no one standing in the way any longer. Choose, then, one of two things: either let the law go and keep the reputation you have, or, by seeking to establish it, besides achieving nothing more, lose that reputation once and for all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.168.1",
+   "text": "Nor indeed could you say this either: that of those who obtained the grants, some, being worthless men, and others, having done the city only small services, have been deemed worthy of more than was fitting. For in the first place, even if this were true of all of them, it would rather tell in our favour. Why? Because from the beginning we are by nature such as to surpass all men in benefactions, as in everything else. At any rate all men sing of us as common benefactors. But as it is, most of these services are so great and of such value that, even if the men who performed them had been distinguished from no other source, this would suffice for them to be honoured exceptionally. And these men are of such a kind and have reached such a height of admiration that they not only lend more dignity to the grants they received from us than they gain from them, but even if the custom of grants had not yet been established among men, it would have been established on their account. To go through them one by one,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.170.1",
+   "text": "I do not mean those of earlier times but even all these of our own day, would be long and beyond what we are able to do. But mentioning only one man, who just yesterday or the day before became the cause of many great benefits to the city, I leave the vote to you yourselves: whether the man deserves not only the exemption that you gave to him and his children, nor only very many other grants and crowns, but also that many others should have been well treated on his account."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.170.2",
+   "text": "And Chabrias deserves this too, just as earlier Timotheus did for taking Corcyra, and for cutting down the battalion"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.172.1",
+   "text": "Iphicrates. For he alone of those who have engaged in public life, having won on our behalf on each occasion very many and very fine victories, and having been defeated nowhere, and having fallen short in no way whatever of the courage that belonged to him, not only drew envy from no one, but is acclaimed by all as having done the city the greatest service: on the one hand, besides many other deeds, by defeating the Lacedaemonians at sea off Naxos so thoroughly as to take some seventy triremes and three thousand prisoners; on the other, by bringing seventeen cities over and producing for us a hundred and ten talents from the enemy; and, to sum it all up, showing himself admirable in everything."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.174.1",
+   "text": "Then this man, so excellent in all respects, praised by all, adorned with so many and such great trophies, who remained wholly undefeated, who provided the city with the greatest resources for prosperity, this man, who deserves the greatest rewards and whom it is just to honour above all others, shall we deprive even of the exemption, which falls far short of his renown, that we deemed him worthy of? And how will he not seem both now and then to have been most gravely wronged by us, having then received less than was fitting, and now, O gods, having lost even this? Even if he had not happened to be such a man, nor possessed what I said he did, by the way he died for us he deserves to be honoured through, so to speak, all his descendants."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.176.1",
+   "text": "For it would be absurd to honour those who died in war each year with funeral speeches, and to rear their children at public expense with great care, until, grown to manhood, they return home with their panoplies; but the man who both in life and up to his death often ran risks on our behalf and set on his life an end worthy of his choice, him and his sons, not only to be unwilling to deem worthy of honours equal to theirs, but even to deprive of what was given; and while those who were often badly treated by him in battle have both long ago and now considered him a good man and honoured him exceptionally, so as to admire his deeds and his extraordinary courage, and to wish for themselves that they might have had the good fortune of such a citizen, that we, on whose behalf he fought so brilliantly and whom he adorned with great and wonderful trophies,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.178.1",
+   "text": "should destroy the renown that is his by abusing his sons, as though he had either done the city no good at all or committed the most shameful deeds of all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.178.2",
+   "text": "Indeed, if while he was alive he had out of greatness of soul refused any favour whatever and sought nothing for what he had done for us, but thought it enough merely to have been of great worth to the city, then surely we, out of respect for his virtue and regarding his extraordinary deeds as a kind of living monument, ought now to treat his son with the greatest generosity, and repay the favour to him, and deem him worthy not only of exemption but of many other things. But as it is, having long ago given this to him and to his son, will you now decide something else? And how is it not absurd that the benefit from him"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.180.1",
+   "text": "has been established for the city securely once and for all, while what you resolved for him in return has been turned into a recantation? To Ctesippus son of Chabrias, then (and when I speak of him, I speak of all against whom this law is directed), nothing worse will befall than losing his exemption; but you, men of Athens, if you are so disposed toward your benefactors, will deprive yourselves of very many fine and good men able to serve the city in every circumstance that arises. For no one at all, I think, will any longer contend on your behalf or be willing to run risks, seeing that virtue among you goes unrewarded. For in this, as the tragedy says, many cities suffer: when a man who is noble and zealous wins nothing more than the worse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.180.2",
+   "text": "Still, if it were possible only to receive good, without doing good as well, there would be no problem. But if there"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.182.1",
+   "text": "is no way that anyone could receive good from someone without first either doing good to him himself, or at least being expected to do so, neither could a city ever prosper unless it honours those who have done it good. So you too, if you choose to receive good, must choose also to do good to others yourselves; but if you would abolish this by the means through which you take away the grants, then do not choose to receive good either, and do not count as everything in dealings with yourselves what you count as nothing in dealings with others. For even if we of all people deserve most to receive good, not only because we of all people have been most accustomed to this part throughout all time, but also because we, first of all people, have enjoyed the greatest gifts of kindness and generosity from the gods, both in the gift of the crops"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.184.1",
+   "text": "and in there having been a contest and an allotment over us among the foremost of the gods; yet since it is impossible to obtain this without that being present, we surely need both, so that by seeking the one we do not lose not only it but everything. For doing good and receiving good, even if they are wholly distinct from one another, are nonetheless of necessity bound to one another in the way I have described."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.184.2",
+   "text": "And I say this too: that even if, while doing good, we were not going to receive good, not even so ought we out of greatness of soul to give up doing good, regarding as sufficient gain the respect and gratitude of those who receive it. But when, besides this, one can also expect to receive good in return,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.186.1",
+   "text": "surely it is plain madness to deprive ourselves of such things. For in being eager to do good to others when we can, we also do good to ourselves, but in taking no account of them, we harm ourselves in the greatest matters. And if being unwilling to do good is not free from blame, nor, still more, failing to do good in return to those who have done good, then at trying even to take away what has been given them, Heracles, anyone at all would be indignant beyond measure, as at a thing that has never yet happened among any people whatever, and would not now have begun among us, when there are laws and justice, and when what is of common benefit to all, the gods willing, always prevails in the city; and when, moreover, we are so far from choosing to do this that even those who have received grants from us, if they should ever wish to give them back to us, we would truly regard as enemies, as having resolved in this matter in a way unworthy"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg0284.tlg054.perseus-grc2.188.1",
+   "text": "both of the character of the city and of our ancestors. But if this is already intolerable, men of Athens, how great must we consider that other thing?"
+  }
+ ]
+}

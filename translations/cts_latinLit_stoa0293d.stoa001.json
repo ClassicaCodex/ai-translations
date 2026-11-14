@@ -1,0 +1,500 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0293d.stoa001",
+ "edition_urn": "urn:cts:latinLit:stoa0293d.stoa001.ai-claude",
+ "source_edition": "stoa0293d.stoa001.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Contra Arianos Dialogus: AI translation (Claude)",
+  "author": "Vigilius Tapsensis",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0293d.stoa001.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.head": "Line 1: 'Arii perfidia interiit' is evidently corrupt; rendered as 'infected' (e.g. infecit/imbuit). 'veni' read as 'venia' (pardon). Line 2: the agent, earlier unnamed, is here called 'Evangelus presbyter'; the name may be corrupt. Line 6: the heading 'Constantinus Constantius' is odd and may be corrupt; 'hujus .dei manus' read as 'hujus fidei munus' (gift of this faith). The letter calls Athanasius 'bishop of that same error' and charges joining 'the created substance of the Son to the Godhead', as the text stands.",
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.12": "Line 23: 'sub!e- et' read as 'sublevet' (lifts up). Line 27: 'reccuti' read as 'recenti' (fresh). Line 31: 'persecutionem' read as 'prosecutionem' (statement). Line 33: 'catenus' read as 'eatenus', 'reralibus' as 'regalibus'.",
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.38": "Line 50: the Isaiah quotation is garbled in the scan ('Servientium utro mihi. vocabant'); translated as the evident reading 'Servientibus autem mihi vocabitur nomen novum'. Line 54: 'cludcre' read as 'eludere'. Line 52: 'gam' read as 'agam'.",
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.55": "The dispute in the last lines turns on the prepositions ex ('from') and de ('of'), rendered consistently that way. Usiae and triusion are Latinised Greek (ousiai, 'three beings'). In 66, 'aliquo momento intercapedine' read as 'interval of any moment'. In 63 'de, utabitur' read as 'deputabitur'.",
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.78": "Line 79: 'tu aquid' read as 'tunc quid'; 'interpellantium' (lit. 'of those interrupting') probably stands for 'interpolantium', 'of interpolators', and is so translated. Line 90: 'intectae' read as 'infectae' (uncreated). The biblical citations follow the edition's references.",
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.94": "The opening of the preceding passage appears to be missing in the edition (the 'before' line begins mid-sentence). Psalm numbers follow the Vulgate; the edition's 'Psal. CII, 3' is evidently Ps. 109:3, and 'Jerem. XXXIII, 18' is evidently Jer. 23:18; corrected in the references. In VI, 'sulistantia', 'preprietate', 'Patiis' read as substantia, proprietate, Patris; in VII, 'IiI' read as sit; in VIII, 'creti' read as caeli; 'Piatus' read as Beatus. In V.95 'quaei hians' read as quaeris hians/quasi hians ('gape for'); 'obvius properare colendis' is obscure, perhaps for 'colendae', rendered tentatively.",
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.100": "In Phil. 2:9 the text reads 'puerum suum' ('his servant/child'), not found in the usual Vulgate; translated as given. Ps. 39:9 is quoted in a garbled form ('V, faciam'), presumably 'Ut faciam'. In section XII the text appears to read 'ostendit' for 'ostendi'.",
+  "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.105": "106/108: the end of line 108 is cut off in the scan ('ut ipse erinon metuis, tanta majestas ha-'); read as 'ut ipse [asse]rere non metuis, tanta majestas ha[bet]' and translated as a question. Several scriptural references in the edition are inaccurate (e.g. 'Joan. iv, 26' for John 14:26, Acts 5:5 for 5:3, Eph. 4:50 for 4:30); corrected references given. 'aequarieumprophetade' read as 'aequari, cum propheta de'. Line 109: 'corpora vestra vobis est Spiritus sancti' lacks a word; 'templum' supplied from 1 Cor 6:19. In line 114 'nihil adversum se senserit pravitatis' is obscure; rendered literally."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.head",
+   "text": "THE DIALOGUE OF VIGILIUS OF THAPSUS AGAINST THE ARIANS. SPEAKERS: ATHANASIUS, ARIUS, AND PROBUS THE JUDGE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.ab1",
+   "text": "BOOK ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.1",
+   "text": "1. When at the city of Nicaea in Bithynia the faith of the Church was confirmed by three hundred and eighteen bishops, with spiritual vigour, from the teachings of the gospels and the apostles, the faithlessness of Arius was there exposed in the presence of the emperor Constantine. Refuted together with the dogma of his faithlessness by the judgement of those same bishops, he was separated from the Church, so that so impious a doctrine might not lie hidden long in the Church and insinuate itself into the minds of all. But when the emperor learned that the faith of the Church had been confirmed by the Fathers whole and in a holier way, as it was handed down by the apostles, he ordered that same Arius to be banished into exile as a rebel against the sacred faith. But just as the serpent ensnared Eve in paradise with deceitful persuasions, so too the faithlessness of Arius infected Constantia, the sister of that same emperor, through a certain agent. And the devil's venom lay hidden in her, until it found the time to burst out with which it had filled her. So when, on the last day before her death, she was enjoying a visit from her brother, she at once held out to her innocent brother the fruit of poison in words. And straightaway, after the example of the first man, he unknowingly slipped down the road of transgression: lending his mind to her viperous requests, [he had] Arius, who had earlier been banished by him as a sacrilegious man, recalled from exile to the destruction of faithful souls. And Arius, setting out his faith to the emperor in cunning arguments, affirmed that he had been condemned by the bishops without cause. For this reason, namely, the same emperor ordered a synod to be gathered at Alexandria, so that if his assertion were found to be true, he might be restored to the Church, pardon following upon the judgement; and so that all, rejoicing at his amendment, might then proceed more peaceably to the dedication of the church of Jerusalem. Finally, while his case was being reconsidered at length by the bishops, the same emperor Constantine, having made his final disposition in a certain suburban place named Nicomedia, ended his last day in the thirty-first year of his reign."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.2",
+   "text": "2. He handed this disposition of his will to the aforesaid agent of Arius, to be kept for Constantius. When Constantius arrived after his father's death and took up the empire, [the agent] delivered the will to Constantius as Constantine had entrusted it. And indeed on account of this service the same presbyter Evangelus was held in such intimacy with him that he was called not a presbyter any longer but the father of the empire; and he who had been raised up as emperor in order to command seemed to be bound under the command of this presbyter. At his no longer request but rather command, Arius was recalled into the Church. The inexperienced emperor, holding to his doctrine with impious mind, rejected the catholic faith, and, falling away in sacrilegious fashion from the traditions of his father, is seen to have inflicted no light persecution in his times upon the Church of God and its priests. At that time he also made very many martyrs and many confessors. Others too he left half-alive, with their eyes gouged out and their hamstrings cut; and some, seized by a rabid fury of madness, he condemned by banishing them from their own sees. In these things the saying of the Lord seems to have been fulfilled: If they have persecuted me, he says, they will persecute you too (John 15:20). This man, then, before he deceitfully gathered the priests of the Lord from the whole world at Ariminum and Seleucia, desiring to make everything one, ordered a certain judge named Probus, supported by his authority, to be present as arbiter between this same Arius and Athanasius: a man, of course, whom he had found faithful in his realm and learned beyond other men in all the worldly arts. Probus, setting all public business far aside, chose to fulfil what had been enjoined on him with all speed, both to obey the imperial orders and to establish by his examination the truest faith. So when he had come to Laodicea, a city of Syria, in the second year of Constantius's reign, sitting on the tribunal in the hall, with crowds standing on this side and that, he addressed Arius and Athanasius in these words:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.3",
+   "text": "3. Admonished by the sacred letter of the glorious and most pious emperor Constantius, I have ordered the matter of the faith to be debated between you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.4",
+   "text": "Arius and Athanasius said: And who is so senseless as to dare refuse the emperor's commands?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.5",
+   "text": "Probus the judge said: Then let the sacred letter of the venerable Augustus be read."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.6",
+   "text": "And it was read out as follows: Constantinus Constantius, pious, perpetual, victor and triumphant, ever Augustus, to Probus the judge, greeting. Having obtained our father's empire by divine gift, this must be our first concern: that, heretical conduct being erased from the minds of the faithless, the whole world, united to our sacred faith, may rejoice. For he who turns the impious man from the path of error will save his soul and will cover the multitude of his own sins. And since we now find very many partners in this crime, cultivating this faithlessness with sacrilegious rite while asserting that they keep the whole rule of faith, who not only deceive men with impious seduction but also do injury to the unbegotten majesty, joining the created substance of the Son to the Godhead, we instruct you, having received the authority of our clemency, to have an examination of this matter conducted between Arius, the venerable presbyter, and Athanasius, bishop of that same error; urging above all that both, setting aside perversity of mind, submit their necks to the true and proven faith, lest, despising the commands of our piety and clemency with their accustomed reckless boldness, they provoke us to grave anger. And although you have not yet received the gift of this faith, yet by the wisdom in which you excel others we believe you can faithfully decide everything without favour to any person, so as to please God more than man. And in another hand: We wish you good health. Given at Constantinople, on the twelfth day before the Kalends of January."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.7",
+   "text": "4. When it had been read, Probus the judge said: Let the sacred letter of the venerable emperor which has been read be entered in the record. And he added: Perceiving that in the worship of idols there is no majesty of a true divinity, I wish to submit myself to the Christian teachings, by which it is maintained that there is one living God, who created all things visible and invisible by the power of his word. And since, though many are counted under the title of the Christian name, they are said to stray far from the truth of its faith, holding different views and following various systems of doctrine, I now greatly desire to know which is the faith of right doctrine, to which, all ambiguity of doubt removed, I may cling firmly; lest, wishing to be stripped of the blindness of error, I be entangled in greater errors of darkness, if at random and without any discernment of examination I become a follower of whatever sect first presents itself, not knowing whether it is sound or not, or founded on truth. And therefore, if you please, or rather because it ought to please you, let each of you set out the statement of his faith in our presence, so that after examination, whichever is found firmer and truer than all, to that we may all rightly yield, and follow it without doubt, rejecting the error of falsehood."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.8",
+   "text": "Arius and Athanasius said: How can we impart to you the secrets of so great a mystery, and place the judgement of a matter you have not experienced [in your hands], when you have not yet washed off the stains of paganism by receiving the true doctrine?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.9",
+   "text": "Probus the judge said: This is precisely what I desire with all my strength to learn: which is the right and truthful doctrine in which I ought to receive the sacraments of the hidden mystery. For I do not now desire the deep secrets of the mysteries to be opened to me; but I now ask to be shown those things in your faith which are held outwardly and preached publicly. That is, that there is one and the same true God, maker of things visible and invisible. And since I am not unaware that you profess this with one mouth, [I ask] what cause has arisen that you are divided into such various sects, so that which is true and which false cannot be understood by us at all, before, through your contest, conducted with a proper measure of patience, we learn more carefully what is fitting."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.10",
+   "text": "5. Athanasius said: Since you are steeped in every kind of literature and very learned in philosophical disciplines, you ought not to be at all surprised that many and various novel doctrines have arisen among us, since among you too there have emerged as many novel opinions as there are almost names of their authors. For since there are three religions in the world, of the Jews, the pagans and the Christians, each religion, falling away from itself through many widely differing opinions, has been divided into various sects of its own teaching; while each person, enticed by the charm of a more recent opinion that displays not the truth but the likeness of truth, abandons the line handed down of old by the Fathers, straying irremediably through pathless places all the more because he uses novelty in place of antiquity, as though walking the way of the ancient boundary handed down by the Fathers. For either he thinks too much, or believes too little, and so does not know how to walk the middle and straight road. I have said this by way of preface to show you the clearest signs for exploring the truth, so that you may very easily recognise that he is wrapped in the error of depravity who, abandoning the ancient institutions of the apostolic faith, dreams up for himself, at the discretion of his own will, the faith he should follow."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.11",
+   "text": "Arius said: Athanasius very well declares that the error of faithlessness consists in base and recently invented novelties, the apostle's testimony agreeing on this very point, where he says: But avoid profane novelties of words (1 Tim. 6:20). Hence I beg you not to depart from this path of inquiry, investigating more carefully and attentively who uses a new and who an ancient sacrament of faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.12",
+   "text": "Probus the judge said: So that these things you assert may readily become known and come to the light of truth with all the fog of ambiguity removed, set out the rule of the ancient faith, and make it known to our ears just as it was handed down by the apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.13",
+   "text": "Arius and Athanasius said: We believe in God the Father almighty, and in Jesus Christ his Son our Lord, and in the Holy Spirit. This is the rule of our faith, which the Lord by heavenly teaching handed down to the apostles, saying: Go, baptise all nations in the name of the Father, and of the Son, and of the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.14",
+   "text": "VI. Probus the judge said: I am stuck, struck with great astonishment, seeing three gods preached by you, by whom I had believed that one must take refuge in the majesty of the singular power of one God. So I ask that you be good enough to inform us briefly what the reasoning of this faith is, or what these names of three things and three words signify."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.15",
+   "text": "Arius and Athanasius said: We do not confess three gods in the professions of our faith, but we faithfully profess that we believe in the Father, the Son and the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.16",
+   "text": "Probus the judge said: Then set out your faith more fully, and declare what your belief within that same faith is, and of what kind."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.17",
+   "text": "Arius said: I confess that the unbegotten Father, before all times, ineffably begot the Son, through whom and in whom he made the visible and invisible creatures; who in the last times, for the salvation of the human race, was sent by the Father and bore a true man in the world, whom he took up inviolably from the Virgin Mary without any mingling of human shame. Although he is God and Lord of his creation, he nevertheless cannot be compared with his begetter in all things or made equal to him in anything, whom he professes to be both his God and the author of his origin. Yet there are not therefore two gods because he too is God; nor is he therefore not God because the Father alone is God. Just as he is not therefore not good because the Father alone is good, since the Son is not only good but also the creator of good things. And just as it is not taken from him to be good, though by the Son's own profession the Father alone is good, so it is not taken from him to be God, though the Father alone is God. And just as the goodness of the Son does not prejudice the singularity of the Father's goodness, so his deity does not hinder the Father from being the one and singular God. And in this way we profess one God, not denying, as I said, that the Son is God, but placing the authority of the one divinity with the Father alone."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.18",
+   "text": "Athanasius said: Arius has rightly defined in his profession that the Father ineffably begot the Son from himself before all times; but whether he means to assert that the Son was begotten from the very essence or nature of the Father, or from elsewhere, he has for the present kept silent in this statement of his. For I confess that the Father, and the Son, and the Holy Spirit are of one substance and one nature, so that I believe the Son was begotten not from nothing, nor from something [else], but from the Father, and that the Holy Spirit proceeds from the Father. And although I profess that there are three persons subsisting in their own property, yet their nature is one, and their divinity is shown to be one."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.19",
+   "text": "VII. Probus the judge said: Although this varied and very dissimilar diversity of your opinions strikes a great fog of confusion into our minds, nevertheless, so that we may quickly be freed of these ambiguities and learn which is the profession of the true faith, be good enough to fortify the opinions you assert with clearer testimonies of divine Scripture. And so that you do not wander far off through the long circuit of speech and the confusion of a tangled disputation, state your faith one at a time, as I said. But now let Arius proceed, and not be reluctant to build up his faith with truthful testimonies."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.20",
+   "text": "Arius said: Since you have ordered me to engage first, let Athanasius answer whether God is of a simple nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.21",
+   "text": "Athanasius said: What impious man would deny this?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.22",
+   "text": "Arius said: Let him answer whether all the things that are said of God are also to be taken according to essence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.23",
+   "text": "Athanasius said: I would not rashly declare that all things said of God ought to be taken according to essence, apart from some relative forms of names, uttered according to the customary usage of human speech, which are fitted not properly to God but to persons and times, or to any kinds of things whatever. That is, when he says he does not know, or again admits he has come to know; or when he feels regret for things he has made, and shows himself now angry, now appeased. If we choose to take all these according to essence, we shall without doubt profess the divine nature to be passible and lacking foresight, a nature into which either ignorance or knowledge arising in time could fall, which sadness could wear down through repentance and joy could lift up by quickening. What else will this be but to undergo changeable things, and to drift this way and that through instability? Hence it is most clearly proved that not all things said of God ought to be understood as said according to essence; but we profess with utter certainty that some correspond to the dispensation, not befitting his nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.24",
+   "text": "Probus the judge said: Although you have answered sufficiently and learnedly, with praiseworthy brevity, that not all things are said of God according to essence, I wish to hear this from you more fully when the time for your part of the disputation has come. For now (as I said before) let Arius proceed as he had begun."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.25",
+   "text": "VIII. Arius said: If you pay careful attention to the things I set out at the beginning, you will find there the whole belief of our faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.26",
+   "text": "Athanasius said: Arius truly professes that the Son subsists before the ages. But that he was born of the Father he concedes only in the sound of the word and in a feigned confession of words, not in the reality of truth, since he separates him far from the substance of the Father's nature, and affirms that he is subject to the Father by the condition of nature, not by the reasoning of the dispensation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.27",
+   "text": "Probus the judge said: Give the clearest indication of your faith, and mark out how you believe in a fresh statement, so that the matter of the disputation too can be fitted to the standard of the confession put forward."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.28",
+   "text": "Athanasius said: So as not to burden your senses with a very long speech, I sum up my faith in a short discourse. I confess that the Father, and the Son, and the Holy Spirit are one in deity, power, greatness and nature. Nor do I assert that there is anything new or foreign in this Trinity, as if it had not been before but was added afterwards; but (as I said) I believe it to be of one nature and one substance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.29",
+   "text": "Arius said: Just as I confess three persons abiding in their own property, so I confess three substances, of the Father, and of the Son, and of the Holy Spirit. For the substance of the Father is one thing, that of the Son another, that of the Holy Spirit another. Nor can either the begotten nature of the Son or the created nature of the Holy Spirit in any way be compared with the unbegotten substance of the Father. Hence in our faithful confession they are believed to be neither equal in power, nor alike in greatness, nor sharers in nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.30",
+   "text": "Probus the judge said: If this is the whole point on which you seem to disagree with one another, that is, that one says the substance of the Trinity is diverse and the other that it is one, the method of disputation now requires that you support your assertions more firmly, not with subtle arguments deliberately drawn from the dialectical art, but with the simple and pure proofs of divine Scripture."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.31",
+   "text": "IX. Arius said: I believe that forgetfulness has by no means removed from the retentive mind of your prudence Athanasius's statement, in which he argued very elegantly that he ought to be branded with the error of depravity who pursues new and unaccustomed inventions of words, adding to the apostolic doctrines what it is established was not handed down by them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.32",
+   "text": "Probus the judge said: So I remember."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.33",
+   "text": "Arius said: Then let the decrees of the Council of Nicaea be laid open by reading; and you will recognise that Athanasius, or his authorities, corrupted the apostolic faith by adding new words to such an extent that, making use of royal favour, they even decreed that those who held to the ancient teachings of the Fathers should be banished by royal edicts."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.34",
+   "text": "Probus the judge said: If the method of the present business requires that the decree of the Council of Nicaea be brought forward publicly, let Athanasius also indicate this in his statement, so that whatever is being brought in from outside may be read out with the assent of both parties' wishes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.35",
+   "text": "Athanasius said: It befits the case that access to a reading of the proceedings should not be refused."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.36",
+   "text": "Probus the judge said: Then, as he desires, let the reading of the aforesaid decree be aired."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.37",
+   "text": "And it was read as follows: We believe in one God the Father almighty, maker of all things visible and invisible. And in one Lord our Jesus Christ the Son of God, born of the Father only-begotten, that is, of the substance of the Father: God from God, light from light, true God from true God, born not made, of one substance with the Father (which the Greeks call homousion), through whom all things were made, both those in heaven and those on earth. Who for our salvation came down, and was made flesh, was made man, suffered, rose again on the third day, ascended into the heavens, and will come to judge the living and the dead. And in the Holy Spirit. But those who say: There was when he was not, and before he was born he was not, and that [he was made] from things not existing, or from another substance or essence, saying that God is mutable or changeable, these the catholic and apostolic Church anathematises."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.38",
+   "text": "X. Arius said: You see clearly, Probus, best of men, that the decrees of this council were written with reckless daring, to the affront of the apostolic faith. For what need was there for this new word homousion to be inserted into the ancient rules of doctrine? Shall we say that the apostles, or their disciples, and all their successors in order, who up to that time lived in the confession of Christ and did not know the word homousion, followed a sacrilege of impiety in the truth of the faith, simply because, lacking any notion of this name, they went on to Christ without affirming it in their preaching? For if, as these men utterly falsely claim, a new doctrine was being introduced by us against the statutes of the apostles, would it not certainly have been fitting to oppose the ancient doctrines of the apostles to the new doctrine thrust in by us, and to rule out novelty by antiquity, not to overturn antiquity by novelty? Why does he impose this name on me to be followed? Why does he drag me so forcibly to a novelty of this kind? Why does he add to the apostolic faith this word, of which neither the prophets nor the apostles make mention anywhere? What, I ask, is this name, without which the faith cannot be whole, without which Christians are stripped of the honour of the Christian religion? For in this case one of two things must follow. If the assertion of the homousion is true, the preaching of the apostles will be false, which flourished for long ages without this name. But if the apostolic faith, which has no share in this name, is true (as it is), then without doubt this [faith] will be false which added the novelty of a name to the ancient faith. Turn over all the volumes of the New and Old Testament, [and see] whether you can find homousion set down anywhere in the sacred pages."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.39",
+   "text": "XI. Probus the judge said: What is answered to this?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.40",
+   "text": "Athanasius said: Are you offended only by the novelty of the name, or do you also shrink from the force of the thing itself which has been allotted this word?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.41",
+   "text": "Arius said: I do not quite understand what you are saying."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.42",
+   "text": "Athanasius said: Since an ancient thing received a new name, and the force of a new thing did not come with a new word, this is what I ask: whether the thing, which is ancient, is condemned by you together with the novelty of the name."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.43",
+   "text": "Arius said: You are saying twisted things, worthy of every marvel of folly. For if homousion is a new name, there is no doubt that the thing it appears to signify is also new."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.44",
+   "text": "Athanasius said: So you condemn the thing and the name alike?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.45",
+   "text": "Arius said: Quite so."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.46",
+   "text": "Athanasius said: Then if I show that a new name was given to an ancient thing handed down by the apostles, will you at last confess yourself beaten? Or even so will you condemn the ancient thing together with the novelty of the name?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.47",
+   "text": "Arius said: You will not show this."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.48",
+   "text": "Probus the judge said: And what reason in the case demanded that an ancient thing should receive a new name? Did it, before it was allotted the word of this name, remain without a proper name? This seems to me to have no logical consistency."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.49",
+   "text": "Arius said: Excellent."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.50",
+   "text": "Athanasius said: It has always been the custom of the Church's discipline, whenever a new doctrine of heretics arises, to change the words of names against the insolent novelties of questions, while the things remain unchangeably the same, and to express the natures of things more pointedly; [words] which nevertheless fit the force of the realities that exist, and which rather show that those same things existed of old, and do not suggest that they arose newly. And, to make what I say plainer, I use an example. At the very beginning of the preaching of the Christian religion, all who believed in our Lord Jesus Christ were called not Christians but only disciples. And because many authors of new doctrines arose, opposing the apostolic teaching, and all called their followers disciples, there was no distinction of name between true and false disciples, since the followers of Christ, or of Dositheus, or of Cephas, or of Theudas, or of a certain Judas, or even of John, who professed to believe as it were in Christ, were all counted under the one name of disciples. Then the apostles, gathering at Antioch, as their Acts indicate (Luke being the narrator), called all the disciples by a new name, that is, Christians, distinguishing them from the common word for false disciples; so that the word of the divine oracle through Isaiah might also be fulfilled, in which he says: Those who serve me shall be called by a new name (Isa. 65:15, according to the Septuagint)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.51",
+   "text": "XII. So the Church, keeping this pattern of using new names that the apostles had set, has issued various new names against various heretics, as the principle of sound faith required. Thus the Church gave the Father the new name of 'unbegettable'. For when the Sabellian heresy sought to assert that the Father was born of the Virgin, the Church against it handed down the Father, confessing him unbegotten. And certainly we nowhere read in the divine Scriptures that the Father is unbegotten. So Sabellius could turn his audacity to the question of this calumny, and use a kind of proposition like yours, saying: Why do you do violence to the divine Scriptures without any regard for shame, by professing that the Father is unbegettable, which you cannot show to be written? Likewise, because the same Sabellius professes by an impious doctrine that he was not only begotten but also suffered, you, when you met together, among the other ordinances of faith that you promulgated, said that the Father is impassible, which we approve as piously and holily laid down by you. But he cries out the same thing: How far will you stretch the audacity of your licence, professing what you have not read written, that the Father is impassible, which neither the prophets handed down, nor the authority of the authentic creed handed down, but which was presumed by your rashness? Again you go on, and laid down this faith of pious confession about the Son, calling him God from God, light from light. Now here, I ask you, measure for yourself how great an occasion for calumny lies open to Photinus, who assigns the Son a beginning from the nature of human generation. For why should he not bring similar grounds of complaint? Why should he not also rave with a similar outcry, saying: What are you saying, what are you laying down, what are you handing down by your judgement to posterity to be followed, confessing the Son God from God, light from light? Show me whether you have read this written in that form of the faith, that is, in the authentic creed which the apostles handed down. But I am content, if it was not written there, that at least it be read to me from the prophets, shown from the letters of the apostles. Who would tolerate these novelties of words? Who would let his mind admit what neither the prophets nor the apostles handed down?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.52",
+   "text": "XIII. Likewise in many very famous decrees of your councils you laid down that the Son is like the Father. Let Eunomius now arise, who confesses him unlike, and say: Where did you read this? Where do you find it written? Did either the Father or the Son use this word of himself? So you, Arius, who today bind me with such a point, that I must show homousion set down in so many words: either confess that, against the insolent and stealthy depravities of heretical understanding, certain names of confession were inserted into the authorities of the faith, not rashly presumed but gathered by consequent reasoning, so that there have been as many resolutions by the pious understanding of new words as there were occasions for faithlessness sought or supplied. Or, if you will not confess this, I shall deal with you by your own objections. Show me, not from conjectures, not from likelihoods, not from what is near to reason, not from what prompts understanding, not from what the piety of faith persuades one to profess, but in the pure and bare literal sense of the words, show me this written: that the Father is unbegotten or impassible, and the Son God from God, light from light, or like the Father. I do not want you to say to me: the principle of faith demands this; piety teaches this; the consequence of the Scriptures moves me to this profession of the name. I do not want, I say, you to hold out such things to me, since you reject me when I offer similar things in proof of the homousion. But take in your hands the books of the divine volumes, and read the names of the aforesaid words set down with the same sound and the same syllables. Either show the Son written as like the Father, or confess him unlike. There is nowhere for you to break out, nowhere for you to escape again. Entangled in the knots of your own proposition, you have no means of untying yourself. Either grant me to prove the homousion, that is, the faith of one substance, from consequences; or if you will not grant it, you must deny everything that you yourself confess, since you will certainly nowhere be able to find where those things are set down."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.53",
+   "text": "XIV. Probus the judge said: If it is the custom of the Church that some words are set down barely in the authority of the faith to restrain the movements of heretics, which nevertheless are clothed by reasoning from the consequence of existing realities, while their truth, from which they take their origin, is found to be contained in the divine letters: what do you say, Arius? Do you grant that homousion (as Athanasius says) is proved from the divine Scriptures through fitting forms of profession, or not?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.54",
+   "text": "Arius said: This man is trying by some trickery of the syllogistic art to evade my objection. For I want this shown to me: whether homousion is written down by the authority of the Lord's scripture. And so let him either read it set down in so many words, or withdraw from confessing it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.55",
+   "text": "Probus the judge said: But do you see how he turns your own question back on you, and binds you with the same terms you use, by the evidence of your own profession, as you yourself demand: that you should show him, set down barely in the canonical letters, that the Father is unbegettable, or impassible, or that the Son is God from God, or light from light, or like the Father? If you cannot demonstrate all these set down in so many words, the necessity of denying them will hang over you. In this predicament, as it seems to me, only one course can come to your aid: that you grant to each other that what is set down barely in your councils has flowed from the springs of the Scriptures. For it will be judged a fault of contentiousness that you demand the evidence of a bare word whose sense in faith you know to abound more copiously in the Scriptures. Seek, therefore, the sense from which the nature of this word drew its origin; and when you have found the sense, do not doubt that you have found the name as well."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.56",
+   "text": "XV. Athanasius said: By however many arguments he is pressed, he cannot in any way be moved from this purpose. For he knows most certainly that if it came to this, that it were taught from the consequence of the Scriptures that the substance of the Father and the Son is one (which is homousion), he could very easily be overcome; and so, driven by the danger of distrust and fear, he demands the evidence of a bare word. But he must again be bound by his own professions. You demand of me that I show written the one substance of the Father and the Son (that is, homousion). But you confess three <i>usiae</i> [beings], that is, three substances. Show me, then, where you have read three <i>usiae</i>. For if I ought to deny the one (that is, homousion) because I do not find it barely written, how do you dare to confess three <i>usiae</i>, when you will nowhere be able to demonstrate this written?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.57",
+   "text": "Probus the judge said: If there exists any evidence from the divine authorities, set down in so many words and specifically, by which it may be proved that there are three <i>usiae</i> and (as you confess) three natures of the Father, the Son and the Holy Spirit, let it be brought forward, so that Athanasius may turn aside from the confession of one substance (which is homousion). For when you have shown <i>triusion</i> set down in so many words in the Scriptures, it will be clear that Athanasius has until now persisted with the rashness of most stubborn obstinacy in confessing the homousion, which he could not demonstrate set down in so many words. But if you yourself cannot demonstrate three <i>usiae</i> either, you will seem to me bound by an equal necessity of condition."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.58",
+   "text": "Athanasius said: Let him show three <i>usiae</i> set down in so many words, and I yield the one substance, which is homousion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.59",
+   "text": "Arius said: If the Father, the Son and the Holy Spirit are three, necessarily there are also three substances, in which each person is known to subsist separately, distinctly and properly."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.60",
+   "text": "Athanasius said: Here no arguments are of use; here truth is not gathered by reasoning from consequence: exact testimony is demanded. Read <i>triusion</i> specifically set down. Do not say by conjecture: if the Father, the Son and the Holy Spirit are three, necessarily there are also three substances. For I too by similar conjecture can more truly suppose: if the Father and the Son are one (for he himself says, I and the Father are one), how is there not one substance? But you utterly refused to enter this way of disputation, while you demanded of me testimony specifically set down (in demonstrating the homousion). So by the same principle, read three <i>usiae</i> specifically and properly set down. For if I ought to deny the homousion because I cannot show it barely written, I ought necessarily then to confess <i>triusion</i>, if I learn from your showing that it is set down in so many words."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.61",
+   "text": "XVI. Arius said: Does the Father properly subsist, or not?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.62",
+   "text": "Athanasius said: Unless you read three <i>usiae</i> set down in so many words, I will give no answer to your questions. For who does not see where your objection is heading? You want, by the device of a cunning question, to establish different substances of the Father and the Son; but there is no need of arguments here, where evidence for three substances is demanded by the plainer testimony of exact wording. But if you wish to pass from exact testimonies to the consequence of things, let this very fact become known to the public conscience: that you could not demonstrate three <i>usiae</i> set down in so many words. And when we have both freed ourselves from this point, I must satisfy your objections or questions."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.63",
+   "text": "Probus the judge said: As far as the course of your disputation shows, neither can you show homousion, nor he <i>triusion</i>, set down properly and specifically. Therefore, so that you do not linger longer in childish contention over superfluous matters, both of you at last cease from this demand for bare evidence, and gather either homousion or <i>triusion</i> by reasoning from consequence from the authority of the Scriptures. For it will not be right to doubt the use of a name which a copious gathering of testimonies can more firmly strengthen."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.64",
+   "text": "Arius said: Since your sentence has decreed this, that we ought to gather the force of the aforesaid names by persuasive reasoning from the grounds of consequent things, I will do as has been promulgated in the sentence of your decree, so that it may not seem to Athanasius that I sought evidence of the bare exact word through difficulty in demonstrating the truth. For I wished rather to use a short way, so that the course of reasoning, wandering too far, might not overshadow the truth with ambiguous senses."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.65",
+   "text": "Athanasius said: The faith cannot come into doubt which, propped by the protection of truth, scatters the thicker clouds of lies with the light of shining brightness. For it cannot lack its own strength, since it has no need to be helped from outside by the props of supporting votes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.head2",
+   "text": "BOOK TWO."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.66",
+   "text": "I. Likewise on the following day Probus the judge said: Since I do not doubt that you keep with unswerving resolve the terms of the agreement you entered into, by which you seem to have granted to each other that you would prove the profession of one substance or of three substances from the consequence of the divine letters by a clear examination in disputation, that is, with the question set aside that demanded evidence of a bare word set down in so many words, now the very terms of that agreement require that, with all the quibbling of human argumentation removed, you show from the sacred volumes of the divine authorities that the Father, the Son and the Holy Spirit are either of one substance or of different substances. For the proof of this matter, not only my mind (as I think) but that of nearly all mortals is held in such anxious expectation that, if the weight of so great a business allowed it, it would wish to reach the sum of the truth and the end of the clearest understanding without adjournment by any day or interval of any moment. So, that the devout and truth-loving intent of the faithful may not be frustrated, with every allurement of luxuriant oratory cast out, deal with the matter, with the case, with things relevant and necessary; carefully avoiding, as I said, all circumlocution of words, the trappings of phrases straying far from the case, and charm of speech, so that the account of your disputation may be adorned with truth rather than with the buskin of swelling eloquence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.67",
+   "text": "Athanasius said: Although long ago I have often and repeatedly disputed outside the proceedings on the unity of substance, and have committed my disputations to writing, so that hardly anything more could be added by me in this disputation, nevertheless, since these things were said outside with no opponent at hand, I consider it necessary to repeat these same things again and to put them into this examination of the public proceedings, so that they may be strengthened by the sentence of your judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.68",
+   "text": "II. Probus the judge said: If they are not weakened by the replies of Arius, then they can be confirmed by our sentence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.69",
+   "text": "Arius said: Why are these snares of deceit set out? Why is the judge's sentence wished for in support of an abominable assertion? Let us first do what the necessity of demonstrating the truth imposes on us. Let the profession of our faith be impressed on human hearing. Let the judges perceive in what ways, by what reasons, and finally by what evidence our assertion is supported; and only then shall we ask of the judge the promulgation of the sentence, which certainly does not depend on our will."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.70",
+   "text": "Probus the judge said: You should remember my preface, delivered lately at the beginning of these proceedings, and your pledge inserted long since in the earlier records, in which it was concluded that, with superfluous things set aside, we must come down to the heart of the business; which at last you ought to put into practice."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.71",
+   "text": "Arius said: Let him show that the Father, the Son and the Holy Spirit are of one substance, one power, one dignity, one glory, one majesty, one might and honour, as he is accustomed to boast to the people with quite improvident and very incautious profession."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.72",
+   "text": "Athanasius said: Do you confess that the Son was truly born of the Father, or not?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.73",
+   "text": "Arius said: Do you yourself confess that the Father cannot be subject to the defect of any diminution or division, or not?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.74",
+   "text": "Athanasius said: I confess it fully."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.75",
+   "text": "Arius said: I too confess that the Son was born from the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.76",
+   "text": "Athanasius said: Do you think that 'born from the Father' is the same as 'born of the Father'?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.77",
+   "text": "Arius said: It is enough for you that I have said born from the Father; which I also show very easily. Why do you use cunning arguments? As for 'born of the Father', it has not been able to occur to me anywhere for the present. But I recall that 'from the Father' is written, as the apostle John says: Whoever loves the Father loves him who is born from him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.78",
+   "text": "Athanasius said: So you think it makes no difference whether he is said to be born from him or of him?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.79",
+   "text": "Arius said: If you can show me that 'the Son born of the Father' is written in the proper sense, then I shall judge what I ought to think about it. But since I am well aware that in most copies it is written in different ways, so that in the same places where 'of him' is read, 'from him' is read in other manuscripts, whether this came about through the fraud of interpolators or because both mean one thing (that is, that 'from him' is the same as 'of him'), this cannot bring any real prejudice to our faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.80",
+   "text": "III. Athanasius said: In this careful statement of yours I have noticed a reasoning set out quite precisely. But I am greatly surprised that you said only 'to our faith', and did not specify that no prejudice can be brought by these words to the faith of both [sides]. I think you put it this way in haste to fortify your own faith, hoping that I could then pass over it lightly without any proof. In the Gospel, too, the Son said of the Father: God is spirit (John 4:24). And to show that he was born of the Father, he says: What is born of the flesh is flesh, and what is born of the spirit is spirit (John 3:6). And: I came forth of God the Father (John 16:27). See, I have shown that the Son is born of the Father, as the Son himself says."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.81",
+   "text": "Arius said: You use very cunning and suspicious arguments, in saying that I said this to fortify my faith. But so that every ambiguity of suspicion may be removed from your mind, as I said above, whether he is said to be born from him or of him, it can bring no prejudice at all in any respect to the faith of both [sides]."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.82",
+   "text": "Athanasius said: When the Father begot the Son from himself, that is, of himself, did he beget what he himself is, or something else?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.83",
+   "text": "Arius said: He certainly begot what he himself is, for God begot God, light begot light, the perfect begot the perfect, the almighty begot the almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.84",
+   "text": "Athanasius said: So he begot not from outside, nor from nothing, nor from any preceding or subsequent matter, but from himself. And he begot nothing other than what he himself is."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.85",
+   "text": "Arius said: One begot another."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.86",
+   "text": "Athanasius said: We too confess that one begot another, that is, the Father [begot] the Son; but if he begot of himself, that is, of what he himself is, and [begot] what he himself is, then the Son cannot be of another substance or of a different kind; and so he will be of one and the same substance with the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.87",
+   "text": "Arius said: If you knew into how many errors of faithlessness the profession of one substance tends, you would surely never make mention of this term between the Father and the Son. Nor would you have concluded your argument, cut into certain steps of questions, with such a point as to bring it to this end of an impious profession."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.88",
+   "text": "Athanasius said: Know, Arius, that I cannot be wholly ignorant that it is impious and sacrilegious to profess different substances of the Father and the Son, and that it is pious and religious to believe them to be of one substance. And I shall show that this was not gathered by human opinion, nor found by conjectures and arguments, but handed down by the teaching of heavenly doctrine."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.89",
+   "text": "IV. Probus the judge said: First set out for me the force and quality of the word, and then at last you will be able to show whether it fits the Father and the Son."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.90",
+   "text": "Athanasius said: Substance is distinguished by two kinds of designation. One kind is the quality that indicates the essence of an existing nature; the other kind of substance is that by which the one who has is distinguished from the things he has. To make this plainer, I set out what I mean with a clear explanation. For example: man is a substance of his own kind and nature. Again, whatever he possesses outside himself, that is, in the material of gold or silver and other kinds [of goods], is called his substance. And although the designation of the same word seems to be one, it nevertheless seems to signify two things. But we are discussing that kind of substance by which each nature, because it is or subsists, is called a substance. And whatever it has begotten from itself, that is, of itself, can be nothing other than what it itself is. Thus a man who is a father, begetting a son, begets a man of his own kind, that is, of his own substance, because man begets man. And they are rightly said to be of one substance, because the truth of birth does not admit diversity of substances. But diversity of substance would be, to give an example, if a man were to beget a beast, or if a beast of any kind were to beget a beast of another kind, that is, if an ox were to beget an ass, or a sheep were to beget a goat: since this passes into diversity of kind, it will be a monstrous generation, in no way keeping the property of its own nature. Again, it is worth noticing what diversity or property of substances there is in the qualities of the elements. For example: the nature of any fire or light is seen to supply from itself what it itself is, as light [supplies] brightness, as fire [supplies] burning; and abiding in this kind of function, it is seen to keep the nature of its substance undefiled. But if light were to beget darkness from itself, it would be subject to change, giving forth matter of a kind other than itself; for it can keep the substance of its unchangeability intact only in this, if it supplies from itself what it itself is. Moreover, if, as I said, what it gives from itself is other than what gives it, then it could be said to be of another substance, which the quality, order or reason of all natures wholly does not admit. Come now, if you will, let us raise the eye of the mind from earthly and visible things to higher ones, and from the things that have been made let us come to know the substance of the uncreated power, taught by the instruction of apostolic authority, where it says that the invisible power of the godhead must be understood from the things that have been made (Rom. 1:20). Arius, then, said that the Son was born from the Father, and that God begot God, light [begot] light. In this profession, one of two things must without doubt be held. Either, begetting from himself, he begot what he himself is, and for this reason the Son will be of one substance with the Father; or, if he begot a God of a kind other than himself, it cannot be called a true birth, since it could not keep the property of the begetter's substance. And the reasoning of the argument is led to this: that either he was not born at all, or he is degenerate; and to confess either will seem utterly absurd and impious."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.91",
+   "text": "V. Probus the judge said: If Arius knows of anything that he can bring against this, let him not delay to state it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.92",
+   "text": "Arius said: I do not suppose Athanasius is unaware that God is of a simple and unchangeable nature; and if, as he has asserted, he begot of his own substance, he will without doubt be changeable. For in begetting from himself what he himself is, he must either have lost a part of his substance through a generation by derivation, or have been able to suffer the defect of division. For I confess that the substance of God the Father neither put forth anything from itself, nor was derived into the qualities of parts, nor felt or could feel cutting or subtraction or anything of this kind that is subject to passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.93",
+   "text": "Athanasius said: But neither do we believe the divine nature to be subject to these conditions of passions; rather, we faithfully confess that the impassible Father impassibly begot the Son of himself, that is, of what he himself is. Nor do the kinds of divisions, derivations, parts, and all things or passions, which, driven by an empty fear of anxiety, you have chosen to object, turn us aside from the truth of our profession, so that we should deny that God could beget from himself for this reason, lest he seem subject to these passions. Weigh, then, with an even scale of judgement (I beseech you, hearers) what is more religious, what more holy, and more fitting to the divine laws. Raise the eyes of your mind, and, fearing the terrible day of the coming judgement, examine with religious attention of mind what better agrees with catholic and apostolic truth: whether to confess that almighty God impassibly begot the Son from himself, or rather to suppose that, so as not to be subject to the defect of passion, he could not beget the Son from himself, that is, from his own substance. For I maintain this, I assert it with the clearest profession of voice, that as God is impassible, so he is also almighty. I believe therefore that he could beget of his own substance, and yet was not subject to the defect of any passion: since division and derivation, contraction, addition, flowing, or whatever kinds of passions of this sort there may be, belong to bodily and tangible things, composed of diverse parts. But God, who is not circumscribed by any marks of bodily form, nor distinguished by any outlines of limbs, cannot be subject to the defect of passion. And rightly I profess generation in him, because he begot; and rightly I confess [it] nonetheless impassible, because he was never passible."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.94",
+   "text": "VI. Arius said: Must it then be admitted, because omnipotence cannot be denied in God, that for that reason he cannot suffer the things which the wholly incorrupt substance of his divinity does not admit? Hence it will appear most unseemly, and full enough of impiety, that through the profession of one substance we should believe neither that the Father properly subsists, nor that the Son exists in his own property. For the wicked purpose of this faithlessness tends to this: that, the persons of the Father and the Son being mixed, and gathered from diverse [elements] and fused by the curdling together into one thing, they may be quite unable to subsist in the singularity of their own property, as I said. This too, exceedingly horrible and to be removed far from the minds of the faithful, is contained in this faithlessness of your profession: that the inviolable Father, in begetting from his own substance, could by no means avoid the defect of corruption and division."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.95",
+   "text": "Athanasius said: Bound more tightly by the truth of the divine generation, as if by knots that cannot be untied, you gape for some refuge of escape through I know not what efforts of wicked purpose, which the divine nature certainly lacks, and you object corruption to the incorrupt, passion to the impassible, impotence to the almighty. But repeating these things often and again, no reverence for the divine majesty can keep you from such wicked objections: but, as far as I see, without any regard for shame, you hasten to meet [it] in injury to the venerable birth of the Son, which is to be worshipped. But as you stray more unbridledly and, as if in the swirl of the billowing sea, float with a kind of natural licence, the testimonies of divine authority will restrain you, and, confined within the fixed bounds of the divine profession, will not allow you to pass beyond the limits of the laws laid down. The divine majesty, then, impresses upon human understanding that sacred oracle of its own profession, by which it testifies that it begot the Son ineffably from the hidden recesses of its substance, and says: From the womb before the morning star I begot you (Ps. 109:3). One thing, therefore, must be held in this attestation of the divine profession. Either he begot the Son incorruptibly from his own ineffable substance; or, lest he be corrupted, he did not beget at all. But I choose this part of the whole faith, which persuades [us] that God, who testifies of himself, is to be served more religiously: nor will any obstacles of human passion, descending from the sacrilege of unbelief, be able in any way to call me back, so that I should not believe that God could beget, lest after the manner of human custom he might be subject to corruption: since I do not doubt that it is enough for me to profess this, that he was born of the substance of God, who is agreed to have proceeded from the Father's womb."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.96",
+   "text": "VII. Arius said: As far as the purpose of your statement shows, you wish to introduce to us a God who is composite and subject to corruption; you who are not even afraid to accept in him the bodily term 'womb'. It will therefore be necessary that he be either composed of limbs, if he has a womb; or subject to corruption, as I said, if he begot of his own substance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.97",
+   "text": "Athanasius said: You would rightly accuse me of having held this, if I had affirmed by the presumption of my own rashness, without any testimony of the divine law, that God has a womb. But since God himself, to refute the madness of those unwilling to believe, deigned to pronounce this about himself, so that by the name 'womb' he might teach more evidently that he begot the Son not from outside, not from elsewhere, but from himself, that is, from his own substance, why do you brand me with the mark of faulty belief? when you could rather say this to God: If you have a womb, you will be composite; if you begot from yourself, you will be subject to corruption. For a womb is understood in God without any composition of limbs, just as eyes, and ears, and hands, and feet are said to be in him without any outlines of distinction. So just as [you should understand] eyes, because he sees all things; ears, because he hears all things; hands, because he works all things; feet, because he is everywhere; so you ought to understand a womb, because he begot ineffably from himself. Nor should you suppose faithlessly that, if he begot from himself, he could certainly be corrupted; rather it is fitting to profess faithfully that, being almighty and incorruptible, he could beget and could not be corrupted by this very generation. For if he is believed to have been born marvellously and incorruptibly from a Virgin, against the nature of things, how much more is he to be believed to have been begotten incorruptibly from the Father? For if the substantial nature of the Virgin, which by the very condition of its corruptible nature could be subject to passion and corruption, begot a son with the integrity of her chastity unblemished and the virginal barriers unbroken, by a marvellous integrity of incorruption, why should we not much rather believe, as I said, that the incorruptible God, the Son being incorruptibly begotten from him, could not be corrupted? O new and unspeakable, damnable fear of a monstrous opinion: to confess that the Virgin could not be corrupted by childbirth, and to dread that God, lest he be subject to the defect of corruption, could not beget of his own substance! By God's will, then, a Virgin of corruptible nature begot a son without any loss of chastity: and could he himself, who remains incomparably more incorruptible than all natures, not grant this to himself, that he could beget the Son incorruptibly of his own substance? Therefore, since both the words of the divine Scriptures testify that God begot the Son from himself, and Arius admitted it in his earlier statement, judge, most excellent Probus, which agrees better with the divine Scriptures: whether I, who confess the Son to be of one substance with the Father for this reason, namely that he is known to have been born from him and not from elsewhere, and who profess on the other hand that he begot incorruptibly for this reason, that the most excellent substance of the divine majesty, through its ineffable power, could in no way have been subject to corruption; or this man, who is placed in such peril of double-edged understanding that he does not know where to set the foot of his faith. For, unwilling to confess that God begot incorruptibly of his own substance, he is drawn into the necessity of confessing that he did not beget at all. But this very thing he will without doubt never be able to deny, since the voices, whether prophetic or apostolic, meet him on every side and cry out with clear proclamation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.98",
+   "text": "VIII. Probus the judge said: Whatever I have been able to recognise in this assertion of your statements, the final sentence of our examination will retain. But now, if you think you still have anything from the divine Scriptures agreeing with your faith, be pleased to bring it forward, so that by the progress of the disputation we may most easily search out what the reasoning of truth contains."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.99",
+   "text": "Athanasius said: Since I see that your excellence is most urgently and faithfully intent on this, that we should prove from the divine volumes that the Son was born of the Father's substance: although the sense of all my statements is shown to be this, that just as the race of men, or of any animals whatever, begets [offspring] like its own substance, so that neither does a man beget an ox, nor an ox a man, but each thing procreates after its own likeness, that is, of its own substance, I ought not to marvel at all that God, to whom all power is subject, could beget the Son of his own substance. But lest my speech wander without the testimony of the Scriptures, I proceed, fortified by his help, to prove from the divine oracles that the Son was ineffably born of the Father's substance; so that when I have demonstrated it by a clear path of disputation, not from argument coming from philosophical art but, as I said, from divine proofs, then at last Arius may fall silent, when he has learned, with me teaching from the words of the law, that the Son was begotten of the Father's substance. The blessed apostle Paul, writing to the Hebrews about the Son, says: Since he is, he says, the image of the invisible God, and bearing the figure of his substance (Heb. 1:3; Col. 1:15). Jeremiah too, the most prudent of the prophets, speaks in the person of God the Father and says: If they had stood in my substance, and had heard my word, they would turn them from their most wicked pursuits (Jer. 23:22). And to prove that he had said this of the Son, the same prophet adds and says: Who has stood in my substance and seen my word (Jer. 23:18)? For that the Son is the Word, the prophet David testifies in the person of the Father, saying: My heart has uttered a good word (Ps. 44:2). John the evangelist too, knowing that the Word, that is the Son, was with the Father from the beginning, and that the Word was never separated from the Father, set at the beginning of his Gospel, that is, of his proclamation, saying: In the beginning was the Word, and the Word was with God, and the Word was God (John 1:1). And again in another place Scripture has handed down, saying: The beginning of the work is the word (Ecclus. 37:20). Not that he began making the other creatures from the creation of the Word, that is, from the creation of the Son; but because all things are known to have been created through the Word of God, that is, through the Son. Hence the prophet David sets it down and says: By the Word of the Lord the heavens were established (Ps. 32:6). And to show the Holy Spirit as partner in this work, he says: And by the spirit of his mouth all their power. For there are many testimonies which the divine Scriptures bear concerning the Son, showing that he is begotten of the substance of the Father, that is, of what he himself is: from which substance the Son is proved not only like, but coequal to the Father. This is the faith which Christ handed down to the apostles, and which has come from the apostles down to us. Nor can we change it in any respect, since it is agreed that we ought to preserve it faithfully as it was given from the beginning."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.100",
+   "text": "IX. Arius said: From my earlier statement I began thus, that the faithlessness of blindness is hurling Athanasius into the depths. For while he wishes to show off the eloquence of his speech, he unknowingly lands in an offence against divine Scripture, by saying that in the substance of God the Son is made equal to the one who begot him, when the Son himself declares of himself and says: The Father is greater than I (John 14:28); and He who sent me, he gave me a commandment (John 12:49); and I did not come [of myself], but he sent me (John 8:42); and I did not come to do my own will, but the will of him who sent me (John 6:38); and As the Father said to me, so I speak (John 12:50); and What he gave me, I have kept (John 17:12); and All that he gave me, no one takes from me (John 6:39); and I will ask him, and he will provide me more than twelve legions of angels (Matt. 26:53); and If this cup cannot pass unless I drink it, your will be done (Matt. 26:42); and Let this cup pass from me. Not as I will, but as you [will] (Matt. 26:39); and I always do the things that are pleasing to him (John 8:29); and To sit at my right hand or at my left is not mine to give you (Matt. 20:23); and He gave him the name which is above every name, and exalted his servant (Phil. 2:9); and Therefore God, your God, has anointed you (Ps. 44:9); and He raised him from the dead, and made him sit at his right hand (Eph. 1:20), and many things like these, which I omit for the sake of brevity. If therefore he has a greater, if he was sent, if he did not come of his own free will, if he did not do his own will, if he speaks what is told him, if he keeps what was given him, if he asks, if he prays about the cup, if he received a name from another, if he is exalted by another, if he does not by his own power grant seats to the disciples who ask, if he does the things that are pleasing to the Father, and is raised by him from the dead, does it seem fair that one who says such great and such things about his own subjection should be made equal to the Father?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.101",
+   "text": "Probus the judge said: If against such abundant testimonies of divine authority, which Arius has brought forward concerning the subjection of the Son, anything seems available to Athanasius, let him not delay to declare it; so that, the superstructure of speech removed, the Son may rather be shown from the divine books to be either like or unlike or coequal to the Father; so that, the truth being recognised, the things that accord with sound faith and reason may be strengthened."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.102",
+   "text": "X. Athanasius said: Let the cunning of Arius run on as far as it likes in the loftiness of its speech, and let it applaud itself for the testimonies brought forward from the authority of the divine law, by which, evidently, it strives to separate the Son from equality with the Father. All the things which he is known to have put in at such length are also defeated by us without any difficulty with those same testimonies. Christ, then, the Son of God, is said to be subject to the Father in the form of a servant, which he took from the Virgin, as the apostle Paul affirms thus: When, he says, the fullness of time came, God sent his Son, made of a woman, made under the law (Gal. 4:4). So he is said to be subject who is known to have been born of a woman under the law, and he indicates the Father to be greater than himself in that form which he voluntarily took from the Virgin. In the form of God the Father, a choir of angels is shown to have ministered to him. For so it is written in the Gospel: And the devil departed from him, and angels came and ministered to him (Matt. 4:11). He objects that he did the Father's will, and not his own. In this, rather, the saying of this word ought to be recognised as praiseworthy: for he who did the Father's will with an even mind shows equality, as the Apostle confirms: This, he says, is the will of God in Christ Jesus (1 Thess. 5:18). And because he added: As the Father said to me, so I speak (John 12:50), why should the human race, understanding what is right, be troubled on hearing this word? For if Christ spoke otherwise than God the Father, then rather he would be called unequal or unlike to the Father. But if the Son speaks the things that the Father speaks, he is never found unequal or unlike to the Father. What he gave me, he says, I have kept, and, All that he gave me, no one takes from me. For the divine gifts are to be understood as attributed to the Son in this way. The Father gave power to the all-powerful Son, he granted majesty to majesty, he gave might to might, wisdom to the wise, foreknowledge to the foreknowing, eternity to eternity, divinity to divinity, equality to the coequal, immortality to the immortal, invisibility to the invisible, the kingdom to the King, life to life: and he gave no other than that which he has; and as much as he has, so much he gave, or whatever other things the Father is shown to have conferred on the Son indivisibly and inseparably. But he is proved to have given all these things to one who had them rather than to one in need, to whom the Son says: All mine are yours, and all yours are mine (John 17:10)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.103",
+   "text": "XI. If, then, all the things which the Father is said to have conferred on the Son seem to be some in him and others in the Son, we without doubt make the Son a liar, who says that what is the Father's is his. But if the Son is found a liar in what he said, the evangelist too, who says in like manner: Making himself equal to God (John 5:18), will be utterly deceived; and so it will be that neither will the Father be shown to have conferred anything on the Son wholly or truly, nor will the Son be recognised as true God. But if the things are true (as they are) which the Father conferred on the Son inseparably and without distinction, let the tongues of senseless men fall silent, which strive to separate the Son from the substance of the Father. The Son asks the Father, to show that he bears true manhood. For to make known the power of his deity, he commanded the sea and the winds, and fed five thousand men from five loaves. He accepted the cup of the passion as a sorrowing man; but as God he gave believers to drink of the fountain of living water springing up into eternal life. He received a name, so that in this name the heavenly, earthly and infernal [beings] might worship. He was exalted from the depths to the heights, that is, ascending from the flesh of human frailty to God, he sits at the right hand of the majesty, so that human weakness may not hesitate to follow where it sees its head glorified. He was anointed, so that by the anointing of his chrism we might be cleansed from the stain of the first man's sin. He was raised from the dead, so that by the example of his resurrection we might be freed from the sting of death. He testifies that he cannot give seats to the disciples who ask, lest a division arise among them. For he who said, It is not mine to give you (Matt. 20:23), said, I will that where I am, they too may be with me (John 17:24). He did the things pleasing to the Father, because he cannot do contrary things. For he who said, I came, not to do my own will, but the will of him who sent me (John 6:38), said, That I should do your will: my God, I have willed it (Ps. 39:9); and I will sacrifice to you willingly (Ps. 53:8). He who said, The Father is greater than I (John 14:28), said, I and the Father are one (John 10:30); and May they be one in us, as I and you are one (John 17:22); and All mine are yours, and yours are mine (John 17:10); and Do you believe that I am in the Father and the Father is in me (John 14:10); and My Father works, and I work (John 5:17); and As the Father raises the dead and gives them life, so also the Son gives life to whom he will (John 5:21); and He who sees me sees the Father also (John 14:9); and He who hates me hates my Father also (John 15:23); and Glorify your Son, that your Son may glorify you (John 17:1); and I have glorified you on earth (ibid., 4), and I have made your name known to men (ibid., 6). And so that every effort of human quibbling may cease, shall I not bring forward as witness John the Evangelist, whose testimony I used above, who says: In the beginning was the Word, and the Word was with God, and the Word was God (John 1:1)? If these things, so many and so befitting the divinity, by which we have taught that the Father and the Son are one, do not suffice the faithless, we will add others (if it seems good)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.104",
+   "text": "XII. Probus the judge said: If Arius tries to oppose so strong and so certain a statement, it is certain that he is not following reason, but wandering all the more unbridled over the fields of irrational words, since up to now, going round through some cloudy darkness or other, he has been unable to demonstrate his assertion, the reasoning of three substances, as he admitted above (just as Athanasius has very fully shown the proof of one substance)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.105",
+   "text": "Arius said: Just because Athanasius, by some points or other drawn from the divine oracles, has with rash daring seemed to affirm that the Son is of one substance and coequal with the Father, must he also bring the Spirit, who is the minister of the Father and of the Son, to the same level with them by an equal confession? For the Son himself says: He will glorify me, because he will receive of what is mine (John 16:14); and I will send you the Spirit of truth (John 15:26); and The Spirit will proceed from me (John 16:15); and Whom the Father will send in my name (John 4:26); and the Father says to the bones of the dead: I will give my Spirit into you, and you will live (Ezekiel 37:5). Surely he who is sent by the Father, or proceeds from him, ought not to be made equal to him from whom he proceeds, when the prophet testifies of him and says: Behold the Lord, who makes firm the thunder and creates the Spirit (Amos 4:13). It will never at all seem to me that a creature is made equal to its creator, or can possess one power together with him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.106",
+   "text": "Athanasius said: If the clemency of the judge grants and allows permission, I will briefly demonstrate from the divine authorities that the Holy Spirit too is not a creature, but God and creator with the Father and the Son."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.107",
+   "text": "Probus the judge said: As your declaration states, prove briefly what reason demands as proof. Not from argument in words, but from the testimonies of the divine Scriptures, show that the Holy Spirit is coequal with the Father and the Son, or, as you yourself have stated, that he is God and creator of the common work; so that, when you have proved these things by truthful testimonies, Arius may withdraw from his position, refuted by the profession of the true faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.108",
+   "text": "XIII. Athanasius said: Before I fully teach that the Holy Spirit is God, I will prove from the words of the law that he is the creator of all things. For it is written: By the word of the Lord the heavens were made firm, and by the Spirit of his mouth all their power (Psalm 32:6). And in Solomon: And he himself, it says, created her through his Spirit (Ecclesiasticus 1:9). And in the psalm: You will send forth your Spirit, and they will be created, and you will renew the face of the earth (Psalm 103:30). And in the book of Job: The divine Spirit, it says, who made me (Job 33:4). And Judith: All your creation, she says, serves you, for you spoke, and they were made; you sent your Spirit, and it built (Judith 16:17). For the Holy Spirit is shown to be of such great power, or creative power, that by his cooperation the body of the Lord Jesus Christ, which has been given to us in the sacrament of faith, was formed in the Virgin's womb, as the evangelist says: Do not fear to take Mary your wife: for what has been born in her is of the Holy Spirit (Matthew 1:20). And again: Before they came together, it says, she was found to have [a child] in her womb of the Holy Spirit (ibid., 18); not that the Holy Spirit is to be called the Father of our Saviour, so that two Fathers would be believed in; but because the same Holy Spirit is found to be co-worker with the Father and the Son, and their partner in one power, as the Lord affirms: Go, he says to the disciples, baptize all nations in the name of the Father, and of the Son, and of the Holy Spirit (Matthew 28:19). So if he is a minister (as your sacrilegious declaration states), how is it that without him nothing is conferred on believers in the sacrament of faith? For just as the Lord appointed the apostles to preach, so in like manner the Holy Spirit is declared to do. For thus we find it written in the Acts of the Apostles: While Peter was pondering the vision, the Holy Spirit said to him: Behold, three men are looking for you: rise and go with them, doubting nothing, for I have sent them to you (Acts 10:19-20). And again: Set apart for me Barnabas and Paul for the work to which I have taken them (Acts 13:2). And again: Take heed to yourselves and to the whole flock, in which the Holy Spirit has appointed you bishops (Acts 20:28). If he sent the apostles, and appointed bishops, and brought forth all things with the Father and the Son, as was shown above, in what way does such great majesty have the role of a lesser one or a minister, as you do not fear to assert?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.109",
+   "text": "XIV. But I will also prove by these testimonies that he is God, as I remember I promised, since David the prophet says: I will hear what the Lord God speaks in me (Psalm 84:9). Now no one doubts that all the prophets announce or speak only through the Holy Spirit; as it is written in the Gospel: When that Holy Spirit comes, it says, whom the Father will send in my name, he will teach you, and will announce to you things to come (John 14:26; John 16:13). And again the Lord says through the prophet: They would not hear my words, which I commanded in my Spirit through the mouth of the former prophets, says the Lord (Zechariah 7:12). But lest, running through the testimonies in the flowery meadows of the divine law, we stray too far from our proposition, let us return to what we promised. Paul too, the preacher to the Gentiles, writing to the Hebrews, says: The Holy Spirit testifies to us, and this is the covenant which I will make with them after those days, says the Lord (Hebrews 8:10). In the Acts of the Apostles we recall that Peter said to Ananias: Why has Satan filled your heart, that you should lie to the Holy Spirit (Acts 5:3)? And showing that he is God, he says in what follows: You have not lied to men but to God (ibid., 4); and Paul to the Corinthians: Now there are divisions of gifts, but the same Spirit. And there are divisions of ministries, and the same Lord himself. And there are divisions of operations, but the same God, who works all things in all (1 Corinthians 12:4-6). Behold, as the Apostle preaches, the Holy Spirit is declared to be the same God, the same Lord. In the Gospel, as has already been said, the Lord himself says: God is Spirit (John 4:24). Again Paul, writing to the Corinthians, says: Now the Lord is the Spirit (2 Corinthians 3:17). And to the Ephesians: Do not, he says, grieve the Holy Spirit of God, in whom you have been sealed (Ephesians 4:30). Again to the Corinthians: Do you not know, he says, that your bodies are [the temple] of the Holy Spirit within you, whom you have from God? And showing that he is God, he adds and says: Glorify and carry God in your body (1 Corinthians 6:19-20). For so that the Holy Spirit may be shown most plainly to be God and Lord, the angel says to Mary: The Holy Spirit will come upon you, and the power of the Most High will overshadow you: therefore also the holy one that will be born of you will be called the Son of God (Luke 1:35)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.110",
+   "text": "XV. Behold by how many proofs from divine testimonies we have taught that the Holy Spirit is God, and of one power and fellowship with the Father and the Son. What reply still remains to the faithless I do not know. Paul the apostle certainly showed most plainly that the Holy Spirit has one fellowship with the Father and the Son, saying: The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all (2 Corinthians 13:13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.111",
+   "text": "Probus the judge said: If after countless testimonies published by heavenly teaching Arius thinks anything remains, let him not be reluctant to put it forward. Although (as I think) no reply is left to him by which he could dislodge Athanasius from the reasoning of one substance, that is, of the homousion. But so that he may not complain afterwards of some oppression, no opportunity to reply is taken from him by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.112",
+   "text": "Arius said: No one doubts that Athanasius does not cease to pervert the judge's senses by magic arts, so that he cannot keep the path of right faith toward those who follow and practise it devoutly. And therefore what I cannot set out under the examination of your eminence, I will reserve for the judgement of the emperor, where the search for truth prevails, and where it must be believed that magic arts cannot prevail, because of the observance of the true faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.113",
+   "text": "Athanasius said: Those who cannot stand by their assertions never cease to find themselves an excuse by any deceitful arguments or quibbles they please, as your greatness now sees more fully that Arius is doing. For my part, let it suffice that, in defending the true faith, I have replied to everything he put forward in the presence of your eminence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0293d.stoa001.opp-lat1.114",
+   "text": "XVI. Probus the judge said: It is the way of the unskilled, and of those who rely too little on their own knowledge or learning, to give their zeal to perversity rather than to lend patience to truth: whereas it befits defenders of the faith to follow the truth rather than to be hampered by the fetter of error or falsehood. This, then, is the habit of those who, when they see the case of their faithlessness coming to its end, fearing that their faithlessness may become known to all men, betake themselves to the presence of a higher [authority]; not knowing that there too victory is granted to truth, where the sentence of a liberal power is pronounced. In vain, therefore, does Arius seem to appeal from our judgement to the person of the emperor, since in the clash of the contest he experienced nothing perverse against himself, and it is agreed that he was entirely unable to tear Athanasius away from the defence of the homousion (that is, of one substance). But (as his superfluous intention has decided) I will in no way restrain him from doing so, lest, unable to bear the role of the vanquished, he boast that time was taken from him. It will be for my diligence to report to the senses of the glorious emperor all that has been brought forward by both parties in our hearing, so that, deceitful evasions being removed far away, Athanasius, the defender of the pure faith, may attain the palm of victory."
+  }
+ ]
+}

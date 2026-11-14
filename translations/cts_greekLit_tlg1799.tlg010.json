@@ -1,0 +1,828 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg1799.tlg010",
+ "edition_urn": "urn:cts:greekLit:tlg1799.tlg010.ai-claude",
+ "source_edition": "tlg1799.tlg010.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Opticorum recensio Theonis: AI translation (Claude)",
+  "author": "Euclid",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg1799.tlg010.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_1.head": "The letter printed as ∠ in pr_2/1.2 is taken as Δ. Scanning errors corrected silently: γίγγεσθαι, προσπίπτμιν, ἀπτίνων, πρὸς αἰ (= πρὸς ἃ). In pr_1.3 the stray period after κατʼ εἰδώλων is ignored. ὄψεις is rendered 'sight-lines' (visual rays) throughout.",
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.2.head": "Several letter-labels in the edition appear garbled and have been read as the geometry requires: in 2.2 'Β Β∠' read as BΓ, BΔ; in 6.5 'ΜΜ' read as MN and 'ΗΜ τῆς Β∠' as HN; in 7.2 'Β ∠ Ζ' as BΓ, ΔZ; in 8.2 'ΒΓ, ∠' as BΓ, ΔZ; in 8.3 'ΖΘ τρίγωνον' as ZΘK, and 'ΕΗΚ' / 'ΗΕΚ' (sectors) are presumably EΘK; in 10.2 'τῆς ∠' as ΔZ. Angle labels E, H, Θ, Σ, Φ, P refer to the lost figures. In 8.3 the first ratio ('triangle ΘΔK to sector ΘEK') reflects the text as given.",
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.11.head": "The edition prints delta as ∠ throughout; rendered Δ. Several letters missing or garbled in the edition are supplied in brackets from the evident sense of the diagrams (e.g. 11.2 'Δ[Z]', 'B[Γ]'; 15.1 'Θ[Z]'; 17.2 'from [Z]'; 21.1 'from [Z]'). In 13.2 'BI' is read as BΓ. In 20.2 'ΔB is given' is read as ΛB, as the argument requires. In 11.2 the plane is above the eye, though the text says 'underlying plane' (ὑποκείμενον), apparently carried over from prop. 10; translated loosely as 'the plane above'. In 23.2 the point Θ (intersection of BK and ZΛ) is not introduced in the text.",
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.24.head": "Throughout, the sign ∠ in the edition stands for the letter Δ (a scanning substitution) and is rendered as Δ. In 24 the text repeats ∠Λ, ∠Λ where ΔΛ, ΔN is meant. In 29 the letter of the greater angle is missing ('the angle [Φ]'). In 32 ΦK is read as ΓK, as the construction requires. In 28 'that is, the cylinder' is elliptical; the sense is that the cylinder is likewise seen less than half.",
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.32.3": "The edition's ∠ is rendered Δ throughout, as before. 32.3: the clause about the similar segments of the parallel circles reads as a misplaced justification; translated as it stands. 33.2: 'M' is evidently N (the line is produced to N, Λ); read N. 34.2: 'BK, K' read as BK, KZ; the angles P and Σ refer to labels in the lost figure; the duplicated 'φαί. φαίνεται' is a printing slip. 35.3: the lettering changes abruptly (AZ now the line from the eye, A apparently a point on the circle, Z the eye?), and the argument as printed does not fit the earlier figure; the text seems confused. 36.4: 'least' refers to the angle made with BA, though the Greek grammatically says 'least of the lines'. 36.6: 'triangle BΓ' read as BΓZ. 36.7: 'at Γ,' lacks a second letter; Z supplied.",
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.8": "Several letter labels are missing in the printed text and have been supplied in brackets from the sense: 'the angle at [Ξ]' (36.8, three times; 36.9, twice), 'the point [Ξ]' (36.9), 'the point [H]' and 'the magnitude Δ[Z]' (40.3). Evident misprints corrected: MO for Mο and ΛMο (36.8); NΞ for NE, ΛOM for AOM, ΛM for AM (36.9). In 40.3 the semicircle 'KAΛ' is printed thus; KMΛ may be meant. In 36.9 the final step compares the angles ΘEH and AEB without a stated ground, apparently relying on the constructed segments.",
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.4": "Throughout, the scanned sign ∠ stands for the letter Δ and is rendered so. 40.4: the Greek is compressed ('when ZΔ is equal to and smaller than the radius'); it refers to the two cases proved next. 40.5: the diagonals are printed as EN, ON; ΞN is evidently meant and is translated. 40.6: 'ΘMK' read as ΘNK; 'centre of the circle' should refer to the semicircle ΘM. 41.2: 'ἔ γωνία' is probably a misread angle label (perhaps P); rendered E as printed. 43.2: the comparison of the angles at Z and B is stated loosely; the angle labels (Φ, Σ, B) refer to a lost figure. 44.2: 'the angle Φ, A' is as printed, probably a figure label. 47.2: a stray θ before 'AΔ' is omitted and read as BAΔ. The argument here is as the text gives it, though it is logically garbled.",
+  "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.48.head": "49.2: 'ἡ Μ' (the most raised ray) is defective; probably ΜΓ, and 'τῶν Β' later probably ΒΓ; 'δεξιωτέρα τέρα' is a dittography. 50.2: the letter Γ is missing before 'ἰσοταχῶς' and is supplied. 55.2: 'ΚΒ, Κ' read as ΚΒ, ΚΓ, and 'ἀπὸ τοῦ Γ ὄμματος' read as 'from the eye K', since K is the eye throughout. 56.2: 'ἐπὶ τοῦ Γ' for the eye is likely an error for K (the rays issue from K). 57.2: 'πρὸς τῷ γωνίαι' lacks a letter; B (the eye) is supplied from the sense. The lettering of the square (ΓZ as both square and diagonal) is confused in the text. 53: the enunciation says the farther things seem slower, while the proof concludes that the nearer K seems faster; the two are consistent in sense."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_1.head",
+   "text": "THEON'S RECENSION OF THE OPTICS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_1.1",
+   "text": "In demonstrating the facts concerning sight, he brought forward certain supporting considerations, reasoning in addition that all light travels along straight lines. As the greatest sign of this he adduces the shadows cast by bodies and the beams that travel through windows and holes; none of these would happen as it is now observed to happen, if the rays travelling from the sun did not travel along certain straight lines. And in the case of the fires we have among us, he said that the beams sent out are the cause both of certain of the nearby bodies being illuminated and of their casting shadows, some equal to the bodies set before [the fire], some larger, and some smaller than the bodies set before it. And [bodies] cast equal shadows when they are equal to the fires illuminating them: in these cases the outermost rays happen to be parallel, and neither, by converging, diminish the shadow, nor, by spreading out, enlarge it, but as the obstructing object is, such a proportion they keep for the shadow too. The shadows are smaller than the bodies when the illuminating fires are larger, for the outermost rays meet one another, and for that reason they diminish the shadows. The shadows are larger than the bodies when the illuminating fires are smaller, for in these cases the outermost rays happen to spread out and make the shaded part larger; and this would never happen if the rays travelling from the fire did not travel along straight lines. But most clearly of all, this can be observed in what is done by contrivance. For if, a lamp being placed in any position whatever, a tablet having a cut made by a fine saw is set against it, so that the cut falls opposite the middle of the lamp, and on the other side of this tablet another tablet is placed nearer, on which the beam passing through the cut will fall, we shall find that the beam falling on the tablet is in every case bounded by straight lines, and that the [line] joining the middle of the lamp and the cut in the tablet lies on the same straight line."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_1.2",
+   "text": "Since, then, it is evident and plain to all that all light travels along a straight line, he thought fit to pass on to sight, and to agree that the rays poured out from it also travel along straight lines, and that these [are] at intervals, and that for this reason the things seen are not seen all at once as wholes, offering the following reminder: often, when a needle or some other such small body has been dropped on the ground, people have sat down to the search rather eagerly and searched the same place many times, though nothing was obstructing the small body being sought; and then later, directing their sight at the place where the small body was, they saw the needle. It is clear, then, that when the dropped thing was not seen, neither was the place where it lay seen; so that not all the parts of the place lying under the searcher's sight are observed. For if they were observed, the thing sought would also have been seen; but it was not seen. And taking the case of those who gaze intently at books, he said that not even these could see all the letters on the page. At any rate, when compelled to point out many of the letters that are rarely written, they are unable to point them out, because their sight-lines do not travel to all the letters, but are at intervals and do not observe many of those set out [there]. So from this it is evident that the area of the page will not be seen as a whole either. And the same happens with other objects of sight. So the things seen will not be seen all at once as wholes; but they seem to be seen because the sight-lines move with exceeding speed and leave nothing out, that is, they sweep along continuously and do not jump."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_1.3",
+   "text": "As to [the claim] that no image falls from the thing seen upon the sight so as to move it to apprehend the thing seen, he brought forward reasons such as these. For, raising a difficulty in the case of the body being sought and of the person gazing at the book, he said: if the experience of seeing came about through the incidence of images, and images flowed continually from every body and moved our perception, what is the cause by which the one searching for the needle, and the one gazing at the book, do not see [respectively the needle and] all the letters? Is it because they are distracted in mind? But they search no less while paying attention, and utterly fail to find, while often, conversing with others and distracted in mind, they find it sooner. But do not all the images enter into vision? And what is the cause of the selection of those that enter? Moreover he said that nature, in living creatures, has constructed some of the sense organs to be suited for reception, and others not. For it has constructed hearing, taste and smell hollow within, so that bodies fall upon them from outside to move these senses. For a voice falling upon the hearing had to find a suitable place in which to remain, and not, rebounding immediately upon its incidence, both leave the sense unmoved and confuse the voice that follows. Likewise also smell; as for taste, what need is there even to speak? Therefore these senses especially were constructed hollow and cave-like, so that the bodies falling upon them might remain for longer times. And so in the case of vision too, if the bodies that were to move it fell upon it from outside, and it did not itself send out anything from itself, its construction would have had to be hollow and suited to the reception of the bodies falling upon it; but as it is, this is observed not to be so, but rather vision is observed to be spherical."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_1.4",
+   "text": "So, as regards the credibility, for the present, of [the view] that it is rays that are poured out and move the experience of seeing, enough seemed to have been said; and as regards arcs lying in the same plane as the sight-lines appearing straight, he said the following: that sight lying in the same plane as any object of view whatever is such as to be neither higher than the object viewed nor lower, for that is what lying in the same plane means. If, then, the sight is neither lower nor higher than the arc drawn in the plane, it does not cast higher rays on these parts and lower ones on those, but casts equal rays, travelling through the plane, on all the parts of the arc; so that the same cause makes both the plane leave the impression of a straight line and the arc drawn in the plane [do so]. For the plane that lies in a straight line with the sight is itself unseen, because none of the rays poured out from the sight falls upon it, but its boundary is seen, which is the arc. He says [this] because of the line lying nearest the sight, which, obstructing the remaining parts of the plane, makes the plane unseen. And the same cause as in the case of the plane lying in a straight line with the eye makes the arcs lying in the same plane as the eye also give the impression of a straight line. And [a thing] appears larger when more sight-lines fall on it, equal when equal ones, and smaller when the sight-lines become fewer, as it were certain angles at the eye."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.head",
+   "text": "Definitions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.1",
+   "text": "1. Let it be assumed that the sight-lines from the eye travel along straight lines, making some interval from one another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.2",
+   "text": "2. And that the figure contained by the sight-lines is a cone, having its vertex at the eye and its base at the boundaries of the things seen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.3",
+   "text": "3. And that those things are seen on which the sight-lines fall, and those things are not seen on which the sight-lines do not fall."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.4",
+   "text": "4. And that things seen under a larger angle appear larger, those under a smaller one smaller, and things seen under equal angles equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.5",
+   "text": "5. And that things seen by higher rays appear higher, and those by lower ones lower."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.6",
+   "text": "6. And likewise that things seen by rays further to the right appear further to the right, and those by rays further to the left further to the left."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.pr_2.7",
+   "text": "7. And that things seen under more angles appear more precisely."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.1.head",
+   "text": "1."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.1.1",
+   "text": "None of the things seen is seen all at once as a whole."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.1.2",
+   "text": "For let something seen be AΔ, and let the eye be B, from which let sight-lines BA, BΓ, BK, BΔ fall. Then since the falling sight-lines travel at an interval, they would not fall continuously on AΔ. So there would also be intervals on AΔ on which the sight-lines will not fall. Therefore AΔ will not be seen all at once as a whole. But it seems to be seen all at once because the sight-lines sweep along rapidly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.2.head",
+   "text": "2."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.2.1",
+   "text": "Of equal magnitudes lying at an interval, those lying nearer are seen more accurately."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.2.2",
+   "text": "Let the eye be B, and the things seen ΓΔ and KΛ; and they must be understood to be equal and parallel, and let ΓΔ be nearer; and let sight-lines fall, such as BΓ, BΔ, BK, BΛ. For we would not say that the sight-lines falling from the eye B on KΛ will pass through the points Γ, Δ. For then, in the triangle BΔΛKB, KΛ would be greater than ΓΔ; but it is supposed to be equal. Therefore ΓΔ is seen by more sight-lines than KΛ. Therefore ΓΔ will appear more accurately than KΛ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.3.head",
+   "text": "3."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.3.1",
+   "text": "Each of the things seen has a certain length of distance, at which it is no longer seen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.3.2",
+   "text": "For let the eye be B, and the thing seen ΓΔ. I say, then, that ΓΔ, when it comes to be at a certain distance, will no longer be seen. For let ΓΔ have come to be in the interval between the sight-lines, at K. Then none of the sight-lines from B will fall on K [and that on which the sight-lines do not fall is not seen]. Therefore each of the things seen has a certain length of distance, at which it is no longer seen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.4.head",
+   "text": "4."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.4.1",
+   "text": "Of equal intervals lying on the same straight line, those seen from a greater distance appear smaller."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.4.2",
+   "text": "For let BΓ, ΓΔ, ΔZ be equal, and the eye K, from which let sight-lines KB, KΓ, KΔ, KZ fall; and let KB be at right angles to BZ. Since, then, in the right-angled triangle KBZ, BΓ, ΓΔ, ΔZ are equal, angle E is greater than angle H, and angle H than angle Θ. Therefore BΓ appears greater than ΓΔ, and ΓΔ than ΔZ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.5.head",
+   "text": "5."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.5.1",
+   "text": "Equal magnitudes standing at unequal distances appear unequal, and the one lying nearer the eye always [appears] greater."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.5.2",
+   "text": "For let ΓΔ be equal to KΛ, and let the eye be B, from which let sight-lines BΔ, BΛ, BK, BΓ fall. Then ΓΔ is seen under a greater angle than KΛ; therefore ΓΔ appears greater than KΛ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.6.head",
+   "text": "6."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.6.1",
+   "text": "Parallel intervals seen from a distance appear unequal in breadth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.6.2",
+   "text": "For let BΓ be an interval parallel to ΔZ, and let the eye be K. I say that BΓ, ΔZ appear unequal in breadth, and the nearer interval always greater than the farther."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.6.3",
+   "text": "Let rays KΞ, KΛ, KΠ, KN, KB, KΔ fall, and let straight lines ΞΛ, ΠN, BΔ be joined. Since, then, angle ΞKΛ is greater than angle ΠKN, the straight line ΞΛ also appears greater than ΠN. For the same reasons the straight line ΠN also appears greater than the straight line BΔ. So the intervals will no longer be seen as parallel, but [narrowing] to something smaller and unequal in breadth. Therefore parallel intervals seen from a distance appear unequal in breadth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.6.4",
+   "text": "So it is if the eye lies in the same plane as the thing seen; but if the eye is higher, thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.6.5",
+   "text": "For let it be K, and from K let a perpendicular KA be drawn to the underlying plane, and from A [a line] AM to ZΛ, and let it be produced to O; and let rays KB, KH, KZ, KΔ, KN, KΛ fall, and let KM, KΞ, KO be joined. Since, then, KM has been joined from the higher point K to M, it is perpendicular to MΛ. Likewise KΞ [is perpendicular] to HN, and KO to BΔ. Therefore the triangles KMΛ, KΞN, KOΔ are right-angled. And ΞN is equal to MΛ, for MN is a parallelogram; and each of ΞK, KN is greater than each of MK, KΛ. Therefore angle MKΛ is also greater than angle ΞKN. Therefore MΛ will also be seen greater than ΞN, and likewise ZM than HΞ. So the whole of ZΛ also appears greater than the whole of HN. For the same reasons HN [appears greater] than BΔ. Therefore in this way too the magnitudes appear unequal in breadth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.7.head",
+   "text": "7."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.7.1",
+   "text": "Equal magnitudes lying on the same straight line, placed farther from one another, appear unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.7.2",
+   "text": "For let BΓ, ΔZ be equal magnitudes, and let the eye be K, and from the eye K let sight-lines KB, KΓ, KΔ, KZ fall; and let angle KZB be right. Then angle Σ is greater than Φ. So ΔZ will also appear greater than ΓB. Therefore the magnitudes BΓ, ΔZ appear unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.8.head",
+   "text": "8."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.8.1",
+   "text": "Equal magnitudes standing at unequal distances are not seen in proportion to the distances."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.8.2",
+   "text": "For let BΓ be equal to ΔZ and let it lie parallel to it, and let the eye be K, and from it let sight-lines KZΓ, KB, KΔ fall, of which let KΓ be at right angles to ΓB. I say, then, that the magnitudes BΓ, ΔZ will not appear in proportion to the distances ΓK, KZ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.8.3",
+   "text": "For since angle ΔZK is right, angle ZΘK is acute; so ΘK is also greater than KZ. Therefore the circle drawn with centre K and radius ΘK will pass beyond KZ. Let it be drawn, and let it be EΘH. And since triangle ΘΔK has a greater ratio to sector ΘEK than triangle ZΘK to sector HΘK, alternately, therefore, triangle ΘΔK has a greater ratio to triangle ZΘK than sector EΘK to sector HΘK. Componendo, therefore, triangle ZΔK has a greater ratio to triangle ZΘK than sector EHK to sector HΘK. But as triangle ZΔK is to triangle ZΘK, so is ΔZ to ZΘ, and as sector HEK is to sector HΘK, so is angle ΔKZ to angle ΘKZ. Therefore ΔZ is also in a greater ratio to ZΘ than angle Σ, P to angle P. And as ΔZ is to ZΘ, so is ΓK to KZ; therefore KΓ is also in a greater ratio to KZ than angle Σ, P to angle P. And ΔZ is seen under angle ΣP, and BΓ under angle P. Therefore equal magnitudes are not seen in proportion to the distances."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.9.head",
+   "text": "9."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.9.1",
+   "text": "Rectangular magnitudes seen from a distance appear rounded."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.9.2",
+   "text": "For let BΓ be a rectangle standing aloft, seen from a distance. Then since each of the things seen has a certain length of distance at which it is no longer seen, angle Γ is not seen, and only the points Δ, Z appear. Likewise this will happen at each of the remaining angles. So the whole will appear rounded."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.10.head",
+   "text": "10."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.10.1",
+   "text": "Of planes lying below the eye, the farther parts will appear higher."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.10.2",
+   "text": "For let the eye B lie above the plane ΓK, and from this eye let rays BΓ, BΔ, BZ, BK fall, of which let BK be perpendicular to the underlying plane. I say that ΓΔ appears higher than ΔZ, and ΔZ than ZK. For let any point E be taken on ZK, and let EH be drawn at right angles. And since the sight-lines fall on HE before [they fall] on EΓ, let BΓ fall on HE at the point H, BΔ at Λ, and BZ at M. Since, then, H is higher than Λ, and Λ than M, but where H is, there Γ is, and where Λ is, there Δ is, and where M is, there Z is, and ΔΓ appears through BΓ, BΔ, and ZΔ through BΔ, BZ, and KZ through BZ, BK, then ΓΔ appears higher than ΔZ, and ZΔ than ZK; for things seen by higher rays appear higher."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.11.head",
+   "text": "11."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.11.1",
+   "text": "Of planes lying above the eye, the farther parts will appear lower."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.11.2",
+   "text": "For let the eye B lie below the plane ΔZ, and from it let rays BΔ, BΓ, BZ fall, of which let BZ be perpendicular to the plane above. I say that ΓΔ appears lower than ΓZ. By the theorem set out before, BΔ is the lowest of the rays falling from the eye B on the plane Δ[Z], and B[Γ] is lower than BZ. But ΔΓ appears through the rays BΔ, BΓ, and ΓZ through BΓ, BZ. Therefore ΔΓ is seen lower than ΓZ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.12.head",
+   "text": "12."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.12.1",
+   "text": "Of things that extend in length straight ahead, those on the right seem to be shifted to the left, and those on the left to the right."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.12.2",
+   "text": "For let the things seen be BΓ, ΔZ, and the eye K, from which let sight-lines KΓ, KA, KB, KZ, KH, KΔ fall. Then Δ seems to be shifted farther to the left than H. And similarly B seems to be shifted farther to the right than A. So of things that extend in length straight ahead, those on the right seem to be shifted to the left, and those on the left to the right."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.13.head",
+   "text": "13."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.13.1",
+   "text": "Of equal magnitudes lying below the eye, those lying farther away appear higher."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.13.2",
+   "text": "For let BΓ, ΔZ, KΛ be equal magnitudes lying below the eye N, and from the eye N let rays BN, NΔ, NK fall. Then NB is the highest of the remaining rays; so also is the point B. Therefore BΓ appears higher than ΔZ, and ΔZ than KΛ. Therefore of equal magnitudes lying below the eye, those lying farther away appear higher."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.14.head",
+   "text": "14."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.14.1",
+   "text": "Of equal magnitudes lying above the eye, those lying farther away appear lower."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.14.2",
+   "text": "Let KN, ΛZ, ΓΔ be equal magnitudes lying above the eye B, and from the eye B let rays BN, BZ, BΔ fall. Then BΔ is the lowest, so also is Δ. So ΓΔ appears lower than ΛZ, and ΛZ than KN."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.15.head",
+   "text": "15."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.15.1",
+   "text": "Of things lying below the eye that exceed one another, when the eye approaches, the one that appears to exceed appears greater by a greater amount, and when it withdraws, greater by a lesser amount. For let BΓ be greater than ΘZ, and let the eye K lie above BΓ, ΘZ, and let a ray KΔ fall through Θ. Then BΓ appears greater than Θ[Z] by BΔ; for ΘZ appeared equal to ΔΓ, since it was seen by the same eye and the ray KΔ. Now again let the eye be moved to Λ, and let a ray ΛN fall through Θ. Then again BΓ appears greater than Θ[Z] by BN. Therefore BΓ appears to exceed ΘZ by a lesser amount when the eye withdraws than when it approaches."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.16.head",
+   "text": "16."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.16.1",
+   "text": "Of things that exceed one another when the eye lies below [them], when the eye approaches, the one that appears to exceed appears greater by a lesser amount, and when it withdraws, greater by a greater amount."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.16.2",
+   "text": "Let BZ be greater than ΘK, and with the eye Λ lying below, let a ray ΛΓ fall through Θ. Then BZ appears greater than ΘK by BΓ. Now let the eye Λ be moved to N, and let a ray NΔ fall through Θ. Then again BZ appears greater than ΘK by BΔ. Therefore, when the eye approaches, BZ appears to exceed ΘK by a lesser amount, and when it withdraws, by a greater."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.17.head",
+   "text": "17."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.17.1",
+   "text": "Of things that exceed one another, when the eye is in a straight line with the smaller magnitude, whether the eye approaches or stands off, the one that appears to exceed will always seem to exceed the smaller by the same amount."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.17.2",
+   "text": "For let BΔ exceed ΘH by BΓ, and let ΓΘ be joined and produced, and let the eye be at Z. Then the ray falling from [Z] will be carried along ZΓ. Now again let the eye be moved to K. Then for the same reasons the ray falling from the eye K will be carried along KΓ. Therefore BΔ will exceed ΘH by the same amount both when the eye approaches and when it stands off."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.18.head",
+   "text": "18."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.18.1",
+   "text": "To find how great a given height is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.18.2",
+   "text": "For let BΓ be the height which we must find, how great it is, and let a ray of the sun fall through B, [namely] BΔ; then the shadow will be ΓΔ. Now I took some known magnitude KZ and fitted it under the angle Δ parallel to BΓ. Then as ΔΓ is to ΓB, so is Δ[Z] to ZK. And the ratio of ΔZ to ZK is known; therefore that of ΔΓ to ΓB is also known. And the shadow ΔΓ is known; therefore the height ΓB is also known."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.19.head",
+   "text": "19."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.19.1",
+   "text": "To find how great a given height is when there is no sun."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.19.2",
+   "text": "For let BΓ be the height which we must find, how great it is, and let a mirror KA be placed, and let the eye be Δ, and from it let a ray ΔΘ fall and be reflected, as ΘB, to the end B, and from the eye Δ [let] ΔZ [be drawn] perpendicular. Then the angles at Θ are equal to one another; for this is shown in the Catoptrics. But the [angle] at Γ is also equal to that at Z; for each of them is right. Therefore the remaining [angle] at B is equal to the remaining [angle] at Δ. So the triangle BΓΘ would be similar to the triangle ΔZΘ. Therefore as ΘΓ is to ΓB, so is ΘZ to ZΔ. But the ratio of ΘZ to ZΔ is given; therefore the ratio of ΘΓ to ΓB is also known. And ΘΓ is known; therefore the height ΓB is also known."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.20.head",
+   "text": "20."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.20.1",
+   "text": "To find how great a given depth is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.20.2",
+   "text": "For let KB be the depth which we must find, how great it is, and let the eye Δ be placed, and let a ray ΔΛK fall into the depth, and from Δ let ΔZ be drawn parallel to BK. Since BK is parallel to ΔZ, and ΔK has fallen across [them], it makes the alternate angles BKΛ, ΛΔZ equal to one another. And the vertical angles at Λ are also equal to one another; therefore the remaining angle is also equal to the remaining one. Therefore the triangle BKΛ is equiangular with the triangle ΛΔ[Z]. Therefore as ΛZ is to ZΔ, so is ΛB to BK. But the ratio of ΛZ to ZΔ is given; therefore the ratio of ΛB to BK is also given. And ΛB is given; therefore BK is also given."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.21.head",
+   "text": "21."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.21.1",
+   "text": "To find how great a given length is. For let BΓ be the length which we must find, how great it is. Now let the eye Δ be placed, from which let rays ΔB, ΔΓ fall, and from [Z] let ZK be drawn parallel to BΓ. Then as ZK is to KΔ, so is BΓ to ΓΔ. But the ratio of ZK to KΔ is known; therefore the ratio of BΓ to ΓΔ is also known. And ΓΔ is known; therefore ΓB is also known."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.22.head",
+   "text": "22."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.22.1",
+   "text": "If an arc of a circle is placed in the same plane as the eye, the arc of the circle will appear a straight line."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.22.2",
+   "text": "For let BΓ be an arc, and the eye Δ, being in the same plane as the arc BΓ, from which let sight-lines ΔB, ZΔ, ΔΓ fall. Then, since none of the things seen is seen all at once, the arc ZB would not appear [as such], but [only] the ends Z, B. Therefore the arc ZB will seem to be straight. And similarly also ZΓ. Therefore the whole arc BΓ will seem to be straight."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.23.head",
+   "text": "23."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.23.1",
+   "text": "When a sphere is seen in any way by a single eye, less than a hemisphere will always be seen, and the part of the sphere that is seen appears bounded by a circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.23.2",
+   "text": "For let there be a sphere, whose centre is K, and let the eye be B, and let BK be joined, and through K let ΓKΔ be drawn at right angles to it, and let the plane through BK, ΓKΔ be produced; it will make a circle in the sphere. Let it make ΓΔΛN, and about KB [as diameter] let a circle be described, and let KZ, ZB, BΛ, ΛK, ΛZ be joined. Then since the angles KZB, BΛK are right, because they are in semicircles, and KZ, KΛ are from the centre, BΛ, BZ will touch the sphere at one point [each]; therefore the rays falling from the eye B will fall along BZ, BΛ. And since each of the angles at Θ is right, because ΓΔ is parallel to ZΛ, and ZΘ is equal to ΘΛ, if, while ΘB stays fixed, the triangle ΘZB is carried round and restored again to the place from which it began to move, BZ, as it is carried round, will touch the spherical surface at one point, at Z, and a circle will be described through the points Z, Λ. So the part of the sphere that is seen would be bounded by a circle, and it is less than a hemisphere; for ZΛ is less than a semicircle. So also what is bounded by the sight is less than a hemisphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.24.head",
+   "text": "24."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.24.1",
+   "text": "When the eye comes nearer to the sphere, the part seen will be smaller, but it will seem to be seen larger."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.24.2",
+   "text": "For let there be a sphere, whose centre is K, and from the eye Δ let ΔK be joined to the centre, and through K let BΓ be drawn at right angles, and about ΔK let a circle be described, and let ΔN, NK, ΔΛ, ΛK be joined. Then the angles at Λ, N will be right, because they are in a semicircle; therefore ΔΛ, ΔN touch the sphere at one point [each]. Therefore the rays falling from the eye Δ will fall along ΔΛ, ΔN. Now again let the eye Δ be moved to P, and about PK let a circle be described, and let PZ, ZK, PΣ, ΣK be joined. Then PZ, PΣ touch the sphere at one point [each]. And the rays falling from the eye P will fall along PZ, PΣ. So ZΣ is seen under the angle P, and NZΛ under the angle Δ; and NZΛ is greater than ZΣ. But it appears smaller; for the angle P is greater than the angle Δ, and things seen under a greater angle appear greater. Therefore ZΣ appears greater than NZΛ, but it is smaller."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.25.head",
+   "text": "25."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.25.1",
+   "text": "When a sphere is seen with the two eyes, if the diameter of the sphere is equal to the straight line by which the eyes stand apart, a hemisphere of it will be seen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.25.2",
+   "text": "For let there be a sphere, whose diameter is BΓ, and from B, Γ let BZ, ΓΛ be drawn at right angles, and from Z let ZΛ be drawn parallel to BΓ, and let one eye be placed at Z and the other at Λ, and from the centre Δ let ΔK be drawn parallel to BZ. Then if, while ΔK stays fixed, the parallelogram BK is carried round and restored again to the place from which it began to move, the figure described by BΔ will be a circle, which passes through the centre of the sphere. So only the hemisphere of the sphere will be seen by the eyes Z, Λ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.26.head",
+   "text": "26."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.26.1",
+   "text": "If the distance between the eyes is greater than the diameter of the sphere, the part of the sphere that is seen will be seen [as] greater than a hemisphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.26.2",
+   "text": "For let there be a sphere, whose centre is K, and let the distance between the eyes be BΓ, which is greater than the diameter of the sphere, and through K and BΓ let a plane be produced, and let it make in the sphere the circle ΔΔZ, and let rays BΔ, ΓZ fall, touching at one point [each]. Then, when produced, they will meet one another, since BΓ is greater than the diameter in the sphere. Let them meet at the point Θ. Then since ΘZ, ΘΔ have fallen from the point Θ touching at one point [each], ZNΔ would be less than a semicircle; for the angles ΘZK, ΘΔK are right. Therefore the remainder of the sphere, greater than a hemisphere, is seen by BΔ, ΓZ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.27.head",
+   "text": "27."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.27.1",
+   "text": "If the distance between the eyes is less than the diameter of the sphere, the part of the sphere that is seen will be seen [as] less than a hemisphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.27.2",
+   "text": "For let there be a sphere, whose centre is K, and let the distance between the eyes be BΓ, which is less than the diameter of the sphere, and through K and BΓ let a plane be produced, and let it make in the sphere the circle ZHN. And from the eyes B, Γ let BZ, ΓN be drawn touching at one point [each], and let them meet one another at Θ; for they will meet, since ΓB and the diameter of the sphere are unequal. Then the lines falling from the point Θ onto the sphere will take in less than a hemisphere; therefore ZHN is less than a hemisphere. So what is seen by the eyes B, Γ would be less than a hemisphere."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.28.head",
+   "text": "28."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.28.1",
+   "text": "When a cylinder is seen in any way by a single eye, less than a half-cylinder will be seen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.28.2",
+   "text": "For let the centre of the circle about the base of a cylinder be K, and from the eye N let NK be drawn to K, and through K let BΓ be drawn at right angles to it, and about KN let a circle be described, and let NZ, ZK, NΔ, ΔK be joined. Then the [angles] at Z, Δ are right; therefore ZN, NΔ touch at one point [each], and the rays travelling from the eye N will fall along NZ, NΔ; so only ZΛΔ will be seen. But ZΛΔ is less than the semicircle ΓΛB; therefore ZΛΔ will be seen [as] less than a semicircle, that is, the cylinder [likewise]; for we shall show it over the whole surface of the cylinder in the same way as for the base. So less than half of the whole cylinder appears."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.29.head",
+   "text": "29."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.29.1",
+   "text": "When the eye is placed nearer the cylinder, what is taken in by the sight-lines of the cylinder will be smaller, but it will seem to be seen larger."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.29.2",
+   "text": "For let the centre of the circle about the base of a cylinder be K, and from the eye B let BK be joined to the centre K, and through K let ΓΔ be drawn at right angles, and about KB let a circle be described, and let BN, NK, BΛ, ΛK be joined. Then, for the reasons given before, ΛZN is less than a semicircle, and, as with the base, less than half of the whole cylinder will be seen. Now let the eye be brought nearer and let it be Φ, and about ΦK let a circle be described, and let ΦP, PK, KΣ, ΣΦ be joined. Then the rays falling from Φ will fall along ΦP, ΦΣ, and those from B along BΛ, BN; therefore NZΛ is greater than PZΣ. But PZΣ seems to appear greater than NZΛ; for the angle [Φ] is greater than the angle B. So a smaller part of the cylinder will be seen, but it seems to be seen larger."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.30.head",
+   "text": "30."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.30.1",
+   "text": "When a cone having a circle as its base is seen by a single eye, less than a half-cone will be seen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.30.2",
+   "text": "For let the base of a cone be a circle, whose centre is K, and from the eye B let BK be drawn to the centre, and through K, at right angles to KB, [let] NΛ [be drawn], and about KB let a circle be described, and let BZ, ZK, BΔ, ΔK be joined. Then the angles at Z, Δ are right; therefore BΔ, BZ touch at one point [each], and the rays falling from the eye will fall along BΔ, BZ. So what is seen will be ZPΔ, which is less than NPΛ. But NPΛ is a semicircle; therefore ZPΔ is less than a semicircle. So also what is seen of the cone is less than a half-cone; for we shall show it in the same way for the other circles in the surface of the cone too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.31.head",
+   "text": "31."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.31.1",
+   "text": "When the eye is moved nearer in the same plane, the part taken in by the sight-lines will be smaller, but it will seem to be seen larger."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.31.2",
+   "text": "For let the base of a cone be a circle, whose centre is K, and let the eye be A, and from A let AK be joined to K, and through K let ΓKB be drawn at right angles to it, and about AK let a circle be described, and let AZ, ZK, AΔ, ΔK be joined. Now let the eye A be moved to N, and about KN let a circle be described, and let NP, PK, NΣ, ΣK be joined. Then the rays falling from the eye A will fall along AΔ, AZ; so ZΦΔ will appear. For the same reasons the rays falling from the eye N will fall along NP, NΣ; therefore PΦΣ will be seen. And ZΦΔ is greater than PΦΣ. But it appears smaller; for the angle at N is greater than the angle at A."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.32.head",
+   "text": "32."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.32.1",
+   "text": "In a cone having a circle as its base, if from the points of contact of the rays falling from the eye onto the base of the cone straight lines are drawn across the surface of the cone to its vertex, and planes are produced through the lines so drawn and through those falling from the eye onto the base of the cone, and the eye is placed on the common section of the planes, the part of the cone that is seen will be seen equal throughout, the sight being in a plane parallel to the plane laid down before."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.32.2",
+   "text": "For let there be a cone, whose base is the circle ΓΔ and whose vertex is the point B, and let the eye be K, from which let rays KΔ, KΓ fall, touching at Γ, Δ, and from the points Δ, Γ let ΔB, ΓB be joined to the vertex of the cone, and through ΓB, ΓK let a plane be produced, and likewise through ΔB, ΔK let another plane be produced. Then the planes will meet; for ΓB, ΔB meet, and so do ΓK, KΔ. Let the planes then meet, and let their common section be BK. I say that wherever the eye is placed on BK, the part of the cone that is seen appears equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.32.3",
+   "text": "For let the eye Z be placed on BK, and through Z let ZN be drawn parallel to KΔ, and ZΣ parallel to ΓK. Then ZN, ZΣ touch the surface of the cone at N, Σ; for the segments of the parallel circles on the surface BΓΔ of the cone are similar. Therefore the intervals seen on the surface BΔΓ of the cone appear equal. For since the angle contained by ZΣ, ZN is equal to the angle contained by KΔ, KΓ, the interval ΣN of the cone would appear equal to the interval ΔΓ. So wherever the eye is placed on the straight line KB, what is seen will always appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.33.head",
+   "text": "33."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.33.1",
+   "text": "When the eye is always at an equal distance from the cone, if the eye is placed high, the part of the cone that is seen appears smaller, and if lower, larger."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.33.2",
+   "text": "For let there be a cone with its vertex at the point Δ and its base the circle BΓ, and let KΘ be drawn parallel to BΔ, and let the eye be placed at Θ. I say then that the part of the cone that is seen will be seen smaller when the eye is placed at the point Θ than at Σ. For from the point Δ to the points Θ, Σ let ΔΘ, ΔΣ be joined and produced to N, Λ. Then when the eye is placed at the point N and at the point Λ, the parts of the cone that are seen appear unequal, and the one at N appears smaller, the one at Λ larger. But the one at N is equal to the one at Θ, and the one at Λ to the one at Σ, as was shown in the preceding [theorem]. Therefore when the eye is at the point Θ, the part of the cone that is seen appears smaller than at Σ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.34.head",
+   "text": "34."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.34.1",
+   "text": "In a circle, if a line is drawn from the centre at right angles to the plane of the circle, and the eye is placed on it, the diameters of the circle appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.34.2",
+   "text": "For let there be a circle whose centre is K, and from K let KB be raised at right angles to the plane of the circle, and let the eye be placed at B, and let diameters ΓA, ΔZ be drawn. I say then that AΓ appears equal to ΔZ. For let BA, BZ, BΓ, BΔ be joined. Then the two [lines] BK, KZ are equal to the two BK, KΓ, each to each. And the angle P is also equal to Σ; therefore the base BZ is also equal to the base BΓ. For the same reasons BΔ is also equal to BA. So the two ΔB, BZ are equal to the two ΓB, BA. And ΔZ is also equal to ΓA; therefore the angle ΔBZ is equal to the angle ΓBA. And things seen under equal angles appear equal. Therefore ΓA appears equal to ΔZ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.35.head",
+   "text": "35."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.35.1",
+   "text": "And if the line raised from the centre is not at right angles to the plane, but equal to the radius, the diameters will appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.35.2",
+   "text": "Let there be a circle whose centre is K, and from K let KB be raised not at right angles to the plane, but let it be equal to the radius of the circle, and from the point B let the same lines be joined as before. Then since ΔK, KB, KZ are equal to one another, the angle contained by ZB, BΔ would be right. For the same reasons the angle ABΓ would also be right; therefore they will be equal to one another. And things seen under equal angles appear equal. Therefore ΔZ appears equal to AΓ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.35.3",
+   "text": "But now let AZ be neither equal to the radius nor at right angles to the plane of the circle, but let it make the angles ΔAZ, ZAΓ, and EAZ, ZAB equal. I say that in this case too the diameters will appear equal. For since ΔA is equal to AΓ, and AZ is common, and they contain equal angles, the base ΔZ is therefore equal to the base ZΓ, and the angle ΔZA to the angle AZΓ. Likewise we shall show that the angle EZA is also equal to the angle AZB. Therefore the whole angle ΔZB is equal to the whole angle EZΓ. So the diameters will appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.head",
+   "text": "36."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.1",
+   "text": "But if the line falling from the eye to the centre of the circle is neither at right angles to the plane of the circle, nor equal to the radius, nor containing equal angles with the radii, but greater or less than the radius, the diameters will appear unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.2",
+   "text": "For let there be a circle whose centre is A, and from the eye B let the straight line BA be drawn to the centre of the circle, and let it be neither at right angles to the plane, nor equal to the radius of the circle, nor containing equal angles with the radii. I say that the diameters of the circle will appear unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.3",
+   "text": "For let the diameter ΓZ be drawn at right angles to AB, and ΔK making unequal angles with AB, and let BΓ, BΔ, BZ, BK be joined, and first let BA be greater than AK. Then the angle contained by ΓBZ is greater than that contained by KBΔ, as is proved in the theorems. And things seen under a greater angle appear greater; therefore ΓZ appears greater than ΔK. But if BA is less than AK, ΔK appears greater than ΓZ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.4",
+   "text": "Let there be a circle whose centre is A, and the eye B, from which let the perpendicular drawn to the circle fall not on the centre A, but outside it, and let it be BΓ, and from Γ to A let ΓA be joined, and further from A to B, BA. I say that of all the straight lines drawn through A and making angles with BA, the least is [the angle] ΓAB. For let the straight line ΔAE be drawn through, and from Γ let the perpendicular ΓZ be drawn in the plane to ΔE, and let BZ be joined; then BZ too is perpendicular to ΔE. Since then the angle ΓZA is right, the angle AΓZ is therefore less than a right angle; therefore the side AΓ is greater than AZ. Therefore BA has a greater ratio to AZ than to AΓ. But the angle AΓB and the angle BZA are right, and ΓA, AZ are unequal; therefore the remaining angle ZAB is also greater than the angle ΓAB. Likewise it will be shown that of all the straight lines drawn through A and making an angle with the straight line AB, the least is [the angle] ΓAB."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.5",
+   "text": "That ZB is at right angles to ΔE we shall show thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.6",
+   "text": "Since BΓ is at right angles to the plane of the circle, all the planes produced through BΓ are also at right angles to the plane of the circle. And one of the planes produced through BΓ is the triangle BΓZ; therefore the triangle BΓ[Z] is at right angles to the plane of the circle. Since then two planes, that of the circle EΔ and that of the triangle BΓZ, cut one another, and ZΔ in the plane of the circle is at right angles to their common section ΓZ (for ΓZ has been drawn perpendicular to EΔ), ZΔ is therefore also at right angles to the plane of the triangle BΓ[Z]. So it is also at right angles to all the straight lines touching it and lying in the plane of the triangle ΓZB; therefore ΔZ is at right angles to ZB. Conversely, therefore, BZ is at right angles to the diameter EZΔ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.7",
+   "text": "Let there be two triangles BΓA, BZA having right angles at Γ, [Z], and let BA have a greater ratio to ZA than to ΓA. I say that the angle ZAB is greater than the angle ΓAB. For since BA has a greater ratio to ZA than to ΓA, inversely ZA has a smaller ratio to AB than ΓA has to AB; so ΓA has a greater ratio to AB than ZA to AB. Let it be made, then, that as ΓA is to AB, so ZA is to AΔ, less than AB; therefore the triangles BΓA, ΔZA are equiangular. So the angle ΓAB is equal to the angle ZAΔ. Therefore the angle ZAB is greater than the angle ΓAB."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.8",
+   "text": "Let there be a circle AΓBΔ, and let two diameters AB, ΓΔ be drawn through it, cutting one another at right angles, and let E be the eye, from which let the line EZ joined to the centre be at right angles to ΓΔ, but let it contain any chance angle with AB, and let EZ be greater than each of the radii. Since then ΓΔ is at right angles to each of AB, EZ, all the planes produced through ΓΔ are also at right angles to the plane through EZ, AB. Let a perpendicular then be drawn from the point E to the underlying plane; it therefore falls on AB, the common section of the planes. Let it fall, then, and let it be EK, and let a diameter HΘ be drawn through, and let ΛM be set out equal to the diameter of the circle, and let it be bisected at N. And from N let a raised straight line NΞ be drawn up at right angles to ΛM, and let NΞ be equal to EZ; therefore the segment described on ΛM and passing through Ξ is greater than a semicircle, since NΞ is greater than each of ΛN, NM. Let it be ΛΣΞM, and let ΞΛ, ΞM be joined. Therefore the angle at Ξ contained by ΛΞM is equal to the angle at the point E contained by the lines joining E and the points Γ, Δ. Let the angle contained by ΛN, NO be set out equal to that contained by EZ, ZH, and let NO be cut off equal to EZ, and let ΛO, MO be joined, and about the triangle ΛOM let a segment of a circle ΛOM be circumscribed. Then the angle at the point O will also be equal to the angle contained by HEΘ. Further, let the angle contained by ΛNΠ be set equal to that contained by EZK, and let NΠ be set out equal to EZ, and let ΛΠ, ΠM be joined, and about the triangle ΛΠM let a segment of a circle be circumscribed. Then the angle at the point Π will also be equal to the angle AEB. Since then the angle at [Ξ] is greater than the angle at O (for the angle at Ξ is equal to the angle at Σ, and the angle at Σ is greater than the angle at O, for it is exterior to the triangle ΛΣO), the angle at [Ξ] is therefore also greater than that at O; and the angle at [Ξ] is equal to the angle ΓEΔ, and that at O to the angle HEΘ; therefore ΓΔ will also appear greater than HΘ. Again, the angle at O is equal to the angle HEΘ, and that at Π to the angle AEB, and O is greater than Π. Therefore HΘ will appear greater than the straight line AB."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.36.9",
+   "text": "Now let the line joined from the eye to the centre not be greater than the radius, but smaller; then the opposite will hold for the diameters: for the diameter that was then greater will now appear smaller, and the smaller greater. Let there be a circle ABΓΔ, and let two diameters AB, ΓΔ be drawn through it, cutting one another at right angles, and let some other [diameter] HΘ be drawn through, and let E be the eye, from which let the line joined to the centre Z be EZ, being smaller than each of the radii, and let EZ be at right angles to ΓΔ, and let ΛM be set out equal to the diameter of the circle and be bisected at N, and from N let NΞ be drawn up at right angles, equal to EZ, and about ΛM and the point Ξ let a segment of a circle ΛΞM be circumscribed; it will then be smaller than a semicircle, since NΞ is smaller than the radius. Then the angle at the point [Ξ] contained by ΛΞM will be equal to the angle at E contained by ΓEΔ. Further, let the angle contained by ΛNO be set equal to that contained by EZH, and let NO be cut off equal to EZ, and about ΛM and the point O let the segment ΛOM be circumscribed. Then the angle at the point O contained by ΛOM is equal to the angle at E contained by ΘEH. Further, let the angle contained by ΛN, NΠ be set equal to that contained by AZ, ZE, and let NΠ be cut off equal to EZ, and about ΛM and Π let a segment of a circle ΛΠM be circumscribed; then the angle at Π contained by ΛΠM will be equal to the angle at E contained by AEB. Since then the angle at [Ξ] is smaller than that at O, and the angle at O is equal to the angle at E contained by ΘE, EH, and that at Ξ to the angle at E contained by ΓEΔ, therefore ΓΔ will appear smaller than HΘ. Again, since the angle at E contained by ΘEH is smaller than the angle at E contained by AEB, therefore HΘ will also appear smaller than AB."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.37.head",
+   "text": "37."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.37.1",
+   "text": "The wheels of chariots will appear sometimes circular, sometimes distorted."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.37.2",
+   "text": "For let there be a wheel whose diameters are ΔZ, BΓ. Then whenever the line inclining from the eye to the centre is at right angles to the plane or equal to the radius, the diameters will appear equal, as was proved in the theorem before this; so the wheel of the chariot appears circular when these conditions hold. But when the chariot moves past, and the ray inclining from the eye to the centre is neither at right angles to the plane of the wheel nor equal to its radius, the diameters will appear unequal, likewise because of what was shown before this; so the wheel would appear distorted."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.38.head",
+   "text": "38."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.38.1",
+   "text": "If some magnitude is raised at right angles to the underlying plane, and the eye is placed at some point of the plane, and the object seen is moved around the arc of a circle, the object seen will always be seen equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.38.2",
+   "text": "Let AB be some magnitude seen, raised above the plane, and let Γ be the eye, and let ΓB be joined, and with centre Γ and distance ΓB let the circle BΔ be described. I say that, if AB is moved around the arc of the circle, it will always be seen equal from the eye Γ. For since AB is upright and makes a right angle with BΓ, all the [rays] falling from the centre Γ on the magnitude AB make angles equal to one another. Therefore the object seen will be seen equal. Likewise, even if a straight line is drawn upwards from the centre Γ, and the eye is placed on it, being parallel to the magnitude seen, and the magnitude is moved, the object seen always appears equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.39.head",
+   "text": "39."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.39.1",
+   "text": "And if the object seen is at right angles to the underlying plane, and the eye is moved around the arc of a circle, the object seen will always appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.39.2",
+   "text": "Let AB be the object seen, being raised and at right angles to the underlying plane, and let Γ be the eye, and with centre B and distance BΓ let the circle ΓΔ be described. I say that, if Γ is moved around the arc of the circle, AB will always appear equal. And this is evident: for all the rays falling from the point Γ on AB fall at equal angles, since the angle at B is right. Therefore the object seen will appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.head",
+   "text": "40."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.1",
+   "text": "But if the magnitude seen is not at right angles to the underlying plane, and is moved around the arc of a circle, it will always be seen unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.2",
+   "text": "Let there be a circle AΘ, and let a point Δ be taken on its arc, and let a straight line ΔZ be set up not at right angles to the circle, and let E be the eye. I say that ΔZ, if it is moved around the arc of the circle, will appear sometimes greater, sometimes smaller."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.3",
+   "text": "Now ΔZ is either greater than the radius, or equal, or smaller. Let it first be greater, and through the centre E let EΓ be drawn parallel to ΔZ, and let EΓ be equal to ΔZ, and from the point Γ let a perpendicular ΓH be drawn to the underlying plane, and let it meet the plane at the point [H], and let EH be joined and produced and meet the arc at A, and through A let AB be drawn parallel to EΓ, and let AB be equal to ΔZ. I say that AB will appear smaller than all the straight lines moved around the arc of the circle. For let ΓZ, EZ, BΓ, EB be joined. And we have in the adjacent 36th theorem that, of all the straight lines drawn through the point E and making an angle with EΓ, the angle ΓEA is the least. Since then ΓE is parallel to AB, and also equal, EA is therefore also both equal and parallel to ΓB; therefore BE is a parallelogram. For the same reasons ZE is also a parallelogram. And since we must show that AB appears smaller than ΔZ, it is clear that we must first show that the angle BEA is smaller than the angle ZEΔ. Since then it has been shown that, of all the straight lines drawn through the point E and making angles with ΓE, the angle ΓEA is the least, the angle ΓEA is therefore also smaller than the angle ΓEΔ. Let KAΛ be set out equal to the semicircle of the circle, and let its centre N be taken, and let the angle KNM be set equal to the angle ΓEA, and the angle KNO equal to the angle ΓEΔ, and let each of ON, MN be set equal to ΔZ, and through M let MΠ be drawn equal and parallel to KN, and let ΠK be joined; therefore NΠ is a parallelogram, and equal and similar to BE. Again, through O let OP be drawn equal and parallel to KN, and let PK be joined; the parallelogram PN is therefore equal and similar to ZE. And let the diagonals PN, ΠN be joined. So the angle KNΠ is also smaller than the angle KNP. And the angle KNΠ is equal to the angle AEB, and the angle KNP equal to the angle ΔEZ; therefore the angle AEB is smaller than the angle ΔEZ. So the magnitude AB will also be seen smaller than the magnitude Δ[Z]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.4",
+   "text": "Similarly we shall show that BA is smaller than ZΔ when ZΔ is equal to, and when it is smaller than, the radius."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.5",
+   "text": "But now let Δ[Z] be equal to the radius, and let everything be constructed as before. Let a semicircle ΘKΛ be set out equal to the semicircle of the circle, and let its centre N be taken. And since ΔZ is supposed equal to the radius of the circle, ΔZ is therefore equal to ΘN. And let the angle ΘNK be set equal to the angle ΓEA, and let KΞ be drawn parallel to ΘN, and let KΞ be cut off equal to ΘN, and let ΞΘ be joined. Let the angle ΘNΔ be set equal to the angle ΓEΔ, and let ΔO be drawn parallel to ΘN, and let ΔO be cut off equal to ΘN, and let OΘ be joined. Therefore each of ΘΔ, ΘK is a parallelogram, and they are equal and similar to EZ, EB. So the angle ΘNΔ is equal to the angle ΓEΔ, and the angle ΘNK is equal to the angle ΓEA. But the angle ΓEA is smaller than the angle ΓEΔ; therefore the angle ΘNK is also smaller than the angle ΘNΔ. [And] let the diagonals ΞN, ON be joined; therefore the angle ΘNΞ is also smaller than the angle ΘNO. But the angle ΘNΞ is equal to the angle AEB, and the angle ΘNO to the angle ΔEZ; therefore the angle AEB is also smaller than the angle ΔEZ. Therefore the magnitude AB will be seen smaller than the magnitude ΔZ; which is what had to be proved."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.40.6",
+   "text": "But now let ΔZ be smaller than the radius of the circle, and let the same things be constructed as before. Let ΘM be set out equal to the semicircle of the circle, and let the centre of the circle N be taken, and let NΞ be cut off from ΘN equal to ΔZ. Let the angle ΘNK be set equal to the angle ΓEA, and the angle ΘNΛ equal to the angle ΓEΔ, and let each of NK, NΛ be equal to ΔZ. Through K let KO be drawn equal and parallel to NΞ, and let OΞ be joined; and through Λ let ΛΠ be drawn parallel to ΞN, and let ΠΞ be joined. Therefore each of KΞ, ΞΛ is a parallelogram, and KΞ is equal and similar to EB, and ΞΛ to EZ. So the angle ΘNK is equal to the angle ΓEA, and the angle ΘNΛ to the angle ΓEΔ. But the angle ΓEΔ is greater than the angle ΓEA; therefore the angle ΘNΛ is also greater than the angle ΘNK. Let NO, NΠ be joined; therefore the angle ΞNO is smaller than the angle ΞNΠ. But the angle ΞNO is equal to the angle AEB, and the angle ΞNΠ to the angle ΔEZ; therefore the angle AEB is also smaller than the angle ΔEZ. And the magnitude AB is seen under the angle AEB, and ΔZ under the angle ΔEZ. Therefore the magnitude AB will be seen smaller than the magnitude ΔZ; which is what had to be proved."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.41.head",
+   "text": "41."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.41.1",
+   "text": "There is a place where, while the eye stays still and the thing seen is moved, the thing seen always appears equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.41.2",
+   "text": "For let BΓ be the thing seen, and Z the eye, from which let the rays ZΓ, ZB fall, and let the triangle ZBΓ be enclosed by the circle ΔBZ. I say that BΓ, moved along the arc of the circle drawn, will always be seen equal. For let BΓ be moved to ΓΔ, and let ΔZ be joined. Then the arc BΓ is equal to the arc ΓΔ. Therefore the angle E is also equal to the angle Σ. But things seen under equal angles appear equal. Therefore BΓ appears equal to ΓΔ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.42.head",
+   "text": "42."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.42.1",
+   "text": "There is a place where, while the eye is moved and the thing seen stays still, the thing seen always appears equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.42.2",
+   "text": "For let BΓ be the thing seen, and Z the eye, from which let the rays ZB, ZΓ fall, and let the triangle BZΓ be enclosed by the segment of a circle BZΓ, and let the eye be moved to Δ, and let the rays shift to ΔB, ΔΓ. Then the angle P is equal to the angle Σ, for they are in the same segment. But things seen under equal angles appear equal. Therefore BΓ always appears equal while the eye is moved along the arc BΓΔ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.43.head",
+   "text": "43."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.43.1",
+   "text": "There is a place where, while the eye is moved and the thing seen stays still, the thing seen will appear unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.43.2",
+   "text": "For let KΔ be the thing seen, and BΓ a straight line meeting KΔ when produced, and let ΓZ be taken as the mean proportional between ΔΓ and ΓK, and let ZK and ZΔ be joined, and about KΔ let a segment be drawn containing an acute angle; it will then touch the straight line BΓ, since as ΔΓ is to ΓZ, so is ZΓ to ΓK. Then let the eye be placed at the point B, and let ΔB, BK be drawn, and let ΣΔ be joined. Then the angle Φ is equal to the angle Σ, for they are in the same segment. And the angle Σ is greater than the angle B; therefore the angle Φ is also greater than B. Therefore when the eye is at Z, KΔ will appear greater than at B."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.44.head",
+   "text": "44."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.44.1",
+   "text": "The same thing will happen even if the line along which the eye is moved is parallel to the magnitude seen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.44.2",
+   "text": "For let BΓ be parallel to the thing seen, ΔZ, and let ΔZ be bisected at K, and let KN be drawn up at right angles. Then let the eye be placed at N, and let NΔ, NZ be joined, and about ΔZ let a segment be drawn which will contain the angle Φ, A. Since then KN is a diameter, and KN has been drawn from its extremity at right angles to BΓ, BΓ therefore touches the segment ΔNZ. Now let the eye be moved to Γ, and let ΓZ, ΓΔ be drawn, and let PZ be joined. Then the angle Φ, A is equal to the angle P. But P is greater than the angle Σ; therefore Φ, A is also greater than Σ. But things seen under a greater angle appear greater; therefore ΔZ will appear greater when the eye is placed at N than at Γ. Therefore when the eye is moved along BΓ, which is parallel to ΔZ, the thing seen appears unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.45.head",
+   "text": "45."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.45.1",
+   "text": "There is a common place in which equal magnitudes appear unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.45.2",
+   "text": "For let BΓ be equal to ΓΔ, and about BΓ let a semicircle BZΓ be drawn, and about ΓΔ a segment greater than a semicircle, and let ZB, ZΓ, ZΔ be joined. Then the angle in the semicircle is greater than the angle in the greater segment. But things seen under a greater angle appear greater; therefore BΓ appears greater than ΓΔ; yet it was equal. There is therefore a common place in which equal magnitudes appear unequal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.46.head",
+   "text": "46."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.46.1",
+   "text": "There is a common place from which unequal magnitudes appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.46.2",
+   "text": "For let BΓ be greater than ΓΔ, and about BΓ let a segment greater than a semicircle be drawn, and about ΓΔ one similar to that about BΓ, that is, containing an angle equal to the angle in BZΓ, and let ZB, ZΓ, ZΔ be joined. Then since the angles in similar segments are equal to one another, the angles in the segments BZΓ, ΓZΔ are also equal to one another. But things seen under equal angles appear equal; therefore when the eye is placed at the point Z, BΓ would appear equal to ΓΔ; but it is greater. There is therefore a common place from which unequal magnitudes appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.47.head",
+   "text": "47."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.47.1",
+   "text": "There are places in which two unequal magnitudes, put together into one, appear equal to each of the unequal [magnitudes]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.47.2",
+   "text": "For let BΓ be greater than ΓΔ, and about BΓ, ΓΔ let semicircles be drawn, and also about the whole BΔ. Then the angle in the semicircle BAΔ is equal to the angle in BKΓ, for each of them is right. Therefore BΓ appears equal to BΔ; and likewise BΔ to ΓΔ, when the eyes are placed on the semicircles BAΔ, BKΓ, ΓZΔ. There are therefore places in which two unequal magnitudes, put together into one, appear equal to each of the unequal [magnitudes]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.48.head",
+   "text": "48."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.48.1",
+   "text": "To find places from which an equal magnitude will appear half, or a fourth part, and in general in a given ratio, in which the angle too is divided."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.48.2",
+   "text": "For let ΛZ be a straight line, and about ΛZ let any segment be drawn, and let an angle, K, be inscribed in it; and let BΓ be equal to ΛZ, and about BΓ let a segment be described which will contain half of angle K. Then angle K is double angle Δ. Therefore ΛZ appears double BΓ, when the eyes are placed on the arcs ΛKZ, BΔΓ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.49.head",
+   "text": "49."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.49.1",
+   "text": "Of things carried at equal speed and lying on the same straight line, when they approach the eye the last will seem to lead; but when they have passed by, the one that led will seem to follow, and the one that followed will seem to lead."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.49.2",
+   "text": "For let BΓ, ΔZ, KΛ be carried at equal speed, and from the eye M let rays MΓ, MZ, MΛ fall. Then of the rays falling from the eye, M[Γ] is the most raised and furthest to the right; therefore B will seem to lead. But when B[Γ], ΔZ, KΛ have passed by and come to be at NΞ, ΠP, ΣT, let rays MN, MΠ, MΣ fall. Then of all the rays falling from the eye MΣ is furthest to the right, and MN more to the left; so that ΣT will seem to lead, and NΞ to follow. Therefore BΓ, which led, on coming to NΞ will seem to follow, and ΛK, which followed, on coming to ΣT will seem to lead."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.50.head",
+   "text": "50."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.50.1",
+   "text": "If, when several things are carried at unequal speed, the eye too is carried along with them in the same direction, those carried at the same speed as the eye will seem to stand still, those carried more slowly [will seem] to be carried in the opposite direction, and those faster, forwards."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.50.2",
+   "text": "For let B, Γ, Δ be carried at unequal speed, and let B be carried slowest, [Γ] at the same speed as the eye K, and Δ faster than Γ, and from the eye K let rays KB, KΓ, KΔ fall. Then, as the eye is carried along with B, Γ, Δ, Γ, being carried always along ΓK, will seem to stand still, B, falling behind, will seem to be carried in the opposite direction, and Δ, since it is carried faster than Γ, will seem [to be carried] forwards; for it will draw further away from Γ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.51.head",
+   "text": "51."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.51.1",
+   "text": "If, when certain things are carried, something not carried is seen among them, the thing not carried will seem to be carried in the opposite direction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.51.2",
+   "text": "For let B, Δ be carried, and let Γ remain still, and from the eye Z let rays ZB, ZΓ, ZΔ fall. Then B, as it is carried, will be nearer to Γ, and Δ, moving away, further off. So Γ will seem to be carried in the opposite direction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.52.head",
+   "text": "52."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.52.1",
+   "text": "When the eye approaches nearer to the thing seen, the thing seen will seem to have grown. For let BΓ be seen, with the eye placed at Z, by the rays ZB, ZΓ, and let the eye be moved nearer to BΓ and be at Δ, and let the same thing be seen by the rays ΔB, ΔΓ. Then angle Δ is greater than angle Z. But things seen under greater angles appear greater; therefore BΓ will seem to have grown when the eye is at Δ rather than at Z."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.53.head",
+   "text": "53."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.53.1",
+   "text": "Of things carried at equal speed, those far off seem to be carried more slowly."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.53.2",
+   "text": "For let B, K be carried at equal speed towards the parts at Z, and from the eye A let rays AΓ, AΔ, AZ be drawn. Then K has the rays drawn from the eye A shorter than B does; therefore it will traverse a smaller distance and, passing the sight-line AZ sooner, will seem to be carried faster."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.54.head",
+   "text": "54."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.54.1",
+   "text": "When the eye is carried along, the farther of the things seen will seem to be left behind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.54.2",
+   "text": "For let B be the eye, from which let rays BΓ, BΔ, BZ be drawn, and let K, Λ be the things seen. Then, as the eye is carried along towards the parts at Γ, the sight-lines will pass K sooner than Λ. Therefore K will seem to fall behind, and Λ to be carried in the opposite direction, that is, towards the parts at Z."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.55.head",
+   "text": "55."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.55.1",
+   "text": "Magnitudes that are increasing seem to be brought nearer to the eye."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.55.2",
+   "text": "For let ΓB be seen by the rays KB, K[Γ], and let BΓ be increased by BΔ, and from the eye [K] let ray KΔ fall. Then angle ΔKΓ is greater than angle BKΓ. But things seen under a greater angle appear nearer. Therefore ΓΔ will seem to be nearer than BΓ."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.56.head",
+   "text": "56."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.56.1",
+   "text": "Things that do not lie at the same distance, not lying parallel, when the extremities do not lie in line with the middles nor are on a straight line, make the whole figure sometimes concave, sometimes convex."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.56.2",
+   "text": "For let B, Γ, Δ be seen with the eye placed at [K], and let rays KB, KΓ, KΔ fall. Then the whole figure would seem to be concave. Now let the thing seen be moved again and placed nearer to the eye. Then ΔBΓ will seem to be convex."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.57.head",
+   "text": "57."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.57.1",
+   "text": "Given a square, if from the meeting of the diagonals a line is drawn up at right angles to the plane of the square, and the eye is placed on it, both the sides of the square and the diagonals will appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.57.2",
+   "text": "For let ΓZ be a square, and let diagonals ΓZ, KΔ be drawn, and from Θ let ΘB be drawn at right angles to the plane, and let the eye be placed at B, and let rays KB, BΔ, BΓ, BZ fall. Then the two ZΘ, ΘB are equal to the two ΓΘ, ΘB. And the angles contained by them, that is, those at Θ, are also equal; therefore the base ZB too is equal to the base BΓ. For the same reasons KB is also equal to BΔ. So the two ZB, BΓ are equal to the two KB, ΔB, each to each; and the diagonals are equal; so that the angles at [B] too will be equal. But things seen under equal angles appear equal; therefore both the diagonals and the sides of the square will appear equal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg1799.tlg010.1st1K-grc1.57.3",
+   "text": "But when the line from the eyes to the meeting of the diagonals is neither at right angles to the plane, nor equal to each of the lines drawn from the meeting to the angles of the square, nor contains equal angles with them, the diagonals will appear unequal. For we shall show the consequences in the same way as in the case of circles too."
+  }
+ ]
+}

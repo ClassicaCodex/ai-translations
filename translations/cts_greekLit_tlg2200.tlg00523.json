@@ -1,0 +1,415 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg2200.tlg00523",
+ "edition_urn": "urn:cts:greekLit:tlg2200.tlg00523.ai-claude",
+ "source_edition": "tlg2200.tlg00523.opp-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Declamatio 23: AI translation (Claude)",
+  "author": "Libanius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg2200.tlg00523.opp-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.1.head": "1.1: the printed page's list of manuscript sigla (H, V, Va, B, Par, Ma, P) and the line number '5' have intruded into the text and are omitted. 5: the clause 'if any of those active before me...' appears elliptical; '[was unfortunate]' is supplied from the context. 6: the opening ('Perhaps... beyond what befits me, Demosthenes son of Demosthenes of Paeania') is abrupt and may be lacunose; the sense supplied is tentative. 'ἵξω' read as 'ἔξω' ('beyond envy'). 9: the stray 'α' after <τοῦ> is a footnote mark; the genitives 'to die... and for an Attic tomb' depend on an implied word of longing, supplied in brackets. 10: 'Pity' (Eleos) refers to the Athenian Altar of Pity, here said to belong to Philip. 13: '[καὶ τοῖς πράγμασι]' is bracketed by the editor as suspect.",
+  "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.14.2": "Line 15 (14.2): '00 ἄνδρες' read as ὦ ἄνδρες. Line 23 (22.2): 'τῷ α καὶ πᾶν πᾶσιν ἐξεῖναι' is apparently corrupt (perhaps τῷ ἀεὶ or similar); translated as 'by virtue of everything being permitted to all'. Line 24 (24.1): 'ἐπεὶ μηδὲ τυραννίδες μηδὲ τριάκοντα' is elliptical; supplied '[did so]'. In 25.1 'Σόλων... ἐμάνη' refers to Solon's feigned madness over Salamis.",
+  "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.29.1": "29.1–30.1: 'ἴως' read as ἕως, 'ἦ' as ᾖ. 32.1: 'εἰπόντας <καὶ> νους' is defective; rendered as if <πολιτευσαμέ>νους. 'Plato's fear' presumably alludes to Plato's warnings about the danger of public life. 34.1: the clause 'καὶ οὐχ ἀφέστηκα χρόνον λυπῶ τοῦτον, ἀλλ’ ὃν ἐπολιτευόμην ἠδίκουν' appears corrupt; the rendering is conjectural. 36.1: 'ἀπολώλεκέν αἰ' read as ἀπολωλεκέναι. 37.1: 'συμμάχους ’σαι' is defective (an infinitive such as 'to win/gather' is lost); '#x003E; ἴως' read as <καὶ> ἕως; before 'Θετταλίας' a word such as ὑπὲρ seems lost. The remark 'not just, nor the act of a sane man' is ironic. 40.1: '00' read as ὦ.",
+  "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.40.2": "41: 'τῆνόν' is corrupt; the list (cf. Demosthenes) suggests Hieron Oros ('Sacred Mountain') or a similar Thracian fort; left as [...]. 'Give it back' alludes to the famous quibble over Halonnesus (didonai vs. apodidonai). 44: 'τιμῆς σης' read as 'τιμῆς πάσης' ('all honour'). 47: the clause after 'τὴν αὐτήν, ἣ <μήθ’ ὑμῖν> μήτε ληκε' is corrupt (perhaps 'which profits neither you nor me'); untranslated. 49: 'ὥσπερ πνεῦμα' rendered 'like a gust of wind'; the sense is uncertain. 51: 'τήγησεν' read as ἐστρατήγησεν, 'κιβιάδης' as Ἀλκιβιάδης, '<πέλιν>' as πάλιν.",
+  "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.53.1": "56.1: κιχρᾷ is odd; read as χρᾷ ('gives oracles'). 56.2: the final λόγους (repeating the previous sentence) looks corrupt, perhaps for λαβάς ('a hold'); translated by sense. 61.2: adapts the opening of Euripides' Hecuba. 62.1: 'make the trial on a Carian' is a proverb for risking something cheap. 67.1: the text's Βάτταλος is the nickname usually spelled Batalus. 68.1: the final clause is elliptical; rendering uncertain.",
+  "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.68.2": "Line 69: the Aeschylus quotation is corrupt as printed (σοῖς ἐν δ’ ἐμ νέοις); the sense 'stay still, quiet' is clear but the end of the line is not, marked [...]. Also in 69, ἄλλως γάρ· οὐκ ἔχεις ἀπελθεῖν εἰς Μακεδονίαν is obscure; rendered 'in vain: you cannot get away to Macedonia'. Line 77: the infinitive φέρειν lacks a governing verb; '[I resolved]' supplied. Line 81: 'not even a <decent> slave' echoes Demosthenes' gibe about Macedonia; words supplied. Line 82: ἐφείσθω is probably corrupt (perhaps for ἐφείσθω/ἐφεῖται, 'be left/permitted'); rendered accordingly. 'δώσω ... ἀρκοῦσαν' lacks a noun; '[land]' supplied. 'τοῦ δημηγορεῖν ἡττώμενος' taken as 'overcome by the love of addressing the people'. Line 78 'Ἐλευθέριον': taken as the altar of Zeus Eleutherios at Plataea. Timolaus, Theogeiton, Anemoetas are pro-Macedonian Thebans; Atrestidas an associate of Philip.",
+  "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.83.1": "The last line is a Latin editorial note in the edition, not part of Libanius' text; it is translated as given (a footnote mark '1)' omitted). §86 'that Lycurgus may be afraid at his friends' keeping silent' (τῷ τοὺς φίλους σιωπᾶν): the sense is obscure and the text may be corrupt. §89 'go mad, like Solon': alluding to Solon's feigned madness over Salamis."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.1.head",
+   "text": "XXIII."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.1.head2",
+   "text": "Demosthenes, surrendered to Philip and released, is publicly put on trial for not taking part in public affairs."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.1.head3",
+   "text": "<Demosthenes.>"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.1.1",
+   "text": "I for my part supposed, men of Athens, that for one who had experienced the most extreme dangers because of his meddlesomeness in speaking, nothing was safer than silence; but for me there was no way of escaping accusation, if not only was I surrendered by you while I was active in public life, but even after giving this up I am put on trial, so that I would need some new and third life, if there were one, besides those of private citizens and of orators, in both of which I am unfortunate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.2.1",
+   "text": "Unwillingly, then, and, by Zeus, very much distressed, I take up speaking. For some things I am pained to recall, others I fear, and others I weigh, lest something of what is not fitting to say now should escape me out of the habit of my old speeches. But Philip would not be aggrieved with anyone present when he learns of the compulsion [behind] these [words], for he will not be unaware of it; nor would he be, if for the most part I were forced into keeping no silence at times and in matters deserving silence, since he understands both my own fortune and that of everyone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.3.1",
+   "text": "At Philip's court, then, I suffered nothing terrible, although I greatly feared and expected it, and was perhaps deserving of punishment from him; and now too, facing you, I ask nothing great or difficult, but something paradoxical, yet true nonetheless: that you not prove any worse or more boorish than Philip, and not destroy me now, when you will not even be pleasing him by doing this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.4.1",
+   "text": "The matter of the speeches I am to deliver is also a perplexity for me because of the slanderer. For by throwing me into speeches about my public career he will force me to recall many things out of season; but if I shrink from this and keep silent, I will pass over the very things which it would have been good for me to have stopped long ago. As far as possible, then, I will try to do this without at least distressing anyone. And if I should seem to myself to speak somewhat worse than was once my custom, you must forgive me. For I have been silent a long time."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.4.2",
+   "text": "5. I entered public life after Eubulus and Aristophon and those who were well regarded at that time, persuaded either by goodwill toward the city or by some meddlesomeness and ambition, if one should not call it madness. And if any of those who were active in public life before me [was unfortunate], I too am unfortunate, since, though there were many fearful examples of undiluted goodwill toward the people, I nonetheless disregarded them all and was bold—not unaware of all that usually troubles those in public life: suspicion, rivalry, envy, slander, dangers, trials, demands for surrender—but gladly accepting on behalf of the Athenians whatever might befall me to suffer. And I was persuaded of this—perhaps being senseless, but I was persuaded nonetheless—that even if it had befallen some of those before me to reap some evil because of slander over public affairs, none of these things would happen [to me]. So great an abundance of trust in you did I have."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.6.1",
+   "text": "Perhaps, then, [it was] beyond what befits me, Demosthenes son of Demosthenes of Paeania; but once I had mounted the speaker's platform, though there were many posts in public life, I did not turn aside to the administration of finances and the profits to be had from it, nor to impeachments and denunciations and confiscating the property of others and distributing it to the people in order to seem to be gratifying them, nor to any other of the private matters and those beyond envy; rather I became an orator on Greek affairs themselves, taking up a burden greater than suited me, and perhaps also urging the city itself to strive for honour beyond its power. Yet I did not think that the Athenian people should look to anything else, or that their adviser should direct himself to anything else, than how we might preserve freedom and the leadership of the Greeks and the good reputation in which our ancestors left us. And indeed there was perhaps a time when these things seemed fine to all of you too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.7.1",
+   "text": "It was madness, then, even to devote oneself to public affairs when war and struggle had arisen against anyone else; but I, the most reckless of all, was carried away into quarrelling and making war even with Philip, and I persuaded the people, whenever I saw any public or Greek interest being diminished, to dare to act against the king—the noble and good, and Greek above all, and just Philip. For he is a Greek, a Greek, truly an Argive, a Temenid, a Heraclid. He shows this in deed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.8.1",
+   "text": "Many things, then, I said out of boldness and rashness that were unpleasant to him, but I was experiencing the passion of an orator and of a human being. He, for his part, was most formidable at capturing whatever he attacked and at mastering everything, but once he had captured and held [it], most reasonable and ready to give way to pity and humanity. Me, at any rate, when he demanded my surrender, he did not fail to obtain from you, and having received me he released me to you. Each of these turned out unexpectedly for me. For I would never have thought that I would be surrendered to suffer whatever Philip might decide, nor, if Philip should get me in his power, did I expect to find any safety."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.9.1",
+   "text": "I, then, went off as one who was to die, and was handed over by you to the Macedonians present; but pitied by Philip and meeting with his unexpected kindness, I did not stay in Macedonia, although it was possible and Philip urged me to stay—as I ought to have done—but out of love for the Athenians and for this land, [and longing] to die in it and for an Attic tomb, I have come back here against everyone's expectations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.10.1",
+   "text": "And perhaps, having been released, I ought to rejoice; but all considerations bid me keep the silence that befits those who have been captured, those who have been surrendered. For I seem to myself to be led away and surrendered even now, and to see Philip and to be speaking before him. For I have somehow not been freed from the shock of what happened, nor do I seem to be at Athens; rather Athens seems to me to be Philip's, and there his [altar of] Pity and its altar, while the speaker's platform seems to me no different from the Scythian wilderness and the sacrifices there, on which the speaker, gilt-horned and garlanded, must wait for the one who will sacrifice [him], whenever he approaches."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.10.2",
+   "text": "11. Let whoever wishes and is able strive for these things; but I am so far from beginning from this point to speak and to propose decrees and being fit for a second public career that I even regret my former one. And as things now stand, for every reason, everything is utterly impossible for me; or rather, I would no longer be anyone, nor would I seem to be to sensible people. For who am I, Demosthenes? Or what sort of Paeanian? Or what orator? Or what Athenian? Or who [am I] after the surrender and the escort? For that Demosthenes is dead, the one who proposed and spoke even when no one called him and no one asked; but I am the phantom of an orator who has ceased, and a herald of Macedonian humanity, and the shadow of that Demosthenes, having only so much voice as to praise Philip."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.12.1",
+   "text": "I meet with such complete paradoxes that by Philip I am saved, but among you I am in danger. Whatever I do or say and engage in public life, for this I am surrendered to the Macedonians. If I behave prudently and keep quiet, I am again impeached and put on trial. For since Philip did not wish [to destroy me], these men are destroying me. Where then shall I fly off to? Where shall I take refuge? To whom shall I turn, hemmed in on every side by so many evils?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.13.1",
+   "text": "It seems I shall now go to Philip of my own accord. For I have fallen in with so scheming and malicious an accuser and slanderer that he alone of all accusers ever wishes to destroy me while praising me, calling me a good citizen, a noble adviser, an admirable orator, and the only man well-disposed to the city [and to its affairs] and to all the Greeks, and the only one who has kept close track of affairs—as though he had not impeached me now but had proposed a golden crown. And at the same time he bids you condemn me for my virtue, just as if he had caught and were prosecuting the worst of the traitors of Greece. For he thinks that, having become credible through his unexpected praises, he will not seem to be doing this out of enmity; for how could one who bears such testimony to me not be fair in his other accusations?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.14.1",
+   "text": "But I ask you to believe neither, and not to accept these extravagant praises against us; or, by Zeus, if anyone considers that I have been such a citizen and adviser to the city and says that you must believe him, then, having believed him, to reason out this: that he who was good yesterday would surely not become wicked <today>, nor would he who out of goodwill toward you gave himself unreservedly to public affairs have willingly withdrawn from them for no plausible reason, but [only] because he had already become incapable, or thought he would no longer be of benefit to public life, or believed that there was no longer any opportunity for him in affairs. Or for what other just reason at all did he withdraw from public affairs and depart? For this is what it is reasonable and just to suppose about a man who has been active in public life for a long time and has displayed his goodwill toward the people by many great deeds—if the same man is speaking the truth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.14.2",
+   "text": "I think, men of Athens, that it is clear from the impeachment itself that I am not being tried justly. For I have been impeached like those who have committed the greatest crimes, and I am being tried with the trial of generals or orators or of anyone else who administers some public matter; yet I am accused of nothing other than this, that I have withdrawn from public life and meddle in none of the public affairs. How then is it possible that the people, which is wronged only by speakers and politicians, is wronged by me, who am now a private individual, who have taken over no forces, been entrusted with no money, no opportunities, no affairs, and, last of all, who do not even speak?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.16.1",
+   "text": "And here is proof (for, apart from the fact that by nature and by justice such charges belong not to private individuals but to those who hold power in public affairs): all who have ever been tried as wronging the city were orators, generals and ambassadors. Aristophon, Iphicrates, Pericles and Callistratus were brought before you because one had proposed something illegal, or deceived the people, or put forward a harmful motion; because one had lost ships; because one had lost certain revenues or cities, or had made the allies fewer instead of more while in command; because another had served as ambassador contrary to the decrees, or let slip opportunities for great or advantageous undertakings, or another had made inglorious treaties—each of which lies within the power of those active in public life and managing the people's business. But I [am tried] because I do not speak, do not propose, do not do the things by which one might do wrong."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.17.1",
+   "text": "So it is clear that I am being slandered not only because I am charged with nothing the same as or similar to what those who are customarily prosecuted in public suits are charged with, but also because I am prosecuted for having chosen the opposite course to those able to do you harm. For I alone of all men ever am being tried not for wrongs I do, but for things in which I do no wrong, because I chose that course by which it is not possible to do wrong even for those who wish to."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.17.2",
+   "text": "And yet Solon, the wisest of the Greeks and the most democratic of the Athenians, did not consider this compulsory as he did the other things—performing public services from one's property, serving in the army in person, and all the other duties incumbent on citizens in a democracy. For those he prescribed for each man to do, but speaking he left to each man's choice, according as he had the judgement and ability for it. Reasonably so. For he knew that a trierarch or a general serving unwillingly, or a soldier under orders, would do no harm because of the compulsion, but that one who speaks and proposes against his own judgement, whether he were brought to it while incapable or while averse, would certainly, engaging in public life out of ignorance or without goodwill, do wrong or do harm. Besides this, he knew that these men alone of all the city's affairs were eager for them, and more of them than were sufficient, so that, far from thinking fit to summon even the unwilling to speak, he thought it better, if it were possible, to remove some even of these."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.19.1",
+   "text": "Moreover, he thought that they ought to address the assembly because they themselves wanted to, not because they were summoned by you. For [he held] not that they did the people a favour by engaging in public life—the people, which surely lacks no men active in public life and vying for its favour, and which could itself at some time on its own do and think what is needed—but that the people, by granting them freedom of speech, raised them up and made them great instead of small and conspicuous instead of obscure, by using them as advisers. That is why he has the herald make the most democratic of proclamations: \"Who wishes to address the assembly?\", making clear that whoever does not wish to is under no compulsion. For where the law summons the man who is moved by his own judgement, setting wishing as the condition for speaking, the man who has no share in willing is himself released from speaking."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.19.2",
+   "text": "Solon, then, [ruled] thus; but this man orders a man to speak against his will and issues a counter-proclamation to the ancient proclamation. And yet what law is written against those who do not speak, as there is against those who evade military service? Not a single one. Indeed, if even the unwilling had to engage in public life, and there were going to be trials for those who do not speak, some penalty would also have been laid down for the man who has kept silent. Since, then, this is not so, each man is left free to decide whether to speak or not. For what a man has not been ordered to do, he has not been forbidden to leave undone either."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.19.3",
+   "text": "Further, who does not know that, though the Athenians are twenty thousand, most of them keep silent and stand aside from politics, and very few ever approach public affairs? So that if this is a just charge, one could not be too quick to prosecute the whole city. But if most men may keep silent, and you drag none of those who do not wish to manage public affairs, but to live quietly in private, into it against his will and by force, why on earth will you not grant me alone of all Athenians a share in this immunity and in the leniency that is common to all?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.22.1",
+   "text": "Having once been experienced in many affairs, I know that trials and suits have been brought against some because they engaged in public life wrongly, but no indictment ever for quietness against private individuals. On the contrary, one has seen even their way of life praised, and honours and power, like dangers too, belonging to those active in public life, while for private men who keep silent there is release from both of these and great safety in being unnoticed. This [safety] I ask that no one begrudge me either, now that I have become one of the many."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.22.2",
+   "text": "I should gladly ask the accuser: when I was active in public life, was there anyone at whose order I did these things, or did I choose them myself? He cannot say so. Therefore, just as I spoke, as I said, because it seemed good to me, by virtue of speaking being permitted to those who wish, so too I have ceased speaking and engaging in public life, and I am free of liability for this by virtue of everything being permitted to all."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.24.1",
+   "text": "Further, those whom you disfranchise you order to be silent, but you order no one, not even of wrongdoers, to speak against his judgement. And no wonder, since not even tyrannies nor the Thirty [did so]. Critias, at least, ordered Socrates to keep silent, but ordered no one to speak. One can also hear the poets saying at times that silence is a reward without danger. Yes, by Zeus, [someone will say,] but the people is accustomed to pardon one to whom it never occurred to speak in the first place, who was not able to do it and was never active in public life; whereas I, being an orator and having posted myself to this post, am thought to do wrong by withdrawing from public life—as though, if someone has taken up some activity and entered upon one of the professions, he must spend his whole life in it, and not only as long as he wishes and circumstances allow, when these things are set before free men [by choice]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.25.1",
+   "text": "And we know of many who came from philosophy to address the people, as they say the famous Alcibiades did, and of others who withdrew in the middle of their public careers; though I could name many such, I take Solon himself to suffice. For he, having not merely shared in public life like anyone else, but having himself established it and laid down the laws for the city and gone mad on your behalf—for Solon too went mad, as I did—when he saw fit, ceased from this way of life, went away, wandered, and occupied himself with other things. Who then put him on trial for leaving public life? Not a single one."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.26.1",
+   "text": "And who ordered him to continue for the rest of his life in all the things he had begun of his own accord? For nothing would be more servile than public life, if those who had taken it up could never be released from it, but had to remain in it like those who have fallen into prison. And yet, if even prisoners have some release and slaves some manumission, surely those active in public life are not compelled to preside over an endless occupation; rather, it is fine, as with mysteries, to take part and depart, and, having been initiated in the people's mysteries, to allow certain others after oneself to attend the rite."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.27.1",
+   "text": "I see too that athletes who have competed at Olympia or in any other of the crowned games do not, because they competed before, incur an added compulsion to remain someone competing for all time; rather, Milo too stopped, and Polydamas gave up his training. So let old age, a change of <circumstances>, and great failures stop the city's athletes too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.27.2",
+   "text": "In general, nothing useful comes to you from the orators. For it is not they who till the land for you or sail the sea, nor do they toil at the crafts necessary for life, nor is the city made splendid by their property taxes and choregies, nor is it kept safe by their arms. An idle tribe, meddlesome, chattering and unsoldierly—cowards, braggarts, quarrelsome and warmongering, filling everything with shouting and uproar, but void of sense and of necessary reasoning; tongues only, and if one took these away from them, as [the reed] from pipes, the rest of them is nothing but words and shadows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.29.1",
+   "text": "And what good comes of my speeches, or those of any other orator? Whenever they happen to, they have climbed up and rebuked you and praised your ancestors. They have lifted you up and puffed you out and come down, and on the occasions when they gave the best advice and took no bribes, or said something out of enmity or favour, they did even greater harm. That is what orators are; nothing sound or good. And what great need is there of orators for deciding what must be done? For the people itself is best at this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.30.1",
+   "text": "And which of the Athenians has no share in the ability to speak, as long as it is honourable, and not a source of contract-jobbing and a trade? What Athenian is not an orator? And the speakers themselves, is it not you who make them, training them and welcoming them? What could be more harmful and more wicked for the city than orators? Did you not yourselves recently come to this judgement, when you surrendered the man thought to be their leader and gladly cast him off from you? So whoever is an orator active in public life aims at public affairs with ill will and does not understand your verdict. Now that they perceive it, it would be time for the other orators too to stop, having troubled you for a long time."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.30.2",
+   "text": "31. But if anyone does not suppose this to be so, but holds that the man able to speak and active in public life is both useful and honourable to the city, let him show this very thing and persuade by speaking. Yet I say that you have had enough of this trial too from me. I have been among you, and good in public life, while you put up with it, for a long time. And it is reasonable that those active in public life should also rest in turn, like those who perform liturgies, pay property taxes and serve in the army, whom you do not keep toiling forever; rather, a man pays his tax and then rests, having performed his liturgy, and these things are no longer demanded of him by you. A man who has served the campaigns due at his age is released from the muster-rolls for the future."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.32.1",
+   "text": "So too, then, counsellors and orators, when they have spoken and [been active in public life] enough, ought then to be let go. Speeches have been made, decrees proposed, embassies served, laws enacted, addresses delivered to the people, public business done, taxes paid. How long must I do these things? I wish, men of Athens, that I had chosen from the start the life of Isocrates or Isaeus, my teachers, or of some other of the blessed sophists, in which I would have lived in quiet and calm for the time before too, pursuing philosophy by myself and reading the character of the people, how it is the most unstable thing of all, like the sea, unsteady by nature, stirred by all the winds that fall upon it. But since either a god or some penalty led me otherwise into these things, I did not even fear Plato's fear, but was active in public life among you sufficiently; I have grown old, I have toiled."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.33.1",
+   "text": "O speaker's platform, and labours and wanderings and journeys and long anxieties, and Arcadia and Boeotia and Thessaly and Thermopylae and the guard-posts of Greece, over which we have suffered hardship from youth to my present age! What wrong do I do, then, by the gods, if I wish to live this short time that remains by myself? Chares is not always general, nor does Diopeithes always sail out, nor is Menelaus <always> cavalry commander; these things go by succession. And it is right for public life to be so too. For if the matter is like a liturgy, it is not fair always to wear out the same man; and if it is an honour and a power, it is just, as in the magistracies, for some to step aside for others, so that all in rotation may enjoy this advantage."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.34.1",
+   "text": "So it would be reasonable that, just as you release the comic and tragic poets who beg off and do not wish to present a chorus, you should also allow me to keep quiet, especially after a recent labour, that long and great drama. And indeed I can always justly say this to you: if I conducted a public life that was foolish or useless or criminal or harmful, you have had enough of my ignorance or harm or whatever it is, and if I do not withdraw, I grieve you not for the time when I was active, but I would be wronging you now; but if I showed it to be just and advantageous, you have enjoyed enough of my zeal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.35.1",
+   "text": "Besides this, I did not keep to one manner, like those active in public life before me, offering myself eager for that alone—speaking but not proposing decrees, proposing decrees but not serving on embassies—so that if you failed anywhere, I might shift the blame onto the other parts I had no share in and, speaking of those parts of public life, accuse them; rather, I have been tested in the whole of public life, proposing decrees, serving on embassies, which is precisely what has plainly ruined me."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.36.1",
+   "text": "Yet there is no part or form of public life left idle or untried by me, so that, being unable to help in any of these, or not suited by nature to them, I might justly seem to have ruined everything for the people. For the Metroön is full of my decrees and laws, the harbours full of trierarchs and ships, and Athena's Acropolis full of my crowns, with which the allies crowned you as a result of my public life."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.37.1",
+   "text": "Greece and the barbarian land are by now full of my expeditions, embassies and actions. For what is there on your behalf that has not been said by me, and what not proposed for your sake? It was necessary to run to Arcadia: I ran. To go on embassy to Thebes: it has been done. To help the Greeks in Thrace: I proposed it. To rescue those in the Chersonese: it has been said. To save Byzantium and Perinthus: I have achieved it. To demand back Amphipolis and Halonnesus: <I demanded them>. To [win] allies: I went as far as the Leucadians and Corcyraeans and Peloponnesians, <and> as far as the King himself. To speak [on behalf of] Thessaly, on behalf of Euboea, on behalf of the Phocians and the pass and Thermopylae—not just, of course, nor the act of a sane man, but marked by great madness. Yet these too were shouted aloud among you. But to set a guard on the Hellespont and to see to the trading-posts and the grain convoys: this too was handled by me. But to discuss relations with the King, to raise the matter of contributions or revenues: I have gone through all of these. About the peace: you know. About the decrees of the Amphictyons: you heard. About the kings in Thrace, and about affairs in the Chersonese, and the islands, and the trierarchies and the joint contributions: it has been said, proposed, carried out in public life, about land, about sea."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.38.1",
+   "text": "For my part I think I have completed the whole of public life and have no new speech to make. Further, if those things too were parts of public life which lie outside speaking and proposing, but add lustre to the popular leader and show his goodwill—banquets, distributions of meat, handouts, choregies, trierarchies, helping to dower daughters, ransoming of prisoners—these too I displayed no less than any man of moderate means."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.38.2",
+   "text": "39. So let it have an end; and just as a man's life is stopped by death, in the same way, men of Athens, let the end of my public life be fixed by the decree of surrender. Or I would be the most shameless of all men if I still came forward before those who have condemned me and dared to look the people in the face, as if I had drunk mandrake and slept a long sleep after what has happened."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.40.1",
+   "text": "I may perhaps have been worse for you than another in other respects, but no one could take this from me: understanding the people's mind. I realised I was hated and condemned. For it was not out of praise or love <for me> that you surrendered me to Philip, nor was I being destroyed because I was a good adviser, but because I was meddlesome, untimely, rash, maliciously praising your ancestors; because I made war, because I did not let you keep quiet, because I opposed peace and the fine decrees about it, and was a cause of faction and dangers and wars; because, while the others spoke words of good omen and feasted you from your own property and let you sit at home, bidding you not help any other of the Greeks who had not helped you first, and bidding you dismiss trophies and sea-battles, calling them nonsense and fables, I caused you grief and gave you trouble, crying out against the people: 'You have abandoned, men of Athens, the post at which your ancestors left you, and have taken up the post of the Dolopians and Thessalians instead of that of the Athenians, helping the barbarians to acquire rule and power, and allowing them to plunder, to hack at, to break into, and to mutilate the body of Greece.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.40.2",
+   "text": "41. So I was rightly surrendered. Philip was justified in taking Olynthus and in wiping thirty-two cities from among men. What then did you care about those inside Thermopylae? And how was it not meddling for me to be indignant about matters which Euthycrates and Lasthenes, who were Olynthians, conceded? Amphipolis was being lost, but Oropus was being given in exchange. He was giving Halonnesus, and I, small-minded as I am, insisted that he 'give it back'. And so I learned what it is to make war over syllables. He overran the Chersonese, for it did not belong to us any more than to him. Cersobleptes was excluded from the treaty. So the Athenians had to suffer hardship on behalf of the Thracians! <He took> Serrium and Doriscus and [...] and Ganos and the territory of Ganias. And then we rise up on behalf of these places whose very names we do not know!"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.42.1",
+   "text": "He seized Laomedon, but he let him go. There have been massacres in Elis, but not in Athens. He has destroyed the Phocians: that is for Onomarchus to care about, for Phayllus to care about. He stands three or four days' march from Attica. He has occupied Elatea, but not Panactum, nor Decelea, nor Oenoe. He took the sacred trireme from Marathon and went off with it: so Philip is to take no trireme at all! He attacks Megara: the Megarians deserve to be destroyed. He besieges Byzantium: the Byzantines deserve to suffer anything."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.42.2",
+   "text": "43. But I did not let or allow either you or the other Greeks to keep quiet. And so, how many troubles you reaped from my public life—why even speak of them—paying war-taxes, marching out, embarking on ships? And I myself was going to pay the penalty for this great meddlesomeness. For I was not banished by ostracism like Aristides, nor imprisoned like Miltiades, nor fined like Pericles, nor prosecuted like Alcibiades, nor convicted like Themistocles, nor exiled like Callistratus. Various misfortunes have befallen at various times those who were active in public life before me. Of these I am ignorant of none; but just as those who have seen many wrecks of ships sailing past cast up on the shores and the harbours from which they will have to put out still dare to sail, so I too, knowing the falls of men in public life, set sail and launched myself onto the sea of public life. But I was surrendered, wretched, crying out for Solon, calling the laws to witness, and invoking the gods as I looked towards the Acropolis. I was handed over to those who had come from Macedonia, dragged down from the speaker's platform. At this the people did not cover their faces, but I sank down and was gone."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.42.3",
+   "text": "44. You, then, men of Athens, I praise on every count: both for casting the vote deserved by my public conduct, and for understanding the moment and yielding and giving way to the one who is stronger than all of you together, and further for making no objection to one who is worthy of all gratitude and honour for his excellence and humanity; but I would be the most ignorant of men if even now I did not know myself. The disfranchised may not speak. Who, then, is more disfranchised than a man condemned, a man surrendered to those who demanded him? Slaves have no share in public life. But I am Philip's slave. And though I am a slave, I am not ashamed, having great cities as fellow-slaves under a great master and bowing to a master together with whole peoples—with the Chalcidians, with the Olynthians, with the Thebans, with the Thessalians and with still greater ones; I am a fellow-slave of Greece. Yet all the same I remember your laws, as one remembers dreams."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.45.1",
+   "text": "How then should a man more disfranchised than Pittalacus, and the favourite of a Macedonian master, dare to address the people? You do not let even public debtors speak, but you rope them off too, order them to be silent, and post their names on a pillar. But I have been posted on a pillar not only in your decrees but also in the opinion of all who know both me and the Athenian people; and I owe you a debt not such as Aristogeiton owed, or any other of those registered, but chains and wounds and the utmost outrages to the body, which are heavier even than death. For these and things like them are what I was surrendered by you to suffer; and having not suffered them, against everyone's expectations, but been released, I would owe them to those who have not obtained what they demanded and expected."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.46.1",
+   "text": "So the law on debtors also bars me from speaking. And to put it simply: if I was surrendered because I did wrong and was a bad adviser, then I have my penalty, and what need do you have of such an orator again? But if I was unfortunate, how should I be bold, and, when Fortune has led me off the speaker's platform, contend with the divinity? For in addition to everything else this too has happened to me: I have no experience of any other kind of public life, such as that concerned with administration or with the law courts, but I have always yielded these occupations to others; and the one to which alone I was posted, the Greek cause, was the one for which I was being destroyed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.47.1",
+   "text": "So I could not move over and take up some other kind of public life, for I do not know it, nor the same one, which [...]. For you might consider it this way, men of Athens: that you surrendered me although I was well-disposed and destroyed an adviser who served your interests. Then the people is ungrateful and wicked. But it is not such, nor may it ever become so. Rather, I was led off because I deserved it. How then is it possible to judge the same man deserving both of surrender and of public life? No, that is not how it is; rather, as is likely, you saw an excess of great wrongs and much wickedness or harm in my public acts, and without hesitating you at once voted that I be handed over as one liable to seizure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.48.1",
+   "text": "This was done by the good people, those accustomed to pity strangers, those who respect suppliants, among whom there is an altar of Pity, those who weep at the misfortunes of others, <those> who cannot even bear such plays as show Greeks captured by barbarians. But me you handed over without a tear, as I lamented: 'Kill me yourselves, give me a share of Attic earth, bury me with the dead at Chaeronea!' For I did not know what the character of the Macedonians was, but I feared the good Philip. So, though I was disregarded and found no pity from you, I justly reckon this not to your callousness but to my own derangement and ill fortune."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.49.1",
+   "text": "You, then, perhaps out of good nature and humanity have forgotten what you decided, since not bearing grudges is ancestral with you; but these things are inscribed on my soul, and bridled tightly by the memories of my own sufferings, I keep silent. For I am certainly not one of those turncoat orators who are absent if anything good happens, and present again if something bad befalls, like ruptures and sprains; nor do I keep silent while the city prospers and then, waiting until some disaster is reported, rise up like a gust of wind and shout. For neither are you now in any good state, nor am I one of those who conduct public life on such a cycle; but it is shameful and dishonourable for the people that the disfranchised, the captives of the Macedonians, should speak, and for me it is impossible for the future."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.49.2",
+   "text": "50. And indeed I have already said more than was needed, enough even for ten lifetimes of an orator. And once, when everyone was silent after that fearful evening and the messenger from Phocis, when the crisis and the danger were calling everyone, and the herald was asking 'Who wishes to speak?', and no one wished to or dared, I alone spoke, I who alone was surrendered—not rightly or sensibly even then, but still, it was said."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.51.1",
+   "text": "In return for so much said, I ask that the present quiet be granted to me. For as far as you are concerned I am out of the way, and I live and go about by the favour and humanity of Philip. Still, since I have come back to the same city, I must not be thought to be the same man. And let no one say this to me: 'Aristides served as general after his return.' For you did not surrender Aristides. 'Alcibiades again took part in public life among you.' For you did not send Alcibiades to Sparta. 'Cimon too served as general after his exile.' For it was not Philip who released him. But I, surrendered unexpectedly and released still more unexpectedly, will, if I am not prudent, come to grief sooner now than before."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.52.1",
+   "text": "So do not bid me address the people as though I had returned from a journey abroad, or a command, or some other exile, but let me remember where I have come from. For neither did you send me foreseeing these outcomes, but to an angry and harsh Philip, while Aeschines rejoiced, Demades laughed, and the other orators shouted among you: 'There it is! The fellow is gone! Demosthenes is finished!' Nor did he send me back here for public life and speeches; <for> be sure that I would be active in public life even without your calling me, if Philip had ordered me to."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.53.1",
+   "text": "Of the things Philip has discussed with me, some can be spoken, and you will hear them when I reach that point in my speech; but those that cannot be told I shall keep silent, whatever happens, even if Dercylus brings some fresh news, even if Hierax of Amphipolis and Stratocles arrive, and Cleitarchus from Eretria, even if the Thessalians send information, even if the Byzantines call on us, even if the Thebans beg, even if Python comes and pours out his flow. I shall pursue only that kind of public life: I shall court the Macedonians staying in town, I shall entertain the guests from there, I shall hire carriages and allot seats at the show, I shall put down purple rugs, and I shall ask Hyperides to draft my decrees for me."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.54.1",
+   "text": "Such is the public life that Opportunity puts upon me, such the character that Fortune gives me, such the Demosthenes you have made. For whatever the circumstances of men are, such too must their spirit be. So just as those who run the double race must look back, so I too must look towards Macedonia, since even when I was being taken from here to there, I kept looking back towards the Athenians."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.54.2",
+   "text": "55. Do not expect the orators of the Macedonians to take part in public life against their will. For it would not benefit you either to call an unwilling man to affairs and force him to speak against his judgement, since everyone is at his worst in what he is compelled to do; so do not stir me when I lie at rest, do not knock at me when I am silent, do not raise me up from the ground. Why do you open a mouth that is shut? Why do you loosen a tongue that is bound? Philip did not release me whole or entire. Mutilated as I am, I seem to talk too grandly for my present fortunes and to compare myself with my betters. I have come back from Philip in bonds."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.56.1",
+   "text": "You see, then, my man, how the oracles at one time give responses and speak, and at another hold back and are silent, and those who need an oracle bear this divine silence. Do not shake me either, do not stir me in vain. I do not mount the tripod of the speaker's platform, nor do I prophesy. The divine breath in me has been quenched. I am empty of the god. He left me from that day. And if you force me, I shall utter fabrications like a lying Pythia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.56.2",
+   "text": "57. Since nothing more will come of it for you, and less for me if I give way, what is this meddlesome and idle passion for it that besets some people? For them not even these many words of mine, perhaps themselves bold, are enough, but they ask further: 'Why are you silent, Demosthenes?', as though they had come down from Persia and knew nothing of what all mankind knows. For it seems that, since I do not speak, there must at least be speeches about my silence. So eager are some to get a hold on me."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.56.3",
+   "text": "58. I have many compelling reasons and considerations, from my feelings and from reasoning alike, to give; I shall state the first, and you must believe it. Before, I was somehow carried even against my will, and like lovers mostly of my own accord, to the doors of the people; but now no such passion rouses me or draws me to you. And whoever comes to the assembly or the council-chamber without madness, whether of love or of politics, is slack and ineffective, both himself and his policies."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.59.1",
+   "text": "Next, I am worn out and grown old. For I entered public life as a youth, and I have lived on the speaker's platform up to the age you see. The mind and manner of the vigorous and <of> the old are not the same; the spirit of the latter is duller, and their speeches less manly. So it is right for me, past my prime and withered as I am, to keep quiet and to hand over the weapons of public life to younger and more vigorous men. Or rather, if I must speak without holding anything back, I died by that decree; I have given up my political soul; my reputation is gone; my spirit lies prostrate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.60.1",
+   "text": "I say nothing strange: just as you have seen many people struck by thunder fall silent, who, stunned by the shock of the noise and the greatness of the fear, became speechless once their breath had failed or frozen, or whatever it is that happens, so I too have been stunned. I have suffered the same thing. I became speechless from the Macedonian thunder, before which I saw the people too trembling and bowing down."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.61.1",
+   "text": "So let no one bid me speak, any more than that Olympian Pericles, or Alcibiades, or my own namesake, as if I had come back to life; for I have not come back to life, as I seem to, but I drift aimlessly and wander about from longing for the land, as the souls of the newly dead linger fondly around their familiar bodies. Have you ever watched a phantom in a play, a tragic shade? My case now is something of that kind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.61.2",
+   "text": "'I have come, leaving the hiding-place and the gates of darkness,' to which the great-hearted people of the Athenians sent me, to see Athens and to hear those who address the people."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.62.1",
+   "text": "Oh, what a talkative, meddlesome corpse, since even this is not enough! Am I now to address the people again? Saying what? Proposing what? The same as before? But I wish I had not proposed even those. The opposite of those? But I could not. I do not again so fear Philip or love the Macedonians. What do you bid me say or propose? Whatever seems to be lacking, you surely know it yourself. Then why do <you> not say or propose it, instead of making the trial on me, as if on some Carian?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.62.2",
+   "text": "63. I shall say something meddlesome, and bolder than suits my present mind and fortune, but let it be said all the same. I see nothing left about which anyone will engage in public life. For the Olynthians? They have been razed. For the Chalcidians? They have been captured. For the places in Thrace? They have a master. For Halonnesus? It is held. For Amphipolis? It has been passed by. For the Chersonese? It has been seized. For the Peloponnese? The Corinthians agree, the Spartans are silent. For the sea? It is sailed around securely. For the grain convoys? Philip, who did not begrudge me my safety, will not begrudge you your food. For Thessaly, then, which he has passed through? For the Phocians? Philip is already an Amphictyon. For the Theban alliance? What need is there any more of wars and armies, when you obey Philip in everything he orders <and> already abide by his letters?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.64.1",
+   "text": "Must one engage in public life for the laws? What laws? Solon is abroad. He sits in Egypt and Phoenicia. For the walls, then, that I once repaired? What need is there of them, when Philip can persuade you? For freedom, an empty name? For safety, which is mankind's last possession? But I see that this too is secure for all, thanks to Philip's humanity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.65.1",
+   "text": "What am I to propose? Whom to help? All are Philip's. Whom to summon? No one comes to you any more. For war, then? Heaven forbid. Indeed I would deserve to have my hand cut off with an axe and to bite off my tongue before uttering such a speech or proposing any such decree. For peace, then? But he made a truce not only with you yourselves; we swore it for our descendants too, so that our heirs as well, if indeed they wish to keep their oaths, will share in these blessings."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.65.2",
+   "text": "66. So nearly everything for which one might have engaged in public life has been used up, and the present time partakes of the greatest inactivity. So it is not I who am remarkable for not approaching the speaker's platform, but those who pretend to be active in public life. What on earth do they say or propose, when all affairs have ended in such quiet? What one might say and propose now could be done by going and announcing it: to send a sacred embassy to Antipater's Pythian games, to send and invite the king to the Mysteries. Let Aeschines speak it, let Demades propose it. And if someone from Macedonia is needed, it suits Aristodemus or Neoptolemus. I yield to the actors of this kind of public life. As for me, I do not dare even this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.67.1",
+   "text": "Yet it is not now for the first time that you will learn of my cowardice. You have long heard people saying: 'Batalus is soft'; but then I was not like that, men of Athens, but a kind of mad Ajax. So I did not withdraw until I had killed myself out of public life; but now I am truly spiritless, timid, a simple Batalus. Now I drink water, now I am sober and prudent; but then, drunk with ambition, I did not understand."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.68.1",
+   "text": "Why do you call me? Once you cast me off, once you banished me beyond the borders. I am no longer yours, and no one uses a slave he has sold. I am Philip's now, Philip's alone. How am I even to propose? Styling myself as what and whom now? 'Demosthenes son of Demosthenes, of Paeania'? I would be lying; rather, 'Demosthenes, Philip's man, from the Macedonians.' Why, then, does Python not come and take part in public life? How shall I go as envoy to the Greeks, the spectators of my surrender? Did I escape notice? Was I unknown? Everyone saw it. The Persian king heard of it. At which they say he was even angry, saying: 'They did not give us earth and water, <and> yet they begrudge [it] to Philip.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.68.2",
+   "text": "69. After this he says: 'Speak, Demosthenes,' as if testing whether Philip had cut out my tongue. But I not only say nothing; even when I hear the others speaking, I weep and keep silent. I check my tongue when it moves, and a word that had rashly escaped me I have at once held back, and I often say to myself the line of Aeschylus: 'Stay still, wretched one, quiet among your [...].' And once already, rising in a dream to address the people, I reproached my soul: 'Are you not yet sensible? Why do you wander? Why do you fancy things, unhappy one? It is in vain: you cannot get away to Macedonia.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.70.1",
+   "text": "Yet now, at least, I will not keep wholly silent about my dealings with you. The Athenians are here. Let a speech of Demosthenes be brought into the open. The audience must not gather for the poet to no purpose. I will put on a drama, truly. I have a speech fit for me to deliver, an Attic drama, a Macedonian drama, not Euripides' Archelaus but Demosthenes' Philip, and one, as it were, fit for the other orators to hear as well. Where is Hyperides? Where is Lycurgus? Where is Diotimus? Where is Hegesippus? Where are the rest, once my band of revellers and my chorus?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.71.1",
+   "text": "Listen, orators, and pay attention. For it is worthy, worthy even of 〈your〉 virtue, that it not be passed over in silence, for Philip's sake. Let not a great and noble deed of his go unnoticed. When you handed me over, silent and despondent, as was fitting, to the bodyguards from Macedonia, and in the sight of you all I was dragged beneath the Acropolis, past Aristogeiton, past the altar of Pity, this you saw: how, silent and downcast, I looked around at the city, did reverence to the altars, kissed the gates, and said: 'Farewell, fair Athens, and produce another Demosthenes.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.72.1",
+   "text": "I came to Eleusis under guard, begging for death, seeking a sword or a noose or poison. 'O Critias and the Thirty,' I said to myself, 'happy was Theramenes, happy those who drank the hemlock and died in Athens; but I am dragged to Macedonia with both hands bound, so that I cannot even furnish from my own hand any contribution towards freedom.' I called the goddesses to witness, and looking at Salamis I called on Themistocles, saying: 'You Fortune sent to the barbarians after the sea [battle], but I go away against my will.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.73.1",
+   "text": "I was led through Boeotia, the Macedonians displaying me to the cities as a trophy over Greece. I groaned as I passed the [altar of Zeus] the Liberator at Plataea. I reviled Chaeronea, for I had not fallen there with the brave thousand. And when we came to Thebes itself, I begged those leading me to cover my face and not show me to the Thebans as Philip's captive, led off as a prisoner, me, the envoy, who had made a solemn address among them; but they deliberately led me around, and with them Timolaus, Theogeiton, Anemoetas. They kept saying: 'See Demosthenes, see the man who advised war against Philip. He has been surrendered by the Athenians. You will not be afraid. He will be silent.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.74.1",
+   "text": "Some of the Delphians saw me and grieved. And I asked the Pythian [god] whether this is the prize for free speech, but someone said: 'Lead Philip to the president of the games, for he has won Demosthenes, as one of the dedications.' After this I was led through Phocis. Those who had been dispersed from their towns came and ran together. Wretched women and children and old men came. We wept together with one another. Many are the cliffs of Phocis, but I was closely guarded. I became a spectacle for the Thessalians too, the lawless Thessalians; but not even they remembered anything like this having happened among them. I kept meeting the populace in crowds, gathered by the rumour for the extraordinary spectacle. I passed the tyrants' houses, Halus, Larisa, Pharsalus, an old man in chains, hearing of the punishments I was expected to pay."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.75.1",
+   "text": "Such was the procession in which I was paraded, as though through an empty land, within and beyond the gates of Greece. In Thebes some nodded to me to flee and sit down as a suppliant. But I for my part was not willing to supplicate Ismenian Apollo or Heracles after Athena. When we came to Macedonia itself, all rejoiced and clapped, as at a great victory celebration, as though they held Olynthus, Amphipolis, Thebes, Athens. All pointed me out to one another, to children and women: 'This is Demosthenes. We shall toil no more. We shall run risks no more. Let us lay down our arms. He is ours.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.76.1",
+   "text": "Then at last I was in Pella, but much fear still attended me, and in my expectations I suffered everything that I could suffer at the hands of those with power over me. I looked around at chains, outrages, every kind of torture, swords and Macedonian battle-axes. I thought someone would cut out my tongue. So straightaway, thinking of these things, I was full of every evil. Fear is harder than experience of suffering, because suffering is brief and ends with a swift turn, but dread, hanging over what is to come, is felt for a longer time."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.77.1",
+   "text": "And the suffering is terrible, but [I resolved] to bear it, encouraging myself and saying to my own soul: 'I am an Athenian, I am Demosthenes. Come, how decorously, how nobly! For all men an end is inevitable; nature threatens death, and there is no escaping the common necessity, not even hidden away within the tightest enclosures; but it befits good men to hold fast to lofty hope and gladly to accept whatever seems good to god.' Having philosophised thus, I was led in to Philip himself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.77.2",
+   "text": "78. What audience, men of Athens, do you think was ever so earnest? Was ever such a Dionysia held among you? Philip himself sat in majesty, beside him stood his noble son Alexander, and present were the good Olympias, and foreigners and foot-companions and bodyguards, and a great crowd of the Macedonians themselves, and a great crowd of others staying there on embassy or for a musical display or for mercenary service, Greeks and barbarians. For Illyrians and Paeonians and Triballians ran together to see Demosthenes a captive. There was deep silence and a jostling of the other spectators."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.79.1",
+   "text": "Into such an audience, men of Athens, you sent me; but I was not afraid, I was not struck dumb, as when I met Philip on embassy; but raising my head I said: 'I have come, king, both willingly and unwillingly, to your doors, gladly given to you by the Athenians, I who of all Greeks have done your house the most harm by speaking and proposing.' The opening of Themistocles suited me. 'I pursued this policy on behalf of my own fatherland and the rest of Greece. If with just virtue I struggled alongside my own people, and not simply in making war on you, I ask that pardon be granted me according to the law of good men. Now I am yours: take me and use me.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.80.1",
+   "text": "He replied with nothing coarser or more bitter; Philip was no barbarian, he was no tyrant (may I perish miserably, what a man I used to revile, or rather, I was perishing), but [answered] royally and magnificently, dearest Aeschines, for hear how he reproached some things and refuted others, but did no harm: 'Greetings, Demosthenes,' he said. 'What is this? How have you come? Who sent you? Have you come as an envoy? To demand Amphipolis back? To trouble us again? But have the Athenians surrendered you? The people you shouted for? The people for whom you made war on us? What good did Marathon do you? Or Salamis? Or the decrees for the Chalcidians, or those for the Byzantines and the Phocians? Or the long public speeches? Or the expeditions and trierarchies and your many political measures?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.81.1",
+   "text": "Were you not ashamed to quarrel with me for the sake of the ungrateful Athenians? You have come to Macedonia, to Pella, from where [one could] not [buy] even a <decent> slave. The Athenian people have given you to me. What shall I do to you? How shall I treat you? As a tyrant, as a brigand? I am not such as you used to say. I will not mix you with the Olynthian captives, nor count you among those taken at Chaeronea, nor give you as a favour to Atrestidas or any of my foreign friends. Shall I cut out your tongue? It is the work of a Thracian tyrant to destroy an Attic tongue; but I, even if I am angry with you, love your speeches, and I praise that lisping tongue of yours above that of Aeschines and Demades. Then shall I kill you and become like the Athenians? Take heart. You would suffer no harm from us."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.82.1",
+   "text": "But since I have shown you this, that you are ours and could never escape my power, I release you. If, then, you wish to remain in Macedonia, you have many fellow citizens with us: Aristodemus, Callias, the son of Phrynon. I give you a house too. <And> I will give you sufficient [land] among us as well, and you will be great with me, like Python, like Charidemus, like other foreigners. I hand Alexander over to you as a pupil. Educate my son for me together with Aristotle. And if you are still overcome by the love of addressing the people, you will go as envoy on our behalf to Thessaly, to Boeotia, to Arcadia, to Thebes, to Athens itself, if you wish. But if you go off somewhere else, remember where you are leaving from, and who is releasing you. I did not begrudge you safety; let it be left to you, too, to keep yourself safe.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.83.1",
+   "text": "I stood there weeping and looked at the ground. And he said, 'You lover of Athens, you wretched man, it is plain you are looking towards Athens. Go away, then, but as mine, but as one of the Macedonians even there. Do not make me need a second letter; and you, write to us.' O the good king, O the wonderful Philip, what a final word he added: 'If you wish, Demosthenes, be active in public life too. For you surely know how you must conduct your public life.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.84.1",
+   "text": "Then he called Antipater and Parmenion and handed me over to them, to receive care and comfort; and in everything else too he treated me gently, kindly and in a friendly way. He took me round, showed me his forces, his preparations. Some things he asked, some he examined, and some he related."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.85.1",
+   "text": "How fine and pleasant Philip is in everything, how clever at a drinking party, how good his memory, how generous! What great thing was it to give Apollophanes' daughters to Aristodemus? He released Demosthenes. He also freed for me some of those taken at Chaeronea. I wish I were still with him, I wish I lived in Macedonia. But now I have got away from there so as to say nothing even there, and here I have trouble? O the boorishness, O the violence! One may not keep silent at Athens, one may not die among you without trouble. I am among the foreigners, I am a resident alien, once an Athenian, but now a Macedonian."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.85.2",
+   "text": "Are you not afraid, slanderer, of a friend of Philip, or rather a slave? Shall I write to my master about this? I am no spy nor meddling foreigner, but a man hopelessly in love, one who loves even unjust Athens. But if my love causes any pain, I will go away to Macedonia. Why do you begrudge me? Why do you meddle? Why do you tell me to speak as someone fresh from Macedonia? As one who has seen more? One thing I saw, one thing I know, one thing I say: Philip is a lover of Athens. Why do you make me ungrateful, why bold, why shameless, why impious? Am I to pay this as ransom to Philip? I came here on condition of silence. This I promised of my own accord, even though Philip did not order it. I live here as a herald of Philip's humanity, and I go about as a trophy of a kind that only Macedonians are accustomed to set up."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.85.3",
+   "text": "86. So I will say nothing, but I will be seen by those who speak. Let anyone address the people looking at me. What do you think? Do I bear it easily? Do I enjoy keeping silent? I weep when the prytaneis convene an assembly, and I am pained going about with the disfranchised. I sit groaning at the top of the theatre, and when I hear the herald proclaiming, 'Who wishes to speak?', I go down and run off, so that the proclamation may not lure me on. And, by Zeus, I go up to the assemblies for no other reason than that Hyperides, seeing me, may behave with restraint, and that Lycurgus may be afraid at his friends' keeping silent; but I say nothing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.87.1",
+   "text": "O master Philip, you are present everywhere and you see everywhere, and you hear everything, above all what happens among the Athenians. Nor do I keep silent myself while prompting others with speeches and decrees; no, I keep more silent than captured nightingales. For a slave ought not to speak as an orator."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.88.1",
+   "text": "And I know myself too. I am not a safe orator. I am afraid that in speaking I may make a mistake, or that something rather bold may slip out unnoticed while I address the people. It is not possible either for a man being cut not to groan, or for a man bidden by you not to speak. Besides, I fear the habit of my own tongue. I was trained in other speeches. If I slip into those now too, I am lost again. So let me keep silent for good. If anyone out of love desires to hear me address the people again, let him spare a slave. He has these old decrees of mine, speeches lying in the public archive. Let him read those speeches. But if anyone is present who hates me, he has taken sufficient vengeance on me. He surrendered [me], he destroyed [me]. And indeed, what punishment is greater than this? Demosthenes the public speaker is silent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.88.2",
+   "text": "89. Someone tells me to take heart, since, whatever I say, I would no longer be surrendered by you. As if I do not want it! As if I am not confident! As if I would not gladly go away to Macedonia! But there is nothing at all left. For if even a little were left, I would say nothing, but I would go mad, like Solon, I too. But as it is, everything is spent: what lies within Thermopylae, what lies outside, the Chalcidians, the Phocians, the Hellespont, the Chersonese, Demosthenes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.90.1",
+   "text": "Let us keep quiet; let us share our public life with Fortune. If something new happens and presses hard on me, and I see a common danger or fear for Greece, whether from Susa or from the Thracians or from anywhere else, my voice will burst out, even if I do not wish it, and I will go off to Thebes and be active in public life there."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg2200.tlg00523.opp-grc1.90.2",
+   "text": "There follow two declamations whose subject is taken from history, true indeed, but not Attic."
+  }
+ ]
+}

@@ -1,0 +1,763 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0149b.stoa009",
+ "edition_urn": "urn:cts:latinLit:stoa0149b.stoa009.ai-claude",
+ "source_edition": "stoa0149b.stoa009.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-12",
+ "updated": "2026-11-13",
+ "whole_work": true,
+ "header": {
+  "title": "Tractatus mysteriorum: AI translation (Claude)",
+  "author": "Hilary, Saint, Bishop of Poitiers",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0149b.stoa009.opp-lat1, from Open Greek and Latin's CSEL (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's CSEL and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.head": "The opening of 1.1.1.1 is lost (marked by asterisks in the edition); the fragment is translated as it stands. 'gepyrra' read as Greek gē pyrra ('red/fiery earth'). In 1.3.2 the text is disturbed: 'per cum' read as 'per eum', '08' as 'os'; the syntax remains awkward and the rendering is approximate. In 1.3.6 '11011' read as 'non'; 'est' in brackets in 1.2.2 is an editorial deletion and is not translated. 1.3.5 cites 1 Tim 2:14-15 in a form saying 'Adam did not sin' (cf. Vulgate 'was not deceived'); translated as given. 'Lsuis' read as 'suis', 'm eo' as 'in eo'.",
+  "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.4.1": "1.6.6: 'desperans resurrectionem sed se morte existimat' seems corrupt; rendered tentatively as 'thinks himself [ended] by death' (perhaps 'sepultum se morte' or similar). 1.12.3: 'terra conspectui eius uiri redditur' and 'in grauioribus ... uirtutibus' read oddly; 'uirtutibus' may be an error for 'uitiis' (graver vices), which suits the argument better. Scanning errors silently corrected (e.g. 'inuidct itaquc plucito' = inuidet itaque placito, 'abeo' = ab eo, 'in cum' = in eum/eam, 'ucnia' = uenia).",
+  "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.13.2.1": "The text has several lacunae, marked by asterisks in the edition and rendered [...]; these occur at 13.5 (the passage on the raven and the first sending of the dove is lost), the end of 16.1, the start and end of 17.1, the end of 17.2, the end of 18.2.1, the end of 18.2.2, around 19.1 and at the start of 20.1. The paragraph marked 18* (on the threefold coming and the three weeks, apparently pre-Lenten Septuagesima) appears to be a later addition, not by Hilary. In 13.4 'nec scriptum legitur' belongs to the preceding stretch; in 14.2 'reuertuntur- tuntru' is a scanning duplication. In 22.1 'rl\\'s' is read as 'res'. In 22.3 'nant' is read as 'nam', and 'accepti' at the end of the clause as 'accepit'. In 15.1 the bracketed '[se]' is the editor's deletion and has been left untranslated.",
+  "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.23.4.1": "1.23.4: 'l\\'t.' is read as 'potius quam' / 'magis quam' (signified rather than enacted); uncertain. 1.24.2: 'ari' read as 'agri', 'quum' as 'cui/quem' (which God has blessed). 1.29.3: 'modus' read as 'domus' (house of Israel); rendered 'only' following the sense of 'solum/modo'—'of the house of Israel' is the likely reading. 1.26.1: stray '!' after 'interrogantis' omitted. 1.31.2: 'cum' read as 'eum'.",
+  "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.32.3.1": "Scanning errors corrected silently where evident (ucstrorum, aniaritudine, Klym = Elym, praroicationis = praedicationis, solaaquarum = sola aquarum, ingrodietur, praeseriptum); the page and section marks '311 37.' and '25' within 1.36.2 are omitted. 1.40.2 'quondam soluenda de liquido' is obscure; rendered 'one day to be dissolved into liquid', reading quondam as 'at some time' (perhaps for quandoque). 1.33.4: 'et quia' taken concessively ('although') to match the following 'tamen'.",
+  "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.42.2.1": "1.42.2: 'acceptam ... mannam' read as the manna received in Christ's body. 2.1.2: 'fornicando fornicabitur terra a domino' rendered with '[departing]' for the sense of 'a domino'. 2.6.3: 'in profundo' taken as 'in profundum'; 'ea, si uellet. usura' read as 'ea, si uellet, usura' (the synagogue's possible use of the apostolic teaching); the passage is awkward. 2.8.2: 'in Hiericho ciuitatem' read loosely; 'susum' = sursum. 2.8.3: '(reum)' is an editorial supplement. 2.8.4: duplicated 'cum' deleted by the edition. 2.9.1: punctuation around 'corpoream didicit enim' appears disturbed; translated by sense. Hiesus is rendered Joshua for the man and Jesus where Hilary plays on the name; Auses = Hoshea.",
+  "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.9.2.1": "Lacuna in the edition between 2.14.3 and 2.15.1 (marked by asterisks); the end of book 2.14 and the beginning of 2.15 are lost. In 2.15.1 'ex Hebreis' is rendered 'a Hebrew of the Hebrews' following the sense of Phil. 3:5; the text as printed reads only 'from the Hebrews'. In 2.12.1 the punctuation 'posse effici; homo intellegitur aeternus' is awkward; rendered as two linked clauses. 'cladl\\'s' read as 'clades'. In 2.14.2 'nanique' read as 'namque'; the sentence is obscure and possibly corrupt. 'Manasses accepit' (2.9.3): the scarlet sign given to Manasseh is unclear; perhaps a confusion with Zerah's scarlet thread (Gen. 38)."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.head",
+   "text": "THE TREATISE OF THE MYSTERIES BY SAINT HILARY, BISHOP."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.ab1",
+   "text": "BOOK ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.1.1.1",
+   "text": "Manifold [...] [...] [...] that we may understand those very [things] in the deeds. But for them it is enough to have fitted on even some appearance of an empty likeness, although a comparison must both be fulfilled thoroughly from what follows and be sought on solid ground from what is present."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.1.2.1",
+   "text": "Now every work that is contained in the sacred volumes announces by words, expresses by deeds and confirms by examples the coming of our Lord Jesus Christ, by which, sent by the Father, he was born a man of a virgin through the Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.1.3.1",
+   "text": "For it is he who, through the whole time of this established age, by true and complete prefigurations in the patriarchs, either begets or washes or sanctifies or chooses or sets apart or redeems the Church: by the sleep of Adam, the flood of Noah, the blessing of Melchizedek, the justification of Abraham, the birth of Isaac, the servitude of Jacob."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.1.4.1",
+   "text": "Through all time, in short, the whole of prophecy, the working-out of the mystery, has been granted for the knowledge of the flesh that was to be assumed by him. And since in this little book it has seemed good to show that in each and every man, time and thing his coming, preaching, passion and resurrection, and our gathering together, are displayed as an image in a mirror, I shall not mention some things in passing. Rather, I shall treat all things each in its own time, intending to begin from Adam, from whom knowledge of the human race is granted, so that what was consummated in the Lord may be known to have been prefigured in very many [persons] already from the beginning of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.1.4.ab1",
+   "text": "ON ADAM."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.2.1.1",
+   "text": "Adam by his very name prefigures the birth of the Lord; for according to the Hebrew language 'Adam', which in Greek is 'gē pyrra', that is,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.2.2.1",
+   "text": "in Latin, is 'fiery earth', and scripture is accustomed to call the flesh of the human body 'earth'. This [flesh], born in the Lord of a virgin through the Spirit, changed into a new form foreign to itself, was made conformed to spiritual glory, according to the Apostle: the second man from heaven and the heavenly Adam, because the earthly Adam is an image of the one to come. Safe, therefore, with so great an authority, we take up even the name of Adam not without some contemplation of what was to come."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.3.1.1",
+   "text": "It follows that, when Adam had been put to sleep, Eve was brought forth from his side and bone. When he had awoken, such a prophecy also follows: This now is bone of my bones and flesh of my flesh; she shall be called woman, because she was taken from her husband, and the two shall be in one flesh. Here I have no labour; for the Apostle, when he recalled this very prophecy, says:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.3.2.1",
+   "text": "This mystery is great, but I say [it] in Christ and in the Church. But we read that only a bone was taken from Adam; how then is it said 'flesh of my flesh'? This matter could indeed be referred to the credibility of the present events, so that, because the bone which [was taken] from his side into a woman's body was clothed with flesh by God, who can do all things, because the bone was taken out of flesh and, clothed again with flesh, came forth into a body, then as bone from bone, so also flesh is from flesh. But the Lord in the Gospels, when he was tested by the Jews about giving divorce, shows that this was said by himself rather than by Adam, saying: Have you not read that he who made [them] from the beginning made them male and female, as he said: For this reason a man shall leave father and mother, and the two shall be in one flesh? For this follows after what was said: flesh of my flesh."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.3.3.1",
+   "text": "Therefore the prophecy followed upon a thing that was being accomplished in Adam. For when the Lord, who made male and female, said these things, [namely] that bone was from his bone and flesh from his flesh, he himself spoke through Adam that which had been done wholly in Adam himself, and he did not take away credibility from the events, and showed that what was being enacted in another was prefigured from himself."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.3.4.1",
+   "text": "For since the Word was made flesh, and the Church is a member of Christ, born from his side both through water and given life through blood, and again the flesh in which the Word, abiding before the ages, which is the Son of God, was born, abides in us through the sacrament, he taught completely that in Adam and Eve the figure of himself and of the Church is contained, which he signifies was sanctified after the sleep of his death by communion in his flesh. The same also speaks through the Apostle:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.3.5.1",
+   "text": "Since Adam did not sin, but the woman, sinning, was in transgression. She will, however, be saved through the bearing of children, if they remain in faith. The Church, therefore, is from tax-collectors, sinners and Gentiles:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.3.6.1",
+   "text": "while only her second and heavenly Adam did not sin, she herself, a sinner, will be saved through the begetting of children who remain in faith. Otherwise it is not fitting to understand [it] thus, that the woman was not redeemed from her sin by the Lord, and would be baptized superfluously if she must rather be freed by the merit of childbearing. But not even through the begetting of children itself will she be safe, since she is not saved unless those who were begotten persevere as faithful. And I do not know how it would be fair to be made guilty by another's sin, or innocent by another's merit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.4.1.1",
+   "text": "But, safely comparing spiritual things with spiritual, we shall hold this view: that the Apostle chiefly refers the deeds of the great mystery in Adam and Eve, proclaiming that they already relate to Christ and the Church. And it is fitting for us to judge these things as spoken by him spiritually in such a way that no"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.4.2.1",
+   "text": "less his word must be referred to the present teaching and to the instruction of those whom he was admonishing. For, proclaiming the manifold mercy of God in the First [Letter] to the Corinthians, in the sanctifying of unbelievers through marriages with believers, here too he taught that such sanctification is to be granted through the procreation of children who nonetheless believe, so that, just as the partnership of one believer through marriage benefited an unbeliever, so the procreation of believers would come to the aid of unbelievers."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.5.1.1",
+   "text": "This too must be observed in the sleep of Adam and the forming of Eve's body: the sacrament of the mystery hidden in Christ and in the Church."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.5.2.1",
+   "text": "For in it the faith and the reasoning of bodily resurrection are contained. For in the creation of the woman clay is no longer taken up, nor is earth shaped into a form, nor is lifeless matter stirred into a living soul by the breath of God; rather, flesh grows onto bone, and to the flesh com-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.5.3.1",
+   "text": "pleteness of body is given, and spiritual vigour follows upon the completeness of the body. This order of resurrection God spoke through Ezekiel, teaching in the things that were to be done the power of his might. For there all things run together: flesh is present, the spirit flies to it; nothing of his works is lost to God, for whom the things which did not exist were present to complete his body."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.5.4.1",
+   "text": "Now this sacrament, according to the Apostle, was hidden from the ages in God: that the Gentiles are fellow heirs and of one body and sharers in his promise in Christ, who is able, according to the same Apostle, to make the body of our lowliness conformed to the body of his glory."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.5.5.1",
+   "text": "Therefore, when the heavenly Adam rises after the sleep of his passion, the Church recognizes her own bone, her own flesh, no longer created from clay nor quickened by breathing, but growing onto bone and completed into a body from a body as the Spirit flies to it. For those who are in Christ will rise according to Christ, in whom the resurrection of all flesh has already been consummated, since he himself was born in our flesh together with the power of God, in which he was begotten by the Father before the ages."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.5.6.1",
+   "text": "And since Jew and Greek, barbarian and Scythian, slave and free, male and female, are all one in Christ, since flesh is recognized as from flesh, and the Church is the body of Christ, and the mystery which is in Adam and Eve is proclaimed of Christ and the Church, whatever is being prepared for the Church through Christ for the consummation of the times was already completed under Adam and Eve at the beginning of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.5.6.ab1",
+   "text": "ON CAIN AND ABEL."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.1.1",
+   "text": "Following the first prefiguration of Christ and the Church come the deeds of Cain and Abel, who prefigure in themselves the differ-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.2.1",
+   "text": "ence of two peoples and by their very names and occupations signify the characters and pursuits of each. For Cain was a tiller of the earth and Abel a feeder of sheep. Each offered to God a gift of the mystery from his own fruits: but Abel's gifts are looked upon, while Cain's are not seen. Yet the day of the sacrifice and the place were the same, and to God, who beholds all things, how is the one in sight, or the other out of sight? But by this signification we are taught that God's sight is"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.3.1",
+   "text": "a sign of things pleasing [to him], and that, although all things are subject to him, his regard nevertheless goes to those which are worthy. Yet nothing had been said before about Cain's character to make his offering displease. But in what followed, the providence of God is understood, who did not accept the sacrifices of one who was going to attack his brother. For with God knowledge of the future is as certain as the deed done;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.4.1",
+   "text": "for he who was going to kill, as though he had already killed, is not worthy of God's regard. In the tilling of the earth is contained the signification of carnal works, and every fruit of the flesh lies in vices, which, since God abhors them, drive his regard away from themselves. So no regard is paid to the offering that comes from the labours of the earth. And only the firstlings of the sheep, in their fat, are pleasing: that is, inward fruits and the sacrifices of our very conscience give delight, and these, being pleasing in the firstlings of the sheep, invite upon themselves the regard of the divine will."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.5.1",
+   "text": "For since Christ is the firstfruits, the firstborn of creation, the firstborn from the dead, and also the chief of priests, so that in all things he himself holds the first place, and since he is also a sheep and, according to his bodily birth, one of the sheep, the sacrifice of Abel is already acceptable under the sacrament of the Church, which was afterwards to offer from the firstlings of the sheep the offering of the holy body."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.6.1",
+   "text": "So the one who displeased envies the one who pleased, and, against the edict of God admonishing him to be still, the acceptable is killed by the unacceptable. The guilty man is questioned so as to bring him to the penitence of confession, but he denies, to the increase of his crime; despairing of resurrection, he thinks himself [ended] by death, but groaning and trembling he is kept for the judgement of a sevenfold vengeance, and is cursed by all the earth, which received his brother's blood."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.6.7.1",
+   "text": "The interpretation of the name Cain is 'laughter', and of Abel 'weeping'."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.7.1.1",
+   "text": "Are not these earlier things fulfilled in the peoples? The offering of the younger is pleasing; the Jew envies the Christian, and, warned in vain by the prophets, has blazed up to his slaughter."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.7.2.1",
+   "text": "He does not seek pardon even through the very confession of penitence, but boldly denies to God the crime he has committed. Despairing of the glory of the resurrection, and, Jerusalem having been taken, made subject to the power of those who rule, groaning and trembling he is kept for the judgement of vengeance, set apart from the saints by the very interpretations of the names, as the Lord says: Woe to those who laugh, for they will weep! and: Blessed are those who mourn, for they will be comforted!"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.7.3.1",
+   "text": "And so that the Lord might teach that all things fit the prefiguration of the two peoples, he said: Therefore, behold, I send to you prophets and wise men and scribes, and some of them you will kill in the synagogues, and you will persecute them from city to city, so that upon you may come all the righteous blood that has been shed upon the earth, from the blood of righteous Abel to the blood of Zechariah son of Barachiel, whom you killed between the temple and the altar."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.7.4.1",
+   "text": "So the blood of Abel is required of him who, according to the prefiguration of Cain, persecuted the righteous and is cursed by the earth, which opened its mouth and received his brother's blood. For in the body of Christ, in which are both the apostles and the Church, their whole flesh and posterity took upon itself the blood of all, as they themselves cried out: His blood be upon us and upon our children."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.8.1.1",
+   "text": "So the fulfilment of the outcomes has followed the prefiguration"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.8.2.1",
+   "text": "of the things done in Cain, nor can those upon whom the punishment of the same guilt has followed be separated from the example of the prefiguration. Moreover, in what was said: If you offer rightly but do not divide rightly, have you not sinned? there is contained, besides the effect of the present matter, also a figure of the future;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.8.3.1",
+   "text": "for to God nothing is pleasing except what is shared, partaken of and held in friendship. So the people awaiting the promises of God through the law, even if it offers to God rightly with the observance of the precepts, nevertheless, unless it shares this very law of God, which is a shadow of things to come, with the gathering of the Gentiles, has sinned."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.8.4.1",
+   "text": "So, not dividing rightly, it will be held fast in crime. For Cain, envying his brother, had not taken a share for himself in the grace of the offering regarded by God, and was made a sinner because he did not divide rightly. By this example, unless those who are under the law share in the offerings of the faithful from the Gentiles that are approved by God, even if they use the law rightly, they are in crime."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.8.4.ab1",
+   "text": "ON LAMECH."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.9.1.1",
+   "text": "But not even in Lamech are things done apart from a figure of the future. He is reported to have been the husband of two wives, and to their names was added the name of a third woman too, who was nevertheless free of marriage to him; and this same Lamech is written to have said these things: And Lamech said to his wives Adah and Zillah: Hear my voice, wives of Lamech, attend to my words, for I have killed a man to my wound and a young man to my bruise, for sevenfold vengeance has been taken for Cain, but for Lamech seventy-seven times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.9.2.1",
+   "text": "And who is this, more righteous than righteous Abel, whose death must now be avenged with so much greater a penalty? The name of the slain is passed over in silence; the wound is referred not to the slain but to the slayer, and the bruise is shown to belong rather to the one who strikes, not to the one struck."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.9.3.1",
+   "text": "The killing of the young man is announced to the wives; though the names of three women are included, the speech is addressed only to two. The impious man prophesies and heaps up, beyond the penalty of Cain, vengeance for the slaughter he committed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.10.1.1",
+   "text": "These things are not to be heard in passing, but in them the figuring of things to come is to be searched out."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.10.2.1",
+   "text": "Lamech bears the figure of the chief of priests, who, with the Jews and Gentiles consenting with him, fastens the Lord to the cross; for from the court of the chief of priests that same Lord was led to Herod, while the people of believers was set apart from fellowship in the crime; and for that reason he boasts of the killing of the young man to two, as it were his partners and wives."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.10.3.1",
+   "text": "And because he has no sense of punishment for it, he took upon himself both the wounds and the bruise of the injury and the slaughter. He also spoke by prophetic prompting; for then too the chief of priests prophesied without knowing it, as is written in the Gospels: But one of them, named Caiaphas, being high priest that year, said to them: You know nothing, nor do you perceive that it is expedient for us that one man should die for the people and the whole nation not perish. This he did not say of himself, but, being high priest that year, he prophesied. So all things agree together in persons, events and outcome, and the reality of the deeds embraces the figure of things to come."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.10.4.1",
+   "text": "The number of the punishment in Cain and Lamech, too, is not recorded without some signification. For since, according to the prophets, a sevenfold punishment was appointed for the unjust, Peter, upon whom the Lord was building the Church as upon a living foundation, asks whether, according to the law, he is to forgive one who sins against him seven times; and the Lord answered him that he should pardon seventy-seven times, teaching by this signification that the very punishment of his passion was to be remitted to those who would believe, since, as much as vengeance for it had been multiplied, so much in turn would pardon abound."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.11.1.1",
+   "text": "Then Seth is born, and in place of the slain Abel another seed is raised up in him, as Eve says: God has raised up for me another seed in place of Abel, whom Cain killed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.11.2.1",
+   "text": "The interpretation of the name Seth is 'foundation of faith'; and since Abel was righteous, and Seth was begotten in the place of the righteous one, it is understood that the generation of the saints is always preserved by God and renewed through successions, the Church being destined to sustain faith for believers upon the foundations in Peter."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.11.2.ab1",
+   "text": "ON NOAH."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.12.1.1",
+   "text": "It cannot be denied that the things done concerning Noah are full both of the powers of God and of examples of things to come. For however dull the mind may be, or however turned away from understanding the truth the will, yet things were said and done there that draw out a sense of the truth even from the unwilling. And so that the prophetic power may be understood in each of the events, what is to be compared with what"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.12.2.1",
+   "text": "must be set out briefly. For Noah prefigures the man whom the Lord took on from the Virgin; and so that this may become known from the very words of Scripture, we must learn what kind of prophecy his father Lamech made about him: And Lamech begot a son and called his name Noah, saying: This one will give us rest from our works and from the sorrows of our hands and from the earth, which the Lord God has cursed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.12.3.1",
+   "text": "But these things, I think, cannot apply perfectly to that Noah of whom we are speaking. For what rest did he bring to the human race, or from what works did he cause [it] to cease? Indeed, under him the whole of mankind is destroyed, the flood is poured in; the earth is given back to the sight of this man, and afterwards life is lived in even graver powers. And where will rest have been given back through Noah? But in him who is to make rest, the power of making it is signified."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.12.4.1",
+   "text": "Furthermore, it neither befits the nature of a man, nor is it read as written, nor is it understood from the event itself, that Noah did any of these things; but Scripture has set out very plainly most of the things that were proper to Noah: when he is acceptable to God, when he is found righteous, when he is ordered to make the ark, when he enters it, when he sends out the raven, when he both receives and sends out again the dove, when he goes out of the ark, when he plants a vineyard, when, drunk from its fruit, he is uncovered, when he is mocked by Ham, when he is covered by Shem and Japheth, when he lays down a curse on one and the order and measure of blessing on two. These things are to be understood as they were done by him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.13.1.1",
+   "text": "But in them is contained a great mystery of the future, and we shall treat of each in its place, at the time when it is fitting to compare events and persons with one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.13.2.1",
+   "text": "To this Noah, then, our Lord, who is the Word made flesh, will be compared, who also says in the Gospels: Come to me, all you who labour and are burdened, and I will refresh you. Take my yoke upon you and learn, for I am gentle and humble of heart, and you will find rest for your souls. For my yoke is pleasant and my burden is light."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.13.3.1",
+   "text": "He, then, causes [men] to rest and grants rest to souls, and because of the impending judgement he shelters in the ark of his teaching and of his Church his sons, both begotten and so named; and he gives the Holy Spirit, and dies, and is mocked, and rises again, and"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.13.4.1",
+   "text": "lays down for the human race punishment and sanctification for things done rightly or wrongly. And in this, when Noah is ordered to enter the ark or to go out of it, the principle of the Church's sanctification is to be observed. For it is written: You shall go into the ark, you and your sons and your wife and your sons' wives; and again: The Lord God spoke to Noah, saying:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.13.5.1",
+   "text": "Go out of the ark, you and your wife and your sons and your sons' wives. He pairs the sexes of those entering the ark with each other, men with man, women with woman, signifying, that is, that those who are to enter the Church must be continent, [and] that afterwards each would receive the opportunity of his own marriage [...] when it was sent out three times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.14.1.1",
+   "text": "And indeed it is not uncertain what the following sending-out prefigures."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.14.2.1",
+   "text": "For it returns with the fruitful leaves of an olive, no longer to be taken back by hand, but flying back. This was fulfilled when, having received the Holy Spirit, the seventy disciples, sent out to preach the Gospel, return with glory over the unclean spirits made subject to them, the fruit of God's mercy, which is signified in the olive,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.14.3.1",
+   "text": "being brought back by the Holy Spirit; and because, when these afterwards departed from the Lord, he would also have no rest. Yet the dove flew back to Noah with fruit, signifying by this, in the second return, both the fruit of the Holy Spirit in the subjection of the demons and, as the disciples departed from the Lord, as yet no rest in which to abide. But the third sending-out and flying-away prefigures his dwelling, which is in the believer, the Holy Spirit, once sent out, remaining for ever in the souls of the faithful."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.15.1.1",
+   "text": "Now the drunkenness from the fruit of the planted vineyard is a figure of the Passion. For the Lord brought a vine out of Egypt and planted it; and again: The vineyard of the Lord Sabaoth is the house of Israel. For the cause of the Passion comes from the works of his people, transplanted and planted. If anyone should perhaps think that this drunkenness of Noah does not belong to the figure of the Lord's death, he will be refuted by what follows, although the cup drunk in the Gospels shows the death of the Passion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.15.2.1",
+   "text": "Now, though there were three sons, the father's nakedness is laughed at by one and in turn covered by two; but though the two covered [it] with one mind, with the third cursed, there is nonetheless a differing blessing on the two for one deed. Under these three sons the whole of mankind is shown, that is, those living under the Law, those justified under grace, and the Gentiles. Of these the Gentiles mock the death of the Lord and the naked body of God, while in the two who cover the nakedness the Law and grace are contained."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.16.1.1",
+   "text": "And because Japheth is settled in the houses of Shem, he shows a figure of the Gentiles who have been led to faith; Shem, however, bears the person of the Israelite people [...]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.16.1.ab1",
+   "text": "ON ABRAHAM."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.17.1.1",
+   "text": "[...] Sarah also signifies the Church, Hagar the synagogue [...]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.17.2.1",
+   "text": "and it shows that the seed called in Isaac is Christ; in whom also the prefiguration of the Passion is set forth, when he is called by his father to be a victim, when he takes up the wood of the sacrifice, when a ram stands by for the completion of the offering. [...]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.18.1.1",
+   "text": "In the letter added to Abraham's [name] the number is one; in the one added to Sarah's there are a hundred; and the Saviour, leaving"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.18.2.1",
+   "text": "the ninety-nine on the mountains, went to seek the one that had strayed. So the number one is added in the letter of Abraham. For one is the Lord Jesus Christ, born of a virgin, and by that one all the crimes of believers have been cleansed. And what was to be fulfilled through himself he prefigures in Abraham: that man, by the addition of one, is called father of the nations; he himself, by the assumption of one, is established as father and redeemer of the nations, the hundredth sheep being restored to Sarah, that is, to the firstborn Church of the heavenly Jerusalem. [...]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.18.2.2",
+   "text": "18* Just as that householder in the Gospel visited the fruitless fig tree in a threefold coming, so holy mother Church has marked out for herself the Saviour's coming, in a yearly return, through the set-apart space of three weeks. For the Son of Man came to seek and to save what had perished. He came before the Law, because through natural understanding it became known what each person should do or follow. He came under the Law, because through the examples of the patriarchs and the proclamations of the prophets he confirmed the decrees of the Law to the seed of Abraham. He came a third time, after the Law, through grace, for the calling of the Gentiles, so that from the rising of the sun to its setting children might learn to praise the name of the Lord, whom he does not cease to urge to the worship of his majesty until the end of the world. [...]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.18.2.ab1",
+   "text": "ON ISAAC."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.19.1.1",
+   "text": "[...] Rebecca has a double figure, of marriage and of childbirth, and in marriage she bears the type of the Church: she gives drink to camels, that is, to the nations made subject to Christ; through the earrings she teaches the hearing of faith; the bracelets of her hands show the adornment of good work; asked about the marriage, she answers in the manner of those to be joined to Christ, so as to come to the sight [of him]; she goes out of her father's house, showing that unless one renounces vices and desires, he cannot be a servant of Christ; [and] the two nations signify two peoples. [...]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.19.1.ab1",
+   "text": "ON JACOB."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.20.1.1",
+   "text": "[...] Scripture interpreting the proper sense of this name: And Esau said to Jacob: Give me a taste of this red stew, for I am faint."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.20.2.1",
+   "text": "For this reason his name was called Edom. Then he sold his birthright for food, saying: See, I am dying, and what are these first rights to me? Among the ancients this was the dignity of the first rights:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.20.3.1",
+   "text": "that the firstborn should obtain the inheritance of the father's house, the brothers who came after being subject to him. So, since for those living in the body the dignity of the firstborn concerns [this] life, which Esau, in prefiguration of the unbelieving people, was selling for fleshly desires, he certainly does not despair of the present honour of the firstborn when he says: See, I am dying, and what are these first rights to me? — for that primacy which belongs to men was received before death — but because, bearing in himself the form of the people, being himself firstborn through the Law — for this people had been chosen first into God's inheritance — he fell from the hope of the resurrection and of the glory of God, and, taken up with the desires of the body, he declared that he despaired of his honour, which as firstborn he ought to have hoped for after death."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.21.1.1",
+   "text": "So, as Esau despaired of his first rights, the rest is done both according to the truth of the event and according to the force of the prefiguration."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.21.2.1",
+   "text": "Isaac, then, since his eyes were dim, admonishes Esau, according to custom, to prepare him food from hunting and to be blessed by him before the time of his death. When Rebecca learned of this, she urges Jacob to prepare quickly food for his father from two kids and to put on Esau's robe;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.21.3.1",
+   "text": "and to counterfeit his hands, because he was smooth, and his neck with kids' skins tied on. When this was done, he snatched away the blessing which had been prepared for Esau. Then he is blessed with these words: See, the smell of my son is like the smell of a full field which the Lord has blessed. And may the Lord give you of the dew of heaven from above and of the richness of the earth abundance of grain and wine. And let nations serve you, and princes will worship you; and be lord of your brother, and the sons of your father will worship you; and whoever curses you will be cursed, and whoever blesses you will be blessed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.22.1.1",
+   "text": "The matter is indeed carried out according to its present outcome in Esau and Jacob, but the spiritual prefiguration keeps its own order. The elder had sold his first rights through the desires of the body, despairing of the honour of things to come for the sake of the luxury of the present, and the younger bought them at the cost of present things."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.22.2.1",
+   "text": "Do not things to be done spiritually follow upon things done bodily? Those who are unbelievers think that all good lies in pleasure, and the earlier people lost the honour of the resurrection through the desires of the flesh; but believers renounce present joys, placing all their hope in things to come, and, being continent in mind and body for its sake, they snatch away what was destined for the elder."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.22.3.1",
+   "text": "For Jacob is clothed in Esau's robe, which is usually mentioned as standing for the garment of immortality, also in the Gospel, where the younger brother, the same who squandered the inheritance he had received, received the first robe. And because he was to be transferred from sins into the brightness of innocence, Jacob is therefore covered with kids' skins, in the event itself imitating his brother's appearance. But because he, a sinner, was to have the dignity of the blessing he had seized, he takes on the form of a sinner in the skins of dead beasts."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.23.1.1",
+   "text": "But the very nature of the blessing and the force of its words show that nothing there is to be understood according to present events."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.23.2.1",
+   "text": "For Jacob is blessed so as to abound in wine and wheat from the dew of heaven and the richness of the earth. But on the contrary he was imperilled by famine, and from Egypt"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.23.3.1",
+   "text": "he bought grain. Nations are subjected to him in servitude; yet rather he himself, with all his household, gave himself into Pharaoh's power. He is said to be one whom princes will worship, but rather, under Laban's mastery, he endured servitude for a long time."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.23.4.1",
+   "text": "He is appointed lord over his brother; but in what way did he worship his brother as a lord? Therefore, since scripture is not imperilled by falsehood, although these things were said of Jacob, they were nevertheless [said] of the people whom he prefigured, and they are signified rather than enacted. For all these things, according to the prophetic and gospel promises, are reserved for the faithful, as those who will judge the world and the angels and are destined for fellowship in the heavenly kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.24.1.1",
+   "text": "Then the very opening of the blessing embraces not present things but things future and perfected. For he says: Behold,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.24.2.1",
+   "text": "the smell of my son is as the smell of a full field, which God has blessed. The smell is the foreknowledge of the spirit; the full field is the perfection of the fruits. And the field, as the gospels teach, is used as a name for the world; but by the blessed world we must certainly not think that the world which"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.24.3.1",
+   "text": "will be dissolved and will not exist is signified, but that which is eternal and full of perfected fruits. Therefore, since the smell of Jacob is the same as that of a full field, and since smell, according to the nature of things, is the foreknowledge of the spirit, for what each thing is is perceived from its smell, Isaac signifies that he smells, that is, foreknows by the spirit, this blessing of the younger people, and of the eternal age to come, eternal in both respects, that is, both in the age and in the one who will enjoy it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.25.1.1",
+   "text": "And so that we might see the abundant mercy of God in prefiguring future effects under present things, all things were so care-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.25.2.1",
+   "text": "fully set forth and written that one and the same order of the history agrees both with the event done and with the future hope. For Isaac, about to bless Jacob in place of Esau, is anxious lest he be deceived in any way; for [Jacob] said he was Esau. Since Isaac was blind, therefore, he said: Come to me and I will feel you, son, whether you are my son Esau or not."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.25.3.1",
+   "text": "And although it was he, and he was clothed in Esau's robe and had counterfeited his appearance by putting on skins, yet he was handled by the blind man not without suspicion. For he said, as he felt him: The voice is indeed the voice of Jacob, but the hands are the hands of Esau. By these things, therefore, Isaac is shown to have been anxiously concerned for Esau."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.25.4.1",
+   "text": "Yet when [Esau] afterwards returned from the field and the hunt and pressed himself on his father as the firstborn, that he might bless him, and the snatching away of the blessing was discovered, Isaac is not moved; rather, he persists in confirming the blessing itself, saying: If I have made him your lord and made all his brothers his servants, and have established him with wheat and wine, what then shall I do for you, son?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.25.5.1",
+   "text": "Rather, when [Esau] begged with weeping and tears that he bless him, he spoke thus: Behold, your dwelling shall be from the richness of the earth and from the dew of heaven above, and by your sword you shall live, and you shall serve your brother. But it shall be, when you have put off his yoke from your neck."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.26.1.1",
+   "text": "Whence, then, is this change of will? And why is the man's disposition at odds with itself, unless because the language of scripture is tempered both to the accomplishment of events and to the expectation of hope? He had the anxiety of one questioning from fatherly affection; he refused a change of the blessing from spiritual knowledge."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.26.2.1",
+   "text": "There he acted out a matter of nature, here he kept to the order of prefiguration; there the father is anxious over the sanctifying of the firstborn, here he perseveres in the spirit of a prophet in the blessing of the younger people."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.26.3.1",
+   "text": "Both the history tells of the event done, and its order does not abandon the prefigured hope. But not even in this did the prophetic plan cease; indeed, the sinful and former people could hope for the blessing of the younger people, if it believed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.26.4.1",
+   "text": "For the approach to salvation lies open to all, and the road of life is difficult not through troubles of its own, which indeed are none, but through the right of our own choice. For in obtaining the mercy of God the delay lies in the human will, which is made known from this very word concerning Esau. For he had asked to be blessed, but the father, moved by a spiritual"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.26.5.1",
+   "text": "impulse, both left him to the world, and gave him over to the sword, and consigned him to his brother's servitude. But lest these things be thought decreed for ever and with no return through repentance, he deferred the blessing which he asked for until the time when he should have put off from his neck the yoke of the brother who would rule him. It is therefore left in his own power to put off the yoke, since for each person the right of his own will toward faith is free, and he is then worthy of blessing when he has carried himself over from the servitude of irreligion into the liberty of faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.26.5.ab1",
+   "text": "ON MOSES."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.27.1.1",
+   "text": "The account of the deeds of Moses also kept the order of prefiguration begun already from Adam. And this is worthy of the mercy of God, that the deeds of all his patriarchs should in some measure imitate the per-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.27.2.1",
+   "text": "fection of those things which were to be accomplished in our Lord. For those things which were fulfilled in him alone and through him alone are prefigured in part through figures and times and generations. For the imitation of so many ages could not attain the truth that is in him alone; yet nothing was so done in individuals or through individuals that it did not, almost by the very imitation of present deeds, speak of those things which were afterwards accomplished either through him or in him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.28.1.1",
+   "text": "For Moses, born at the time when Pharaoh had ordered all of the male"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.28.2.1",
+   "text": "sex who were born to be killed, floating on the water by means of wood, is preserved as leader for the people. Did not the like and same hatred and fear of a king blaze up, at the time when our Lord was born according to man, against that same man for us whom he took up, through"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.28.3.1",
+   "text": "the sacrament of wood and water, into himself, and who was appointed by him to heavenly glory and established as king of the nations? Then Pharaoh's daughter, about to bathe in the river, took up this Moses. His sister, being present, offered a nurse from the Hebrews. She then produced his mother; she took him to rear and brought him back to Pharaoh's daughter, who received him and adopted him as a son."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.29.1.1",
+   "text": "Join the persons, compare the effects, look at the deeds: you will find in the imitation of present things the truth of those that followed. For under the sister of Moses the Law accompanied Christ up to the sacrament of wood and water. In Pharaoh's daughter, however, is the figure of the nations, which,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.29.2.1",
+   "text": "although according to the faith of the history she saw a little child, yet by the event itself retained the power of prophecy. For the Law presented to the Church, as to Pharaoh's daughter, the synagogue as both nurse and mother of the infant, and thus the spiritual order was preserved in the deeds. For, as this Law teaches, it was fitting that Christ be nourished according to the flesh by the one, and necessary that he be adopted by the other."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.29.3.1",
+   "text": "Moses, grown great, seeks out his brothers held in servitude. Then he strikes down the Egyptian who was lording it over one of them and doing him injury, and afterwards he is rebuked by the very one whom he had avenged on the Egyptian. Did not Christ, when he was of full and perfect age, visit his people, who are his brothers according to the flesh? For he came to the lost sheep of Israel only. Did he not strike down and conquer the devil who was lording it over them?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.29.4.1",
+   "text": "For no one will plunder the goods of the strong man unless he first binds the strong man. Is he not rebuked by those very people to whom he was giving both vengeance on the devil and freedom from servitude? Thus the imitation found in the giver of the Law attains its consummation in the grace that is in God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.30.1.1",
+   "text": "The bush blazes in the sight of Moses and yet is not burnt up: that is, the Church is set alight by the flames of sins, persecutions and temptations, as the apostle says: Suffering distress, enduring want, but we are not forsaken. We are cast down, but we do not perish, always carrying about in our body the sufferings of Jesus, so that the life of Jesus Christ also may be"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.30.2.1",
+   "text": "made manifest in our body. Thus the fires of all iniquities rage against us and do not burn us up."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.31.1.1",
+   "text": "Next, a sign of faith is set forth: the rod changed into a serpent, and the serpent done away with and changed back into a rod."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.31.2.1",
+   "text": "But this change serves to confirm faith, not to convert nature. And since in the rod is the power of the kingdom, and in the serpent is the name of the devil, we are admonished to believe in him who, from being the God of the ages, was thought to be Beelzebul, and then, from being called and thought Beelzebul, through"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.31.3.1",
+   "text": "the change of the resurrection was recognised as the God of the ages, which he was. The following sign fulfilled faith in this matter by a figure of imitation, satisfying both the hope and the time. For when the hand, put into the bosom, took on the whiteness of snow, it signifies that we, resting in the fatherly bosom, that is, of Abraham and"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.31.4.1",
+   "text": "Isaac and Jacob, are to be illuminated, the nature of our body being swallowed up into the form of glory and honour. But when the hand, put into the bosom again, is restored to what it had been, we are taught that what had been prefigured in the sign is not yet in time. And when by the third sign water taken from the river and poured on the ground became blood, the meaning of the sacrament is mingled with these, since those washed through water are to pass on to the knowledge of the blood."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.32.1.1",
+   "text": "It is a great thing that in what was done under the patriarchs the effect of things is so contained that nothing in them is at odds, in place, time or reason, with what was afterwards fulfilled in the Lord. For in him the imitation sent before attains the form of the ab-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.32.2.1",
+   "text": "solute truth and is compared to it as the image of that form which it emulates. For the deeds were indeed truth in themselves, since they were enacted according to bodily operations, but that very truth of human acts was an imitation of divine working, and this was done so for the true instruction of our hope and faith, since nothing was found in the things of God that had not been seen beforehand, as if premeditated, in the very ages, ways and deeds of men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.32.3.1",
+   "text": "For although it has been shown in all the preceding discourse that, up to the people's departure from Egypt, the deeds of Moses agree with the deeds done either in the Lord or through the Lord, yet even now a spiritual imitation is joined to the bodily truth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.33.1.1",
+   "text": "For in the desert the people thirsted, the water is bitter, there is murmuring against the leader, a piece of wood is shown, and by its dipping the water is made sweet, and in it justification and judgements and testing are decreed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.33.2.1",
+   "text": "And from there they come to twelve springs of water and seventy palm trees, and they encamp by the waters. Though the zeal of those who resist may turn minds away, and the error of the unbelieving may bar the sense of their understanding with the obstacle of disobedience, they will still not be able to be ignorant of the power of so great a work."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.33.3.1",
+   "text": "For what weight did the wood have in itself, or what efficacy did lifeless matter contain in itself, that it should abolish bitterness, that it should produce sweetness, that it should both bring in and take away a nature, so that what had been repugnant as harsh is tasted as sweet?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.33.4.1",
+   "text": "And although in what was being done at the time there is the working of the power of God, who transfers a nature from one thing into another, yet he must not be thought to have needed the service of the wood, as if he could grant the change to the waters only through its intervention."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.34.1.1",
+   "text": "But since God could do all things, he contrives in the present a secret of his working reserved for [later] times. For to the people staying in the desert the water was useless; and indeed we find peoples often called waters, when it is said: The waters saw you, O God, and were afraid; and again: All you waters, clap your hands."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.34.2.1",
+   "text": "So whether the waters themselves, bitter by their nature, or the whole people, remaining in the desert and not yet about to gain the land of promise, bitter through the murmuring that is born of stubbornness, is made sweet by the sacrament of the wood. And not only does it lose what it was, but it is changed for the better and beyond what was needed for use; for it not only ceased to be bitter,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.34.3.1",
+   "text": "but was made sweet. So the wood both works upon the water of the moment and is beneficial, by the sacrament of its power, to the peoples called by the name of water."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.35.1.1",
+   "text": "On this wood, in the same Moses, hangs the life of all, when he says: You will see your life hanging before your eyes night and day, and you will fear, and you will not believe in your life. This is thrown into bread in Jeremiah, thus: They devised a plan against me, saying:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.35.2.1",
+   "text": "Come, let us throw wood into his bread. From this material is the rod that defeats the magicians, terrifies Pharaoh, crushes Egypt, divides the sea, pours the deep back, draws out a spring, takes away bitterness, bestows sweetness; for by its sacrament are softened"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.35.3.1",
+   "text": "the hearts of unbelievers, and they are transferred from the bitterness of sins and impiety into the sweetness of faith. And so that all things should agree with the effects of the hidden sacrament in what was then being done, scripture added, saying: There God set justifications and judgements, and there he tested him. When 'there' is said, it is not a signification of place but of deed. For we do not find that any ordinances of justifications and judgements and testings were set forth in that place."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.36.1.1",
+   "text": "But on the contrary, in the sacrament of the wood on which the Lord hung, to which he fastened together with himself all things that were opposed to the salvation of the human race, there is both justification, because the just man is of faith, and there are judgements, because he who does not believe is already judged, and there is testing, because salvation is through the scandal of the cross;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.36.2.1",
+   "text": "for the cross is foolishness to those who perish, but the power of God unto salvation for those who believe. Therefore, since the reproach of the cross is the testing of faith, since unbelief is the cause of judgement, since faith is the reward of justification, rightly in the sacrament of the wood that transfers water from bitterness into sweetness are contained both justification and judgements and testing. And they came to Elim, and there were there twelve springs of water and seventy palm trees; and they encamped there by the waters. So the spiritual design is completed in the things done; for from Marah, the place of bitterness, they come to Elim, where there were twelve springs of water and seventy palm trees. After the knowledge of the sacrament of the wood, that is, of the apostolic and evangelical preaching, a dwelling is sought, with seventy preachers giving shade for a time and twelve apostles flowing for ever; and because the seventy chosen preachers of the gospel were afterwards found unbelieving, although they had brought back the fruit of faith in the unclean spirits made subject to them, while the apostles persevered in the preaching of the faith, therefore, though mention is made of seventy trees with twelve springs, yet according to the faithful record of scripture the rest is taken by the waters alone."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.38.1.1",
+   "text": "Now in the flesh of the quails and the food of manna, how great and how complete is the meaning of a spiritual matter! The people that had been led out of Egypt murmurs against its leaders; it longs for the meat it used to eat in Egypt. A flock of quails flying in at evening covers the camp; the people is fed on their flesh. In the morning manna is found."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.38.2.1",
+   "text": "Without distinction of age or sex the same measure is decreed for each: he who gathers more has no surplus, he who stores less is not in want. In what was beyond need, worms seethed. And what remained of the manna left in the field melted away as the sun grew hot."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.38.3.1",
+   "text": "On the sixth day a double portion is stored and does not spoil; on the seventh day there is no manna, though some wait for it in vain. Finally an omer, the portion appointed for each, stored in a golden vessel, is kept as a testimony for the generation to come."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.39.1.1",
+   "text": "And this too must be observed, that the manna is given as a test: by keeping its rules each one was to be proved, whether he was fit for the commands of God. For thus it is written: The Lord said to Moses: Behold, I will rain bread for you from heaven, and the people will go out and gather a single"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.39.2.1",
+   "text": "day's [portion] day by day, that I may test them whether they will walk in my law or not. But of the meat it was said thus: In the evening you will eat meat, and in the morning you will be filled"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.39.3.1",
+   "text": "with bread. Eating in the evening is signified in the meat, but filling in the morning in the manna. So what pertains to the meat is this: that the people remaining in the desert is held by desire for its habits; for it longs for the meats of Egypt. It takes up at evening, being namely unfaithful to God and impatient of his promises until the consumma-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.39.4.1",
+   "text": "tion of the age, which is signified by the evening, the desires of the world, which has frequently been signified under Egypt. Indeed the people had this meat only once, so that it might be understood as given not for necessary use but for the significance of prefiguration. But in the manna there is testing; for the people is tested by it, whether it will be obedient to God, that is, whether they will be worthy to receive the true bread from heaven; and the meaning of this testing must be sought from what follows."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.40.1.1",
+   "text": "It is found in the morning; for this, in the resurrection of the Lord, is the time of the heavenly food. The same is appointed for every age and sex; contrary to human nature, for when does a little child need as much food as a man? But according to spiritual prefiguration it is most fitting, the heavenly food being imparted equally to all, undivided in power by its portions (for we speak a sacrament to those who know), with none of the greater having a surplus nor"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.40.2.1",
+   "text": "any of the least in want, all, that is, being equally filled from what was received divided into portions. But in what was gathered beyond measure and was left over into the morning, where there are worms and stench, it is not doubtful that for those who have gathered unnecessary things beyond the heavenly gift and spiritual teaching, these things are both foul in sense, that is, corrupted from the truth, and seething with the vices of demons, that is, restless with worms, and are one day to be dissolved into liquid as the sun grows hot, that is, when Christ, who is the sun of justice, returns for judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.41.1.1",
+   "text": "In the double gathering of manna on the sixth day for the rest of the seventh, we are admonished to an accumulated preparation of spiritual works, so that we may use the goods prepared at the time when rest is at hand. Indeed what remains from the sixth day does not spoil, while what is beyond the measure of the other days stinks."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.41.2.1",
+   "text": "So too for things that are beyond what is prescribed, corruption is laid up in advance. Therefore in this time of our age we must work for what we may use in the rest. Now the time is that of this sixth thousandth year, which is signified under the number of the sixth day, as the prophet says: For a thousand years in the sight of the Lord are as one day."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.41.3.1",
+   "text": "So the people is fed on the seventh day, that is, in the rest of the Lord, on food stored the day before, and uses what it had prepared, not about to find on the seventh [day] anything by which it might be fed, many going out into the field and finding nothing; that is, when the times of the ages are closed, we shall find nothing else for the use of our rest than what has been prepared and stored up by us beforehand."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.42.1.1",
+   "text": "Then an omer of manna is ordered to be kept in a golden vessel before the Lord for generations to come. But where, pray, is this vessel, and where is the manna that was stored, after the people's frequent captivities? After the twofold destruction of the city and the temple, what was laid up does not exist. And what then?"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.1.42.2.1",
+   "text": "Do we then suppose that God did not know that the manna could not be kept for generations? Certainly He who foresees the very plans of men to come is not to be believed to have been ignorant; rather, through the figure of the golden vessel and of the manna stored before God and kept for generations to come, He showed that He would be precious and eternal who was to keep the manna received in His body as in a golden vessel, while God watches over the undefiled keeping of this spiritual food taken up by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.ab1",
+   "text": "BOOK TWO."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.1.1.ab1",
+   "text": "ON HOSEA."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.1.1.1",
+   "text": "And in the book of the prophets another word of the Lord to Hosea is read: Go, take for yourself a wife of fornication,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.1.2.1",
+   "text": "because the land will commit great fornication, [departing] from the Lord. And after much in between, full of cursing against her, and after the birth of Israel and Not-loved and Not-my-people, these things are made known: And I will make for them on that day a covenant with the beasts of the field and the birds of the sky and the serpents of the earth, and I will break bow and sword and war from the land, and I will settle you in hope (and I will betroth you to myself) for ever. I will betroth you to myself in justice and faith, and you will know the Lord. And it will be on that day, says the Lord: I will hear the sky, and the sky (will hear) the earth, and the earth will hear the grain and the wine and the oil, and they will hear Israel. And I will sow her for myself upon the earth, and I will love Not-loved, and I will say to Not-my-people:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.1.3.1",
+   "text": "You are my people. And as far as I judge, there is no room for hesitating to understand here a prefiguration of the Church, since the apostle judged that what was said above to Hosea about the children of this harlot is to be referred to the people of the faithful, saying to the Corinthians: He called us not only from the Jews but also from the nations, as He also says in Hosea: I will call him who is Not-my-people My-people, and Not-loved Loved. And it will be in the place where they are called Not-my-people, there they will be called sons of the living God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.2.1.1",
+   "text": "What therefore was done bodily in the prophet, that is, marriage and begetting — for three were born of the harlot, of whom the first by God's command was named Israel, the next, a daughter, was called Loved, the third was called Not-my-people — this is both confirmed and carried out by God for spiritual understanding."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.2.2.1",
+   "text": "For this harlot joined to the prophet the Lord made His bride in justice and faith, making a covenant with the beasts of the field, that is, with men savage by the law of the world, and with the birds of the sky, namely those living under the emptiness and vanity of this world, and with the serpents of the earth, that is, those set in the body with a poisoned and deceitful mind; about to break the bow among the serpents, the sword among the birds, war among the beasts; about to tame in peace, by the kinds of weapons and the names of animals, the various impulses of the human mind: the wars of beasts, the darts of flying things, the venoms of serpents."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.3.1.1",
+   "text": "Also the sky hearing the sky and the earth hearing the earth signifies, in the one who hears and the one who is heard, a difference in number, while showing that what hears and what is heard is the same thing, since sky hears sky and earth earth; but there is a signifying both of divinity in the sky and of bodiliness in the earth. And because the Lord was born man from God, and we, being from man, are to be conformed to God, therefore sky [hears] sky and earth will hear earth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.3.2.1",
+   "text": "But as for His hearing in the grain and wine and oil, although these insen-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.3.3.1",
+   "text": "sible things surely have no sense of hearing, He nevertheless shows that it is He, under the sacrament of anointing and of the body, who is to hear in them. Through these, while Israel heard, He sowed the harlot betrothed to Himself in hope, passing over the one who was named Israel and granting to the others the honour of a change, so that what was not His people should be His people, and she who was not loved should be Loved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.4.1.1",
+   "text": "For Israel was chosen from the nations in Abraham his father, as is said in the Psalms: the house of Jacob from a barbarous people. But lingering in sins and given over to vain religions"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.4.2.1",
+   "text": "and faithless to God's promises, he did not deserve to obtain the fulfilment of the promises, and, chosen first to be God's people, lost the honour of election. For silence is kept about Israel, born first of the harlot, and the whole word of God is about those born afterwards, after those earlier had been rejected and removed from affection and ownership, born to be not loved, begotten to be not used. But first the harlot was chosen as a bride for God, of faith and justice; then those who were not loved, who were not His own, who were of the harlot's offspring, these are named sons of the living God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.4.3.1",
+   "text": "And this word of God, by which the prophet is ordered to take a harlot as wife, had to be recalled for this reason: since we are taught that all things are prefigured through the deeds of the Old Testament and are to be accomplished in the Lord and through the Lord, by this very fact, that a harlot is joined to the prophet, we should understand it shown that Gentile ignorance is coupled with prophetic teachings, from which those begotten would be called loved from not loved, a people from not a people, sons of God from a harlot mother."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.4.3.ab1",
+   "text": "ON JOSHUA SON OF NUN."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.5.1.1",
+   "text": "And although it was useful to have treated this for recognising the meaning of spiritual deeds, yet this passage was recalled by us chiefly for this reason: since we were to speak of Rahab, through whom we would show that the Church is prefigured in her, [it was] so that we might safely set down this comparison of the Church and a prostitute as our understanding of the sense, since the harlot joined to the prophet was found, as a prefiguration of the Church, to be betrothed in the eternal hope of justice and faith and knowledge of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.5.2.1",
+   "text": "And in this, that all things were done in her under Joshua, lies the greatest power of the prophecy. For in the name given, Jesus, the complete account of the sacrament to come was shown. For after much speech of God to Moses, when he had been told to make everything on earth according to the pattern he had seen on the mountain, he gave the name Jesus to the one previously called Hoshea, who was to be the leader of the people going to the land of promise. Ordered to arrange all things according to the pattern of the heavenly vision, Moses added to the future leader that name which was already prepared in heaven for the eternal Leader."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.6.1.1",
+   "text": "For as this one was head of the synagogue, so that One of the Church. As this one was leader for possessing the promised land, so that One leader for the land to be inherited, of which the Lord says: Blessed are the meek, for they shall inherit the land."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.6.2.1",
+   "text": "As this one [came] after Moses, so that One after the Law. As circumcision repeated with a knife of stone was enjoined on this one, so by the Lord, who is both the sharp word piercing even to the division of the soul and the cornerstone, circumcision of the heart was spiritually renewed. As this one divided the waters, so that One divided peoples; for He says: I came not to send peace but division."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.6.3.1",
+   "text": "As this one brought up twelve stones for an eternal testimony both from the depth onto land and placed [others] from land in the depth, so that One both brought forth the apostolic teaching from the synagogue and left it in the synagogue, to make use of it even now, if it wished, since for an eternal testimony in the twelve stones the apostolic teaching was both brought forth from the Law and yet was found in the Law."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.7.1.1",
+   "text": "And how evident and how complete is the division of the waters itself, since one part stood whole and full, while the other, its channel"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.7.2.1",
+   "text": "dried up, all flowed off into the sea, and yet the ark of the Lord stood in the middle with the priests! By this sign it is understood that part of the people, at the coming of the ark of God, that is, the bodily coming, would cease from the course of sins and of its death, while the rest flowed down into the sea, that is, into the condemnation and fellowship of this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.8.1.1",
+   "text": "Under this Joshua, then, what was done by Rahab and in Rahab must be considered. For two spies, to survey"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.8.2.1",
+   "text": "the land and the city in Jericho, turned aside to this prostitute's house. She receives and hides them; when the king demands that she hand them over, she lies that they have gone back. Then, with them hidden at home, she says that she knows the Lord has handed over everything of that city to them, and that their God is above in heaven and below on earth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.8.3.1",
+   "text": "She begs that they preserve her and all her house at the time of the city's capture. The spies promise that whatever was found within her house would remain unharmed, [but] whoever left the house would be guilty for himself; and they set as a sign a scarlet cord hang-"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.8.4.1",
+   "text": "ing from the window, and report the whole matter to Joshua. Then the city is approached. The priests with the ark of the Lord go round it for six days, but on the seventh day, when they had gone round seven times, at the sounding of the trumpet the walls of the city fell, and when all who were in the city had been killed, Rahab alone with all her house is preserved by Joshua."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.9.1.1",
+   "text": "This order of events is bound up with great sacraments of things to be done spiritually. The prostitute received at home two spies sent by Joshua: the sinful Church received the Law and prophecy sent to explore the faith of men, through which God is confessed both above in heaven and below on earth. After His spiritual generation, it learned of His attested bodily birth, for it learned in these: Afterwards He was seen on earth and lived among men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.9.2.1",
+   "text": "From the same [spies] it also received a sign of salvation in scarlet, a colour that is royal for its dignity and blood-red for [His] bodily nature, both of which fit the Passion, since the Lord was both clothed in such a garment and blood flowed from His side."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.9.3.1",
+   "text": "Manasseh also received this scarlet as a sign; by this blood too the houses marked in Egypt were kept safe, and the book of the covenant was sprinkled, and the people was sanctified. But whoever of the household was found outside the house was made guilty for himself, which teaches that those who are outside the Church will be the cause of their own death."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.10.1.1",
+   "text": "Now Jericho, set as a figure of this world, is gone round for six days; on the seventh it falls at the sound of the trumpet, and the house of Rahab is kept intact through Joshua."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.10.2.1",
+   "text": "For in the six days is shown the time of six thousand years, during which [men] have wandered about the world and run round it in a kind of circle of generations, while this same world is to be dissolved at the sound of the trumpet in the seventh millennium, and the Church alone, through its reception of the spies, through its confession of God in the body, through the sign of scarlet decreed by Joshua, is to be preserved with all its household."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.11.1.1",
+   "text": "We have often urged that care must be brought to the reading of the divine Scriptures, a care that could discern by careful examination and with judgement that is not idle when the record of events is to be understood simply and when typologically, lest by misusing both without restraint or skill we should make both useless to our hearers, if either the understanding of plain things were corrupted by idle assertion of prefigurations, or the force of the prefigurations went unrecognised under the supposition that they are plain things; although the word of the divine Scripture is such that nothing in it is found idle, nothing outside the purpose of some necessity, nothing set forth that does not call for discernment in the understanding we are to pursue."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.12.1.1",
+   "text": "For when the creation of the world is related, God is known in the act of creating; when we hear that Enoch was translated, [we learn that it] can be done, [and] man is understood to be eternal; when Lot is to be preserved when the five cities were burned up, we learn that the innocent are God's care; when his wife, looking back against God's command, is changed into a pillar of salt, we are trained to obedience to God's ordinances by fear of the example; when the sins of the Amorites are waited for to be filled up, we come to know both the mercy and the justice of God, since by His waiting time is extended for us to cease from sins, and vengeance, deferred until the full measure of crimes, is decreed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.13.1.1",
+   "text": "And then the order of the generations, the choosing of Abraham, the begetting of the patriarchs, the servitude of the people, the disaster of the Egyptians, the dividing of the sea, the raining down of manna, the establishing of the Law, the distinguishing of sacrifices, the time of the judges, the knowledge of the kingdoms, the deportation of the people into captivity,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.13.2.1",
+   "text": "the visions of the saints, the admonition of the prophets — how necessary it is for knowledge! For in all the things mentioned above God the Father and God the Son, and God the Son from God the Father, God and man Jesus Christ, is recognised: when at the creation of the world God commands and God makes; when man is formed after the likeness of a shared image; when the Lord rains sulphur and fire from the Lord — for no one would command himself to act, nor would one alone extend his partnership to another, nor would one give to himself and receive from himself —; when a man is seen by Abraham and is worshipped as God; when in Jacob's wrestling God is seen [in the form] of a man, when holding the man he asks to be blessed by the Lord; when, though only three youths had been cast into the furnace by Nebuchadnezzar, a fourth is seen, like the Son of God; when a virgin bears Emmanuel, He who is God with us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.14.1.1",
+   "text": "It was fitting, then, that these things, signified by all and known and fulfilled in that One, should be kept for remembrance in written and sealed volumes, so that later generations, instructed by the deeds of former time, might both contemplate present things in past ones and still revere past things now in present ones."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.14.2.1",
+   "text": "For since the same [things] constitute a perfect knowledge of the truth, if the truth is understood through reason — for all things were written for our knowledge and for the firmest assurance of our judgement —, neither did these things, which were recorded in books by God's decree, need the knowledge of later generations."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.14.3.1",
+   "text": "But later generations needed knowledge of the Scriptures, so as to learn the truth, to receive the teaching of the truth through reason, to follow the knowledge of life as carried forward as it were from the very cradle: namely, that they should not doubt [that there is] God from God, since the Lord rained from the Lord; should not be ignorant of the one unbegotten God, since God commanded; should not be unaware of the only-begotten God, since God made; should not doubt that the two are one, since a single pattern of a shared image was established in man; should not deny that God into man [...]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1.2.15.1.1",
+   "text": "[...] begotten of the fathers. And it is ready to hand to hear Paul boasting that he is a Hebrew of the Hebrews, an Israelite of the tribe of Benjamin. Therefore, since it is Elijah's office to turn the hearts of the fathers to the sons, the mystery of the perfected preaching is reserved for him, that he may turn the fathers to that faith which the same Spirit of prophecy has already confirmed in the sons."
+  }
+ ]
+}
