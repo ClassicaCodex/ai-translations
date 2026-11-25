@@ -1,0 +1,1171 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg4016.tlg005",
+ "edition_urn": "urn:cts:greekLit:tlg4016.tlg005.ai-claude",
+ "source_edition": "tlg4016.tlg005.1st1K-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-20",
+ "updated": "2026-11-25",
+ "whole_work": true,
+ "header": {
+  "title": "In Aristotelis analytica priora [Sp.]: AI translation (Claude)",
+  "author": "Ammonius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg4016.tlg005.1st1K-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226r.1": "226r.1: 'τῷ δὲ ἐξ ἀνάγκης οὐ παντί' lacks Γ; supplied as [C]. 'περιουσιαστική' rendered 'superfluous' (i.e. not strictly needed). 226v.1: 'τῷ δὲ Α' must be read τῷ δὲ Δ; translated as [D]. 228r.1: 'καὶ οὐ λέγω ἁπλῶς' is obscure, possibly corrupt; rendered literally. 228v.1: the bracketed '[ψεύδεται ἡ]' appears to be an intrusive gloss; rendered as bracketed. The ellipsis in Theophrastus' quotation of Aristotle ('πλὴν οὐχ ὁποτέρας ἔτυχεν') is expanded as [to be necessary]. 'ἀποκλήρωσις' rendered 'arbitrary preference'.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229r.1": "229r.1: the edition marks a crux (†) before ὅτε; the sense seems to be 'when' or 'hence'. 229r.2, 230v.1: the abbreviations after the term lists (ἀναγκ., ὑπ., ἐνδεχ.) appear to be the modal labels of a diagram for major, minor and conclusion; rendered as 'nec.', 'assert.', 'cont.'. 230v.1: the Republic examples are garbled and their layout as a diagram is uncertain. 231r.1: 'εἰ δὲ μὴ ἢ' read as 'εἰ δὲ μὴ ἡ'; 'is necessary' is implied by the argument and supplied in brackets. 230v.2: 'ἀνύνατον' is read as ἀδύνατον. 231v.1: 'ὁρισμόν' is probably to be read as διορισμόν ('qualification'), as at the parallel in Sosigenes' argument; it is translated accordingly.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.231v.2": "Line 231v.4: Proclus' school commentary on Prior Analytics I is otherwise unknown. 233v.1: the Greek text reads οὗ μὴ ὄντος ('which not being'), apparently an abbreviation of Aristotle's μὴ ὄντος ἀναγκαίου; the commentator himself glosses it as 'not necessary', which is why it is rendered that way. In the same line, [καὶ] is deleted by the edition and is left untranslated. 234r.2–3 are a table; its columns are marked with '|'. In 234r.4, the claim that the contingent conversions 'keep the order of the terms' contrasts them with simple conversion.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234v.2": "234v.2: δέει τῆς ἀποφάσεως ('for fear of the negation') is obscure; the following ὃ γὰρ δὴ οὐκ ἐνδέχεται may be corrupt. The phrase 'seminal form' renders σπερματικῶς. 235r.7 ἢ taken as ἢ (= 'because/namely'). 236r.1 ταντὶ read as παντί. 236r.5: the bracketed sentence is so bracketed in the edition, apparently a doublet. 'Four ways by quality' (236v.1): presumably the four combinations of affirmative/negative premisses.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236v.2": "236v.2: 'ὑπερέχεται τὸ Α ὑπὸ τοῦ Β' is odd (one would expect A to exceed B); translated as printed. 237r.1: 'ζητητέον δὲ μὴ' read as an indirect question ('whether'); sense uncertain. 'τὸ ἐξ ἡμισείας ἀναγκαῖον' rendered 'half-necessary'. 238r.2: lemma 'ἡ ὑπάρχειν ἡ ὑπάρχειν' contains a dittography. 238r.3: the text's distribution of 'possible' across coming-to-be/being true/holding is translated as printed but may be corrupt. 239r.1: final sentence elliptical; 'πάλαι' rendered 'long since', sense uncertain. Πίστις: Platonists = 'οἱ ἀπὸ Πλάτωνος'.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.239r.2": "240v.1 ends with the labels of a diagram of opposed modal propositions (contingent and necessary universals and particulars, with 'contradiction' marked twice); they are translated in order as they stand. 240v.3: 'raven... thinking' (κόραξ, διανοούμενον) and 'knowledge... moving' refer to Aristotle's example terms; the lemma's phrase 'the terms must be taken better' is read as quoted, though the text could also be the commentator's own words. 241r.3: 'and [half-]contingent' supplied for sense.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241v.2": "241v.3/242r.1: 'ὃ' read as the numeral δ' (four) in 242r.2. 242r.1: the sentence on the minor premise is compressed and its point unclear. 242v.2: 'καὶ πάλαι' may mean 'did not use ... earlier either'; sense uncertain. 243v.1: lacuna marked in the edition after the opening claim (the reductio's supposition is lost). 242v.3: 'ἔμεινε ὃ τρόπος' read as 'the mode (necessity) remained'.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244r.2": "244r.3: 'white lead' renders ψιμίθιον (= ψιμύθιον, ceruse). 246r.1: the end of the preceding line (εἴποι / ὁ Ἀριστοτέλης) is split across references; the sense 'Aristotle would say: but the contingent has remained in its species' is somewhat obscure. 246r.1: the closing quotation mark after ἀδύνατον has no matching opening mark in the text. 246v.2: the question mark is printed as a colon.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.246v.4": "Line 246v.5: 'they convert' is used loosely of implication between diagonal contradictories (from 'every' to 'not every' via 'some'?); the argument as transmitted is odd and may be corrupt. 247r.1: 'if every, then also not every' is as the text reads; perhaps 'not every' should be 'some' or the sense is the contingent case. 247r.4: 'μὴ ὑπάρχει' read as 'μὴ ὑπάρχειν'. 247v.5: the bracketed words are the edition's. 248r.1: 'ἐφιστάνει' taken as 'observes'.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.2": "249v.1: ἐκβηβηκός read as ἐκβεβηκός. 249v.1 'ὅπερ καὶ κατὰ τοῦ ἐξ ἀνάγκης οὐδενὶ φέρεται' — the sense of the reductio here is compressed and the passage may be corrupt. 249v.3: the bracketed repeated [ἀναγκαῖον] is the editor's deletion and is not translated. 250v.2: 'τὸ μὴ δύνασθαι ἔτι εἶναι' (not being able any longer to be) is odd as a property of the contingent; perhaps corrupt (cf. 249v.1 'as changing'). 250v.8: ὑπάχειν read as ὑπάρχειν.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251r.5": "251v.3: the distinction between οὐδενὶ ἐξ ἀνάγκης and ἐξ ἀνάγκης οὐδενί is compressed and the sense uncertain; rendered literally. 251v.6: the term lists are table headings from the edition. 253r.7: bracketed [οὐ] follows the editor's deletion.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253v.4": "Line 253v.5: the edition's συννημένον is read as συνημμένον. Line 254r.2: διεζευγμένον is rendered \"disjunctive\" and τροπικόν \"tropic\". In 254v.1 the third mood is described as \"denies by positing\", like the fourth; this is the text as given. The fourth mood is again \"from separation ... denies by positing\" as transmitted. Line 255r.1: the edition prints a diagram of the division as stray words, and these are rendered as a bracketed list. In the same line, \"the third over two kinds of matter\" seems to clash with the earlier claim that the third covers three kinds; the text answers this itself.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.255v.4": "Line 8: the edition marks a lacuna after ὅπερ, rendered [...]. Line 13: Θαίδωνι read as Φαίδωνι (Phaedo); the bracketed clause \"where the self-moved is immortal\" is marked by the editor as an intrusion (it belongs to the Phaedrus argument) and is kept in brackets. Deleted readings in the edition ([ἡ], [ε′], [πάλιν], τοῦ[το]) are followed as the edition corrects them. Line 2: \"neither wholly nor not wholly\" is obscure as transmitted. Line 9: τὸ ἐξ ἡμισείας ἐνδεχόμενον καὶ ἀναγκαῖον may instead mean 'the one-sided (half) contingent, and the necessary'; the bracketed [half-] is a supplement.",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258r.3": "258v.6: συπέρασμα read as συμπέρασμα. 259r.2: the Republic premises as printed are lacunose; the second clause (\"the wise man does not wish to have more than one like him, but\") is supplied in sense from the parallel structure. 259r.4: πρστάσεων read as προτάσεων; \"the Ethiopian\" refers to the standard school example (black/white) run through the three figures. 259v.1: the etymological puns kalon/kalei and agathon/agan thei are kept by transliteration. 260v.1: ὃ read as δ′ (numeral four).",
+  "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260v.2": "In 261r.4 'τὰ ὃ' is read as τὰ δʹ ('the four'), the numeral misread by the scan, as with 'ὃ' = four in the previous stretch. In 261r.5 the bracketed '[οὐδενὶ ἢ τινὶ]' is the edition's addition; 'ὃ' there is taken as a relative ('which'), possibly for ἃ; the sense ('shown in two figures') fits 'to none' (first and second figures) better than 'to some', so the bracket may be faulty. In 261r.3 'ἐπάγει' is read as 'he adds', with the sentence slightly elliptical. The table in 260v.4–5 is rendered as continuous text."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226r.1",
+   "text": "\"In the same way up to the end of the three figures.\" After the syllogisms with assertoric premisses he presents the necessary [syllogisms], since the assertoric is closely akin to the necessary: for what holds, so long as it holds, is necessary; and the conversions behave alike for the assertoric and the necessary. For this reason the syllogisms too behave almost alike for the assertoric and the necessary. He says \"almost\" because of the fourth mood of the second figure and the fifth of the third. For in the assertoric these were not proved by conversion but by reductio ad impossibile and by ecthesis, and proof by reductio and by ecthesis, which in the other [moods] is superfluous, became necessary in these. In the necessary, however, they are not proved by reductio, since in the necessary and the contingent contradictories are taken by our opposing mode to mode, quantity to quantity, quality to quality; and so we fall into a mixture of contingent and necessary, of which we do not yet know what it concludes. They are proved by ecthesis alone, and proof by ecthesis, which in the assertoric is superfluous [except] in the moods mentioned, becomes necessary in the necessary. They are proved by ecthesis in this way. Let it be the fourth mood of the second figure: A [belongs] of necessity to every B, and of necessity not to every [C]. I say that B [belongs] of necessity not to every C. For since A [belongs] of necessity not to every C, let D be under C, to none of which A belongs."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226v.1",
+   "text": "Since, then, A [belongs] to every B of necessity and of necessity to no [D], therefore by the second mood of the second figure B [belongs] of necessity to no D; but D is some C; therefore B [belongs] of necessity not to every C; which was to be proved. Now let it be the fifth mood of the third figure, and let A [belong] of necessity not to every C, and B to every C of necessity. I say that A [belongs] of necessity not to every B. For since A [belongs] of necessity not to every C, A will of necessity belong to none of some [part] of what is under C, say D. Since, then, A [belongs] of necessity to no D, and B of necessity to every D, therefore by the second mood of the third figure A [belongs] of necessity not to every B."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226v.2",
+   "text": "That the assertoric, the necessary and the contingent are different. For the contingent neither holds nor is necessary, but is going to hold; and the assertoric is the contingent that has come about, and in this way differs from the contingent and from the necessary."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226v.3",
+   "text": "That the syllogisms of the three are also different, in that the premisses and conclusions are sometimes of the assertoric, sometimes of the necessary, sometimes of the contingent. \"For the privative converts in the same way.\" But so does the affirmative; indeed, the affirmative more so, for it converts in the same way in all three, whereas the privative converts in the same way only in the assertoric and the necessary, but otherwise in the contingent. And for this reason he mentioned only the pressing [case]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226v.4",
+   "text": "In its own figure, even if not in its own mood."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226v.5",
+   "text": "That in the assertoric and the necessary, proof by reductio, which is superfluous in the second figure except for the fourth mood and in the third except for the fifth mood, has become necessary in the fourth of the second and the fifth of the third. That demonstration by ecthesis, which is superfluous in the assertoric in the fourth of the second and the fifth of the third, has become necessary in the necessary in the fourth of the second and the fifth of the third."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.226v.6",
+   "text": "How did he prove, in the assertoric, the fourth mood of the second and the fifth of the third by reductio without opposing mode to mode, quantity to quantity, quality to quality,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.227r.1",
+   "text": "if the assertoric too is a mode? For it signifies the contingent that has come about. For it is not the case that, if \"holds not of every\" is false, \"holds of every\" is true, since with [propositions] that have a mode the negations are formed according to the modes. Or else he then used \"holds\" in place of \"is\": for before the mixtures the assertoric is equivalent to \"is\", but in the mixtures it is a mode signifying the coming-about of the contingent. You will show the first from its being said that every premiss is either of holding or of holding of necessity or of possibly holding; for if holding too is a mode, where are the premisses without a mode? And the second from the mixtures being of modes: for \"is\" is always joined to every mode and never makes a mixture. The assertoric is not a mode, if every premiss is either of holding or of holding of necessity or of possibly holding; for where are those without a mode, if the assertoric too is a mode? Or: in the assertoric, when proving the fourth of the second and the fifth of the third by reductio, he took as contradictory of \"holds of every\" \"holds not of every\", not \"does not hold of every\"; for the negations of affirmations with a mode are formed according to the modes. That the assertoric is a mode, if he mixes it with the necessary and the contingent; for mixtures are of modes; for one does not speak of a mixture of what holds in the sense of \"is\" with the necessary and the contingent, since it is always present with them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.227r.2",
+   "text": "ON THE MIXTURES"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.227r.3",
+   "text": "\"But it sometimes happens.\" After the syllogisms of the assertoric and the necessary Aristotle presents the syllogisms of the contingent. But first he mixes the assertoric with the necessary, for two reasons: either because the account of contingent syllogisms is intricate, or in order to complete the account of the assertoric and the necessary, the simple [cases] being known, and the compound too. By \"assertoric\" he now takes not, as in the three figures, what is in the sense of \"is\", but [what is] in the sense of the contingent that has come about. For if the assertoric in the three figures were a mode, the premisses without a mode will have been left out"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.227v.1",
+   "text": "(for he said there: \"since every premiss is either of holding or of holding of necessity or of possibly holding\"); and if the present assertoric were not a mode, there is no mixture, for every mode is joined with the bare \"is\". In the mixtures we do not ask [whether] a universal or a particular is concluded, nor whether an affirmative or a negative (for in these respects no change arises from what has been said, since then too the universal assertoric was taken as applying to the modes as well), but whether the conclusion is assertoric or necessary or contingent. When, then, a mixture of assertoric and necessary occurs in the first figure, Aristotle holds that the conclusion follows the major; if in the second, the one that converts; if in the third, the one that does not convert; for these become majors in the reduction to the first figure. But in the fourth mood of the second figure and the fifth of the third, which are not reduced to the first figure by conversion, the conclusion follows the worse. His associates, Theophrastus and Eudemus, and the Platonists, say that universally, here too, the conclusion follows the worse, just as in quantity and in quality. Of the later [commentators], Alexander and Iamblichus followed Aristotle, while Themistius, Syrianus and Proclus followed Theophrastus, Eudemus and the Platonists. That from a necessary major and an assertoric minor a necessary [conclusion] is drawn, Aristotle shows thus: if A [belongs] to every B of necessity, and B to every C assertorically, A [belongs] to every C of necessity, by the definition of \"said of every\". But A, they say, does not belong of necessity to every part of B, but only to its necessary parts; and C is not one of these, because the premiss BC is assertoric; for this reason C can be no part of B at all, when it is separated from it. And since A is inseparable from B, while B is separable from C, A too is separated from C, and therefore does not belong to it of necessity. Alexander,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.228r.1",
+   "text": "pleading for Aristotle, proves the conclusion necessary also by reductio, in this way: if A does not [belong] to every C of necessity, it possibly [belongs] not to every; but B also [belongs] to every C assertorically; therefore by the fifth mood of the third figure, in which even according to Aristotle the conclusion follows the worse, A possibly [belongs] not to every B; but it also [belongs] to every of necessity; which is impossible, for these are contradictories. But, first, the proof is circular; for Aristotle will next prove the aforementioned proof of the third figure by means of the present mixture. Second, by the same arguments an assertoric, a contingent and an impossible [conclusion] are drawn as well: for if A [belongs] not to every C in whatever way you like, since B [belongs] to every C, A [belongs] not to every B, and I do not say simply; which is impossible, for it is laid down that A [belongs] to every B of necessity. So either all three are not concluded, or not the necessary either. The cause of the absurdity following when the conclusion is supposed necessary, and contingent, and assertoric, is not the mode of the conclusion, but that \"to every\" is concluded in truth (for from two universal affirmatives a universal affirmative is always concluded in the first [figure]), while \"not to every\" is laid down. Sosigenes, Alexander's teacher, said that what is concluded is necessary in the qualified sense: for so long as the middle belongs to the last, the major too necessarily belongs to the minor. But as far as this goes, even when the major is assertoric the conclusion is necessary; for again the major necessarily belongs to the last, so long as the major belongs to the middle; and every syllogism concludes what is necessary on a hypothesis, by the definition of syllogism; and in the second figure Aristotle shows a combination not concluding the necessary, because it concludes the necessary with qualification. Herminus said that the conclusion becomes necessary not always, but in certain matter; for if we take"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.228v.1",
+   "text": "animal, man, walking, a necessary [conclusion] is drawn; but if animal, man, moving, [is false the] contingent. For this reason Aristotle too said \"but it sometimes happens\". But Aristotle determined this by adding \"but not when either one happens [to be necessary], but when the major is necessary\". And he made the proof with letters, since he was making it universal. Theophrastus and his school argue their case thus: what is the arbitrary preference for the conclusion not following the worse in the case of modes as well? Or what is the arbitrary preference for the conclusion following the worse, according to Aristotle, only in the fourth of the second and the fifth of the third? And why does Aristotle prove the combinations concluding the necessary not through terms but only through the universal argument, while those concluding the assertoric both through the universal argument and through terms? Clearly it is because the assertoric is always concluded and he cannot find terms concluding the necessary, but in the universal arguments he deceives us; and every argument, if the facts are absent, appears something vain and empty. And if in the second figure the conclusion follows the one that becomes major in the reduction to the first figure, in the first mood of the third figure, from an assertoric and a necessary, both an assertoric and a necessary [conclusion] are drawn, since either can become the major in the first figure, even if in one case we need one conversion and in the other two. Or this is not absurd: for in the third figure everything concluded is particular, and a particular can be both assertoric and necessary; for example, white [belongs] to some animal assertorically because of man, and necessarily because of swan. The verdict, as the one who expounded this to me said, following Iamblichus' commentary, runs this way: from a necessary major and an assertoric minor in the first figure both a necessary [conclusion] is drawn, with the terms animal, man, walking, and an assertoric, with animal, man, moving; for the assertoric is intermediate between the necessary and the contingent, having from the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229r.1",
+   "text": "the necessary its being present, and from the contingent its being able to change to not being. And for this reason the assertoric has a range, and the assertoric premiss can lie closer to the necessary or closer to the contingent. And when it is close to the necessary, a necessary [conclusion] is drawn, just as a necessary [conclusion] is drawn from two necessary [premisses]; but when it is close to the contingent, an assertoric [conclusion] is drawn, as with the terms mentioned. † When Aristotle too says that from a necessary major and an assertoric minor a necessary [conclusion] is drawn, he takes the minor as close to the necessary; but when [he says that] from an assertoric major and a necessary minor an assertoric [conclusion is drawn], he takes the minor as close to the assertoric. For this is why, when the major is assertoric and the minor necessary, he calls the major \"not necessary\", excluding it from the necessary and seeing it as inclining towards the contingent; but when the major is necessary and the minor assertoric, he calls the minor \"assertoric\", and not \"not necessary\", as inclining towards the necessary. But even if we say, they claim, \"rational [belongs] to every man of necessity, man to everything walking assertorically\", although the minor is close to the necessary, an assertoric [conclusion] is drawn; and if \"motion [belongs] to every walking necessarily, walking to every man assertorically\", although the assertoric minor is close to the necessary, an assertoric [conclusion] is drawn."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229r.2",
+   "text": "That the mixture of assertoric and necessary is puzzling: for neither is an assertoric [conclusion] always drawn, as the Platonists and Theophrastus [hold], because of these terms: animal, man, walking: nec., assert., nec.; nor, when the major is necessary, is a necessary [conclusion drawn], as Aristotle [holds], because of these terms: animal [belongs] to every man necessarily, man to everything moving assertorically, and animal to everything moving assertorically but not necessarily; nor, as Iamblichus [holds], when the assertoric minor is close to the necessary, is a necessary [conclusion] drawn, because of these terms: rational, man, walking: nec., assert., assert. But neither"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229v.1",
+   "text": "does a contradiction arise when we oppose mode to mode, quantity to quantity, quality to quality; for both \"it is contingent that some man is an animal\" and \"it is necessary that no man is an animal\" are false."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229v.2",
+   "text": "\"But let B merely belong to C.\" See: when the major is necessary he does not call the minor \"not necessary\" but \"assertoric\", as being close to the necessary, although, when the minor is necessary, he calls the major \"not necessary\"."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229v.3",
+   "text": "\"But if AB is not necessary.\" A belongs to every B, B to every C of necessity; [he shows] that it is not concluded that A [belongs] to every C of necessity. For if A [belongs] to every C of necessity, since C also [belongs] to some B of necessity by conversion, A [belongs] to some B of necessity; but it also belongs to every [B]; which is impossible, for what belongs to every [thing] can also belong to none. Or also thus, in the third figure: if A [belongs] to every C of necessity, since B also [belongs] to every C of necessity, A [belongs] to some B of necessity; but it is laid down that it also belongs to every [B]; which is impossible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229v.4",
+   "text": "\"Further, it is also evident from the terms.\" Only now do you have terms, they say, Aristotle; for why not earlier too, when you concluded the necessary by false reasoning?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229v.5",
+   "text": "\"But the animal does not move of necessity, nor does the man.\" In the examples too he calls the assertoric [premiss] that is close to the contingent \"not necessary\". For the proof is the same, by reductio ad impossibile and by terms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.229v.6",
+   "text": "\"In the particular syllogisms.\" That in the particular syllogisms too, when the major is necessary, the conclusion also becomes necessary: for if A [belongs] to every B of necessity, it belongs of necessity to every part of it; and some C is a part of B; so A belongs necessarily to that part. But A does not belong necessarily to every part of B, but only to the necessary parts of B. The same holds for the privative too. But if the major is assertoric, the conclusion too is assertoric and not necessary; for that an assertoric [conclusion] is drawn can be shown by reductio ad impossibile, but that a necessary one is drawn cannot be shown by reductio ad impossibile. For [let] A [belong] to every B assertorically,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.230r.1",
+   "text": "and B to some C necessarily; I say that A [belongs] to some C assertorically. For if \"belongs to some\" is false, \"of necessity to none\" is true, and not \"possibly to none\"; for the contingent is not opposed to the assertoric, since what now belongs may later not belong, and what now belongs is contingent, [being that] which, when it is not, but is posited to belong, nothing impossible results. And for this reason in reductions to the impossible the contingent should not be taken as the opposite of \"belongs\"; for they are not opposed in respect of necessary and impossible, but in respect of true and false. If, then, \"A belongs to some C\" is false, \"A [belongs] of necessity to no C\" is true; and C [belongs] of necessity to some B; so A [belongs] of necessity not to every B; which is impossible, for it belongs to every [B]; and the contradiction is \"of necessity not to every\", \"belongs to every\". But it cannot be shown by reductio ad impossibile that a necessary [conclusion] too is drawn. For example, I say that A [belongs] to some C of necessity; for if this is false, it possibly [belongs] to none; and C [belongs] to some B of necessity; so A possibly [belongs] not to every B; for a contingent [conclusion] is drawn here according to everyone, since the same premiss happens to be both the major of the first figure and the worse; but it also belongs to every [B]; and it is not impossible for the same thing both to belong to every [one of] the same and possibly not to every; for at the same time it is false, but not impossible, and later it is possible; so it is in no way impossible. But someone might say that, even if the impossible is not concluded this way, it is concluded another way: for if A [belongs] contingently to no C, since A [belongs] to every B assertorically, then in the second figure B [belongs] to no C contingently or assertorically; but it is laid down [to belong] necessarily to some; which is impossible. And that the conclusion is assertoric but not necessary, he shows as assertoric also from the facts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.230r.2",
+   "text": "Where does Plato say that in the mixture of necessary and contingent the conclusion follows the worse? In the first [book] of the Republic, in the conclusion"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.230v.1",
+   "text": "of the arguments against Polemarchus, with examples such as these: it is just to do harm to the bad and good to the good; to do harm to friends and good to enemies: nec., cont., cont. The just man does good to friends and harm to enemies; he does good to the bad if they happen to be friends, and good to the good: nec., cont., cont."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.230v.2",
+   "text": "In the universal combinations of the first figure, when the minor premiss is necessary, if the conclusion is supposed necessary, a falsehood follows by reduction to the impossible, that is, to the false. But in the particular we cannot, by reduction to the impossible, conclude a falsehood when the conclusion is posited as necessary; for the combination becomes non-syllogistic, whatever premiss we add to the conclusion, since it is particular: for if we add the particular, it is from two particulars and non-syllogistic; if the universal, a second figure arises from two premisses of the same form, and so it is non-syllogistic. But the conclusion is shown to be assertoric by the terms: motion, animal, white."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.230v.3",
+   "text": "MIXTURE OF ASSERTORIC AND NECESSARY IN THE SECOND FIGURE."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.230v.4",
+   "text": "\"In the second figure.\" That when a mixture occurs in the second figure, if the universal negative premiss [is necessary], as in the first three moods, the conclusion follows the universal negation; for this"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.231r.1",
+   "text": "becomes the major of the first figure in the reduction to the absurd; and it has been shown that the conclusion follows the major of the first figure. But if the universal negative premiss [is] not [necessary], as in the fourth mood, the conclusion follows the worse. And those [combinations] concluding the necessary he shows only by \"said of every\" and \"said of none\", but those [concluding] the assertoric both directly and by reductio ad impossibile and by terms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.231r.2",
+   "text": "\"But if the affirmative premiss is necessary, the conclusion is not necessary.\" That in those from two universals, if the universal negation is assertoric, the conclusion too is assertoric, he proves in three ways. And he begins from the second mood of the second figure; for he passes over the first as simpler, because it needs one conversion. First proof: A [belongs] to every B of necessity; A to no C assertorically; I say that"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.231v.1",
+   "text": "B [belongs] to no C assertorically. For since C belongs to no A by conversion, and A to every B of necessity, the first figure has arisen with an assertoric major, and therefore an assertoric [conclusion] is drawn: so C belongs to no B; so that B too belongs to no C. Second proof: if B [belongs] to no C of necessity, C too [belongs] to no B of necessity; and B [belongs] to some A of necessity by conversion; so C [belongs] not to every A of necessity; but it also belongs to none by conversion; which is impossible. Or, as the text has it, C [belongs] not to every A of necessity; but it also belongs to every [A]; for if A belongs to no C, C too belongs to no A; and for this reason C can also belong to every A. Third proof of the same, by terms: animal [belongs] to every man of necessity; animal to nothing white assertorically; and man belongs to nothing white, unless, he says, one were to say \"man [belongs] to nothing white of necessity, so long as\", as the premiss says, \"animal belongs to nothing white\". But in this way every syllogism concludes the necessary, by the definition of syllogism. So in the conclusions one should not take the necessary according to the qualification."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.231v.2",
+   "text": "\"But when the affirmative is both universal and necessary.\" In two ways, he says, the assertoric is concluded particularly: both in the fourth mood, when the affirmative is indeed universal, and in the third mood, when the particular affirmative is necessary; for then the remaining universal negative turns out assertoric, and for this reason the conclusion [is] assertoric. So \"and necessary\" is added for the sake of the second [case], not for the first; for however the universal affirmative stands, as to assertoric or necessary, the assertoric is concluded."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.231v.3",
+   "text": "MIXTURE OF ASSERTORIC AND NECESSARY IN THE THIRD FIGURE."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.231v.4",
+   "text": "\"But in the last figure.\" When a mixture of assertoric and necessary arises in the third figure, in the first mood, Aristotle says, the necessary is in every case concluded. Because in this figure the conclusion follows the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.232r.1",
+   "text": "non-converting [premiss]; for this becomes the major in the reduction to the first figure; and the non-converted [premiss] can be necessary. But as far as this goes, says the philosopher Proclus in his school commentary on the first [book] of the Prior Analytics, the mood under discussion can also always conclude the assertoric, through the non-converted [premiss] being able to be assertoric. How then does the same mood conclude two conclusions, sometimes always the necessary, sometimes always the assertoric? Or rather, the argument would be insoluble if what is concluded were universal; but as it is, the particular can be both necessary and assertoric; for animal [belongs] to some white thing both of necessity, because of the swan, and assertorically, because of some man. In the second mood he holds that the conclusion follows the universal negative; for this is in every case the non-converting [premiss] in the reduction to the first figure; and if the universal negative is necessary, the conclusion too is necessary, but if assertoric, assertoric. And he shows each through the first figure, but the assertoric alone also by terms; for falsehood everywhere treads on emptiness, not being carried on things. And the terms are: good [belongs] to no horse assertorically; animal to every horse necessarily; and good not to every animal assertorically. And he takes exception to the terms because of the major premiss; for if the middle term happens to be not horse but venomous beast, the [premiss] saying \"good [belongs] to no venomous [beast] assertorically\" is false; for good is separated from the venomous not contingently but necessarily. And he corrects the terms by changing the major: for sleeping and being awake [belong] to no horse assertorically; animal to every horse necessarily; and sleeping not to every animal assertorically. In the third, fourth and sixth moods he holds that the conclusion follows the universal, whether it is affirmative, as in the third and fourth, or negative, as in the sixth;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.232v.1",
+   "text": "for in these moods the universal is the non-converting [premiss]. In the fifth mood he holds that the conclusion follows the worse. So there are four qualifications of the conclusion with him for the present mixture and the present figure: one in the first mood, for the conclusion is always necessary; another in the second mood, for the conclusion follows the universal negation; another in the third, fourth and sixth moods, for the conclusion follows the universal premiss; another in the fifth, for [it follows] the worse. Or all these are one qualification, of this kind: when the proof is made by conversion, the conclusion follows the non-converted [premiss]; and it happens that the non-converted [premiss] in the first mood can always be necessary, in the second mood is in every case a universal negation, and in the third, fourth and sixth is in every case a universal premiss; but when the demonstration is not made by conversion, the conclusion follows the worse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.233r.1",
+   "text": "\"But when the affirmative is posited as necessary, whether universal or particular, or the privative [as] particular, the conclusion is not necessary.\" Three combinations together, he says, conclude the assertoric, the remaining one of the sixth and the two of the fifth; for one of the fifth has the universal affirmative necessary, the remaining one of the sixth the particular affirmative necessary, and the remaining one of the fifth the particular privative necessary."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.233r.2",
+   "text": "\"So it is evident that.\" This is proper neither to all the figures nor to the third alone, but only to the first mood of the third figure; for this concludes the assertoric in one way only, namely only when both are assertoric; but the necessary in two ways, both when both are necessary and when one is necessary and the other assertoric, as has been shown. Conversely, the fourth of the second and the fifth of the third conclude the necessary in one way only, when both are necessary; but the assertoric in two ways, both when both are assertoric and when one is necessary and the other assertoric; for in these moods the conclusion follows the worse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.233r.3",
+   "text": "\"But in both.\" That the mode of the conclusion is in every case anticipated in the premisses, as also the affirmative or negative, but not the universal or particular; for in the third figure particulars are concluded even from two universals. \"In both\", he says, [meaning] the simple and the mixed, and the simple in two ways, either from assertoric or from necessary [premisses]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.233r.4",
+   "text": "ON THE CONTINGENT."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.233r.5",
+   "text": "\"About the contingent.\" After the assertoric syllogisms and the necessary ones and the mixture of the assertoric and the necessary he passes on"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.233v.1",
+   "text": "to the contingent too. And first he teaches those from two contingents in the first figure, then the mixture of contingent and assertoric in the first figure, and finally the mixture of contingent and necessary in the first figure; then those from two contingents in the second figure and the two mixtures in the same figure; then the same three in the third figure. And before all these he sets out in advance what the contingent is, the contingent conversions, and in how many senses [one speaks of] the contingent. The contingent, then, is that which, not being necessary, yet if posited to hold, nothing impossible results. For since the contingent is not yet present, but can be present and after being present be absent, because it is not yet present it is not assertoric; because it can be present it is not impossible; and because after being present it can be absent it is not necessary. For this reason he defines it by the negations of the assertoric, the necessary and the impossible: \"that which not being necessary\", since it is not necessary; \"if posited to hold\", since it is not assertoric; for if it were assertoric, we would not need to suppose it to hold; and because \"nothing impossible results\", it is not impossible. And it is well said \"nothing impossible results\", and not \"nothing false\"; for something false does follow, since even supposing the contingent to hold is false, even if not impossible. And that this is the contingent the reductions to the impossible show; for having said \"if possible, let the opposite be\", when the impossible follows we say that the opposite is not contingent, by the definition of the contingent, and in this way we make the proposition necessary. Aristotle establishes the definition of the contingent later from possibles following on possibles and impossibles on impossibles, but here as follows: if it is not contingent that it be, it is necessary that it not be and impossible that it be; so the opposites too: what is contingent to be, this is not necessary not to be and not impossible to be. And for this reason the contingent is defined by the negation"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234r.1",
+   "text": "of the necessary and the impossible; for in general, of contradictions whose one members are true together, the other [members] too are true together. For let there be two contradictions, AB, CD, and let A and C be true together; I say that B and D too are true together. For if possible, let B be true of E, but D not; since then of everything [one must] either affirm or deny, and D does not belong to E, C belongs to E; so A too; but B too, by the hypothesis; which is impossible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234r.2",
+   "text": "it is not contingent to be | it is necessary not to be | it is impossible to be"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234r.3",
+   "text": "it is contingent to be | it is not necessary not to be | it is not impossible to be"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234r.4",
+   "text": "2. The conversions of the contingent were not the simple ones (for he will hand these down after the first figure, where he needs them; for the other figures are reduced to the first figure by simple conversion), but the contingent ones, which change only the quality but keep the order of the terms. According to this contingent conversion, then, the universals convert with each other and the particulars with each other: by the definition of the contingent, what may belong to none may also belong to every, and conversely; and what may belong not to every may also belong to some, and conversely; and further the universals convert to the diagonal particulars; for what may belong to every may also belong not to every, through the intermediate \"to none\"; and what may belong to none may also belong to some, through the intermediate \"to every\". But universals no longer follow on particulars; for it is contingent that not every animal walks; yet it is not contingent that every animal walks, because of the reptiles. And this is what Aristotle [says]. But his associates, Theophrastus and Eudemus, and also the Platonists, do not hold that a contingent negation converts to a contingent affirmation, since the for-the-most-part contingent, which the discussion is about, does not remain. For syllogisms are put forward by the arts, which deal with the for-the-most-part contingent; for if it is contingent that no man is six-fingered"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234v.1",
+   "text": "for the most part, it is contingent that every man and some man is six-fingered for the lesser part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234v.2",
+   "text": "3. That 'contingent' is said of every kind of holding: necessary, actual, future; but of the necessary and the actual [it is said] for fear of the negation, for [otherwise these would be] what is not contingent; of the future, in the proper sense. And the properly contingent is twofold: either determinate, like the for-the-most-part; for this is determined, since it is more than it is not; or indeterminate, like the equally [possible] and the for-the-lesser-part. But in what way is the for-the-lesser-part indeterminate? For this too is determined, being more not than being. Rather, the for-the-lesser-part is indeterminate with respect to holding, just as the for-the-most-part is indeterminate with respect to not holding. Through what? Through at least two premisses. How? With the middle either only predicated, or only subject, or both. When? When the properties of each figure are preserved, as was also said in the case of the simple syllogism. Why then are these things added now too? Because some combinations that are non-syllogistic in the assertoric and the necessary become syllogistic in the contingent. I say that 'to be contingent' and 'the contingent' [are used] in seminal form: he has anticipated the meanings of the contingent, and later he unfolds them; for what the name signifies had to precede what it is, and not be put off entirely."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234v.3",
+   "text": "\"For we call the necessary contingent homonymously.\" What does the conjunction \"for\" mean? Namely that he denied the necessary of the contingent, even though the necessary is [in a sense] contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234v.4",
+   "text": "\"Either they are the same or they follow one another.\" They are the same in meaning; they follow one another in expression, not being the same."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234v.5",
+   "text": "\"For of everything [there is] either affirmation or negation.\" He hints at the lemma which says that if one member of two contradictory pairs converts, the remaining one will also convert."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.234v.6",
+   "text": "\"It turns out.\" The second heading: the contingent conversions; for he does not now give the simple conversions of contingent premisses, since he does not even need them in the first figure. How do all convert? Since the universals convert both with each other and with the particulars."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.1",
+   "text": "That it is not through conversion that \"to every\" is equivalent to \"to some\", or \"to none\" to \"not to every\"; for the quality remained. That the negations here are negations only in wording; for the mode remained intact."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.2",
+   "text": "\"For example, 'it is contingent to hold'.\" That the indefinite affirmation converts with the indefinite negation, and \"to every\" with \"to none\" and \"not to every\", and \"to none\" with \"to every\" and \"to some\", but \"to some\" only with \"not to every\"."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.3",
+   "text": "\"And in the same way also in the other cases.\" For as \"to every\" converts with \"to none\" and \"not to every\", so also \"to none\" [converts] with \"to every\" and \"to some\". That he shows the universals converting with each other and the particulars with each other not through the definition of the contingent, for this makes the contingent [into] the assertoric; but by the fact that what is contingent to be is also contingent not to be: just as 'is' makes an affirmation in indefinite and unmodalized premisses, so also does 'contingent'. This clause has also been stated in [connection with] the three figures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.4",
+   "text": "\"Let us say again\"; for he has already hinted at the meanings of the contingent. Or rather, earlier he stated the meanings of the contingent simply, but now of the properly [contingent]. And [he says] \"again\" because he mentioned the for-the-most-part and its opposite divisions also in [connection with] the three figures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.5",
+   "text": "That the for-the-most-part is almost necessary, a necessary that lapses, and the for-the-lesser-part almost impossible, an impossible that lapses; for because of the for-the-lesser-part the for-the-most-part is not necessary, and because of the for-the-most-part the for-the-lesser-part is not impossible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.6",
+   "text": "\"Because a man does not always exist.\" Two causes of the for-the-most-part contingent not coming about: either the subject not existing or the predicate not existing; for a man naturally, for the most part, goes grey in old age, and reaches his prime and passes his prime; but he may also perish while still a youth, or even having reached old age not go grey, through some peculiarity of his stock."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.7",
+   "text": "\"Or of necessity.\" How of necessity? Because upon the most proximate matter the form supervenes of necessity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235r.8",
+   "text": "\"And another, the indeterminate.\" Add: \"in holding\"; for the for-the-most-part is indeterminate in not holding."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.1",
+   "text": "That he applies \"indeterminate\" to the equally [possible] and the for-the-lesser-part, the examples show; for walking belongs to the equally [possible], and the earthquake to the for-the-lesser-part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.2",
+   "text": "\"What is possible both thus and not thus.\" This fits the for-the-lesser-part, but also the for-the-most-part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.3",
+   "text": "\"For it is by nature no more thus than the contrary.\" Because of the \"more\", this fits only the equally [possible]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.4",
+   "text": "That he calls the for-the-most-part \"natural\" because nature is occupied with it, and art which imitates nature."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.5",
+   "text": "\"It converts, then.\" The contingent conversions, he says, proceed in both [kinds of] contingent; for in general the contingent can both be and not be. The difference is that in the for-the-most-part the affirmation is more true, but in the indeterminate either [both] equally or the negation more. However, he says, inquiries seek the for-the-most-part. So for this reason, Aristotle, you ought not to have adopted the contingent conversions. The natural can be and not be only because it is not of necessity; for it has a strong inclination towards being; while the equally [possible] is as it were a centre between holding and not holding, for it is equally distant from each. He passed over the for-the-lesser-part because the middle [term] is disorderly: for the middle is no more subject to the major than not subject, and no more predicated of the minor than not predicated; and arts that attain their end for the lesser part are lack of art rather than arts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.6",
+   "text": "\"It is not usually inquired into.\" Rightly, then, the Platonists do not admit the contingent conversions; for we seek them for the sake of syllogisms, and syllogisms are put forward by arts or sciences."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.7",
+   "text": "\"These things, then.\" For in the second [book] of the Physics he will divide the contingent more clearly into the for-the-most-part, the equally [possible] and the for-the-lesser-part, and will distinguish the things occupied with them: that in some cases [it is] nature and art, in others choice, in others chance and spontaneity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.8",
+   "text": "\"And which.\" According to the mode of the conclusion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.235v.9",
+   "text": "\"Since 'it is contingent'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236r.1",
+   "text": "that this holds of that.\" That \"it is contingent to every\" signifies two things: for A certainly holds of the things under B, by the definition of \"said of every\", but either of things that are contingently parts of B or that are actually [parts]. Let the first be taken now, since we are discussing [syllogisms] from both contingent [premisses]; but let the second await the mixture of contingent and assertoric. And so that there may also be a mixture of contingent and necessary, let \"contingent to every\" signify three things: that A holds of the things under B, being either necessarily its parts, or contingently, or actually; for, he says, the categorical [premiss] \"A to every B\" is equivalent to the one by prosleptic form \"of whatever B [is said], A [is said]\"; and B has different parts: actual, necessary, contingent. The same will also fit \"holds of every\" and \"of necessity of every\"."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236r.2",
+   "text": "\"Of whatever B [is said], A is contingent\" must be understood instead of the assertoric."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236r.3",
+   "text": "\"For thus.\" We know the conclusion, that premisses of the same mode are of like figure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236r.4",
+   "text": "FIRST FIGURE FROM BOTH CONTINGENT [PREMISSES]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236r.5",
+   "text": "\"When, then, A,\" and the rest of the first figure. [Having said in how many ways something is contingent, having defined the properly contingent, and having given the contingent conversions, namely that the universals [convert] with each other and with the diagonal particulars, but the particulars only with each other,] having given the meanings of the properly contingent, with each of which he wants the definition of the contingent also to convert, and having set out the contingent conversions and the present order, namely that after the contingent [syllogisms] in the first figure he does not give the contingent ones in the second figure but first the mixture of assertoric and contingent in the first figure, he discusses the syllogisms from both contingent [premisses]. Certain strange things happen with these: for no longer are all those in the first figure perfect, but some are perfect and some imperfect; and [a syllogism] comes about from two negations; and the syllogistic moods of the first figure are no longer four but eight; and there are no longer two properties of the first figure, that the major be universal and the minor"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236v.1",
+   "text": "affirmative, but only one, that the major be universal. We shall begin the cause of these from the first, for the continuity of the account, making the end of the 'that' the beginning of the 'why'. Since, then, it has been shown that in the contingent, according to the contingent conversions, the particulars convert only with themselves, and no longer necessarily with the universals, for this reason the minor, even if it is a negation, changes into an affirmation and becomes syllogistic; but the major, if it is particular, does not change into a universal, and for this reason no syllogism comes about. And those that have an affirmative minor are perfect, as being shown through \"said of every and said of none\" alone; but those that have a negative minor are imperfect, as needing contingent conversion. And there are eight syllogisms of the first figure, since, the major being universal, the minor is either universal or particular, and in each case [there are] four ways by quality. So much, then, about the syllogistic moods."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.236v.2",
+   "text": "All those that have a particular major are non-syllogistic: for since A is exceeded by B (for A holds of some B), let A be exceeded by B in the case of C; then A of necessity holds of no C; for example, white, moving, raven. But if A [holds] of no C of necessity, nothing contingent is concluded, not 'of every', not 'of none', not 'of some', not 'not of every'; and for this reason the combination is non-syllogistic: for if it were syllogistic, being from both contingent [premisses] it would conclude a contingent, just as from both assertoric [premisses it concludes] an assertoric and from both necessary"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237r.1",
+   "text": "a necessary. And why do I say that such a combination concludes nothing contingent? For universally it concludes nothing, not the contingent, not the assertoric, not the necessary, since it concludes 'of necessity of every' thus: white, walking, swan; and 'of necessity of none': white, walking, raven; and insofar as it concludes 'of necessity of every', no negation is concluded, not contingent, not necessary, not assertoric; and insofar as [it concludes] 'of necessity of none', none of the same affirmations [is concluded]. Since, then, if it concluded [anything], it would conclude either an affirmation or a negation, and in each of these cases either contingently or assertorically or necessarily, and it has been shown to conclude none of these, it is therefore non-syllogistic. But one must inquire whether, so far as the terms set out are concerned, no syllogism at all comes about from both contingent [premisses] in the first figure. And if the contingent conversions are not to be accepted, as not preserving the 'for the most part' contingent, it is clear that Theophrastus and Eudemus and the Platonists will not disturb the notions concerning the first figure either; for it was because of the contingent conversions that there were imperfect [syllogisms] in the first figure, and syllogistic ones having a negative minor, and eight in number."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237r.2",
+   "text": "From the definition of 'said of every', not of the contingent, [that is,] from the definition of 'possible for every'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237r.3",
+   "text": "\"And are alike in position\": so that again the major is universal and the minor particular. [Note] that of the eight moods he passed over the one having a universal negative major and a particular negative minor."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237r.4",
+   "text": "\"For to this neither of every\": for every contingent, universal, particular, affirmative, negative, is destroyed by 'of necessity of none'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237r.5",
+   "text": "\"Further, it is also evident from the terms\": a second argument, more universal than the first, for those having a particular major being non-syllogistic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237r.6",
+   "text": "It is evident that in the first figure, of the [combinations] from both contingent [premisses], those from both universal [premisses] are all syllogistic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237r.7",
+   "text": "\"But 'possible' must\": one must not say that white is possible for every animal, since white holds of necessity of some"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237v.1",
+   "text": "animal, for example a swan, and of necessity does not hold of some animal, for example a raven. If not only do the negations convert into the affirmations by contingent conversion but also the reverse, the non-syllogistic are no more syllogistic than the reverse. Or [rather] the negation must be changed into the affirmation, since they are all in effect affirmations, the mode remaining intact."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237v.2",
+   "text": "MIXTURE OF CONTINGENT AND ASSERTORIC IN THE FIRST FIGURE."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.237v.3",
+   "text": "\"If one is taken as holding and the other as possible\". When a mixture of contingent and assertoric occurs in the first figure, these are Aristotle's doctrines: that those having a contingent major are perfect, and those having a contingent minor imperfect; for these, if the contingent minor is a negation, need contingent conversion, but if affirmative, they are shown through reduction to the impossible. Second doctrine: if the major is contingent, or assertoric affirmative, the contingent that was thought worthy of definition is concluded; but if the major happens to be assertoric negative, it is no longer the defined contingent that is concluded but the half-necessary. What this is we shall learn there. But since in reductions to the impossible, having supposed the opposite of what is being shown, he combines with it another false premiss, changing either the contingent into the assertoric or the reverse, and it is unclear on which the false conclusion followed, whether on the opposite of the proposition or on the substitution of contingent and assertoric, he therefore shows that the possible follows the possible and never the impossible, so that for this reason we may not ascribe the cause of the impossible to the substitution of the contingent and the assertoric (for this is possible, while what was concluded is impossible, and the impossible does not follow the possible), but to the opposite of the proposition. And this lemma contributes both to every reduction to the impossible"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238r.1",
+   "text": "and to the establishment of the definition of the contingent. When A is, then, let B by all means be; and let A be possible; I say that B too is possible. For if [it is not] possible, let it be impossible; since, then, A is possible, let it be supposed to have come about; and since when A is, B is, then B too is; but it also is not, as being impossible in itself; which is impossible. Being unable to answer this proof, the Stoics raise a difficulty through examples thus: if Dion has died, ⟨this man has died⟩; and that Dion has died is possible, but that this man has died, when he is pointed out as living, is impossible. Similar to this also: if it is night, this is not day; and the first is possible, but the second impossible. Or [rather] the antecedent is wider than the consequent: for 'Dion has died' is true both when Dion is present and when he is absent, but 'this man has died' only when he is present. Say, then, 'if this man has died, Dion has died', and the possible follows the impossible, just as a necessary [conclusion] is also concluded from impossible premisses, and from Socrates' being a horse follows his also being an animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238r.2",
+   "text": "\"If one [is taken] as holding and the other as possible\": the syllogisms having a contingent major are perfect, those having an assertoric major imperfect; for they are shown either through conversion, when the minor is contingent negative, or by reductio ad impossibile, when the minor is contingent affirmative. And the privative syllogisms, that is, those having an assertoric negative major, conclude the half-necessary. But if the major is contingent or assertoric affirmative, the defined contingent is concluded."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238r.3",
+   "text": "One must take as possible: in coming-to-be, the properly contingent; in being true, the necessary; in holding, the assertoric."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238r.4",
+   "text": "\"In however many other ways it is said\": on account of the 'for the most part', the 'equally [possible]', and the 'for the lesser part'. Universally, then, the possible follows everything possible, contingent, assertoric, necessary."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238r.5",
+   "text": "\"Further, 'when A is, B is'\": since, in showing that the possible follows the possible, he supposed B to follow A,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238v.1",
+   "text": "now, he says, one must understand both premisses as A, and the conclusion as B; for from possibles [comes] a possible. But if the possible follows the possible, how is a necessary concluded from contingents? Or [rather], in that case it is not the middle term that is the cause of the conclusion but the nature of the extremes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238v.2",
+   "text": "\"For nothing is of necessity when one single thing is\": understand in addition 'through a categorical syllogism', since when the sun is above the earth it is by all means day."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238v.3",
+   "text": "\"When this has been shown\": he teaches the use of the lemma stated in the theory."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.238v.4",
+   "text": "\"These things having been determined\": after the perfect [syllogisms], that is, those having a contingent major, he teaches the imperfect, that is, those having a contingent minor, and first those shown by reductio ad impossibile, that is, those having a contingent affirmative minor. For let A hold of every B, and let B be possible for every C; I say that A is possible for every C. For if not, of necessity not of every; and since B is possible for every C, let it also hold of every [C]; since, then, A of necessity [holds] not of every C, and B holds of every C, the fifth mood of the third figure comes about from the mixture of the assertoric and the necessary, in which mood the conclusion follows the weaker [premiss]; therefore A does not hold of every B; but it is supposed also to hold of every [B]; which is impossible. Since, then, something at once false and impossible has been concluded, we shall surely not ascribe its cause to BC (for this is false and possible) but to AC. So if it is impossible that A of necessity [holds] not of every C, A is therefore possible for every C; which was to be shown. But it is not impossible, they say, that A should hold of every B and not hold of every [B]; for such is the assertoric; but only false, as BC also was. Or [rather] in the case of BC we change the time, but in the case of AB not; and it is impossible at the same time for the same thing to hold both of every and not of every of the same thing. He also shows this mood, both premisses"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.239r.1",
+   "text": "having been changed, BC from contingent into assertoric, and AB from assertoric into contingent; for it has now been shown that, when the major is contingent, the conclusion is contingent. But so far as this procedure goes, when the major is assertoric negative, too, a contingent is concluded. And what prevents using 'said of every' here too and making the syllogism perfect? For if [the objection is] that C has not yet become part of B, yet B too was not long since yet part of A."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.239r.2",
+   "text": "\"To produce the impossible\": this is not strictly a reduction to the impossible; for the hypothesis of the opposite has not become part of the syllogism; and in this way one could call every direct proof [a proof] by reductio ad impossibile."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.239r.3",
+   "text": "\"One must take\": one must not, he says, [take] the assertoric premiss as true by hypothesis"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.239v.1",
+   "text": "[as being] true, for instance 'man [holds] of every moving thing' assertorically (for this is true so long as only men are moving), since [then] there is no syllogism; for both 'of none of necessity' and 'of every of necessity' are concluded, as he proved through the terms. But we do not accept this interpretation; for Aristotle knows the difference between the assertoric and the necessary. Others interpret the same [words] thus: one must not define the truth of the assertoric [premiss] by the time of the contingent [premiss], and [say] that the assertoric is true so long as the contingent has not become assertoric, as here; for man holds of every moving thing so long as moving is [merely] possible for every horse; but if moving also holds of every horse, man no longer [holds] of every moving thing. One must not judge the truth of the assertoric by the time of the contingent, since [then] there is no syllogism; for both 'of none' and 'of every of necessity' are concluded. And for this reason Aristotle also said just before that it is absurd for the same thing to hold of every [instance] of the same thing before the contingent is realised and not of every [instance] after the contingent is realised. Nor do we accept this interpretation; for the second terms in the text do not agree with it; for in them, too, the truth of the assertoric is not judged by the time of the contingent. Perhaps, then, what is said is that in the assertoric premiss the predicate must be natural to hold of the whole subject, for instance 'walking [holds] of every man', so that we need a hypothesis only for its having been realised, and not also for its holding, as in the case of 'man of every moving thing' or 'animal of every moving thing'. These being taken in addition, [let] A [hold] of no B assertorically, B of every C contingently; I say that A [holds] of no C contingently. For if this is false, A of necessity [holds] of some C; and since B [holds] of every C contingently, let the premiss BC not remain contingent (for we do not yet know the mixture of the necessary and the contingent),"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.240r.1",
+   "text": "but let it become assertoric through the definition of the contingent; since, then, A of necessity [holds] of some C, and B holds of every C, therefore in the third figure, in which the conclusion follows the unconverted [premiss], the proof being made by conversion, A holds of some B; but [it holds] also of none; which is impossible; therefore A does not of necessity [hold] of some C; therefore it is possible for it [to hold] of none; which was proposed to be shown. However, he says, it is not the qualified contingent that is concluded but the half-contingent and the half-necessary, which he calls 'of none of necessity', because it is true both of 'of necessity of none' and of 'possibly of none'. For 'possibly of none', he says, is true together with 'possibly of every'; and to 'possibly of none' is opposed 'of necessity of some', while to 'possibly of every' [is opposed] 'of necessity not of every'; so that both at once conflict contradictorily with 'possibly of none': 'of necessity of some' because of 'possibly of none' itself, and 'of necessity not of every' because of 'possibly of every'; for indeed it is not true [that everything is] either 'possibly of none' or 'of necessity of some', since both are false of 'every man is winged'. So whoever is going to establish 'possibly of none' must do away with both opposites, 'of necessity of some' and 'of necessity not of every'. But here nothing absurd follows from 'of necessity not of every'; for [the result] is also the fifth mood of the third figure, in which the conclusion follows the weaker [premiss]; and for this reason A holds not of every B; but it was also holding of none; and [there is] nothing absurd, but indeed [it is] necessary. Since, then, only 'of necessity of some' has been done away with, and not also 'of necessity not of every', both of which are opposed to 'possibly of none', the contingent and the necessary have been done away with by half; and for this reason what is concluded is half contingent and [half] necessary, which he calls 'of none of necessity', since 'of some' has been done away with and since 'of none of necessity' is said both of 'of necessity of none' and of 'possibly of none'. Therefore"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.240v.1",
+   "text": "the contradictions in this treatise are not rightly taken when we oppose mode to mode, quantity to quantity, quality to quality; for 'possibly of none' is contradicted not by 'of necessity of some' alone but together with 'of necessity not of every'; and the two at once as one, 'possibly of every' and 'possibly of none', contradict the two at once as one, 'of necessity of some' and 'of necessity not of every'. For not everything is either 'possibly of none' or 'of necessity of some'; for in the case of 'every man is winged', both 'possibly of none' is false (for man is of necessity not winged) and 'of necessity of some'. Likewise not everything is either 'possibly of every' or 'of necessity not of every'; for both are false in the case of 'every man is an animal'. possibly of none possibly of every possibly of some possibly not of every contradiction contradiction of necessity of none of necessity of every of necessity of some of necessity not of every"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.240v.2",
+   "text": "\"For this is the contradiction\": for 'of none of necessity' contradicts 'of necessity of some'; for he does not establish by reductio ad impossibile the opposite of what is done away with."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.240v.3",
+   "text": "\"For let A be\": the terms have not been well taken; for raven holds of nothing thinking necessarily, not assertorically; and knowledge is necessarily not moving, unless perhaps we take knowledge as the knower. And it is chiefly because of the first charge that he adds 'but the terms must be taken better'; for instance white [holds] of every swan of necessity, with moving as middle, and white of no raven of necessity, with the same as middle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.240v.4",
+   "text": "\"Which is true\": yet it is false, even if possible, to suppose the contingent as holding. 'Which is true', then, [means] in potentiality, even if not in actuality."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.240v.5",
+   "text": "\"Common terms\": here too the terms must be taken better; for animal necessarily does not hold of snow and pitch. Moving must be taken as the middle term in both combinations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.240v.6",
+   "text": "That in [syllogisms] from two universals, when the minor is contingent, a syllogism always comes about."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241r.1",
+   "text": "\"Except that sometimes from themselves\": yet all that have the minor contingent are imperfect. 'From themselves', then, not as perfect but as needing the change in quality: if the minor is affirmative, by reductio ad impossibile; if negative, first by conversion (for the contingent is naturally such as both to hold and not to hold), then by reductio ad impossibile, since the syllogism we use is also affirmative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241r.2",
+   "text": "\"If one is universal and the other particular\": those that have the major universal contingent and the minor particular assertoric affirmative are perfect; for they are shown through 'said of every and said of none'; and they conclude the contingent in the strict sense."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241r.3",
+   "text": "\"If universal\": those that have the major universal assertoric and the minor particular contingent are imperfect; for if the minor is affirmative, they are shown by reductio ad impossibile; if negative, they first need conversion, then [proof] by reductio ad impossibile; for 'others by conversion' is equivalent to 'others both by conversion [and by reductio]', as also in the case of the universal. And if the major is assertoric negative, the half-necessary and [half-]contingent is concluded here too, but [if it is] assertoric affirmative, the contingent in the strict sense."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241r.4",
+   "text": "\"There will be a syllogism through conversion\": if the minor is contingent particular negative, there will be a syllogism; for it can change into an affirmation; but if it is assertoric particular negative, there is no syllogism; for 'not of every' is true also in the case of 'of none'; and when the minor is assertoric universal negative it has been shown that no syllogism comes about."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241r.5",
+   "text": "\"Terms for\": here too the terms must be taken better; for white [holds] of some animal of necessity and of necessity not of every animal; and animal of necessity [holds] of no motion or pitch. The sound terms, then, for 'of every of necessity' are moving, white, walking; for 'of none of necessity', moving, white, standing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241r.6",
+   "text": "\"Whether taking possibility"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241v.1",
+   "text": "or holding or alternately\": only the third is proper to the present discussion, but as lovers of the universal we have included the first two as well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241v.2",
+   "text": "\"It is evident that when the universal is placed in relation to the major extreme there is always a syllogism\": what then, even if the minor [premise], being assertoric, is negative? Or [rather]: when the minor is affirmative and the major is affirmative 〈or negative〉, and the major universal, there is always a syllogism, however the assertoric and the contingent stand in order."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241v.3",
+   "text": "MIXTURE OF CONTINGENT AND NECESSARY."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.241v.4",
+   "text": "\"If one [premise is taken as] holding or not holding of necessity, and the other as being possible\": Of the eight combinations that arise from both [premises] universal, two are non-syllogistic, those having the minor necessary negative, for the fault is incurable; the remaining six are syllogistic. Of these, two are perfect, those having the minor necessary affirmative; four are imperfect, those having the minor contingent. Of these, two are proved by reductio ad impossibile, those having the minor contingent affirmative; and two need conversion before the proof by the impossible, those having the minor contingent negative. And of the syllogistic ones, two conclude the half-contingent and [half-]necessary, that is, the assertoric: those having the necessary negative, and that as major in every case; and four [conclude] the contingent in the strict sense, those having the necessary affirmative; for [they are] either from premises of like form or from premises of unlike form, and each of these in two ways according to the order of the modes. And in short, as much as the assertoric produced in the mixture of contingent and assertoric, so much does the necessary produce in the mixture of contingent and necessary. And the moods are the same in the case of necessary and contingent, both for those from both [premises] universal and for those with one universal, perfect and imperfect alike, and concluding the contingent in the strict sense or the half-[contingent]; the only difference is that now the half-contingent is the assertoric. Those having the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242r.1",
+   "text": "minor contingent are imperfect: what is peculiar to the minor makes no difference when it is contingent, but if it is assertoric, it does make a difference."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242r.2",
+   "text": "Two are non-syllogistic, 〈those〉 having the minor necessary negative, and six syllogistic, those not having the minor necessary negative. Of these, four are imperfect, those having the minor contingent: the first, third, fifth, sixth; by reductio ad impossibile the first and third, by conversion the fifth and sixth. Two are perfect, those having the minor necessary affirmative: the second and fourth. Two conclude the half-necessary, those having the necessary negative: the third and sixth; four the contingent in the strict sense, those having the necessary affirmative: the first, second, fourth, fifth."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242r.3",
+   "text": "First mood. A [holds] of every B of necessity, B possibly of every C: the syllogism is imperfect and by reductio ad impossibile, and concludes the contingent in the strict sense. I say, then, that A possibly [holds] of every C; for if not this, then of necessity of some, or of necessity not of every; but both are impossible. For let it first be that A [holds] of C of necessity not of every; and since B possibly [holds] of every C, B therefore holds of every C; since, then, A [holds] of C of necessity not of every, and B holds of every C, there arises the fifth mood of the third figure, in which the conclusion follows the weaker [premise]; therefore A holds not of every B; but also [it holds] of every [B] of necessity; which is impossible. But now let it be supposed that A [holds] of C of necessity of some; since A [holds] of some C of necessity, and B holds of every C, in the third figure the conclusion follows the [premise] that is not converted, and"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242v.1",
+   "text": "A holds of some B; but also of necessity of every; which is impossible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242v.2",
+   "text": "Second mood. A possibly [holds] of every B, B of every C of necessity: perfect, concluding the contingent in the strict sense through 'said of every'. We did not use 'said of every' earlier too, since C had not yet become a part of B as [it has] now."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242v.3",
+   "text": "Third mood. A [holds] of no B of necessity, B possibly of every C: imperfect, concluding the assertoric by reductio ad impossibile. For if it is false that A holds of no C, A holds of some C; but B also holds of every C; in the third figure, from both assertoric, A holds of some B; but also of necessity of none; which is impossible. But the contradiction was not taken soundly; for the mode remained, and as far as this argument goes, 'of necessity of none' is also concluded; for if A [does] not [hold] of C of necessity of none, A [holds] of C of necessity of some; but A [holds] also of B of necessity of none; therefore B [holds] of C of necessity not of every; but also possibly of every; which is absurd. So the absurdity followed not because of the mode, but because 'of none' was supposed [to be] 'of some'. Here too, then, the conclusion follows the weaker [premise], and a contingent is concluded, not an assertoric."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242v.4",
+   "text": "Fourth mood. A possibly [holds] of no B, B of every C of necessity: perfect, concluding the contingent in the strict sense through 'said of every'. For it is not possible to refute 'possibly of none'; for which [premise] would one add? If AB, the two are negative; if BC, we do not have a mixture of contingent and necessary in the third figure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242v.5",
+   "text": "Fifth mood. A [holds] of every B of necessity, B possibly of no C: the syllogism is imperfect, concluding the contingent in the strict sense by contingent conversion and by reductio ad impossibile, like the first mood."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.242v.6",
+   "text": "Sixth mood. A [holds] of no B of necessity, B possibly of no"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.243r.1",
+   "text": "C: imperfect, concluding the assertoric by contingent conversion and by reductio ad impossibile, like the third mood."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.243r.2",
+   "text": "\"In the same way also with particular syllogisms\": with these he sets down first the [combinations] of unlike form, as being varied; for of those of unlike form some conclude a contingent, others an assertoric; but all those of like form conclude a contingent. And for this reason he places the fourth mood before the third."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.243v.1",
+   "text": "A [holds] of B of necessity of none, B possibly of some C: I say that A holds not of every C. * * * and B [holds] of A of necessity of none, because of the conversion of the universal privative; therefore B [holds] of C of necessity of none; for a mixture of necessary and assertoric has arisen in the first figure, and the major is necessary, so that the conclusion follows the major; but it is supposed that B possibly [holds] of some C; which is impossible. But, say the Platonists, it must thus be conceded that in the first figure the conclusion follows the major in the mixture of necessary and assertoric. And as far as this argument goes, the proposed combination also concludes 'of necessity not of every'; for if this is false, A [holds] of C of necessity of every; and B [holds] of A of necessity of none; therefore in the first figure, from two necessary [premises], B [holds] of C of necessity of none; but also possibly of some. Since, then, in truth 'not of every' is concluded and 'of every' was supposed, the impossibility [arises] not because of the assertoric or the necessary, as in the case of those from both universal. But the Platonists, wishing the conclusion always to follow the weaker [premise], object to these mixtures alone, those that conclude an assertoric."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.243v.2",
+   "text": "2. A possibly [holds] of no B, B of some C of necessity: the syllogism is perfect and of the contingent; for the proof is through 'said of none'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.243v.3",
+   "text": "3. A [holds] of every B of necessity, B possibly of some C: the syllogism is of the contingent; for if it is false that A possibly [holds] of some C, A [holds] of no C of necessity; but A also [holds] of every B of necessity; from two necessary [premises] in the second figure, B [holds] of no C of necessity; but also possibly of some; which is impossible. It is possible here too to say that half of the contingent is concluded; for to 'possibly of some' two things are opposed: 'of necessity of none', which has been refuted, and 'of necessity of every', from which nothing absurd follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.243v.4",
+   "text": "\"If the universal is placed in relation to the minor extreme\": all those having the major particular are non-syllogistic. These are fourfold, as is set out below,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244r.1",
+   "text": "and the text presents them according to the numbers set beneath."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244r.2",
+   "text": "\"Either affirmative or privative or contingent\": that is, also contingent; for the contingent is not opposed to affirmation and negation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244r.3",
+   "text": "\"For animal [holds] of some white\": that is, the same terms produce both 'of necessity of some' and 'of necessity not of every' and 'possibly of some' and 'possibly not of every'; for animal [holds] of some white of necessity because of the swan, and of necessity not of every because of the raven, and possibly of some and possibly not of every because of the men among the Ethiopians or Gauls. And the four hold also in the case of white and inanimate, because of white lead, ebony, and the things to which it can possibly belong."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244r.4",
+   "text": "\"It is evident, then, from what has been said\" that those having the major particular are non-syllogistic, both in those from two alike [premises] and in the mixed ones. And under these are ranked also those having the minor necessary negative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244r.5",
+   "text": "Except that, when the contingent and the assertoric were mixed, those having the major assertoric negative concluded the half-contingent and half-necessary (for 'of necessity of none' is carried over both onto 'of necessity of none' and onto 'possibly of none';"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244v.1",
+   "text": "and for this reason either the necessary or the contingent was concluded), whereas when there is a mixture of contingent and necessary, when the major is a necessary universal negative, the assertoric is concluded, which is something other than the necessary and the contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244v.2",
+   "text": "\"It is clear that all the syllogisms are also incomplete.\" But not all are incomplete; for certainly not those having the minor necessary, but only those having the minor contingent. Or what is said is this: all those having the minor contingent are incomplete, since even if it is affirmative, they are incomplete."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.244v.3",
+   "text": "\"And that they are completed through the figures mentioned before.\" They are completed through the first figure alone; but he spoke in the plural, since the reduction to the impossible produced a first figure either unmixed, from two necessary [premises], or mixed, from necessary and assertoric. And the text calls the half-contingent both assertoric and contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.245r.1",
+   "text": "SECOND FIGURE FROM TWO CONTINGENT [PREMISES]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.245r.2",
+   "text": "\"In the second figure.\" Earlier Aristotle, in the three figures, divided the moods according to the figures, for instance [the premises] from two assertoric into first figure and second and third, and those from two necessary, and the mixtures of these. But now, in the mixtures, he divides the figures according to the moods, for instance the first figure into those from two contingent and the mixtures of contingent and assertoric, and of contingent and necessary. For if he had used the earlier order, he would have placed those from two contingent in the second figure before the mixtures in the first figure of assertoric"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.245v.1",
+   "text": "and contingent, assertoric and necessary, contingent and necessary; which is absurd; for those from two contingent in the second figure are non-syllogistic, while the three mixtures in the first figure are divided into the syllogistic and the non-syllogistic. But since those in the second figure are proved by being reduced to the first figure either through conversion or by reductio ad impossibile, he discusses the simple conversion of contingent premises; and since, when the second figure is proved through conversion, it is always the universal negative that is converted, he discusses only the conversion of the contingent universal negative, and shows that the contingent universal negative does not convert into itself. And he told us this too in the three figures, that the affirmatives of the contingent, like the assertoric and the necessary, convert into the particular affirmative, but the contingent universal negative not alike; for in the assertoric and necessary it converts into itself, but in the contingent it does not convert into itself: \"this will be clear\", he said, \"when we speak about the contingent\". That, then, the universal contingent negative does not convert into itself, he now shows, and he advances the proof in three ways. And first thus: if A possibly [holds] of no B, it is not necessary that B also possibly [holds] of no A; for if so, the universal affirmative also converts into itself, as I shall show; but this is impossible; for white can possibly hold of every animal, but it is no longer [true] that animal can possibly hold of every white; for of some white, white lead, it of necessity does not hold. And the conditional is to be shown thus: if A can possibly hold of no B, B too can possibly hold of no A; since indeed what possibly [holds] of none also possibly [holds] of every, according to contingent conversion, A also possibly [holds] of every B, and B possibly of every A. But the Platonists would say to this: it is not the case that if A possibly [holds] of no B, it thereby possibly [holds] of every, in the case of the contingent for the most part, but if at all, only in the case of the equally [possible]. Aristotle"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.246r.1",
+   "text": "would say: but the contingent has remained in its species. The second argument [is] through the same terms by which he refuted the universal negative as not converting into itself: for white can possibly hold of no man; yet man cannot possibly hold of no white; for of the swan and white lead it necessarily does not hold. But the Platonists would say regarding the terms: what sort of white do you take? If white simply, then neither is the original negative, 'white can possibly hold of no man', contingent; for the white in a swan necessarily does not hold of man; but if the white in man, then it is possible both for white to hold of no man and for man [to hold] of no white. But the Peripatetics would say that the question is not fairly put, because the determinations are not attached to the predicate but to the subject, and that, so far as this goes, the necessary universal affirmative would also convert into itself. And the Platonists would say that the terms too have not been soundly taken; for they are equally [possible] and not for the most part; but if we take [terms] for the most part, the contingent universal negative converts into itself; for it is possible that no man is six-fingered, and it is possible that nothing six-fingered is a man. The third argument of the text, that the contingent universal negative does not convert into itself: for if someone were to say thus, 'if A possibly [holds] of no B, B also possibly [holds] of no A; for if not, of necessity of some; so that A too converts to B; but it was also possibly of none; which is impossible', the one who says this reasons fallaciously; for to 'possibly of none' is opposed not only 'of necessity of some' but also 'of necessity not of every'; when this is assumed, nothing impossible results; for the particular negative does not convert. But the Platonists would say: and how did Aristotle himself, in the three figures, show that both contingent affirmatives convert into the particular affirmative? For he said: if A possibly [holds] of every or of some B,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.246v.1",
+   "text": "B too possibly [holds] of some A; for if this is false, of necessity of none; for we too shall say to you that to 'possibly of some' is opposed not only 'of necessity of none' but also 'of necessity of every'; when this is assumed, nothing impossible follows, since A possibly [holds] of every B, even if, as much as you like, something impossible follows if A possibly [holds] of some B. And the Platonists would say that they have not used the proof criticised by Aristotle but another, of this sort: if A is contingently separated from B, B too is contingently separated from A, and for this reason the universal negative converts into itself also in the case of the contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.246v.2",
+   "text": "Why in the second figure from two contingent [premises] does no syllogism come about? For not only can those of unlike form become of like form, but also those of like form [can become] of unlike form. Or because for being non-syllogistic it suffices sometimes not to conclude, but for being syllogistic it does not suffice sometimes to conclude, but only always."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.246v.3",
+   "text": "Why in the second figure, in the mixture of contingent and assertoric, are those having the assertoric negative syllogistic, but those having the assertoric affirmative non-syllogistic? For if [it is] because it is possible to make them of like form, even if they are of unlike form, it is also possible to make them of unlike form. Or because the negative is not strictly a negative but an unclear affirmative, and becomes a clearer affirmative when taken into an affirmative, whereas the affirmative is in no way the contradictory negative, and for this reason is not changed into it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.246v.4",
+   "text": "\"One must take [them] in these cases too.\" That is, as in the first figure, so also in the second, the same combinations either conclude the contingent in the strict sense or do not, but [conclude] either the half-[contingent] or the assertoric."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.246v.5",
+   "text": "\"Both the contrary and the opposed.\" Contraries are 'every' and 'none', and those under them, 'some' and 'not every'; opposed are the contradictories, the diagonal ones; for these too convert; for if 'every',"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247r.1",
+   "text": "then also 'some' and 'not every'; so that if 'every', then also 'not every'. They do not, however, convert completely; for it is not the case that if 'not every', then already also 'every'. The same holds also for 'none' and 'some'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247r.2",
+   "text": "\"For affirmation and negation\", that is, [there is] contradiction according to them between 'possibly of none' and 'of necessity of some'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247r.3",
+   "text": "\"For it is not, if it is not possible.\" Here he says clearly that to every contingent premise two premises of the necessary, taken together, are contradictory."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247r.4",
+   "text": "\"For what of necessity does not hold of some A, it is not true to say that it is possible that it does not hold of every\": since what is possible of none is possible also of every, to this, 'possibly of none', is opposed both 'of necessity not of every' and 'of necessity of some'; for if 'possibly of none', both 'of necessity not of every' and 'of necessity of some' are false. For what is possible of none is possible also of every; and through itself 'possibly of none' is opposed to 'of necessity of some', while through 'possibly of every' it is opposed to 'of necessity not of every'. So too 'possibly of every', through 'possibly of none', is opposed to 'of necessity of some', just as 'possibly of every' is opposed through itself to 'of necessity not of every'. He states only the surprising [cases]: that to 'possibly of none' 'of necessity not of every' is opposed, although both are negations, and to 'possibly of every' 'of necessity of some'; that is, to 'possibly of none', which he called 'possibly does not hold of every', 'of necessity not of every' is opposed, although both are negative, and to 'possibly of every' 'of necessity of some', although both are affirmative; for to the necessary [premises] unlike in quality it is obviously opposed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247r.5",
+   "text": "\"If then someone should claim.\" Let it be supposed that C holds of every D, but of some of necessity and of the others contingently, as motion [holds] of the heaven of necessity, but of the other [things] contingently; so 'C possibly of every D' is false, not because it does not hold of every, but because of some it does not hold contingently; and if 'possibly of every' is false, 'not possibly of every' is true; and when 'not possibly of every' is true, it is not only 'of necessity of some' that is true (for this is false), but also 'of necessity not of every'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247v.1",
+   "text": "\"He would be assuming something false\"; for to 'possibly of every' not only 'of necessity of some' is opposed but also 'of necessity not of every'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247v.2",
+   "text": "\"For it holds of every, but because it holds of some of necessity, for this reason we say it is not possible of every.\" He states the reason why 'C possibly of every D' is false although it holds of every: because we say 'possibly of every' of what holds of some necessarily but not contingently."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247v.3",
+   "text": "\"It is clear then that it is opposed to 'possible' in the sense whose definition we have given\", that is, to [the possible] in the strict sense."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247v.4",
+   "text": "\"So that no syllogism comes about\", that is, no impossible conclusion comes about. If then someone should claim that only the obvious ones are opposed, 'of necessity of some' to 'possibly of none' and 'of necessity not of every' to 'possibly of every', and in general those of unlike form, he assumes falsely; for those of like form are opposed too, as has just been said."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.247v.5",
+   "text": "\"When this has been shown.\" Aristotle holds that all the combinations in the second figure from two contingent [premises] are non-syllogistic, not because it is peculiar to the second figure that the premises are of unlike form (for the contingent premises of the second figure, even if they are of like form, can become of unlike form; for he will give this as the cause only in the mixtures), nor because the contingent is either equally [possible] or for the most part or for the lesser part, and in no case universal, and from two particulars no syllogism comes about (for as far as this goes, there ought to be no syllogism from two contingent [premises] even in the first figure, nor any syllogistic mixture in the first figure having the major contingent); Aristotle, then, does not give these as the cause of no syllogism coming about in the second figure from two contingent [premises], but [says] that the syllogistic combinations in the second figure were shown either by conversion, as the first, second and third, or by reductio ad impossibile, as the fourth, and that neither can conversion be used now [nor reduction to the impossible] (for in conversion only the universal negative converted; and it has now been shown that the universal contingent negative does not convert into itself by simple conversion),"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.248r.1",
+   "text": "nor can reduction to the impossible be used. \"For instance, A possibly of no B, A possibly of every C\": he makes the argument again on the first mood, since the proof by reductio was common to all, even if it fitted only the fourth mood. If then something were concluded in the second figure, 'B possibly of no C' would be concluded; and if this is false, B of necessity of some C; and A possibly of no B; there comes about the first figure having the major contingent and for this reason concluding a contingent: A possibly not of every C; but also possibly of every; and nothing absurd [follows]. Nor does anything absurd follow in the fourth mood either. He shows them non-syllogistic not only in this way but also by their being refuted, like non-syllogistic [combinations], through terms; for it is easy to find terms concluding 'of necessity of none': white, man, horse; and if 'of necessity of none' is concluded, no contingent is concluded, neither affirmative nor negative, and for this reason there is no syllogism of the contingent. For Aristotle shows the contingent combinations non-syllogistic not in the customary way, by concluding 'of necessity of every' and 'of necessity of none', but is content with only one of the two, because of the reasoning stated. Alexander, however, sets out terms concluding 'of necessity of every' as well: white, animal, man. But perhaps, as long as white is possible of no animal, white is not possible of every man, as Alexander too observes much later. The Platonists, wishing syllogisms to come about in the second figure from two contingent [premises] as well, and as many as in the other modes, argue against these three arguments. Against the first they say that the universal contingent negative too converts into itself; for if A is separated from B, B too is separated from A. For Aristotle, in the case of the contingent, admits the contingent conversions but does not admit the simple ones; the Platonists the reverse. And the Platonists are more correct; for the syllogisms are about the contingent for the most part,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.248v.1",
+   "text": "and in its case the contingent conversions do not hold, even if [they hold] in the case of the equally [possible], while the simple ones hold, even if in the case of the equally [possible] they do not hold. Against the second, that it is impossible for the same thing to be possible of the same thing both of every and not of every, as regards the contingent for the most part. Against the third, that the terms are not of the contingent for the most part but of the equally [possible]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.248v.2",
+   "text": "SECOND FIGURE. MIXTURE OF CONTINGENT AND ASSERTORIC"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.248v.3",
+   "text": "\"If one [premise is taken as] holding and the other as possible.\" Why does Aristotle, in this mixture, change the contingent negative into an affirmative, and not also the reverse? Because, says Alexander, the negatives here are in fact affirmatives and are taken by substitution into clearer affirmatives; but the affirmatives cannot be substituted into negatives in the strict sense while the mode is kept intact."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.248v.4",
+   "text": "[Note] that in this mixture and the present figure those [moods] are syllogistic which, while the properties of the second figure are preserved, have an assertoric universal negative, whether they are from two universals or mixed, and those are non-syllogistic which do not have such a premise, an assertoric universal negative, whether the properties of the figure are preserved or not. And that for this reason the fourth mood is non-syllogistic; for not having a universal negative, neither will it have a universal negative of this kind. And that those having an assertoric universal negative conclude the half-contingent; for the assertoric universal negative becomes the major in the first figure; and it had been shown that in the mixture of contingent and assertoric, when the major is supposed an assertoric universal negative, the half-contingent is concluded. Those having the affirmative assertoric and the negative contingent, whether both universal or mixed, are non-syllogistic; for they can become of like form; and [also] for the general reason, since they do not have"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.1",
+   "text": "an assertoric universal negative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.2",
+   "text": "The proof is the same, [namely] that they can become of like form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.3",
+   "text": "\"If the affirmative is contingent.\" This [combination] is syllogistic, since it has an assertoric universal negative. And it is likewise syllogistic even if the assertoric universal negative is the minor; except that then we need two conversions, and the conclusion converts; for it is not a contingent universal negative but an assertoric universal negative; for what was concluded was the half-contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.4",
+   "text": "\"Just as in the earlier cases\", that is, the half-contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.5",
+   "text": "SECOND FIGURE. MIXTURE OF CONTINGENT AND NECESSARY."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.6",
+   "text": "When a mixture of contingent and necessary is made in the second figure, those [combinations] are syllogistic which have a necessary universal negative, whether both are universal or one universal and the other particular; except that in the mixed ones there is need of a further determination as well: for the necessary universal negative must be the major. And all conclude the half-contingent and [half-]necessary, and are imperfect, as being proved by reductio ad impossibile. And in short, what the assertoric universal negative did in the preceding mixture, the necessary universal negative now does. And the first mood needs one conversion, the second two. The one from two universal negatives having the major contingent [needs] three conversions, one contingent and two simple. And the fourth of the second figure is non-syllogistic; for if it has no universal negative at all, neither will it have a negative of this kind."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249r.7",
+   "text": "\"Not only that it is possible for it not to hold,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249v.1",
+   "text": "but also that it does not hold.\" He calls the half-contingent and [half-]necessary \"holding\"; for what holds has something of the necessary, as having come about, and something of the contingent, as changing; and he calls this both \"holding\" and \"contingent\" for fear of the negation. And that the half-necessary and [half-]contingent is concluded, he shows thus: if \"holds of none\" is false, then \"B necessarily [holds] of some C\" is true, which again he calls \"holds of some\"; but A [holds] of B necessarily of none; therefore A [holds] of C necessarily not of every; but it is also possible of every; which is impossible; therefore B does not [hold] of C necessarily of some. And since nothing absurd follows also from \"necessarily not of every\", \"of none\" is concluded from necessity, which is said both of \"necessarily of none\" and of \"possibly of none\"; and because it is said sometimes of the necessary and sometimes of the contingent, it is half necessary and [half] contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249v.2",
+   "text": "\"At the same time it is clear\" that what is concluded is not the contingent according to the qualification but the half-[contingent]; for if \"holds of none\" is false, \"holds of some\" is true; for what [holds] necessarily of some holds of some."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249v.3",
+   "text": "\"And let it be possible for A to hold of no B, and let it hold of every C of necessity.\" This deduction is non-syllogistic, as not having a necessary universal negative; and it is non-syllogistic both of the contingent and of every conclusion: of the contingent, as concluding \"of necessity of none\"; for the necessary destroys every contingent; but neither is it syllogistic of the necessary, so that no one may suppose, because of the terms [giving] \"of necessity of none\", that it always concludes \"of necessity of none\". It is therefore non-syllogistic of the necessary, since those concluding a necessary [conclusion] had either both [premises] necessary or the necessary universal negative, so that we call the half-necessary too necessary; but now it is neither. And there are terms concluding \"necessarily of every\". And because of \"of none\" it concludes nothing affirmative, and because of \"necessarily of every\" nothing negative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.249v.4",
+   "text": "\"For motion [belongs] to every waking of necessity\";"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.1",
+   "text": "for waking, as rousing, is a motion. But, they say, as long as motion is possible for every animal, nothing is waking such that it also moves. So the terms are not well chosen."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.2",
+   "text": "\"Nor of the opposite affirmatives.\" The plural is right; for \"necessarily of none\" destroys every affirmative: necessary, assertoric, contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.3",
+   "text": "\"For let it be taken that A of necessity does not hold of B. And if the privative were placed with C, likewise.\" This is the one needing three conversions; for the premises convert and [so does] the conclusion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.4",
+   "text": "\"It is clear too that all are imperfect.\" A common conclusion about the two mixtures in the second figure, contingent and assertoric, contingent and necessary: that all are imperfect (for none was proved through \"said of every and said of none\", but all by reductio ad impossibile) and conclude the half-contingent."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.5",
+   "text": "\"And they are perfected through the first figures.\" He spoke in the plural, since the first figure is [taken] in many ways; for the [mood] from contingent and assertoric in the second figure is perfected through the one from contingent and assertoric in the first figure, and the one from contingent and necessary in the second figure through the one from contingent and necessary in the first figure."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.6",
+   "text": "THIRD FIGURE FROM TWO CONTINGENTS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.7",
+   "text": "\"In the last figure.\" It is proper to the third figure, in [combinations] from two contingents, that one premise be universal; for from two particulars no syllogism comes about. There are now twelve syllogisms: for either both are universal, or one universal and the other particular, and this in two ways according to the major and minor premise, and each of the three in four ways according to quality. And each concludes the contingent in the strict sense."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250r.8",
+   "text": "\"And when one is possible and the other holding.\" And yet then the contingent in the strict sense is not always concluded; for when the assertoric is a universal negative, the assertoric is concluded, just as also when the necessary is a universal negative, the half-contingent and [half-]necessary is concluded. Or [he says it] since the assertoric is contingent by not always being, as in the mixture of contingent"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.1",
+   "text": "and assertoric he said the contingent is always concluded."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.2",
+   "text": "\"Neither necessary nor holding, but the contingent in the strict sense.\" Next he calls the half-necessary and half-contingent \"holding\"; for what holds has from the one, the necessary, having come about, and from the other, the contingent, the not being able any longer to be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.3",
+   "text": "\"One must take in these too.\" When the necessary is a universal negative, one must take the contingent now too as the half-[contingent]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.4",
+   "text": "\"When the premises are converted.\" And yet only one is converted, the minor. Or the same [premise], being \"of none\", first becomes \"of every\" by contingent conversion, then \"of some\" by simple conversion; so the converted premises are two, the \"of none\" and the \"of every\", even if both concern the [same] terms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.5",
+   "text": "\"The terms being related in the same way as in the case of holding.\" How is this not false, if in contingents the minor can be negative, but in the assertoric it cannot? Or not even in contingents does the minor produce a syllogism as negative, but as able to be substituted into an affirmative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.6",
+   "text": "\"And there is no syllogism.\" How is there no syllogism in [combinations] from two contingents? Either when the minor remains negative or when there is no universal premise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.7",
+   "text": "THIRD FIGURE. MIXTURE OF CONTINGENT AND ASSERTORIC."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.250v.8",
+   "text": "\"If one is holding and the other possible.\" Eighteen syllogisms come about; for the six are doubled according to the order of the modes, and another six are added having the minor as contingent negative. For the same reasons there are as many syllogisms in the next mixture too. Proper to these two mixtures is that one be universal and the minor affirmative, if it is not contingent but assertoric or necessary."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251r.1",
+   "text": "\"And not that it holds.\" And yet the assertoric is concluded when the assertoric is a universal negative. Or the assertoric is not always concluded, but the contingent always; for it is the common [element]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251r.2",
+   "text": "\"There is a syllogism, the terms being related in the same way as in the earlier cases\"; for as in the first and second figure, so now too in the mixtures of contingent and assertoric the contingent in the strict sense is concluded, unless the assertoric happens to be a universal negative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251r.3",
+   "text": "\"For when one of the premises.\" He ought to have said that the contingent in the strict sense is concluded, since it has been reduced to a mood of the first figure not having an assertoric universal negative; but instead of this he now says, and will say the same thing next, that the contingent is concluded, since it has been shown in the first figure that in the mixture of contingent and assertoric the conclusion follows the weaker [premise]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251r.4",
+   "text": "\"If the affirmative is universal and the privative particular.\" The fifth mood, which is from \"of every\" and \"not of every\", having the universal assertoric and the particular contingent, he proves by reductio ad impossibile thus: A not of every C contingently; B of every C assertorically; I say that A is possible not of every B; for if not, A [holds] of every B of necessity, and B of every C assertorically; therefore A of every C of necessity; for the conclusion follows the major in the first figure in the mixture of assertoric and necessary; but it is also possible for A not [to hold] of every C; which is impossible. But why did he not prove this mood by conversion? Because it needed many conversions, namely four: for one would have had to make the major premise, the \"not of every\", into \"of some\", then convert the \"of some\" into itself by simple [conversion], then convert the conclusion \"of some\" into itself, then substitute it into \"not of every\", so that an affirmative is not concluded from an affirmative and a negative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251r.5",
+   "text": "\"The [syllogism] in universals and through the"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251v.1",
+   "text": "same terms.\" But he did not give terms for the cases from two universal contingents, but for those from two particular contingents. Or else he now calls those from two particular contingents \"universal\" as having the contingent throughout."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251v.2",
+   "text": "THIRD FIGURE: MIXTURE OF CONTINGENT AND NECESSARY."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251v.3",
+   "text": "\"If one of the premises is necessary and the other contingent.\" [Note] that when the necessary is a universal negative he says that both the contingent \"of none\" and the assertoric \"of none\" are concluded, but not \"of none of necessity\"; for the \"not of any of necessity\", which does away with the mode, is something other, and it is this that is concluded, as distinct from \"of necessity of none\"."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251v.4",
+   "text": "\"For so it turned out in the first figure.\" The contingent in the strict sense was concluded in the first figure when the necessary was not a universal negative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251v.5",
+   "text": "\"There will again be the first figure.\" Understand: \"concluding the contingent in the strict sense\"; for he adds the reason for this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251v.6",
+   "text": "\"Terms.\" Here he takes as middle the one middle in order of utterance, not the last one of the figure, [namely] horse. SLEEP SLEEPING MAN HORSE; SLEEP WAKING MAN HORSE"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.251v.7",
+   "text": "\"It is clear, then, that in this figure too, when.\" When one is universal and the minor is affirmative, whether it is assertoric or necessary. \"How\": the contingent negative being changed into an affirmative, and either by conversion or by reductio ad impossibile."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.252r.1",
+   "text": "\"And when of being possible and when of holding.\" Those not having the necessary universal negative, he says, conclude the contingent in the strict sense."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.252r.2",
+   "text": "SUMMARY OF THE MIXTURES."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.252r.3",
+   "text": "There being three modes, assertoric, necessary, contingent, and also three figures, the mixtures are nine in all. And in the mixture of assertoric and necessary, in the first figure he holds that the conclusion follows the major; in the second, the one that is converted in the reduction to the first figure; in the third, the one that is not converted, that is, when the proof comes about by conversion; but if only by reductio ad impossibile, as in the fourth [mood] of the second and the fifth of the third, the weaker. In the remaining six mixtures [he holds] that the contingent in the strict sense is concluded, unless the [premise] combined with the contingent premise happens to be a universal negative, whether assertoric or necessary; for then in [the mixture of] contingent and assertoric the assertoric is concluded, and in [that of] contingent and necessary the half-contingent and [half-]necessary. But his associates and the Platonists hold that in the nine mixtures the conclusion always follows the weaker."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.252r.4",
+   "text": "ON THE MIXTURES."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.252r.5",
+   "text": "\"That the [syllogisms] in these figures, then.\" Having taught all the categorical syllogisms, simple and mixed, Aristotle now reduces all syllogisms, categorical, hypothetical, direct, by reductio ad impossibile, simple, compound, to the three figures. And first the simple categorical ones, which are in any case direct, in this way: if one has to prove the premise AB, either we shall take nothing or we shall take something for establishing it; if the former, we shall be begging the original question; if the latter, either one thing or many; if one, no syllogism comes about, for it comes about when certain things are laid down, not when one thing is laid down; if many, either two or more; and if two, they are attached to both terms A and B; for a syllogism simply is from premises simply, a syllogism of this from [the] premises of this, a syllogism in relation to that from premises in relation to that, and a syllogism of this in relation to that from premises of this in relation to that. So"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.252v.1",
+   "text": "the two premises will have a common term; and this is either predicated in both or is subject in both or mixed; and the three figures come about. Likewise the compound categorical syllogism too is reduced to the three figures; for its principal premises are two, and the others make prosyllogisms, as he shows next. And the syllogisms by reductio ad impossibile, being compound hypotheticals, also fall under the three figures; and so do the simple hypotheticals; those by reductio because they need a categorical syllogism to prove the impossibility, as for example the geometrical theorem that shows through a categorical syllogism how, if the diagonal is commensurable with the side, the same number is both even and odd; and the simple hypotheticals, that is, the direct ones, because they need a categorical syllogism to prove the additional premise; for, Aristotle says, in hypothetical syllogisms the conditional must be agreed in any case, and the additional premise must be in doubt. And both [requirements] are right: for if the conditional were in doubt, it would also be in doubt whether they are hypothetical, and the one establishing the conditional would at the same time establish that they are hypothetical; and if the additional premise too were agreed, there would be no need of a hypothetical syllogism. And in another way, generally, every hypothetical, direct and by reductio, needs a categorical syllogism; for if we always establish hypotheses through a hypothesis, we shall never come to a stop. If then every hypothetical syllogism needs a categorical, and every categorical comes about through the three figures, then every hypothetical, and every syllogism, needs the three figures. And for this reason every proof is reduced to the first figure, and [the proofs] of the first figure to the universal syllogisms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.252v.2",
+   "text": "\"That, then.\" Since it has been shown that the syllogisms in the three figures are reduced to the first figure and to the two universal syllogisms of the first, we shall now show that every [categorical] syllogism too"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.1",
+   "text": "is so, if we first show that every categorical syllogism is reduced to the three figures; and not only is every categorical syllogism so, but also every hypothetical, of which the one by reductio is a part; for every [syllogism] by reductio is hypothetical, but not every hypothetical is by reductio, just as every categorical is direct, but not every direct one is categorical; for this is direct but not categorical: a number is either even or odd; but it is not even; therefore it is odd."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.2",
+   "text": "\"And C of nothing.\" So that it is the first figure: A of C, C of D."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.3",
+   "text": "\"Nor anything else of that.\" So that it is the third figure: A and D of C. The second he passed over as being introduced through the extremes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.4",
+   "text": "\"Nor anything else of A.\" Again the first figure: D of A, A of C."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.5",
+   "text": "\"If, then, A is taken of something else or something else of A.\" [Note] that the premises must not be connected only to the major term."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.6",
+   "text": "\"Or something else of C.\" So that it is the third figure: A 〈and D〉 of C. And again the premises are connected only to the major."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.7",
+   "text": "\"Nor when.\" [Note] that the premises must depend on both extremes of the conclusion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.8",
+   "text": "\"For the same argument.\" [Note] that every compound categorical is reduced to one of the three figures; for its principal premises are two, and the others make a prosyllogism."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.9",
+   "text": "〈\"That the probative ones, then.\"〉 [Note] that he calls the direct ones \"probative\" and those by reductio \"circuitous\", since the direct ones are concise, as proving the proposition straight off (for the straight line is the shortest of all lines having the same endpoints, whence \"straightway\" is also said from \"straight\"), while those by reductio travel a long road doing away with the opposites in order to bring in the propositions; whence in ordinary usage too we speak of a \"circuit\" for things needing a long supposition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253r.10",
+   "text": "\"They deduce what is false in reaching their conclusion.\" [Note] that Aristotle calls the categorical a syllogism even simply, but the hypothetical a syllogism only with the qualifier, never a syllogism simply,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253v.1",
+   "text": "just as [he does] not [call] a dead man simply a man. So the impossibility, he says, in the hypothetical syllogism is proved by a categorical syllogism, for example that the same number is at once even and odd if the diagonal is commensurable with the side. But the proposition is proved by the hypothetical syllogism: since the diagonal is either commensurable or incommensurable with the side, and it is not commensurable because of some categorical lemma, it is therefore incommensurable. Hence the one by reductio is called hypothetical even though it also uses a categorical syllogism, since the categorical is a lemma, while the hypothetical proves the proposition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253v.2",
+   "text": "[Note] that he calls \"contradiction\" the part opposed to what is proposed for proof."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253v.3",
+   "text": "\"Likewise.\" [Note] that not only those hypotheticals that are by reductio are reduced to the three figures, but generally all hypotheticals; for the direct hypotheticals too [are]; for they prove the doubtful points in hypotheticals through a categorical syllogism, so as not to proceed to infinity always proving the previously assumed hypotheses through a hypothesis."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253v.4",
+   "text": "[Note] that what the Stoics call the \"additional premise\" Aristotle here calls \"substitution\", because it is substituted from a doubtful [statement] into an agreed one; for it is no longer stated with \"if\" but with \"but\". But by \"prosleptic form\" Aristotle means the premise equivalent to a syllogism, which has two terms in actuality and one potentially: of whatever man [is predicated], of that [is predicated] animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253v.5",
+   "text": "[Note] that it is a doctrine of Aristotle that in hypotheticals the conditional is agreed and that the additional premise is in every case established, and we have shown both of these to be true in the lecture."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.253v.6",
+   "text": "[Note] that not only are the hypotheticals mixed from a categorical and a hypothetical syllogism reduced to the three figures by means of the categorical, but so too are the wholly hypothetical ones: if man, then animal; if animal, then animate; therefore if man, animate. And the syllogisms by prosleptic form too"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.254r.1",
+   "text": "are reduced to the three figures: of whatever A [is predicated], B too [is predicated]; for it is the third figure. And the wholly hypothetical and the prosleptic ones do not come under the three figures through the medium of something else, as all the mixed hypotheticals do, but through their own combination. So every construction is reduced to the three figures; and this was what was proposed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.254r.2",
+   "text": "ON HYPOTHETICAL SYLLOGISMS, FROM THE SINGLE BOOK OF AMMONIUS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.254r.3",
+   "text": "Since Aristotle worked out the categorical syllogisms in detail without omission—all the simple ones, all the mixed ones, all the figures, all the moods—but does not appear to have taken much care over the technical treatment of the hypotheticals (for he says only this about them: that those by reductio are a part of those from a hypothesis, and that both those by reductio and the direct hypotheticals are reduced to the three figures by needing a categorical syllogism that establishes either the falsehood or the additional premise), and since he bids us at the end of the second section of this book to divide up the hypotheticals, saying \"one must examine and divide in how many ways [syllogisms] from a hypothesis [occur]\", come, let us do what has been ordered, and let us investigate these eight [questions] about the hypotheticals. 1. Why did Aristotle not expand his account of the hypotheticals too? Either because the Stoics had treated them with precision; or because these are not syllogisms simply, but the whole thing is syllogisms from a hypothesis; or because he was content with the categoricals, since the hypotheticals too [proceed] through these. 2. What are the names the Stoics use? Well, they call things \"objects\" (*tynchanonta*), for the goal is to attain (*tychein*) them; thoughts \"expressibles\" (*ekphorika*), for we express (*ekpherein*) these through spoken sounds; spoken sounds \"sayables\" (*lekta*); the conditional or the disjunctive \"tropic\" (*tropikon*), because it makes a turn (*tropos*) from one proposition to another. The antecedent they call antecedent, as we do; the consequent \"terminating\" (*lēgon*); the additional premise additional premise, as we do. But Aristotle"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.254v.1",
+   "text": "calls it \"substitution\", because it is substituted from doubt into actuality; for it is no longer stated with a doubting conjunction. And Aristotle [speaks] better; for no other [premise] beyond what was proposed is added, as [happens] in what he himself shortly after calls a premise by prosleptic form, \"of whatever man [is predicated], of that animal too\"; for there is added \"and man [is predicated] of Socrates\". What we call a conclusion, they call an *epiphora* [inference]. And the hypothetical syllogisms they call \"indemonstrables\" and \"themata\". 3. The likeness and unlikeness of categorical and hypothetical syllogisms. What the two premises are in categoricals, that in hypotheticals is the conditional or disjunctive and the additional premise; what the minor is there, that here is the antecedent; and what the major is, that is the consequent and the additional premise; and what the middle term is in categoricals, that here is the conjunction \"if\", say, or \"or\", and in short the relation; for sometimes a participle too connects, as in \"the sun being above the earth, it is day\". They differ in that in categoricals both premises were agreed, and a conclusion is established as a third thing beyond them, whereas here only one is clear, and the other is established through it. 4. How many are the kinds of hypothetical syllogisms? They are those written below. First, the one from consequence, which by positing the antecedent posits the consequent: if man, then animal; but the first; therefore the second. Second, the one from consequence, which by denying the consequent denies the antecedent: if man, then animal; but not animal; therefore not man. If not animal, then not man; but man; therefore animal. This is also called conversion with opposition. Third, the one from separation and negative conjunction, which denies by positing: not both man and horse [are] the same thing; but man; therefore not horse. Fourth, the one from separation, which denies by positing: either it is day or night; but it is day; therefore not night."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.255r.1",
+   "text": "Fifth, the one from separation, which posits by denying: either it is day or night; but it is not day; therefore it is night. There are only five for this reason: two kinds of matter produce one syllogism—for whether the propositions are not opposed, or are mediately opposed, the third syllogism results—while one kind of matter, immediate opposites, produces two syllogisms, the fourth and the fifth. [Diagram:] conjoined / disjoined; establishes / refutes; opposed / not opposed; A B; immediate / mediate; C; from positing / from denying; C D E. 5. The reason for the order of the hypothetical syllogisms. Since association is better than difference, those by continuity precede those by separation. And since being is better than not being, among those by continuity the constructive precede the destructive. And since the universal is better than the particular, among those by separation the one ranging over the three kinds of matter is prior to the one over only two, and this to the one over only one; for one can say \"not both man and horse [are] the same thing\", which are not opposed, and \"not white and black the same thing\", which are mediately opposed, and \"not even and odd the same [number]\", which are immediately opposed. Then how in the division did we take the third over two kinds of matter? Because if they are immediately opposed, one may also not use the third mood, but either the fourth or the fifth; but if [it is] the other two sections, it is not possible to establish [it] otherwise than through the third. So the division is into what is necessary, not into what is possible and redundant. 6. What is reduction to the impossible? It is composed of three syllogisms, two hypothetical and one categorical, and the hypotheticals are the fifth and the second; the fifth proves the proposition, the second the additional premise of the fifth, and the categorical the conditional of the second;"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.255v.1",
+   "text": "hence it is also called hypothetical although it has a categorical syllogism too as a part, since the proposition is proved through the fifth mood of the hypotheticals, while the categorical is a lemma. For example: the diagonal of the square is either commensurable or incommensurable with the side; but it is not commensurable, as I shall show; therefore through the fifth of the hypotheticals it is incommensurable, which was proposed to be shown. And the diagonal is not commensurable with the side for these reasons: if the diagonal is commensurable with the side, the same number is both even and odd, as I shall show; but the second is not the case; therefore through the second of the hypotheticals neither is the first. And that, if the diagonal is commensurable with the side, the same [number] turns out even and odd, the geometrical theorem proves through a categorical syllogism. So those by reductio are a part of those from a hypothesis, if every [syllogism] by reductio is hypothetical, but not every hypothetical is by reductio; for the five moods certainly are not, being direct. The one by reductio is also called circuitous, as not proving the proposition straightforwardly; for the syllogism of the proposition [itself] is called direct, since the straight line too is the shortest of those having the same endpoints."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.255v.2",
+   "text": "ON SYLLOGISMS BY PROSLEPTIC FORM."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.255v.3",
+   "text": "These, then, have from the categoricals the feature of occurring in all the figures: in the first, \"to whatever C [belongs] in every case, to that A [belongs] in every case\"; in the second, \"what [is said] of every B, that [is said] also of every C\"; in the third, \"of whatever A [is said] in every case, of that B too\"; but here an affirmative is concluded even in the second, and a universal in the third, and [a conclusion follows] from two negatives in all [figures], and non-belonging is concluded from belonging. From the hypotheticals they have the conjunction of the premises and the establishing of one through the other; but they are neither wholly hypothetical, nor are they reduced under the five moods."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.255v.4",
+   "text": "Syllogisms by prosleptic form are categorical in that they occur in the three figures. They are not categorical in that they do not preserve the properties"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.256r.1",
+   "text": "of the figures. They are hypothetical because the two premises are conjoined and one is established through the other. They are not hypothetical, for they are neither wholly [hypothetical] nor not wholly [so]; the second, because they do not come under the five moods."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.256r.2",
+   "text": "\"Further, in every [syllogism] there must be.\" He hands down theorems common to the three figures. First: there is no syllogism without a universal premise; for one from two particulars does not reason syllogistically, and either does not [prove] the proposition, or begs the original question. For if one must show that musical pleasure is good, [and] one speaks thus, \"musical pleasure is pleasure; pleasure is good; therefore musical pleasure is good\", one does not reason syllogistically; for it has been shown that from two particulars nothing follows necessarily. And then, when one says \"pleasure is good\", if one says it with an eye to geometrical pleasure, the proposition is not concluded; but if with an eye to musical pleasure, one will be begging the original question. But it is better to make not three divisions but two: [such a person] in any case does not reason syllogistically; and where [he concludes] nothing, [he concludes] not the proposition either; or [he concludes] the proposition, but along with that begs the original question. So let the geometers not say, \"since A is equal to B, and B is equal to C, therefore A too is equal to C\"; for they conclude truths not because of the combination but because of the matter; which is why the Stoics too say that they conclude unmethodically."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.256v.1",
+   "text": "But let them make the two particulars into one particular and add the universal; for example: A and B are equal to the same thing; all things equal to the same thing are also equal to each other; therefore A and B are equal to each other. Or, as the text has it, let them not say, \"since these [angles] of the semicircles are equal, of which these of the segment are equal, therefore the remaining ones, these at the base of the isosceles triangle, are equal\", but rather thus: \"these [angles] of the isosceles are what remain when equals are taken away from equals; all things remaining after the taking away of equals from equals are equal; therefore these [angles] of the isosceles triangle are equal.\" And \"this is equal to that\" is particular not because of its demonstrative [form] (for geometers everywhere frame their argument about universals), but because the indefinite is equivalent to the particular."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.256v.2",
+   "text": "The second [theorem] common to the three figures: the conclusion does not in every case resemble one of the premises, neither in quantity nor in quality: in quantity, since in the third figure a particular is concluded from two universals; in quality, since, even if in respect of affirmative and negative, and assertoric, necessary and contingent, it resembles either both premises or at any rate one, it certainly does not do so in respect of falsehood and truth, which are themselves also qualities and modes; for a truth is concluded even from two falsehoods."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.256v.3",
+   "text": "[Note] that, having said that no syllogism arises from two negations or particulars, he works out only the second. \"For let it be laid down\", that is, let it be proposed for inquiry, whether musical pleasure is good."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.256v.4",
+   "text": "AC and BD he calls the angles of the semicircles, CD those of the segment, EF those of the triangle; for he also divides the letters of the angles of the semicircles into the letters of the angles of the segment and of the triangle; and the sides of the triangle he calls AB. There are three syllogisms: the angles AC, BD are angles of equal semicircles; all the angles of equal semicircles"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.257r.1",
+   "text": "are equal; therefore the angles AC, BD are equal. Again, CD are angles of the same segment; all angles of the same segment are equal by superposition; therefore the angles CD are equal. Again, the angles EF of the triangle are what remain after the taking away of equals from equals; all things remaining by the taking away of equals from equals are equal; therefore the angles EF of the triangle too are equal; which [...] some say that [one should] speak thus: \"since AC, BD are equal, of which CD are equal, therefore the remaining angles EF of the isosceles triangle are equal\", erring in two ways: for both [premises] are particular, since indefinite; and because they have left out the major [premise], which has authority in syllogisms and holds the status of an axiom, and have divided the minor into two. And hence they beg the original question; for what they have not shown, they think they have shown."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.257r.2",
+   "text": "\"But also in being necessary or assertoric or contingent.\" How then, in the second and third figures, in the mixture of contingent and necessary, when the necessary [premise] is universal negative, is the half-contingent and [half-]necessary concluded? Or does it resemble [them] even then? For \"to none by necessity\" is concluded, which applies both to \"to none of necessity\" and to \"possibly to none\"; so it resembles both."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.257r.3",
+   "text": "\"And to examine the other predications too.\" So he himself also knows that the conclusion does not always follow one of the premises in quality, if indeed a truth is concluded from falsehoods. He called the modes predications since, if being subject seems to belong to matter, being predicated would belong to form, which is the same as saying to quality or mode."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.257r.4",
+   "text": "[Note] that he calls the imperfect [syllogism] possible, as being potentially perfect."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.257r.5",
+   "text": "\"And it is clear too that every demonstration.\" Having shown that every simple categorical syllogism comes about through one of the three figures, and that every hypothetical too, by reductio and direct, which is the same as saying compound and simple, is reduced under the three figures through the medium of a simple"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.257v.1",
+   "text": "categorical [syllogism] which establishes either the conditional, as in those by reductio, or the additional premise, as in the direct ones, he now shows what remains, that every compound categorical syllogism is reduced under the three figures through the medium of the [syllogism] that proves proximately, which in every case is from three terms. And first he argues for the opposite, that the categorical syllogism which proves proximately can be from more terms than three; for it can be from more than three both in relation and in substrate. In relation, since it is possible to show that not every man is white through the same middle, the Ethiopian, in the three figures, as is set out below; for this reason the problem taken is particular negative, as the only one of the problems proved in the three figures. So the three terms, [the same] in substrate, have become nine in relation. And he resolves it by saying that the syllogisms are many (namely three); but what was proposed to be shown was not that many syllogisms are from three terms, but that one syllogism is in every case from three terms. Second argument in favour: in substrate too it is possible for the terms of the syllogism to be more than three, if indeed it is possible to prove the same problem now through one middle, now through another, as Plato [proves] the immortality of the soul in the Phaedo through the middle \"bringing life to the body\"; for nothing admits the contrary of what it brings [where the self-moved is immortal]; and in the tenth [book] of the Republic, saying: the soul is not destroyed by its own vice; for on the contrary the wicked seem both more full of life and alone to live, because of their greed and luxury; what is not destroyed by its own vice is indestructible, since everything that is destroyed is destroyed by its own vice, as iron and bronze by rust, grain by"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258r.1",
+   "text": "blight. But here again the syllogisms are many, all the more as the premises of the syllogisms stand further apart from one another; and as many as the middles are, so many are the syllogisms. And the same problem [is proved] through more terms than three, but not the one syllogism under discussion. Third argument in favour: it is possible for a categorical syllogism to proceed through more terms than three, as Plato in the Phaedrus proved the soul immortal through the middle of the self-moved and the ever-moving. But again there are two syllogisms: that the soul is ever-moving, through the middle of the self-moved, and that it is immortal, through the middle of the ever-moving."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258r.2",
+   "text": "That every syllogism is from two proximate premises he shows thus: if possible, let E be concluded from four proximate premises, A B C D. Then the premises A B either conclude something or do not conclude [anything]; but if they do not conclude anything, they have been taken in vain; and if they conclude something, they conclude either E, or one of the remaining premises C D, or something else besides these; but if E, we have what is sought, that the syllogism is from two premises; if one of C D, the syllogism is no longer proximate or simple but compound, from a prosyllogism; and if A B conclude something other than E and C D, now not only are the syllogisms many, as in the second supposition too, but also unconnected with one another. And what has been said of A B will fit C D too; for again C D either conclude something or do not; and if they do not, they have been taken in vain; and if they do, if E, the premises A B are redundant, and every syllogism is from two proximate premises; if one of A B, the syllogisms will be many, one a prosyllogism, the other [the syllogism] of the proposition; and if something other than A B, plainly the syllogisms are many; for the syllogisms are unconnected with one another, and the continuity of the premises, giving the appearance of one, does not cancel this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258r.3",
+   "text": "\"And that every demonstration.\" He has called every establishing argument"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258v.1",
+   "text": "a demonstration."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258v.2",
+   "text": "\"If not through different and different [terms].\" Either in relation, as in the first argument in favour, or in substrate, as in the second."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258v.3",
+   "text": "\"For example E through A B and through C D.\" This is an example of the second argument in favour, the one that concludes the same thing, E say, through terms that differ in substrate, for example A B and C D; for A B differ from C D in substrate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258v.4",
+   "text": "\"Or through A B and B C and A C.\" This is an example of the first argument in favour, where the same thing, for example E, is concluded through [terms] differing in relation only; that is why A B and B C and A C have one term in common and one different; for the second [figure] arises from the first when the major is converted, and the third when the minor is. So A B is the first figure, and A is the major premise and B the minor; and in the second figure, B C, the minor of A B, namely B, remained; while in the third figure, A C, the major of A B, namely A, remained."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258v.5",
+   "text": "\"But if these are so, the syllogisms are not one but many.\" The resolution of the two arguments in favour: the syllogism did not remain one, even if the problem did."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258v.6",
+   "text": "\"Or again when each.\" The third argument in favour, which is also the more persuasive, and so he thinks it worthy of a special resolution: the one that takes the premises of a single syllogism as mediated. And he resolves this by saying that the syllogisms are three, since the conclusions too are three, the two premises and the conclusion; for the former are conclusions of the prosyllogisms, the latter of the syllogism."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.258v.7",
+   "text": "\"Or one by induction and the other by syllogism.\" For example, if the problem were that medicine is useful to life, and we said: medicine is an art, every art is useful to life, so medicine too [is useful]; and we shall establish the minor through a syllogism: medicine is a method that makes a way, every method that makes a way is an art, so medicine too is an art; and the major, that every art is useful to life, by induction: for so are farming and weaving. Or as Plato [does] in the Republic: for when Thrasymachus has called justice bad counsel, he himself establishes"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.259r.1",
+   "text": "that the just man is wise, speaking thus:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.259r.2",
+   "text": "the just man does 〈not〉 wish to have more than one like him; the wise man does not wish to have more than one like him, but wishes to have more than one unlike him."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.259r.3",
+   "text": "And of these premises he establishes the minor taking as middle \"what assigns according to worth\", and the second by induction from the doctor, the seer, the geometer."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.259r.4",
+   "text": "\"If then not more but one.\" If anyone, he says, should call the syllogism through five terms, or through however many, one, looking to the continuity of the premises, we shall not begrudge him the name, except that it is one remotely, not one proximately; for this is what \"in this way it is possible\" and \"but as C through A B, impossible\" indicate. And that it is not one proximately, he adds the demonstration. Of the four premises A B C D concluding E, A B, he says, are either combined syllogistically, so that one is the major and the other the minor, in place of which he himself said \"whole and part\", or non-syllogistically. And if the first, they conclude either E, or one of C D, or something else besides these. And he refutes only the first, saying: how too is E, which is supposed [to follow] from A B C D, concluded from A B alone? And before refuting the remaining suppositions about A B he goes over to C D as well; for these too either conclude something or not. And if they conclude, [they conclude] either E, or one of A B, or something else besides these. And if one of A B, the syllogisms will be more, since the conclusions are too, and C D is a prosyllogism of A B C D. And if E, if the syllogisms are A B C D and C D, though it is possible [to call them] one, by concluding the same thing, still they are not in truth one; and he points to the syllogisms about the Ethiopian in the three figures through the same terms. And if C D [conclude] not one of A B either but something else besides these, not only will the syllogisms be many, A B C D and C D, but also unconnected with one another. And if C D conclude nothing, they have been taken in the syllogism in vain, unless indeed they have been brought in for the sake of"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.259v.1",
+   "text": "induction or concealment or for some other such reason. Then he goes back again to the remaining suppositions about A B. And [brought in] for induction, as we showed every art useful to life through farming and weaving. And for the sake of concealment, because one should not ask the two premises in succession, since the person questioned, noticing, becomes more inclined to object; rather one ought to insert in between something akin to the premise asked, then bring on the other. For example, if the problem were that pleasure is good, and we took that pleasure is desirable, let us not say at once \"What then? Is everything desirable good?\", but let us draw out an account of the desirable: that the beautiful (kalon) calls (kalei) to itself, and the good (agathon) is that towards which all things run eagerly (agan thei). And if someone wishing to show health is good says \"health is good for the good man\", let him not at once add \"and what is good for such a man is truly good\", but let him say in between how health comes about, namely when the doctor adjudicates between the elements and the humours. Sometimes too [it is inserted] for management of the argument: for example, the virtues are choiceworthy for their own sake, even if they bring no profit. Sometimes too, because of the dryness of dialectical argument, it is put in for the sake of adorning the argument. And sometimes also for clarity, as in comparisons: that as one perception is of contraries, so too is knowledge. Sometimes too, because the argument looks to display, we swell it with insertions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.259v.2",
+   "text": "\"But if from A B not E but something else results as conclusion, and from C D either one of these or something else besides these.\" He goes back again to A B and refutes the remaining suppositions; for he refuted only one, the one concluding E. For if, he says, A B conclude not E but something else, and this other thing happens to be, from C D, either one of these or [something] elsewhere and besides these, then if one of C D, it is a prosyllogism of the syllogism, and for this reason the syllogism is not one but many; and if something other than C D, A B too have been taken in vain, if they were taken for the sake of E,"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260r.1",
+   "text": "and they neither conclude this nor anything else that concludes it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260r.2",
+   "text": "\"But if nothing results from C D.\" The error is a scribal one from the beginning; for he should have said \"from A B\"; for it has already been said about C D what follows if they conclude nothing, but about A B it has not been said. And as far as the transmitted reading goes, Aristotle is both prattling and omitting, saying one thing twice and the other not even once."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260r.3",
+   "text": "\"Unless it is taken in addition\", that is, unless again it is taken for the sake of concealment or induction or adornment of the argument."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260r.4",
+   "text": "\"So a syllogism which does not have two premises\", that is, only three terms concluding the principal conclusion (for there are also non-principal conclusions, like those of prosyllogisms), this argument either has not been syllogized, as if someone were to take many particular premises having nothing in common, or has asked superfluous things besides the necessary ones, as if someone wishing to show that man is an animal were to say \"man is capable of laughing, what is capable of laughing is an animal, animal is animate, so man is an animal\"; for the premise saying that animal is animate is superfluous."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260r.5",
+   "text": "\"So according to the principal premises.\" Having shown that every simple categorical syllogism is from three [terms], he hands down two consequences of this: that of the proximate categorical syllogism the premises are even, and the terms odd; for he calls the first even and the first odd by the proper name \"even\" simply and \"odd\" simply. And the conclusion is half of the premises and a third of the terms; and the intervals are one fewer than the terms. But when the syllogism is compound, only one of the things said is preserved, that the intervals are one fewer than the terms; for this is true whether the added [term] is packed in or inserted from outside; but it is no longer in every case that the premises are even and the terms odd, but it is possible [for it to be] the other way round too. Never, however, are both even, both the premises and the terms, but [they are] mixed, because at the outset they differed from one another by even and odd, and a unit is added to each, and the kind, even or odd, is changed"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260v.1",
+   "text": "when a unit is added; and a unit is added to each, since when a term is added, whether by packing in or from outside, one premise is added. But the conclusions are no longer half of the premises and a third of the terms; rather they sometimes exceed in number both the premises and the terms; and by premises I mean those that are only premises. For when there are five terms, there come to be four premises, but six conclusions; for in general, with each addition of a term, whether it is added from outside or inserted, conclusions are added one fewer than the terms already there. The reason is that the added [term] does not make a conclusion only with the next one in order."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260v.2",
+   "text": "ON ESTABLISHING AND REFUTING PROBLEMS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260v.3",
+   "text": "\"And since we have [said] what the syllogisms are about\", up to the end of the first section, the one on the generation of syllogisms. Through these words Aristotle shows that universals are readier than particulars for refutation than for establishing, and particulars, on the contrary, readier for establishing than for refutation. For he assumes beforehand that \"to every\" is shown in one way only, \"to none\" in three ways, in the first [figure] in one way, in the second in two ways; \"to some\" in four ways, in the first in one way, in the third in three ways; \"not to every\" in six ways, in the first in one way, in the second in two ways, in the third in three ways. With these assumed, each of the four problems is established and refuted in so many ways:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260v.4",
+   "text": "IS ESTABLISHED: \"to every\" in one way; \"to none\" in three ways; \"to some\" in four ways; \"not to every\" in six ways"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260v.5",
+   "text": "IS REFUTED: in six ways, through \"not to every\"; in four ways, through \"to some\"; in three ways, through \"to none\"; in one way, through \"to every\"."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.260v.6",
+   "text": "So since universals are established in one way or three ways, and particulars in four ways or six ways, particulars are easier to argue for"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261r.1",
+   "text": "than universals with a view to establishing. And since universals are refuted in six ways or four ways, and particulars in three ways or one way, universals are therefore easier to argue against than particulars with a view to refutation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261r.2",
+   "text": "Second argument. If the universal is destroyed both through the contrary and through the contradictory, but the particular through the contradictory alone, then the universal is more readily destroyed than the particular. And that the universal is also harder to establish than the particular, the text shows in two ways: for of the particulars, \"not to every\" [is shown] in more figures than the universals, and \"to some\" through more moods than the universals. But since this belongs to the first argument, he adds a newer establishing argument of this kind: particulars are more readily established than universals, since universals are shown through themselves alone, but particulars both through themselves and through universals; for if \"to every\", also \"to some\", and if \"to none\", also \"not to every\"."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261r.3",
+   "text": "\"What the syllogisms are about\", that is, the problems; for he adds also which kind is difficult and which easier to argue, whether for establishing or for refutation."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261r.4",
+   "text": "\"So it is evident that the universal affirmative.\" For it is established in one way only, but refuted in six ways. And similarly in the case of the rest. The second argument divides the four into two, into universals and particulars, through [the words] \"and in general it is easier for one refuting [to refute] universals than particulars.\""
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261r.5",
+   "text": "\"And in the case of the privatives.\" For \"to none\" is destroyed both through \"to every\" and through \"to some\", which [i.e. \"to none\" or \"to some\"] are shown in two figures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261r.6",
+   "text": "\"But easier for one establishing.\" The remaining part of the second argument, which is also shown in two ways: first from particulars being shown in more ways than universals, either by figures or by moods."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261r.7",
+   "text": "\"And in general one should not.\" Not as, he says, universals are destroyed through particulars and particulars through universals, so too are particulars established through universals and universals through particulars; but"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261v.1",
+   "text": "particulars are inferred through universals, but no longer universals through particulars, but through themselves alone; for if \"to every\", also \"to some\"; but not if \"to some\", also \"to every\". And since particulars are established in two ways, both through themselves and through the universals that contain them, but universals in one way only (for through themselves alone), particulars are readier than universals for establishing; but it has been shown that universals are easier to argue against than particulars for refutation; so, in sum, universals, as compared with particulars (for this must be understood in addition), are easier to refute than to establish."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261v.2",
+   "text": "\"How then every syllogism comes about, both the direct one and the one by reductio ad impossibile.\" \"Comes about\" [is said] properly, since the section is about the generation of syllogisms. Or: how the categorical and the hypothetical come about; for both are reduced to the three figures, the categorical in their entirety, the hypothetical through the establishing arguments either of the impossible or of the additional premise. \"And through how many terms\": that [it is] three, the proximate ones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261v.3",
+   "text": "\"And how [the premises] are disposed\": either according to the simple and compound [forms] of the categorical syllogism, or according to the categorical and hypothetical [forms] of the syllogism in general."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg4016.tlg005.1st1K-grc1.261v.4",
+   "text": "And because of the numbers, particulars are easier than universals to argue for establishing, but harder to argue for refutation; and because, as in the second argument, particulars are established in two ways, universals in one way only, while particulars are refuted in one way only, universals in two ways."
+  }
+ ]
+}

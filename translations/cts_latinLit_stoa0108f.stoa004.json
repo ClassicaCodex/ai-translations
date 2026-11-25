@@ -1,0 +1,2174 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0108f.stoa004",
+ "edition_urn": "urn:cts:latinLit:stoa0108f.stoa004.ai-claude",
+ "source_edition": "stoa0108f.stoa004.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-13",
+ "updated": "2026-11-25",
+ "whole_work": true,
+ "header": {
+  "title": "Collectio Secunda Decretorum Prontificum Romanorum: AI translation (Claude)",
+  "author": "Dionysius Exiguus",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0108f.stoa004.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.head": "The 'about' line is mistaken: the consuls Basiliscus and Herminericus date this to 465, and the synod is Pope Hilarus's Roman synod of that year, not Symmachus's of 499. Line 1 is garbled: the sees and provinces seem displaced (Maximus of Turin belonged to the province of Milan, Ingenuus of Embrun and Saturninus of Avignon to Gaul), and a name is missing before 'Mediolanensi provinciae'. 'SS.' is taken as 'suprascriptae' (aforesaid); this is uncertain. Several sees are unidentified or doubtful and have been kept close to the Latin: Abitia, Faberia, Casitaum, Pansala, Veccona, Trifena, Anteatum. 'Uranus' has no see. 'Pallallius' and 'Soter' (printed 'Solere') are probable readings. 'Nundinatius' is read as Nundinarius. In 47, 'divinationes' is read as 'ordinationes'. 'Matutinus iterare' is read as 'maturius iteramus'. 'Properum' is read as 'praeproperum'. 'Delectu' in 44 may be 'defectu' (failure), not 'through [ill] choice'.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.48": "48: 'aut mulierem duxisse' is terse; presumably a woman forbidden by the canons (e.g. a widow). 51: 'retundi' read for 'retun ii', 'veniam' for 'ventam'; several town names uncertain (Ascantenses, Varegenses kept as given; Tritienses, Levienses, Virovescenses taken as Tricio, Libia, Briviesca). 57: 'Basilico' read as Basiliscus. 59: 'perpeteras' read for 'pe teras'. 61: 'Aufiniensis' (Aufinum) assumed for 'Auliniensis'; 'vasa'/'ministeria' taken as sacred vessels.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab7": "Several see names are uncertain identifications: 'Anteatino' (Felix of Anteate?), 'Mibanati' (taken as Mevania, reading Innocentio for 'lonocentio'), 'Subaugustano', 'Lorensi' (Lorium?), 'Aquævivensi'. Line 92: the see of Victor is lost in the edition. Under 'Et presbyteris:' the list of presbyters is not given in this text. In 109 the sentence beginning 'Sciens quod se decipiat' is grammatically defective; '[Let him know]' supplies the sense. In 112 'lucris' is read as 'pueris'. The heading says A.D. 487 but the letter's dating gives 488; both are reproduced as printed.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab10": "In decree II, 'non nocto judicio' is evidently corrupt; read as 'non recto (or sano) judicio', 'not by sound judgement'. In Symmachus' closing speech (ref 121) the text is disturbed: 'patique constituit' is unclear (perhaps 'paterque' or 'pastorque', rendered '[the father] has decreed'), and 'atque omnes, sine personae alicujus distinctione venire praesumpserit' seems to need 'quisquis' for 'omnes'; translated accordingly. Ref 182 is a fragment with the start of the name lost. Several sees are uncertain or unidentified: Blenarus (taken as Blera), Mibanatis (taken as Mevania), Ferentininovi (Ferentinum Novum?), Calenotanus (taken as Cales), Fulgentanus (taken as Fulginiae), Vivonensis (taken as Vibo), Subaugestanus (Subaugusta), and Forbiensis (left unidentified). 'Malensis' as a personal name is odd and may be corrupt. Titles 'Tigridae'/'Trigridae' are treated as one title, Tigrida, and 'Vizantis' as Byzans. 'Crescentiae' (ref 253) is taken as Crescentiana. The heading says 75 bishops and 67 presbyters subscribed, but the lists as printed give fewer names. Line 10: the scan's 'patique' is read as pacique, '(befitting religion) and peace'.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab13": "The text of lines 273 ('statutis debere innocentia praesumentis de libertate deliquerit') appears corrupt; the rendering is a conjectural sense. In 268 the final clause of Basilius' decree runs on into 269, where a verb such as 'alienetur' seems to be missing; [be alienated] is supplied. In 270 're pie animarum' is read as 'requie animarum' (repose of souls), and 'in altitudine transferatur' as 'in alterum/aliorsum transferatur' (transferred elsewhere). In 274 'existimatione' is taken as 'aestimatione'. 'Bledanae Ecclesiae' (Maximus' see) is unidentified with certainty. The heading dates the synod to 503, though Avienus junior's consulship is 502.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.275": "Line 277: 'effectetur' is evidently corrupt; context requires 'be deprived of' (all force), translated accordingly. Lines 282-342: many sees are uncertain or corrupt in the scan; tentative identifications include Vetellensis (Vercellae?), Taurinatis (Taurinum or Taurianum?), Ignatinus (Egnatia?), Vessanensis, Huslicus Bursentinus (read as Rusticus of Buxentum), Dunensis, Coaniliensis, Tullentinus, Carmejanen., Samninus, Blestinen., Mesenatis, Pellensis, Syranus; Areston Ostiensis duplicates the see of Ostia, and Felix of Nepet appears twice. Line 343: the consular date names Rufius Magnus Faustus Avienus (one consul, cos. 502), not two men as the punctuation suggests; the passage reporting Symmachus' reply through his bishops ('mandatis canonibus ... culmen humiliat ...') is corrupt and rendered conjecturally, as are 'Italiae suae dare rectorem agnoscentes', 'clar tatem veterem vobis dat, det Christi dote rectoribus', and 'sub hac intemissione' (read as 'intentione/occasione'). The scriptural references are given as printed (e.g. 'Ezech. IX' for 'Vengeance is mine', which is Rom. 12 / Deut. 32).",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.344": "Line 346: two bishops named Hilarus appear (352 'Tempsanus', 366 'Tempranen.'), probably the same see duplicated. Several sees are uncertain identifications and are left as the Latin adjective in italics (Agninus, Tempranensis, Pratensis, Direntium Tiberinorum, Augustanus, Lateranensis, Carmeianensis, Tauriganus, Pallensis); others (e.g. Boensis as Bova, Agnatinus as Anagnia, Acanus as Acerenza, Meresape as Messapia, Celeniensis as Celeia) are tentative. Line 385 'Arnantius' read as Amantius. Line 421: 'Venam' read as 'veniam' (pardon); 'cons. SS.' taken as 'consule suprascripto'. Line 423: 'Joannem Egota n' read as John Aegeates; 'mathema' (Greek 'teaching') kept as 'teaching'; 'subsistentia' rendered 'subsistence' (= hypostasis); 'unitas ... nec ... pax' is syntactically awkward and is rendered as two subjects.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab19": "The text has several apparent corruptions; renderings follow the evident sense: 'quod ... paterna omisit instructio' seems to lack a word such as 'nihil' ('omitted [nothing]'); 'aut eum deum et hominem ... prodisse' seems to lack a negation ('[to deny] that he came forth'); 'qualiter habet' read as 'qui aliter habet' ('whoever holds otherwise'); 'adjectione plebis aut institutione perfectis' read as 'adjectione plenis aut instructione perfectis'; 'non admittit essentiae singularitatem' read as 'non amittit' ('does not lose'); 'exspectat' read as 'spectat'; 'ingenitate potentinae' read as 'ingenitae potentiae'. The sense of 'ut nec personis divinitatis singularitas generetur' is unclear and is translated literally. The consular dating 'Valerio Victorio' is given as printed: the consuls of 521 were Valerius and Justinian.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab20": "Line 425 breaks off mid-sentence ('pro pheta', 'the prophet'); the letter of Hormisdas is fragmentary here and the text jumps to the Roman synod of Gregory II (A.D. 721). The dating formula 'Anno sexto p. c. ejus anno sexto' seems duplicated. Several see names are identified from garbled forms: 'Beliternensi' as Velitrae (Velletri), 'Maturanensi' as Manturanum, 'Falaris/Faiaritanae' as Falerii, 'Polimartii' as Polimartium (Bomarzo), 'Aodrea' read as Andrea, 'Uviliarit/Vuillari' as Wilihari. 'Gregorio Macoseu' (454) is unidentified and probably corrupt. In 456 'catholicam idem' read as 'fidem', 'alterno judici' as 'aeterno', 'Uinc' as 'Hinc'. The response in 458 is syntactically confused in the printed text. In 472 'anlo emissa' read as 'ante emissa' (previously issued). 'Presbytera' (460) may mean a presbyter's wife or a female cleric; the sense is disputed. In 475 a noun such as 'facto' seems missing after 'crudeli'. The signatures speak in the first person ('subscripsi'), so 'I' has been supplied throughout.",
+  "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.508": "The 'about' line suggests the synod of 499, but these subscriptions and the dating (Leo III and Constantine V, fourth indiction, A.D. 721) belong to the Roman synod under Gregory II. Line 511: 'qua Damasi' is read as 'quae/qui Damasi', i.e. San Lorenzo in Damaso. Line 518: 'Dle non. April.' is read as 'Die nonarum Aprilium' (5 April); the edition's 'PC.' is taken as post consulatum."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.head",
+   "text": "APPENDIX TO THE DIONYSIAN COLLECTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab1",
+   "text": "SECOND COLLECTION OF DECREES OF THE ROMAN PONTIFFS, ADDED TO THE FIRST COLLECTION OF DIONYSIUS EXIGUUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab2",
+   "text": "CATALOGUE OF THE ROMAN PONTIFFS"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab3",
+   "text": "WHOSE DECREES ARE REVIEWED IN THIS COLLECTION."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab4",
+   "text": "RULES OF HILARUS"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab5",
+   "text": "IN THE CONSULSHIP OF FLAVIUS BASILISCUS AND HERMINERICUS, MEN MOST DISTINGUISHED."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.1",
+   "text": "On the thirteenth day before the Kalends of December, the venerable man Pope Hilarus sitting in the basilica of Saint Mary, and Maximus of the city of Turin, of the province of the Gauls; Ingenuus of Embrun, of the aforesaid province; of the province of Milan, of the aforesaid province; Saturninus of Avignon, of the aforesaid province;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.2",
+   "text": "Peter of Portus;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.3",
+   "text": "Primus of Atella;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.4",
+   "text": "Gaudentius of Abitia;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.5",
+   "text": "Paulinus of Aquaviva;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.6",
+   "text": "Pallallius of Salpi;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.7",
+   "text": "Soter of Naples;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.8",
+   "text": "Tiburtius of Capua;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.9",
+   "text": "Felix of Luna;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.10",
+   "text": "Eusebius of Siena;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.11",
+   "text": "Justus of Faberia;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.12",
+   "text": "Concordius of Bari;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.13",
+   "text": "Caprarius of Casitaum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.14",
+   "text": "Constantine of Aquinum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.15",
+   "text": "Praetextatus of Interamna;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.16",
+   "text": "Claudius of Pansala;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.17",
+   "text": "Adeodatus of Velitrae;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.18",
+   "text": "Crispianus of Subaugusta;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.19",
+   "text": "Servusdei of Nomentum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.20",
+   "text": "Hilarius of Ameria;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.21",
+   "text": "Paul of Forum Novum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.22",
+   "text": "Apuleius of Tarquinii;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.23",
+   "text": "Asterius of Gabii;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.24",
+   "text": "Asterius of Forum Julii;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.25",
+   "text": "Gaudentius of Veccona;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.26",
+   "text": "Gaudentius of Scylacium;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.27",
+   "text": "Eubodius of Trifena;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.28",
+   "text": "Majorianus of Asti;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.29",
+   "text": "Felix of Sipontum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.30",
+   "text": "Uranus;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.31",
+   "text": "Januarius of Praeneste;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.32",
+   "text": "Adeodatus of Cumae;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.33",
+   "text": "Tiberius of Cures of the Sabines;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.34",
+   "text": "Gerontius of Camerinum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.35",
+   "text": "Lucifer of Tifernum Metaurense;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.36",
+   "text": "Humanus of Albanum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.37",
+   "text": "Florentius of Telesia;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.38",
+   "text": "Candidus of Tibur;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.39",
+   "text": "Eusebius of Sutrium;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.40",
+   "text": "Gaudentius of Anteatum;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.41",
+   "text": "Projectus of Nepet;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.42",
+   "text": "Philip of Numana;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.43",
+   "text": "Restitutus and Octavius, Africans."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.44",
+   "text": "All the presbyters also sitting, and the deacons standing by, Hilarus, bishop of the catholic Church of the city of Rome, presiding over the synod, said: Since this religious assembly, gathered by the Holy Spirit, urges that we should hand down with more diligent care whatever is necessary for ecclesiastical discipline: if it pleases [you], brothers, let us so establish, with the Lord's help, to remain for all time, the things that concern the proper course of ordinations, according to the precepts of the divine law and the decrees of the Nicene canons, that it may be lawful for no one, without peril to his own standing, to violate either the divine constitutions or the decrees of the apostolic see; for the guilt of such transgressions will fall upon us, who administer the office of the chief priest, if we are found idle in the causes of God, since we remember, as we ought to fear, how the Lord threatens the negligence of priests; for he who enjoys the higher honour offends with the greater guilt, and the loftiness of dignities makes the faults of sinners graver. First of all, therefore, care must be taken that no one who has married a wife not a virgin should aspire to the sacred grades, as was prescribed earlier in former acts. Also to be rejected is anyone who has entered into marriage with a second wife, contrary to the apostolic precepts. Also those ignorant of letters, and those who have suffered some loss of limbs, and those who are from among the penitents, are not to dare to aspire to sacred orders. Whoever has been the consecrator of such men shall himself undo his deed, and what he committed unlawfully, or found admitted by his predecessors, he shall condemn, if he wishes to avoid his own peril: for we wish in no case to exercise the severity of punishment. But whoever has offended in the causes of God through obstinacy or through [ill] choice, or has refused himself to abolish what he did wrongly, will find upon himself whatever he did not cut away in another. And so that this may henceforth be kept more firmly, if it pleases [you], all of you lend your own subscriptions to these cases, so that by synodal judgment the way may be closed to unlawful acts."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.45",
+   "text": "By all the bishops and presbyters it was acclaimed: Hear, Christ, life to Hilarus! This was said six times. These things we confirm, these things we teach! Said eight times. These things are to be held, these things are to be kept! Said five times. We give thanks for your teaching! Said ten times. We ask that these things be kept for ever! This was said fifteen times. By the lord Peter, we ask that they be kept for ever! This was said eight times. Let this presumption never happen! Said ten times. Whoever violates these things will find [it] upon himself! Said seven times. And when silence had been made, Bishop Hilarus said: Moreover, brothers, as has reached us in a definite report through letters sent from the Spains, new and unheard-of seeds of perversities are springing up in certain places. In short, some think that the episcopate, which is given only for preceding merits, is not a divine gift but an inherited gain, and believe that the priesthood can be bequeathed, like perishable and mortal things, as if by legal or testamentary right. For many priests, when placed at the edge of death, are said to have others substituted in their place by name: so that, namely, a lawful election is not awaited, but the favour of the deceased is held in place of the people's assent. Consider how grave this is: and therefore, if it pleases [you], let us remove this licence too from the churches generally, so that no one may think, what is shameful to say, that what is God's is owed to men in this way. And so that what has been brought to us may come to your knowledge too, let the letters of our Spanish brothers and fellow bishops be read. Paul the notary read aloud."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.46",
+   "text": "To the most blessed Pope Hilarus, to be revered by us in Christ with apostolic reverence, Ascanius and all the bishops of the province of Tarragona."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.47",
+   "text": "We have learned what care your apostleship bears for the priests of its provinces from the report of our son, the illustrious Vincentius, duke of our province; at whose urging our wish rose with ready devotion to the venture of writing. Therefore, offering in a provincial letter the obedience due to your crown, we ask by these [lines] that, with the condescension by which [you remember] others, you deign to keep our lowliness also in mind in your prayers, father to be revered by us in Christ with most blessed and apostolic reverence; asking this more especially, that you deign, after weighing our statements, to confirm our action, which is brought to your notice both by the wish of almost the whole province and by the example of antiquity. And while he was reading, it was acclaimed by all the bishops and presbyters: Hear, Christ, life to Hilarus! This was said ten times. Let this presumption never happen! This was said six times. The things that are God's cannot be given by man! This was said six times. By the lord Peter, that they be kept for ever! This was said six times. We ask that these things be kept! Bishop Hilarus said: Read. Paul the notary read aloud. The bishop of the city of the Barcelonans, the holy Nundinarius, fulfilled the lot of the human condition; he, leaving to the venerable bishop our brother Irenaeus, whom he himself had earlier established in his own diocese with our consent, what his poverty could possess, chose by the decision of his last will that he should be substituted in his place; and the judgment of the deceased does not waver as to his merit. And while he was reading, Bishop Probus, rising from his seat, said: That was lawful, this was not lawful. God gives successors; by your authority resist this thing through your apostleship. Bishop Hilarus said: Run through what you had begun. Paul the notary read aloud. Since indeed all the clergy and people of that same city, and the best and most numerous of the provincials, hoped that, consent being given by us, the same [Irenaeus] might occupy his place, we, considering the judgment of the deceased, and approving his life, and the nobility and number of those who were asking, and at the same time the advantage of the said Church, thought it best that for so great a priest, who had passed to the divine, a prelate of no less merit should be substituted, especially since it is established that the Church of that town in which he had been ordained before has always been a diocese of the Church of this city. Therefore we humbly beg your apostleship that by your authority you confirm what seems to have been justly done by our lowliness. Some time ago, indeed, we had complained in our letters of the presumption of Bishop Silvanus, and we wonder that we have received no reply from your apostleship; now, putting forward these same things, we ask that you deign to instruct us in apostolic words what is to be observed in these matters: and lest perhaps, through the negligence of the bearer or the difficulty of the long journey, the letters of our lowliness on this business could not reach you, we are also repeating our representation more promptly. And the subscription: May the divine eternity preserve your holy apostleship, praying for us, for ever, for all of us and for His Church, our true lord and apostolic pope. Bishop Hilarus said: Let the other letter be read. Paul the notary read aloud. To the lord most blessed Pope Hilarus, to be revered by us in Christ with apostolic reverence, Ascanius and all the bishops of the province of Tarragona. Even if no necessity of ecclesiastical discipline existed, we ought truly to have sought that privilege of your see by which, the keys of the kingdom having been received, after the resurrection of the Saviour the singular preaching of the most blessed Peter throughout the whole world provided for the illumination of all; whose vicar's primacy, as it is eminent, so it is to be feared and loved by all. Accordingly, adoring first of all God in you, whom you serve without complaint, we have recourse to the faith praised by the apostolic mouth (Rom. 1), seeking answers from that place where nothing is commanded by error, nothing by presumption, but everything by pontifical deliberation. While these things are so, there is nevertheless among us a false brother, about whose presumption, as it was not permitted to keep silent any longer, so the necessity of the coming judgment has commanded us to speak. Silvanus, bishop of Calagurris, situated in the furthest part of our province, by usurping ordinations not due to him, has brought our lowliness to the point that we demand against his most vain superstition the sole remedy of your see. For this man, already seven or eight or more years ago, setting aside the rules of the Fathers and despising your institutions, ordained a bishop when no people asked for one; and when we thought that his over-hasty deed could be healed by brotherly and peaceful admonition, he went on to worse. Finally, against the antiquity of the canons, against the decrees of the synod, inflamed only by the spirit of presumption, he made a presbyter of another brother of ours a bishop in the same place which had been assigned to that [first] man, a presbyter on whom, unwilling and resisting, he had laid hands, and who had already been joined to our company. Hence it came about that our brother, the bishop of the city of Caesaraugusta, reported to us everything about his most wretched rashness; his diligence and solicitude had looked ahead considerably, if it had been of any avail in anything. For he very often forbade all the bishops placed in the vicinity to join themselves to the schismatic; but with damnable obstinacy that man alone did not blush to commit everything that was unlawful, and what we are ashamed to say. Therefore, since these presumptions, which divide unity, which make schism, must be met quickly, we ask your see that we may be instructed by apostolic utterances what you wish to be observed in this matter, so that, the brotherhood being assembled and the decrees of the venerable synod brought into the open, relying on your authority against the spirit of rebellion, we may with God's help understand what ought to be done both about the ordination and about the one ordained. It will surely be your triumph if, in the times of your apostleship, the catholic Church hears what the chair of Saint Peter holds, if the new seeds of tares have been rooted out. And the subscription: May the divine eternity preserve your holy apostleship, praying for us, for ever. By all the bishops and presbyters it was acclaimed: We ask that these things be corrected! This was said six times. We ask that these things be cut away! This was said seven times. We ask that discipline be kept! Said eight times. We ask that antiquity be kept! Said seven times. We ask that discipline (sic) be kept! This was said five times. We ask that the canons be guarded! This was said seven times. We ask that punishment be taken on the presumptuous! This was said seven times. Let the apostolic ordinance be kept unimpaired! This was said eight times. Hear, Christ, life to Hilarus! This was said five times. Worthy pope, worthy teacher! This was said eight times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.48",
+   "text": "Bishop Hilarus said: Having received what has been read out about all [these matters], now, brothers, with God inspiring us, set forth your individual opinions. Maximus, bishop of the church of Turin, said: In keeping all the disciplines that pertain to holy ordinations, I declare the better by the profession of my opinion that nothing of what has been forbidden is ever to be done by me. As to the rest, I judge that whoever has done such things, or has been unwilling to cut them away when detected in the churches, should know that he will have to answer grave charges in the judgement of the apostolic see: in which he will necessarily have to undergo sentence. Ingenuus, bishop of Embrun, said: I too hold the same opinion on all points, by which I bind myself, that nothing of those things which are forbidden may ever be attempted by me, for I know my state and my profession. Concerning the others too I judge that whoever has proved a transgressor of the statutes should know that he is bound in the snares of the ecclesiastical rule and incurs guilt before the apostolic see. Paul, bishop of Aquaviva, said: I too bind myself by a like law, and concerning the others who have been transgressors I judge likewise, that they may not, without danger to themselves, attempt any such thing as ought rightly to be punished. Primus, bishop of the church of Atella, said: I too judge that this is to be observed. Palladius, bishop of the church of Salapia, said: I promise that I will do nothing against ecclesiastical discipline or the statutes of the holy canons. Tiberius, bishop of the church of Sabina, said: I profess that I keep the statutes of the apostolic see in all things, and that if I discover any of the clergy in my church, against the precepts of the holy canons, either to have married [such] a woman or to have two wives, [he is] to be separated from ecclesiastical office. By all the bishops it was said: We all follow the opinions of the brothers, we all confirm [them], and we decree that they are to be observed. Hear, Christ, life to Hilarus! This was said seven times. Let what has been wrongly committed be corrected through you! This was said eight times. What is not lawful, let it not be done! This was said eight times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.49",
+   "text": "Hilarus, bishop of the church of the city of Rome, presiding over the synod, said: Since we decree that the form of the present definition, which is according to the opinion of the statutes of the saints, should come to the knowledge of all the churches, so that no one may, on the plea of his ignorance, be allowed what is not allowed, the diligence of the notaries will see to publishing the acts."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.50",
+   "text": "Bishop Hilarus to Ascanius and all the fellow bishops of the province of Tarragona."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.51",
+   "text": "After we received the letter of your love, in which you asked that the presumptions of Silvanus, bishop of the church of Calagurris, be checked, and again you seek that the quite unlawful wishes of the people of Barcelona be confirmed, it is established that letters were delivered to us from the notables and landowners of the cities of Tarazona, *Ascantum*, Calagurris, *Varegia*, Tricio, Libia and Briviesca, with the subscriptions of various persons: by which they excused what your complaint had set forth about Silvanus. But your most just reproof was likewise not lacking in just grounds, since it became clear that priests had been ordained in a number of cities without the knowledge of the metropolitan, our brother and fellow bishop Ascanius. Therefore, since we see that whatever has been reported by either side is confused by every kind of perversity, having taken account of the necessity of the times, we have decided on this basis that what was done falls under pardon, on condition that nothing henceforth be attempted against the precepts of the blessed Apostle, nothing against the constitutions of the Nicene canons."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.52",
+   "text": "I. This first we wish to be kept according to the rules of those same Fathers: that no bishop be consecrated in any way without the knowledge and consent of brother Ascanius the metropolitan, because the ancient order has held this, and the authority of the three hundred and eighteen holy Fathers has defined it; and whoever stretches out hands against it declares himself unworthy of the fellowship of those whose precepts he has resisted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.53",
+   "text": "II. In contempt of them that part too is despised by a proud spirit which provides that no one, having left his own church, presume to pass to another. This Bishop Irenaeus attempts to commit most shamelessly, with [others] conniving and, to cause greater grief, with you asserting it: you who desire to be strengthened by our authority, whom we find especially roused with great indignation over unlawful things. So, your letter having been read in the assembly of the brothers whom the festival of my anniversary had gathered, you will learn from the tenor of the acts, which we have sent at the same time, the sentence delivered on what has been decreed about ordaining bishops according to the statutes of the canons and of my predecessors."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.54",
+   "text": "III. Therefore, Bishop Irenaeus being removed from the church of Barcelona and sent back to his own, and the desires being calmed by priestly restraint which, through ignorance of the church's laws, long to obtain what is not lawful, let a bishop be ordained for the people of Barcelona forthwith from their own clergy, such as it befits you above all, brother Ascanius, to choose and is fitting to consecrate. Lest, if something similar should happen, our command check, not without rebuke chiefly to your name, what we have learned was committed to the injury of God, from whom specially comes the grace of priestly dignities; and let not the episcopal honour be thought a hereditary right, which is conferred on us by the sole kindness of our God Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.55",
+   "text": "IV. The bishops now ordained, then, who, although they deserved to be removed with their authors since they were promoted without your knowledge, we confirm on this condition: if none of them has been the husband of a widow, and if he came to marriage with one virgin, and [as] a virgin, just as the legal ordinances also command, saying: Let the priest take a virgin as wife, not a widow, not one divorced (Lev. 21; Ezek. 44); in accordance with which the blessed apostle Paul too, the Teacher of the gentiles, did not keep silent in his own instruction about those who wish to become priests, saying (1 Tim. 3): The husband of one wife; by the tenor of which sentence you ought to be so formed that, among the other things to be guarded against, you strive above all to keep these things which you know are commanded before all else."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.56",
+   "text": "V. In these matters too care must be taken that there be not two priests in one church, and that no one ignorant of letters, or lacking some part of his limbs, or also any of the penitents, be allowed at all to approach the sacred ministry. And do not think the petitions of the peoples so powerful that, while you wish to comply with them, you abandon the will of our Lord, which forbids us to sin; whose indignation is moved the more gravely by this, because his kindness is offended when unlawful things are done by those who are the interpreters of propitiation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.57",
+   "text": "VI. And so that all things may be corrected according to what we have written, we have sent the present letter by our subdeacon Trajan, who is coming [to you]. But if Bishop Irenaeus, having laid aside the canvassing of his shamelessness, neglects to return to his own church, which will be granted him not by judgement but by kindness, let him know that he is to be removed from the episcopal fellowship. Given on the third day before the Kalends of January, in the consulship of Basiliscus and Herminericus, men of clarissimus rank. (A.D. 465.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab6",
+   "text": "DECREES OF POPE SIMPLICIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.58",
+   "text": "I. Bishop Simplicius to John, bishop of Ravenna."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.59",
+   "text": "If there were any regard for ecclesiastical discipline, or if any priestly restraint were kept by you, punishable excesses would never be committed; and if you were not held back from them by any precept of the fathers' rules, you ought at least to have been recalled by the example of your predecessor of holy memory, who, though he had offended less by making a man a presbyter against his will, nevertheless suffered a fitting judgement for such a usurpation. Where did you learn these things which you committed against our brother and fellow bishop Gregory, not by election but by spite? You allowed him, with inexcusable violence, to be dragged to you and harassed, so that you imposed so great an honour on him not through calmness of mind but through madness, as it must be called. For such things could not have been done with soundness of counsel; we do not wish to magnify what was done, lest we be compelled to judge what it deserves: for he deserves to lose his privilege who abuses the power granted him. But one reason makes us milder in our sentence, which we preferred that you learn from the report of our brother and fellow bishop Projectus rather than publish it by our letter, on account of the disgrace. For our moderation has so restrained the scandal of which you are recognised as the author that my brother and fellow bishop Gregory, who, it is agreed, was not promoted but driven out, shall govern the church of Modena, having, as he asked, no case with you; and let him not refuse to embrace the spiritual fellowship which he ought not to have been allotted against his will; and if any business should perhaps arise for him, let our examination be sought by him or against him. We also provide for the needs which he is compelled to bear through your doing by this decision: that the estate which he records was given to him a year ago being given back and returned to the church of Ravenna, a property in the territory of Bologna with 30 solidi of free revenues be handed over without hesitation, namely for the term of his life, saving the right of ownership of the church of Ravenna, to which it will return after the death of the aforesaid. But if our decrees are not obeyed, you yourself can weigh what awaits the contumacious after transgression. And we give notice that if hereafter you presume anything of the kind, and perhaps think fit to make anyone, whether bishop, presbyter or deacon, against his will, you are to know that the ordinations of the church of Ravenna and of Aemilia will be taken from you. Given on the third day before the Kalends of June, in the consulship of Severinus, man of clarissimus rank. (A.D. 481.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.60",
+   "text": "II. Bishop Simplicius to the bishops Florentius, Equitius and Severus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.61",
+   "text": "The report of your love has informed us, and the series of acts has made more fully known, that Gaudentius, priest of the church of Aufinum, has performed unlawful ordinations against the statutes of the canons and our precepts; and we order that all power of these be wholly taken from him. For we have written to Severus, our brother and fellow bishop, that, if it is necessary, he himself, having considered the rules of the Fathers, should discharge in the aforesaid church that office which the other is convicted of having abused: so that those who were unlawfully promoted by him be removed from the ecclesiastical ministries. At the same time also, concerning the revenues of the church or the offerings of the faithful, let him assure the man, who does not know what is fitting, that nothing is permitted him; but let only a fourth portion of these be left to him; let two [portions], to benefit the church buildings and the provision for strangers and the poor, be administered by the presbyter Onager at the peril of his own order; let the last be divided among the clergy according to the merits of each. But let the presumptuous man be compelled by the insistence of the aforesaid brother to restore the sacred vessels of the church which we have learned were alienated; and we have specially commanded him to press in this too, that he restore those three portions which he is said to have claimed for himself alone over three years. Given on the thirteenth day before the Kalends of December, after the consulship of Leo Augustus. (A.D. 475.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab7",
+   "text": "DECREES OF POPE FELIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab8",
+   "text": "(Roman synod. A.D. 487.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.62",
+   "text": "In the consulship of Flavius Boethius, man of clarissimus rank, on the third day before the Ides of March, in the Constantinian basilica, the venerable man Pope Felix presiding, together with"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.63",
+   "text": "Candidus of Tibur,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.64",
+   "text": "Paschasius of Centumcellae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.65",
+   "text": "Equitius of Matelica,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.66",
+   "text": "Epiphanius of Spello,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.67",
+   "text": "Herennius of Portus,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.68",
+   "text": "Agnellus of Telesia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.69",
+   "text": "Urbanus of Foligno,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.70",
+   "text": "Martinianus of Formiae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.71",
+   "text": "Cresconius of Todi,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.72",
+   "text": "Basilius of Tolentino,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.73",
+   "text": "Constantius of Aquinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.74",
+   "text": "Philip of Numana,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.75",
+   "text": "Bonus of Ostia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.76",
+   "text": "Constantius of Trebia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.77",
+   "text": "Constantine of Capua,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.78",
+   "text": "Severus of Casinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.79",
+   "text": "Martianus of Ameria,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.80",
+   "text": "Herculius of Otricoli,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.81",
+   "text": "Maximus of Blera,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.82",
+   "text": "Projectitius of Tarquinii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.83",
+   "text": "Maximinus of Ferentium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.84",
+   "text": "Felix of Anteate,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.85",
+   "text": "Felix of Anagni,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.86",
+   "text": "Andrew of Gabii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.87",
+   "text": "Cyprian of Nomentum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.88",
+   "text": "Vitalis of Fundi,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.89",
+   "text": "Constantius of Sutri,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.90",
+   "text": "Gaudentius of Forum Clodii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.91",
+   "text": "Asterius of Forum Novum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.92",
+   "text": "Victor ......."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.93",
+   "text": "Rusticus and Pardalius, Africans,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.94",
+   "text": "Peter of Subaugusta,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.95",
+   "text": "Bassus of Ferentinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.96",
+   "text": "Innocent of Mevania,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.97",
+   "text": "Benignus of Aquaviva,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.98",
+   "text": "Decius of Tres Tabernae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.99",
+   "text": "Athanasius of Albano,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.100",
+   "text": "Peter of Lorium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.101",
+   "text": "Felicissimus of Sabina,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.102",
+   "text": "Boniface of Velitrae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.103",
+   "text": "Romulus of Praeneste,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.104",
+   "text": "Donatus, bishops;"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab9",
+   "text": "And with the presbyters:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.107",
+   "text": "the deacons also standing by, Felix, bishop of the catholic Church of the city of Rome, presiding over the synod, said: Common is the sorrow and general the groaning, because we have learned that within Africa even bishops, presbyters and deacons have been rebaptized; a matter which has without doubt come also to the knowledge of your holiness. It is fitting for us to ordain what ought to be observed concerning this. Therefore, so that our judgement on this may be plain, let what has seemed good to us be read out. The deacon Anastasius read."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.108",
+   "text": "To the most beloved brothers in Christ Jesus, all the bishops established throughout the various provinces."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.109",
+   "text": "How in the regions of Africa the cunning of the devil has raged against the Christian people, and has burst out with manifold deception to the point that it has plunged not only the unwary common people but the priests themselves into the depths of death, there is no part of the world that has not groaned, no land that has not known. Hence, placed in great grief, we cannot disregard the peril of souls that are perishing and that are to be required of us; wherefore a fitting medicine must be applied to such wounds, lest a premature ease in curing profit nothing those caught by a deadly plague, or the ruin, treated too sluggishly, involve the wounded and the healers alike in the guilt of an unlawful cure. First, therefore, the profession of anyone coming to you and asking for a remedy must be carefully examined, and the person of the one deceived, so that a fitting medicine may be offered. And whoever, intending to make satisfaction to God through penance, rightly grieves that he has been rebaptized, let it be inquired whether he ran to this crime or came to it under compulsion. [Let him know] that he who deceives deceives himself, and that nothing is taken away through our leniency from the lofty judgement of the tribunal, to which those things are valid that are pious, true and just; and necessity is to be treated on a different reckoning from will. Worse, however, is the case of one who was perhaps enticed by a price to perish. For the enemy has left nothing untried; so that he may not be allowed to rejoice in his catch, help must be given to the ensnared, and the hunter's snare must be broken, so that for those who lament their fall in flight there may be a return to the hall they had left, by the moderation of justice as much as by the compunction of piety; and let them not perhaps be ashamed or reluctant to obey the appointed seasons of fasting and groaning, or to comply with the other precepts of a more wholesome observance, because grace is given to the humble, not to the proud (James 4). If then whoever, laid low by grief at his fall, seeks to be raised up in Christ, let us, through the ministry of our dispensation (which it is fitting for your charity to follow, and which it is not lawful for anyone either to wish or to be able to overstep), treat with priestly vigour and humanity the case of him who, against the apostolic teaching, gave himself up to the repetition of a most ill-omened baptism, or of him who cunningly thought his consent should be excused by some arguments, so that in them faith (which, unless it is one, is already none) may, with the help of the Lord the judge, be restored to salvation without offence from our haste; because when the satisfaction of a sinner is prolonged by us, his mind is found, not without our praise and joy, the purer for pardon. And therefore remember that we hold this judgement concerning these matters: that, the distinction between sinners being kept, not all who have fallen be weighed in the same balance, since a heavier interest of chastisement must be exacted from one to whom the discipline of the Lord's house has been entrusted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.110",
+   "text": "So then, to begin from the highest ranks of the Church: those who are established to have been bishops, presbyters or deacons, and who, whether perhaps willingly or under compulsion, have clearly made loss of that unique and saving washing, and have stripped off Christ, whom they had put on not only by the gift of regeneration but also by the grace of the honour they had received, since it is established that no one could have come to a second dipping unless he had openly denied that he was a Christian and professed himself a pagan. Though this is to be execrated in all generally, in bishops, presbyters and deacons it is shown to be far more horrible even to hear and to speak of. But since the same Lord and Saviour is most merciful and wills no one to perish, it will be fitting that they lie in penance until the day of their departure, if they come to their senses, and that they by no means be present at the prayer not only of the faithful but not even of the catechumens; to them lay communion is to be restored at death, a matter which the care of a most approved priest must examine and carry out diligently."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.111",
+   "text": "Concerning clerics, however, and monks, or virgins of God, or laypeople, we command that this rule be kept which the synod of Nicaea established was to be kept regarding those who have lapsed or shall have lapsed: namely, that those who under no necessity, through no fear or danger of anything, impiously gave themselves up to heretics to be rebaptized, if they repent from the heart, shall be three years among the hearers, and for seven years shall lie among the penitents under the hands of the priests, and for two [more] shall by no means be admitted to the offerings, but shall be joined with the people only in prayer; and let him not be ashamed to bow his neck to God who did not fear to deny him. But if, being mortal, the end of life begins to press upon one within the bounds of the prescribed time, help must be given to him who implores it, and whether by the bishop who gave the penance, or by another who has nevertheless verified that it was given, or likewise by a presbyter, let viaticum not be denied to one departing from the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.112",
+   "text": "To boys, however, who are so called from puberty because they are still beardless, whether clerics or laypeople, or also to girls of like age, whom ignorance due to age supports, after being held for some time under the imposition of hands, communion is to be restored, and their penance is not to be awaited, since the rule exempts them from coercion; this we have prudently established, lest those for whom more or less of life remains amid the stain of earthly contagion should perhaps commit things to be repented of while they are still in penance. But if anyone, before the appointed time of penance, despaired of by the physicians or pressed by evident signs of death, receives the grace of communion and recovers, let us keep in his case what the canons of Nicaea ordained, that he be held among those who communicate in prayer only, until the span of time assigned to him is completed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.113",
+   "text": "Nor do we pass over our catechumens who were baptized under such a profession, because (as the same holy canons ordained) the case is not unlike that of one who has in any way abjured Christ, whom he once confessed: let them be three years among the hearers, and afterwards be allowed to pray with the catechumens, to receive the grace of catholic communion through the imposition of hands. Excepting indeed only bishops, presbyters and deacons, who, as we have already said, are to be reconciled only at the time of their death, we decree that the rest, whether clerics, or monks or nuns, or laypeople, persons of either sex, who are established to have undergone the repetition of baptism compelled by violence and dangers, or who by some fabrication have said they are not bound by the guilt of this crime, shall continue in penance for three years, and through the imposition of hands be received into the fellowship of the sacrament. This being kept in every respect: that none of those who at any age have been baptized or rebaptized elsewhere than in the catholic Church shall ever be permitted at all to enter the ecclesiastical service; it ought to be enough for them that they have been received into the number of catholics; since any prelate who violates this will be seen to pass judgement on his own order and communion, as will he who does not remove one of these whom he knows to have crept into the clerical ministry. But it must above all be taken care of, and provided with every caution, that none of our brothers and fellow bishops, or even presbyters, receive in another's city or diocese a penitent, or one placed under the hand of a priest, or one who says he has been reconciled, without the testimony and letters of the bishop or presbyter, whether a presbyter in a parish or a bishop in a city; for this, if neglected through any connivance, touches with guilt also the clerics who dwell in the places where this has been less carefully observed. These things therefore having been duly arranged and brought by our deliberation to the knowledge of your churches, it is fitting that you obey; and although nothing seems lacking in them for the restoration of souls, yet if something new, which may have escaped us, has been revealed to anyone, according to the blessed apostle Paul (1 Cor. 14), the former being silent, let him confidently put it forward, because the Holy Spirit breathes where he wills, especially when his own cause is being treated; nor shall we be reluctant to hear, and if anything has been omitted, not arrogantly to refuse it but reasonably to ordain it. Given on the Ides of March, in the consulship of Dynamius and Sifidius, men of clarissimus rank. (A.D. 488.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab10",
+   "text": "DECREES OF POPE SYMMACHUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab11",
+   "text": "(Roman synod. A.D. 499.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.114",
+   "text": "After the consulship of Paulinus, man of clarissimus rank, on the Kalends of March, in the basilica of the blessed apostle Peter, with the most blessed Pope Symmachus presiding over the synod, Fulgentius the archdeacon said: Your Beatitude, having sent out letters of authority through the provinces before this, has frequently convoked a synod of the priests of Italy, whose presence is seen to be set before your eyes; now let your Beatitude deign to order in a manner fit for deliberation the things that pertain to the security of the Church, or to the peace or concord of the whole Church. It was acclaimed by all the bishops and presbyters: Hear us, Christ, life to Symmachus; this was said ten times. [May you hold] his see and years; this was said eight times. We ask that you do it; this was said ten times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.115",
+   "text": "Symmachus, bishop of the catholic Church of the city of Rome, said: Our concern for the security of the Church has specially gathered this council of your charity, disregarding the harshness of winter, so that, by sharing our deliberation together, we may for the future cut away firmly and vigorously the canvassing for the episcopate, the uncertainty of confusion, and the popular tumult which, as is known, arose through underhand dealing; and so that we may therefore take care for the time to come that neither the subversion of discipline nor the boldness of the presumptuous may be eager to attempt the like; and that we may deliberate with equal grant [of voice], namely ordaining by express decisions what ought to be observed concerning the ordination of the Roman bishop. All the bishops and presbyters said: We ask that it be done; this was said ten times. We ask that scandals be cut away; this was said nine times. We ask that canvassing be extinguished; this was said twelve times. Hear us, Christ, life to Symmachus; this was said six times. [May you hold] his see and years; this was said five times. Let it be done at once; this was said ten times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.116",
+   "text": "Bishop Symmachus said: Since your fraternity has spurred on the care of our provision with its exhortations, and shows an equal mind concerning the tranquillity of the Church out of regard for our God, as we said before, now that deliberation has been held at present, make known by all your opinions what is approved, [the decrees] which are to be read out in this venerable council through the officials of the Church. And when they had risen, and a little later had sat down again, Aemilianus the notary made public the decrees of the synod."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.117",
+   "text": "I. On account of the frequent canvassing of certain persons, and the stripping of the Church, and the clashing of the people, which the troublesome greed of those improperly desiring the episcopate has produced, so that so pernicious a presumption may be extinguished in future times, the holy synod has established that if any presbyter, or deacon, or cleric, while the pope is alive and without consulting him, should attempt either to lend his subscription for the Roman pontificate, or to promise it by a note, or to give an oath, or indeed to pledge any vote, or to deliberate and decide on this matter in private gatherings held for the purpose, he shall be deprived of the dignity of his rank or of communion. The whole synod rose and acclaimed: Hear us, Christ, life to Symmachus; said ten times. Here is peace with Symmachus; said fifteen times. [May you hold] his see and years; said eight times. With equal severity is to be struck the one who, while this pontiff is living (as has been said), is convicted of having canvassed in any way, or indeed of having attempted it, all those guilty of this fault being alike punished with the penalty of anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.118",
+   "text": "Bishop Symmachus said: Does this decision then please the whole body, and is it acknowledged and approved by all? The whole synod said: It pleases, and let what pleases all be done."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.119",
+   "text": "II. If (God forbid) the death of the pope should occur unexpectedly, so that he cannot decide beforehand concerning the election of his successor, as was approved above, then if the choice of the whole ecclesiastical order inclines to one person, let the one elected be consecrated bishop. But if, as tends to happen, the inclinations of those among whom a contest has arisen begin to differ, let the opinion of the majority prevail; yet in such a way that he shall lose his priesthood who, taken by a promise, has decided on the election not by sound judgement. The synod said: It pleases; this was said ten times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.120",
+   "text": "III. Moreover, on account of the hidden frauds and secret snares of conspiracies, which the sentence of this strictness pursues, if anyone brings to the knowledge of the Church the plans of those who, against this synod, have engaged in canvassing for the pontificate, and proves them by reasonable proof, [even if he was] a participant in such an action, let him not only be cleared of all guilt, but also be relieved with a reward that is not unworthy. The whole synod rose and acclaimed: All [these] please; and added: Hear us, Christ, life to Symmachus; this was said thirteen times. We ask that they be kept so; this was said ten times. We pray that no one come to the Roman episcopate otherwise from now on; this was said ten times. We ask that you confirm our decrees; this was said ten times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.121",
+   "text": "Symmachus, bishop of the catholic Church of the city of Rome, said: The present acts will take in your acclamations and the judgement of the synod. And he added: What a deliberation befitting religion and peace has established for calming the errors of long-standing presumption and the diseased ills hostile to church affairs by which the universal Church was afflicted, shall obtain perpetual firmness, so that, by the gift of God, who is known to be the guardian of good things, the synodal ordinance may be in force, and whoever, without distinction of any person, presumes to come [otherwise] shall be punished with the strictness laid down above. And the bishops subscribed, seventy-five in number."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.122",
+   "text": "I, Caelius Symmachus, bishop of the holy catholic Church of the city of Rome, have subscribed, consenting to these synodal constitutions, approved and confirmed by me."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.123",
+   "text": "I, Caelius Rusticus, bishop of the city of Minturnae, have subscribed and consented to the synodal constitutions, and I declare that I abide in this decision."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.124",
+   "text": "I, Caelius Bonifacius, bishop of the church of Velitrae, have subscribed and consented to the synodal constitutions, and I declare that I abide in this decision."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.125",
+   "text": "Missenus of Cumae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.126",
+   "text": "Cresconius of Tuder."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.127",
+   "text": "Basilius of Tolentinum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.128",
+   "text": "Decius of Tres Tabernae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.129",
+   "text": "Valentinus of Amiternum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.130",
+   "text": "Vitalis of Fanum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.131",
+   "text": "Maximus of Blera."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.132",
+   "text": "Benignus of Aquaviva."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.133",
+   "text": "Palladius of Sulmo."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.134",
+   "text": "Constantius of Ocriculum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.135",
+   "text": "Germanus of Pisaurum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.136",
+   "text": "Candidus of Tibur."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.137",
+   "text": "Vitalianus of Narnia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.138",
+   "text": "Justus of Acherontia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.139",
+   "text": "Stephanus of Nursia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.140",
+   "text": "Fortunatus of Anagnia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.141",
+   "text": "Clarus of Allifae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.142",
+   "text": "Rufinus of Canusium."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.143",
+   "text": "Vitalis of Fundi."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.144",
+   "text": "Innocentius of Mevania."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.145",
+   "text": "Bassus of Ferentinum Novum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.146",
+   "text": "Vitalianus of Rusellae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.147",
+   "text": "Constantinus of Capua."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.148",
+   "text": "Fortunatus of Suessa."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.149",
+   "text": "Vindemius of Antium."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.150",
+   "text": "Joannes of Ariminum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.151",
+   "text": "Martyrius of Tarracina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.152",
+   "text": "Laurentius of Trebiae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.153",
+   "text": "Serenus of Nomentum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.154",
+   "text": "Adeodatus of Caere."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.155",
+   "text": "Dulcitius of Sabina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.156",
+   "text": "Paschasius of Vulturnum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.157",
+   "text": "I, Fortunatus, bishop of the church of Anagnia, on behalf of Sanctulus, bishop of the city of Signia, since he could not subscribe, have subscribed for him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.158",
+   "text": "Valerius of Cales."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.159",
+   "text": "Felicissimus of Forum Sempronii."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.160",
+   "text": "I, Valentinus of Amiternum, have subscribed on behalf of Romanus, bishop of the church of the Pitinates."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.161",
+   "text": "Colonius of Forum Clodii."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.162",
+   "text": "Joannes of Spoletium."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.163",
+   "text": "Maximianus of Perusia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.164",
+   "text": "Lucianus of Tarquinii."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.165",
+   "text": "Florentius of Paestum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.166",
+   "text": "Fortunatus of Fulginiae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.167",
+   "text": "Gaudentius of Tadinum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.168",
+   "text": "Felix of Nepet."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.169",
+   "text": "Aucupius of Puteoli."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.170",
+   "text": "Rosarius of Surrentum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.171",
+   "text": "Epiphanius of Beneventum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.172",
+   "text": "Constantius of Venafrum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.173",
+   "text": "Salustius of Ameria."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.174",
+   "text": "Malensis of Centumcellae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.175",
+   "text": "Maximianus of Subaugusta."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.176",
+   "text": "Joannes of Vibo."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.177",
+   "text": "Mercurius of Sutrium."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.178",
+   "text": "Serenus of Nola."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.179",
+   "text": "Timotheus of Abellinum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.180",
+   "text": "Stephanus of Naples."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.181",
+   "text": "I, Bishop Rosarius, have subscribed on behalf of my brother Bishop Ursus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.182",
+   "text": "[...]ius of Volsinii."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.183",
+   "text": "Likewise Gaudentius, bishop of Volsinii, on behalf of Projectitius, bishop of Forum Novum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.184",
+   "text": "Quintus of Teanum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.185",
+   "text": "Bellator of Ostia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.186",
+   "text": "Lampadius of the city of Alba."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.187",
+   "text": "Ursus of Stabiae."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.188",
+   "text": "Gaudentius of Salernum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.189",
+   "text": "Marius of Tifernum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.190",
+   "text": "Adeodatus of Forbiensis."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.191",
+   "text": "Saturninus of Herdonia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.192",
+   "text": "The presbyters subscribed, sixty-seven in number. I, Caelius Laurentius, archpresbyter of the title of Praxedis, have subscribed here and consented to the synodal constitutions, and I declare that I abide in this decision."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.193",
+   "text": "Januarius, presbyter of the title of Vestina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.194",
+   "text": "Martianus, presbyter of the title of Saint Caecilia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.195",
+   "text": "Gordianus, presbyter of the title of Pammachius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.196",
+   "text": "Petrus, presbyter of the title of Saint Clement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.197",
+   "text": "Urbicus, presbyter of the title of Saint Clement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.198",
+   "text": "Paulinus, presbyter of the title of Saint Julius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.199",
+   "text": "Valens, presbyter of the title of Saint Sabina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.200",
+   "text": "Petrus, presbyter of the title of Chrysogonus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.201",
+   "text": "Soranus, presbyter of the title of Vestina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.202",
+   "text": "Asterius, presbyter of the title of Pudens."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.203",
+   "text": "Justinus, presbyter of the title of Pudens."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.204",
+   "text": "Felix, presbyter of the title of Equitius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.205",
+   "text": "Redemptus, presbyter of the title of Chrysogonus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.206",
+   "text": "Projectitius, presbyter of the title of Damasus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.207",
+   "text": "Jovinus, presbyter of the title of Aemiliana."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.208",
+   "text": "Bonus, presbyter of the title of Crescentiana."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.209",
+   "text": "Paschasius, presbyter of the title of Eusebius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.210",
+   "text": "Joannes, presbyter of the title of Pammachius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.211",
+   "text": "Sebastianus, presbyter of the title of Nicomedes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.212",
+   "text": "Martinus, presbyter of the title of Cyriacus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.213",
+   "text": "Andreas, presbyter of the title of Saint Matthew."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.214",
+   "text": "Servusdei, presbyter of the title of Saint Clement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.215",
+   "text": "Opilio, presbyter of the title of Vestina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.216",
+   "text": "Petrus, presbyter of the title of Chrysogonus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.217",
+   "text": "Romanus, presbyter of the title of Tigrida."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.218",
+   "text": "Marcellinus, presbyter of the title of Julius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.219",
+   "text": "Dominicus, presbyter of the title of Crescentiana."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.220",
+   "text": "Abundantius, presbyter of the title of Sabina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.221",
+   "text": "Marcellus, presbyter of the title of Romanus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.222",
+   "text": "Asellus, presbyter of the title of Byzans."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.223",
+   "text": "Agatho, presbyter of the title of Equitius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.224",
+   "text": "Sebastianus, presbyter of the title of Byzans."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.225",
+   "text": "Valentinus, presbyter of the title of Eusebius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.226",
+   "text": "Anastasius, presbyter of the title of Anastasia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.227",
+   "text": "Genesius, presbyter of the title of Nicomedes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.228",
+   "text": "Dionysius, presbyter of the title of Aemiliana."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.229",
+   "text": "Epiphanius, presbyter of the title of the Apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.230",
+   "text": "Acontius, presbyter of the title of Fasciola."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.231",
+   "text": "Paulinus, presbyter of the title of Fasciola."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.232",
+   "text": "Agapetus, presbyter of the title of the Apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.233",
+   "text": "Adeodatus, presbyter of the title of Equitius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.234",
+   "text": "Benedictus, presbyter of the title of Gaius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.235",
+   "text": "Dominicus, presbyter of the title of Prisca."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.236",
+   "text": "Redemptus, presbyter of the title of Tigrida."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.237",
+   "text": "Severus, presbyter of the title of Gaius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.238",
+   "text": "Stephanus, presbyter of the title of Marcellus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.239",
+   "text": "Crescentius, presbyter of the title of the Apostles."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.240",
+   "text": "Julianus, presbyter of the title of Anastasia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.241",
+   "text": "Septiminus, presbyter of the title of Julius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.242",
+   "text": "Cyprianus, presbyter of the title of Mark."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.243",
+   "text": "Epiphanius, presbyter of the title of Fasciola."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.244",
+   "text": "Bonifacius, presbyter of the title of Caecilia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.245",
+   "text": "Petrus, presbyter of the title of Praxedis."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.246",
+   "text": "Timotheus, presbyter of the title of Marcellus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.247",
+   "text": "Hilarius, presbyter of the title of Lucina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.248",
+   "text": "Victorius, presbyter of the title of Sabina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.249",
+   "text": "Laurentius, presbyter of the title of Saint Laurence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.250",
+   "text": "Eutyches, presbyter of the title of Aemiliana."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.251",
+   "text": "Julianus, presbyter of the title of Anastasia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.252",
+   "text": "Marcus, presbyter of the title of Lucina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.253",
+   "text": "Vincemalus, presbyter of the title of Crescentiana."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.254",
+   "text": "Abundantius, presbyter of the title of Mark."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.255",
+   "text": "Venantius, presbyter of the title of Marcellus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.256",
+   "text": "Stephanus, presbyter of the title of Eusebius."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.257",
+   "text": "Paulinus, presbyter of the title of Saint Laurence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab12",
+   "text": "Subscription of the deacons."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.258",
+   "text": "I, Cyprianus, deacon of the holy Roman Church, of the seventh region, have subscribed to these and consented to the synodal constitutions, and I declare that I abide in this decision."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.259",
+   "text": "I, Anastasius, deacon of the first region, have subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.260",
+   "text": "I, Citonatus, deacon of the fifth region, have subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.261",
+   "text": "I, Joannes, deacon of the second region, have subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.262",
+   "text": "I, Tarrensis, deacon of the first region, have subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.263",
+   "text": "I, Tertullus, deacon of the fourth region, have subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab13",
+   "text": "OTHER DECREES OF POPE SYMMACHUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab14",
+   "text": "(Roman Synod. In the year of Christ 503.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.265",
+   "text": "In the consulship of Flavius Avienus the younger, man of clarissimus rank, on the eighth day before the Ides of November, in the basilica of the blessed apostle Peter, the venerable man Pope Symmachus presiding, together with the venerable men the bishops,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab15",
+   "text": "the presbyters also sitting with them:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.268",
+   "text": "and the deacons also standing by, Anastasius, Hormisdas, Joannes and Agapetus. Symmachus, bishop of the catholic Church of the city of Rome, said: I. Your fraternity has indeed done well, obeying the ecclesiastical laws under fear of the divine judgement, in defining what had to be decreed, and you have reached the full measure of justice, since it embraces everything sufficiently and its fullness needs no addition, above all concerning the clerics whom love of domination has seized and has made to spurn the yoke of ecclesiastical discipline, who for that reason were established before you to have made a schism; yet you have not denied them, as was fitting, the mercy which God commands to be shown to all, unless the hardness of their heart should bring punishment upon itself by despising the remedies offered; their excesses it is difficult to recount. One thing, however, which occurs to me, I do not delay to make known to your venerable order. They said, among other things, that Basilius of illustrious memory had drawn up a certain document, supposedly out of love for the property of the Church, at which no bishop of the Roman Church was present and which none subscribed, through whom it could have obtained lawful validity. So that I may not argue about a matter on which your council can judge, let it be sought out and brought forward, so that by reading it you may learn what kind of standing it can have. The holy synod replied: Let it be brought forward, so that it may be known what kind of thing it is; and while it was saying this, the deacon Hormisdas read it out. II. When they had sat together at [the church of] the blessed apostle Peter, the exalted and most eminent man Basilius, praetorian prefect and patrician, acting also on behalf of the most excellent king Odoacer, said: Although it is a matter of our concern and of our religion that concord in the Church be chiefly preserved in the election of a bishop, so that the condition of the city may not be called into doubt through an occasion of sedition, nevertheless you remember the admonition of our most blessed man Pope Simplicius, which we ought always to have before our eyes, that this was enjoined on us under solemn charge: because of that uproar and the harm to the venerable Church, if it should happen that he passed from this light, the election of anyone should not be held without our consultation. And while he was reading, Cresconius, bishop of the Church of the city of Tuder, rising from the assembly, said: Here let the holy synod weigh how, passing over the religious persons who chiefly have the care of so great a pontiff, they brought [the matter] into their own power. That this is against the canons is evident. Again the deacon Hormisdas read: So that the venerable Church should suffer no confusion or loss, we are surprised that anything was attempted with us passed over, since nothing ought to have been undertaken while our priest was living. Therefore, if it pleases your greatness or holiness, let us preserve intact, with religious care, everything that concerns the election of the future bishop, setting forth in particular this law, which we decree for ourselves and our heirs out of the devotion of a Christian mind:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.269",
+   "text": "that never shall any estate, whether rural or urban, or the ornaments or vessels of the churches, those that exist now or those that shall come under the rights of the churches by any titles whatever, [be alienated]; if he who is now to be ordained bishop by common election, and those who shall follow in future ages, should wish to alienate them by any title or device whatever, let it be judged ineffective and void, and let there be anathema on him who does it, on him who consents, and on him who receives. Maximus, bishop of the Church of Bleda, said: Now let the holy synod deign to declare: was it lawful for a layman to pronounce anathema against the ecclesiastical order? Or, if a layman could pronounce anathema on a priest, [could he] also decree against the canons what it was not his place [to decree]? Say, what do you think of me? Was it lawful for a layman to give law? The holy synod said: It was not lawful; and it added: Read what follows. The deacon Hormisdas read: And let him who has obtained a rural or urban estate under ecclesiastical right know that he is protected by no law or prescription, but if either he who alienated it, or those who follow him, should with a contrary will try to recover an estate alienated in this way, let him who obtained it restore it with its fruits. And while he was reading, Stephanus, bishop of the Church of Venusia, rising from the assembly, said: Let it be read through. The deacon Hormisdas read:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.270",
+   "text": "It is resolved that this penalty also applies to the heirs and successors of those who receive. In this matter let any of the clerics have free power to object. For it is unjust, and like sacrilege, that what each person has contributed, or at any rate bequeathed, to the venerable Church for the sake of the poor, either for the salvation or for the repose of their souls, should be transferred elsewhere by those whom it most befitted to preserve it. Clearly, whatever in jewels, or gold and silver, and also in garments, shall seem less suited to the uses or adornment of the Church, which cannot be preserved and last long, let it be sold at a fair valuation, and let the distribution [of the proceeds] be applied religiously. And when it had been read, Laurentius of the Church of Milan said: This document could bind no pontiff of the city of Rome, because it was not lawful for a layman to have any power of decreeing in the Church apart from the Roman pope, a layman for whom remains the obligation to obey, not the authority to command; above all since neither did the Roman pope subscribe, nor is the assent of any metropolitan read [in it] according to the canons. Petrus, bishop of the Church of Ravenna, said: It is evident that the document which has been made public in our assembly stands with no force, because it does not agree with the canons and appears to have been conceived by a lay person, above all because no prelate of the apostolic see is shown to have been present at it or to have confirmed it with his own subscription. Eulalius, bishop of the Church of Syracuse, said: The document which has been read in the council of priests is established by the clearest proofs to be invalid. First, because, against the rules of the Fathers, it appears to have been made by laymen, however religious, to whom no power of disposing anything about ecclesiastical property is ever read to have been granted; secondly, because it is shown to have been confirmed by the subscription of no prelate of the apostolic see. For if the holy Fathers decreed that whatever the priests of any province, holding a council within their own bounds, attempted without the authority of their metropolitan bishop must be void, how much more is it beyond doubt that what is known to have been presumed by laymen when there was no prelate in the apostolic see, who, holding by the prerogative of the blessed merit of the apostle Peter the primacy of the priesthood throughout the whole world, is accustomed to give validity to synodal decrees, even with some bishops consenting (who nonetheless could not prejudice the pontiff by whom they are shown to be consecrated), lacks force, and can in no way be counted among ecclesiastical statutes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.271",
+   "text": "III. The holy synod said: Although, according to the statements of our venerable brothers Laurentius, Petrus, Eulalius, Cresconius, Maximus and Stephanus, it is not held uncertain among us either that this document is of no weight, yet even if it could stand on some reasoning, it was fitting that in the synodal assembly it be in every way deprived of force and brought to nothing by the provident sentence of your beatitude, so that there should not remain a precedent for any laymen, however religious or powerful, in any city whatever, to presume in any way to decree anything about ecclesiastical property, the care of disposing of which is taught to have been committed by God unquestionably to priests alone."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.272",
+   "text": "Bishop Symmachus said: Now, since God has granted me your longed-for presence, on whatever occasion, I wish, if it pleases [you], that a measure be made firm which I believe befits ecclesiastical property, so that all whom vain fury has stirred up against me may know that I strive for nothing more than that what has been committed to me by God for stewardship may be kept safe, but [a measure] which also ought to be welcome to any successors who fear God, and pertains to the safeguarding of the ecclesiastical patrimony. The holy synod said: We know that your foresight attends to what is necessary, and therefore it is in your power to arrange what is to follow."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.273",
+   "text": "Symmachus, bishop of the catholic Church of the city of Rome, said: Great reverence is indeed owed to the venerable and priestly calling, whose part is to arrange what is right from zeal, not from compulsion. But since in some who seek what belongs to others, avarice, the mother of vices, having cast off the barriers of honour, thinks that everything which is possible is expedient, and so, while it gapes after plunder, abuses the patience of the heavenly mercy; while heaven governs [all] and awaits correction, they consider themselves not bound by judgements, and it is plain that with certain people the delay of the divine sentence turns into an occasion for seizing. But for us, whom pastoral care binds, and the account to be rendered of the ecclesiastical property entrusted to us for stewardship, it is needful to extend our solicitude not only to the present but also to the ages to come, lest it turn to the harm of our soul if those who are able [to abuse it] should transgress out of the liberty of presuming [left] by their innocence of statutes, when both we and our successors can be supported by religious power, serving the ecclesiastical laws."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.274",
+   "text": "IV. These things being weighed, therefore, with regard for our God, we decree by a lasting decree that no prelate of the apostolic see, from the present day for as long as, by the Lord's disposing, the saving doctrine of the catholic faith shall remain, may transfer a rural estate, of whatever size it be, great or small, to anyone's rights by perpetual alienation or exchange, nor shall anyone be excused on the plea of necessity. Since indeed what we speak of is not a personal matter, let no one, cleric or layman, keep what he has received on this pretext; nor may rights be given to any in usufruct, nor retained if given, except to clerics, captives and strangers, so that no occasion for bad dealing may be supplied, since other ways are reserved for that generosity. Only houses situated in any cities, whose condition must be maintained at no small expense, may be exchanged, if it should happen that they are given away, on receiving revenues at a fair valuation, and with fear of the divine judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.275",
+   "text": "V. We wish also that the guardians of the churches throughout all the titles of the Roman city, whether they are presbyters or whoever they may be, be bound by the same law, since it is wicked to say that a man of the second order in the Church should not be held by the obligation by which the supreme pontiff binds himself through the love of Christ. Whoever, however, forgetful of God and unmindful of this decree, by which we wish the priests of the Roman city to be bound with religious ties, offends against the present constitution and attempts to alienate by perpetual right anything belonging to the titles, or to the Church mentioned above, in any manner (except gold, silver or gems, and also vestments, if there are [any] or if they have been added, [and] any movables not pertaining to the divine adornments, houses alone being excepted under the aforesaid condition), let the donor, alienator and seller be punished with the loss of his rank."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.276",
+   "text": "VI. Moreover, whoever has sought or received [such property], or whoever of the presbyters, deacons or defensors has subscribed for the giver, let him be struck with the anathema with which an angry God strikes souls; and let the receiver or the subscriber among the persons comprised above, that is, those whom we have judged are to be struck with anathema, share in the established penalty, the punishment which we laid down for the alienator being kept. Unless perhaps both the alienator, by reclaiming, and he who received, by swift restitution, have looked to their own interests."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.277",
+   "text": "VII. But if anyone, with too little care for his soul, should perhaps neglect the remedy offered, then beyond those kinds of penalties which are written above, any document that has been drawn up against right shall be deprived of all force (although it had none from the beginning). But let it also be lawful for any ecclesiastical persons to raise a voice of objection and to be supported by ecclesiastical authority, so that one may reclaim another's property together with its fruits; nor may [the holder] shield himself with any obstacle before the tribunal of Christ, because he scatters against right, without any regard for piety, what was left by religious souls for the sustenance of the poor. We wish the law of this constitution, however, to be observed in the apostolic see only, while in all the churches throughout the provinces the custom is kept according to the consideration of souls which their rulers see to befit the purpose of religion. And they subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.278",
+   "text": "I, Caelius Symmachus, bishop of the Roman Church, have subscribed to this constitution made by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.279",
+   "text": "I, Caelius Laurentius, bishop of the holy Church of Milan, have subscribed to this constitution made by the venerable pope Symmachus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.280",
+   "text": "I, Petrus, bishop of the catholic Church of Ravenna, have subscribed to this constitution made by the venerable pope Symmachus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.281",
+   "text": "I, Eulalius, bishop of the holy Church of Syracuse, have subscribed to this constitution made by the venerable pope Symmachus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.282",
+   "text": "Felix of Interamna,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.283",
+   "text": "Aemilianus of Vercellae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.284",
+   "text": "Tigridius of Taurinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.285",
+   "text": "Bassus of Mutina,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.286",
+   "text": "Maximus of Blera,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.287",
+   "text": "Rufentius of Egnatia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.288",
+   "text": "Martinianus of Ostia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.289",
+   "text": "Fortunatus of Vessana,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.290",
+   "text": "Eucarpus of Messana,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.291",
+   "text": "Stephanus of Venusia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.292",
+   "text": "Romulus of Praeneste,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.293",
+   "text": "Vindemius of Antium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.294",
+   "text": "Fortunatus of Fulginium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.295",
+   "text": "Martianus of Aecae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.296",
+   "text": "Chrysogonus of Albanum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.297",
+   "text": "Laurentius of Bovianum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.298",
+   "text": "Paschasius of Volturnum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.299",
+   "text": "Aprilis of Nuceria."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.300",
+   "text": "Innocentius of Forum Sempronii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.301",
+   "text": "Felix of Nepet,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.302",
+   "text": "Amandus of Potentia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.303",
+   "text": "Colonius of Forum Clodii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.304",
+   "text": "Projectus of Forum Novum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.305",
+   "text": "Bonifacius of Forum Flaminii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.306",
+   "text": "Rusticus of Buxentum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.307",
+   "text": "Victor of Duna,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.308",
+   "text": "Silvianus of Velitrae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.309",
+   "text": "Areston of Ostia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.310",
+   "text": "Felix of Nepet,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.311",
+   "text": "Asterius of Aquinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.312",
+   "text": "Eusebius of Fanum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.313",
+   "text": "Cresconius of Tuder,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.314",
+   "text": "Jocundus of Augusta,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.315",
+   "text": "Vitalis of Fundi,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.316",
+   "text": "Pacatianus of Coanilium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.317",
+   "text": "Martyrius of Tarracina,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.318",
+   "text": "Basilius of Tullentum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.319",
+   "text": "Benignus of Aqua Viva,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.320",
+   "text": "Severinus of Tyndaris,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.321",
+   "text": "Joannes of Spoletium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.322",
+   "text": "Valentinus of Amiternum."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.323",
+   "text": "Probus of Carmeianum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.324",
+   "text": "Candidus of Tibur,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.325",
+   "text": "Proculeianus of Saepinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.326",
+   "text": "Maximianus of Perusia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.327",
+   "text": "Eutychius of Tranum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.328",
+   "text": "Fortunatus of Anagnia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.329",
+   "text": "Marcus of Samnium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.330",
+   "text": "Memor of Canusium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.331",
+   "text": "Florentius of Blestinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.332",
+   "text": "Concordius of Mesena,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.333",
+   "text": "Asellus of Populonia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.334",
+   "text": "Elpidius of Volaterrae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.335",
+   "text": "Veneriosus of Pella,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.336",
+   "text": "Sebastianus of Syra,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.337",
+   "text": "Venantius of Sena Gallica,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.338",
+   "text": "Innocentius of Tifernum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.339",
+   "text": "Justus of Signia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.340",
+   "text": "Augustus of Lipara, for Ursus,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.341",
+   "text": "Propinquus of Trebia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.342",
+   "text": "Romanus of Nomentum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab16",
+   "text": "Roman synod. Year of Christ 501."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.343",
+   "text": "In the consulship of Rufius Magnus Faustus Avienus, man of clarissimus rank, on the tenth day before the Kalends of November. The holy synod, assembled in the city of Rome from various regions by order of the most glorious king Theodoric, said in the name of Christ: When royal authority had ordered the priests to convene from various provinces to the city of Rome, so that the holy council might judge the charges which were said to be brought by his adversaries against the venerable pope Symmachus, prelate of the apostolic see, the bishops of Liguria, Aemilia and Venetia, whom the very route of their journey brought into the presence of the prince, felt the necessity of consulting the king as to what cause had required that they, broken by age and weak in bodily infirmity, be assembled. The aforesaid most pious king replied, with the disposition of good conduct, that many horrible things had been reported to him about the acts of pope Symmachus, and that they ought to be dealt with in a synod, [to see] whether the charge of his enemies was established as true by judgement. The aforementioned bishops, upon whom the occasion of pleading lay, suggested that he himself who was said to be accused ought to have convoked the synod, knowing that first the merit or primacy of the apostle Peter, and then, following the command of the Lord, the authority of the venerable councils, had conferred on his see a singular power in the churches, and that hardly any instance could readily be cited to attest that the prelate of the said see had been subject to the judgement of his inferiors in a similar case. But the most powerful prince indicated that the pope himself also had shown by letters his will for the gathering of the synod. The pages which, it was agreed, had been sent by him were requested of his clemency; he arranged that they be given to the priests without delay, together with whatever had been done in the same matter, [and] by God's guidance [we] arrived at Rome from various parts of lands and regions. And while in the venerable assembly there was discussion of beginning the business, as the cause of the proceedings demanded, the holy pope Symmachus, as was his care, swiftly entered the basilica of Julius, in which the gathering of bishops was, and gave thanks to the most clement king for the summoning of the synod, and testified that the thing had come about as he desired. Thus the cause which, because the council was not yet confirmed, was bringing sadness to the minds of the priests was cut away; he professed, in the presence of all the bishops who had gathered there, that he gave authority to the assembly being convened, as the ecclesiastical statutes required, hoping that the visitor, who had been requested by part of the clergy or by certain laymen against religion, against the statutes of the ancients and against the rules of our forebears, would by order of the bishops withdraw at the very outset, as befitted the holy calling; and that all that he had lost through the suggestions of his enemies would be restored to his power by the honourable council, and that the prelate of so great a place should first be lawfully restored to his former state, and then come to the case, and, if it seemed right, answer the propositions of the accusers. The thing seemed worthy to the greatest number of the priests, and worthy to obtain effect. Yet the synod did not presume to decree anything without the king's knowledge; but the just suggestion, through the negligence of the envoys, did not earn a reply according to our wishes. Pope Symmachus was ordered by the king's commands to contend in debate with his assailants before the recovery of the patrimony or of the churches which he had lost; and he, as to the privileges of his power and what he had submitted (as far as we justly judge) for the amendment of conscience, was unwilling to resume them even on this occasion. But while the synod was gathered in the Jerusalem basilica of the Sessorian palace, it seemed good to some priests that the libellus which the accusers had prepared, who daily made their appeals with seditions, should be received by the synod; and when it was received there were two things in it which were either hostile to the truth or, as is shown, repugnant to those assembled in their ecclesiastical purpose. One, that they said the crimes of the aforesaid pope Symmachus had been established in the king's knowledge; which [the king] declared false, for he would not have committed it to a hearing as a new case if he knew that [Symmachus], convicted of wrongdoing on his conscience, awaited only sentence. The other, that they said they could convict him through slaves concerning the things they alleged, adding that he himself should hand over the slaves, by whom, as they asserted, he could be overcome in judgement. This was hostile to the canons and to the public laws themselves, since the statutes of the fathers had decreed that those whom the laws of the world do not admit to accusation should not be granted licence to speak in a hearing or to accuse anyone. And while what should be done amid these things was being discussed, the aforesaid pope was on his way to plead his case; and as he came he was so handled by the onrushing crowds of his rivals that the attack itself brought about the death of many presbyters who were with him; and the illustrious man count Aligernus and the sublime men Gudila and Vedeulf, majordomos of the royal house, saw the traces of wounds still fresh, and that he betook himself back to the precincts of the blessed apostle Peter, from where he had set out. These things having been done, and affairs disturbed by manifold confusion, we again had recourse to the prince's justice, knowing that the Lord's own divinity governs what it has provided for the governance of Italy, and we laid everything before his clemency in a series of reports, as the matter required. We informed [him] also that the oft-named pope, after the attack which he and his [people] had suffered, had been asked whether he again had the will to go out to judgement, but that he had alleged through bishops sent [by him] that, in his desire to clear himself, his eminence had humbled itself beyond what the canons granted him, [and] by how many dangers they had nearly been overwhelmed; that the lord king had [the power] to do what he wished, [but] that he himself in the meantime, resisting, could not be compelled against justice by the canonical statutes. To this the most serene king, God inspiring him, answered thus: that it lay within the synod's discretion to prescribe what should be followed in so great a matter, and that nothing about ecclesiastical affairs pertained to him beyond reverence; entrusting also to the power of the bishops that, whether they wished to hear the proposed matter or not, they should decide what they thought more useful, provided that by the provision of the venerable council there was peace in the city of Rome for all Christians, [peace] by which, when it is justly offered, the commands of God are fulfilled. Recognising [that God had given] a ruler to his Italy, [and] that no other labour remained for us except to exhort the dissenters to concord with the humility of our calling, since one thing remained in so great a matter by which we might obey God as well as the holy will of the prince, we invite the most ample senate, sending such a delegation as was fitting, admonishing and instructing [them] that the causes of God are to be committed to his own judgement, who is able to kill the body and send the soul into Gehenna (Matt. 10); who says, Vengeance is mine, and I will repay (Ezek. 9); before whom conscience is naked (Rom. 12), from whom hidden things are not concealed; that prudent men ought to consider how much had happened improperly and prejudicially at the beginning of this business, and that by this which they themselves called remission we do not open but close the way to sins, since we reserve what was alleged for a greater judgement; instructing them that, since through us Christ has made himself known to them (John 10), it is the part not of the sheep but of the shepherd to foresee the wolf's ambushes; especially since in the said case error had entangled many, [who] deigned to acknowledge themselves and to make satisfaction to God. And that the members of the Church ought not to be scattered further on this occasion, but rather sustained through gentleness, as Paul, the master of good work, had instructed us (2 Tim. 4), saying that very many are to be healed by patience and teaching. And whoever are thought guilty and entangled in grave sins (though there is no one who is without fault, as the apostle John testifies (1 John 1): If I say that I have no sin, I am a liar), these are rather sustained by the pressures of men, and the divine judgements are suspended [so that they may be] terrified by these sufferings; especially since the things which we set out above, among others, concerning the authority of the see stood in the way, because what its possessor of old, the blessed Peter, merited passed into the nobility of the possession, and gives you ancient renown, [and] grants it by Christ's endowment to [its] rulers; crying out that it is written through the prophet in the person of God (Isa. 50): Is my hand not able to consume those who have erred? Admonishing [them] of these same things very often, as was fitting, that they should depart, holding [to this] intention, and should not dispute our deed, which God had inspired, in accordance with the prince's mandate, but follow it, as befitted sons of the Church, and not contend under this pretext, so that the harms to the Church should grow. This matter required to be relieved with haste, and the necessity of this speed lay upon us, and that of obedience upon them; especially as we see almost all the people inseparably adhering to his communion, for whom no small care spurred us, lest they fall into any error. These things having been set forth, with solemn invocation of our God we decree, constrained by consideration of these necessities and of religion, and all things in the case having been weighed by heavenly inspiration, that pope Symmachus, prelate of the apostolic see, assailed by propositions of this kind, as far as regards men (since it is agreed that the whole has been left to the divine decision because of the obstacles to the case designated above), be immune and free, and let him deliver the divine mysteries to the Christian people without any objection regarding the charges, in all his churches pertaining to the right of his see, because we have recognised that he could not be bound by the assault of his assailants, for the reasons designated above. Therefore, according to the prince's commands, which grant this to our power, we restore to him whatever is of ecclesiastical right within the holy city of Rome or outside it, reserving the whole case to the judgement of God; we exhort all to receive holy communion from him, as the matter requires, and to be mindful of God and of their own souls, because he is both a lover of peace and is himself peace, who warns, My peace I give you, my peace I leave you (John 14; Matt. 10). And affirming that peace is to be confirmed in every city, he says that the peacemakers are blessed (ibid. 5). Whoever either does not admit these things from our instruction (which we do not expect) or believes that they can be revoked, let him see that in the divine judgement he will render account for his contempt, as we trust in God. Concerning the clerics of the said pope who some time ago departed from their bishop against the rules and made a schism, we have decreed that this be done: that mercy follow them when they make satisfaction to their bishop, and that they may rejoice to be restored to ecclesiastical offices, because our Lord and Redeemer rejoices when lost sheep are found from their wandering, and the heavenly healer extends a father's generosity over the runaway son (Luke 15). But any cleric who, after this form approved by us, presumes to celebrate masses in any place consecrated to God in the Roman Church without the knowledge of pope Symmachus, while he lives, let him be struck down as a schismatic by the canonical statutes. Let it suffice to have declared these things sincerely, with God's knowledge. And they subscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.344",
+   "text": "I, Laurentius, bishop of the Church of Milan, have subscribed to this our statute, in which we have committed the whole case to the judgement of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.345",
+   "text": "I, Petrus, bishop of the Church of Ravenna, have subscribed to this our statute, in which we have committed the whole case to the judgement of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.346",
+   "text": "Felix of Interamna,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.347",
+   "text": "Maximus of Blera,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.348",
+   "text": "Maximus of Ticinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.349",
+   "text": "Gerontius of Fundi,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.350",
+   "text": "Laurentius of Bova,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.351",
+   "text": "Mercurius of Sutrium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.352",
+   "text": "Hilarus of Tempsa,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.353",
+   "text": "Innocentius of Ferentinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.354",
+   "text": "Vitalis of Fundi,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.355",
+   "text": "Aristus of Ostia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.356",
+   "text": "Victor of Luna,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.357",
+   "text": "Chrysogonus of Albano,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.358",
+   "text": "Romanus of Nomentum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.359",
+   "text": "Cresconius of Tuder,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.360",
+   "text": "Joannes of Spoleto,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.361",
+   "text": "Laurentius of Bergamo,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.362",
+   "text": "Rufentius of Anagnia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.363",
+   "text": "Martianus of Acerenza,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.364",
+   "text": "Fortunatus of *Agninus*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.365",
+   "text": "Innocentius of Forum Sempronii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.366",
+   "text": "Hilarus of *Tempranensis*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.367",
+   "text": "Severinus of Tyndaris,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.368",
+   "text": "Sebastianus of Sora,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.369",
+   "text": "Felix of Atella,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.370",
+   "text": "Propinquus of Trebula,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.371",
+   "text": "Bonifacius of Camerinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.372",
+   "text": "Vindemius of Antium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.373",
+   "text": "Valentinus of Amiternum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.374",
+   "text": "Bonifacius of Aquaviva,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.375",
+   "text": "Aemilianus of Sora,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.376",
+   "text": "Cassianus of Mutina,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.377",
+   "text": "Stephanus of Venusia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.378",
+   "text": "Fortunatus of Fulginium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.379",
+   "text": "Stephanus of Naples,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.380",
+   "text": "Maximianus of Perusia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.381",
+   "text": "Concordius of Messana,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.382",
+   "text": "Castus of *Pratensis*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.383",
+   "text": "Martyrius of Tarracina,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.384",
+   "text": "Asterius of Aquinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.385",
+   "text": "Amantius of Potentia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.386",
+   "text": "Ursus of Reate,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.387",
+   "text": "Innocentius of Mevania,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.388",
+   "text": "Eustasius of Cremona,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.389",
+   "text": "Eucarpus of Messapia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.390",
+   "text": "Serenus of Nola,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.391",
+   "text": "Eutychius of Trani,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.392",
+   "text": "Paschasius of Volturnum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.393",
+   "text": "Felix of Nepet,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.394",
+   "text": "Innocentius of the *Direntium Tiberinorum*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.395",
+   "text": "Silvanus of Velitrae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.396",
+   "text": "Mercurius of Gabii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.397",
+   "text": "Rusticus of Buxentum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.398",
+   "text": "Adeodatus of Formiae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.399",
+   "text": "Justus of Signia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.400",
+   "text": "Augustus of Lipara,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.401",
+   "text": "Fortunatus of Suessa,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.402",
+   "text": "Jocundus of *Augustanus*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.403",
+   "text": "Viticanus of Celeia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.404",
+   "text": "Proculeianus of Saepinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.405",
+   "text": "Aprilis of *Lateranensis*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.406",
+   "text": "Memor of Canusium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.407",
+   "text": "Elpidius of Volaterrae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.408",
+   "text": "Adeodatus of Silva Candida,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.409",
+   "text": "Rogatus of Tauromenium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.410",
+   "text": "Probus of *Carmeianensis*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.411",
+   "text": "Tigridius of *Tauriganus*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.412",
+   "text": "Joannes of Ariminum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.413",
+   "text": "Candidus of Tibur,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.414",
+   "text": "Asellus of Populonia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.415",
+   "text": "Collonicus of Forum Clodii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.416",
+   "text": "Joannes of Turris,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.417",
+   "text": "Venerius of *Pallensis*,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.418",
+   "text": "Servus Dei of Ferentum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.419",
+   "text": "Dulcitius of Sant'Antimo."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab17",
+   "text": "DECREES OF POPE HORMISDAS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.420",
+   "text": "Justin Augustus to Pope Hormisdas."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.421",
+   "text": "With what zeal we have always been, and are, for reconciling the views of those who cultivate the catholic faith, so that all may venerate with the same mind the indivisible light of the Trinity, we are known to have made plain: now by sending to your beatitude of our own accord, for this very purpose, an envoy, Gratus, a man of spectabilis rank, master of the bureau, so that a remedy might at last be found for the discords of those contending in various ways; now by receiving with ready and willing affection the most religious men whom your apostolic see believed should be sent as mediators of unity. For indeed we looked upon them with joyful eyes as if they were peace itself, and judged that they should be embraced with outstretched hands. Moreover we shall arrange with every effort that the venerable Church of Constantinople, and many others too, accept your wishes, not only in other matters but also in removing from the sacred diptychs the names which you have most especially demanded be removed. But there have been some cities and Churches, both of Pontus and of Asia, and especially of the East, whose clergy or people, though tried with every threat and persuasion, have nevertheless in no way been bent to take away and reject the names of bishops whose reputation flourished among them; rather they reckon life harsher than death if they should condemn the dead in whose life, while they were still living, they gloried. What then are we to do with obstinacy of this kind, which neither obeys what it is told and so far despises torments that it judges it a fine and festive thing for itself to depart from the body before departing from its religious resolve? To us indeed it seems necessary to act more gently and more mercifully; and if these [qualities] are not now to be found in your holiness, they cannot be found in any other either. For we did not take up the libellus desiring blood and punishments (which is grievous even to say), nor so that the desires for concord should remain unfulfilled over a small difference, but in order to extend, by whatever course we can, the joining of the members of the Church. Which then will be better: for the sake of lesser things to have such great multitudes wholly opposed to us, or, by granting and remitting small things, to have the greater things, which are to be sought by every means, set right, so that what could not be achieved in everything may at least be secured in the necessary parts? We therefore ask pardon for the names, not of Acacius, not of either Peter, not of Dioscorus or Timothy, whose names the letters of your holiness delivered to us contained, but of those whom episcopal reverence has honoured in other cities; and this excepting the cities where your beatitude's libellus has already been fully admitted, unless your benevolence decides that this part too is to be corrected more gently. Nor indeed does the matter lack a judgement of the apostolic see, so that it should be called not so much a pardon as a definition already deliberated and examined. For Anastasius of most religious memory, the summit of your Church, had openly and plainly laid down, when he wrote about this same business to our predecessor, that it was enough for those seeking peace if only the name of Acacius were passed over in silence. Therefore he follows the earlier decisions of your see who judges that not all memorials of the dead are to be scorned; so that it would be held unworthy and unfitting if your mildness, gentler towards all, not only the dead but also the living, were not published to every end of the earth. And indeed we would not doubt that it will be so pleasing to you that the world will at once be made happier by a peaceful reply. Let your holiness also remember what we wrote some time ago, that petitions had been sent to us from the East containing their will and decision, in which they show that they will firmly persist, and from which they think they must on no account desist. This document, then, in accordance with our promises, we have now rightly judged should be sent to you through John, a most reverend man, a bishop; so that its tenor, once admitted also by your see, may serve to gather and unite the venerable Churches everywhere, and especially that of Jerusalem, to which all pay such favour, as to the mother of the Christian name, that no one dares to separate himself from her. It is fitting, therefore, that your holiness declare your own consent also in a letter, so that, when it is known to all and made plain that the tenor of this same document is also approved by you and firmly kept, the world may be happier. Given on the fifth day before the Ides of September at Chalcedon, in the consulship of Rusticius; received on the day before the Kalends of December, in the consulship written above. (Year of Christ 520.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab18",
+   "text": "Copy of the petition."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.422",
+   "text": "II. To the God-beloved and most pious emperor, Augustus from God, and most Christian prince Justin: a petition and supplication from the clergy of Jerusalem, of Antioch and of Syria Secunda, and from the abbots and landowners of the province of Syria."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.423",
+   "text": "'Draw water with joy from the springs of salvation,' cries out the prophet Isaiah and proclaims (Isa. 12), clearly showing the evangelical truths and preachings to be the springs of salvation, from which the blessed apostles, and those who were their disciples in succession, and the wise teachers of the Church, drawing the saving water of faith, have watered the whole holy Church of God, which, supported on the rock of the chief of the apostles and keeping the right and unbending confession, confidently cries out with him at all times to the only-begotten Son of God, saying: 'You are the Christ, the Son of the living God' (Matt. 16). Having received this saving confession from the four holy synods, which are honoured by the evangelical precepts, we have never, by the grace of Christ, strayed from the right doctrines handed down to us, as the proof of events testifies and as our constancy in the faith in time of necessity demonstrates. If therefore, as Christians, we are partakers in the account of the faith, we hasten most piously both to the common peace and to unity, and we make our faith, which we received from the beginning, manifest to your piety through this our declaration, so that it may be known that we both concur in peace and, with God's help, do not turn aside from the right faith, but execrate every heresy alike: not only the Eutychianists and the Acephali, but also the Nestorians and those who worship a man we hate with all our soul and anathematize. We, lord most Christian emperor, as was said above, having also been baptized from the beginning into the Father and the Son and the Holy Spirit, and believing, adore one essence of God in three subsistences, according to the teaching and creed of the holy Fathers, believing in one God the Father almighty, and in one our Lord Jesus Christ, the only-begotten, God the Word, and likewise in one Holy Spirit. And in accordance with this divine teaching we also understand and receive the definition promulgated by the holy synod of Chalcedon, confessing and believing that one subsistence or person, which the holy synod itself proclaimed in two natures, that is, in divinity and humanity, undivided and unconfused, God the Word and our Lord Jesus Christ, is one of the holy and consubstantial Trinity. For if, as has been said, we accept one God in three subsistences, and the Father was not incarnate, nor the Holy Spirit, but God the Word was incarnate and became man, he is one of the holy and consubstantial Trinity according to the property of sonship. So then, believing according to the aforesaid four holy synods, we do not refuse to confess also, according to God the Word, the birth according to the flesh. Hence the holy Virgin is believed to be properly the Mother of God, since she brought forth the Son who is by nature and in truth of one essence with the Father, God the Word, become man from her through an unchangeable nature; and confessing two natures in Christ united by essence or subsistence, as in the person or subsistence of one, we neither take away their difference or property after the union, nor have we been taught to divide them into two persons and subsistences through the union. And we know the same only-begotten Son of God, both before his incarnation and after, to be the same God and at once man, passible in the flesh, impassible in the godhead, circumscribed in body, uncircumscribed in spirit, the same earthly and heavenly, whom the world received as man and could not contain as God, mortal and immortal, the difference of the natures nowhere being taken away, nor dividing the union by essence. For this is truly the great mystery of piety: that God the Word, one of the holy and consubstantial Trinity, incarnate and become man, is known and adored in both natures, of divinity and humanity, undivided and unconfused, undergoing no conversion or change, but preserving in himself the property of each nature in one person. For the sake of this faith, therefore, receiving and keeping the aforesaid holy synods, we anathematize all who at any time or in any way have written anything against them, especially John Aegeates, who as a Nestorian spewed out many blasphemies against the said holy synod of Chalcedon, likewise condemning also Timothy surnamed Aelurus, as a Eutychianist barking against it with his followers. Thus, then, with God's help we have always believed and still believe; and for this reason we have offered this declaration to your piety. For it has deigned to order us to set out our own understanding and how we think concerning the sound faith, because certain heretics, while they hasten to conceal their own evil faith, try to disparage our freedom in Christ and our right faith. We therefore beseech your clemency that it should take care for the perfect union of the holy Churches, so that the unity which has been made with God's help, and the peace, may not henceforth be disturbed by any kindling of occasion, reasonable or unreasonable. May the God of all fulfil your pious desire, to his glory and the good order of the commonwealth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab19",
+   "text": "Hormisdas to Justin Augustus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.424",
+   "text": "III. Among the matters concerning the unity of the Church, for whose sake God chose your clemency's rule, which you set down in your letter, the venerable emperor's care for the faith, to which you declare yourselves devoted in many ways, added this as well: that the petitions of certain persons, to be brought to the notice of my humility, should be attached. From these I might learn what question had arisen, or, to remove the doubt in the consultation put forward, a reply suited to religious knowledge might be returned by me. I read everything with fitting care. Although it could have been enough for a full reply if I wrote back only what was defined by the ancients, yet, to repay the devotion of your religious purpose, I believed I should not withhold the service of my own words as well, although concerning the poisons of Nestorius and Eutyches as they emerged the fathers' instruction omitted [nothing]: the synodal decrees, agreeing as one, forestalled almost all the impieties together with the inventors of such abominable dogmas. Nor, once such dreadful seeds of faithlessness had been cut off, is there any further room either to believe that Christ our Lord was without the reality of flesh, or [to deny] that he came forth as God and man from the undefiled fruitfulness of his mother's womb. For the one, by denying the dispensation by which we have been saved, would make it void as far as lay in him; the other, with a contrary opinion but a like impiety, would cut off the divine power in the same Lord Jesus Christ from true lowliness. The one did not remember that Christ showed his flesh to be touched (Luke 24); the other did not remember the Gospel, which says that the Word was made flesh (John 1). In his ears the Lord's voice should have sounded unceasingly, by which he said and taught (John 3): No one ascends into heaven except he who descended from heaven, the Son of man, who is in heaven. These things have often been set out in many judgements of our predecessors; but your clemency will not be able to receive them with distaste when repeated, though they have been said before, nor are we ashamed to go back over what was preached by our predecessors. For it is not possible for there to be diversity of preaching where there is one form of truth; nor will it be judged out of place if, with those with whom we agree in faith, we also concur in doctrine. Let the synodal decrees, and the ordinances of blessed Pope Leo which agree with the sacred faith, be read again to the pious ears of your gentleness: you will find in them the same things that you review in ours. What then is there, after that fountain of faithful statutes, that any inquirer, however curious, might seek further, provided he keeps within the bounds of the faith? There is no need either of addition to what is full or of instruction for what is perfect, unless perhaps someone wishes to doubt rather than believe, to contend rather than know, to follow doubtful things rather than keep the decrees. For if God is Trinity, that is, Father, Son and Holy Spirit, yet God is one, as the lawgiver expressly says (Deut. 6): Hear, Israel, the Lord your God is one, whoever holds otherwise must either divide the godhead into many, or ascribe the passion specifically to the very essence of the Trinity. And this (far be it from the minds of the faithful) is either to bring in many gods after the manner of profane paganism, or to transfer perceptible suffering to that nature which is foreign to all suffering. The holy Trinity is one thing: it is not multiplied in number, it does not grow by increase, and it cannot either be grasped by understanding or, in that it is God, be separated by division. Who then would try to thrust a profane division upon that secret of the eternal and impenetrable substance, which no nature even of invisible creatures has been able to search out, and to bring divine and hidden mysteries back to the reckoning of human custom? Let us adore the Father, and the Son, and the Holy Spirit, the undivided substance of the Trinity, distinctly, incomprehensible and inexpressible; where, if the account of the persons admits number, yet the unity does not lose the singularity of the essence; yet in such a way that we keep what is proper to the divine nature and keep what is proper to each person, so that neither is the singularity of the godhead engendered by the persons, nor is what is proper to the names transferred to the essence. Great and incomprehensible is the mystery of the holy Trinity. God the Father, God the Son, God the Holy Spirit, an undivided Trinity; and yet it is known that it is proper to the Father to beget the Son; proper to the Son of God to be born of the Father, equal to the Father; it is known also what is proper to the Holy Spirit, namely to proceed from the Father and the Son under one substance of godhead. And it is proper to the Son of God that, according to what is written, in the last times the Word should become flesh and dwell among us (1 Pet. 1; John 1), both natures being so united within the womb of the holy Virgin Mary, Mother of God, without any confusion, that he who was Son of God before all ages became son of man, and was born in time after the manner of man, opening his mother's womb at birth and, by the power of his godhead, not undoing his mother's virginity. A mystery plainly worthy of God being born: that he kept the birth free of corruption who made the conception to be without seed, keeping what was from the Father and showing forth what he took from his mother. For how else was he, lying in a manger, seen in heaven; wrapped in swaddling cloths, adored by the magi; brought forth among animals, announced by angels; scarcely out of infancy, proclaiming mystical teachings with no one to instruct him; amid the first beginnings of his boyhood years, producing signs of heavenly powers? For the same is God and man, not, as the unbelievers say, by introducing a fourth person, but the Son of God himself is God and man, the same is power and weakness, lowliness and majesty, redeeming and sold, set on the cross and bestowing the kingdom of heaven. He was so far of our weakness that he could be killed, so far of innate power that he could not be consumed by death. He was buried according as he willed as man to be born, and according as he was like the Father he rose again; suffering wounds and saviour of the sick, one of the dead and giver of life to the dying, descending to the underworld and not departing from the Father's bosom. Hence also the soul which he laid down by the common condition, he soon took up again by his singular might and wonderful power. That these things are so and ought to admit no doubt, that is, that our Lord Jesus Christ should not be believed either not to be God amid the sufferings of his body, or to be God only, and not also man, amid the astounding works of his wonderful powers, he has taught us by setting before us the example of two apostles, declaring Christ our Lord to be God by the faith of Peter, and man by the doubt of Thomas. For what purpose was there in his wishing to ask his disciples whom men said he was, except that, when Peter answered: You are the Christ, the Son of the living God, he might make known that this was not disclosed by flesh and blood but revealed by the inspiration of God the Father, and that through the testimony of the praised answer the faith of the truth might be laid open? What purpose was there that, when the Lord appeared after the resurrection, Thomas alone either was absent from the others or alone doubted, except that the world might believe what the doubting disciple had examined, so that, while he allowed himself to be touched by the hands of one, what he was might be recognised by the whole body of the faithful? The doubt, then, was not introduced to reprove the disciple, but the instruction of posterity was sought. Or does it aim at anything else, that the same Lord (Luke 24) joined Cleopas and another disciple when, on their way to Emmaus, they were talking about him? And although they had learned of the Lord's resurrection through the women who had first come to the tomb, yet, that through their doubt he might give firmness to believers in ages to come, beginning from Moses and all the prophets he explained and showed that it had been necessary for Christ to suffer and so to enter into his glory, and that in him there was both the human nature, through the passion, and the divine, through the glory. These things are conveyed by many examples of the holy Scriptures, and they are not told to your religious conscience, venerable emperor, as though unknown; for the faith itself, which you constantly affirm, renders you this gift: it plants in your senses both love for itself and pours in the knowledge by which it may be affirmed the more diligently. And yet it concerns the stewardship entrusted to me that I too should not keep silent about things known even among those who know them, so that, as the preaching of catholics follows on in turn through the changes of time, what is unceasingly affirmed may gradually be believed without end. I could have discussed more broadly, according to the definitions of the ancients, these matters that concern the godhead and manhood of our Lord Jesus Christ, and the two natures united in him without confusion, if there had to be a dispute against those who dissent from them; but since both the synodal ordinances and the doctrines of blessed Pope Leo are in everyone's hands, I believed it more fitting to touch briefly on a few things than to unfold everything. Now, indeed, it is enough to recognise and to beware, so considering property and essence that it is known what we must attribute to the person and what to the substance. Those who shamefully do not know these things, or conceal them with crafty impiety, while they leave out what is proper to the Son in the Trinity, lay snares for the unity. But if what has been said above is held fixed with strong roots, there is no departing from the fathers' tradition, and questions are steadfastly met. Given on the eighth day before the Kalends of April, in the consulship of Valerius [and] Victorius (A.D. 521)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab20",
+   "text": "Hormisdas to the presbyters, deacons and archimandrites of Syria Secunda."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.425",
+   "text": "IV. Having read your charity's letter, in which the madness of God's enemies is laid bare, and the obstinate fury of the unbelievers is sorrowfully set out, who, while they hate God with a revived spirit, impiously persecute his members: as far as the recognition of your steadfastness goes, I blessed God, who keeps the faith of his soldiers amid adversities; but again, considering the shaking of the Churches and the troubles and toils of the servants of God, [with] the prophet"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab21",
+   "text": "DECREES OF POPE GREGORY THE YOUNGER."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.426",
+   "text": "In the name of the Lord God and our Saviour Jesus Christ, in the reign of our lord, the most pious Augustus Leo, crowned by God, great emperor, in the sixth year, the sixth year after his consulship, and also of Constantine his son, the new emperor, in the second year, in the month of April, in the fourth indiction."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.427",
+   "text": "The most holy and thrice most blessed Gregory, apostolic pope, presiding in the basilica of blessed Peter, prince of the apostles, before the confession, with the most holy bishops also seated together:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.428",
+   "text": "Agnellus of Ferentinum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.429",
+   "text": "Vitalis of Alatri,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.430",
+   "text": "Martianus of Gabii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.431",
+   "text": "Tiberius of Silva Candida,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.432",
+   "text": "Georgius of Nepi,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.433",
+   "text": "Andreas of Albano,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.434",
+   "text": "Tribunatius of Falerii,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.435",
+   "text": "John of Blera,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.436",
+   "text": "Sergius of Praeneste,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.437",
+   "text": "Synderedus, archbishop of Spain,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.438",
+   "text": "Sedulius, bishop of Britain,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.439",
+   "text": "Fergustus, bishop of Scotia,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.440",
+   "text": "Majorinus of Polimartium,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.441",
+   "text": "John of Velitrae,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.442",
+   "text": "Opportunus of Manturanum,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.443",
+   "text": "Georgius of Porto,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.444",
+   "text": "Gregory of Anagni,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.445",
+   "text": "John of Segni,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.446",
+   "text": "Agnellus of Sutri,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.447",
+   "text": "Anastasius of Tibur,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.448",
+   "text": "Wilihari of Narni,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.449",
+   "text": "Petrus of Ameria,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.450",
+   "text": "and the venerable presbyters,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.452",
+   "text": "the deacons also standing,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.453",
+   "text": "Petrus the archdeacon,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.454",
+   "text": "Gregory Macoseu,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.455",
+   "text": "Benedict, deacons, and all the clergy,"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.456",
+   "text": "Gregory, the most holy and most blessed pope, said: Since by heavenly mercy we are rulers of the Lord's people, it befits us, with God's protection, to think the more zealously and often about their salvation, lest, if the souls entrusted to us are thwarted (God forbid) by the snares of the ancient enemy, we be compelled to render a strict account before the shepherd of all, unless correction of offences comes first by forestalling them. And while I weigh and call to mind with how much circumspection we ought, in keeping watch, to oppose the wickedness of each man's crime, and, if ever [the enemy] leaps in to disturb the minds of the faithful, to resist his blow with heavenly help, I am greatly shaken and waste away exceedingly, lest with serpentine cunning (God forbid) he deceive the more frivolous too. With God truly favouring [us], with great care of soul and a more even mind, relying on divine aid, we must strive for the salvation of all, so that with unabashed face, not struck down by anyone's fraud, we may be found worthy to stand before the eternal Judge and to hear the voice saying: Well done, good and faithful servant; because you have been faithful over a few things, I will set you over many; enter into the joy of your Lord (Matt. 25; Luke 19). For hence it is that I say with groaning that I hear some of the Christian people dwelling throughout this province of Italy hold [practices] against the catholic faith and the statutes of the Fathers, so that they presume to take as wives women consecrated to God, and join their kinswomen to themselves in marriage; which ought to be cut off with the spiritual sword and, if it pleases your holiness, torn out by the roots, lest the crop of the good farmer, mixed with the bristling fruits of tares, be fouled (Matt. 13)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.457",
+   "text": "The most holy bishops and the venerable presbyters answered:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.458",
+   "text": "We truly recognise that the heart of your apostolate has been kindled by the grace of the Holy Spirit, so that the filth of such great wretchedness may be wiped from the minds of the faithful, and, as it were a wound fixed in the body, may be cured with a saving antidote once the entry of such wretchedness is barred; as has been well provided by the prohibition of anathema, so that no one again, whether Roman, Lombard, or of whatever nation, and washed in the water of holy baptism, may attempt this, lest, weighed down by the mass of so great a sin, he fall headlong or be plunged in the abyss of iniquity: it ought to be shunned and torn out by the roots."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.459",
+   "text": "After this unanimous response of all, Gregory the apostolic pope, before the body of the aforesaid venerable prince of the apostles of Christ, delivering sentence, said:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.460",
+   "text": "I. If anyone takes a presbytera in marriage, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.461",
+   "text": "II. If anyone takes a deaconess in marriage, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.462",
+   "text": "III. If anyone takes in marriage a nun, whom they call a handmaid of God, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.463",
+   "text": "IV. If anyone takes his spiritual co-mother in marriage, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.464",
+   "text": "V. If anyone takes his brother's wife in marriage, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.465",
+   "text": "VI. If anyone takes his niece in marriage, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.466",
+   "text": "VII. If anyone takes his stepmother or his daughter-in-law in marriage, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.467",
+   "text": "VIII. If anyone takes his cousin in marriage, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.468",
+   "text": "IX. If anyone takes as wife [a woman] of his own kindred, or one whom a kinsman had, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.469",
+   "text": "X. If anyone steals a widow for a wife, or [anyone] consenting with him, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.470",
+   "text": "XI. If anyone steals a virgin for a wife, unless he has betrothed her, or [anyone] consenting with him, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.471",
+   "text": "XII. If anyone heeds soothsayers, haruspices or enchanters, or uses an amulet, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.472",
+   "text": "XIII. If anyone in any part violates the precepts previously issued by the apostolic Church concerning olive groves and various places, and does not observe them in all things, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.473",
+   "text": "XIV. To Hadrian son of Exhilaratus, who, after an oath sworn at the apostolic confession, with unlawful daring holds the deaconess Epiphania as wife: let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.474",
+   "text": "XV. The deaconess Epiphania, who after an oath sworn slipped away in flight with Hadrian son of Exhilaratus to be his wife: let her be anathema; and all answered three times, Let her be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.475",
+   "text": "XVI. If anyone gives them assent in so cruel [a deed], let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.476",
+   "text": "XVII. If anyone of the clergy lets his hair grow long, let him be anathema; and all answered three times, Let him be anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.477",
+   "text": "I, Gregory, bishop of the holy catholic and apostolic Roman Church, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.478",
+   "text": "I, Agnellus, bishop of the holy Church of Ferentinum, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.479",
+   "text": "I, John, humble bishop of the holy Church of Velitrae, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.480",
+   "text": "I, Vitalis, bishop of the holy Church of Alatri, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.481",
+   "text": "I, Opportunus, by the grace of God bishop of the holy Church of Manturanum, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.482",
+   "text": "I, Martinianus, bishop of the holy Church of Gabii, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.483",
+   "text": "I, Georgius, bishop of the holy Church of Porto, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.484",
+   "text": "I, Tiberius, bishop of the holy Church of Silva Candida, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.485",
+   "text": "I, Gregory, bishop of the holy Church of Anagni, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.486",
+   "text": "I, Georgius, bishop of the holy Church of Nepi, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.487",
+   "text": "I, John, unworthy bishop of the holy Church of Segni, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.488",
+   "text": "I, Andreas, bishop of the holy Church of Albano, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.489",
+   "text": "I, Agnellus, sinner, bishop of the holy Church of Sutri, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.490",
+   "text": "I, Tribunatius, unworthy bishop of the holy Church of Falerii, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.491",
+   "text": "I, Anastasius, bishop of the holy Church of Tibur, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.492",
+   "text": "I, John, bishop of the holy Church of Blera, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.493",
+   "text": "I, Wilihari, bishop of the holy Church of Narni, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.494",
+   "text": "I, Sergius, by the grace of God bishop of the holy Church of Praeneste, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.495",
+   "text": "I, Petrus, humble bishop of the holy Church of Ameria, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.496",
+   "text": "I, Majorinus, bishop of the holy Church of Polimartium, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.497",
+   "text": "I, Synderedus, bishop from Spain, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.498",
+   "text": "I, Sedulius, bishop of the race of the Scots, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.499",
+   "text": "I, Fergustus, a Pictish bishop, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.ab22",
+   "text": "Likewise the subscription of the presbyters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.500",
+   "text": "I, Sisinnius, humble presbyter of the holy Roman Church, of the title of Saint Lawrence which is called of Lucina, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.501",
+   "text": "I, John, presbyter of the holy Roman Church, of the title of Saint Cecilia, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.502",
+   "text": "I, Sisinnius, presbyter of the holy Roman Church, of the title of Saint Sixtus, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.503",
+   "text": "I, John, presbyter, of the title of Saint Marcellus, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.504",
+   "text": "I, John, humble presbyter of the holy Roman Church, of the title of Saint Susanna, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.505",
+   "text": "I, Eustratius, humble presbyter of the holy Roman Church, of the title of Saint Anastasia, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.506",
+   "text": "I, Georgius, undeserving presbyter of the holy Roman Church, of the title of Saints John and Paul, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.507",
+   "text": "I, Thalassius, humble presbyter of the holy Roman Church, of the title of the holy Mother of God which is called of Callistus across the Tiber, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.508",
+   "text": "I, Marinus, humble presbyter of the holy Roman Church, of the title of Saint Sabina, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.509",
+   "text": "I, Constantinus, presbyter of the holy Roman Church, of the title of Saint Cyriacus, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.510",
+   "text": "I, Gregorius, humble presbyter of the holy Roman Church, of the title of Saint Clement, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.511",
+   "text": "I, Epiphanius, humble presbyter of the holy Roman Church, of the title of Saint Lawrence, [the one] of Damasus, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.512",
+   "text": "I, Marinus, unworthy presbyter of the holy Roman Church, of the title of the Apostles, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.513",
+   "text": "I, Joannes, humble presbyter of the holy Roman Church, of the title of Saint Prisca, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.514",
+   "text": "I, Petrus, unworthy archdeacon of the holy apostolic see, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.515",
+   "text": "I, Gregorius, unworthy and humble deacon of the holy apostolic see, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.516",
+   "text": "I, Muschus, humble deacon of the holy apostolic see, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.517",
+   "text": "I, Benedictus, unworthy deacon of the holy apostolic see, have subscribed to this constitution promulgated by us."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0108f.stoa004.opp-lat1.518",
+   "text": "On the day of the nones of April, in the reign of our most pious lord Leo Augustus, great emperor crowned by God, in the sixth year, the sixth year after his consulship; and also of Constantine the new emperor, his son, in the second year, in the fourth indiction (A.D. 721)."
+  }
+ ]
+}
