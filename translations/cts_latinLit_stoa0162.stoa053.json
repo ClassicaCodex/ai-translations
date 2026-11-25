@@ -1,0 +1,1874 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0162.stoa053",
+ "edition_urn": "urn:cts:latinLit:stoa0162.stoa053.ai-claude",
+ "source_edition": "stoa0162.stoa053.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-20",
+ "updated": "2026-11-25",
+ "whole_work": true,
+ "header": {
+  "title": "Liber Comitis [Incertus]: AI translation (Claude)",
+  "author": "Jerome, Saint",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0162.stoa053.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.head": "The text is heavily damaged by scanning; evident readings are translated (e.g. 'Id.' in 17 = Item; 'vu ide' = VII idus; 'VI W.' = VI idus; 'Belleacus' = Bellovacus, Beauvais; 'adjecit' read as 'abjecit', rejected). Line 1: the vigil of Christmas is dated 'VIII kal.' (normally 25 December; the vigil would be IX kal.); 'aut sibi nihil desit' taken as 'ut', and 'fuit' in the parenthesis seems to lack a word such as 'visum'. Line 17: the date 'III kal. Jan.' sits oddly after the Kalends entry; the order follows the edition. Line 29: the day number is missing; by sequence it is the fourth day before the Ides. Line 30: 'ari idus' read as III idus by sequence. The incipits and explicits ('as far as') are rendered as given in the Latin, not from an English Bible.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.33": "Line 36: 'Marre!!!' is garbled; read as Marcellus (16 January). Line 39: 'Mariæ et Marthæ' probably for Marius and Martha (19 January). Line 44: 'Macharii. Emerentiani' taken as Macarius and Emerentiana. Line 49: Wisdom ending 'calore illius aggravata' is Wisdom 2:4. Line 59: 'Sed resisti' read as 'sed risisti' (Gen 18:15). Line 56: 'intendens' presumably 'observing [how they chose the first places]' (Luke 14:7). Line 54 holds two days' entries, kept together as in the edition. Gospel chapter numbers follow the Ammonian sections and are kept as printed.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.63": "Line 63: the saints' names are badly scanned (Zoilci, Erenei, Jacmcti, Amanzi); read as Zoilus, Irenaeus, Hyacinth, Amantius, Soter, which is uncertain. Line 70: chapter number 'LXIXIII' is garbled; rendered LXXXIII as a guess. Line 72: 'Policionus' is unidentified. Line 77: 'CLIS' read as CLI. Line 79: 'CLIXII' read as CLXII. Line 83: the date is displaced in the scan ('Martii ... III kaL'); read as the third day before the Kalends of March. Line 91: the date sign '»' presumably stands for 'Pridie' (the day before the Nones), which fits the sequence. Line 93: 'discipulas' read as 'discipulos'. The day numbering of these February dates follows the edition, even though February has no fifteenth or sixteenth day before the Kalends of March in the ordinary reckoning; the numbering is reproduced as given.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.94": "Line 104 ends with misplaced words ('prophetae. In diebus illis') that belong to the Ezekiel reading in line 105; they are translated there in brackets. Line 107: 'Deulerouornii' read as Deuteronomii. Line 113: 'a ulortuis' read as a mortuis. Line 116: 'ad barbas' read as ad turbas ('to the crowds'). Line 117: 'hora canentium' read as ora canentium ('mouths of those who sing'). Line 121: 'xxxa.' taken as an abbreviation for Quadragesimae. Line 128: 'Dominica XX' is as printed; the readings (Galatians 4, John 6) belong to the fourth Sunday of Lent, so the numeral is probably corrupt. Chapter numbers are the lectionary's own section numbers, not modern chapters.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.129": "129: 'Feria D.' read as 'Feria II.' 135: 'Alio' read as 'Alia' (another reading). 140: the incipit/explicit of the Daniel reading is garbled ('super prunen) terram'), with two 'usque' clauses; the text appears corrupt, and the subject of 'rogabat' in the Luke incipit is not given (supplied from the gospel context). 148: 'Ad Hierusalem' presumably the Roman station at Santa Croce in Gerusalemme; 'phase' kept as the Latin form of Pasch. 150-161: scanned numerals 'Ut' and 'i.' read as III and X. 154: 'Haec est servorum Domini' apparently lacks a word (Isaiah 54:17 'hereditas'), supplied in brackets. 163: 'Ad sanctam Mariam' is the station (Santa Maria Maggiore).",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.165": "Line 170: the Conception of Mary on 25 March is evidently the Annunciation (conception of Christ). Line 174: 'CLUJ' is a garbled chapter number; Line 194 'CILVIII' likewise uncertain. Line 177: the Gospel incipit is missing. Line 186: 'he' is Moses in the original passage. Line 188: no readings follow the heading, and reference 189 is absent. Line 192: 'III' is unexplained, and 'Domine' is evidently a misreading of 'nomine Nicodemus'. Line 193: Accius and Acciolus are local martyrs of Amiens. Line 194 lacks a heading identifying the feast.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.195": "Many scanning errors corrected silently (e.g. 'erucis' for crucis, 'de Julio' for de vulgo, 'calvus' for salvus, 'Trijecto' = Maastricht). 195: 'v. non. Maii' read as the date heading for the Finding of the Cross (normally 3 May = v non.). 202: 'hic calvus erit' read as 'hic salvus erit'. 203: 'Hr' taken as III (Tuesday). 206: 'XLCI' read as XLVI, matching 217. 215: 'Feria x ... quae aura' is garbled; read as a weekday of the week above, probably Wednesday (IV), but uncertain. 201: the heading names Matthew on 6 May, where one would expect John before the Latin Gate; the text is kept as given. 218: the number 603 ('DCIII') for the companions is reproduced as printed and may be corrupt. 221: 'Ad vincula' taken as the station at Saint Peter in Chains.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.227": "Several chapter numbers are garbled in the scan (e.g. 'CILVIII' at 232, 'cLUn' at 236, 'CLIXXVI' at 248) and are reproduced as printed. At 233 the 'usque' before 'lumen' is missing in the text. At 234 the gospel incipit breaks off after 'et induebatur'. At 242 'Feria a' is taken as 'Feria II' (Monday). At 253 the gospel reference breaks off. 'Maximi' at 239 probably refers to Maximinus of Trier. At 251 the Wisdom explicit is garbled; translated approximately. At 236 'excidere' (let [the boat] fall away) belongs to Acts 27.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.257": "Line 258: 'Hic legitur Daniel propheta' presumably refers to the Daniel reading of the Ember Saturday. Line 261: 'kal. Jot.' read as 'Jul.'. Line 279: chapter numeral 'tICIJI' garbled; plausibly CXCIII. Line 281: 'Idibus MiL' read as 'Idibus Jul.'; 'Vigilia honostatis' read as 'Vigilia honestatis' (Sirach 31:1). Line 284: 'Recmem' read as 'Rectorem'; chapter 'ciL' read as CLII (Line 268 gives CXL for the same pericope). Line 286: 'ceLIS' read as CCLXIX. Line 271: 'non eruat incredibiles' read as 'non erunt incredibiles'; 'au-per' as 'super'. Line 275: 'Dnit' read as 'Dixit'. Line 285: 'beatam coctineam' read as 'bestiam coccineam'. 'ab3' and 'ab4' appear to be marginal cross-references.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.288": "Line 288: the date is read as VIII kal. Augusti from the garbled 'vin tal. AllIlli'. Line 291: chapter 'CXXIIV' read as 134, matching line 307. Line 293: chapter 'CILVII' read as 147. Line 300: the Sunday's number is lost in the edition. Line 304: 'Camaraco' read as Cambrai; the saint is taken to be Gaugericus (Géry). Line 309: 'In diebus illis' stands oddly before the reading heading in the text. Line 317: the epistle reading is lost (a row of dots in the edition). Line 320: 'In Gctimauca … Phniberti' read as Jumièges, Saint Philibert.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.322": "324: the epistle incipit is lost in the edition (row of dots), given as [...]. 325: 'Reme' read as Remis (at Reims); chapter 'CLIVI' read as 156, with the edition's alternative [Al. CLVII]. 326: chapter 'CIXXVIII' read as 138, as in 346. 329: the text has 'kal. Febr.', but the sequence and the feasts of Hermes and Augustine (28 August) require September. 340: Vesuntio is Besançon; 'Ferioli et Ferutioni' taken as Ferreolus and Ferrutio. 345: the text is corrupt ('ei. rp. - tis'); the bracketed words are restored from the usual form of these entries and from Sirach 46:1 ('Fortis in bello Jesus Nave'). 348: 'mensis VIII' may be an error, since the previous Sunday is 'mensis VI'. 350: 'Duronis ... Lidoris' read as Turonis (at Tours) and Lidorius. 353: 'ill origine' read as 'in origine'.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.354": "Line 355: 'Ledio' read as Leodio (Liège), 'Landiberti' as Lambert. Line 358: 'seducunt' read as 'confitentur' (Heb 11:13). Line 374: Sunday number garbled ('M'); evangelist omitted, supplied as Matthew from the incipit. Line 379: addressee garbled ('ud ius'), supplied as Corinthians from the incipit (1 Cor 4:1); John chapter number garbled ('M'). Line 382: 'i.. vigila' read as 'In vigilia'. Line 383: opening 'm' read as 'Item'. Line 384: Luke chapter number garbled ('ceiL'). Line 372: the Wisdom incipit is garbled in the edition and rendered as it stands. Line 'ab5' is an editorial remark marking a gap.",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.388": "388 and 389 both give Luke chapter 3; the second may be an error. 395: the epistle quoted (2 Thess. 2) is labelled 'to the Colossians' in the text; 'Deo suo' at the end is garbled and left untranslated. 395 (Anno XV) and 399 also cite chapter 3 for different gospels. 418 and 420 both read 'XI kal. Januarii'; one date is probably corrupt. 419 cites Mark, but the incipit matches the Matthew pericope at 406. 420 'cap. XL' likely stands for CXL (cf. 416). 412 'Victoris' read as Victoricus, companion of Fuscian and Gentianus. 422 'insterilitate' read as 'sterilitate' (lack of rain).",
+  "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.424": "Ref .424: 'Israbe!' read as 'Israel'. Ref .427 gives two Gospels, the first with no closing words. Ref .434: chapter 'CCXXC' is irregular; taken as 280. Ref .438: the bracketed 'Lege Jacobi' is the editor's correction (the passage is from James 5), rendered as [read: James]. Ref .443: the chapter number is missing in the text. Ref .449: 'cruere' read as 'eruere' (deliver). Ref .453: 'sad pafce' read as 'sed parce'. Ref .455: 'pantur' read as the end of '[sculpantur]' (carved). The ref labelled 'ab6' appears to be a misnumbered heading (447)."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.head",
+   "text": "HERE BEGINS THE LIBER COMITIS, OR"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.ab1",
+   "text": "LECTIONARY THROUGH THE CYCLE OF THE YEAR."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.1",
+   "text": "In the name of Christ. Here begins the *Liber Comitis* (Book of the Companion) for the cycle of the year, enlarged by Theotinchus, an unworthy priest, at the request of the venerable man Hechiardus, count of Amiens. This was done on condition that the holy words of the Evangelists, and also of the Apostles and Prophets, should be kept unchanged and unshaken, and that on days where they were lacking proper holy readings should be supplied, as they were gathered together by the holy fathers. And if anyone thinks that something is lacking, either on weekdays or on the feasts of the saints, let him go back to whatever week he wishes, and he will always find, beyond the eight, one or two or more weekdays which he can read, so that nothing may be lacking to him. (Because of the frequent pressure of time, it was [decided] to set in certain epistles this sign ω, which signifies the end, and again α for the beginning of another epistle.) On the vigil of the Lord's Nativity, the eighth day before the Kalends of January, at Saint Mary's, at the ninth hour, [as appointed] by the holy fathers: Reading of the epistle of the blessed apostle Paul to the Romans. Brothers, Paul, servant of Christ Jesus, as far as and you are called of Jesus Christ our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.2",
+   "text": "Likewise, at the same place... Reading of the prophet Isaiah. Thus says the Lord: For Zion's sake I will not be silent, as far as God has delighted in you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.3",
+   "text": "Gospel according to Matthew. At that time, when Mary, the mother of Jesus, had been betrothed, as far as he will save his people from their sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.4",
+   "text": "Likewise, at Saint Mary's at night. Reading of the epistle of the blessed apostle Paul to Titus. Dearly beloved, the grace of our Saviour God has appeared, as far as in Christ Jesus our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.5",
+   "text": "Likewise, at the same place. Reading of the prophet Isaiah. Thus says the Lord: The people of the nations, as far as for ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.6",
+   "text": "Gospel according to Luke, chapter III. A decree went out from Caesar, as far as peace to men of good will."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.7",
+   "text": "Likewise, at Saint Anastasia's in the morning. Reading of the epistle of the blessed apostle Paul to Titus. Dearly beloved, the kindness and humanity appeared, as far as in Christ Jesus our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.8",
+   "text": "Likewise, at the same place. Reading of the prophet Isaiah. Thus says the Lord: The Spirit of the Lord is upon me, as far as redeemed by the Lord God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.9",
+   "text": "Gospel according to Luke, chapter III. The shepherds were speaking, as far as it was told to them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.10",
+   "text": "Likewise, at Saint Peter's in the day. Reading of the epistle of the blessed apostle Paul to the Hebrews. Brothers, in many portions and in many ways, as far as your years will not fail."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.11",
+   "text": "Likewise, at the same place. Reading of the prophet Isaiah. Thus says the Lord: Therefore my people shall know, as far as and all the ends of the earth shall see the salvation of our God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.12",
+   "text": "Beginning of the holy Gospel according to John. In the beginning was the Word, as far as and of truth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.13",
+   "text": "On the feast of Saint Stephen, that is, the seventh day before the Kalends of January. Reading of the Acts of the Apostles. In those days Stephen, full of grace, as far as he fell asleep in the Lord. Gospel according to Matthew, chapter CCXL. Jesus said to the crowds of the Jews, as far as blessed is he who comes in the name of the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.14",
+   "text": "On the feast of Saint John the Evangelist, that is, the sixth day before the Kalends of January. Reading of the book of Wisdom. He who fears God will do good, as far as with an everlasting name the Lord our God will make him heir. Gospel according to John, chapter CCXXXI. Jesus said to Peter: Follow me, as far as because his testimony is true."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.15",
+   "text": "On the feast of the Innocents, that is, the fifth day before the Kalends of January. Reading of the book of the Apocalypse of John the apostle. In those days I saw a lamb standing on Mount Zion, as far as before the throne of God. Gospel according to Matthew, chapter VI. Behold, an angel of the Lord appeared to Joseph in a dream, as far as for he shall be called a Nazarene."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.16",
+   "text": "On the Kalends of January, if it falls on a Sunday, let these readings from the Liber Comitis be read. Epistle of the apostle Paul to the Galatians. Brothers, as long as the heir is a child, as far as also an heir through God. Gospel according to Luke, chapter II. Joseph and Mary the mother of Jesus were, as far as the grace of God was upon him. If it is otherwise, these: Reading of the book of Genesis. In those days the Lord formed man from the clay, as far as the fourth river is the Euphrates. Gospel according to Matthew, chapter XIII. Jesus came from Galilee to the Jordan, as far as in whom I am well pleased."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.17",
+   "text": "Likewise, the third day before the Kalends of January. Reading of the book of Genesis. In those days the Lord God took the man, as far as that is its name. Gospel according to Matthew, chapter XVIII. When Jesus had heard that John had been handed over, as far as for the kingdom of heaven will draw near."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.18",
+   "text": "The day before the Kalends of January. The feast of Saint Silvester. Reading of the epistle of the blessed apostle Paul to the Hebrews. Brothers, many were made priests according to the law, as far as by offering himself, our Lord Jesus Christ. Gospel according to Matthew, chapter CCLXIII. Jesus said to his disciples: Keep watch, for you do not know, as far as he will set him over all his goods."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.19",
+   "text": "The Kalends of January. The Octave of the Lord. Let the same reading be read as on the vigil of the Lord at night. Gospel according to Luke (chapter III). After eight days were completed, as far as the glory of your people Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.20",
+   "text": "The fourth day before the Nones of January. Reading of the book of Genesis. In those days no helper like himself was found for Adam, as far as and the eyes of both were opened. Gospel according to Matthew, chapter XXIII. Jesus went around all Galilee, as far as from beyond the Jordan."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.21",
+   "text": "The third day before the Nones of January. The feast of Saint Genevieve, virgin. Reading of the book of Wisdom. Beautiful is the chaste generation, as far as he will be at rest. Gospel according to Matthew, chapter XXXVII. You have heard that it was said to those of old: You shall not commit adultery, as far as do not turn away from him who wishes to borrow from you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.22",
+   "text": "The day before the Nones of January. Reading of the prophet Daniel. In those days Nebuchadnezzar king of Babylon came to Jerusalem and besieged it, as far as who ate of the king's food. Gospel according to Matthew, chapter LXVII. When Jesus had come into the house of Simon Peter, as far as to bury their dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.23",
+   "text": "The Nones of January. Reading of the book of Genesis. In those days, when they had come to know that they were naked, namely Adam and his wife, as far as you shall return to dust. Gospel according to Matthew, chapter CXXXIII. Jesus spoke to the crowd and to his disciples, saying: Seeing they do not see, and hearing they do not hear, as far as and your ears which hear."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.24",
+   "text": "Likewise on the same day, on the vigil of the Theophany. Reading of the epistle of the blessed apostle Paul to Titus. Dearly beloved, the kindness and humanity appeared, as far as in Christ Jesus our Lord. Gospel according to Matthew, chapter VI. When Herod had died, behold, an angel of the Lord appeared to Joseph in a dream, as far as he shall be called a Nazarene."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.25",
+   "text": "The eighth day before the Ides of January, on the Theophany. Reading of the prophet Isaiah. Arise, be enlightened, Jerusalem, as far as and proclaiming praise to the Lord. Gospel according to Matthew, chapter IV. When Jesus had been born in Bethlehem of Judah, as far as they returned to their own country by another way."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.26",
+   "text": "The seventh day before the Ides of January. Reading of the prophet Isaiah. In those days the prophet Isaiah spoke, saying: In the year in which King Uzziah died, I saw the Lord sitting on a lofty throne, as far as and your sin shall be cleansed. Gospel according to Matthew, chapter CXXIX. It came to pass, when Jesus had finished these sayings, as far as let him who can receive it receive it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.27",
+   "text": "The sixth day before the Ides of January. At Beauvais, the feast of Saint Lucian, martyr. Reading of the book of Wisdom. Hear, O kings, and understand, as far as they will find what to answer. Gospel according to Matthew, chapter CCLVI. Jesus said to his disciples: As the lightning comes out of the east, as far as their bounds."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.28",
+   "text": "The fifth day before the Ides of January. Reading of the prophet Isaiah. In those days the Lord said to Isaiah: Go out to meet Ahaz, as far as if you do not believe, you will not endure. Gospel according to Mark. Jesus said to his disciples: The kingdom of God is like a man who casts seed on the earth, as far as without a parable he did not speak to them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.29",
+   "text": "[The fourth day before] the Ides of January. Reading of the prophet Isaiah. In those days the Lord spoke to the prophet Isaiah, saying: Because this people has rejected the waters of Siloam, as far as for God is with us. Gospel according to Mark, chapter LXIII. Jesus said to his disciples: Come apart, let us go into a desert place, as far as they ran together there."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.30",
+   "text": "The third day before the Ides of January. Reading of the prophet Isaiah. In those days Isaiah said: For thus the Lord spoke to me, as he instructed me with a strong hand, as far as from the Lord of hosts, who dwells on Mount Zion. Gospel according to Mark, chapter XC. Jesus, coming to his disciples, saw a great crowd, as far as are you disputing among yourselves."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.31",
+   "text": "The day before the Ides of January. Reading of the prophet Isaiah. In those days the prophet Isaiah spoke, saying: Though your people Israel be like the sand of the sea, a remnant will return, as far as upon the mountain of the daughter of Zion. Gospel according to Mark, chapter XCVII. John answered Jesus, saying: Master, we saw someone, as far as he who is not against you is for you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.32",
+   "text": "On the Ides of January. The Octave of the Theophany. Reading of the prophet Isaiah. O Lord my God, I will honour you, as far as proclaim this in all the earth. Gospel according to John. John saw Jesus coming towards him, as far as that this is the Son of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.33",
+   "text": "The first Sunday after the Theophany. Reading of the epistle of blessed Paul the apostle to the Romans: Brothers, I beseech you by the mercy of God, as far as in Christ Jesus our Lord. Gospel according to Luke, chapter III. When Jesus was twelve years old, as far as with God and men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.34",
+   "text": "The nineteenth day before the Kalends of February. The feast of Saint Felix the confessor, in Pincis. Reading of the book of Genesis. In those days the Lord God made for Adam and his wife garments of skin, as far as to guard the way of the tree of life. Gospel according to Mark, chapter CXII. The crowds were on the road going up with Jesus to Jerusalem, as far as on the third day he will rise again."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.35",
+   "text": "The eighteenth day before the Kalends of February. Reading of the book of Genesis. In those days it came about that Cain offered to the Lord God of the fruits of the earth, as far as whoever kills him will be punished sevenfold. Gospel according to Mark, chapter CXVI. Jesus came to Jericho, as far as he followed him on the road."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.36",
+   "text": "The seventeenth day before the Kalends of February. The feast of Saint Marcellus the confessor. Reading of the book of Genesis. In those days Lamech took two wives, as far as all the time that Adam lived was nine hundred and thirty years. Gospel according to Mark, chapter CXXXV. Jesus said to his disciples: Beware of the scribes, who like to walk about in long robes, as far as these will receive the heavier judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.37",
+   "text": "The sixteenth day before the Kalends of February. The feast of Saint Sulpicius. Reading of the book of Wisdom. Above health and beauty I loved wisdom, as far as commended for the gifts of instruction. Gospel according to Mark, chapter CXLII. Jesus said to his disciples: When you see the abomination of desolation, as far as for the sake of the elect whom he has chosen he will shorten the days."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.38",
+   "text": "The fifteenth day before the Kalends of February. The feast of Saint Prisca. Reading of the book of Wisdom. Wisdom, the maker of all things, taught me, as far as and above every arrangement of the stars. Look up the Gospel according to Matthew, chapter CXL. The kingdom of heaven is like a treasure hidden, as far as new."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.39",
+   "text": "The fourteenth day before the Kalends of February. On the feast of Marius and Martha. Reading of the book of Genesis. In those days Noah built an altar to the Lord, as far as a flood laying waste the earth. Gospel according to Mark, chapter XVIII. A leper came to Jesus, beseeching him, as far as what Moses commanded, as a testimony to them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.40",
+   "text": "The thirteenth day before the Kalends of February. On the feast of Fabian and Sebastian. Reading of the book of Wisdom. Wisdom overcomes wickedness, as far as than which nothing is more useful for men in life. Gospel according to Matthew, chapter CCLXIII. Jesus said to his disciples: Keep watch, for you do not know the day, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.41",
+   "text": "The twelfth day before the Kalends of February. On the feast of Saint Agnes. Reading of the book of Wisdom. When the just were tested, as far as at the end they marvelled at the outcome. Gospel according to Matthew, chapter CCLXVIII. Jesus said to his disciples: The kingdom of heaven is like ten virgins, as far as you know neither the day nor the hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.42",
+   "text": "The eleventh day before the Kalends of February. On the feast of Saint Vincent. Reading of the book of Wisdom. You have mercy on all, O Lord, because you can do all things, as far as that they may believe in you, O Lord. Gospel according to John, chapter XIV. Jesus said to his disciples: Unless a grain of wheat falling into the ground, as far as my Father who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.43",
+   "text": "The second Sunday after the Theophany. Reading of the epistle of blessed Paul the apostle to the Romans. Brothers, having gifts according to the grace, as far as consenting to the humble. Gospel according to John, chapter XVIII. A wedding took place, as far as his disciples believed in him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.44",
+   "text": "The tenth day before the Kalends of February. On the feast of Saints Macarius [and] Emerentiana. Reading of the book of Wisdom. Since then you are just, O Lord, as far as let us hope for mercy. Gospel according to Luke, chapter CLVI. Jesus, lifting up his eyes towards his disciples, as far as your reward is great in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.45",
+   "text": "The ninth day before the Kalends of February. On the feast of Saint Projectus. Reading of the book of Wisdom. O Lord our God, you are gracious and true, as far as is the root of immortality. Gospel according to Luke, chapter LXIV. Jesus said to his disciples: Everyone who comes to me, as far as upon rock."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.46",
+   "text": "The eighth day before the Kalends of February. Reading of the book of Genesis. In those days the Lord said to Noah and to his sons: This is the sign of the covenant which I give between me and you, as far as of all flesh which is upon the earth. Gospel according to Mark, chapter I. Jesus went out and came into his own country, as far as having laid his hands on him, he healed him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.47",
+   "text": "The seventh day before the Kalends of February. Reading of the book of Genesis. In those days the earth was of one tongue and of the same speech, as far as over the face of all lands. Gospel according to Luke, chapter XXVI. Jesus, rising from the synagogue, as far as I must preach the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.48",
+   "text": "The sixth day before the Kalends of February. On the feast of Saint Agnes, of [her] nativity. Reading of the book of Genesis. In those days Terah took Abraham his son, as far as from the east of Bethel. Gospel according to Mark, chapter XXI. Jesus went into the synagogue, as far as his hand was restored."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.49",
+   "text": "The fifth day before the Kalends of February. Reading of the book of Wisdom. Righteousness is everlasting, as far as weighed down by its heat. Gospel according to Matthew, chapter CXL. Jesus said to his disciples: The kingdom of heaven is like a treasure hidden in a field, as far as things new and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.50",
+   "text": "The third Sunday after the Theophany. Reading of the epistle of blessed Paul the apostle to the Romans. Brothers, do not be wise [in your own sight], as far as overcome evil with good. Gospel according to Matthew, chapter LXIII. When Jesus had come down from the mountain, as far as the boy was healed in that hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.51",
+   "text": "The fourth day before the Kalends of February. Reading of the book of Genesis. In those days Abraham went down into Egypt, as far as take her and go. Gospel according to Luke, chapter XXXIII. When Jesus was in a city, as far as from their infirmities."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.52",
+   "text": "The third day before the Kalends of February. Reading of the book of Genesis. In those days Abraham went up from Egypt, as far as as one comes to Zoar. Gospel according to Mark, chapter XXXVI. Jesus began to teach by the sea, as far as he who has ears to hear, let him hear."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.53",
+   "text": "The day before the Kalends of February. Reading of the book of Genesis. In those days the Lord said to Abraham, after [Lot] had separated, as far as he built there an altar to the Lord. Gospel according to Matthew, chapter LXXIV. While Jesus was speaking to the crowds, as far as throughout all that land."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.54",
+   "text": "The Kalends of February. On the feast of Saint Brigid the virgin. Reading of the book of Wisdom. The creation, serving you its maker, as far as For great are your judgements, O Lord, and indescribable your works. Gospel according to Luke, chapter LXXIX. Jesus said to his disciples: No one lighting a lamp, as far as will be taken from him. The fourth day before the Nones of February. On the Purification of the blessed Virgin Mary. Reading of the book of Wisdom. Among all these I sought rest, as far as gave a sweet fragrance. Gospel according to Luke, chapter III. Simeon took Jesus in his arms, as far as the grace of God was upon him. Also another Gospel according to Luke: After the days of her purification, as far as the glory of your people Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.55",
+   "text": "The third day before the Nones of February. Reading of the book of Genesis. In those days Melchizedek, king of Salem, came out to meet Abraham as he returned from the slaughter of the kings, bringing out bread and wine, as far as it was reckoned to him as righteousness. Gospel according to Mark, chapter XLI. Jesus said to his disciples and to the crowds, as far as he explained everything."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.56",
+   "text": "The day before the Nones of February. Reading of the book of Genesis. In those days, after Abraham had begun to be ninety years old, as far as were circumcised together. Gospel according to Luke, chapter LXXVIII. Jesus told a parable, observing, as far as bread in the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.57",
+   "text": "The Nones of February. On the feast of Saint Agatha. Reading of the epistle of blessed Paul the apostle to the Corinthians. Brothers, let him who boasts boast in the Lord, as far as to present to Christ. Gospel according to Matthew, chapter CCLXVIII. Jesus told his disciples this parable: The kingdom of heaven is like ten virgins, as far as nor the hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.58",
+   "text": "The fourth Sunday after the Theophany. Reading of the epistle of blessed Paul the apostle to the Romans. Brothers, owe no one anything, as far as love therefore is the fulfilment of the law. Gospel according to Matthew, chapter LXIX. As Jesus went up into a boat, as far as obey him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.59",
+   "text": "The eighth day before the Ides of February. Reading of the book of Genesis. In those days the Lord appeared to Abraham in the valley of Mamre, as far as, But you laughed. Gospel according to Mark, chapter XLVII. Jesus came across the sea into the region of the Gerasenes, as far as and had mercy on you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.60",
+   "text": "The seventh day before the Ides of February. Reading of the book of Genesis. In those days the Lord said to Abraham: Can I hide from you what I am about to do, as far as and he returned to his place. Gospel according to Luke, chapter LXVII. It came about afterwards that Jesus went to a city called Nain, as far as his people."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.61",
+   "text": "The sixth day before the Ides of February. On the feast of Saint Thomas the apostle. Reading of the epistle of blessed Paul the apostle to the Ephesians. You are no longer strangers and sojourners, as far as a dwelling place of God in the Holy Spirit. Gospel according to John, chapter CXXXIV. This is my commandment, as far as they hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.62",
+   "text": "The fifth day before the Ides of February. Reading of the book of Genesis. In those days two angels came to Sodom, as far as Lot entered Zoar. Gospel according to Luke, chapter LXXIX. A certain Pharisee urged Jesus, as far as she loved much."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.63",
+   "text": "The fourth day before the Ides of February. On the feast of Saints Zoilus, Irenaeus, Hyacinth, Amantius and Soter. Reading of the book of Wisdom. All creation from the beginning was being refashioned according to its kind, as far as standing by them. Gospel according to Luke, chapter CIV. Now it came about, when the days of Jesus' taking up were being fulfilled, as far as they went off to another village."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.64",
+   "text": "The third day before the Ides of February. Reading of the book of Genesis. In those days Abraham set out into the southern land, as far as with my son Isaac. Gospel according to Mark, chapter LXIII. Jesus, going out of the boat, as far as he went off to the mountain to pray."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.65",
+   "text": "The day before the Ides of February. Reading of the book of Genesis. In those days Isaac entreated the Lord for his wife, as far as thinking little of having sold his birthright. Gospel according to Matthew, chapter XLVII. Now when evening had come, as far as five thousand men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.67",
+   "text": "The fifth Sunday after the Theophany. Reading of the epistle of blessed Paul the apostle to the Thessalonians. Brothers, clothe yourselves as the elect of God, as far as through Jesus Christ our Lord. Gospel according to Matthew, chapter CV. Jesus looked round and said: I confess to you, Father, Lord of heaven, as far as my burden light."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.68",
+   "text": "The Ides of February. Reading of the book of Genesis. In those days, when famine had arisen over the land, as far as until he became exceedingly great. Gospel according to Matthew, chapter CLIV. There came to Jesus from Jerusalem, as far as does not defile a person."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.69",
+   "text": "The sixteenth day before the Kalends of March. On the feast of Saints Valentine, Vitalis, Felicula and Zeno. Reading of the book of Wisdom. You who fear the Lord, wait for his mercy, as far as so also his mercy is with him. Gospel according to Luke, chapter XCVI. Jesus said to his disciples: If anyone wishes to come after me, as far as until the kingdom of God comes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.70",
+   "text": "The fifteenth day before the Kalends of March. Reading of the book of Genesis. In those days Jacob went out from Beersheba, as far as I will offer tithes to you. Gospel according to Luke, chapter LXXXIII. It came about on one of the days, as far as how great things Jesus had done for them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.71",
+   "text": "The fourteenth day before the Kalends of March. Feast of Saints Onesimus and Juliana, virgin. Reading of the book of Wisdom. The sons of wisdom are the assembly of the just, as far as justice will be built up for you. Gospel according to Matthew, chapter CXL. Jesus told his disciples this parable: The kingdom of heaven is like treasure hidden, as far as new things and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.72",
+   "text": "The thirteenth day before the Kalends of March. On the feast of Saint Policionus, bishop. Reading of the book of Genesis. In those days Jacob set out and came to the eastern land, as far as serving with him seven years. Gospel according to Mark, chapter LXXII. Jesus rose and went off into the region of Tyre, as far as the demon had gone out of her."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.73",
+   "text": "The twelfth day before the Kalends of March. Reading of the book of Genesis. In those days the Lord, seeing that Jacob despised Leah, as far as she called him Asher. Gospel according to Luke, chapter CXVIII. Jesus rejoiced in the Holy Spirit, as far as to hear what you hear, and did not hear [it]."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.74",
+   "text": "The eleventh day before the Kalends of March. Reading of the book of Genesis. In those days Reuben went out at the time of the wheat harvest, as far as the flocks having been separated from one another. Gospel according to Luke, chapter CXXXIV. Jesus said to his disciples: The lamp of your body is your eye, as far as a lamp of brightness will give you light."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.75",
+   "text": "Septuagesima Sunday. Reading of the epistle of blessed Paul the apostle to the Corinthians. Brothers, do you not know that those who run in the stadium, as far as and the rock was Christ. Gospel according to Matthew, chapter CC. Jesus said to his disciples: The kingdom of heaven is like a man, a householder, as far as few chosen."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.76",
+   "text": "The tenth day before the Kalends of March. Reading of the book of Genesis. In those days, when the sheep were mounting at the first season, as far as going to his father Isaac in the land of Canaan. Gospel according to Luke, chapter CXLIX. Someone from the crowd said to Jesus: Teacher, tell my brother, as far as whoever lays up treasure for himself and is not rich toward God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.77",
+   "text": "The ninth day before the Kalends of March. Reading of the book of Genesis. In those days, at the time when Laban had gone to shear the sheep, as far as he returned to his place. Gospel according to Luke, chapter CLI. The servant who knew his master's will, as far as and the daughter-in-law against her mother-in-law."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.78",
+   "text": "The eighth day before the Kalends of March. On the Chair of Saint Peter. Reading of the book of Wisdom. Son, carry out your works in gentleness, as far as but he who made him will hear him. Gospel according to Luke, chapter CLXVII. Jesus said: What is the kingdom of God like, as far as gnashing of teeth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.79",
+   "text": "The seventh day before the Kalends of March. Reading of the book of Genesis. In those days Jacob went off on the journey he had begun, as far as how much more will he prevail against men. Gospel according to Luke, chapter CLXII. Jesus said to the crowds: When you see Abraham, as far as it cannot be that a prophet perish outside Jerusalem."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.80",
+   "text": "The sixth day before the Kalends of March. Reading of the book of Genesis. In those days Jacob asked the angel who was wrestling with him, as far as the city of the Shechemites, which is in the land of Canaan. Gospel according to Luke, chapter LXIX. Jesus said to the man who had invited him, as far as blessed is he who eats bread in the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.81",
+   "text": "The fifth day before the Kalends of March. Reading of the book of Genesis. In those days, after Jacob had returned from Mesopotamia of Syria, as far as ought they to have abused our sister like a harlot? Gospel according to Luke, chapter CXCII. The Pharisees were hearing all these things that Jesus was saying, as far as whoever marries a woman dismissed by her husband commits adultery."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.82",
+   "text": "The fourth day before the Kalends of March. Reading of the book of Genesis. In those days the Lord spoke to Jacob, saying: Arise and go up to Bethel, as far as this is the pillar of Rachel's tomb, to this present day. Gospel according to Luke, chapter CXCVII. Jesus said to his disciples: It is impossible that offences should not come, as far as it would obey you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.83",
+   "text": "The third day before the Kalends of March. Reading of the book of Genesis. In those days the sons of Jacob were twelve, as far as his sons buried him, Jacob. Gospel according to Luke, chapter CCI. Jesus said to his disciples: Which of you, having a servant ploughing, as far as we have done what we ought to have done."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.84",
+   "text": "Sexagesima Sunday. Reading of the epistle of blessed Paul the apostle to the Corinthians. Brothers, you gladly bear with the foolish, as far as that the power of Christ may dwell in me. Gospel according to Luke, chapter LXXVI. When a very great crowd was gathering, as far as will bear fruit in patience."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.85",
+   "text": "The day before the Kalends of March. Reading of the book of Genesis. In those days Joseph was taken into Egypt, as far as the Lord was with him and directed all his works. Gospel according to Luke, chapter CCII. Jesus, being asked by the Pharisees when the kingdom of God comes, as far as in his day."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.86",
+   "text": "The Kalends of March. Reading of the book of Genesis. In those days it happened that two eunuchs offended, as far as he forgot his interpreter. Gospel according to Luke, chapter CCVIII. Jesus said to his disciples: As it happened in the days of Noah, as far as remember Lot's wife."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.87",
+   "text": "The sixth day before the Nones of March. Reading of the book of Genesis. In those days Pharaoh told the dream, as far as the counsel pleased Pharaoh and all his ministers. Gospel according to Luke, chapter CCXII. Jesus said to his disciples: I tell you, on that night there will be two in one bed, as far as will he find faith on earth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.88",
+   "text": "The fifth day before the Nones of March. Reading of the book of Genesis. In those days Pharaoh said to Joseph, as far as we might relieve the evil of want. Gospel according to Luke, chapter CCLII. Jesus said to his disciples: When you see Jerusalem surrounded by an army, as far as until the times of the nations are fulfilled."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.89",
+   "text": "The fourth day before the Nones of March. Reading of the book of Genesis. In those days, Now Jacob, hearing that food was being sold in Egypt, as far as you die. Gospel according to Luke, chapter CCLIX. Jesus said to his disciples: But take heed to yourselves, lest your hearts be weighed down, as far as to hear him in the temple."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.90",
+   "text": "The third day before the Nones of March. Reading of the book of Genesis. In those days Joseph's brothers in Egypt did as he himself had instructed them, and they spoke to one another, as far as I shall be without children. Gospel according to Luke, chapter CCXLI. Jesus said to his disciples: Behold, I send the promise of my Father upon you, as far as blessing God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.91",
+   "text": "The day before the Nones of March. Reading of the book of Genesis. In those days the sons of Israel took gifts and double money, as far as to your father. Gospel according to Matthew, chapter XXXIII. Jesus said to his disciples: Do not think that I came to abolish the law, as far as he will be called great in the kingdom of heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.92",
+   "text": "The Nones of March. On the feast of the holy virgins Perpetua and Felicity. Reading of the book of Wisdom. Make yourself affable to the assembly of the poor, as far as a word in the time of salvation. Gospel according to John, chapter XXV. Jesus and his disciples came into the land of Judaea, as far as was sent before him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.93",
+   "text": "Quinquagesima Sunday. Reading of the epistle of blessed Paul the apostle to the Corinthians. And if I speak with the tongues of men and of angels, as far as but the greatest of these is love. Gospel according to Luke, chapter CCXXII. Jesus took the twelve disciples aside, as far as gave praise to God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.94",
+   "text": "The eighth day before the Ides of March. Reading of the book of Genesis. In those days Judah, coming nearer, said confidently to Joseph, as far as make haste and bring him to me. Gospel according to John, chapter LI. It happened when the disciples of Jesus went down to the sea, as far as to the land to which they were going."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.95",
+   "text": "The seventh day before the Ides of March. Reading of the book of Genesis. In those days it was heard and spread by common talk in the king's hall: Joseph's brothers have come, as far as Joseph will put his hands on your eyes. Gospel according to Mark, chapter CXX. When Jesus had entered Jerusalem, into the temple, as far as whatever he says will be done for him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.96",
+   "text": "Wednesday. The beginning of the fast. At Saint Sabina. Reading of the prophet Joel. Thus says the Lord God: Turn to me with your whole heart, as far as I will no longer make you a reproach among the nations, says the Lord almighty. Gospel according to Matthew, chapter XLV. Jesus said to his disciples: When you fast, do not become gloomy like the hypocrites, as far as there is your heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.97",
+   "text": "Thursday. Reading of the prophet Isaiah. In those days Hezekiah fell sick to the point of death, as far as I will protect it, says the Lord almighty. Gospel according to Matthew, chapter LXIV. When Jesus had entered Capernaum, as far as was healed from that hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.98",
+   "text": "Friday. Reading of the prophet Isaiah. Thus says the Lord God: Cry out, do not cease, as far as for I am merciful, the Lord your God. Gospel according to Matthew, chapter XXXIX. Jesus said to his disciples: You have heard that it was said, You shall love your neighbour and hate your enemy, as far as will repay you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.99",
+   "text": "Saturday. Reading of the prophet Isaiah. Thus says the Lord: If you take away the chain from your midst, as far as for the mouth of the Lord has spoken these things. Gospel according to Mark, chapter (LXVI). When evening had come, the boat was in the middle of the sea, as far as were made whole."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.100",
+   "text": "Sunday at the beginning of Lent. Reading of the epistle of blessed Paul the apostle to the Corinthians. Brothers, we exhort you, as far as possessing all things. Gospel according to Matthew, chapter XV. Jesus was led into the desert, as far as angels ministered to him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.101",
+   "text": "From here the full order follows, as it is contained in the book of the Companion, as far as the Octave of Easter."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.102",
+   "text": "Monday. Reading of the prophet Ezekiel. Thus says the Lord God: Behold, I myself will seek out my sheep, as far as in judgement and justice, says the Lord almighty. Gospel according to Matthew, chapter CCLXXII. When the Son of Man comes in his majesty, as far as but the righteous into eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.103",
+   "text": "Tuesday. Reading of the prophet Isaiah. In those days Isaiah the prophet spoke, saying, as far as says the Lord almighty. Gospel according to Matthew, chapter CCX. When Jesus had entered Jerusalem, as far as he taught them about the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.104",
+   "text": "Wednesday. Reading of the book of Exodus. In those days the Lord said to Moses, as far as and forty nights. Gospel according to Matthew, chapter CXXVII. The scribes and Pharisees came to Jesus, saying, as far as he is my brother and sister and mother."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.105",
+   "text": "Thursday. Reading of the prophet Ezekiel. [In those days] the word of the Lord came to me, saying, as far as says the Lord almighty. Gospel according to John, chapter CLVII. At that time Jesus said to those of the Jews who had believed, as far as he who is of God hears the words of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.106",
+   "text": "Friday. Reading of the prophet Ezekiel. Thus says the Lord God: The soul that has sinned, it shall die, as far as he shall surely live and shall not die, says the Lord almighty. Gospel according to John, chapter XXXVII. At that time there was a feast day of the Jews, as far as it was who had made him whole."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.107",
+   "text": "Saturday of the twelve readings. At Saint Peter's. Reading of the book of Deuteronomy. In those days Moses spoke to the Lord, saying: Look down, Lord, from your sanctuary, as far as as he has spoken to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.108",
+   "text": "Likewise, reading of the book of Deuteronomy. In those days Moses said to the sons of Israel, as far as as the Lord your God has spoken to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.109",
+   "text": "Likewise, reading of the book of Maccabees. In those days the priests were making prayer, as far as nor may the Lord your God forsake you in the time [of trouble]."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.110",
+   "text": "Likewise, reading of the book of Wisdom. Have mercy on us, God of all, as far as your wonders, Lord our God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.111",
+   "text": "Likewise, reading of the prophet Daniel. The angel of the Lord came down with Azariah and his companions, as far as and exalted above all for ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.112",
+   "text": "Likewise, with the Benediction."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.113",
+   "text": "Likewise, reading of the epistle of blessed Paul the apostle to the Thessalonians. Brothers, we ask you, rebuke the unruly, as far as be kept until the coming of our Lord Jesus Christ. Gospel according to Matthew, chapter CLXXII. At that time Jesus took Peter and James and John his brother, as far as rises from the dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.114",
+   "text": "First Sunday in Lent. Reading of the epistle of blessed Paul the apostle to the Thessalonians. Brothers, we ask and beseech you in the Lord Jesus, as far as but in sanctification in Christ Jesus our Lord. Gospel according to Matthew, chapter LVII. Jesus went out from there and withdrew into the region of Tyre, as far as from that hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.115",
+   "text": "Monday. Reading of the prophet Daniel. In those days Daniel prayed, saying, as far as and upon your people, Lord our God. Gospel according to John, chapter LXXXIX. Jesus said to the crowds of the Jews: I am going, and you seek me, as far as I always do what pleases him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.116",
+   "text": "Tuesday. Reading of the book of Kings. In those days the word of the Lord came to Elijah, as far as which he had spoken by the hand of Elijah. Gospel according to Matthew, chapter CCXXVII. Jesus spoke to the crowds and to his disciples, saying, as far as will be exalted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.117",
+   "text": "Wednesday. Reading of the book of Esther. In those days Esther prayed to the Lord, saying, as far as the mouths of those who sing [to you], Lord our God. Gospel according to Matthew, chapter CCI. Going up to Jerusalem, Jesus, as far as a ransom for many."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.118",
+   "text": "Thursday. Reading of the prophet Jeremiah. Thus says the Lord God: Cursed is the man who trusts in man, as far as of his devices, says the Lord almighty. Gospel according to John, chapter (XLI). Jesus said to the crowds of the Jews: I can do nothing of myself, as far as how will you believe my words."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.119",
+   "text": "Friday. Reading of the book of Genesis. In those days Joseph said to his brothers, as far as wishing to rescue him from their hands and return him to his father. Gospel according to Matthew, chapter CCXIX. Jesus said to his disciples: There was a man, a householder, as far as since they held him as a prophet."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.120",
+   "text": "Saturday. Reading of the book of Genesis. In those days Rebecca brought Jacob to her son, as far as from above will be your blessing. Gospel according to Luke, chapter CXC. Jesus said to his disciples: A certain man had two sons, as far as he was lost and is found."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.121",
+   "text": "Second Sunday of Lent. Reading of the epistle of blessed Paul the apostle to the Ephesians. Be imitators of God as most dear children, as far as justice and truth. Gospel according to Luke, chapter CXXVI. Jesus was casting out a demon, as far as and keep it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.122",
+   "text": "Monday. Reading of the book of Kings. In those days Naaman, commander of the army of the king of Syria, as far as except only the Lord God of Israel. Gospel according to Luke, chapter XX. The Pharisees said to Jesus: Whatever we have heard was done in Capernaum, as far as passing through the midst of them he went away."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.123",
+   "text": "Tuesday. Reading of the book of Kings. In those days a certain woman cried out to Elisha the prophet, saying, as far as you and your sons live on the rest. Gospel according to Matthew, chapter CLXXXIII. Looking at his disciples, Jesus said to Simon Peter, as far as seventy times seven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.124",
+   "text": "Wednesday. Reading of the book of Exodus. Thus says the Lord God: Honour your father and your mother, as far as of my name. Gospel according to Matthew, chapter CLIV. Scribes and Pharisees from Jerusalem came to Jesus, saying, as far as do not defile a man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.125",
+   "text": "Thursday. Reading of the prophet Jeremiah. In those days the word of the Lord came to me, saying: Stand in the gate of the house of the Lord, as far as for ever, says the Lord almighty. Gospel according to John, chapter (LII). Work not for the food that perishes, as far as he who believes in me will never thirst."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.126",
+   "text": "Friday. Reading of the book of Numbers. In those days the sons of Israel came together to Moses and Aaron, as far as and he was sanctified in them. Gospel according to John, chapter XXXIII. Jesus, wearied from the journey, was sitting thus by the well, as far as that this is truly the Saviour of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.127",
+   "text": "Saturday. Reading of the prophet Daniel. In those days there was a man in Babylon whose name was Joachim, as far as on that day. Gospel according to John, chapter LXXVI. Jesus went to the Mount of Olives, as far as and from now on sin no more."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.128",
+   "text": "Sunday XX. Reading of the epistle of blessed Paul the apostle to the Galatians. Brothers, it is written that Abraham had two sons, as far as Christ has set us free. Gospel according to John, chapter XLVI. Jesus went across the sea of Galilee, which is [the sea] of Tiberias, as far as who is to come into the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.129",
+   "text": "Monday. Reading of the book of Kings. In those days two women, prostitutes, came to King Solomon, as far as to do judgement. Gospel according to John, chapter XX. The Passover of the Jews was near, and Jesus went up to Jerusalem, as far as for he himself knew what was in man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.130",
+   "text": "Tuesday. Reading of the book of Exodus. In those days the Lord our God spoke to his people. Gospel according to John, chapter LXXV. Now in the middle of the feast Jesus went up into the temple and was teaching, as far as many of the crowd believed in him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.131",
+   "text": "Wednesday. Reading of the prophet Ezekiel. Thus says the Lord God: I will sanctify my great name, as far as and I will be your God, says the Lord almighty. Gospel according to John, chapter LXXXIX. As Jesus passed by he saw a man blind from birth, as far as and falling down he worshipped him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.132",
+   "text": "Thursday. Reading of the book of Kings. In those days the Shunammite woman came to Elisha on the mountain, as far as he returned to Gilgal. Gospel according to John, chapter XL. Jesus said to the crowds of the Jews: My Father is working until now, and I am working, as far as to the resurrection of judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.133",
+   "text": "Friday. Reading of the book of Kings. In those days the son of the woman, the mother of the household, fell ill, as far as and the word of the Lord in your mouth is true. Gospel according to John, chapter XCIV. There was a certain sick man, Lazarus, as far as they believed in him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.134",
+   "text": "Saturday. Reading of the prophet Isaiah. Thus said the Lord: In an acceptable time I have heard you, as far as I will not forget them, said the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.135",
+   "text": "Another. Reading of the prophet Isaiah. Thus says the Lord God: All you who thirst, come to the waters, as far as what will go out from my mouth, said the Lord almighty. Gospel according to John, chapter LXXXVI. Jesus said to the crowds of the Jews: I am the light of the world, as far as because his hour had not yet come."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.136",
+   "text": "Fifth Sunday in Lent. Reading of the epistle of blessed Paul the apostle to the Hebrews. Brothers, Christ being present as high priest, as far as of the eternal inheritance in Christ Jesus our Lord. Gospel according to John, chapter LXXXIX. Jesus said to the crowds of the Jews and to the chief priests: Which of you will convict me of sin, as far as and he went out of the temple."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.137",
+   "text": "Monday. Reading of the prophet Jonah. In those days the word of the Lord came to Jonah, as far as and the Lord our God had mercy on his people. Gospel according to John, chapter LXXIX. The chief priests and Pharisees sent officers, as far as believing in him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.138",
+   "text": "Tuesday. Reading of the prophet Daniel. In those days the Babylonians gathered to the king, as far as [from] the lions' den. Gospel according to John, chapter LXXV. Jesus walking in Galilee, as far as for fear of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.139",
+   "text": "Wednesday. Reading of the book of Leviticus. In those days the Lord spoke to Moses, saying: I [am] the Lord your God. You shall not commit theft, as far as for I am the Lord your God. Gospel according to John, chapter XCII. The feast of the Dedication took place in Jerusalem, as far as and I in the Father."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.140",
+   "text": "Thursday. Reading of the prophet Daniel. In those days Daniel prayed, saying, as far as over [...] the land, as far as each one to his own house. Gospel according to Luke, chapter LXXIV. At that time [one of the Pharisees] was asking Jesus, as far as she loved much."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.141",
+   "text": "Friday. Reading of the prophet Jeremiah. In those days Jeremiah said: Lord, all who forsake you will be confounded, as far as crush them, Lord our God. Gospel according to John, chapter XCIV. The chief priests and Pharisees gathered a council, as far as with his disciples."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.142",
+   "text": "Saturday. Alms are given. Reading of the prophet Jeremiah. In those days the wicked Jews said to one another, as far as in the time of your fury, Lord my God. Gospel according to John, chapter LXVI. Jesus said to his disciples: Amen, amen I say to you, unless you eat the flesh of the Son of Man, as far as was to betray him, though he was one of the twelve."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.143",
+   "text": "Palm Sunday. (Reading of the epistle of blessed Paul the apostle to the Philippians.) Brothers, have this mind in you which [was] also in Christ Jesus, as far as that the Lord Jesus Christ is in the glory of God the Father. The Passion of our Lord Jesus Christ according to Matthew, chapter CCLXXIV. Jesus said to his disciples: You know that after two days the Passover will come, and the Son of Man, as far as sealing the stone with the guards."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.144",
+   "text": "Monday. Reading of the prophet Isaiah. In those days Isaiah said: The Lord God has opened my ear, as far as and let them lean upon the Lord their God. Gospel according to John, chapter XCVIII. Six days before the Passover Jesus came to Bethany, where Lazarus had died, as far as that the Son of Man may be glorified."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.145",
+   "text": "Tuesday. Reading of the prophet Jeremiah. In those days Jeremiah said: Lord, you showed me, and I knew, as far as for to you I have revealed my cause, Lord my God. Likewise another. Reading of the book of Wisdom. In those days the wicked Jews said among themselves, as far as of their souls, says the Lord almighty. Gospel according to John, chapter CIV. Jesus said to his disciples: Amen, amen I say to you, unless a grain of wheat falls into the earth, as far as for they loved the glory of men more than the glory of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.146",
+   "text": "Wednesday. Reading of the prophet Isaiah. Thus says the Lord God: Say to the daughter of Zion, Behold, your Saviour comes, as far as over all that the Lord our God has rendered to us. Likewise. Reading of the prophet Isaiah. In those days Isaiah said: Lord, who has believed our report, as far as that they may not perish, says the Lord almighty. The Passion of our Lord Jesus Christ according to Luke, chapter CCLX. Now the feast of unleavened bread, which is called the Passover, was drawing near, as far as no one had yet been laid."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.147",
+   "text": "Thursday. The Lord's Supper. Reading of the epistle of blessed Paul the apostle to the Corinthians. Brothers, when you come together, as far as so that you may not be condemned with this world. Gospel according to John, chapter CIII. At that time, before the feast day of the Passover, as far as he will glorify him at once."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.148",
+   "text": "Friday. At Jerusalem. Reading of the prophet Hosea. Thus says the Lord God: In their tribulation, as far as more than burnt offering. At the same place. Reading of the book of Exodus. In those days the Lord said to Moses and Aaron in the land of Egypt, as far as for it is the phase, that is, the passing over of the Lord. The Passion according to John, chapter CLVI. At that time Jesus went out across the brook Kidron, as far as because the tomb was near, where they laid Jesus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.149",
+   "text": "Here begin the readings for the vigil of Easter."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.150",
+   "text": "I. Reading of the book of Genesis. In the beginning God created heaven and earth, as far as and he rested on the seventh day from all his work which he had done."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.151",
+   "text": "II. At the same place. Reading of the book of Genesis. Now when Noah was five hundred years old, as far as the Lord smelled the odour of sweetness."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.152",
+   "text": "III. At the same place. Reading of the book of Genesis. In those days God tested Abraham, and said to him, as far as and they went away together to Beersheba, and he lived there."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.153",
+   "text": "IV. Reading of the book of Exodus. In those days it came to pass in the morning watch, as far as this song to the Lord. Canticle: Let us sing to the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.154",
+   "text": "V. Reading of the prophet Isaiah. This is [the inheritance] of the servants of the Lord, as far as what will go out from my mouth, says the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.155",
+   "text": "VI. Reading of the prophet Jeremiah. Hear, Israel, the commandments of life, as far as and he lived among men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.156",
+   "text": "VII. Reading of the prophet Ezekiel. The hand of the Lord came upon me, as far as and I will make you rest, says the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.157",
+   "text": "VIII. Reading of the prophet Isaiah. In those days seven women took hold, as far as from the whirlwind and from the rain. Canticle: A vineyard was made."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.158",
+   "text": "IX. Reading of the book of Exodus. In those days the Lord also said to Moses and Aaron in the land of Egypt: This month, as far as that is, the passing over of the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.159",
+   "text": "X. Reading of the prophet Jonah. In those days the word of the Lord came to Jonah the prophet a second time, saying, as far as and the Lord our God had mercy on his people."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.160",
+   "text": "XI. Reading of the book of Deuteronomy. In those days Moses wrote a song, as far as and completed it to the end. Canticle: Give ear, O heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.161",
+   "text": "XII. Reading of the prophet Daniel. In those days King Nebuchadnezzar made a golden statue, as far as praising and blessing the Lord. Canticle: As the hart."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.162",
+   "text": "Holy Saturday. Reading of the epistle of blessed Paul the apostle to the Colossians. Brothers, if you have risen with Christ, as far as with him in glory. Gospel according to Matthew, chapter CCCLII. Now in the evening of the sabbath, as far as there you will see him; behold, I have told you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.163",
+   "text": "Holy Sunday. At Saint Mary's. Reading of the epistle of blessed Paul the apostle to the Corinthians. Brothers, purge out the old leaven, as far as and of truth. Gospel according to Mark, chapter XXX. Mary Magdalene and Mary [the mother] of James and Salome, as far as there you will see him, as he told you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.164",
+   "text": "Monday. Reading of the Acts of the Apostles. In those days Peter, standing in the midst of the people, said: Men, brothers, you know what has happened, as far as who believe in him. Gospel according to Luke (chapter CCCXXXIX). Two of Jesus' disciples, going out, were going that same day to a village, as far as they recognised him in the breaking of the bread."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.165",
+   "text": "Tuesday. Reading of the Acts of the Apostles. In those days Paul, rising and motioning for silence with his hand, said, as far as raising up Jesus Christ. Gospel according to Luke, chapter CCCXL. Jesus stood in the midst of his disciples and said to them, Peace be with you, as far as and remission of sins among all nations."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.166",
+   "text": "Wednesday. (Reading of the Acts of the Apostles.) In those days Peter, opening his mouth, said, Men of Israel, and you who fear God, listen, as far as that your sins may be blotted out. Gospel according to John, chapter CCXIX. Jesus showed himself at the sea of Tiberias, as far as when he had risen from the dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.167",
+   "text": "Thursday. Reading of the Acts of the Apostles. In those days an angel of the Lord spoke to Philip, saying, Rise, go toward the south, as far as he preached the name of our Lord Jesus Christ to all the cities. Gospel according to John, chapter CCXI. But Mary was standing outside at the tomb, weeping, as far as that I have seen the Lord, and he said these things to me."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.168",
+   "text": "Friday. Reading of the epistle of blessed Peter the apostle. Dearly beloved, Christ died once for sins, the just for the unjust, as far as through the resurrection of Jesus Christ, who is at the right hand of God. Gospel according to Matthew, chapter CCCLV. But the eleven disciples went away into Galilee, as far as to the end of the age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.169",
+   "text": "Saturday. Reading of the epistle of blessed Peter the apostle. Brothers, laying aside all malice and all guile, as far as but now have obtained mercy. Gospel according to John, chapter CCXII. When it was late on that day, the first of the week, and the doors were shut where the disciples were gathered for fear of the Jews, as far as and whose [sins] you retain, they are retained."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.170",
+   "text": "On the eighth day before the Kalends of April, on the Conception of Saint Mary. Reading of Isaiah the prophet. In those days the Lord spoke to Ahaz, saying, Ask for yourself a sign from the Lord your God, as far as that he may know to refuse evil and choose good. Gospel according to Luke, chapter (III). The angel Gabriel was sent from God, as far as be it done to me according to your word."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.171",
+   "text": "Sunday of the Octave of Easter. Reading of the epistle of blessed John the apostle. Dearly beloved, whatever is born [of God] overcomes the world, as far as he who has believed in the Son of God has the testimony of God in himself. Gospel according to John, chapter (CCXVI). But Thomas, one of the twelve, as far as you may have life in his name."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.172",
+   "text": "Monday after the Octave of Easter. Reading of the Acts of the Apostles. In those days Philip, going down to the city of Samaria, preached Christ to them, as far as they received the Holy Spirit. Gospel according to Matthew, chapter CVIII. Jesus began to reproach the cities in which very many mighty works had been done, as far as I say to you that it will be more tolerable for the land of Sodom on the day of judgement than for you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.173",
+   "text": "Tuesday after the Octave of Easter. Reading of the Acts of the Apostles. In those days, when many days had passed, the Jews took counsel to kill Paul, as far as at once the vessel was taken up into heaven. Gospel according to John, chapter CXI. Jesus said to his disciples, He who believes in me does not believe in me, but in him who sent me, as far as as the Father told me, so I speak."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.174",
+   "text": "Wednesday after the Octave of Easter. Reading of the epistle of blessed Paul the apostle to the Hebrews. Brothers, obey those set over you, as far as through Jesus Christ, to whom is glory for ever and ever. Gospel according to John, chapter (CLIII?). Jesus, looking at his disciples, said, Holy Father, keep them, as far as but that you keep them from evil."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.175",
+   "text": "Thursday after the Octave of Easter. Reading of the Acts of the Apostles. In those days, while Peter was wondering within himself what the vision might be, as far as he who fears him and works righteousness is acceptable to him. Gospel according to Luke, chapter CXCVI. Jesus told his disciples this parable: There was a certain rich man, and he was clothed in purple and fine linen, as far as neither will they believe if someone rises from the dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.176",
+   "text": "On the third day before the Ides of April. On the feast of Saint Leo, pope. Reading of the book of Wisdom. Behold a great priest, as far as for an odour of sweetness. Gospel according to Matthew, chapter CCLXVIIII. Jesus told his disciples this parable: A certain man setting out on a journey abroad, as far as enter into the joy of your lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.177",
+   "text": "On the eighteenth day before the Kalends of May. On the feast of Saints Tiburtius and Valerian and Maximus. Reading of the book of Wisdom. The tongue of the wise adorns knowledge, as far as he who follows justice is loved by the Lord. Gospel according to Matthew, chapter XXIV, as far as your reward is great in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.178",
+   "text": "Friday after the Octave of Easter. Reading of the Acts of the Apostles. In those days the apostles and brothers who were in Judaea heard, as far as God has given repentance and life to the Gentiles. Gospel according to Matthew, chapter CCCLIV. The women went out quickly from the tomb, as far as to this present day."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.179",
+   "text": "Saturday after the Octave of Easter. Reading of the Acts of the Apostles. In those days those who had been scattered by the persecution, as far as by the hands of Barnabas and Paul. Gospel according to Luke, chapter CXXXV. As Jesus was speaking, a certain Pharisee asked him to dine with him, as far as but you build their tombs."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.180",
+   "text": "First Sunday after the Octave of Easter. Reading of the epistle of blessed Peter the apostle. Dearly beloved, Christ suffered for us, as far as of your souls. Gospel according to John, chapter LXXXIX. Jesus said to his disciples, I am the good shepherd, as far as there will be one fold and one shepherd."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.181",
+   "text": "On the eighth day before the Kalends of May. On the feast of Saint George, martyr. Reading of the book of Wisdom. Honour and glory are in the speech of the sensible man, as far as according to him will be his conduct. Gospel according to Matthew, chapter XCV. Jesus said to his disciples, Nothing is covered that will not be revealed, as far as before my Father who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.182",
+   "text": "Monday of the week after Easter. Reading of the Acts of the Apostles. In those days Peter recounted how the Lord had brought him out of prison, as far as marvelling at the teaching of the Lord. Gospel according to Luke, chapter CCXLII. The chief priests and the scribes sought to lay hands on Jesus, as far as they marvelled at his answers."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.183",
+   "text": "On the fifth day before the Kalends of May. On the feast of Saint Richarius, confessor, at Centula. Reading of the book of Wisdom. Son, from your youth receive instruction, as far as and you will put on yourself a crown of rejoicing. Gospel (according to) John, chapter LII. On the next day the crowd that stood across the sea, as far as that you believe in him whom he has sent."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.184",
+   "text": "Tuesday of the first week after the Octave of Easter. Reading of the Acts of the Apostles. In those days a certain distinguished man, weak in his feet, as far as and they stayed no little time with his disciples. Gospel according to John, chapter CXXXII. Jesus said to his disciples, I am the true vine, as far as that your joy may be full."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.185",
+   "text": "Wednesday of the week above. Reading of the epistle of blessed Peter the apostle. Dearly beloved, knowing that you were redeemed not with corruptible silver or gold, as far as but the word of the Lord remains for ever. Gospel according to Luke, chapter CCCXXXVI. Now on the first day of the week, very early in the morning, as far as and he went away, wondering to himself at what had happened."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.186",
+   "text": "Thursday of the week above. Reading of the Acts of the Apostles. In those days certain men coming down from Judaea, as far as in the synagogues, where he is read every sabbath. Look for the Gospel that was [read] on the Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.187",
+   "text": "Friday of the week above. Reading of the Acts of the Apostles. In those days it seemed good to the apostles and elders, as far as to speak the word of God in Asia. Gospel according to Matthew, chapter LXXIII. The disciples of John came to Jesus, as far as and both are preserved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.188",
+   "text": "Saturday of the week above."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.190",
+   "text": "On the third day before the Kalends of May. Feast of Saint Theodora, virgin, and of Saint Vitalis. Reading of the book of Wisdom. Honour God with your whole soul, as far as for they could not love except what pleases themselves. Gospel according to Matthew, chapter CXL. Jesus said to his disciples, The kingdom of heaven is like a treasure hidden, as far as new things and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.191",
+   "text": "Second Sunday after the Octave of Easter. Reading of the epistle of blessed Peter the apostle. Dearly beloved, I beseech [you] as strangers and pilgrims, as far as for this is grace in Christ Jesus our Lord. Gospel according to John, (chapter) CXLVIII. Jesus said to his disciples, A little while and you will not see me, as far as no one will take your joy from you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.192",
+   "text": "III. Pascha annotina [anniversary of Easter]. Gospel according to John, chapter XXIV. There was a man of the Pharisees named [Nicodemus], as far as but may have eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.193",
+   "text": "Kalends of May. Feast of Saints Philip and James. At Amiens, of Accius and Acciolus. Reading of the book of Wisdom. The just will stand with great constancy, as far as their lot is among the saints. Gospel according to John, chapter CXXVII. Jesus said to his disciples, Let not your heart be troubled; you believe in God, as far as in my name I will do this."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.194",
+   "text": "Reading of the book of Wisdom. Let just men be your guests, as far as of the honoured and the poor. Gospel according to Luke, chapter CCLVIII? Jesus said to his disciples, When you hear of battles, as far as in your patience [you will possess] your souls."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.195",
+   "text": "Monday of the week above. Reading of the Acts of the Apostles. In those days, when the apostles had come into Mysia, as far as you will be saved, and your house. Gospel that was [read] on the nearest Sunday. 5th day before the Nones of May. Finding of the Holy Cross. Reading of the Epistle of blessed Paul the apostle to the Galatians. Brothers, I am confident of you in the Lord that you will think nothing else, as far as the world is crucified to me, and I to the world. Gospel that is read at Pascha annotina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.196",
+   "text": "Wednesday of the week above. Reading of the Acts of the Apostles. In those days the apostles spoke the word of the Lord to the keeper of the prison with all who were in his house, as far as not a few noble women. Gospel as on the Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.197",
+   "text": "Thursday of the week above. Reading of the Acts of the Apostles. In those days the Jews, jealous of the apostles, and taking certain men of the people, as far as either to tell or to hear something new. Gospel according to John, chapter CXXV. Jesus said to his disciples, Little children, yet a little while I am with you, as far as but you shall follow afterwards."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.198",
+   "text": "Friday of the week above. Reading of the Acts of the Apostles. But Paul, standing in the midst of the Areopagus, said, as far as teaching the word of God among them. Gospel as on the Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.199",
+   "text": "Saturday of the week above. Reading of the Acts of the Apostles. In those days the Jews rose up with one mind against Paul, as far as the evil spirit went out. Gospel as on the Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.200",
+   "text": "Third Sunday after the Octave of Easter. Reading of the Epistle of blessed James the apostle. Dearly beloved, every best gift, as far as which is able to save your souls. Gospel according to John, chapter CXLVII. Jesus said to his disciples, I go to him who sent me, as far as he will announce to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.201",
+   "text": "2nd day before the Nones of May. Feast of Saint Matthew the apostle. Reading of the book of Wisdom. The blessing of God hastens to the reward of the just, as far as [if] you become companion to one richer than you. Gospel according to John, chapter CXXXV. Jesus said to his disciples, This is my commandment, that you love one another, as far as in my name he may give you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.202",
+   "text": "Nones of May. Feast of Saints Alexander, Eventius, and Theodulus. Reading of the book of Wisdom. Blessed is the man who has not slipped by a word, as far as he will be honoured in it. Gospel according to Matthew, chapter LXXXVI. Jesus said to his disciples, Behold, I send you, as far as he will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.203",
+   "text": "Tuesday of the week above. Reading of the Epistle of blessed Paul the apostle to the Thessalonians. Brothers, for you are all children of light and children of the day, as far as and build one another up in Christ Jesus our Lord. Gospel according to Mark, chapter CCXXXIII. But Jesus, rising early on the first day of the week, as far as they told the rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.204",
+   "text": "Thursday of the week above. Reading of the Acts of the Apostles. In those days there arose no small disturbance concerning the Way, as far as when he had said these things, he dismissed the assembly. Gospel as on the Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.205",
+   "text": "At Rome, feast of Saint Gordian. Reading of the book of Wisdom. God hates every mystery of error, as far as in truth I announce his knowledge in judgement. Gospel according to Matthew, chapter XCV. Jesus said to his disciples, Do not think that I came to send peace, as far as will not lose his reward."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.206",
+   "text": "Saturday of the week above. Reading of the Acts of the Apostles. In those days, after the tumult had ceased, as far as they escorted him to the ship. Gospel according to John, chapter XLVI. Jesus went across the sea of Galilee, as far as he sat there with his disciples."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.207",
+   "text": "Fourth Sunday after the Octave of Easter. Reading of the Epistle of blessed James the apostle. Dearly beloved, be doers of the word, as far as to keep oneself from this world. Gospel according to John, chapter CL. Jesus said to his disciples, Amen, amen I say to you, if you ask the Father anything, as far as by this we believe that you came forth from God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.208",
+   "text": "At the Greater Litany. Reading of the Epistle of blessed James the apostle. Confess your sins to one another, as far as and covers a multitude of sins. Gospel according to Luke, chapter CXXIV. Jesus said to his disciples, Which of you has a friend, as far as to those who ask him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.209",
+   "text": "On the vigil of the Ascension of the Lord. Reading of the Acts of the Apostles. In those days, of the multitude of believers, as far as according as each had need. Gospel according to John, chapter CLIV. Jesus, lifting up his eyes to heaven, as far as and I am coming to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.210",
+   "text": "On [the day of] the Ascension of the Lord. Reading of the Acts of the Apostles. The first account I made, as far as going into heaven. Gospel according to Mark, chapter CCXXXIII. As the eleven disciples were reclining at table, as far as with the signs that followed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.211",
+   "text": "Sunday after the Ascension of the Lord. Reading of the Epistle of blessed Peter the apostle. Dearly beloved, be prudent, as far as God may be honoured through Jesus Christ the Lord. Gospel according to John, chapter CXLV. Jesus said to his disciples, But when the Paraclete comes, as far as you may remember that I told you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.212",
+   "text": "4th day before the Ides of May. At Rome, feast of Saints Nereus and Achilleus, of Pancras the martyr, and of Soteris the virgin, with 603 others. Reading of the book of Wisdom. The living soul of man, as far as but the mercy of God [is] upon all flesh. Gospel according to Matthew, chapter CLXXXIX. The Pharisees came to Jesus, as far as but to whom it is given."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.213",
+   "text": "3rd day before the Ides of May. At Maastricht, deposition of Saint Servatius, bishop and confessor. Reading of the book of Wisdom. He who has mercy teaches and instructs, as far as and in it to fear God. Gospel according to John, chapter CXXXVIII. Jesus said to his disciples, These things I command you, as far as who hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.214",
+   "text": "2nd day before the Ides of May. Feast of Saint Cyriacus the martyr and the 304 who suffered with him at Milan. Reading of the book of Wisdom. In all wisdom is the ordering of the law, as far as the prudent man will please the great. Gospel according to John, chapter CXXXVIII. Jesus said to his disciples, These things I command you, as far as they hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.215",
+   "text": "Wednesday? of the week above. Reading of the Acts of the Apostles. In those days, when we were staying for some days, as far as he spoke to them in the Hebrew tongue. Gospel according to John, chapter XXV. Jesus went with his disciples, as far as my joy is fulfilled."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.216",
+   "text": "Friday of the week above. Reading of the Acts of the Apostles. In those days Paul the apostle spoke, saying, Men, brothers and fathers, listen, as far as set Paul among them. Gospel according to John, chapter CXXXIV. Jesus said to his disciples, If you abide in me, as far as your joy is fulfilled."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.217",
+   "text": "Saturday of the week above. Reading of the Acts of the Apostles. In those days, Paul, looking intently at the council, as far as that they may speak before you. Gospel according to John, chapter XLVI. Jesus went across the sea of Galilee, as far as and sat there with his disciples."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.218",
+   "text": "On the vigil of Pentecost. Reading of the book of Genesis. In those days God tested Abraham. Second reading, of the book of Deuteronomy. In those days Moses wrote. Third reading, of the book of Isaiah the prophet. In those days seven women will take hold. Fourth reading, of Jeremiah the prophet. Hear, Israel, the commandments of life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.219",
+   "text": "At Mass on the same Saturday. Reading of the Acts of the Apostles. In those days, while Apollos was at Corinth, as far as persuading concerning the kingdom of God. Gospel according to John, chapter CXXVIII. Jesus said to his disciples, If you love me, as far as and I will manifest myself to him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.220",
+   "text": "Sunday of Pentecost. Reading of the Acts of the Apostles. In those days, when the days of Pentecost were fulfilled, as far as the great works of God. Gospel according to John, chapter CXXX. Jesus said to his disciples, If anyone loves me, as far as as the Father gave me commandment, so I do."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.221",
+   "text": "Monday. At [Saint Peter] in Chains, of the week above. Reading of the Acts of the Apostles. In those days Peter, opening his mouth, said, as far as in the name of our Lord Jesus Christ. Gospel according to John, chapter XXIV. Jesus said to his disciples, For God so loved the world, as far as the works which are done in God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.222",
+   "text": "Tuesday. At Saint Anastasia. Reading of the Acts of the Apostles. In those days, when the apostles who were at Jerusalem had heard, as far as they received the Holy Spirit. Gospel according to John, chapter LXXXIX. Jesus said to his disciples, Amen, amen I say to you, He who does not enter by the door, as far as may have it more abundantly."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.223",
+   "text": "Wednesday. At Saint Mary. Reading of the Acts of the Apostles. In those days Peter, standing with the eleven, as far as whoever calls on the name of the Lord will be saved. Gospel according to John, chapter LX. Jesus said to his disciples, No one can come to me, as far as for the life of the world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.224",
+   "text": "Thursday. At the Apostles. Reading of the Acts of the Apostles. In those days Philip, going down into the city of Samaria, as far as joy in that city. Gospel according to Luke, chapter LXXXVI. Jesus, having called together his twelve disciples, as far as healing everywhere."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.225",
+   "text": "Friday. Reading of the Acts of the Apostles. In those days Peter, opening his mouth, said, Men of Israel, hear these words, as far as you will fill me with gladness with your countenance. Gospel according to Luke, chapter XXXVI. It happened on one of the days, as far as for we have seen wonderful things today."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.226",
+   "text": "Saturday. At Saint Stephen. Reading of the Acts of the Apostles. In those days the whole city came together, as far as they were filled with joy and the Holy Spirit. Gospel according to Luke, chapter XXVI. Jesus, rising from the synagogue, as far as I must preach the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.227",
+   "text": "Sunday of the Octave of Pentecost. Reading of the book of the Apocalypse of John the apostle. In those days I saw a door opened in heaven, as far as they will worship the one who lives for ever and ever. Amen. Gospel according to John, chapter XXIV. There was a man of the Pharisees, Nicodemus, as far as but may have eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.228",
+   "text": "On the 14th day before the Kalends of June. Feast of Saint Pudentiana. Reading of the book of Wisdom. I will confess to you, Lord King, as far as free them from the hand of those who hate [them], Lord our God. Gospel according to Matthew, chapter CXL. Jesus told his disciples this parable: The kingdom of heaven is like a treasure hidden, as far as new and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.229",
+   "text": "On the 13th day before the Kalends of June. At Rome, feast of Saints Gervasius and Protasius. Reading of the book of Wisdom. The expectation of the just is gladness, as far as the city will be exalted. Gospel according to Matthew, chapter CLXXXIX. The Pharisees came to Jesus, as far as not all accept this word, but those to whom it is given."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.230",
+   "text": "Wednesday of the first week after Pentecost. Reading of the Epistle of the blessed Paul the apostle to the Corinthians. Brothers, now if Christ is preached, that he rose from the dead, as far as in his own order, through Jesus Christ our Lord. Gospel according to Luke, chapter CCXLIII. Some of the Sadducees came to Jesus, as far as they did not dare to ask him anything."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.231",
+   "text": "On the 11th day before the Kalends of June. In Corsica, the passion of Saint Julia, virgin. Reading of the book of Wisdom. Lord, my God, you have exalted my dwelling above the earth, as far as and I will bless your name, Lord our God. Gospel according to Matthew, chapter CCLXVIII. Jesus said to his disciples: The kingdom of heaven is like ten virgins, as far as watch therefore, for you know neither the day nor the hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.232",
+   "text": "Thursday of the week above. Reading of the Acts of the Apostles. In those days the soldiers, according to the order [given] them, as far as to Caesar you shall go. Gospel according to Luke, chapter CILVIII. Jesus said to his disciples: But when they bring you into the synagogues, as far as so is he who lays up treasure for himself and is not rich in God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.233",
+   "text": "Saturday of the week above. Reading of the Acts of the Apostles. In those days, when some days had passed, [as far as] he is to proclaim light to the people and to the Gentiles. Gospel according to Luke, chapter XCIII. The disciples, coming to John (Jesus), as far as and they were filled."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.234",
+   "text": "Second week after Pentecost. Reading of the Epistle of the blessed John the apostle. Dearly beloved, God is love, as far as he should love his brother also. Gospel according to Luke, chapter CXCIII. There was a certain rich man, and he was clothed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.235",
+   "text": "On the 8th day before the Kalends of June. Feast of Saint Urban, bishop and confessor. Reading of the book of Wisdom. The Lord gave praise to his holy one, as far as among the blessed he will be blessed. Gospel according to Matthew, chapter CCLXIII. Jesus said to his disciples: Watch therefore, as far as he will set him over all his goods."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.236",
+   "text": "Tuesday of the week above. Reading of the Acts of the Apostles. In those days, as Paul the apostle was speaking and making his defence, as far as and they let it fall away. Gospel according to John, chapter CLUn. Jesus, looking at his disciples, said, as far as but that you keep them from evil."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.237",
+   "text": "Wednesday of the week above. Reading of the Epistle of the blessed Paul the apostle to the Colossians. Brothers, put to death your members which are upon the earth, as far as and Christ in all. Gospel according to Matthew, chapter XXIII. Jesus said to his disciples: Do not think that I have come to abolish the law, as far as he will be called great in the kingdom of heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.238",
+   "text": "On the 5th day before the Kalends of June. At Paris, the deposition of Saint Germanus, bishop and confessor, and the translation of the body of Saint Gentianus, martyr of the people of Amiens. Reading of the book of Wisdom. He who keeps justice will hold fast its meaning, as far as abides always in the commandments of God. Gospel according to John, chapter CXXXIX. Jesus said to his disciples: This is my commandment, as far as whatever you ask the Father in my name he may give you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.239",
+   "text": "On the 4th day before the Kalends of June. At Trier, the deposition of Saint Maximus, bishop. Reading of the book of Wisdom. Lord, father and ruler of my life, as far as looking into hidden parts. Gospel according to Matthew, chapter CCLXIII. Jesus said to his disciples: Watch therefore, as far as he will set him over all his goods."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.240",
+   "text": "On the 3rd day before the Kalends of June. Feast of Saint Petronilla. Reading of the book of Wisdom. But to the Lord God all things were known before they were created, as far as and in my elect a thousand roots. Gospel according to Matthew, chapter CXL. Jesus said to his disciples: The kingdom of heaven is like a treasure hidden, as far as new and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.241",
+   "text": "Third week after Pentecost. Reading of the Epistle of the blessed John the apostle. Dearly beloved, do not wonder if the world hates you, as far as but in deed and in truth. Gospel according to Matthew, chapter XXXV. Jesus said to his disciples: Unless your justice abounds, as far as and then coming you shall offer your gift."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.242",
+   "text": "Monday of the week above. Reading of the Acts of the Apostles. In those days, when light began to dawn, as far as they put on board the things that were needed. Gospel according to Luke, chapter XCVI. Jesus said to his disciples: There was a certain rich man, and he was clothed in purple, as far as neither will they believe if someone rises from the dead."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.243",
+   "text": "Tuesday of the week above. Reading of the Acts of the Apostles. In those days, after [three] months, we sailed in an Alexandrian ship, as far as this is Jesus Christ the Son of God, through whom the whole world will begin to be judged. Gospel according to Luke, chapter CXCVII. Jesus said to his disciples: It is impossible that scandals should not come, as far as we have done what we ought to do."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.244",
+   "text": "On the 4th day before the Nones of June. At Rome, feast of Saints Marcellinus and Peter the exorcist, with forty-two others. Reading of the book of Wisdom. The souls of the just are in the hand of God, as far as their Lord will reign for ever. Gospel according to Luke, chapter CCXLVIII. Jesus said to his disciples: When you hear of battles, as far as in your patience you will possess your souls."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.245",
+   "text": "On the 3rd day before the Nones of June. At Orléans, the deposition of Saint Liphardus, priest. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, many were made priests, as far as by once offering himself, our Lord Jesus Christ. Gospel according to Matthew, chapter CCLXIX. Jesus told his disciples this parable: A certain man setting out on a journey abroad, as far as enter into the joy of your lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.246",
+   "text": "Friday of the week above. Reading of the book of the Apocalypse of John the apostle. In those days John the apostle spoke, saying: Blessed is he who reads and who hears the words of this prophecy, as far as the deeds of the Nicolaitans, which I also hate. He who has an ear, as far as in the paradise of the Lord my God. Gospel according to Luke, chapter CLXXXI. Jesus told this parable: A certain man made a great supper, as far as shall taste my supper."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.247",
+   "text": "Saturday of the week above. Reading of the book of the Apocalypse of John the apostle. In those days the Lord said: To the angel of the Church of Smyrna write, as far as before my Father and before his angels, as far as he who has an ear, let him hear what the Spirit says to the Churches. Gospel according to Matthew, chapter CCV. As Jesus was going out from Jericho, as far as they followed him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.248",
+   "text": "Fourth week after Pentecost. Reading of the Epistle of the blessed Paul the apostle. Dearly beloved, humble yourselves under the mighty hand of God, as far as to him be glory and dominion for ever and ever. Gospel according to Luke, chapter CLIXXVI. The tax collectors were drawing near to Jesus, as far as doing penance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.249",
+   "text": "Monday of the week above. Reading of the book of the Apocalypse of John the apostle. In those days the Lord said: To the angel of the Church of Philadelphia write, as far as I sat with my Father on his throne, and the rest. The Gospel that was on the Sunday of the same week."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.250",
+   "text": "Tuesday of the week above. Reading of the book of the Apocalypse of John the apostle. In those days the four living creatures, casting their crowns before the throne, saying: Worthy are you, Lord, as far as who will be able to stand. The Gospel that [was] on the Sunday of the same week."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.ab2",
+   "text": "Here begin the readings of the fourth month."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.251",
+   "text": "Wednesday. At Saint Mary. Reading of the book of Wisdom. Love justice, you who judge, as far as and that which contains all things has knowledge of the voice. Likewise another. Reading of Isaiah the prophet. Thus says the Lord: Hear, Jacob, my servant, upon your offspring, as far as says the Lord almighty. Gospel according to Luke, chapter XCIII. The disciples, coming to Jesus, as far as they were filled."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.252",
+   "text": "Thursday of the week above. Reading of the book of the Apocalypse of John the apostle. In those days I saw four angels standing upon the corners of the earth, as far as God will wipe away every tear from their eyes. The Gospel that [was] on the Sunday of the same week."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.253",
+   "text": "Friday. Reading of Joel the prophet. Thus said the Lord God: Rejoice, sons of Zion, as far as my people for ever, says the Lord almighty. Gospel according to Luke, chapter CLXXXVI....."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.254",
+   "text": "Saturday of the twelve readings. At Saint Peter. Reading of Joel the prophet. Thus says the Lord God: I will pour out of my spirit upon all flesh, as far as everyone who calls on the name of the Lord will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.255",
+   "text": "Likewise at the same place. Reading of the book of Leviticus. In those days the Lord spoke to Moses, saying: Speak to the sons of Israel, and you shall say to them: When you have entered the land, as far as in all your dwellings and generations, says the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.256",
+   "text": "Likewise at the same place. Reading of the book of Deuteronomy. In those days Moses said: Hear, Israel, what I command you today, as far as the Lord your God shall have given you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.257",
+   "text": "Likewise at the same place. Reading of the book of Leviticus. In those days the Lord said to Moses: If you walk in my precepts, as far as you will be my people, says the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.258",
+   "text": "Likewise at the same place. Here Daniel the prophet is read. Reading of the Epistle of the blessed Paul the apostle to the Romans. Brothers, justified by faith, let us have peace with God, as far as through the Holy Spirit who has been given to us. Gospel according to Matthew, chapter 205: As Jesus was going out from Jericho, as far as they followed him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.259",
+   "text": "Fifth week after Pentecost. Reading of the Epistle of the blessed Paul the apostle to the Romans. Brothers, for I consider that the sufferings are not worthy, as far as awaiting the redemption of our body in Christ Jesus our Lord. Gospel according to Luke, chapter 56: Jesus said to his disciples: Be therefore merciful, as far as the speck from your brother's eye."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.260",
+   "text": "Fifth day before the Ides of June. Feast of Saints Primus and Felician. Reading of the book of Wisdom. Come over to me, all you who desire me, as far as but the beginning of faith is fastened to it. Gospel according to John, chapter 134: This is my commandment, as far as in my name, he may give [it] to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.261",
+   "text": "Ninth day before the Kalends of July. Vigil of Saint John the Baptist. Reading of Jeremiah the prophet. In those days the word of the Lord came to me, saying, as far as that you may build and plant, says the Lord almighty. Gospel according to Luke, chapter 1: There was in the days of Herod, king of Judaea, as far as a people made perfect."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.262",
+   "text": "Likewise on the day, the eighth before the Kalends of July. Reading of Isaiah the prophet. Thus says the Lord: Hear, you islands, as far as and the Holy One of Israel, who has chosen you. Gospel according to Luke, chapter (3): At that time, now Elizabeth's time to give birth was fulfilled, as far as the redemption of your people."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.263",
+   "text": "Tuesday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days, when he had opened the seventh seal, as far as nor of their thefts. Gospel according to Matthew, chapter (36): Jesus said to his disciples: Agree with your adversary, as far as that your whole body go into Gehenna."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.264",
+   "text": "Seventh day before the Kalends of July. Vigil of John and Paul. Likewise on the day. Look up the epistle and Gospel that is among those of other saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.265",
+   "text": "Wednesday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days I saw another mighty angel coming down from heaven, as far as they gave glory to the God of heaven. Gospel according to Luke, chapter 186: Tax-collectors and sinners were drawing near to Jesus, as far as doing penance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.266",
+   "text": "Second day before the Ides of July. On the feast of Saints Basilides, Nabor, and Nazarius. Reading of the book of Wisdom. The fear of the Lord is the beginning of love, as far as beauty for the adornment of his house. Gospel according to John, chapter 24: There was a man of the Pharisees, as far as may have eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.267",
+   "text": "Friday of the week mentioned above. Reading of the Epistle of the blessed Apostle to the Colossians. Brothers, whatever you do in word or in deed, as far as the reward of the inheritance through Jesus Christ our Lord. Gospel according to Mark, chapter 120: When Jesus had entered Jerusalem into the temple, as far as whatever he says will happen, it will be done for him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.268",
+   "text": "Saturday of the week above, eighteenth day before the Kalends of July. On the feast of Saint Felicula. Reading of the book of Wisdom. A lamp shining upon the holy lampstand, as far as he who sets a snare for another will perish in it. Gospel according to Matthew, chapter 140: Jesus told his disciples this parable: The kingdom of heaven is like a treasure hidden, as far as new and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.269",
+   "text": "Sixth week after Pentecost. Reading of the epistle of the blessed Peter the apostle. Dearly beloved, be all of one mind in prayer, as far as but sanctify the Lord Christ in your hearts. Gospel according to Luke, chapter 29: When the crowds pressed upon Jesus, as far as having left everything, they followed him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.270",
+   "text": "Fourteenth day before the Kalends of July. Feast of Saints Mark and Marcellian and of Saint Marina, virgin. Reading of the book of Wisdom. The tongue of the wise adorns knowledge, as far as he who pursues justice is loved by the Lord. Gospel according to John, chapter 134: Jesus said to his disciples: This is my commandment, as far as in my name, he may give [it] to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.271",
+   "text": "Thirteenth day before the Kalends of July. Feast of Saints Gervasius and Protasius, Nazarius and Celsus, the boy. Reading of the book of Wisdom. Those who fear the Lord will not be unbelieving, as far as to the regard of him, the Lord our God. Gospel according to Luke, chapter (154): Jesus said to his disciples: Let your loins be girded, as far as over all that he possesses he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.272",
+   "text": "Fourth day before the Kalends of July. Vigil of the apostles Peter and Paul. Reading of the Acts of the Apostles. In those days Peter and John were going up into the temple, as far as at what had happened to him. Gospel according to John, chapter 227: At that time Jesus said to Peter: Simon, son of John, do you love me, as far as he was to glorify God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.273",
+   "text": "Likewise on the day, the third before the Kalends of July. Reading of the Acts of the Apostles. In those days King Herod laid hands, as far as of the people of the Jews. Gospel according to Matthew, chapter (166): Jesus came into the region of Caesarea Philippi, as far as will be loosed in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.274",
+   "text": "On the same day, the vigil of Saint Paul. Reading of the Epistle of the blessed Paul the apostle to the Galatians. Brothers, I make known to you the Gospel. Gospel: that of the vigil of Saint Peter."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.275",
+   "text": "Likewise on the day. Reading of the Acts of the Apostles. In those days Saul, still breathing threats, as far as affirming that this is the Christ. Gospel according to Matthew, chapter 195: Simon Peter said to Jesus: Behold, we have left everything and followed you, as far as will possess eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.276",
+   "text": "Wednesday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Colossians. Brothers, clothe yourselves as the elect of God, as far as giving thanks to God and the Father through Jesus Christ our Lord. Gospel according to Luke, chapter 93: The disciples, coming to Jesus, said to him, as far as they were filled."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.ab3",
+   "text": "Look up in the twelve readings."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.277",
+   "text": "Thursday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days the seventh angel sounded the trumpet, as far as here is the patience and end of the saints. Gospel according to Luke, chapter 186: Tax-collectors were drawing near to Jesus, as far as doing penance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.278",
+   "text": "Friday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days I saw a beast rising from the earth, as far as for their works follow them. Gospel according to Luke, chapter 185: There came to Jesus a man whose name was Jairus, as far as your faith has saved you; go in peace."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.ab4",
+   "text": "Look up the twelve readings on the Saturday of the month of June."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.279",
+   "text": "Saturday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days I saw a white cloud, and upon the cloud, as far as true and just are your judgments. Gospel according to Matthew, chapter [...]: A certain man, coming to Jesus, said to him, as far as come, follow me."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.280",
+   "text": "Sunday after the feast of the apostles. Gospel according to Matthew, chapter (56): Beware of false prophets, as far as will enter the kingdom of heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.281",
+   "text": "On the Ides of July. Feast of Saint Cyriacus. Reading of the book of Wisdom. Watchfulness over virtue wastes the flesh, as far as the Church of the saints will declare. Gospel according to Luke, chapter 270: A dispute arose among the disciples, as far as the tribes of Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.282",
+   "text": "Fifteenth day before the Kalends of August. At Metz, deposition of Saint Arnulf, confessor. Reading of the book of Wisdom. Hear me, son, and do not despise me, as far as do not press it by repeating. Gospel according to Mark, chapter 137: As Jesus was going out of the temple, as far as to the end, he will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.283",
+   "text": "Wednesday of the week mentioned above. Reading of the Apocalypse of John the apostle. In those days the fourth angel poured out his bowl upon the sun, as far as he carried me away into the desert in the spirit. Gospel according to Luke, chapter 83: When Jesus had gone out of the boat, as far as how much God had done for him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.284",
+   "text": "Twelfth day before the Kalends of August. Feast of Saint Praxedis. Reading of the book of Wisdom. Have they made you ruler? Do not be lifted up, as far as is seized by persecutions. Gospel according to Matthew, chapter 152: Jesus told his disciples this parable: The kingdom of heaven is like a treasure hidden in a field, as far as new and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.285",
+   "text": "Friday of the week mentioned above. Reading of the Apocalypse of John the apostle. In those days I saw a woman sitting upon a scarlet beast, as far as which holds kingship over the kings of the earth. Gospel according to Luke, chapter 196: Jesus told his disciples this parable: There was a certain rich man, as far as not even if someone rises from the dead will they believe."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.286",
+   "text": "Tenth day before the Kalends of August. Feast of Saint Apollinaris. Reading of the book of Wisdom. Son, do nothing without counsel, as far as and from the earth from which Adam was created. Gospel according to (Luke), chapter 269: A dispute arose among the disciples, as far as the tribes of Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.287",
+   "text": "Fourth Sunday after the feast of the apostles. Reading of the Epistle of the blessed Paul the apostle to the Romans. Brothers, there is now no condemnation for those who are in Christ Jesus, as far as life and peace in Christ Jesus our Lord. Gospel according to Luke, chapter 190: Jesus told his disciples this parable: There was a certain rich man who had a steward, as far as the eternal dwellings."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.288",
+   "text": "Eighth day before the Kalends of August. Feast of Saints James the apostle and Christopher the martyr. And at Amiens, the translation of Saint Firmin. Reading of the book of Wisdom. Mockery and reproach of the proud, as far as who have perished through their tongue. Gospel according to Luke, chapter 154: Jesus said to his disciples, Let your loins be girded, as far as the Son of Man comes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.289",
+   "text": "Fourth day before the Kalends of August. Feast of Saints Felix, Simplicius, Faustinus and Beatrice. At Troyes, the deposition of Saint Lupus, bishop and confessor. Reading of the book of Wisdom. Blessed is he who is sheltered from a wicked tongue, as far as and they will profit you more than gold. Gospel according to Luke, chapter 249: When you hear of battles, as far as you will possess your souls."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.290",
+   "text": "Wednesday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days I saw another angel coming down from heaven, having great power, as far as God has judged your judgement. The Gospel as on the Sunday of that week."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.291",
+   "text": "Third day before the Kalends of August. Feast of Saints Abdon and Sennen. Reading of the book of Wisdom. He who loves his son lashes him often, as far as the treasure of holiness will not fail in a man's life. Gospel according to John, chapter 134: This is my commandment, as far as they hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.292",
+   "text": "Friday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days a mighty angel took up a stone, as far as for the testimony of Jesus is the spirit of prophecy. Gospel according to Luke, chapter 166: But the ruler of the synagogue, answering indignantly, as far as which were gloriously done by him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.293",
+   "text": "Saturday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days I saw heaven opened, and behold a white horse, as far as were filled with their flesh. Gospel according to Matthew, chapter 147: When evening came his disciples came to Jesus, as far as about five thousand men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.294",
+   "text": "Fifth Sunday after the feast of the apostles. Reading of the Epistle of the blessed Paul the apostle to the Romans. Brothers, we are debtors, not to the flesh, as far as and fellow heirs of Christ. Gospel according to Luke, chapter 121: A certain lawyer stood up, as far as and you, do likewise."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.295",
+   "text": "On the Kalends of August. The Passion of the seven Maccabee brothers and of Saint Felicity under Antiochus. Reading of the book of Wisdom. In the abundance of the Lord's teaching, as far as distribute your inheritance. Likewise, a reading of the book of Wisdom. Who will find a strong woman? Far off, as far as and let her works praise her in the gates. Gospel according to Matthew, chapter 148: Jesus made his disciples get into the boat, as far as truly you are the Son of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.296",
+   "text": "Second day before the Nones of August. At Rome, the feast of Saint Stephen, pontiff. Reading of the book of Wisdom. The spirit of those who fear the Lord is sought, as far as to depart from injustice is the putting away of sins. Gospel according to Luke, chapter 228: Jesus told his disciples this parable: A certain nobleman went into a far country, as far as to everyone who has, it will be given, and he will abound."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.297",
+   "text": "Thursday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days I saw an angel coming down from heaven having the key, as far as day and night for ever and ever. Gospel according to Luke, chapter 99: As Jesus came down from the mountain with his disciples, as far as he gave him back to his mother."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.298",
+   "text": "Friday of the week mentioned above. Reading of the book of the Apocalypse of John the apostle. In those days there came one of the seven angels who had the bowls, as far as and they will reign for ever and ever. The Gospel as on the Sunday of that week."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.299",
+   "text": "Eighth day before the Ides of August. At Rome, the feast of Saints Sixtus, Felicissimus and Agapitus. Reading of the book of Wisdom. He who offers fine flour repays a kindness, as far as he will delight the just with his mercy. Gospel according to (Matthew), chapter 86: Jesus said to his disciples, Behold, I send you, as far as [whoever endures] to the end will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.300",
+   "text": "Sunday [...] (Reading of the Epistle of the blessed Paul the apostle to the Corinthians.) Brothers, not all flesh is the same flesh, as far as then what is spiritual. Gospel according to Luke, chapter 214: Jesus said to some who trusted in themselves, as far as he who humbles himself will be exalted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.301",
+   "text": "Sixth day before the Ides of August. At Rome, the feast of Saint Cyriacus. Reading of the book of Wisdom. The mercy of God is beautiful in the time of affliction, as far as and you will give them their inheritance as from the beginning. Gospel according to Matthew, chapter 192: Jesus said to his disciples, Nothing is covered that will not be revealed, as far as before my Father who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.302",
+   "text": "Fifth day before the Ides of August. Vigil of Saint Lawrence. Reading of the book of Wisdom. I will give praise to you, O Lord, [my] King, as far as from the hands of distress. Gospel according to Matthew, chapter 160: Jesus said to his disciples, If anyone wishes to come after me, as far as in his kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.303",
+   "text": "Likewise on the day [itself], the fourth day before the Ides of August. Reading of the Epistle of the blessed Paul the apostle to the Corinthians. Brothers, he who sows sparingly, as far as the fruits of your righteousness. Gospel according to John, chapter 104: Jesus said to his disciples, Unless a grain of wheat, as far as my Father who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.304",
+   "text": "Third day before the Ides of August. At Rome, the feast of Saints Tiburtius, Valerian, Cecilia, Susanna and Cassian. And at Cambrai, the deposition of Saint Gaugericus. Reading of the book of the Apocalypse of John the apostle. In those days I saw a door opened in heaven, as far as strength to our God for ever and ever. Amen."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.305",
+   "text": "Likewise, a reading of the book of Wisdom. The just will stand with great steadfastness, as far as their lot is among the saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.306",
+   "text": "Likewise, a reading of the book of Wisdom. God will render the reward, as far as they praised together, O Lord our God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.307",
+   "text": "Gospel according to John, chapter 134: Jesus said to his disciples, This is my commandment, as far as in my name he may give it to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.308",
+   "text": "Likewise, Gospel according to Matthew, chapter 140: Jesus told his disciples this parable: The kingdom of heaven is like a treasure hidden, as far as new things and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.309",
+   "text": "Second day before the Ides of August. Feast of Saint Euplus. In those days. Reading of the book of Wisdom. Have mercy on your people, upon whom [your name] has been invoked, as far as a help that is suited to him, and a pillar of rest. Gospel according to John, chapter 149: Jesus said to the disciples, Amen, amen I say to you that you will weep, as far as and no one will take your joy from you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.310",
+   "text": "Second Sunday after Saint Lawrence. Reading of the Epistle of the blessed Paul the apostle to the Corinthians. Brothers, for we know that if our earthly, as far as that we are made manifest through Jesus Christ our Lord. Gospel according to Mark, chapter 74: Jesus, going out from the region of Tyre, as far as and the dumb to speak."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.311",
+   "text": "On the Ides of August. Feast of Saint Hippolytus. Reading of the book of Wisdom. Every friend will say, I too have formed a friendship, as far as is sweet to his soul. Gospel according to Luke, chapter 144: Jesus said to his disciples, Beware of the leaven, as far as before the angels of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.312",
+   "text": "Nineteenth day before the Kalends of September. Feast of Saint Eusebius. Reading of the book of Wisdom. He who speaks sophistically, as far as for the peace of God is upon the face of the earth. Gospel according to Matthew, chapter 263: Jesus said to his disciples, Watch, because you do not know, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.313",
+   "text": "Eighteenth day before the Kalends of September. Assumption of Saint Mary, mother of the Lord. Reading of the book of Wisdom. Son, in your sickness, as far as and console him at the departing of his spirit. Gospel according to Luke, chapter 124: Jesus entered a certain village, as far as will not be taken from her."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.314",
+   "text": "Seventeenth day before the Kalends of September. Feast of Saint Leodegar. Reading of the book of Wisdom. Write wisdom in due time, as far as searching out in the law of the Most High. Gospel according to Luke, chapter 154: Jesus said to his disciples, Let your loins be girded, as far as the Son of Man comes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.315",
+   "text": "Friday. Reading of the book of the Apocalypse of John the apostle. In those days the angel said to me: These words are most faithful and true, as far as let whoever wishes take the water of life freely. Gospel according to Luke, chapter 74: A certain Pharisee asked Jesus, as far as because she loved much."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.316",
+   "text": "Saturday. Reading of the book of Kings. In those days David consulted the Lord, as far as [the] desert in Gibeon. The Gospel as on the Sunday of the same week."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.317",
+   "text": "Third Sunday after Saint Lawrence [...] Gospel according to Luke, chapter 120: Jesus said to his disciples, Blessed are the eyes that see, as far as you, do likewise."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.318",
+   "text": "Fifteenth day before the Kalends of September. Feast of Saint Agapitus. Reading of the book of Wisdom. The wisdom of all the ancients, as far as bless the Lord in his works. The Gospel as in [the common] of saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.319",
+   "text": "Fourteenth day before the Kalends of September. Apparition of the Holy Cross. And the feast of Saint Andrew, master of soldiers. Reading of the book of Wisdom. Give magnificence to the name of the Lord, as far as praise and bless the name of the Lord. Gospel according to John, chapter 24: There was a man of the Pharisees, as far as eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.320",
+   "text": "Thirteenth day before the Kalends of September. At Jumièges, the feast of Saint Philibert. Reading of the book of Wisdom. Great labour has been created, as far as they covered him above all glory. Gospel according to Luke, chapter 182: Jesus said to his disciples, If anyone comes to me, as far as he who has ears to hear, let him hear."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.321",
+   "text": "Thursday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, we must pay closer attention, as far as to help those who are tempted. Gospel according to Luke, chapter 26: Jesus, rising from the synagogue, as far as to preach the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.322",
+   "text": "Eleventh day before the Kalends of September. The feast of Saint Timothy. Reading of the book of Wisdom. Son, in the time of your life do not be in want, as far as but a good name will remain for ever. Gospel according to Luke, chapter 82: Jesus said to his disciples, If anyone comes to me, as far as he who has ears to hear, let him hear."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.323",
+   "text": "Saturday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Holy brothers, sharers in the heavenly calling, as far as if they shall enter into my rest. Gospel according to Matthew, chapter 117: The Pharisees went out and took counsel, as far as in his name they will hope."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.324",
+   "text": "Fourth Sunday after Saint Lawrence. Reading of the Epistle of the blessed Paul the apostle to the Galatians. Brothers [...]. Gospel according to Luke, chapter 201: As Jesus was going to Jerusalem, as far as your faith has saved you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.325",
+   "text": "Ninth day before the Kalends of September. In India, the feast of Saint Bartholomew the apostle. At Reims, [the feast] of Saint Aurea, virgin. And the deposition of Saint Audoen, bishop and confessor. Reading of the book of Wisdom. Keep instruction in peace, as far as in the sight of all men. Gospel according to Luke, chapter 156 [another reading: 157]: He who hears you, as far as are written in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.326",
+   "text": "Eighth day before the Kalends of September. At Arles, the feast of Saint Genesius, martyr. Reading of the book of Wisdom. The father's daughter is hidden, as far as seeing his glory. Gospel according to Mark, chapter 138: Jesus said to his disciples, See that no one leads you astray, as far as he will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.327",
+   "text": "Wednesday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, the works having been finished from the foundation of the world, as far as you have become feeble in hearing. Gospel according to Luke, chapter 169: As Jesus was going through the cities and villages, as far as they will recline at table in the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.328",
+   "text": "Thursday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, though by reason of the time you ought to be teachers, as far as the inner part behind the veil. Gospel according to Luke, chapter 149: Someone from the crowd said to Jesus, as far as and God feeds them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.329",
+   "text": "Fifth day before the Kalends of February [read: September]. At Rome, the feast of Saint Hermes. In Africa, the deposition of Saint Augustine. Reading of the book of Wisdom. The firmament of the height is its beauty, as far as to send forth judgement. Gospel according to Luke, chapter 45: Jesus, coming down from the mountain, stood in a place, as far as is plentiful in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.330",
+   "text": "Fourth day before the Kalends of September. In Campania, the feast of Saint Sabina, virgin. And the passion of Saint John the Baptist. Reading of the book of Wisdom. The treasures were opened, as far as he gave wisdom to those who act devoutly. Gospel according to Matthew, chapter 150: Jesus told his disciples this parable: The kingdom of heaven is like treasure hidden, as far as new and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.331",
+   "text": "Third day before the Kalends. Likewise for Saint John. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. The saints experienced mockery and scourging, as far as they were found approved in Christ Jesus our Lord. Gospel according to Matthew, chapter 59: Herod sent, as far as and they laid it in a tomb."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.332",
+   "text": "Fifth Sunday after Saint Lawrence. Reading of the Epistle of the blessed Paul the apostle to the Galatians. Brothers, walk by the spirit, as far as desires. Gospel according to Matthew, chapter 48: Jesus said to his disciples, No one can serve two masters, as far as will be added to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.333",
+   "text": "Monday of the week mentioned above. Reading of the Epistle of the blessed Paul to the Hebrews. Brothers, Jesus has entered as forerunner for us into the inner part behind the veil according to the order of Melchizedek, as far as of which no one attended at the altar. The Gospel as on the Sunday itself."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.334",
+   "text": "Tuesday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, it is evident that our Lord sprang from Judah, as far as which the Lord pitched, and not man. The Gospel as on the Sunday itself."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.335",
+   "text": "Kalends of September. At Amiens, the deposition of Saint Firmin, bishop and confessor. Reading of the book of Wisdom. Let us praise glorious men, as far as all flesh by a flood. Gospel according to Matthew, chapter 273: Jesus said to his disciples, Watch therefore, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.336",
+   "text": "Thursday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, every high priest to offer gifts, as far as a worldly sanctuary. Gospel according to Matthew, chapter 18: A leper came to Jesus, as far as they came to him from every side."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.337",
+   "text": "Friday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, the first tabernacle was made, as far as having obtained eternal redemption. Gospel according to Luke, chapter 228: Jesus told his disciples this parable: A certain nobleman, as far as going up to Jerusalem."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.338",
+   "text": "Saturday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, for if the blood of goats, as far as with better sacrifices than these. Gospel according to Matthew, chapter 232: Jesus said to the crowds of the Jews and the chief priests, Woe to you, scribes and Pharisees, as far as not to leave those undone."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.339",
+   "text": "Sunday of the sixth month. Reading of the Epistle of the blessed Paul the apostle. Brothers, if we live by the spirit, as far as those of the household of faith. Gospel according to Luke, chapter 67: Jesus was going into a city, as far as his people."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.340",
+   "text": "Nones of September. In Gaul, in the city of Besançon, the feast of Saints Ferreolus and Ferrutio with their companions. Reading of the book of Wisdom. Abraham, the great father of a multitude, as far as he chose him out of all flesh. Gospel according to Luke, chapter 45: Jesus, coming down from the mountain, as far as is plentiful in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.341",
+   "text": "Tuesday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, for not into a holy place made with hands, as far as he sits at the right hand of God. Gospel according to Matthew, chapter 39: Jesus said to his disciples, You have heard that it was said, You shall love your neighbour, as far as in secret will reward you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.342",
+   "text": "Wednesday of the week mentioned above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, for the rest the Lord Jesus waits until his enemies are made, as far as it is a fearful thing to fall into the hands of the living God. The Gospel as on the Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.343",
+   "text": "Sixth day before the Ides of September. Nativity of Saint Mary, Mother of God. And the feast of Saint Adrian, martyr. Reading of the book of Wisdom. Moses heard the Lord and his voice, as far as I anointed him with holy oil. Gospel according to Luke, chapter 3: Mary arose and went into the hill country, as far as in God my saviour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.344",
+   "text": "Likewise, reading of the book of Wisdom. It was made for the holy one as an eternal covenant, as far as he made eternal for their race. Gospel according to John, chapter 132: Jesus said to his disciples, I am the true vine, as far as may fill your joy."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.345",
+   "text": "Fifth day before the Ides of September. Deposition of Saint Omer, bishop [and confessor. Reading of the book of Wisdom. Valiant] in war was Joshua son of Nun, as far as their name remains for ever. Gospel according to Luke, chapter 154: Jesus said to his disciples, Let your loins be girded, as far as the Son of Man comes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.346",
+   "text": "Fourth day before the Ides of September. Deposition of Saint Hilary, bishop. Reading of the book of Wisdom. Samuel, beloved by his God, as far as the exultation of Goliath. Gospel according to Mark, chapter 138: Jesus said to his disciples, See that no one leads you astray, as far as he will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.347",
+   "text": "Third day before the Ides of September. The feast of Saints Protus and Hyacinth. Reading of the book of Wisdom. David called upon the Lord almighty, as far as the might of the enemies. Gospel according to Matthew, chapter 82: Jesus said to his disciples, When they persecute you in this city, as far as before my Father who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.348",
+   "text": "Sunday of the eighth month. Reading of the Epistle of the blessed Paul the apostle to the Ephesians. Brothers, I, a prisoner in the Lord, beseech you, as far as in us all. Gospel according to Luke, chapter 166: When Jesus entered the house of a certain man, as far as will be exalted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.349",
+   "text": "Monday of the week above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, but call to mind the former days, as far as through it, though dead, he still speaks. Gospel according to Luke, chapter 240: As Jesus was teaching the people in the temple, as far as by what authority I do these things."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.350",
+   "text": "Ides of September. At Tours, the deposition of Saint Lidorius, bishop. And at Angers, the deposition of Aurelianus [read: Maurilius], bishop. Reading of the book of Wisdom. Solomon prevailed in the days of peace, as far as he delivered them. Gospel according to Matthew, chapter 89: Jesus said to his disciples, When they persecute you in this city, as far as before my Father who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.351",
+   "text": "Eighteenth day before the Kalends of October. The feast of Saint Cornelius, pontiff, and of Saint Cyprian, and the Exaltation of the Holy Cross. Reading of the book of Wisdom. Elijah the prophet arose like fire, as far as and they should come to pass. Gospel according to Luke, chapter 140: Jesus was speaking to the crowds of the Pharisees and to the chief men, as far as that they might accuse him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.352",
+   "text": "Likewise, of the Cross. Reading of the Epistle of the blessed Paul the apostle to the Philippians. Brothers, have this mind in you, as far as is in the glory of God the Father. Gospel according to John, chapter 24: There was a man of the Pharisees, as far as eternal life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.353",
+   "text": "Seventeenth day before the Kalends of October. The feast of Saint Nicomedes. Reading of the book of Wisdom. In the compounding of perfume, as far as in the origin, Adam. Gospel according to Luke, chapter 96: Jesus said to his disciples, If anyone wishes to come after me, as far as they see the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.354",
+   "text": "Sixteenth day before the Kalends of October. The feast of the holy virgins Lucy and Euphemia. Reading of the book of Wisdom. Like a vine I have borne fruit, as far as they will have eternal life. Gospel according to Matthew, chapter 140: Jesus said to his disciples, The kingdom of heaven is like a treasure hidden, as far as new things and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.355",
+   "text": "Fifteenth day before the Kalends of October. At Liège, the deposition of Saint Lambert, bishop. Reading of the book of Wisdom. Simon son of Onias, the great priest, as far as the completion of strength. Gospel according to Luke, chapter 96: Jesus said to his disciples, If anyone wishes to come after me, as far as they see the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.356",
+   "text": "Sunday of the seventh month. Reading of the Epistle of the blessed Paul the apostle to the Corinthians. Brothers, I give thanks to my God, as far as the coming of our Lord Jesus Christ. Gospel according to Matthew, chapter 223: The Sadducees coming to Jesus, as far as they were amazed at his teaching."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.357",
+   "text": "Second weekday of the week above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, by faith Enoch was taken up, as far as sojourners upon the earth. Gospel according to Luke, chapter 38: Jesus saw a tax collector named Levi, as far as sinners to repentance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.358",
+   "text": "Third weekday of the week above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, those who [confess themselves] strangers and sojourners upon the earth show that they, as far as for a circuit of seven days. The Gospel [is] the one of that Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.359",
+   "text": "Fourth weekday, in the fast of the week above. Reading of Amos the prophet. Thus says the Lord, Behold, the days will come, and the ploughman will overtake, as far as from their land which I have given them, says the Lord almighty. Gospel according to Mark, chapter 91: One of the crowd answering said, as far as by prayer and fasting."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.360",
+   "text": "Fifth weekday of the week above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, by faith Rahab the harlot, as far as he sits at the right hand of the throne of God. The Gospel [is] the one of its Sunday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.361",
+   "text": "Sixth weekday of the week above. Reading of Hosea the prophet. Thus says the Lord, Return to the Lord your God, as far as the just will walk in them. Gospel according to Luke, chapter 36: Jesus was sitting teaching, as far as we have seen wonderful things today."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.362",
+   "text": "Saturday of the twelve readings. Reading of the book of Leviticus. In those days the Lord spoke to Moses, saying, On the tenth [day] of the seventh month, as far as your sabbaths, says the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.363",
+   "text": "Likewise another reading of the book of Leviticus. In those days the Lord spoke to Moses, saying, On the fifteenth day of the seventh month, as far as I am the Lord your God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.364",
+   "text": "Likewise a reading of Micah the prophet: Lord our God, feed [your] people, as far as from days of old, Lord our God. Likewise a reading of Zechariah the prophet. In those days the word of the Lord came to me, saying, as far as love peace, says the Lord almighty of hosts."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.365",
+   "text": "Likewise a reading of the book of Exodus. In those days Moses prayed to the Lord his God, saying, Why, Lord, does your fury rage, as far as against the holy people, Lord our God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.366",
+   "text": "Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, a tabernacle was made, the first, as far as having obtained eternal redemption. Gospel according to Luke, chapter 164: Jesus was teaching in the synagogues, as far as were gloriously done by him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.367",
+   "text": "Sunday of the eighth month. Reading of the Epistle of the blessed Paul the apostle to the Ephesians. Brothers, be renewed in the spirit of your mind, as far as those suffering need. Gospel according to Matthew, chapter 70: Jesus, going up into a boat, as far as such power to men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.368",
+   "text": "Twelfth day before the Kalends of October. The feast of Saints Dorondonus, Dorotheus, Privatus, Felix, Constantia, who suffered under Nero. Reading of the book of Wisdom. In the going up to the holy altar, as far as according to his mercy. Gospel according to Matthew, chapter 263: Jesus said to his disciples, Watch, because you do not know the day, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.369",
+   "text": "Eleventh day before the Kalends of October. In Persia, the feast of Saint Matthew, apostle and evangelist. And of Saint Luke the evangelist. Reading of the book of the Apocalypse of John the apostle. In those days I saw a door opened in heaven, as far as they will worship him who lives for ever and ever. Gospel according to Luke, chapter 38: Jesus saw a tax collector named Levi, as far as sinners to repentance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.370",
+   "text": "Tenth day before the Kalends of October. At Agaune, the feast of Saints Maurice, Exuperius, Candidus, with five thousand six hundred and eighty-five others. Reading of the book of Wisdom. May God give us gladness of heart, as far as for the law of God is his footstep. Gospel according to John, chapter 138: Jesus said to his disciples, These things I command you, that you love one another, as far as they hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.371",
+   "text": "Ninth day before the Kalends of October. The feast of Saint Thecla, virgin, and of Saint Mark the evangelist. Reading of the book of Wisdom. I will confess to you, O Lord King, as far as I will bless your name, O Lord my God. Gospel according to Matthew, chapter 248: Jesus said to his disciples, See that no one leads you astray, as far as this one will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.372",
+   "text": "Eighth day before the Kalends of October. The feast of Saint John the Baptist, and of Saints Julian [and] Christopher. Reading of the book of Wisdom. The Lord has given me a tongue as my reward, as far as your [reward] in its time. Gospel according to Mark, chapter 139: See that no one leads you astray, as far as this one will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.373",
+   "text": "Seventh day before the Kalends of October. In Gaul, at Amiens, the feast of Saint Firmin, martyr. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, consider the Lord, who endured such, as far as it will yield [the fruit] of justice to those trained by it. Gospel according to Matthew, chapter 263: Jesus said to his disciples, Watch, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.374",
+   "text": "Sunday [...] after Saint Cyprian. Reading of the blessed Paul the apostle to the Ephesians. Brothers, see how you walk carefully, as far as one another in the fear of Christ. Gospel according to [Matthew], chapter 288: Jesus told his disciples this parable: The kingdom of heaven is like a man, a king, who wished [to settle] accounts, as far as from your hearts."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.375",
+   "text": "Second weekday of the week above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, the drooping hands and loosened knees, as far as speaking better than Abel. Gospel according to Mark, chapter 121: One of the scribes questioned Jesus, as far as not far from the kingdom of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.ab5",
+   "text": "Much is missing here."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.376",
+   "text": "Gospel according to Mark, chapter 117: When Jesus had gone out on the way, as far as come, follow me."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.377",
+   "text": "Sixth weekday. Reading of the Epistle of the blessed Paul the apostle to the Ephesians. Brothers, to each one of us grace has been given, as far as as the truth is in Christ Jesus our Lord. Gospel according to Mark, chapter 77: The Pharisees came out and began, as far as he sent him away to his house."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.378",
+   "text": "Sixth day before the Ides of November. The feast of the Four Crowned Saints, and of Saint Ragnulf, martyr. Reading of the book of Wisdom. The expectation of the just is gladness, as far as the city will be exalted. Gospel according to Luke, chapter 45: Jesus coming down from the mountain, as far as is abundant in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.379",
+   "text": "Second week. Reading of the Epistle of the blessed Paul the apostle to the [Corinthians]. Brothers, let a man so regard us, as far as then praise will come to each one from God. Gospel according to John, chapter [...]: The Jews sent from Jerusalem, as far as where John was baptizing."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.380",
+   "text": "Fifth day before the Ides of November. The passion of Saint Theodore, martyr. Reading of the book of Wisdom. Blessed is the man who finds wisdom, as far as the clouds thicken with dew. Gospel according to John, chapter 134: This is my commandment, that you love one another, as far as they hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.381",
+   "text": "Fourth day before the Ides of November. At Rome, the deposition of Saint Leo, bishop, and of Saint Menas. Reading of the book of Wisdom. The tongue of the wise, as far as will be loved by the Lord. Gospel according to Luke, chapter 270: A dispute arose among the disciples, as far as the tribes of Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.382",
+   "text": "Third day before the Ides of November. At Tours, the deposition of Saint Martin, bishop and confessor. At the vigil. Reading of the book of Wisdom. The Lord led the just man, as far as eternal glory, the Lord our God. Gospel according to Luke, chapter 154: Jesus said to his disciples, Let your loins be girded, as far as the Son of Man comes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.383",
+   "text": "[Likewise] on the day. Reading of the book of Wisdom. Behold a great priest, as far as of sweetness. Gospel according to Matthew, chapter 280: Jesus told his disciples this parable: A certain man [going] abroad, as far as into the joy of your lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.384",
+   "text": "Second weekday. Reading of the Epistle of the blessed Paul the apostle to the Ephesians. Brothers, every evil word, as far as for an odour of sweetness. Gospel according to Luke, chapter 250 [?]: As Jesus was teaching in the temple, as far as by what authority I do these things."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.385",
+   "text": "On the Ides of November. The feast of Saint Brice. Reading of the book of Wisdom. The blessing of the Lord is upon the head of the just, as far as a crown of glory. Gospel according to Luke, chapter 228: Jesus told his disciples this parable: A certain nobleman went away, as far as he will abound."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.386",
+   "text": "Third weekday. Reading of the Epistle of the blessed Paul the apostle to the Ephesians. Brothers, do not share in unfruitful works, as far as what the will of the Lord is. Gospel according to Luke, chapter 74: A certain Pharisee asked Jesus, as far as she loved much."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.387",
+   "text": "Likewise the fourth weekday. Reading of Isaiah the prophet. In those days Isaiah the prophet said, It will be in the last days, as far as in the light of the Lord our God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.388",
+   "text": "Likewise as above. Reading of Isaiah the prophet. In those days the Lord spoke to Ahaz, saying, as far as choose the good. Gospel according to Luke, chapter 3: The angel Gabriel was sent from God, as far as let it be done to me according to your word."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.389",
+   "text": "Sixth weekday. Reading of Isaiah the prophet. Thus says the Lord God, A rod shall come forth, as far as faithfulness the girdle of his loins. Gospel according to Luke, chapter 3: Mary rising up, as far as in God my saviour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.390",
+   "text": "On Saturday, with two readings. Reading of Isaiah the prophet. In those days they will cry to the Lord because of the oppressor, as far as the Lord our God will heal them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.391",
+   "text": "Likewise as above. Reading of Isaiah the prophet. Thus says the Lord God, The deserted land will rejoice, as far as springs of water, the Lord our God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.392",
+   "text": "Likewise as above. Reading of Isaiah the prophet. Thus says the Lord God, Go up on a high mountain, as far as the Lord our God will lift them up in his bosom."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.393",
+   "text": "Likewise a reading of Isaiah the prophet. Thus says the Lord God to my anointed Cyrus, as far as I the Lord have created him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.394",
+   "text": "Likewise a reading of Daniel the prophet. In those days the angel descended, as far as exalted above all for ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.395",
+   "text": "Likewise at Mass. Reading of the Epistle of the blessed Paul the apostle to the Colossians. Brothers, we ask you by the coming of our Lord Jesus Christ, as far as and will destroy by the brightness of his coming. Gospel according to Luke, chapter 3: In the fifteenth year, as far as and all flesh shall see the salvation of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.396",
+   "text": "In the week before the Nativity of the Lord. Reading of the Epistle of the blessed Paul the apostle to the Philippians. Brothers, rejoice in the Lord always, as far as your understanding in Christ Jesus our Lord. Gospel according to John, chapter 9: They sent from Jerusalem, as far as where John was baptizing."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.397",
+   "text": "Likewise as above. Reading of the Epistle of the blessed Paul the apostle to the Hebrews. Brothers, do not throw away your confidence, as far as to the saving of the soul."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.398",
+   "text": "Likewise a reading as above. Reading of Jeremiah the prophet. Behold, the days are coming, says the Lord, as far as into their own land, says the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.399",
+   "text": "On the vigil of the Nativity of the Lord. At None. Reading of Isaiah the prophet. Thus says the Lord, For Zion's sake I will not be silent, as far as because the Lord has been pleased with you. Gospel according to Matthew, chapter 3: When the mother of Jesus had been betrothed, as far as from their sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.400",
+   "text": "On the sixteenth day before the Kalends of December. In Gaul, the deposition of Saint Eucherius, bishop. Reading of the book of Wisdom. Blessed is the man who finds wisdom, as far as the clouds thicken with dew. Gospel according to Matthew, chapter 263: Watch, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.401",
+   "text": "On the fifteenth day before the Kalends of December. The deposition of Saint Anianus, bishop and confessor, at Orléans. Reading of the book of Wisdom. The Lord led the just man, as far as eternal glory, the Lord our God. Gospel according to Matthew, chapter 243: As Jesus was sitting on the Mount of Olives, as far as will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.402",
+   "text": "On the tenth day before the Kalends of December. The feast of Saint Cecilia, virgin, and of Valerian, Tiburtius and Maximus, martyrs. Reading of the book of Wisdom. O Lord my God, you have exalted upon the earth, as far as your name, O Lord our God. Gospel according to Matthew, chapter 268: Jesus told his disciples this parable: The kingdom of heaven is like ten virgins, as far as nor the hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.403",
+   "text": "On the ninth day before the Kalends of December. The feast of Saint Clement, and of Saint Felicity, and of Saint Columban. Reading of the book of Wisdom. Blessed is the man who will dwell in wisdom, as far as the Lord our God will make him inherit. Gospel according to Matthew, chapter 269: Jesus told his disciples this parable: A certain man setting out on a journey abroad, as far as into the joy of your lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.404",
+   "text": "Likewise a reading of the book of Wisdom. A valiant woman, as far as her works in the gates. Gospel according to Matthew, chapter 130: While Jesus was speaking to the crowds, as far as is sister and mother."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.405",
+   "text": "On the eighth day before the Kalends of December. The feast of Saint Chrysogonus. Reading of the book of Wisdom. The just man gave his heart to keep watch, as far as it would be sought from generation to generation. Gospel according to Luke, chapter 249: Jesus said to his disciples, When you hear of battles, as far as your souls."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.406",
+   "text": "On the third day before the Kalends of December. The feast of Saint Saturninus. Reading of the book of Wisdom. Blessed is the man who was found without blemish, as far as the whole assembly of the saints. Gospel according to Matthew, chapter 139: Jesus said to his disciples, See that no one leads you astray, as far as he will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.407",
+   "text": "On the second day before the Kalends of December. The feast of Saint Andrew. On the vigil. Reading of the Epistle of the blessed Paul the apostle to the Ephesians. Brothers, blessed be God and the Father of our Lord Jesus Christ, who has blessed us, as far as he has abounded toward us. Gospel according to John, chapter 16: John was standing, and two of his disciples, as far as upon the Son of Man."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.408",
+   "text": "On the day. Reading of the Epistle of the blessed Paul the apostle to the Romans. For with the heart one believes unto justice, as far as their words. Gospel according to Matthew, chapter 20: Jesus walking by the sea of Galilee, as far as they followed him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.409",
+   "text": "And on the same day, Saint Ambrose."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.410",
+   "text": "On the Kalends of December. The deposition of Saint Eligius. Reading of the book of Wisdom. Blessed is the man who finds wisdom, as far as the clouds grow with dew. Gospel according to Luke, chapter 154: Jesus said to his disciples, Let your loins be girded, as far as the Son of Man comes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.411",
+   "text": "On the fourth day before the Ides of December. At Rome, the deposition of Saint Damasus, pope. Reading of the book of Wisdom. Blessed is the man who was found without blemish, as far as the whole assembly of the saints. Gospel according to John, chapter 138: Jesus said to his disciples, This I command you, that you love one another, as far as who hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.412",
+   "text": "On the third day before the Ides of December. The feast of Saint Eulalia, virgin, and of the holy martyrs Victoricus, Fuscian and Gentianus. Reading of the Epistle of the blessed Paul the apostle to the Corinthians. Brothers, let him who glories glory in the Lord, as far as to present to Christ. Gospel according to Matthew, chapter 218: Jesus told his disciples this parable: The kingdom of heaven is like ten virgins, as far as nor the hour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.413",
+   "text": "Likewise a reading of the Epistle of the blessed Paul the apostle to the Romans. Brothers, we know that for those who love God all things work together for good, as far as delivered him up. Gospel according to John, chapter 138: Jesus said to his disciples, This I command you, that you love one another, as far as who hated me without cause."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.414",
+   "text": "On the second day before the Ides of December. The deposition of Saint Walaric, confessor. Reading of the book of Wisdom. The Lord led the just man, as far as eternal glory, the Lord our God. Gospel according to Matthew, chapter 269: Jesus told his disciples, A certain man [setting out] abroad, as far as into the joy of your lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.415",
+   "text": "On the Ides of December. The deposition of Saint Autbert, bishop of Cambrai. And of Saint Lucy, virgin. Reading of the book of Wisdom. Wisdom conquers malice, as far as of the discipline of God. Gospel according to Luke, chapter 251: Jesus said to his disciples, Settle it in your hearts, as far as your souls."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.416",
+   "text": "On the fifteenth day before the Kalends of January. The feast of Saint Afra, virgin. Reading of the book of Malachi the prophet. Thus says the Lord God, Behold, I will send my angel, as far as the ancient years, says the Lord almighty. Gospel according to Matthew, chapter 140: Jesus told his disciples this parable: The kingdom of heaven is like a hidden treasure, as far as new things and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.417",
+   "text": "On the twelfth day before the Kalends of January. At Rome, the deposition of Saint Innocent, bishop. Reading of the Epistle of the blessed Paul the apostle to the Romans. Brothers, who will separate us from the love of God, which is in Christ Jesus our Lord? Gospel according to Luke, chapter 45: Jesus coming down from the mountain, as far as is plentiful in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.418",
+   "text": "On the eleventh day before the Kalends of January. At Rome, between the two laurels, the feast of the thirty holy martyrs. Reading of the book of Wisdom. The just will live for ever, as far as the Lord our God will lead them. Gospel according to Matthew, chapter 263: Jesus said to his disciples, Watch, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.419",
+   "text": "On the tenth day before the Kalends of January. At Nicomedia, the feast of the 860 holy martyrs. Reading of the book of Wisdom. The souls of the just, as far as peace to the elect of God. Gospel according to Mark, chapter 138: Jesus said to his disciples, See that no one leads you astray, as far as he will be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.420",
+   "text": "On the eleventh day before the Kalends of January. In Cappadocia, the feast of the forty virgins. Reading of the Epistle of the blessed Paul the apostle to the Corinthians. Brothers, let him who glories glory in the Lord, as far as to present to Christ. Gospel according to Matthew, chapter 40: Jesus told his disciples this parable: The kingdom of heaven is like a treasure hidden in a field, as far as new things and old."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.421",
+   "text": "For abundance of rain, or mildness of the air. Reading of Joel the prophet. Thus says the Lord, Do not fear, O land, as far as that he has done wonders with you. Gospel according to Luke, chapter 83: It happened on one of the days, as far as they obey him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.422",
+   "text": "For lack of rain. Reading of Jeremiah the prophet. Thus says the Lord God, Have you utterly cast off Judah, as far as all these things, O Lord our God. Gospel according to Matthew, chapter 160: Jesus said to his disciples, I have compassion on the crowd, as far as his disciples with him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.423",
+   "text": "On a day of war. Reading of Isaiah the prophet. In those days Hezekiah fell ill, as far as I will protect him, says the Lord almighty. Gospel according to Luke, chapter 150: Jesus said to his disciples, Do not be anxious, as far as will be added to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.424",
+   "text": "On the feast of a pope. Reading of the Epistle of blessed Paul the apostle to the Hebrews. Brothers, every high priest, as far as the order of Melchizedek. Gospel according to Luke, chapter 270: A dispute arose among the disciples, as far as the tribes of Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.425",
+   "text": "At the ordination of deacons. Reading of the Epistle of blessed Paul the apostle to Timothy. Dearest one, appoint deacons who are chaste, as far as in the faith which is in Christ Jesus our Lord. Gospel according to John, chapter 104: Jesus said to his disciples, Amen, amen I say to you, unless a grain of wheat, as far as who is in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.426",
+   "text": "At the ordination of a priest. Reading of the Epistle of blessed Paul the apostle to Titus. Dearest one, Paul, a servant of Christ and an apostle, as far as sound teaching through Jesus Christ our Lord. Gospel according to Matthew, chapter 263: Jesus said to his disciples, Watch therefore, as far as he will set him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.427",
+   "text": "At the ordination of a bishop. Reading of the Epistle of blessed Paul the apostle to Timothy. Dearest one, it is a faithful saying, if anyone [desires] the office of bishop, as far as of our God in all things. Gospel according to Matthew, chapter 154: Jesus said to his disciples, Who, do you think, is the faithful servant? Gospel according to Matthew, chapter 166: Jesus came into the region of Caesarea Philippi, as far as loosed also in heaven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.428",
+   "text": "At the dedication of a basilica or oratory. Reading of the Apocalypse of John the apostle. In those days I saw the holy city Jerusalem, as far as I make all things new. Gospel according to Luke, chapter 60: Jesus said to his disciples, There is no good tree that bears bad fruit, as far as it was founded upon the rock. Also the Gospel according to Luke, chapter 214: Jesus went out, as far as salvation has come to this house."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.429",
+   "text": "For blessing brides. Reading of the Epistle of blessed Paul the apostle to the Corinthians. Brothers, do you not know that your bodies, as far as bear God in your body. Gospel according to Matthew, chapter 261: Jesus was speaking with his disciples, as far as but few are chosen."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.430",
+   "text": "Also the Gospel according to Matthew, chapter 189: Jesus came into the territory of Judaea, as far as what God has joined together, let no man separate."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.431",
+   "text": "At the arrival of judges. Reading of the Epistle of blessed Paul the apostle to Timothy. Brothers, I urge you first of all, as far as in faith and truth. Gospel according to Luke, chapter 268: Jesus told his disciples this parable: There was a certain nobleman; he had, as far as it will be given, and he will abound."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.432",
+   "text": "In tribulation or unrest. Reading of Jeremiah the prophet. Thus says the Lord God, Does [one] fall, as far as but the word of the Lord remains for eternity and for ever and ever."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.433",
+   "text": "Also of the same. Thus says the Lord God, Do judgement and justice, as far as their servants and people, says the Lord God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.434",
+   "text": "Also of the same. If our iniquities have contended, as far as do not abandon us, O Lord our God. Gospel according to Luke, chapter 280: Jesus went out and was walking through Jericho, as far as to save what was lost."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.435",
+   "text": "On the feast of priests. Reading of the book of Malachi the prophet. Thus says the Lord, You will know that unless the commandment to you, as far as for he is the angel of the Lord of hosts. Gospel according to Mark, chapter 52: Jesus went about in the surrounding region, as far as the sick, and they will be healed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.436",
+   "text": "Mass that a priest will sing for himself. Reading of the Epistle of blessed Paul the apostle to the Romans. Brothers, we know that the law is spiritual, as far as of this, the grace of God through Jesus Christ our Lord. Gospel according to Matthew, chapter 76: Jesus went about all the cities, as far as every infirmity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.437",
+   "text": "Votive Mass. Reading of Isaiah the prophet. Thus says the Lord, On that day a gift will be brought to the Lord, as far as my inheritance Israel, says the Lord almighty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.438",
+   "text": "For the sick. Reading of the Epistle of blessed Paul [read: James] the apostle. Brothers, is any of you sad, as far as pray for one another, that you may be saved."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.439",
+   "text": "For travellers. Reading of the book of Genesis. In those days Abraham spoke, saying, The Lord of heaven, who took me from the house, as far as he himself will send his angel before you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.440",
+   "text": "In the office for the dead. Reading of the book of Maccabees. In those days the most valiant man Judas, as far as that they may be loosed from sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.441",
+   "text": "Also a reading of the Epistle of blessed Paul the apostle to the Thessalonians. Brothers, we do not want you to be ignorant concerning those who sleep, as far as therefore comfort one another with these words in Christ Jesus our Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.442",
+   "text": "Also a reading of Isaiah the prophet. Thus says the Lord God, Your light will rise in the darkness, as far as for the mouth of the Lord has spoken. Gospel according to John, chapter 94: Martha said to Jesus, as far as who has come into this world."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.443",
+   "text": "Also the Gospel according to John, chapter [...]: Jesus said to his disciples and to the crowds of the Jews, For as the Father raises the dead, as far as from death into life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.444",
+   "text": "Also according to John, chapter 56: Jesus said to the crowds of the Jews, All that [the Father] gives me, as far as on the last day."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.446",
+   "text": "Also according to John, chapter 65: Jesus said to his disciples and to the crowds of the Jews, I am the living bread, as far as on the last day."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.ab6",
+   "text": "READINGS FOR THE DEAD."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.448",
+   "text": "I. Spare me, Lord, for my days are nothing, as far as I shall not stand."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.449",
+   "text": "II. My soul is weary of my life, as far as can deliver."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.450",
+   "text": "III. Your hands, as far as has guarded my spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.451",
+   "text": "IV. Answer me, how many iniquities do I have? as far as a garment that is eaten by the moth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.452",
+   "text": "V. Man born of woman, living for a short time, as far as until the desired [day] comes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.453",
+   "text": "VI. Who will grant me this, that you protect me in the underworld, as far as but spare my sins."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.454",
+   "text": "VII. My spirit will grow weak, my days will be shortened, as far as my patience is yours, O Lord my God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.455",
+   "text": "VIII. With my flesh consumed, to my skin, as far as they are carved in flint."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa053.opp-lat1.456",
+   "text": "IX. For I know that my Redeemer lives, as far as this my hope [is laid up] in my bosom."
+  }
+ ]
+}

@@ -4,12 +4,12 @@ English translations of ancient and medieval texts that have no published Englis
 
 > **AI translation.** Every translation here was made by Claude (Anthropic) from the original text and checked against the original by a second AI, Codex (OpenAI). Objections that held up were corrected. Codex read every cited passage in `translations/`, but only a sample of the whole works and of the `testimonia/` folder: see below. **No specialist has reviewed any of it.** Use these as plain working versions, not authoritative translations, and keep this label with them wherever you use them.
 
-The `translations/` folder has 629 files.
-- **446 hold cited passages** from works in 12 languages: about 302,100 English words on 15,887 lines. They are the passages that three projects quote or cite and that had no English in the library:
+The `translations/` folder has 670 files.
+- **444 hold cited passages** from works in 12 languages: about 301,500 English words on 15,830 lines. They are the passages that three projects quote or cite and that had no English in the library:
   - the [Atlas of Ancient Myth](https://skirnirstudios.com/atlas-of-ancient-myth/);
   - [Magic in the Ancient Texts](https://skirnirstudios.com/magic-in-the-ancient-texts/);
   - a study of demons and angels.
-- **183 are whole works** in Latin and Greek for which no English translation could be found: about 1,503,500 English words on 16,636 lines. See [Whole works](#whole-works).
+- **226 are whole works** in Latin and Greek for which no English translation could be found: about 2,515,400 English words on 29,798 lines. See [Whole works](#whole-works).
 
 You can read the cited passages beside their originals at [skirnirstudios.com/translations](https://skirnirstudios.com/translations/), and import everything in `translations/` into a [Classica Codex](https://github.com/ClassicaCodex/ClassicaCodex) library from its setup screens.
 
@@ -20,7 +20,7 @@ The cited passages, by language:
 | Language | Works | Lines | English words |
 |---|---:|---:|---:|
 | Greek | 144 | 1,805 | 96,217 |
-| Latin | 112 | 2,924 | 93,680 |
+| Latin | 110 | 2,867 | 93,079 |
 | Old Icelandic, Old Norse, Old Norwegian, Old Swedish | 42 | 3,612 | 35,522 |
 | Egyptian | 61 | 2,153 | 26,150 |
 | Middle High German | 69 | 2,783 | 19,696 |
@@ -66,11 +66,11 @@ The major-error rates before correction were:
 
 ## Whole works
 
-**183 files in `translations/` translate a whole work,** every line of the source edition from first to last. Each is marked `"whole_work": true`, and its header says so. They came in two batches: 111 works in version 1.2 and 72 in version 1.3.
-- **What they are.** 125 are Latin and 58 Greek: about 1,089,000 words of original and 1,503,500 of English, on 16,636 lines. 116 come from Migne's Patrologia Latina, 56 from First1KGreek, 8 from CSEL and 3 from Perseus.
-  - Most are short: theology, sermons, letters, monastic rules, canons and lives of saints, with 24 of Libanius's orations and declamations, two orations of Aelius Aristides, Galen and other Greek medical writers, Hero of Alexandria, Euclid's *Optics* in Theon's recension, and Philodemus's *On Music*. The longest is *On Music*, about 17,800 words; the next has about 11,700.
+**226 files in `translations/` translate a whole work,** every line of the source edition from first to last. Each is marked `"whole_work": true`, and its header says so. They came in three batches: 111 works in version 1.2, 72 in version 1.3 and 43 in version 1.4.
+- **What they are.** 161 are Latin and 65 Greek: about 1,807,700 words of original and 2,515,400 of English, on 29,798 lines. 144 come from Migne's Patrologia Latina, 62 from First1KGreek, 16 from CSEL and 4 from Perseus.
+  - Most are short: theology, sermons, letters, monastic rules, canons and lives of saints, with 24 of Libanius's orations and declamations, two orations of Aelius Aristides, Galen and other Greek medical writers, Hero of Alexandria, Euclid's *Optics* in Theon's recension, and Philodemus's *On Music*. The third batch, of longer works, adds the Latin Euclid that goes under Boethius's name, Boethius's treatise on hypothetical syllogisms, Sedulius's *Opus Paschale*, Aelius Aristides' *Ars Rhetorica*, two medical works under Galen's name, and Greek commentaries on Aristotle. The longest is Rufinus's Latin version of Gregory of Nazianzus's orations, about 23,900 words.
   - Authors and titles are the library's, which follow Migne and the other editions. Many attributions there are doubtful, and works marked *incertus* are not by the author named.
-- **Why these works.** They are the first 183 finished of 314 Latin and Greek works in the library for which no English translation could be found. The run goes shortest first, but Philodemus's *On Music* was brought forward.
+- **Why these works.** They are the first 226 finished of 314 Latin and Greek works in the library for which no English translation could be found. The run goes shortest first, but Philodemus's *On Music* was brought forward.
   - An AI searched the web for each work's English: translation series, journals, theses and open projects. Claude did most of the searching and Codex some.
   - Machine-made English did not count.
   - Against an earlier, separate search, the list agreed on 72 of 82 works, and it missed one recent translation, since corrected.
@@ -81,7 +81,7 @@ The major-error rates before correction were:
   - The brief is in `method/BRIEF-whole-works-translate.md`.
   - *On Music* is the charred Herculaneum papyrus, in Kemke's 1884 edition: short lines, many of them broken, with the editor's restorations in brackets. It went in shorter stretches, and each English line gives only the words of its own papyrus line, so the English reads haltingly. Gaps are marked [...].
 - **Review.** For each batch, Codex read a random sample of stretches, each from a different work, about a tenth of the batch. It used the waves' brief. A stretch is about 1,200 words, several times the length of a cited passage.
-  - Each objection was weighed against the original. Every upheld objection was corrected, and so was the same error where it recurred elsewhere in its work. The decisions are in `method/reviews/whole-works-1.json` and `whole-works-2.json`.
+  - Each objection was weighed against the original. Every upheld objection was corrected, and so was the same error where it recurred elsewhere in its work. The decisions are in `method/reviews/whole-works-1.json` to `whole-works-3.json`.
   - **First batch:** 41 stretches, 49,463 words of original. Codex scored Latin 4.08 and Greek 3.67 out of 5, below the cited passages' 4.7 to 4.9, and raised a major objection in 17 of the 41 stretches.
     - Of its 22 major objections, 13 were upheld as major errors, 7 were upheld as minor ones, and 2 were not upheld. Of its 13 minor objections, 10 were upheld.
     - So 10 of the 41 stretches held a major error: 6 of 26 in Latin and 4 of 15 in Greek. Libanius was the hardest author: three of the four Greek major errors were in his eight stretches.
@@ -91,21 +91,25 @@ The major-error rates before correction were:
   - ***On Music* was read in full,** all 21 stretches, because its text is the hardest yet. Codex raised 41 objections and all of them were upheld, 21 as major errors: about one in every 850 words of original, nine times the second batch's rate.
     - Most were errors of grammar in broken sentences.
     - All are corrected. Even so, read this translation as a guide to the papyrus, not as a version to quote.
-- **The rest was not read by a second AI.** It will hold errors at about the samples' rate: roughly one major error in every 6,200 words of original, or about 155 in the 960,000 words not read.
-- **More to come.** The same run is translating the other 131 Latin and Greek works on the list, about 6.8 million words. They will be added in batches.
-  - One is already translated: Commodianus's *Carmen Apologeticum*. It waits for the next batch, because this folder already has a file of its cited passages and the two must be merged.
+  - **Third batch:** 56 stretches, 74,861 words of original. Codex scored Latin 4.09 and Greek 3.60, and raised a major objection in 19 of the 56 stretches.
+    - Of its 23 major objections, 12 were upheld as major errors, 7 were upheld as minor ones, 1 became a note and 3 were not upheld. Of its 22 minor objections, 20 were upheld.
+    - So 12 of the 56 stretches held a major error: 8 of 46 in Latin and 4 of 10 in Greek. Greek was the weaker language, as in the first batch.
+    - One of the twelve was a gap: in the commentary on Aristotle's *Parva Naturalia* that goes under Themistius's name (it is now given to Sophonias), the English stopped mid-sentence and left out the last 90 or so words of a long line. They are now translated. A check of the whole batch for other lines that stop short found none.
+- **The rest was not read by a second AI.** Across the three samples Codex found 33 major errors in 186,493 words of original, about one in every 5,700. The 1.6 million words it did not read will hold errors at about that rate, roughly 280 of them.
+- **Two whole works replace files of cited passages.** This folder already held cited passages from Commodianus's *Carmen Apologeticum* (27 lines) and Paulinus of Périgueux's *Life of St Martin* (30 lines), from the same editions. The whole works replace those files, so each work has one translation throughout. The earlier English of those lines is in version 1.3.
+- **More to come.** The same run is translating the other 88 Latin and Greek works on the list, about 6 million words. They will be added in batches.
 
 ## What is not here
 
 - **Akkadian and Coptic.** The test showed them too weak to publish without a specialist.
 - **One Old French passage (Otinel, manuscript A).** Its transcription in the Geste corpus is marked as a working file not for distribution.
 - **25 lines of Gregory's Homily 34 in AM 677 4to (folios 18r–18v).** They are translated, and wait in `pending/` until Classica Codex can hold their original. See `pending/README.md`.
-- **Most works whole.** Apart from the 183 whole works, only the cited passages are translated, and each of those files says so.
+- **Most works whole.** Apart from the 226 whole works, only the cited passages are translated, and each of those files says so.
 
 ## Licences
 
 Each translation carries its source's terms, and its header names them. In `translations/`:
-- **592 files are CC BY-SA 4.0**, because their sources are. They include all 183 whole works, whose sources' licences were read from each edition's own header, or for one Perseus text from its repository's statement.
+- **633 files are CC BY-SA 4.0**, because their sources are. They include all 226 whole works, whose sources' licences were read from each edition's own header, or for one Perseus text from its repository's statement.
 - **37 are CC BY 4.0:**
   - translations of CC BY sources (papyri.info and the Online Critical Pseudepigrapha);
   - translations of public-domain texts (Eisenstein's Otzar Midrashim).

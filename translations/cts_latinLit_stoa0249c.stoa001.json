@@ -1,0 +1,2361 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0249c.stoa001",
+ "edition_urn": "urn:cts:latinLit:stoa0249c.stoa001.ai-claude",
+ "source_edition": "stoa0249c.stoa001.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-14",
+ "updated": "2026-11-25",
+ "whole_work": true,
+ "header": {
+  "title": "Summarii Temporum: AI translation (Claude)",
+  "author": "Samuel Aniensis",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0249c.stoa001.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.head": "Numbered footnote marks of the edition are omitted. §3: the edition marks a gap after 'omitting the life which he spent in paradise'; the following words begin mid-argument. Names in §3: Elisacus taken as Elishe, Lazarus as Ghazar of Parp, Leontius as Ghewond, Stephen Asolnichius as Stephen Asoghik; 'Heraclius praised by the bishop Sebeos' presumably refers to Sebeos' History of Heraclius; 'Sabuhius' (Shapuh?) and 'the lord John' (perhaps Catholicos John) not certainly identified. §4: 'duo mitti' read as 'duo mihi'. §5: 'sunicere' read as 'sufficere'. Chapter I heading: 'Quintam' read as 'Quaenam'. IX: the numeral 'CLIXXXVIII' read as CLXXXVIII (188), which agrees with the lifespan given (188 + 535 = 723). VIII: the claim that Methuselah outlived the flood follows from the figures of the source.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.18": "Line 3 (ref .28): 'cum annis ex' is read as 'cum annis cxx', in line with Cainan's 120 years and the difference between 3184 and 3304. In the same passage Arphaxad begets at 137, where ref .18 gives 135; both figures are kept as the text has them. Several numbered footnote marks from the printed edition are omitted. 'Lapitostis' is taken as Iapetosthes, 'Masiis' as Masis (Ararat), 'Spheram' as Sephar and 'Gadiron' as Gadeira (Cadiz). Some names are unclear and are kept in their Latin form: Lagi, Enulii, Gaspheni, Moseni, Aramii, Aminaei and Orthosii. In ref .34, 'Chalane' stands both for Calneh and for Calah, following the biblical context. The table of Moses of Khoren announced at the end of ref .29 is not given in the text.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.35": "Line 36: 'X. Heaebon' is evidently Hesebon (Ibzan), as the following words show; the parenthesis 'Baraco liberi septuaginta' is presumably an error for another judge (Scripture gives Abdon/Gideon seventy descendants), but is translated as printed. Line 47: 'annis IL' read as XL. Line 55: 'Minus' read as 'asinis' (asses); Scripture gives Abdon forty sons and thirty grandsons. Line 57: 'xx I' read as twenty; the stray I may be a footnote mark. Line 48: 'alienigena.' read as 'alienigenas'. Line 61: stray '4' after Rechabam omitted as a footnote mark. 'Potaminus' river and 'Mastusia' not identified with certainty. 'Arsares' taken as Arshak (Arsaces).",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.62": "Line 71: 'XI..' read as XL (forty), Joash's biblical reign; the print may intend XI. Line 85 runs into the list heading of line 86, so the subject is supplied from there. Line 86: 'qui ad ipsam Samariae aram a' is broken, with a verb (perhaps 'prophesied') lost; marked [...]. Line 91: 'IXII' read as XII. Line 104: the first Olympiad is dated here to Pekahiah, though line 73 puts it under Uzziah, as in the text. Line 112: '49.1.' read as section 19, item I. Names normalised to biblical forms: Godolia = Athaliah, Amosus = Amon, Bajas = Baasha, Ambachumus = Habakkuk, Tarscis = Thassi, Aphuthus = Apphus. 'Amopolis' is kept as printed (Onias's temple was at Leontopolis/Heliopolis). 'Oziel, Michael' and 'Jesus' (line 93) are kept as given; they may stand for Jahaziel and Micaiah.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.117": "Bracketed numerals such as (64), (66) are the edition's footnote references and are omitted. 'Asdahages' (Armenian Azhdahak) is kept distinct from 'Astyages' in the Babylonian list, as the text distinguishes them. 'Darius Arsaviri' is rendered 'Darius [son] of Arsavir'; the name is unidentified. 'Artaxerxes the Parthian' presumably reflects Moses of Khoren's Artashes (Arshakid). 'Salina' for Alexandra (Salome) is kept as printed. 'Thonnus Concolerus' kept as given (Eusebius' Thonos Konkoleros). Scanning errors corrected silently (e.g. vocate, anqo, Atbenis, rognum, xu = XII).",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.201": "Several numerals are scanning errors read as evident: 'in' (XIV Archelaus) = III; 'In' for Alexander's reign read as XII (twelve years); '-VII' = VII; 'i!' = II. 'Coenas' rendered Coenus, 'Gouatas' Gonatas, 'Nilocris' Nitocris, 'Amritæ' Amyrtaeus, 'Saltarum' Saites. 'Argelaus' and 'Æræus' are kept as printed (perhaps Argaeus and Aeropus). Section numbers 10 and 11 restored from scanned 'i.' and 'it.'. In line 317 the referent of 'Ille' (the king or another) is unclear.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.336": "336–470: many numerals and names are garbled by scanning and have been read in their evident forms (e.g. 'LIlII' as 54, 'XLLV' as 45, 'Agemon annis ,. VI' as 16, 'Mines' as Menestheus, 'Melon' as Medon, 'Erechthionius' as Erichthonius). 338: the reign length 'Ut' is unreadable. 341: 'Icimus' is corrupt; read as 'primus' (first). 411: 'Haenionis' read as Haemon; the relation is uncertain. 444: 'anni II' conflicts with the usual one year; 'II' taken as 'I'. 452: 'iDeas' read as Aeneas. 468: the gloss on 'dictatores' ('nempe eloquentes', 'that is, speakers') is the text's own, apparently a confusion with 'dictio'. ab15: 'proMpta' is corrupt; read as 'progenies'.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.473": "Many Armenian names are rendered by their Armenian forms (via Moses of Khoren) where identification seems clear; several in line 9 are badly scanned (Bnzucus, lloius, Jnsacus, C.epacius) and are given as Bazuk, Hoy, Husak, Kipak by conjecture. Line 1 is numbered 'I.' and the next '3.' in the edition. Line 8: 'Agram' read as Africam; 'Pharuaces' read as Pharnaces. Line 11: 'partim post partim' may be corrupt. 'Balae' (line 13) may be Balkh; left as Bala. 'MIV' read as 54 (LIV); uncertain. Chalavazi and Tambat not identified.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.485": "485: 'olympiadis sexagesimae septimae supra centesimam' = 167th Olympiad, as printed. 486: Armenian clan and personal names (Gabagh, Abel, Spanduni, Havenuni, Tsiunakan, Oslani, Sephetsul, Muratsean) are given in their likely Armenian forms; identifications are uncertain. 'a Cbnida' is read as 'a Gnida' (Gnit); the reading is uncertain. 487: 'Gusaris ... Saraei stirpe' is taken as Gushar of the stock of Shara. 'Asozium' is taken as Ashots. 488: 'Mocensem' is taken as a man of Mokʻkʻ. 494: 'Arciamus, idemque ArMamus' is corrupt in the scan; it is probably Arsham, called by two spellings. 495: 'Glius' is read as 'filius'. 505: 'DiI' is read as DII (502), which the stated total requires. 511: 'trietericam' is taken as a three-year preaching.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.512": "513: 'Tilus' read as Titus. 522-523: 'Cornacus' is unidentified (perhaps a garbled Armenian general's name). 531: 'Ziravo' taken as the plain of Dzirav. 542: several apocryphal titles (Cortosacium, Cyriacosacium, Diatheke, Sebium, 'patentes codices') are obscure as transmitted and are left in their Latin form. 547: Chalarthus, Chalartalabius, Amaranus, Jalus, Mavia, Myrdates and Musaeus are garbled forms (Chalarthus perhaps for the caliph Umar or a confused name; Mavia perhaps Muawiya); rendered as given. 'Satu. raret' read as saturaret.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.549": "Line 549: '.'aluta' read as 'statuta'; the clause on washing 'only with water ... in a baptismal font' is obscure as printed. Line 550: 'bippoperam' read as 'hippoperam' (saddle-bag), 'eilicinum' as 'cilicinum' (haircloth). Line 561: 'Guo' read as 'Quo', 'dut' as 'dux'. Line 562: the province 'Alhage' is unidentified (possibly a misreading). Line 567: several governors (Lavicus Abuthoraphus, Ises son of Sechus, Abldelphus, Bula, Abusigitha, Nesras/Shercha) are given as printed; 'Bula' is perhaps Bugha, and the relation 'son ... of Abusigitha' is unclear in the Latin.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.569": "Line 572: 'BatHa' read as Baghk (a district of Siunia); 'Sevania' taken as Sevan. Line 577: 'Ceinde' read as deinde; 'Sete' as ferri secti or a stray mark, rendered 'by the sword'. Line 578: 'ærum' read as æram (era). Line 583: 'Ausinus (9i)' read as Oshin with note mark 92; 'Algamo' identified as Halkam; 'Maireaz Ciurch' as Mayriats Jurk. Line 584: 'Gashici' read as Gaghici; 'Causitarum' taken as the Cositars (Kopitar?), identification uncertain; 'Colmesolum' and 'Candruscoria' left as given. Line 585: a stray 'dilexit, y' in mid-sentence appears to be a scanning intrusion and is omitted; 'Dedusius' identified as Tutush, 'Bechiaruchus' as Berkyaruq.",
+  "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.586": "586: 'iidem mari suorumque ducatui ... commissi' is awkward; rendered as transmitted. 592: 'Caine' read as 'fame' (hunger); 'Siraciae' taken as Shirak; 'muitavit' read as 'mulctavit' (punished). 594: 'nepote' may mean grandson (Manuel I was Alexius' grandson). 595: 'Saharmeni' taken as the Shah-Armen (ruler of Akhlat); 'Georgius' is Giorgi III of Georgia."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.head",
+   "text": "THE SUMMARY OF THE TIMES OF SAMUEL OF ANI: FIRST PART."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab1",
+   "text": "PROLOGUE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.1",
+   "text": "1. Although the whole span of time is usually divided into three parts, namely into past, present and future, yet the inclination of the human will seems to be drawn more toward knowledge of the past and the future than of the present. That men, whether sacred or profane, would rather inquire into those times, the divine Scriptures also teach us, since the Life-giver said even to his own intimates, \"It is not yours to know the hours and times which the Father has placed in his own power.\" That truthful Eusebius says that this saying was pronounced not only about the final destruction but about all times, so that if any are over-curious and search into empty things, they might be deterred by these few words from confidently trusting that they could attain the doctrine of times with certain knowledge. Indeed this divine and Lordly oracle was given chiefly on this account, that the explorers of vain things might desist from fruitless labour. For the things which, once known and considered, bring some benefit, these he himself taught and made plain in the prophetic books, in which all things are contained in order up to the divine Word joined with fleshly nature, beginning from the oracles divinely published by the mouth of Moses."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.2",
+   "text": "2. Now of the very many reasons for this it will suffice to note only two principal ones: namely that the divine Word wished first of all to shut the mouth of those who dared to say that created things lack beginning and end; and next, to restore by his joyful coming men overthrown from their paternal inheritance, confirming through the preceding ages in continuous succession, by parables and visions, the mystery of the humanity to be assumed by him; and lastly imbuing his disciples with most perfect knowledge, having sent the Holy Spirit into them, whom he made both ministers and sharers of his secret will, and knowers of ineffable things, with whose brilliant splendour the whole creation has been filled. So men, taught the natures of all things, undertook to write of past, present and future, since they had been imbued with the notion of truth by the disciples of that truthful one; and then every most eloquent and wise man applied himself to working out the chronographies of his own nation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.3",
+   "text": "3. Among these (I mean the first and likewise the latest) that blessed Eusebius held the most ample place of dignity; then Socrates the historiographer, and very many others. Of our own nation, moreover, I say the first historian was Agathangelos, who wrote of the beginnings of the illumination of the Armenians brought about by the divine Gregory, whose manifold endurance also became wonderfully renowned. There followed Moses of Khoren, most noble for historical truthfulness; then Elishe, and Lazarus, and Faustus, also called the Byzantine, a somewhat older historian; and also Heraclius, praised by the bishop Sebeos; then also Leontius the priest, and Sabuhius, and the lord John, and finally in a later age Stephen the doctor, surnamed Asoghik. And these wove their narratives about Armenian affairs, and likewise very many others about the individual nations, only from after Adam was sent out of paradise, omitting the life which he spent in paradise.... as the Lord said, that is, that the day and hour at which he himself is to come is known beforehand by no one; and since he referred these words to the angels and to the Son himself, they raise this question: But if he himself was to come, how did he not know the hour? I therefore think this was said by him so as not to afflict them with grief."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.4",
+   "text": "4. I, however, unmindful of my inexperience and lack of learning, at your request, O Gregory shining with holiness, have been driven by eagerness to oblige you to write what you desired. Come then, relying on the help of the Holy Spirit, I shall pluck from these historians, briefly, the substance of my account, as your judgement directs, yet so that I nowhere turn aside from the path of truth. And indeed out of so great a number two above all will carry the torch before me, Eusebius and Moses of Khoren. Now first, beginning from Adam, I shall end at Noah; from there I shall go on as far as Abraham. Afterwards, in the manner of chronographers, I shall arrange the times in linear fashion down to us. Finally, if in this work I reject vain things and embrace the necessary, I hope that I shall do something pleasing to you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.5",
+   "text": "5. Truly we consider it superfluous to recite the improbable histories and barbarous names of the Chaldeans: if anyone needs them, the book of the wonderful Eusebius is at hand, without which we confess we could not write ourselves. Although in fact whatever of that kind is written there lacks neither fitness nor usefulness. For even if it designates the ancient Fathers by foreign names, and the reckonings of years swell enormously, yet the number of the Fathers agrees with the divine Scriptures. There was besides another reason why the things devised by them as if in dreams were related: namely because Abraham was a Chaldean, and his forefathers natives of Chaldea, which the book of Genesis openly shows. Indeed those narratives supply every kind of testimony to the truth, namely as regards the flood, the building of the tower, and the other things that follow there. This, I say, was the reason for those blessed Fathers why they thought these things should be recorded. For us, however, since their labours seem to suffice, the material that serves our purpose will be enough."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.6",
+   "text": "6. Now those most wise elders judged that the beginning of the Chronicles itself should be taken from Adam's departure from those most blessed abodes. But whoever talks nonsense otherwise, repeatedly claiming that the length of his dwelling [there] is known to him, or blurts out rash things about the founding of heaven and earth, to such a one, I say, beware of giving credence. For from the time when he who was called Adam (by which name all men together are signified) fell from the sweetest manner of life, from then, I say, our reckoning of the times took its beginning, namely that which is in the translation of the Seventy Men; for among the Hebrews a great discrepancy is found, especially in the number of the years. Moreover, those who follow the Seventy Men have the Holy Spirit as guide; and adhering to them we too shall carry through the task we have undertaken."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab2",
+   "text": "CHAPTER I."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab3",
+   "text": "What reckoning of times is set down among the Seventy Translators from Adam up to the flood."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.7",
+   "text": "I. The first man, Adam, after the departure from paradise, in the 230th year of his age begot Seth by Eve his wife; and he lived on 700 years, up to the 137th year of Mahalalel. He also begot other sons and daughters. He died in the 930th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.8",
+   "text": "II. Seth, aged 205 years, begot Enosh by Alora his wife; and he lived on 707 years, up to the 20th year of Enoch. He begot sons and daughters. He died in the 912th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.9",
+   "text": "III. Enosh, aged 190 years, begot Cainan by Nuena his wife; and he lived on 715 years, up to the 53rd year of Methuselah. He begot sons and daughters. He died in the 905th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.10",
+   "text": "IV. Cainan, aged 170 years, begot Mahalalel by Malaleda his wife; and he lived on 740 years, up to the 81st year of Lamech. He begot sons and daughters. He died in the 910th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.11",
+   "text": "V. Mahalalel, aged 165 years, begot Jared by Dina his wife; and he lived on 730 years, up to the 48th year of Noah. He begot sons and daughters. He died in the 895th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.12",
+   "text": "VI. Jared, aged 162 years, begot Enoch by Baracha his wife; and he lived on 800 years, up to the 280th year of Noah. He begot sons and daughters. He died in the 962nd year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.13",
+   "text": "VII. Enoch, aged 165 years, begot Methuselah by Jadnera his wife; and he lived on 200 years; and since he had pleased God, he was translated in the 33rd year of Lamech. He begot sons and daughters; he was translated in the 365th year of his age. From Adam up to the translation of Enoch, 7 generations and 1487 years are reckoned up."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.14",
+   "text": "VIII. Methuselah, aged 167 years, begot Lamech by Edna his wife; and he lived on 802 years. He survived the flood by 14 years, which is known from the span of his life. In other copies, however, he is recorded to have lived 782 years after he had begotten. He begot sons and daughters. He died in the 969th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.15",
+   "text": "IX. Lamech, aged 188 years, begot Noah by Bedna his wife; and he lived on 535 years. Lamech died before his father Methuselah, having lived up to the 535th year of Noah. He begot sons and daughters. He died in the 723rd year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.16",
+   "text": "X. Noah, aged 500 years, begot Shem, Ham and Japheth by Noemzara his wife; and he lived on 100 years up to the flood, and after the flood 350 years. He died in the 950th year of his age. From the translation of Enoch up to the flood, three generations and 755 years are gathered. From Adam, ten generations and 2242 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab4",
+   "text": "CHAPTER II."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab5",
+   "text": "What reckoning of times is written among the Seventy Translators from Shem to the first year of Abraham."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.17",
+   "text": "XI. Shem, aged 100 years, begot Arphaxad in the second year after the flood by Dizaclibade his wife; and he lived on 500 years. He begot sons and daughters. He died in the 600th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.18",
+   "text": "XII. Arphaxad, aged 135 years, begot Sala by Rabuia his wife; and he lived on 403 years. He begot sons and daughters. He died in the 538th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.19",
+   "text": "XIII. Sala, aged 130 years, begot Heber by Mucha his wife; and he lived on 406 years, until the 7th year of Serug. He begot sons and daughters. He died in the 536th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.20",
+   "text": "XIV. Heber, aged 134 years, begot Peleg by Zuba his wife; and he lived on 433 years, until the 38th year of Nahor. He begot sons and daughters. He died in the 567th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.21",
+   "text": "XV. Peleg, aged 134 years, begot Reu by Ziura his wife; and he lived on 209 years, until the 77th year of Serug. He begot sons and daughters. He died in the 343rd year of his age. In the age of Peleg the earth was divided: for 'Peleg' also means division. He indeed died before his father. Into his age also fell the building of the tower, and likewise the division of speech, which until then had been one, into very many dialects according to the number of the tribes; on this matter the external historians agree with divine Scripture. So from the flood to the tower five generations and 525 years are completed; and from Adam fifteen generations and 2767 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.22",
+   "text": "XVI. After Peleg, Reu, aged 135 years, begot Serug by Sura his wife; and he lived on 207 years, until the 77th year of Nahor. He begot sons and daughters. He died in the 342nd year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.23",
+   "text": "XVII. Serug, aged 130 years, begot Nahor by Melcha his wife; and he lived on 200 years, until the year of Abraham. He begot sons and daughters. He died in the 330th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.24",
+   "text": "XVIII. Nahor, aged 79 years, begot Terah by Iescha his wife; and he lived on 119 years, until the 49th year of Abraham. He begot sons and daughters. He died in the 198th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.25",
+   "text": "XIX. Terah, aged 70 years, begot Abraham by Edna his wife; and he lived until the 35th year of Isaac, that is, he survived 135 years. He begot sons and daughters. Terah died in the 205th year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.26",
+   "text": "XX. The first year of Abraham. From the flood to the first year of Abraham nine generations and 942 years are completed; and from Adam 19 generations and 3184 years, so that Abraham is in the twentieth generation. This, at any rate, is according to the translation of the Seventy Men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab6",
+   "text": "CHAPTER III."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab7",
+   "text": "On Cainan and certain other matters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.28",
+   "text": "1. Not a few very learned historians, indeed, add Cainan, with 120 years, to the generations and the number of years; and they say he was born of Arphaxad and was the father of Sala. They describe the matter thus: Arphaxad, aged 137 years, begot Cainan by Rabuia his wife; and when he had lived 403 years more, he died. Cainan, aged 120 years, had Sala by Secha his wife; and when he had lived 397 years more, he died. Moreover, as witnesses to this they use most celebrated and most learned men, namely Origen and Gregory the Theologian and Epiphanius of Cyprus; indeed even Luke the evangelist, full of the Holy Spirit, who brought him into his genealogy. According to their opinion, then, Abraham occupies the twenty-first place after Adam; and the sum of years which Eusebius writes as 3184 from Adam to Abraham rises to 3304."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.29",
+   "text": "2. Furthermore, Moses of Khoren too, drawing up a comparative table of the lines that reach from the three sons of Noah down to Abraham, took care to insert this same patriarch Cainan into his history, fourth from Noah and third from Shem; and on the same reckoning he calls Tiras fourth from Noah and third from Japheth, and finally Mestraim fourth from Noah and third from Ham. On this the same historian Moses writes in this way: 'It is hard, namely, to have a thoroughly examined reckoning of times from the very origin of things, and to gather it together; but much more difficult to trace the very descents of men in order from the three sons of Noah. For the divine writings too, having chosen the line of Shem, which concerned them, took no account of the rest, as being, evidently, despised and not worthy to be inserted into the text of their discourse.' And again he says: 'Although this is not found written in any copy of our translation, nor does it appear in any Chronicle except with a certain learned and ingenious Syrian man, nevertheless it is quite clear to us that Mestraim is the same as Mizraim, who indeed seems to be Egypt, just as Nimrod is Belus.' And then he arranges the table of these three nations thus:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.30",
+   "text": "3. Then he adds: 'In the line of Ham down to Ninus the years at which each begot are nowhere found expressed, or at any rate have not come down to us; and about our Japheth too nothing sufficiently certain is handed down; nevertheless the lineage of these three families as set out is most true to this extent, that there are eleven generations down to Abraham, Ninus and Aram. For Ara holds the twelfth place and is later than Ninus; and he died at an untimely age, slain by Semiramis.' About these things there is no reason for anyone to display doubt. For he says: 'I have picked out, to the best of my ability, the more certain things from various histories, which I think will be attacked by no sensible person, unless perhaps some suffer from a desire to extinguish the truth; and if there are any such, let them amuse themselves in this way as much as they please.'"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.31",
+   "text": "4. Let us therefore now begin to write in detail from the three sons of Noah down to the revelation of the divine Word: first the line of Shem, then of Ham, last of Japheth. Shem, the eldest son of Noah, the foreign nations denote by the name Zervan, Ham by Titan, Japheth by Iapetosthes. And not only to these, but also to the other patriarchs, beginning from Adam, they give uncouth names, and they put forward the number of years of each, namely thus: 'I. Alorus, ten sars.' (They say a sar contains three thousand six hundred years. They also add certain ners and sosses: a ner makes six hundred years, a soss sixty.)"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.32",
+   "text": "They fix the whole age of these ten kings at one hundred and twenty sars, which are forty-three myriads of years and two thousand years besides. So say the historians of the Chaldeans. But let us, passing over these uncertain things, proceed to tell what the divine books relate, in this way."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab8",
+   "text": "CHAPTER IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab9",
+   "text": "The divisions of the nations."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.33",
+   "text": "1. To Shem were born five children: Elam, from whom the Elamites; Asshur, from whom the Assyrians; Arphaxad, from whom the Chaldeans; Lud, from whom the Lydians; and lastly Aram, from whom the Aramaeans, who are also called Syrians. The children of Aram are: Hus, from whom the Lagi; Enul, from whom the Enulii; Gader, from whom the Gaspheni; Meshech, from whom the Moseni. The sons of Arphaxad: Sala, whose son was Heber, from whom the Hebrews. The sons of Heber: Peleg, from whom the line of Abraham is made up; Joktan, from whom thirteen children are born: of whom the eldest was Elmodad, from whom the Indians; then Salecus, from whom the Bactrians; Hazarmaveth, from whom the Arabs; Jerah, from whom the Jarachaeans; Hadoram, from whom the Carmeli; Uzal, from whom the Arians; Diklah, from whom the Gedrosians; Ebal, from whom the Scythians; Abimael, from whom the Hyrcanians; Sheba, from whom the first Arabs; Ophir, from whom the Aramii; Havilah, from whom the Gymnosophists; Jobab, from whom the Aradians. All these were born to Joktan, brother of Peleg; and their dwelling extends from Masis until you come to Sephar, the eastern mountain. And elsewhere it is said that the whole offspring of Shem inhabits all the tract from the borders of Bactria to Rhinocorura, where Syria is divided from Egypt, and likewise from the Red Sea, and from the shore of the sea which is at Indian Arsinoe."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.34",
+   "text": "2. The children of Ham were five: of whom the eldest was Cush, from whom the Cushites; then Mizraim, from whom the Egyptians; Phut, from whom the Troglodytes; Canaan, from whom the Africans and the Phoenicians. The children of Cush are: Seba, Havilah, Sabtah, Raamah, Sabtecha. Again, the children of Raamah: Sheba and Dedan. The divine writings say besides that from Cush was born Nimrod, who was the first giant on earth, and that this giant devoted himself to hunting before the Lord God; and that he began his kingdom from Babylon, from Erech, from Accad, from Calneh, in the land of Shinar. From there came forth Asshur, by whom Nineveh and likewise the city of Rehoboth were founded, with Calah; and also Resen, between Nineveh and Calah, which is a very great city. And Mizraim, father of the Egyptians, begot Ludim, from whom the Lydians; Anamim, from whom the Pamphylians; Lehabim, from whom the Libyans; Naphtuhim, and Pathrusim, from whom the Cretans; Casluhim, from whom the Lycians, whence also the race of the Philistines; Caphtorim, from whom the Dacians. Further, Canaan had as first of his sons Sidon, from whom the Sidonians, and the Hittites, and the Jebusites, and the Amorites, and the Girgashites, and the Hivites, and the Arkites, from whom also the Tripolitans and the Aminaei; then Aradius, from whom the Aradians; Samrinus, from whom the Orthosians; Hamath, from whom the Amathusians. From these were sown thirty-two nations of the Canaanites in all, whose borders were from Sidon until you come to Gerar, and from Gaza until you come to Sodom and Gomorrah and Admah and Zeboiim and Lasha. In another place, however, these nations are said to have inhabited the southern regions from Rhinocorura to Gadeira."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.35",
+   "text": "3. Again, from the same book of Genesis, the children of Japheth: Gomer, from whom the Gamiri; Magog, from whom the Celts and Galatians; Madai, from whom the Medes; Javan, from whom the Hellenes and Ionians; Elisha and Tubal, from whom the Thessalians; Meshech, from whom the Illyrians; Tiras, from whom the Thracians; Kittim, from whom the Macedonians. Further, the children of Gomer: Ashkenaz, from whom the Sarmatians; Riphath, from whom the Sauromatians; Togarmah, from whom the Haykians. And the children of Javan: Elisha, from whom the Sicilians and Athenians; Tarshish, from whom the Iberians and Tyrrhenians; Kittim, from whom the Romans and Latins and Rhodians. From these, colonists were led out through the islands of the nations, each into their own regions, fifteen peoples in all, and these reach from the Medes as far as Hesperia, which lies open to the Ocean and looks toward the northern quarter. Next are listed fifty-one peoples, and likewise their domains through the northern tract from the Medes to Gadeira. They extend, that is, from the river Potaminus as far as Mastusia, which is Ilium."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.36",
+   "text": "4. But I undertook to set out distinctly the several nations of the three sons of Noah as far as Christ joined to human nature, although the divine Scriptures contain in writing only the series of the Semitic family, and about Ham and Japheth, apart from what I said above, they record nothing. So I shall now begin the line of Shem from the first year of Abraham: for up to this point I have written in what precedes, though in a brief style, with much passed over; and I shall use this manner of writing also in what follows, which I shall gather from reliable historians, both foreign and our own, as shall seem fitting."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab10",
+   "text": "CHAPTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab11",
+   "text": "The lineage of Shem."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.38",
+   "text": "1. Come then, I shall begin from where I broke off the order of the generations, and I shall leave out the narratives that were inserted. There, namely, it was said that Abraham, Nahor and Haran were born to Terah when he was seventy years old. Further, Haran, after Lot was born, died before his father Terah in his native land, Chaldaea. And Abraham and Nahor took wives for themselves: Abraham Sarah, and Nahor Milcah, daughter of Haran. But Sarah was barren and bore no offspring. Then Terah, leaving Chaldaea with his children to migrate into Canaan, went as far as Harran and settled there; and when he was in his two hundredth year, he died at Harran."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.39",
+   "text": "2. In the seventy-fifth year of his age Abraham was deemed worthy of a revelation from God, and was ordered to leave his land. So, leaving Harran, he settled in Canaan. Then, when he was already eighty-six years old, Hagar, Sarah's maidservant, bore him a son, to whom he gave the name Ishmael, from whom is the nation of the Ishmaelites, that is, of the Hagarenes, who are also called Saracens and Tajiks. Moreover, in the year before his hundredth, God made with him the covenant of circumcision, and so he himself and all the males of his household began to practise circumcision; and then also he was called Abraham instead of Abram, and likewise Sarra instead of Sara. And before that year had passed, the Lord God, appearing to him with angels at Mamre, promised of his own accord that he would grant him offspring. The divine Word, offering himself to be seen in human form by Abraham, first among the prophets, foreshadowed the calling of the gentiles, which God at last brought to completion through the gospel teaching of the divine Word in us, that is, in the whole body of the nations."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.40",
+   "text": "3. Now when Abraham was in his hundredth year, Isaac was born to him from his wife Sarah; at his birth Sarah herself was in her ninetieth year. She, having lived thirty-seven years after Isaac was born, departed this life. After Sarah's death Abraham sent his servant Eliezer of Damascus into Mesopotamia, and arranged for Rebecca, daughter of Bethuel and sister of Laban, to be given in marriage to his son Isaac. Then he too took Keturah as his wife, by whom he had six children. And so offspring arose to Abraham from three wives: first from Hagar the Egyptian, Ishmael, from whom the nation of the Ishmaelites; then from Sarah, Isaac, from whom the nation of the Jews; lastly from Keturah came the nation of the Parthians, whose scion is that famous Arshak, progenitor of the Pahlavid and Arsacid families. So Abraham, after the birth of Isaac, having lived another seventy-five years, so that he lived a hundred and seventy-five years in all, met his end. Isaac in the sixtieth year of his age begot Esau and Jacob, after he had been married to Rebecca for twenty years. And he, surviving a further hundred and twenty years, died in the hundred and eightieth year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.41",
+   "text": "4. Twelve sons and a daughter were born to Jacob from the two daughters of Laban, namely Leah and Rachel, and also from their two maidservants, Bilhah and Zilpah. Although the first born to him was Reuben, whom he begot in the eighty-fifth year of his age, then Simeon in the eighty-sixth, yet Levi is put first in order, whom he begot in the eighty-seventh year of his age, from whose line also the great Moses arose; and this is described thus: Jacob at eighty-seven years old had Levi by his wife Leah; Levi at forty-six years old begot Kohath; Kohath at sixty-three years old begot Amram; Amram at seventy years old begot Moses; Moses at eighty years old led the people out of Egypt."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.42",
+   "text": "5. Again, according to the chronological canons of Eusebius, Joseph was born to Jacob in his ninety-second year from his wife Rachel; then Joseph, in the seventeenth year of his age, was sold by his brothers and went into Egypt; and after he had been thirteen years in prison there, in the thirtieth year of his age he obtained the rule of Egypt, which he exercised for eighty years, and at last in his hundred and tenth year he met his last day. In the first year of Egypt's plenty the government of affairs was handed over to Joseph; and in the eighth year famine began to rage there, and in the second year of that calamity Jacob went down into Egypt in the hundred and thirtieth year of his age, and having prolonged his life there a further seventeen years, closed it at last in his hundred and forty-seventh year, at which time Joseph was already in the twenty-sixth year of his rule, and he survived another fifty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.43",
+   "text": "6. After Joseph was taken from the living, the children of Israel served in slavery to the Egyptians for a hundred and forty-four years. So from Jacob's descent there are two hundred and fifteen years. In the sixty-fourth year of the slavery Moses saw the light; and he, having entered his eightieth year, together with his brother Aaron, then eighty-three years old, led the people out of Egypt; and after he had led them in the desert for forty years, he died in the hundred and twentieth year of his age. After Moses, Joshua son of Nun, having crossed the Jordan, brought the people into the land of the promise within twenty-seven years, and died in the hundred and tenth year of his age."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.44",
+   "text": "7. Joshua was followed by the rule of the Judges, of whom the first [was]"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.45",
+   "text": "I. Othniel, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.46",
+   "text": "II. Ehud, eighty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.47",
+   "text": "III. Barak and Deborah, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.48",
+   "text": "IV. Shamgar after that, who slaughtered six hundred foreigners."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.49",
+   "text": "V. Gideon, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.50",
+   "text": "VI. Abimelech, three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.51",
+   "text": "VII. Tola, twenty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.52",
+   "text": "VIII. Jair, twenty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.53",
+   "text": "IX. Jephthah, six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.54",
+   "text": "X. Ibzan, seven years. (Barak had seventy children, Ibzan thirty.) After Ibzan, in the Hebrew copy, the judge Elon is added, for ten years, whom however the Seventy Translators do not recognise. In his third year Ilium was taken."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.55",
+   "text": "XI. Abdon, eight years. He had forty children, and their sons, thirty, rode on seventy asses."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.56",
+   "text": "XII. Samson, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.57",
+   "text": "XIII. Eli, forty years. But in the copy of the Seventy Translators twenty are written."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.58",
+   "text": "XIV. Samuel and Saul, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.59",
+   "text": "8. Indeed, since in unfolding the line of Shem we promised to compose a series of generations not differing from the gospel account of Matthew, down to Joseph and Mary, we ought to have chosen Judah from among Jacob's children, from whom to trace the generations, since from his stock the Lord arose. Nevertheless it was necessary, for the sake of Moses and Joshua and the others who gave judgement to the people down to David, to mention Levi in place of Judah. Now, however, let us take the matter up again from where it is fitting."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.60",
+   "text": "9. Abraham begot Isaac; Isaac Jacob; Jacob in the eighty-eighth year of his age had Judah by his wife Leah; Judah at forty-eight years old begot Perez; and Perez in the fifty-eighth year of his age [begot] Hezron; Hezron in the fifty-eighth year of his age begot Ram; Ram in the forty-seventh year of his age begot Amminadab; Amminadab in the forty-fifth year of his age begot Nahshon. Further, he says, Amminadab was leader of the forces of Judah at the time when Moses led the offspring of Israel out of Egypt. So from the first year of Abraham to the migration from Egypt there are reckoned eight generations and five hundred and five years; and from Adam twenty-eight generations and three thousand six hundred and eighty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.61",
+   "text": "10. Nahshon at forty-four years old begot Salmon. And Nahshon, he says, was prince of the myriads of Judah in the desert, and his sister Elisabeth was married to Eleazar son of Aaron, from which marriage Phinehas was born; and so it came about that the line of Judah was joined by kinship with the Levitical. Salmon at thirty-five years old begot Boaz. And Salmon, he says, was prince of the tribe of Judah at the time when Joshua crossed the Jordan with the people. He took as his wife Rahab, whom the holy evangelist calls Rechab. He also founded the city of Bethlehem in the territory of Judah."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.62",
+   "text": "11. Boaz at one hundred and eight years old begot Obed. Ruth, a Moabite woman, married Boaz. Epiphanius calls Ruth an Amanite, that is, an Ammonite. Obed at one hundred and one years old begot Jesse; Jesse at one hundred and thirty years old begot David; David at fifty-eight years old begot Solomon. He began his reign at thirty, and held it for forty years, his life being prolonged to the seventieth year. Solomon at twenty-two years old begot Rehoboam. He also, in the fourth year of his reign, was raising the building of the temple. (From Moses and the exodus from Egypt to Solomon and the work on the temple, four hundred and eighty years are reckoned; and from Adam four thousand one hundred and sixty-nine.) He obtained the kingdom at twelve years old, and occupied it for forty years, living fifty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.63",
+   "text": "12. After Solomon the kingdom of Israel was divided in two. Jeroboam son of Nebat ruled the ten tribes in Samaria, and he was called king of Israel. In Jerusalem, however, Rehoboam son of Solomon ruled, and he was called king of Judah."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.64",
+   "text": "I. Rehoboam reigns in Jerusalem seventeen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.65",
+   "text": "II. Abijah three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.66",
+   "text": "III. Asa forty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.67",
+   "text": "IV. Jehoshaphat twenty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.68",
+   "text": "V. Jehoram eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.69",
+   "text": "VI. Ahaziah one year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.70",
+   "text": "VII. Athaliah his mother seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.71",
+   "text": "VIII. Joash forty years. These three kings, namely Ahaziah with his mother Athaliah, Joash and Amaziah, the evangelist did not bring into his genealogy for this reason, that she had been a daughter of Ahab, and they his grandsons."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.72",
+   "text": "IX. Amaziah twenty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.73",
+   "text": "X. Azariah, who is also Uzziah, fifty-two years. In the forty-ninth year of Uzziah the first Olympiad was held."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.74",
+   "text": "XI. Jotham sixteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.75",
+   "text": "XII. Ahaz sixteen years. In the eleventh year of Ahaz Israel was reduced to servitude by Shalmaneser."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.76",
+   "text": "XIII. Hezekiah twenty-nine years. In the ninth year of Hezekiah Romulus founded Rome, which was the one thousand two hundred and eighty-third year from Abraham."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.77",
+   "text": "XIV. Manasseh fifty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.78",
+   "text": "XV. Amon sixteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.79",
+   "text": "XVI. Josiah thirty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.80",
+   "text": "XVII. Jehoahaz three months. Necho led Jehoahaz away captive, and named Eliakim king."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.81",
+   "text": "XVIII. Eliakim, who is also Jehoiakim, twelve years. In his tenth year Nebuchadnezzar subdued Judaea, and after receiving tribute from Eliakim withdrew."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.82",
+   "text": "XIX. Jehoiakim, who is also Jeconiah, three months. Nebuchadnezzar returned and deported Jehoiakim too into captivity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.83",
+   "text": "XX. Mattaniah, who is also Zedekiah, eleven years. In the twelfth year of Zedekiah Nebuchadnezzar the Chaldaean took Jerusalem and burned the temple. The temple had stood four hundred and forty-two years. The beginning of the captivity fell in the fourth year of the forty-seventh Olympiad, and it lasted seventy years. After the twentieth year of the captivity Nebuchadnezzar departed from life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.84",
+   "text": "13. Now in Matthew's genealogy Jeconiah begot Shealtiel in the fifty-sixth year of his age; he [begot] Zerubbabel in his fifty-sixth year; he Abiud in his forty-fifth year; he Eliakim in his sixtieth year; he Azor in his thirty-ninth year; he Zadok in his thirty-first year. In the first year of Zadok Alexander the Macedonian became famous. He [begot] Achim in the thirty-fourth year of his age; he Eliud in his thirtieth year; he Eleazar in his sixty-second year; he Matthan in his thirty-eighth year; he Jacob in his sixtieth year; he Joseph in his seventy-sixth year. Jesus Christ is born at Bethlehem of Judah. The sum of time from the restoration of the temple to the birth of Christ is five hundred and eighteen years; from Solomon and the first building of the temple to the second, five hundred and twelve years; from the exodus to Solomon, four hundred and eighty years; from Abraham to the exodus, five hundred and five years; from the flood to Abraham, nine hundred and forty-two years; from Adam to the flood, two thousand two hundred and forty-two years: the sum, finally, of time from Adam to the birth of Christ is five thousand one hundred and ninety-eight years, as the Seventy Translators teach."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.85",
+   "text": "14. After the death of Solomon, as has already been said, when Rehoboam had begun his reign, indeed in the first year of his reign, [there] began to rule over the ten tribes in Samaria:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.86",
+   "text": "I. Jeroboam son of Nebat, twenty-two years. Just as in David's time Gad, Nathan and Asaph had prophesied, and again in Solomon's time Zadok, Ahijah the Shilonite and Shemaiah, so also in the time of Jeroboam and of his son Nadab there prophesied Ahijah, Shemaiah, and also the one who [...] at the very altar of Samaria, as well as Joash, and Joel, and Azariah who is also Iddo, and Hanani."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.87",
+   "text": "II. Nadab two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.88",
+   "text": "III. Baasha twenty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.89",
+   "text": "IV. Elah two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.90",
+   "text": "V. Zimri seven months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.91",
+   "text": "VI. Omri twelve years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.92",
+   "text": "VII. Ahab thirteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.93",
+   "text": "Under him the prophets were Obadiah, Elijah, Jesus, Oziel, Michael; and the false prophets Zedekiah and Eliezer."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.94",
+   "text": "VIII. Ahaziah two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.95",
+   "text": "IX. Jehoram twelve years. Elijah and Elisha were again prophesying. In the seventh year of Jehoram Elijah was carried up."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.96",
+   "text": "X. Jehu twenty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.97",
+   "text": "The threats which the wrath of God had directed against Ahab and his wife Jezebel, Jehu brought to fulfilment by slaying the seventy children of Ahab, as well as Jezebel the Sidonian, and four hundred prophets of the accursed idol. At that time Azariah was prophesying among Israel."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.98",
+   "text": "XI. Jehoahaz seventeen years. In his time the king of Judah Joash killed Azariah, and Elisha also departed from life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.99",
+   "text": "XII. Joash sixteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.100",
+   "text": "XIII. Jeroboam forty-one years. In his time Hosea, Amos, Isaiah and Jonah prophesied."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.101",
+   "text": "XIV. Zechariah six months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.102",
+   "text": "XV. Shallum forty-five days."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.103",
+   "text": "XVI. Menahem ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.104",
+   "text": "XVII. Pekahiah ten years. In his ninth year the first Olympiad was held."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.105",
+   "text": "XVIII. Pekah twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.106",
+   "text": "XIX. Hoshea nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.107",
+   "text": "While Hoshea reigned, the ten tribes were delivered into servitude by Shalmaneser, and the Israelite kingdom of Samaria was destroyed, in the eleventh year of the reign of Ahaz, after it had stood two hundred and fifty years. From here to the temple at Jerusalem overthrown by the force of Nebuchadnezzar under Zedekiah, one hundred and fifty-six years are counted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.108",
+   "text": "15. From Chronicles. Now the priests of the line of Levi down to the captivity were these: Aaron, Eleazar, Phinehas, Abishua, Bukki, Uzzi, Zerahiah, Meraioth, Amariah, Ahitub, Zadok, Ahimaaz, Azariah, Johanan, Azariah, Amariah, Ahitub, Zadok, Shallum, Hilkiah, Azariah, Seraiah, Jehozadak, who went to Babylon at the time when Nebuchadnezzar pressed Judah with servitude. These things are recorded in Chronicles."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.109",
+   "text": "16. So when Josiah was already ruling Judah in the thirteenth year, Jeremiah made the beginning of his prophesying; then also in the twenty-second year of the same king Zephaniah and Jeremiah were prophesying; and again in the fourth year of Zedekiah Baruch and Jeremiah; and in the eighth year of the captivity Daniel at Babylon, and Ezekiel; then in the thirty-eighth year Haggai and Zechariah; and finally in the sixty-sixth year the same Haggai and Zechariah, and likewise Malachi. Another history relates that in these times Nahum, Habakkuk, Malachi and Daniel prophesied."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.110",
+   "text": "17. Now just as there were seers and prophets among the captives, so also after seventy years among the Jews who had been released, under the governor Zerubbabel, who restored the temple and the city; and there were also high priests down to the anointed leader, in whom the prophecy of the patriarch Jacob was destined to be fulfilled, when he said: A prince shall not fail from Judah, nor a leader from his thigh, until he comes to whom the dominion belongs. Now under the leader Zerubbabel the high priest was Jesus son of Jehozadak; then Jakim, who is also Joakim, son of Jesus; and also Elarus, who is also Eliashib, son of Jakim. There was besides Ezra the priest, scribe of the sacred laws, and noble teacher of those who had gone up from Babylon into Judaea. Joiada son of Eliashib, under whom Nehemiah, cupbearer of Artaxerxes, a Hebrew by race, came from Babylon to Jerusalem and raised the walls. John son of Joiada. John's son Jaddua, in whose time Alexander the Macedonian entered Jerusalem and worshipped God. Onias son of Jaddua. Simeon surnamed the Just. Simeon's brother Eleazar, under whom the Seventy Men, at the command of King Ptolemy, translated the divine books into the usage of the Greek language. Manasseh, Eleazar's paternal uncle. Onias son of Simeon the Just. Onias's son Simeon, under whom was Jesus son of Sirach. Simeon's son Onias."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.111",
+   "text": "18. Then thirty-three years later Antiochus Epiphanes entered Judaea and transferred the Jewish high priesthood from Jesus surnamed Jason to his brother Onias; and again, taking it from him, gave it to Onias surnamed Menelaus. Soon, after five years had passed, he occupied Jerusalem and plundered the temple, and set up a statue of Olympian Jupiter there; and on Gerizim [one] of Jupiter the Hospitable. At that time a certain priest Mattathias, son of Asamonaeus, from the town of Modein, fought with his sons in war against the forces of Antiochus. And his son Judas indeed put the Syrians to flight, purified the temple, and restored the ancestral rites, which had lapsed for three years. Then Alcimus, who is also Jakim, succeeded to the priesthood of Menelaus, high priest of the Jews, although he was foreign to the priestly line. For this reason Onias, born of a priest, set out for Egypt, and there founded the city of Amopolis, and in it saw to the erection of a temple after the likeness of that of Jerusalem. Alcimus, however, while contending with Judas, was shortly struck by God and perished. So by common vote the priesthood was conferred on Judas."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.112",
+   "text": "19. I. Judas, also [called] Maccabaeus, three years, within the one hundred and fifty-fifth Olympiad."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.113",
+   "text": "II. Jonathan, also [called] Apphus, nineteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.114",
+   "text": "III. Simon, also [called] Thassi, eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.115",
+   "text": "IV. Hyrcanus, also [called] John, twenty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.116",
+   "text": "V. Aristobulus one year. To the priesthood Aristobulus added the royal diadem."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.117",
+   "text": "VI. Jannaeus, also [called] Alexander, twenty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.118",
+   "text": "VII. Alexandra, wife of Alexander, nine years. This Alexandra was called Salina."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.119",
+   "text": "VIII. Hyrcanus thirty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.120",
+   "text": "20. When Aristobulus and Hyrcanus, the sons of Alexander, were contending with each other, Pompey the Roman came upon them and led Aristobulus away with him in chains, but confirmed Hyrcanus in the high priesthood; he was in fact captured by the Parthians thirty-four years later. Thus the kingdom of the Jews and its anointed rulers came to an end, as Daniel had foretold: by the name of anointed rulers are meant the high priests who governed the people after the return from captivity; who, beginning from the sixty-fifth olympiad under Darius, finally came to an end in the one hundred and eighty-sixth olympiad: this interval of time the prophet Daniel had foreshadowed under the title of seventy weeks. Indeed, after Hyrcanus there was no one of priestly lineage, but certain rulers of unknown stock, [holding office] for a month or a year. Then at last Herod, a foreigner, obtained the kingdom, in whose thirty-second year Our Lord Jesus Christ was born."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab12",
+   "text": "CHAPTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab13",
+   "text": "The lineage of Ham."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.121",
+   "text": "1. Up to this point, in keeping with the purpose we undertook, we have set out the descendants of Shem down to the coming of Christ, relying on the divine books. Now the things that concern Ham must be written; not, indeed, as with Shem, a succession of children, but the number of years, the names of kings, and which nations, grown in power, conquered one another, down to the human nature of the Saviour. From the point, then, at which our account stopped, when we described the offspring of Ham as the sacred Scriptures handed them down; from there, I say, let the narrative begin, drawn from books of sure trustworthiness, namely according to the accounts of the chronicles of Eusebius' canons and of the historian of the Armenians, Moses of Khoren; the latter of whom speaks thus: \"About Belus, in whose time our greatest forefather Hayk lived, many have handed down many and various things; but I say that the one whom they call Saturn and Belus was Nimrod: on which matter the Egyptians agree with Moses, listing Vulcan, the Sun and Saturn, who are Ham, Cush and Nimrod, leaving out Mizraim: for they say that the first man among them was Vulcan.\""
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.122",
+   "text": "2. Therefore this treatise of ours must begin from this very Belus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.123",
+   "text": "I. Belus rules over all the provinces of Asia, except the Indians, sixty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.124",
+   "text": "II. Ninus likewise after Belus, fifty-two years. In the forty-fourth year of this Ninus, Abraham was begotten by Terah."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.125",
+   "text": "III. Semiramis, wife of Ninus, forty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.126",
+   "text": "IV. Zames, also [called] Ninyas, thirty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.127",
+   "text": "V. Arius thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.128",
+   "text": "VI. Aralius forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.129",
+   "text": "VII. Xerxes, also [called] Baleus, thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.130",
+   "text": "VIII. Armamithres thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.131",
+   "text": "IX. Belochus thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.132",
+   "text": "X. Baleus fifteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.133",
+   "text": "XI. Altadas thirty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.134",
+   "text": "XII. Mamelus thirty years. In his fourteenth year Joseph died."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.135",
+   "text": "XIII. A second Mamylus thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.136",
+   "text": "XIV. Sparaethus forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.137",
+   "text": "XV. Manchaleus thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.138",
+   "text": "XVI. Sphaerus twenty years. In his third year Cecrops first reigned at Athens."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.139",
+   "text": "XVII. Ascades forty years. In his eighth year Moses, now eighty years old, led the people out of Egypt."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.140",
+   "text": "XVIII. Amyntas forty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.141",
+   "text": "XIX. Belechus twenty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.142",
+   "text": "XX. Balepares thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.143",
+   "text": "XXI. Lamprides thirty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.144",
+   "text": "XXII. Pannyas forty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.145",
+   "text": "XXIII. Sosarmus nineteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.146",
+   "text": "XXIV. Zosares twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.147",
+   "text": "XXV. Lamprides thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.148",
+   "text": "XXVI. Mithraeus twenty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.149",
+   "text": "XXVII. Tautanes thirty-one years. In the twenty-fifth year of Tautanes the city of Ilium was taken."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.150",
+   "text": "XXVIII. Teutaeus forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.151",
+   "text": "XXIX. Otheneus thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.152",
+   "text": "XXX. Dercyllus forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.153",
+   "text": "XXXI. Eupalles thirty-eight years. His thirty-third year coincided with the fourth year of Solomon and with the building of the temple."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.154",
+   "text": "XXXII. Lavosthenes forty-five years. The Jewish nation is divided in two."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.155",
+   "text": "XXXIII. Pertiages thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.156",
+   "text": "XXXIV. Ophrates twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.157",
+   "text": "XXXV. Ophratanes fifty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.158",
+   "text": "XXXVI. Acrapales forty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.159",
+   "text": "XXXVII. Thonnus Concolerus, called in Greek Sardanapalus, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.160",
+   "text": "3. This Sardanapalus was the thirty-seventh from Belus, and the last of the kings of the Assyrians. He also surpassed all who had preceded him in his devotion to voluptuous softness and luxury. For this reason a certain Varbaces, a Mede by birth, a man endowed with strength and outstanding spirit, since he was commander of the Medes and one of those who came each year to the city of Ninus to exercise their command; he, I say, having learned of the king's depraved character, bound friends to himself by generosity, above all Belesis, supreme commander of the Babylonians, in alliance with whom he defeated Sardanapalus, who withdrew into his palace and burned himself in a fire. Then Varbaces set Belesis as king over Babylon, and likewise adorned our Paruyr with a diadem for the service rendered to him; he himself transferred the empire of the Assyrians to the Medes. After that there was an interregnum until Deioces, king of the Medes. In the intervening time the Chaldeans held power; their times and successions, with their own particular kings, are written separately."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.161",
+   "text": "4. Here, then, let the kings of the Babylonians be set down."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.162",
+   "text": "I. Pul sixteen years. In his sixteenth year the first olympiad was held."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.163",
+   "text": "II. Tiglath-pileser twenty-seven years. In his thirteenth year he advanced into Judaea and led away captive the greater part of its inhabitants."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.164",
+   "text": "III. Shalmaneser ruled the Assyrians sixteen years. He too, in the third year of his reign, in the eighth olympiad, having carried the ten tribes into captivity, destroyed the kingdom of Samaria."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.165",
+   "text": "IV. Sennacherib ruled the Assyrians eighteen years. He undertook an expedition against Jerusalem and besieged the cities of Judaea. From him to Nebuchadnezzar the historians of the Chaldeans count eighty-eight years. Among the same [historians], after Sennacherib, is written"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.166",
+   "text": "V. Asordanes his son, eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.167",
+   "text": "VI. Asodes twenty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.168",
+   "text": "VII. His brother twenty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.169",
+   "text": "VIII. Nabopolassar eleven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.170",
+   "text": "IX. Merodach-baladan ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.171",
+   "text": "X. Then Nebuchadnezzar forty-three years, from the forty-second olympiad. In the tenth year of Eliakim he brought the Jews under his power and led away the greatest part of them to be given over to servitude. Then also [he took] Daniel and the three youths three years later: for he came again and carried off Joachim himself as a captive. When Nebuchadnezzar was already reigning in his twenty-third year, Jerusalem was taken: and in the fifth month after, Nebuzaradan, the chief of the guards, set fire to the temple. Finally, in the twentieth year of the Jewish captivity, Nebuchadnezzar departed from life. In his place was put his son"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.172",
+   "text": "XI. Belshazzar, also [called] Evil-merodach, two years. Then"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.173",
+   "text": "XII. Astyages one year. He saw the letters inscribed on the wall which Daniel interpreted."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.174",
+   "text": "XIII. Darius the Mede four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.175",
+   "text": "XIV. Darius [son] of Arsavir three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.176",
+   "text": "Then the empire of the Babylonians was abolished."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.177",
+   "text": "5. Now come, let us set out the kings of the Medes. After Sardanapalus was destroyed, the first to reign was"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.178",
+   "text": "I. Varbaces twenty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.179",
+   "text": "II. Sosarmus thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.180",
+   "text": "III. Mamicar forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.181",
+   "text": "IV. Cardiceus thirteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.182",
+   "text": "V. Deioces fifty-four years. He founded Ecbatana."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.183",
+   "text": "VI. Phraortes twenty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.184",
+   "text": "VII. Cyaxares thirty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.185",
+   "text": "VIII. Asdahages thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.186",
+   "text": "Tigranes the Haykian, joined in alliance with Cyrus the Persian, killed him. Although Eusebius and other historians say that Asdahages was overthrown by Cyrus alone, by whom the kingdom of the Medes was also abolished, nevertheless Moses reports that the killing of Asdahages was carried out by Tigranes. And this becomes probable because of several things that happened, namely because of the dream, and the deceitful pretence of Asdahages by which he had arranged to join Tigranes' sister to himself in marriage; to whom he also disclosed the secret plan of his mind. When the matter was understood, Tigranes carried out in daylight what he had seen in his dream. Yet this is not unreasonably attributed to Cyrus himself: for since both lived at the same time, and Tigranes was indeed bound to Cyrus by alliance in arms, he appeared to be carrying out his command."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.187",
+   "text": "6. Come, it is fitting at this point to place the kingdom of the Lydians also. In the twelfth year of Sosarmus king of the Medes the first olympiad was completed, and in the same year the first to reign among the Lydians was"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.188",
+   "text": "I. Ardys [son] of Alyattes, thirty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.189",
+   "text": "II. Alyattes fourteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.190",
+   "text": "III. Meles twelve years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.191",
+   "text": "IV. Candaules seventeen [years]."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.192",
+   "text": "Herodotus tells the story of this Candaules, namely that, carried away by excessive devotion to his wife, he thought her the most beautiful of all women, and secretly showed her stripped of her clothes to Gyges; the wise wife, moved to anger by this disgrace, had him killed and took Gyges as her husband."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.193",
+   "text": "V. Gyges thirty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.194",
+   "text": "VI. Ardys thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.195",
+   "text": "VII. Sadyattes fifteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.196",
+   "text": "VIII. Alyattes forty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.197",
+   "text": "IX. Croesus fifteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.198",
+   "text": "He is said to have been killed in the fourteenth year of Cyrus by that same Cyrus. Thus the kingdom of the Lydians was ended. The historian of the Armenians, Moses, however, says that Croesus was captured and killed by Artaxerxes the Parthian, and calls on many witnesses to this, as may be seen in his book."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.199",
+   "text": "7. So in this way, as is related, the empires of the Babylonians, Medes and Lydians having been abolished, there reigns"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.200",
+   "text": "I. Cyrus thirty years. In the first year of his reign he granted freedom to fifty thousand captives of the Jewish nation, who, having returned to Jerusalem, set up an altar and laid the foundations of the temple; but because of the neighbouring nations it remained unfinished until Darius [son] of Hystaspes. Tomyris, heroine of the Massagetae, killed Cyrus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.201",
+   "text": "II. Cambyses, nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.202",
+   "text": "III. The two Magi brothers, eight months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.203",
+   "text": "IV. Darius son of Hystaspes, thirty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.204",
+   "text": "In his second year Zerubbabel builds the temple, which was completed in the fourth year of the sixty-fifth olympiad."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.205",
+   "text": "V. Xerxes [son] of Darius, twenty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.206",
+   "text": "VI. Artabanus, seven months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.207",
+   "text": "VII. Artaxerxes Longimanus, forty years. Some say that Esther lived under him; but I do not approve this, says Eusebius, since the books of Ezra, written in that period, make no mention of it."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.208",
+   "text": "VIII. Xerxes, two months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.209",
+   "text": "IX. Sogdianus, seven months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.210",
+   "text": "X. Darius Nothus, nineteen years, from the eighty-ninth olympiad."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.211",
+   "text": "XI. Artaxerxes Mnemon, forty years. Under him Esther lived."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.212",
+   "text": "XII. Artaxerxes, also [called] Ochus, twenty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.213",
+   "text": "XIII. Artaxerxes [son] of Ochus, four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.214",
+   "text": "XIV. Darius [son] of Arsames, six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.215",
+   "text": "These occupied two hundred and thirty years. After that Alexander of Macedon reigns, in the first year of the one hundred and eleventh olympiad, and in the seventh year of his reign he takes Babylon, and having killed Darius he destroys the empire of the Persians."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.216",
+   "text": "8. Now, since I have come to mention Alexander, I would like to set down in this writing all the kings of the Macedonians from the beginning. For Alexander was not the first king of the Macedonians, but the twenty-fourth. Now the first king of the Macedonians was"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.217",
+   "text": "I. Caranus, thirteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.218",
+   "text": "II. Coenus, three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.219",
+   "text": "III. Tyrimmas, thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.220",
+   "text": "IV. Perdiccas, fifty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.221",
+   "text": "V. Argelaus, thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.222",
+   "text": "VI. Philip, thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.223",
+   "text": "VII. Aeraeus, twenty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.224",
+   "text": "VIII. Alcetas, twenty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.225",
+   "text": "IX. Amyntas, fifty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.226",
+   "text": "X. Alexander, forty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.227",
+   "text": "XI. Perdiccas, twenty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.228",
+   "text": "XII. Archelaus, twenty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.229",
+   "text": "XIII. Orestes, three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.230",
+   "text": "XIV. Archelaus, three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.231",
+   "text": "XV. Amyntas, one year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.232",
+   "text": "XVI. Pausanias, one year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.233",
+   "text": "XVII. Amyntas, six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.234",
+   "text": "XVIII. Argaeus, two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.235",
+   "text": "XIX. Amyntas, eighteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.236",
+   "text": "XX. Alexander, one year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.237",
+   "text": "XXI. Ptolemy, four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.238",
+   "text": "XXII. Perdiccas, four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.239",
+   "text": "XXIII. Philip, twenty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.240",
+   "text": "XXIV. Alexander [son] of Philip, twelve years and six months. He, having overthrown many kings, gained possession of the world, and at the age of thirty-two met his last day at Babylon. After that his empire was divided among several. Over the Macedonians themselves rules Philip, also [called] Arrhidaeus; at Alexandria in Egypt, Ptolemy [son] of Lagus; then five years later Antigonus rules over the Asians; and finally, in the twelfth year after Alexander's death, Seleucus Nicanor holds dominion over the Syrians, Babylon and the upper regions."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.241",
+   "text": "9. Come then, since we have mentioned these, let it not be irksome also to include in writing the names of each."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.242",
+   "text": "When Alexander had been taken from the living, there reigns over the Macedonians proper"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.243",
+   "text": "XXV. Philip, also [called] Arrhidaeus, seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.244",
+   "text": "XXVI. Cassander, nineteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.245",
+   "text": "XXVII. His sons, four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.246",
+   "text": "XXVIII. Demetrius, five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.247",
+   "text": "XXIX. Pyrrhus, seven months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.248",
+   "text": "XXX. Lysimachus, five years and seven months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.249",
+   "text": "XXXI. Ptolemy Ceraunus, one year and nine months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.250",
+   "text": "XXXII. Meleager, two months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.251",
+   "text": "XXXIII. Antipater, forty-five days."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.252",
+   "text": "XXXIV. Sosthenes, two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.253",
+   "text": "XXXV. Antigonus Gonatas, thirty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.254",
+   "text": "XXXVI. Demetrius, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.255",
+   "text": "XXXVII. Antigonus, fifteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.256",
+   "text": "XXXVIII. Philip, forty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.257",
+   "text": "XXXIX. Perseus, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.258",
+   "text": "When Perseus had been killed, the Romans granted the Macedonians freedom, and allowed them to be self-governing for fourteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.259",
+   "text": "XL. The false Philip, one year. Total of years: six hundred and forty-seven."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.260",
+   "text": "10. It is worthwhile to describe the other kingdoms too. In the fifth year after Alexander's death there reigns over the Asians I. Antigonus, eighteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.261",
+   "text": "II. Demetrius Poliorcetes, seventeen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.262",
+   "text": "The rule of both together occupies thirty-five years. It is worth the effort likewise to set down in writing those who succeeded them, namely the kings of the Syrians, of Babylon and of the upper regions. Alexander having died twelve years before, there reigns"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.263",
+   "text": "I. Seleucus Nicanor, thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.264",
+   "text": "II. Antiochus Soter, nineteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.265",
+   "text": "III. Antiochus Theos, fifteen years. In his eleventh year the Parthians freed themselves from the yoke of the Macedonians, and from among them Arsaces reigns, from whom [come] the Arsacids. To the aforesaid thirty-eight, nineteen and fifteen years let there be added"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.266",
+   "text": "IV. Seleucus Callinicus, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.267",
+   "text": "V. Seleucus Ceraunus, three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.268",
+   "text": "VI. Antiochus the Great, thirty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.269",
+   "text": "VII. Seleucus, twelve years. The events of the second book of Maccabees fall in that time."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.270",
+   "text": "VIII. Antiochus Epiphanes, eleven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.271",
+   "text": "He first drove the Jews by the severest punishments to the worship of idols, as may be learned from the books of Maccabees."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.272",
+   "text": "IX. Antiochus Eupator, two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.273",
+   "text": "X. Demetrius Soter, twelve years. In his third year Judas Maccabaeus became supreme leader of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.274",
+   "text": "XI. Alexander, nine years and ten months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.275",
+   "text": "XII. Demetrius, three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.276",
+   "text": "XIII. Antiochus Sidetes, nine years. Arsaces the Parthian killed this Antiochus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.277",
+   "text": "XIV. Demetrius again, four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.278",
+   "text": "XV. Antiochus Grypus, twelve years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.279",
+   "text": "XVI. Antiochus Cyzicenus, eighteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.280",
+   "text": "XVII. Philip, two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.281",
+   "text": "The empire of the Syrians, traced down to this point, was extinguished in the one hundred and seventy-second olympiad."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.282",
+   "text": "11. Let us also write out the times of the Ptolemies. After Alexander's death there reigns, as has been said, at Alexandria in Egypt"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.283",
+   "text": "I. Ptolemy [son] of Lagus, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.284",
+   "text": "II. Ptolemy Philadelphus, thirty-eight years. He ordered the books of the Hebrews to be translated into the Greek language."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.285",
+   "text": "III. Ptolemy Euergetes, twenty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.286",
+   "text": "IV. Ptolemy Philopator, seventeen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.287",
+   "text": "V. Ptolemy Epiphanes, twenty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.288",
+   "text": "VI. Ptolemy Philometor, thirty-five years. In his twentieth year Judas Maccabaeus was leading the forces of the Jews."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.289",
+   "text": "VII. Ptolemy Euergetes, twenty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.290",
+   "text": "VIII. Ptolemy Physcon, also [called] Soter, seventeen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.291",
+   "text": "IX. Ptolemy Physcon, also [called] Alexander, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.292",
+   "text": "X. Ptolemy, who was expelled, eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.293",
+   "text": "XI. Ptolemy Dionysus, thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.294",
+   "text": "XII. Cleopatra, twenty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.295",
+   "text": "In her third year Gaius, also [called] Julius, reigns among the Romans, five years. Then Augustus, fifty-six years, who in the fifteenth year of his rule, Cleopatra having been killed, takes possession of Egypt. The times of the Ptolemies comprise two hundred and ninety-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.296",
+   "text": "12. Now, since we have reached these splendid kingdoms, it is fitting to write out from the beginning the kings of those nations whom we passed over. For Eusebius, having finished with the Ptolemies in his treatise, proceeds to relate Greek matters, namely the method by which the Greeks write their antiquities, and then he also reviews the names of each. We therefore will go through first the Egyptians, then others, and lastly the Romans, who embraced everything."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.297",
+   "text": "The first dynasty of the Egyptians is said by Manetho to be that in which Menes the Thinite and his seven descendants ruled, two hundred and fifty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.298",
+   "text": "Second dynasty, of nine kings, two hundred and ninety-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.299",
+   "text": "Third dynasty, of Memphites, eight kings, one hundred and ninety-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.300",
+   "text": "Fourth dynasty, of Memphites, fifteen kings, four hundred and sixty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.301",
+   "text": "Fifth dynasty, of thirty-one Elephantine kings, one hundred years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.302",
+   "text": "Sixth dynasty. A certain woman, Nitocris, bravest of all the men and most beautiful of the women of her time. The reign lasted two hundred and four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.303",
+   "text": "Seventh dynasty, of Memphites, five kings, seventy-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.304",
+   "text": "Eighth dynasty, of Memphites, five kings, one hundred years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.305",
+   "text": "Ninth dynasty, of Heracleopolitans, four kings, one hundred years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.306",
+   "text": "Tenth dynasty, again from the same place, nineteen kings, one hundred and eighty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.307",
+   "text": "Eleventh dynasty, of Diospolitans, sixteen kings, fifty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.308",
+   "text": "Twelfth dynasty, of Diospolitans, seven kings, two hundred and forty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.309",
+   "text": "These twelve dynasties reach to the one hundred and seventy-fourth year after the Flood."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.310",
+   "text": "Thirteenth dynasty, again from the same place, sixty kings, four hundred and fifty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.311",
+   "text": "Fourteenth dynasty, of Xoites, seventy-six kings, one hundred and eighty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.312",
+   "text": "Fifteenth dynasty, of Diospolitan kings, two hundred and fifty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.313",
+   "text": "Sixteenth dynasty, of Thebans, five kings, one hundred and ninety years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.314",
+   "text": "These sixteen dynasties extend to the first year of Abraham."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.315",
+   "text": "Seventeenth dynasty, of the Shepherds, one hundred and three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.316",
+   "text": "You will fittingly call Joseph and his brothers shepherds."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.317",
+   "text": "Eighteenth dynasty, of Diospolitans, fourteen kings, three hundred and forty-eight years. The eleventh of these is King Chencheres, in whose tenth year Moses led the people out. He, however, remained there."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.318",
+   "text": "Nineteenth dynasty, of Diospolitans, five kings, one hundred and ninety-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.319",
+   "text": "In this year, which is the eight hundred and thirty-fifth after the birth of Abraham, Ilium was taken."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.320",
+   "text": "Twentieth dynasty, of Diospolitans, twelve kings, one hundred and seventy-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.321",
+   "text": "Twenty-first dynasty, of Tanites, five kings, one hundred and thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.322",
+   "text": "Twenty-second dynasty, of Bubastites, three kings, twenty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.323",
+   "text": "Twenty-third dynasty, of Tanites, three kings, forty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.324",
+   "text": "Twenty-fourth dynasty, of Bocchoris the Saite, forty-three years. Under him a lamb spoke. This same Bocchoris was burned alive by Sabacon, who also succeeded to the kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.325",
+   "text": "Twenty-fifth dynasty, of Ethiopians, three kings, forty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.326",
+   "text": "Twenty-sixth dynasty, of Saites, nine kings, one hundred and sixty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.327",
+   "text": "Twenty-seventh dynasty, of Persians, eight kings, one hundred and twenty years and four months."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.328",
+   "text": "Twenty-eighth dynasty, of Amyrtaeus the Saite, six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.329",
+   "text": "Twenty-ninth dynasty, of Mendesians, four kings, thirty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.330",
+   "text": "Thirtieth dynasty, of Sebennytes, three kings, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.331",
+   "text": "Thirty-first dynasty, of Persians, three kings, sixteen years, the last of whom was Darius, the one whom Alexander killed. From the first year of the sixteenth dynasty to the seventh year of Alexander, who killed Darius, occupied Egypt and founded Alexandria, there elapsed one thousand six hundred and eighty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.332",
+   "text": "13. Come now, I set about writing of the kings of the Sicyonians, the first of whom became king in the fifteenth year of Belus:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.333",
+   "text": "I. Aegialeus, fifty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.334",
+   "text": "II. Europs, forty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.335",
+   "text": "In the twenty-second year of Europs Abraham is born."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.336",
+   "text": "III. Melchin, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.337",
+   "text": "IV. Apis, twenty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.338",
+   "text": "V. Thehion, [...] years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.339",
+   "text": "VI. Aegydrus, thirty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.340",
+   "text": "VII. Thurimachus, forty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.341",
+   "text": "In the sixth year of Thurimachus, Inachus rules as the first [king] of the Argives."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.342",
+   "text": "VIII. Leucippus, fifty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.343",
+   "text": "IX. Messapus, forty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.344",
+   "text": "X. Erastus, forty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.345",
+   "text": "XI. Plemnaeus, forty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.346",
+   "text": "XII. Orthopolis, fifty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.347",
+   "text": "XIII. Marathius, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.348",
+   "text": "XIV. Marathus, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.349",
+   "text": "XV. Chereus, fifty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.350",
+   "text": "XVI. Corax, thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.351",
+   "text": "XVII. Epopeus, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.352",
+   "text": "XVIII. Laomedon, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.353",
+   "text": "XIX. Sicyon, forty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.354",
+   "text": "From this Sicyon the Sicyonians were named, who were previously called Aegialeans."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.355",
+   "text": "XX. Polybus, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.356",
+   "text": "XXI. Inachus, forty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.357",
+   "text": "XXII. Phaestus, eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.358",
+   "text": "XXIII. Adrastus, four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.359",
+   "text": "XXIV. Polyphides, thirty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.360",
+   "text": "XXV. Pelasgus, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.361",
+   "text": "XXVI. Zeuxippus, thirty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.362",
+   "text": "These occupied nine hundred and fifty-eight years. After that there were no longer kings, but the priests of Carneus, for thirty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.363",
+   "text": "14. In the sixth year of Thurimachus began the kings of the Argives, of whom the first was"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.364",
+   "text": "I. Inachus, ten years, from whom that province received the name Inachia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.365",
+   "text": "II. Phoroneus, sixty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.366",
+   "text": "III. Apis, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.367",
+   "text": "IV. Argus, seventy years, from whom the name of the region was changed and it was called Argia."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.368",
+   "text": "V. Criasus, fifty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.369",
+   "text": "VI. Phorbas, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.370",
+   "text": "VII. Triopas, forty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.371",
+   "text": "VIII. Crotopus, twenty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.372",
+   "text": "IX. Sthenelus, eleven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.373",
+   "text": "X. Danaus, fifty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.374",
+   "text": "XI. Lynceus, forty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.375",
+   "text": "XII. Abas, twenty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.376",
+   "text": "Tros ruled the Dardanians, from whom the name was given to the Trojans."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.377",
+   "text": "XIII. Proetus, fifteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.378",
+   "text": "XIV. Acrisius, thirty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.379",
+   "text": "The kings of the Argives came to an end after they had lasted seven hundred and forty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.380",
+   "text": "15. In the hundredth year of the servitude in Egypt, and the thirty-second of Phorbas king of the Argives, there reigns at Athens first"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.381",
+   "text": "I. Cecrops Diphyes, fifty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.382",
+   "text": "II. Cranaus, nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.383",
+   "text": "III. Amphictyon, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.384",
+   "text": "IV. Erichthonius, fifty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.385",
+   "text": "V. Pandion, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.386",
+   "text": "VI. Erechtheus, fifty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.387",
+   "text": "VII. Cecrops the second, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.388",
+   "text": "VIII. Pandion, twenty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.389",
+   "text": "IX. Aegeus, forty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.390",
+   "text": "X. Theseus, thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.391",
+   "text": "XI. Menestheus, twenty-three years. Ilium was captured."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.392",
+   "text": "XII. Demophon, thirty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.393",
+   "text": "XIII. Oxyntes, twelve years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.394",
+   "text": "XIV. Aphidas, one year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.395",
+   "text": "XV. Thymoetes, eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.396",
+   "text": "XVI. Melanthus, thirty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.397",
+   "text": "XVII. Codrus, twenty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.398",
+   "text": "Rulers for as long as life lasted:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.399",
+   "text": "XVIII. Medon, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.400",
+   "text": "XIX. Acastus, thirty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.401",
+   "text": "XX. Archippus, nineteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.402",
+   "text": "XXI. Thersippus, forty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.403",
+   "text": "XXII. Phorbas, thirty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.404",
+   "text": "XXIII. Megacles, thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.405",
+   "text": "XXIV. Diognetus, twenty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.406",
+   "text": "XXV. Pheracles, nineteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.407",
+   "text": "XXVI. Ariphron, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.408",
+   "text": "XXVII. Thespieus, twenty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.409",
+   "text": "XXVIII. Agamestor, twenty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.410",
+   "text": "XXIX. Aeschylus, twenty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.411",
+   "text": "In the first year of Aeschylus Ardys reigns among the Lydians; and in the third year of the latter the first Olympiad was held. This Olympiad was instituted by Iphitus, [son] of Praxonides, [descendant] of Haemon. From this time on the chronology of the Greeks seems to display firmness, whereas before each person fixed the matter at his own pleasure."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.412",
+   "text": "XXX. Alcmaeon, two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.413",
+   "text": "XXXI. Charops, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.414",
+   "text": "XXXII. Aesimides, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.415",
+   "text": "XXXIII. Clidicus, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.416",
+   "text": "XXXIV. Hippomenes, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.417",
+   "text": "XXXV. Leocrates, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.418",
+   "text": "XXXVI. Apsander, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.419",
+   "text": "XXXVII. Eryxias, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.420",
+   "text": "The kings of Athens came to an end after eight hundred and seventy-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.421",
+   "text": "16. The plan of our undertaking requires that we add to these the kings of the Lacedaemonians as well, of whom the first reigns in the sixteenth year of Samuel and Saul:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.422",
+   "text": "I. Eurystheus, forty-two years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.423",
+   "text": "II. Agis, one year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.424",
+   "text": "III. Echestratus, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.425",
+   "text": "IV. Labotas, thirty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.426",
+   "text": "V. Doryssus, twenty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.427",
+   "text": "VI. Agesilaus, forty-four years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.428",
+   "text": "VII. Archelaus, sixty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.429",
+   "text": "VIII. Telecles, forty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.430",
+   "text": "IX. Alcamenes, thirty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.431",
+   "text": "An end was put to these after three hundred and twenty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.432",
+   "text": "17. In the second year of these [kings], which was the seventeenth of Samuel and Saul, there reigns among the Corinthians"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.433",
+   "text": "I. Aletes, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.434",
+   "text": "II. Ixion, thirty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.435",
+   "text": "III. Agelaus, thirty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.436",
+   "text": "IV. Prymnis, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.437",
+   "text": "V. Bacchis, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.438",
+   "text": "VI. Agelas, thirty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.439",
+   "text": "VII. Eudemus, twenty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.440",
+   "text": "VIII. Aristomedes, thirty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.441",
+   "text": "IX. Agemon, sixteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.442",
+   "text": "X. Alexander, twenty-five years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.443",
+   "text": "XI. Telestes, twelve years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.444",
+   "text": "XII. Automenes, one year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.445",
+   "text": "These reigned three hundred and twenty-four years; and they ended in the same year as the Lacedaemonians, at the first Olympiad."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.446",
+   "text": "18. Of all the peoples and gentile kings, we have chosen to compose last the chronology of the Romans. For none of the others attained what we long for, namely the light of CHRIST streaming from heaven, the Sun, I mean, of justice. But these, whom I now set about writing of, although they entrusted themselves to the road by night, and at first, like the others, dwelt in darkness, nevertheless many of them were held worthy to be lit up by the brightness of the light, as you will learn in its proper place."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.447",
+   "text": "Now in the third year after the capture of Ilium, two years before Samson, and in the twenty-ninth year of Teutamus, there reigns among the Latins"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.448",
+   "text": "I. Aeneas, three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.449",
+   "text": "II. Ascanius, thirty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.450",
+   "text": "III. Silvius [son] of Aeneas, twenty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.451",
+   "text": "IV. Latinus Silvius, thirty-one years. From Latinus the nation was called Latins for four hundred and sixty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.452",
+   "text": "V. Aeneas Silvius, ten years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.453",
+   "text": "VI. Alba Silvius, thirty-nine years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.454",
+   "text": "VII. Epitus Silvius, twenty-six years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.455",
+   "text": "VIII. Capys Silvius, twenty-eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.456",
+   "text": "IX. Anchises Silvius, thirteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.457",
+   "text": "X. Tiberius Silvius, eight years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.458",
+   "text": "XI. Agrippa Silvius, forty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.459",
+   "text": "XII. Aremulus Silvius, nineteen years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.460",
+   "text": "XIII. Aventius Silvius, thirty-seven years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.461",
+   "text": "XIV. Procas Silvius, twenty-one years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.462",
+   "text": "XV. Amulius Silvius, forty-three years. The first Olympiad falls in his nineteenth year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.463",
+   "text": "I. Romulus, thirty-eight years. In his nineteenth year, which was the fourth of the eleventh Olympiad, he founded the temples and walls of Rome. From here the years from the founding of the City begin to be reckoned, which in the first year of Philip number a thousand. From here too the Latins took the name of Romans. From Aeneas to Romulus four hundred and twenty-six years are gathered."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.464",
+   "text": "II. Numa Pompilius, forty-one years. He added two months to the year, Janus and Februus, that is, January and February, whereas before there were said to be ten."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.465",
+   "text": "III. Tullus Hostilius, twenty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.466",
+   "text": "IV. Ancus Marcius, twenty-three years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.467",
+   "text": "V. Tarquinius Priscus, thirty-seven years. Here these [kings] come to an end."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.468",
+   "text": "After the kings, Rome was governed by consuls beginning from Brutus; then by tribunes, soon by dictators (that is, 'speakers'); again by consuls, who existed from Tarquinius to Gaius Julius for four hundred and sixty years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.469",
+   "text": "After these, in the second year of the hundred and eighty-fourth Olympiad, Gaius Julius held supreme power among the Romans for five years less seven months. From then the title of Caesars prevailed. Up to this point two years of Cleopatra are counted; the remaining twenty she spent under the Romans."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.470",
+   "text": "Augustus, fifty-six years, six months. From his first year the Antiochenes number their years. Likewise in his tenth year the rulers of the Jews were removed, and Herod, a foreigner, reigned. And behold, in the forty-second year of Augustus, the thirty-second of Herod, the SON OF GOD, who is without time, is born in time of the holy Virgin."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab14",
+   "text": "CHAPTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab15",
+   "text": "The Armenian progeny of Japheth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.471",
+   "text": "We have briefly reviewed the two former genealogies, namely of Shem and of Ham, and have carried them down, as far as was possible, through successions and dates to the year in which the Lord was made manifest, who of his own will took on human nature. Come now, as our earlier discourse promised, let us proceed to describe the offspring of Japheth also, whose successive generations flow down to the Parthians, so that in the end we reach him who made both one, our Lord, I mean. Since, then, the course of our aforesaid account has arrived at Togarmah, it follows that we begin the narrative again from that point."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.472",
+   "text": "1. From Togarmah, he says (Moses of Khoren, 1, 9), Hayk was begotten. Now this Hayk was of the number of those giants who, swollen with arrogance, conceived the impious plan of building the tower; and who, after the ruin of that monstrous building, since they no longer understood one another because of the division of tongues, were puffed up with pride and each aspired to dominion over the others. This Hayk, I say, dared to resist Bel, whose aim was that, with all subjected to himself, he might exercise universal tyranny. So that he would not obey Bel, Hayk, with his son Aramaneak, whom he had begotten in Babylon, made for the land of Ararat, strengthened by three hundred men and other newcomers who had joined him. There he raised a dwelling at the foot of the mountain, and soon assigning it to Cadmus, son of Aramaneak, he himself went further on to a certain region lying between the west and the north, which he named Harkʻ. Meanwhile Bel, having gained dominion over all the rest, summoned Hayk also to Babylon; and when Hayk did not carry out his orders, Bel went out against him, lifted up with monstrous arrogance. But he was struck by a missile from Hayk and robbed of life; and Hayk, having prolonged his life for not a few years after, on dying left Aramaneak heir to his dominion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.473",
+   "text": "1. Aramaneak, son of Hayk, after his father's death left his two brothers, Khor and Manavaz, in the province of Harkʻ, and likewise Baz, son of Manavaz. From Manavaz and Baz, moreover, the satrapies of Manavazia and Beznunia are said to have been named, and likewise the one called Ordunia; and from Khor the Khorkhoruni clans. Aramaneak himself crossed further on and settled in a plain surrounded by mountain ridges, the loftiest of which he named Aragats. Then, after Armais was born to him some years later in life, he survived a long time and at last paid his debt to nature."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.474",
+   "text": "3. Armais, son of Aramaneak, built himself a residence on a hill at the bank of a river. He called the residence Armavir, after his own name, and the river he called Eraskh, after his grandson Erast. Soon he sent off his son Shara, rich in offspring and voracious, northwards to a level place that was fertile and fruitful enough. From his name that region was called Shirak. Armais then begot Amasia, and after enjoying life a long time yet, he reached his last day."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.475",
+   "text": "4. Amasia, son of Armais, living at Armavir, begot Gegham, Parokh and Tsolak. He also founded two towns at the foot of the mountain and gave them to be inhabited by as many of his sons, namely Parokh the strong and Tsolak the handsome; and these towns keep their names, Parakhot and Tsolakert. Finally he named the mountain Masis, after his own name. When he had sustained his life for not a few more years, he died at Armavir."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.476",
+   "text": "5. Gegham, son of Amasia, begot Harma. He founded a town on the shore of a lake, and called the nearby mountain Gegh, the city Geghakunia, and the lake, finally, the Geghakunian Sea. Gegham had another son, Sisak, for whom he set the bounds of his dominion from that lake eastwards, where the river Eraskh flows with a great rush and roar, coming down into the plains called Chalavazi. The name of that region is Siunik, but the Persians more fittingly call it Sisakan. He also founded a city called Geghamia after his own name, which afterwards was known as Garni after his grandson Garnik. From him in later times, under Artaxerxes, sprang that Varaz, master of the hunt, the source of the Varazhnuni family. Gegham commanded his son Harma to live at Armavir, and many years later he died. Harma, born of Gegham, after his son Aram was born, died some years later."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.477",
+   "text": "6. Aram, son of Harma, having often done splendid deeds in the contests of savage war, extended his dominion in every direction. From his name, by the agreement of all nations, our country has been called: for the Greeks call us Armenians, and the Syrians and Persians Armenik. He captured Nyukar the Mede in war and hanged him from the wall of a tower. Ninus called him second to himself and allowed him to wear a diadem adorned with pearls, though only in appearance. He also robbed Barsham of life; then he drove the titan Payapis Kaghia out of the interior lands and forced him to an island of the Asian sea. In that inland region he settled Mshak, sprung from his own stock, who founded Mazaca, afterwards called Caesarea. He further ordered the inhabitants of that land to learn the Haykian language; for which reason that region is called by the Greeks πρώτη Ἀρμενία, that is, First Armenia. From there as far as his own borders he filled the intervening lands with inhabitants, and these acquired the names of Second, Third and even Fourth Armenia. This is word for word from Moses. But other historians teach that from Caesarea of Cappadocia to the Pontic region is called First Armenia; from Pontus to Melitene, Second Armenia; from there to the borders of Sophene, Third Armenia; from there to the city called [the city] of the Martyrs, at the western edge of the province of Aghdznik, Fourth Armenia; and finally he wished his own province, remarkable for its size, to be distinguished by the name of Greater Armenia. These divisions, however, Maurice threw into confusion, which I shall relate when the subject requires. Aram, after Ara was born to him, at last closed a long life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.478",
+   "text": "7. Ara the Fair, son of Aram, received from Ninus the same honour with which his father had been invested. But after Ninus died, the shameless Semiramis made war on Ara, who would by no means yield to her desire, so as to bring him into her power; and he meanwhile perished in the clash of battle. Afterwards the same impudent Semiramis founded that fortified town which to this day keeps the name Van; and she transferred the name of Ara to Kardos, the son of Ara, whom she had captured. Soon she was attacked in war by Zoroaster the magus, ruler of Media: that is, by the Zoroaster to whom, coming yearly into Armenia, she used to entrust Assyria to govern. That war proved fatal also to Ara, son of Ara; moreover, the impure Semiramis, while she was preparing flight into Armenia, was killed by the hand of her son Zames, who is Ninyas."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.479",
+   "text": "8. The son of Ara, born of Ara, was Anushavan. This Anushavan, who claimed for himself the name Sos, displayed courage and prudence in deeds and words in marvellous fashion; and though he was held in remarkable contempt by Zames, he nonetheless obtained a fair part of our country through the support of friends, and soon the whole of it. After him, not by right of birth but according as each tyrant prevailed by force of power, there ruled over our whole country men whose names are these: Paret, Arbok, Zavan, Parnaces, Sur. In this one's time, when Joshua son of Nun, a man unmarried, holy and brave, had conquered the Canaanites, some of them fled to Agra and, boarding ships, reached Tarshish; which is established from an inscription on columns in Africa in these words: \"We, the princes of the Canaanites, fleeing from Joshua the robber, have moved our dwellings here.\" One of them, Chnidas, by far the most honourable, held Armenia among our countrymen. Indeed, having considered the matter carefully, we have learned that the Gntuni clan was propagated from him; and indeed its Canaanite origin is proved by the customs of the clan itself."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.480",
+   "text": "9. After Sur, Havanak, Vashtak, Haykak. Haykak is said to have fallen in the time of Belochus, and to have met his end in a tumult rashly stirred up by himself. There followed Ambak, Arnak, Shavarsh, Norayr, Varam, Gar, Gorak, Hrant, Endzak, Geghak, Horoy, Zarmayr. This last, while aiding Priam, sent by Teutamus with an army of Ethiopians, was slain by the brave Greeks. Then Perch, a contemporary of David, king of Israel. Then Arbun, Bazuk, Hoy, Husak, Kipak, Skayordi, Paruyr. This Paruyr, son of Skayordi, sprung from the stock of Hayk, joined forces with Varbaces the Mede to strip Sardanapalus of his kingdom; for this reason, presented with a diadem by Varbaces, he was the first of the Haykians to be crowned."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.481",
+   "text": "10. Hrachea, son of Paruyr, acquired the name Hrachea from the fire of his eyes and the brightness of his face. In his time, when Nebuchadnezzar had led the citizens of Jerusalem into captivity, he obtained from Nebuchadnezzar a certain nobleman from among the captive Jews named Shambat, whom he kept with him with great honour; and from him the Bagratuni clan descended. Hence too the name Smbat comes from Shambat. After Hrachea, Pharnavaz gained the diadem; then Pachuych, Kornak, Pavos, Haykak, Eruand, Tigranes."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.482",
+   "text": "11. This Tigranes was the most powerful of all who had preceded him; the praises of his outstanding dignity may be learned from the history of the great Moses. He was ninth from Paruyr, the first king, to whom the sons of Sennacherib, Adrammelech and Sanasar, fled after they had killed their father. Paruyr settled Sanasar in the parts facing Assyria, and the increase of his offspring filled Mount Sim; and some of them, distinguished for prudence and fidelity, obtained governorships. From Adrammelech sprang the Artsruni and the Gnuni. From Pasgam, grandson of Haykak, Angeghtun took its origin. Now Tigranes, having killed Asdahages, which is interpreted 'dragon', settled Anush, formerly his wife, with all his progeny, partly behind and partly at the foot of Mount Masis, namely in Tambat as far as Goghtn; from whom the Vernonzuni and the Astai descended."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.483",
+   "text": "12. To Tigranes were born children: Babius, Tiran, Vahagn, from whom the Vahevuni, and Aravan, from whom are the Aravenians. From Aravan, Nerses; from Nerses, Zareh, from whom the Zarehavan clan. From Zareh, Armog; from Armog, Bagam; from Bagam, Van; from Van, Vahe. He perished fighting with Alexander of Macedon. Here the dominion of the Haykian stock came to an end. From here to Vagharshak reigning in Armenia nothing sufficiently certain can be put forward, since tumults held everything and the people rushed into mutual slaughter; which gave the Parthian Arshak easy access into Armenia, and he set his brother Vagharshak over Armenia as king. Moreover, from Bel, killed by the hand of Hayk, to Vagharshak, 1950 or 1942 years are reckoned."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.484",
+   "text": "13. After the empire of the Haykian stock was destroyed by Alexander, and after the death of Alexander himself in the twelfth year of his reign, when his empire had been divided among four generals, as we have already said, one of these, Seleucus, held Babylon after Alexander, and besides other nations he also subdued the Parthians in a great war, from which he gained the surname Nicanor. He reigned 31 years. Then Antiochus Soter, his son, 19 years. Then Antiochus Theos, 15 years. In his eleventh year the Parthians threw off obedience to the Macedonians; and among them first reigned that Arshak the Brave, sprung from the race of Abraham, of the line of Keturah, in the city named Bala, 31 years. Then his son Artaxerxes, 46 years; after whom Arshak the Great, 54 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.485",
+   "text": "14. This Arshak the Great set his brother Vagharshak as king over our Armenia in the twenty-seventh year of Ptolemy Euergetes, and in the fourth year of the hundred and sixty-seventh Olympiad, entrusting to him our regions that face north and west. He, being a man at once brave and prudent, arranged many very useful institutions, conferred governorships and principalities, and devoted effort to setting in right order families, clans, cities, fortresses, villages, soldiers and commanders; which matters must be briefly reviewed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.486",
+   "text": "15. Making a beginning from his own head, he created Bagarat the Jew crowner and knight, granting him this honour, namely that he should place the diadem on the king's head. Further, he chose certain Canaanites to put the gloves on him, and called that clan the Gntuni, perhaps from Gnit, I do not know. He made Maghkhaz, of the stock of Khor the Haykian, guardian of his person; but the clan kept its former name of Maghkhazuni. He ordered Dat, born to Karnik son of Gegham, to be master of the hunts; his son was Varaz, and from his name the clan was called Varazuni. Then he entrusted to Gabagh the care of his provisions, and to Abel the administration of affairs, handing over towns as well. The clans Gabeghean and Abeghean keep their names. He also established the Artsruni, or Artsivuni, and the Gnuni, or Ginuni; and these indeed were of the race of Sennacherib. He also made the Spanduni, who were to have charge of his meat-market; likewise the Havenuni, who were to carry and catch hawks; again the Tsiunakan, who were to keep snow in summer. Next he chose as guards of the palace men from the progeny of the ancient kings, who were expressly named Oslani, whom the Iberians still call Sephetsul. Finally he made second after the king those who were of the race of Asdahages the Mede, whose name is the Muratsean."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.487",
+   "text": "16. Now towards the east he established two governorships: Sisakan, and in it the family of Cadmus; and between sunrise and the north he placed as governor Aran, of the stock of Sisak. That region was called Aghuank on account of the gentle manners of its inhabitants. From his stock flows the clan of the Utians, and the principalities of the Gardmanians, the Tsawdians and the Gargarians. Gushar, however, sprung from the stock of Shara, received to possess Kangark and Javakhk, and likewise the principality of the Tashirians and Ashots. Next, facing the Caucasus, he settled a strong people of the race of Mithridates, satrap of Darius, and called it the governorship of the Gugarians. Then in the broad valley of Basean he gave a principality, called the Orduni, to the stock of Haykak. Then he created as western governor a certain Torkʻ of the race of Pasgam, who on account of the grimness of his look was called Angegh; and the name of the province is Angeghtun."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.488",
+   "text": "17. Further, in Fourth Armenia he founded the very great governorship of Tsopʻkʻ, and also the other governorships of Apahunikʻ, Manavaz and Bznunikʻ. To Slak, a bold and very brave man (whether he was of the stock of Hayk or sprung from a more ancient race is not sufficiently ascertained), he granted a few men, and ordered him to guard that mountain and to harry the wild goats by hunting; and he called that people the Slkuni. He gave this office also to Mandak, from whom the Mandakuni derive. And having made priests from the descendants of Vahagn, he distinguished that clan with the name of Vahuni. So too the Aravenians and the Arebavenians. Then he made Sharashan, born in the family of Sanasar, great governor of the region that lies between west and south, and entrusted to him the province of Artsn and the Taurus, namely Mount Sim, and all Coele-Syria. In the same province, having found a certain man of Mokʻkʻ, he instituted another governorship, and in the same places he settled the Korduans, the Andzevatsians and the Akeatsians. However, as regards the Rshtuni and the Goghtnians, which are colonies of the Sisakans, whether those provinces were named after the names of men, or the governorships themselves took their names from the names of the provinces, I do not know."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.489",
+   "text": "18. Indeed there is no leisure to write out all the excellently ordered institutions of this king, nor likewise those of others who either preceded or followed, whose deeds have been abundantly committed to writing. At present we have pursued only the description of the governorships; if anyone wished to know them, he would have them ready to hand with many other royal ordinances. At last Vagharshak, having reigned twenty-two years, departed this life at Nisibis."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.490",
+   "text": "19. His son Arshak followed, 13 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.491",
+   "text": "Artaxerxes, son of Arshak, 25 years. He, surpassing all in strength, did not allow himself to be second to the king of the Persians; indeed he went so far as to place the king of the Persians in the second rank of dignity, and advancing westward with a countless army he conquered many nations, until he was killed by his own men."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.492",
+   "text": "Tigranes his son, 33 years, who, not falling short of his father's bravery, became famous for his deeds; although he again took his seat in the second place of dignity after the Persians. In his time a certain brigand Vaiko was known, from whom the mountain took the name of the Vaikuni."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.493",
+   "text": "Artavazdes, son of Tigranes, 2 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.494",
+   "text": "Arsham, also called Arsham, brother of Tigranes, 20 years, under whom part of the Armenians began to pay tribute to the Romans."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.495",
+   "text": "Abgar, son of Arsham, 38 years. In the second year of his reign all the Armenians were made tributaries of the Romans. For, as the evangelist says, an edict went out from Caesar Augustus that the whole world should be registered; on account of which [they] came into Armenia also. In that very year our Lord and God Jesus Christ was born of the Virgin. Moreover, this was the one hundred and seventeenth year from Vagharshak; the forty-second of Augustus' rule; the thirty-second of Herod the foreigner, king of Jerusalem; and finally the twenty-first of Arsavir, king of the Arsacids, who are also called Pahlavids, that is, of the Persians, in whose twentieth year Abgar had begun to reign among the Armenians."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.496",
+   "text": "20. Now from the first Arshak these are reckoned the kings of the Persians:"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.497",
+   "text": "I. Arshak the Brave, 31 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.498",
+   "text": "II. Artaxerxes, 46 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.499",
+   "text": "III. Arshak the Great, brother of Vagharshak, 54 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.500",
+   "text": "IV. Arshakan, 31 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.501",
+   "text": "V. Arshanak, 30 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.502",
+   "text": "VI. Arshes, 20 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.503",
+   "text": "VII. Arsavir, 46 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.504",
+   "text": "In his twenty-first year fell the birth of Christ, which was the fourth year of the hundred and ninety-fourth Olympiad."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.505",
+   "text": "21. So, as we promised before, we have reached the goal of our account, having come to the manifestation of the Word of God joined with flesh, beginning from the first man created, which is a total of 5198 years according to the Seventy Translators; this sum we shall write out item by item as follows. From Adam to the flood, 2242 years are completed. From the flood to the tower, 525 years. From there to Abraham, 417 years. From the flood to the birth of Abraham, 942 years. From Abraham to Moses and the exodus from Egypt, 505 years. From the exodus to Solomon and the first building of the temple, 480 years. From the first building of the temple to the second, 502 years. From there to the birth of Christ, 518 years; the sum of these rises to 5198 years. Again, from the birth of Christ to Saint Gregory there are 312 years; and from there to the Armenian era, 241 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.506",
+   "text": "22. And I, O my lord Gregory, endowed with holiness, compelled by your vehement entreaty, have set my slender talent and unskilled hand to constructing this work; and I have tried, in the brief span of this bodily life, to unroll the most beautiful chronography of Saint Eusebius, which, so to speak, I have copied out. Truly, as the rays of the rising sun scatter light on dark places, so altogether this divine treasure rouses the darkened minds of men to know this passing time. Now whoever thoroughly steeps himself in the teachings of the present life also attains knowledge of the higher wisdom, which is truly ineffable and immeasurable, and, as that blessed, skilful and most deserving Evagrius teaches, leads to the worship of God."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.507",
+   "text": "Now then, I shall begin from the first year of the birth of Christ, which I shall establish as the principal era, and with very careful labour I shall record the kings of the Romans, the Hebrews, the Persians, and of our nation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.head2",
+   "text": "THE SECOND PART OF THE SUMMARY OF THE TIMES OF SAMUEL OF ANI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.509",
+   "text": "John son of Zechariah was preaching in desert places around the river Jordan, and openly announcing to all that the ANOINTED OF GOD was among them. Then Jesus himself, the Anointed of God, was making the beginning of his life-giving and evangelical teaching, and by deeds and words was displaying the power of divine might before the eyes of the onlookers."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.510",
+   "text": "Up to this fifteenth year of Tiberius Caesar are reckoned: from the temple rebuilt, 548 years; from Solomon and the first building of the temple, 1064 years; from Moses and the exodus from Egypt, 1540 years; from Abraham and Ninus and Semiramis, 2044 years; from the flood, 2976 years; and finally from Adam, 5228 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.511",
+   "text": "JESUS THE ANOINTED OF GOD, OUR LORD, according to the prophecies written about him, came to the passion in the nineteenth year of Tiberius' reign. Indeed at this same time we find it related word for word in other monuments of the Greeks too, thus: 'The sun was eclipsed, Bithynia was shaken by an earthquake, and the greater part of Nicaea was levelled to the ground.' And these things agree exactly with what happened at the passion of our Life-giver. Phlegon also, who followed the Olympiads from their very beginnings, writes expressly thus in his thirteenth book: 'In the fourth year of the two hundred and third Olympiad there was a great eclipse of the sun, such as no one had observed before; and at the seventh hour of the day so great a night came on that the stars shone in the sky; Bithynia was shaken by a great earthquake, and the greater part of Nicaea was thrown down.' This is what the man cited relates. And this is indeed a great indication of the year in which our Life-giver was crucified, since John too confirms by his testimony in the Gospel that Christ's preaching lasted three years after the fifteenth year of Tiberius. Not far from that time Josephus also relates that during the days of Pentecost a certain rustling and movement was first stirred around the priests, and soon a sudden voice burst from the inner sanctuary of the temple in these words: 'Let us depart from here, let us depart.' Josephus further writes that about that time the governor Pilate had the image of Caesar set up by night in the temple, against the prohibition; which was the cause of a great tumult and sedition of the Jews. From then on a force of the greatest evils seized the Judaean nation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.512",
+   "text": "After the death of Abgar, who had come over to our faith, his kingdom was divided in two. His son Ananun reigned at Edessa, and Sanatruk, the son of his sister, in Greater Armenia. He believed the preaching of Thaddaeus, but soon cast off the faith and killed the apostle and [Abgar's] daughter Sandukht. SANATRUK, 30 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.513",
+   "text": "At last, in the final destruction of the temple, Titus besieged the Jews, overturned Jerusalem from its foundations, and slaughtered sixty thousand men. Indeed, as Josephus relates, one million two hundred thousand were consumed by famine and sword, and four hundred and twenty thousand were led away into captivity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.514",
+   "text": "The sum of time up to the second year of Vespasian, in which the Jews were wiped out in the final destruction: from the preaching of the Life-giver, 42 years; from the siege under Antiochus, 238 years; from the second building of the temple, 590 years; and finally from the first building, 1103 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.522",
+   "text": "While Carus fell in Mesopotamia, Numerian likewise perished in Thrace, and Carinus too in battle against Cornacus."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.523",
+   "text": "Cornacus was supreme commander of the forces of Khosrov the Great, father of Tiridates; he is said to have prolonged his life to 160 years, with sight, hearing, hair and teeth unimpaired until his death, and likewise youthful bodily strength. He defeated the Caesar Carus, who fell in battle together with his son."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.524",
+   "text": "Up to this point we have run on without doubt, guided by the books, of sure authority, of the eminent masters whom we named before. From here, on account of what remains to be added to our treatise, we are tossed by cares and perplexities, because there is disagreement among the later historians, of whom some wrote more, some less, or kept silent altogether. Yet following in the footsteps of the more reliable, let us pursue the truth as far as we can; and first let us align the first year of Tiridates with the second year of Diocletian, according to the opinion of Moses, the historian of the Armenians, not with the ninth or the first, as some others have preferred. Now if you believe that Shapur the Persian reigned 73 years, one must begin from the killing of Khosrov, and then 46 years must be considered contemporary with Tiridates, so that he reigned 27 years while his father Artashir was still alive, and the remaining 46 after his death; and on this reckoning, God willing, we shall arrange our canon as far as the era of the Armenians, preferring the more certain out of very many [accounts]. DIOCLETIAN, 20 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.525",
+   "text": "In the fifteenth year of the reign of Tiridates, the religious virgins, led by Saint Hripsime, bravely underwent martyrdom in the city of Vagharshapat, and many prodigies were divinely shown to Tiridates and the kingdom of the Armenians. Saint Gregory, brought out of the prison of the pit by a divine visitation, made the beginning of preaching his luminous teaching; then he also restored the wounded to health; at which time the place for founding the holy cathedral was also shown to him by God, as well as [the places] of the other martyrs' shrines."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.526",
+   "text": "Soon, at the beginning of the following year, the great Tiridates himself was baptised together with Queen Ashkhen and with his sister Khosrovidukht, and the nobles of the court as well, by the hand, namely, of Saint Gregory, who had then returned from Caesarea with episcopal authority. From that time, roused by royal edicts, many thousands of people throughout the regions of Armenia cast off the pagan rite and flocked of their own accord to the baptism of the sacred font, with those whom Saint Gregory had appointed ministering."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.528",
+   "text": "Saint Gregory, having withdrawn to the cave of Mané, would at times visit the region publicly to confirm his flock in the faith. But when Aristakes returned from the Council of Nicaea, he no longer let himself be seen by anyone; and having prolonged his life there for many years, at his death he was at last borne away among the choirs of angels. Shepherds, finding Saint Gregory dead and not recognising the man, buried him in that very place. But at last, many years later, the matter was revealed by divine will to a solitary named Garnik, and the saint's relics were carried to the town of Tordan."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.530",
+   "text": "Saint Nerses restored all the orders of the Church well and fittingly. He was born of Athenogenes, grandson of Yusik, who in turn was a grandson of Saint Gregory."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.531",
+   "text": "Meruzhan Artsruni, defecting from Arshak and deserting the Christian faith, begged the help of the Persians in order to gain the sceptre of Armenia. So, made commander of the Persian forces, he burst into Armenia and inflicted many disasters on our country, until, in a great battle joined on the plain of Dzirav, he was captured by the great knight Smbat and perished by a cruel punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.532",
+   "text": "Mesrop, born in the town of Hatsik in Taron, was brought up and educated in the household of the great Nerses; then he was appointed secretary of the royal court. But at last, scorning worldly honour, he pursued the solitary life and devoted himself to teaching the people by expounding the sacred books; struggling with no small difficulties in this, he formed the plan of devising letters proper to the Armenian language, so that the divine Bible might be translated as accurately as possible. For until then the Armenians had used Persian letter-forms in court affairs, and Greek, and sometimes Syriac, in church affairs."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.534",
+   "text": "Here at last the Armenian kingdom of the Arsacids came to an end, and likewise the patriarchate of the line of Saint Gregory. For although Saint Isaac survived another 16 years and shone in our Armenia with his excellent teaching, affairs were nevertheless under impious governors and Persian administrators. In place of King Artashir, Vehmihrshapuh was in charge, and in place of Saint Isaac the malevolent Surmak, who remained one year; then Brkisho, worse than he, three years; after these a certain Samuel, more wicked than both, 7 years. But we shall place their times in the position of an interregnum, so that the order of the canon may not fall into confusion; rather, we shall ascribe [them] to Saint Isaac after his thirty-fifth year, the series being extended up to the beginning of Vardan's governorship. INTERREGNUM, 13 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.535",
+   "text": "Here ends the history of the Armenians written by Moses."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.536",
+   "text": "After the death of Saint Isaac his disciple Joseph occupied his episcopal see for two years, with the approval of Mesrop, who exchanged life for death in that same year."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.540",
+   "text": "Here the 553rd year after the birth of Christ was completed, at which time the two-hundred-year cycle of Andrew was also coming to its end. And from here the era of the Armenians at once arose, for this reason. Since the last full moon of the two-hundred-year cycle fell on 25 March, and the beginning had been on 4 April, it could not be carried further, because after 25 March the 13th of April would have had to be set, on which the ninth full moon fell; and so all the feasts, as is agreed, and the reckonings of the calendar were thrown into confusion. Then at last the wise men of that age held an assembly and established the era of the Armenians, so that the paschal feast of the Lord and the rest might be regulated. But when they found over nine years that they did not yet hold a firm enough rule, in the tenth year of the era a certain Eas, endowed with a skilful mind, and the shrewd men of great ability whom he summoned, established by common decision the cycle called the five-hundred-year cycle. This is the origin of the Armenian era, which we shall adopt in these canons in order to present the dates more readily."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.542",
+   "text": "In this age certain Syrian vagrants, brought into Armenia to propagate the sect of Nestorius zealously, were expelled with anathema. Some, however, attached themselves to them, and these translated their deceitful books, namely the Cortosacium, the Cyriacosacium, the Vision of Paul, the Penitence of Adam, the Diatheke, the Childhood of the Lord, also the Sebium, the Cluster of Blessing, the open books, and the exposition of the Gospel of Mani. But whoever put faith in these were struck with anathema."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.545",
+   "text": "In these days became notorious the appearance of the false prophet of the Saracens, a follower of Cerinthus and the Arians, named Muhammad, of the race of Ishmael, son of Hagar, who had as his teacher a certain solitary named Bahira, of the Arian sect, a dweller in the desert of Sinai; into which place, namely, the Ishmaelites gathered and increased in number from the time when Sarah drove out her maidservant Hagar."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.546",
+   "text": "In the reign of Constantine son of Heraclius, Dvin was captured by the Saracens. As a certain historian says, on the feast day of Epiphany twelve thousand people were killed in the church of Saint Sergius, so that the holy altar and the baptismal font overflowed with the blood of the slain; and more than thirty-five thousand people were led away into captivity. Soon the patriarch Nerses gathered the bodies of those who had fallen in this war and had them laid in that same holy church, which he restored."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.547",
+   "text": "Now the king of the Ishmaelite nation fixed his seat in that same city; the first, named Chalarthus, of whom the holy Bible had prophesied that the people of Chalartalabius would sate their swords with blood. He died after eight years, and Amaranus succeeded for 12 years. Now that Chalarthus had advanced as far as Damascus, and in Mesopotamia had laid waste the city of Amida with boundless plunder. Then he had sent out three commanders in different directions: into the Greek provinces Jalus, or Joel, who slew seventy thousand Greeks; and into Persia Othman the Amir and Mavia, commander of the forces, who defeated twenty thousand soldiers of Myrdates, and likewise the Armenian commander Musaeus with his horsemen; and so it came about that they gained control of the Armenians, Persians, Syrians, Egyptians, Medes, Parthians and Palestinians."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.548",
+   "text": "Now the reason why they attained dominion was this. A certain prince of the region of Damascus, Sergius, was robbing the Ishmaelite merchants of no small property; and Chalarthus, having often protested about these wrongs without his abandoning his ways, at last gathered the foot and horse of his nation and made three attacks on the enemy, and gained possession not only of his own property but also of others'; wherefore, carried also into Armenia, he tried by force to overthrow the religious faith of the inhabitants."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.549",
+   "text": "Moreover, the aforesaid king of the Ishmaelites found someone to conspire with him, a man named Muhammad, a leader of the Egyptian merchants. He was moderately versed in the laws of Moses, but devoted to the sect of Arius and Cerinthus, who said that the kingdom of heaven is bodily, that is, that there would be earthly food for the belly in it, and likewise marriage after the resurrection. He also taught laws contrary to one another, namely old and new statutes, devising absurdities and preaching outlandish things, and most shamelessly corrupting that covenant of Abraham in which it was commanded: \"Every male among you you shall circumcise on the eighth day\" (Gen. 34:15); but he [circumcised] not only males but even, for shame, females, violating the seal of the Lord's covenant. He also decreed that they should wash only with water, perpetually, in a baptismal font; and besides he taught many other absurd, insane and laughable customs of this kind."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.550",
+   "text": "When the Saracens had set this Muhammad over themselves as lawgiver, oracle and commander of their forces for 20 years, they conquered Beznunik, Aleovidia and Taron with the utmost destruction. Yet at last, when Muhammad learned that the faithful were resisting his sect, he granted by edict, expressly to the Armenian provinces, leave to follow the Christian rite, and, so to speak, sold them the religion they followed, imposing a tax: namely that each household should pay four coins, three measures of dry goods, a saddle-bag and a haircloth rope. He allowed priests, nobles and horsemen, however, to be exempt from this tribute. And the Saracens, after extending the bounds of their empire and gaining control of everything, began to be called Amiralmumni. Now after the 20 years of Muhammad, Abu Bakr, Othman and Omar ruled for 38 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.551",
+   "text": "At this time the empire of the Persians too, which was called that of the Sasanids, was brought to an end, after it had lasted 410 years; and the Persian sceptre was taken by the Saracens, who were called Amiralmumni."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.ab16",
+   "text": "THE AMIRALMUMNI OF THE SARACENS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.552",
+   "text": "Muhammad 20 years; Abu Bakr 8 years; Othman 10 years; Omar 20 years; Mavia 22 years; Marwan 1 year; Yazid 3 years; Abd al-Malik 22 years; Walid 4 years; Omar 2 years; Yazid 6 years; Hisham 19 years; Walid 1 year; Marwan 8 years; Abdla 22 years; Abd al-Aziz 3 years; Mahdi 9 years; Musa 10 years; Harun 23 years; Muhammad 5 years; Maimun 27 years; Ibn Meret 9 years; Harun 18 years; Ciaphares 2 years. May their memory be buried in perdition."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.555",
+   "text": "At this time the princes of the Armenians were consumed by fire in the city of Nakhichevan; for this reason the series of rulers is broken off here. Now concerning this interval of time the lord John speaks thus in his eloquent and carefully wrought History: \"When the dominion of the Hagarenes had wholly prevailed in Armenia, the native nobles of our country came to an end; and if any happened to remain, they lived under a servile yoke and in hiding. Therefore,\" he says, \"in this History the series of our princes suffers a gap.\" Nevertheless, since the incursions of the enemy ceased in the time of the lord Tiridates, I shall again place the aforesaid princes in the canon."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.558",
+   "text": "Mushegh Mamikonian and Samuel, with their households and other distinguished men of the Armenian army, were slain by the Ishmaelites during the days of Easter. In this age flourished Stephen, chief of the priests at the court, a most learned man, highly polished in every philosophical and grammatical discipline, not without the accompaniment of spiritual virtues. Also known were the illustrious teachers of the Armenian provinces, the lords Ephrem, Anastasius and Khachatur, and David surnamed Romanerus, and the great philosopher Stephen of Siunik, a pupil of Moses."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.561",
+   "text": "At the time when Ciaphares was the great Amir of the Ishmaelite nation, and Smbat the Confessor likewise the great commander of the Armenians, there came into Armenia, by order of that same Amir, a certain envoy, Abusethus, who at once seized prince Bagarat, bound him in chains and sent him to Ciaphares. But the inhabitants of Mount Taurus, who are now called Sasunians, to exact punishment for what had been done against Bagarat, raised a hastily gathered force, routed Abusethus's troops and killed him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.562",
+   "text": "Finally Bugha, the worst of all, came upon them with a strong army, sent into Armenia by the impious Ciaphares to avenge the killing of Abusethus; he tormented the nation with many calamities and every kind of punishment and slaughter, especially the nobles and the order of horsemen; and those to whom he granted life he urged with blandishments to fall away from Christ and go over to the impiety of his sect. But very many men of brave spirit, putting on the shield and armour of Christ, scorned all the terror of tortures and pains that threatened them from that criminal, for the sake of the goods of the life to come. Among them was Atom, beloved of God, from the province of Alhage, who with his companions endured a great weight of torments and won the most precious crown; and these were about one hundred and fifty, besides those who became martyrs in other provinces, whose feast is appointed for the twenty-fifth day of the month Mehekan. Not a few, however, unable to bear the pain, stained themselves with disgrace; and these, having lost eternal life, did not gain the present one."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.563",
+   "text": "So when that wicked and savage Bugha saw that matters were turning out as he wished, he brought the nobles of the country into his power, partly by guile, partly by authority; among them also the great commander of the Armenians, Smbat, surnamed Aplabas, a man truly to be desired by the angels for his true knowledge of Christ, who was also called the Confessor. Then that evil Bugha, hastening his return to the great Amir, carried the rest off with him in chains, but Smbat by deceit and treacherous promises of good things. Meanwhile, since John had departed this life, Zacharias was put in his place in the holy dignity, who in the space of a single day leapt from the priesthood, or rather from the diaconate, to the summit of the patriarchal throne."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.564",
+   "text": "Now all who had been carried off by the wicked Bugha were at once shut in prison by order of the supreme tyrant, and unless they cursed the law of Christ they had to die, not without dreadful tortures. And indeed not a few, terrified by bodily death, fell away from the faith; except the renowned Smbat, who, though he confessed Christ steadfastly and openly, nonetheless died his death in chains. Meanwhile a certain prefect, Stephen, surnamed Kon, fearlessly confessing Christ, was given the palm of martyrdom in the three hundred and second year of the Armenian era. Further, the body of the aforesaid Smbat the Confessor was carried by the faithful with great pomp and psalmody to the holy church of Saint Daniel, to the very place where he had once been thrown into the lions' den."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.565",
+   "text": "When Smbat was dead, his son Ashot seized the reins of affairs; and he outshone all his forebears, and so commended himself by integrity and kindness that he won the love of all. On account of this excellent fame a certain man named Aly-Armenus was sent by the great Amir with gifts into Armenia, who conferred on Ashot, besides the governorship, the title of prince of princes as well; in this dignity he remained for 30 years, until, on account of his virtue and excellent deeds, he was also adorned with the royal diadem, being proclaimed king by two kings, the Ishmaelite and the Greek, in the last five years of his rule."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.567",
+   "text": "This is the place to indicate how the tyranny of the Ishmaelite nation began to decline towards its end. For although the Bagratuni family reigned, not without the consent of the Ishmaelites, the greater part of Armenia was nonetheless at that time, as also now, in their power; yet not under the nod of a single Amir, as had been the custom from the first Muhammad down to Ciaphares and also to his children. For in the times that followed, governors were appointed haphazardly, as each pleased. And this is a sign of a weak and perishing empire, especially if dominion is divided among several, which was now happening to them. For Sanphares ruled in the region of Khorasan; Lavicus Abuthoraphus in the city of Dara; Ises son of Sechus in Palestine; the son of Abldelphus in the province of Telmar; and others elsewhere, giving themselves to tumults, grasped at tyranny against one another. Hence it is that the names of these impious tyrants are in confusion in the chronological Canon. Meanwhile from all sides they sent into our regions malevolent and savage overseers: namely the beastlike Bula; and the most iniquitous Apsinus his son, who had governed earlier, [son] of the wicked Abusigitha; and also the malignant and ruinous Yusuf, brother of Apsinus; then Nesras, surnamed Shercha; then others like them, enemies of Christ, who, up to the dominion of the Amiralmumni of the Scythian nation, which still continues, harassed the borders of our Armenians with constant raids. Their names, we say, since they are not distinctly written in any histories, as far as we have seen, we cannot set out one by one; especially since they are inscribed not in the book of life but in the records of the impious."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.568",
+   "text": "Afterwards the Scythians seized the tyranny in this way, as I find written by the great teacher Sarkavag, who speaks thus: \"While the Persians and Medes fight each other with alternating fortune down to this day, the Scythian nation (I do not mean the Greek one but the barbarian) is said to have entered their regions in this manner. The kings of that age, whose names are unknown to us (because no one cared to hand down to posterity the records of events and the names of these rulers), having conquered very many nations, at last themselves suffered long defeats at the hands of the Indians, and summoned aid for the war from the aforesaid barbarians with the hope of very great gifts; strengthened by their alliance, they soon defeated the rebel in successful battles. Soon, when war against the same was renewed, they kept away from themselves those barbarians who had been bringing help. And meanwhile the king departed this life. Then the Medes, entering an alliance with these barbarians, drove out the Persians; and so the dominion was strengthened, as some relate, of the Scythians, or rather, as I think, of the Bactrians, who destroyed the kingdoms of many nations in great and murderous wars.\" In this writing our scholar followed events down to the reign of Malik-Shah, which we shall speak of in its place using the same author; the times, we say, of his father, namely the bloody Alp Arslan, and of his grandfather and forebears, whose names are given as Tughril Beg, Mahmud and Seljuk: for so we once read distinctly in a codex written in his own hand; and if we have access to that codex again, we shall certainly use it for this composition; if not, we shall at all events pass over men who trusted in their own strength and leaned on a vain thing, who are barred from God's inner sanctuary and from the land of the living. But let us, relying on God's mercy, confess his name, who has done this; and let us bear it with an even mind, for he is gentle towards his saints."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.569",
+   "text": "Now therefore let us return to the interrupted order of the canons, and, with one series (64) excluded for the reason stated above, let us say joyfully: They have been driven back from your hand; but we are your people and the sheep of your pasture (65)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.572",
+   "text": "After the death of lord Ananias, the throne of St Gregory was occupied by lord Vahan, archbishop of Siunia, from the province of Baghk. But when one year of his patriarchate had passed, a controversy was stirred up against him on suspicion of schism. Therefore in the fortress of Ani, in the reign of Ashot son of Abas, many bishops and cross-bearing monks held an assembly, set him aside and cast him from the see, and gave him as successor Stephen, a kinsman of Mashtots, a man beloved of God, a native of Sevan. But Vahan, staying in the province of Vaspurakan and held there as the lawful successor of St Gregory, gave occasion to a ruinous and grave schism: for they vied with each other in throwing all Armenia into turmoil with anathemas and public offences, until by God's will both died in the same year. They were followed by one year of interregnum. Soon, at the command of Ashot, surnamed the Generous, men endowed with integrity and holy bishops assembled and placed on the patriarchal throne the blessed man of God, lord Khachik, brother of lord Ananias the great patriarch, by whose sound and eloquent teaching and holiness of life the mouth of the wicked was stopped (73). STEPHEN, 2 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.576",
+   "text": "Finally, after Gagik no one of this line (85) was king. For the Greeks ruled for 21 years. Then Alp Arslan took Ani, the metropolis of the Armenians, and overthrew it utterly."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.577",
+   "text": "After the death of Smbat, who was also called John, the nobles, gathered with the patriarch lord Peter in the magnificent cathedral church of Ani, metropolis of the Armenians, by unanimous vote set Gagik, nephew of King John through his brother, in the royal dignity of his uncle; but he neglected the pursuits of war, on which empires rest. And yet in these times above all strength needed sharpening, with the Ishmaelites raging, the Scythians making incursions, as we have already said, and the Greeks themselves seething with sedition, because they saw their realm administered at the will of a woman (86). This Gagik, I say, accustomed from his tender years to occupy himself with literary studies, delighted in them also while ruling. When the Greeks perceived this (a nation compounded of frauds), they lured the man to themselves, making use above all of the tricks of our nobles, who, though they had confirmed by oath that his kingdom would be faithfully guarded by them, nevertheless did not keep the Lord's covenant: and these schemes had this outcome, that they themselves and many others perished in inescapable ruin. For the Greeks, having removed the king to an island, sent governors every year; at which time the citizens and nobles of the city of Ani contended in discord and ambition, and accused one another with mutual slanders of injuring the emperor's majesty and of partisanship for the Hagarenes. Indeed the magnates dared to beset the patriarch himself with accusations, and he in turn, compelled by necessity, brought them to judgement. Therefore both sides were turned out of their homes and carried off elsewhere, while meanwhile the common people lived almost lawless, according to their own desire. And this state of public affairs lasted 21 years. When these were over, a fiery whirlwind driven by a southern blast brought a man-eating beast, by whose burnings our nation was destroyed root and branch: indeed the city of Ani too was stormed after a siege of 25 days, and its citizens were cut down by the sword like brushwood, so that the earth ran with blood, and everything was polluted with lusts and rapes. Truly the Lord was angry in his fury, and utterly abhorred his inheritance (87)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.578",
+   "text": "Therefore, since the dignity of our kingdom has been destroyed, it must likewise cease in our canon. For although some part of the sceptre remained, namely of those who lived in Cilicia (88) or elsewhere, nevertheless these too, after the destruction of the metropolis, either came of their own accord into the dragon's power or fled to the Greek emperor; and so the enemies took possession of our whole country. Now let us follow the rest in these canons down to our own age: in the first column the Creator clothed in human nature, then the emperors, then the patriarchs, and finally the era (89), beginning from where we left off earlier."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.580",
+   "text": "King Diogenes, surrounded by a huge army, attacked the Persians in war, advancing as far as Manzikert, which he also occupied. On learning of this, the tyrant Alp Arslan at once opposed him, and in a great battle Diogenes was defeated and captured. The victor imposed tribute on him and afterwards granted him freedom; but since his nation was no longer willing to obey him, it made Michael son of Ducas its king. Then Michael met Diogenes in battle and came off the victor; and Diogenes, having lost his army, while he was being led by the soldiers to Michael clothed in sackcloth, was deprived of his sight on the way at Michael's order, and died of the intolerable pain of that wound in the year 521 of the era."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.581",
+   "text": "In the same year the sentence of the most just Deity flashed out against that swollen and unbridled beast whose name was Alp Arslan. While he panted with horrible roaring for dominion over the world, and while he prepared to spew out the most bitter venom of his soul even upon those whom he had not yet entangled in his claws, the wicked man was suddenly cut off from the earth by the stroke of a sword, and did not see the glory of God. Yet before he breathed out his most foul spirit, he is said to have gazed at his slayer with wonder and amazement; and so, slain, he went down to the underworld with monstrous bitterness and a soul spattered with the slaughter of so many innocent and pious people."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.582",
+   "text": "Here I shall keep my promise, that is, I shall follow out the rest of the narrative of this time, which it was necessary to pass over in the earlier place. That divine scholar, then, the doctor Sarkavag, goes on to say: \"When the fortunate Malik-Shah, after the death of his father Alp Arslan, was in the glory of empire, the whole conduct of the kingdom enjoyed a most beautiful order. For he was indeed, as his name indicated, King of kings (91). Nor did he imitate the character or ways of his father; rather he displayed pursuits so contrary that he thought nothing had been more unjust, nothing more hostile to peace or to human life at all, than his father's plans and wishes. So, having arranged everything well, and excelling in prudence and fortitude many kings, and certainly all who have appeared within our memory, he strove at nothing more earnestly than to live most justly and to trouble no one with injury or arrogance. He was also endowed with a liberal nature of mind and lofty counsel, and lastly with a bodily stature befitting a king: and there was such gentleness and sweetness of manners in him that he was wonderfully loved. And I for my part consider only a king of this kind to be rich. In a short time he subdued almost the whole world, whereas other kings usually gain so great an empire only after a long time or never. But he made use of benevolence and courtesy more than of force of arms. Now if he gained so much in so short a time, surely, as I judge, not even Europe would have withdrawn from the bounds of his kingdom, had he not departed this life too soon.\" This is what Sarkavag relates of his life; he ruled 20 years. Presently I shall append what the aforesaid author tells of his death."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.583",
+   "text": "In the year 522 of the era, while the tyranny of the Saracens prevailed, Prince Oshin (92) departed from his hereditary domain, named Mayriats Jurk, situated opposite Ganja, accompanied by his brother Halkam, his mother, his wife and other men of the highest nobility, and taking all his goods with him; and entering Cilicia, he claimed for himself from the power of the Saracens the most celebrated fortress of Lampron, at the foot of Mount Taurus, where Tarsus the metropolis also lies."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.584",
+   "text": "In the year 525 of the era King Gagik went to Tarsus to Apelgharib, prince of the Armenians and his kinsman; but when he was returning from there, he was attacked by force by Greek princes near Argia and ended his life by the noose. Others, however, say that while given to hunting and by chance asleep he was captured by the Mandalians (93), then taken to the fortress of Candruscoria and killed there. Paralysed by this terror, the remaining princes of the Armenians scattered in flight. Of their number, however, a certain prince, a kinsman of Gagik, named Ruben (94), who held the fortress of the Cositars, on learning of Gagik's death migrated with his whole house to parts of Phrygia and settled in the town of Colmesolum. In these mountains there happened to live many settlers of the Armenian nation; joining them to himself and being sufficiently strengthened, the illustrious Rubenid held the mountain region by arms, and having driven out the Greeks, occupied their towns."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.585",
+   "text": "Come now, since in the reign of Malik-Shah the whole world, and Armenia above all, enjoyed peace—Armenia, to which earlier tyrants had for so long held out the deadly cup—I wish to add the words of praise of the aforesaid excellent doctor, who again writes a very elaborate and lengthy discourse, after he has finished the deeds of the living man, narrating his death thus: \"In the year 541 of the era the chief minister of Malik-Shah, king of the Persians, was killed; his name was Hasan, and the title of his dignity Vizier Khoja. Twenty-eight days later Malik-Shah himself also died, poisoned, as the report goes, by his wife: a man benevolent and most gentle towards all, and towards Christians almost uniquely so. His death was followed by an incredible upheaval of all nations for four years. For both his brother Tutush and his son Berkyaruq, stirring up wars in these years, overturned every kind of good institution, while neither held the kingdom firmly. Meanwhile blood flowed like torrents, not only of those contending in battle but also of citizens and provincials of every rank, besides other miseries of famine and captivity. Thus indeed prosperity was driven out together with the king's life: to him had belonged the labour of royal cares, while to others, whether nobles or commoners, their fruit and benefit had overflowed, namely security of life, abundance of goods and the warding off of evils. He so loved our nation that he asked for prayers and blessings; for which reason he also summoned the patriarch to court. And would that he had passed over to Christian rites and ways!\" The seat of his empire was Isfahan, which is the metropolis of the Persians, and there he ended his life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.586",
+   "text": "The Romans cross through Thrace into Asia, to go and avenge the wrongs done by the Scythians, Persians and Saracens against the Christians. But they suffer very many hardships from the son of Satan, Alexius, king of the Greeks in the city of Constantinople. He attacked them partly with secret, partly with open plots, and even with deadly food; then, when these same men had been entrusted to the sea and to the guidance of his people by a most wicked trick, he cunningly indicated to the barbarians by what means they might be captured. May the Lord one day avenge these things! For this man and likewise his mother, as we have heard from many, were strangers to the Christian rite. The doctor Sarkavag also records this."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.587",
+   "text": "The Romans wrest Jerusalem by force from the Saracens, sixty-five thousand of the enemy being slain in the temple, and still more in the city. Lord Vahram was staying in Jerusalem while the city was being taken (90)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.588",
+   "text": "Lord Basil, patriarch of the Armenians, died, and his dignity was taken up by Lord Gregory, who sat with great glory on the throne of the see of St Gregory the Illuminator of the Armenians, from whose line it was known that he too was descended. He, abundantly adorned by the grace of God, on account of the integrity and holiness of his ways obtained testimonies of the highest honour not only from men of our own nation but also from foreign kings and princes, and indeed even from kings and pontiffs of the Romans. He also made a journey to the holy city of Jerusalem, and there reverently beheld the holy places in which God, having come down to human nature, became a sharer in the passion of Christ so that he might also become a partaker of his glory. There indeed the Roman nation, mistress of those same places, which they designate by the name of Franks, recognised how great an abundance of divine grace was in our patriarch: for both from the outstanding form and majesty of his body the beauty of his spirit was easily perceived, and also the genuine orthodoxy of his faith, which he expressed clearly and according to the truest canons, and not without graceful eloquence. Wonderfully delighted by these things, the Romans were joined in a bond of the highest love with our patriarch and with the Armenian nation. Thus all things are governed by the providence of God: for the Lord has not cast off his people, as the words of the Psalmist testify."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.589",
+   "text": "In the same year of the era in which the patriarch Basil died, the doctor George, surnamed Mełrik (97), was translated by death to the Lord."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.590",
+   "text": "Again in the same year the brave Tancred the Roman, who held Antioch and many other cities and provinces besides, an excellent and upright man, was killed by poison by his own patriarch in that same city of Antioch."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.591",
+   "text": "Finally, in the same year, during the forty-day fast of holy Easter, on the fourth day of the fifth week, the day on which the stars were once created, there was an eclipse of the sun. GREGORY (98), 53 years."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.592",
+   "text": "Weary at last of the incursions, plunders, destructions and slaughters with which the Iberians and Saracens vied in harassing the province of Ani, the inhabitants of the city of Ani and of the region of Shirak, in order to drive this storm away from themselves, resolved to take refuge in the protection of David, king of the Iberians. So a conspiracy was formed against the emir Abulaswar, son of Manuchihr, who had succeeded to the lordship of Ani on his father's death; and King David was received into the city through open gates: and though he entered thus suddenly, no one suffered loss of life. He took Abulaswar captive with his sons and carried him with him into Iberia, and placed him in so pestilential a spot that within a short time the father perished together with two of his children. Meanwhile, when the brave David too had paid his debt to nature, the kingdom of Iberia passed to Demetrius his son, most richly endowed with every merit of youthful training. Then Fadlun, the eldest of Abulaswar's sons, who had long been staying with the great emir in Khorasan, on learning of his father's calamity and the harmful nature of his place of confinement, hastened to make an incursion into our regions, and having defeated the governors of the outskirts, surrounded the metropolis with a siege. Thereafter a cruel famine held a whole year: and when the citizens went out by night to obtain food, the enemy laid ambushes and slaughtered the men, so that the ground was foul with blood and bones, while he sold the women and children. Yet again and again captains, excellent men, came from Iberia, such as that famous and vigorous Ivane, son of Abuleth, who with brave spirit cut down the raiders: and when Fadlun attacked the city with great force, he himself, accompanied by a few, with the help of the citizens, freed the city from danger. Nor should one pass over in silence the manly deed of a certain woman in that struggle, who, standing quite boldly on the walls, drove back the enemy with blows of stones, scorning the arrows with which she was assailed from outside. The woman's name was Caprea [Roe-deer], which suited her swiftness. Nevertheless, since the kingdom of the Iberians was not yet sufficiently established in that city, and hunger and slaughter raged daily, the citizens were forced to transfer the city once more to Fadlun's power, having received an oath from him that he would take no measures against the betrayers of his father and brothers. Although he did not refuse that pact for the present, nonetheless, once matters were settled, he assailed them with various kinds of accusations and punished them. While he reigned there was indeed rest in Armenia from the usual incursions, but both past losses and the weight of taxes and plunder produced among us the utmost poverty and a scarcity of all things, which, increased by additions from that age onward, persists even to our own times."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.593",
+   "text": "But the holy patriarch and prelate of the faith, Lord Gregory, because he had made a friendly pact with Abulaswar by which the see would be protected by him, on hearing of the conspiracy of the people of Ani against him, was vehemently angered with the authors of the crime (2)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.594",
+   "text": "In this year the nation of the Romans crossed the sea with a countless army by that same Thrace through which the earlier crossing had also been made, which we recorded above at the year 546. These men showed no memory of those troubles which they had once suffered from the son of Belial, Alexius: for they did not perceive the crafty and deceitful wiles of the Greeks, since they thought Alexius an ally in faith and a servant of Christ. For that reason at this time too, forgetful of past evils, they were still more gravely deceived and mocked by his grandson, whose name alludes to Antichrist: since he, though greatly shrinking from the deeds and religion of Emmanuel, was called Manuel (6)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0249c.stoa001.opp-lat1.595",
+   "text": "In the year 610 of the era Giorgi, king of the Iberians, took Ani on the thirteenth day of June: soon, at the beginning of August, he routed eighty thousand soldiers of Shah-Armen with seven thousand: a thing we saw with our own eyes, twenty-three thousand [slain] being entered in the records, besides the rest of the multitude that covered our countryside with their corpses. In the following year of the era, 611, on the 21st day of August, Giorgi occupied the city of Dvin, and from there led away sixty thousand people captive, and also destroyed their superstitious shrines. Then in the year 612 of the era the Sultan of Khorasan, advancing with countless forces of armed men to the gates of our Ani, struck the inhabitants with dread: but after the thirtieth day, that most cunning man departed secretly, and having inflicted a great defeat on Giorgi and his forces, withdrew into his kingdom."
+  }
+ ]
+}

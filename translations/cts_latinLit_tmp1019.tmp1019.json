@@ -1,0 +1,1303 @@
+{
+ "work_urn": "urn:cts:latinLit:tmp1019.tmp1019",
+ "edition_urn": "urn:cts:latinLit:tmp1019.tmp1019.ai-claude",
+ "source_edition": "tmp1019.tmp1019.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-13",
+ "updated": "2026-11-25",
+ "whole_work": true,
+ "header": {
+  "title": "Euclidis Megarensis Geometriae Libri Duo Ab A M Severino Boethio Translati: AI translation (Claude)",
+  "author": "Boethius",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tmp1019.tmp1019.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.head": "Line 1: 'expotienda' read as 'expolienda' (to be polished). Line 23 ('Finitima mensuralis... linea'): an intrusive surveying definition, not from Euclid; sense of 'observationum' uncertain. Line 59: the definition of an inscribed figure is garbled relative to Euclid (who has the inscribed figure's angles touching the sides of the other); translated as the Latin stands.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.90": "Text is heavily corrupted by scanning; evident readings followed (e.g. 109 'alterius' read as 'alternis'; 173 'G' read as C). 'Alternae lineae' rendered 'parallel'. Line 141 breaks mid-proposition, continuing in 143, whose wording is muddled. Line 147 'possunt' taken as 'is greater in square', with singular subject for the plural. Line 156 is garbled and the rendering is tentative. Line 171 is obscure, possibly corrupt; translated literally. In 173 a word such as 'aequales' is missing in 'quae sibi invicem sunt'.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.174": "Line 174: the circle is printed as drawn with radius 'D E' and 'L) L' is read as 'D L'; the construction requires D F and D L. Line 186: 'in aequa linea' read as 'inaequa' (uneven). Lines 190–192: *enormis* and *liquis* are surveyors' terms of uncertain sense, kept untranslated. Line 196: the numerals 'd234S6789' are read as 1–9. Line 203: 'binarium 500' must be 200, and the sentence on placing two under the column marked 10 is garbled in the edition; it is translated by its evident sense.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.204": "Line 204 is very compressed and partly garbled in the edition (stray marks such as '* t', '* i', '* c', 'ι̃' omitted); the column names in brackets are supplied from the sense of the abacus rules and are uncertain. Line 205: the division rules are obscure and possibly corrupt; 'munitum' read as 'unitatem', 'cosequationem' as 'coaequationem'. Line 206: the second term after 'appellare voluerunt' is missing; the surveyors' pair is scamnum/striga, so [*striga*] is supplied. Line 207: 'Stadium 25 pedes' is evidently an error for 625 or 125 (the stadium is normally 625 feet); translated as printed with a bracketed guess. Line 216: the numerals are corrupt: 'dO' read as 510, '399' as 390, and 'cathetum pedibus 90' as 26 (the approximate height of a triangle of side 30; 26 × 15 = 390). Line 219: 'oli' read as 56.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.220": "Many numerals are misprinted by the scan and have been corrected from the arithmetic: e.g. 25 for '23', 625 for '655', 225 for '2?0'/'2?5'/'25', 144 for 'JH-', 17 for 'd7', 35 for '3o'. In the scalene passage the text says the base is 'taken away' from 225 to give 9, but the arithmetic requires division (225 ÷ 25). In the first right-angled example the text gives the area as 64; the correct area of the 8-15-17 triangle is 60. Line 224 is syntactically broken in mid-sentence ('per cathetum et basis est hypotenusae pedaturam...'); the translation supplies '[How]'. In line 231 the closing clause ('quindecim autem si de aggregatis, id est 50, 25 abstuleris') is corrupt; the sense required is 15 − 7 = 8. In line 234 'the fifth part' of 25 gives 5, though the rule really requires the square root; a verb ('add') seems lost before 'two sums joined'. In line 236 the numbers do not fit the earlier triangles (12, 8, 15); the diameter 'o' is read as 5, the result the text's figures yield, though the correct inradius rule gives diameter = legs − hypotenuse for a consistent triangle.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab32": "The numbers are heavily garbled by scanning; evident readings have been translated. Obtuse-angled triangle: the base is printed 'j8' and later '28' (read 18); the perpendicular 'i' is read 4 from the following calculation (18 × 2). Archytas' alternative rule is obscure and the passage seems corrupt; it is rendered as printed. Acute-angled triangle: '1 i.' read 14, 'iC9' 169, '23' corrected to 25, '85' to 84, all as the arithmetic requires. Rhomboid: 't4' read 14. Trapezium: 'io' read 15. Diagonal: Latin 'sexies 400' and 'ter 600' are read as 6,400 and 3,600, 'IV' as 10,000, and 'pedes' as 'parallelogrammus 60' is treated as a stray duplication. Pentagon: '107' corrected to 108. Hexagon: '556' read 256 and '2i2' read 272. Octagon: the text says the side is 7 but calculates with 8; 8 is translated. The area rules for polygons are approximate (figurate-number) rules, not exact geometry.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab42": "The figures in this stretch are badly garbled in the scan, and some arithmetic is restored. Enneagon: 'J09', '79' and '38 semispedibus' are corrupt. They are restored as 252, 222 and 111 by the method stated. Decagon: the step subtracting one side six times is missing, and '770' should be 370 by the method. It is supplied in brackets. Circle: 'Hpedibus' is read as 44 feet and 'tl' as 11. Semicircle: 'in decies 421,1' and '312' are read as ×11 = 4312 and 308. Mountains: '5'20' is read as 520,000, '790' as 700,000 and 'mascensuoCO' as 'in ascensu 500'. In the second mountain, 700,000 / 28,800 leaves 8,800, not 200 as printed. The third mountain's '640' is taken as 640,000. 'Iugerum' is 28,800 square feet. 'Peditura' is read as 'pedatura'. 'Strabus' is kept, glossed by the text itself. In the alphabet list, 'Ii' is read as K, and 'G dobulo' as G obolo. 'Ceratem' is Greek keras. 'Nota' (in 283) is taken as 'notitia' (knowledge). Parts of 283 are syntactically confused, notably 'et illud supra…', 'ipsa plus aequis lateribus…' and 'quia primum ordo… Nonne et eloquentiae'. These are rendered as nearly as the sense allows. Archyta is Archytas.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab48": "The text is badly transmitted throughout and several sentences are barely construable; renderings of 285, 286, 298 and 307 (end) are tentative. 287: 'i00', 'i50', '4?0' read as 100, 150, 420; the large figures (10200 etc.) are printed thus and may be corrupt. 293: 'augustinorum' taken as Augustales; 'locus collivus' (from run-together 'loco colliva') is uncertain. 297: 'ii' read as 11, though 14 kinds are listed. 304: 'agusteos' read as 'augusteos'; the run-together sentence on streams is reconstructed. 305: *cunabula*, *noverca*, *scorpiones*, *legonati*, *calaviones* are obscure survey terms, kept untranslated; 'voratos' taken as 'vorágines' (gullies) by conjecture. 306: 'anota. ad notam' read as 'a nota ad notam'. 307: 'metris' perhaps for 'metiendo'; 'Mntans' read as 'Mutans'.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab50": "Line 308: 'Caudi' read as Claudii; 'MensorisLongmi' as Longinus the surveyor. Line 311: the list of boundary-stone names is badly garbled; unidentifiable names (*Exculerms*, *Escuiteiatuslatenbus*, *Sumbus*, *amHygmeus*, *Varoberinus*, *Trudens*, *Lippus*, *Kalasiones*, etc.) are kept as printed; 'trapideus' taken as trapezoid, 'vitae' as vine (vitis). Line 312: 'particularis' read as superparticularis; 'elimate', 'centua', 'arrapennis' taken as climata, centua (unidentified), arepennis. Line 323: 'sanitatem' is missing in the second list and has been supplied. Line 325: edition's 'servus (secundus?)' read as 'second'. Line 334: 'i?, vel H4' read as 12 or 24; the sentence on deficient numbers lacks its predicate in the text, supplied in brackets; 'in arithmetica' in 'in geometria vel in arithmetica' may be an error for music or astronomy.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.335": "The text of this stretch (from Boethius' Arithmetic) is badly scanned and in places corrupt. Line 335: the perfect numbers given as 416 and '800 and 128' should be 496 and 8128. Line 336: the list of the five relations is garbled ('id est quarta' read as 'then the fourth'). Line 337: '12 si jungas, faciunt 150' is corrupt (a second term is missing); 'Duodecies 546 ... in 'i5?' and 'in j 52' are corrupt numerals, left as printed. Lines 339–340: 'per decimam litteram' and 'per tO litteræ formam' refer to letter-shaped figures in a lost diagram; sense uncertain. Line 341: the closing description of angles and unities is obscure and probably corrupt.",
+  "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.342": "This colophon is the early printed editor's note, not part of the treatise. 'aequiquc' read as 'aequique' (boni aequique consulat, 'take it in good part')."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.head",
+   "text": "THE TWO BOOKS OF THE GEOMETRY OF EUCLID OF MEGARA, TRANSLATED BY ANICIUS MANLIUS SEVERINUS BOETHIUS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab1",
+   "text": "BOOK ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.1",
+   "text": "Since, my Patricius, most practised of geometers, I have undertaken at your urging to expound what Euclid set out obscurely concerning the figures of the geometrical art, and to polish it with a clearer approach, I think that first of all it must be defined what measure is."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab2",
+   "text": "On measure."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.2",
+   "text": "Measure is whatever is bounded by weight, capacity, length, height, breadth, and by the mind. The beginning of measure is called the point. A point is that which has no part. A line is length without breadth, and the ends of a line are points."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab3",
+   "text": "On the kinds of lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.3",
+   "text": "A straight line is one that extends evenly between its points. A surface is that which is reckoned by length and breadth. The ends of a surface are lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab4",
+   "text": "Straight line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.4",
+   "text": "A plane surface is said to be one that is bounded evenly by its straight lines. Plane surface."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab5",
+   "text": "On the kinds of angles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.5",
+   "text": "A plane angle is the meeting, each with the other, of two lines in a plane which touch one another and do not lie in a straight line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.6",
+   "text": "When the lines that contain the angle are straight, then it is called a rectilinear angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.7",
+   "text": "When a straight line standing on a straight line makes the angles about it equal to one another, each of the equal angles is right. And the line standing on the straight line is called perpendicular. An obtuse angle is greater than a right angle, and an acute angle is less than a right angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab6",
+   "text": "On the types of figures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.8",
+   "text": "A figure is that which is contained by some boundary or boundaries."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.9",
+   "text": "A boundary is that which is the end of anything."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.10",
+   "text": "A circle is a plane figure, drawn round and contained by one line, which is called the circumference, such that all the straight lines falling on it from a point placed within the figure are equal to one another; and this point is called the centre of the circle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.12",
+   "text": "A diameter of a circle is a straight line drawn through the centre and ending on both sides in the circumference of the circle, which divides the circle into two equal parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.13",
+   "text": "A semicircle is a plane figure which is contained by the diameter and the circumference cut off by the diameter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.14",
+   "text": "Rectilinear figures are those which are contained by straight lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.15",
+   "text": "A three-sided figure is one which is contained by three straight lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.16",
+   "text": "A four-sided [figure], one which [is contained] by four."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.17",
+   "text": "A boundary line in surveying is a line which is observed either for the sake of some observation or of some boundary."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.18",
+   "text": "A many-sided figure, then, is one which is contained by more than four sides."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab7",
+   "text": "On triangles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.19",
+   "text": "An equilateral triangle, then, is one which is contained by three equal sides."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.21",
+   "text": "An isosceles is one which has only two sides equal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.22",
+   "text": "A scalene is one which has three sides unequal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.24",
+   "text": "Further, among three-sided figures, an orthogonium, that is, a right-angled triangle, is one which has one right angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.25",
+   "text": "An amblygonium, which in Latin is called obtuse-angled, is one which has an obtuse angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.26",
+   "text": "An oxygonium, that is, acute-angled, is one in which the three angles are acute."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab8",
+   "text": "On squares."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.27",
+   "text": "Among four-sided figures, that is called a square which is equilateral and right-angled."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.29",
+   "text": "An oblong is one which is right-angled but is not equilateral."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.30",
+   "text": "A rhombus is one which is equilateral but is not right-angled."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.32",
+   "text": "A rhomboid is one which has its opposite lines and angles equal, but is contained neither by right angles nor by equal sides."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.33",
+   "text": "Apart from these, all four-sided figures are called trapezia, that is, little tables."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.34",
+   "text": "Those straight lines are called parallel, that is, alternate, which, being placed in the same plane surface and produced in both directions, meet in neither direction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab9",
+   "text": "Parallels."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab10",
+   "text": "On the postulates which are in geometry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.35",
+   "text": "The petitions, which (as pleased the ancients) are called postulates, are five."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.36",
+   "text": "The first requires that a straight line be drawn from any point to any point."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.37",
+   "text": "The second directs that a bounded straight line be produced continuously in a straight line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.38",
+   "text": "The third prescribes describing a circle with any centre and any distance."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.39",
+   "text": "The fourth holds that all right angles are equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.40",
+   "text": "The fifth commands that, if a straight line falling on two straight lines makes the interior angles on the same side less than two right angles, the straight lines, produced indefinitely, meet on that side on which the two interior angles are less than two right angles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab11",
+   "text": "On the common notions of the mind which are in geometry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.42",
+   "text": "The common notions of the mind, then, which the Greeks call <i>koinai ennoiai</i>, are these: when spaces and intervals are equal to the same thing, they are also equal to one another; and if equals are taken from equals, the remainders are equal; and if equals are added to equals, the wholes too are equal; and things which coincide with one another are equal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.43",
+   "text": "Every right-angled parallelogram is said to be contained by the two straight lines which enclose the right angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.44",
+   "text": "In any parallelogrammic area, each one of the parallelograms which are about the same diameter, together with the two complements, is called a gnomon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.45",
+   "text": "Circles are equal whose diameters are equal; those which are not so are unequal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.46",
+   "text": "A straight line is said to touch a circle which, while touching the circle, does not cut the circle when produced in either direction."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.48",
+   "text": "Circles are said to touch one another which, touching one another, do not cut one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.50",
+   "text": "Straight lines in a circle are said to be equally distant from the centre when the perpendiculars drawn to them from the centre are equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.52",
+   "text": "That line is said to be more distant from the centre on which the longer perpendicular falls."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.53",
+   "text": "A segment of a circle is a figure which is contained by a straight line and the circumference of a circle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.54",
+   "text": "An angle is said to be in a segment of a circle when some point is taken on the circumference of the segment, and from that same point two straight lines are joined to the ends of the line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.55",
+   "text": "An angle of a circle is said to be one which is contained by two lines drawn from the centre. When the lines which are joined enclose some part of the circumference, the angle is said to stand on it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.57",
+   "text": "A sector of a circle is a figure which is contained by two lines drawn from the centre and by the circumference which is enclosed by them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.58",
+   "text": "Similar segments of circles are said to be those which admit equal angles, or in which the angles inscribed are equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.59",
+   "text": "A figure, then, is said to be inscribed within a figure when the one inscribed touches the sides of the one in which it is inscribed with each of its angles, from the inside."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.60",
+   "text": "A figure is said to be circumscribed about a figure whenever the one circumscribed touches with all its sides all the angles of the one about which it is circumscribed."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab12",
+   "text": "HERE END THE PROLEGOMENA. HERE BEGIN THE DIAGRAMS."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.61",
+   "text": "On a given bounded straight line, to construct an equilateral triangle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.63",
+   "text": "At a given point, to place a straight line equal to a given straight line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.65",
+   "text": "Given two unequal straight lines, one must cut off from the greater a straight line equal to the lesser."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.67",
+   "text": "If two triangles have two sides equal to two sides, each to each, and the angle equal to the angle, namely the one contained by the equal straight lines, they will also have the base equal to the base, and the triangle will be equal to the triangle, and the remaining angles will be equal to the remaining angles, each to each, namely those which the equal sides subtend."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.68",
+   "text": "In isosceles triangles the angles at the base are equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.70",
+   "text": "If two angles of a triangle are equal to one another, the sides which subtend the equal angles will also be equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.72",
+   "text": "On the same straight line, two other straight lines equal to the same two straight lines, each to each, will in no way be constructed to different points on the same side, having the same ends as the first straight lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.74",
+   "text": "For any two triangles in which two sides of the one are equal to two sides of the other, and the base of the one equal to the base of the other, the two angles contained by the equal sides must be equal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.75",
+   "text": "To divide a given bounded straight line into two equal parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.76",
+   "text": "To raise a straight line at right angles to a given straight line from a point which is on it."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.78",
+   "text": "If two triangles have two sides equal to two sides, each to each, and have the base equal to the base, they will also have the angle equal to the angle, namely the one contained by the equal straight lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.80",
+   "text": "To a given unbounded straight line, from a given point which is not on it, one must draw a perpendicular straight line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.82",
+   "text": "Whatever straight line standing on a straight line makes angles will either make two right angles or make [them] equal to two right angles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.83",
+   "text": "If, with respect to some straight line and at a point on it, two straight lines not drawn on the same side make the angles about them equal to two right angles, those lines must lie in a straight line with each other."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.84",
+   "text": "If two straight lines cut one another, they will make the vertical angles equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.86",
+   "text": "In every triangle, when one side is produced, the exterior angle is greater than each of the interior and opposite angles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.88",
+   "text": "In every triangle, two angles taken in any way are less than two right angles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.90",
+   "text": "In every triangle the greater side subtends the greater angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.91",
+   "text": "In every triangle the greater angle is subtended by the greater side."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.92",
+   "text": "In every triangle two sides, taken in any way, are greater than the remaining one."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.94",
+   "text": "If on any one side of a triangle two straight lines are constructed inside [it] from the ends of that side, making an angle, the lines so constructed will be less than the remaining two sides of the triangle, but will contain a greater angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.96",
+   "text": "On a given straight line, and at a given point on it, one must set up a rectilinear angle equal to a given rectilinear angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.98",
+   "text": "If two triangles have two angles equal to two angles, each to each, and one side equal to one side, either the side adjacent to the equal angles or the side subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides, each to each, and will have the remaining angle equal to the remaining angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.100",
+   "text": "If a straight line falling on two straight lines makes the alternate angles equal, the straight lines must be parallel."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.102",
+   "text": "If a straight line falling on two straight lines makes the exterior angle equal to the interior and opposite angle, or makes the interior angles on the same side equal to two right angles, the straight lines will be parallel to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.104",
+   "text": "Through a given point one must draw a straight line parallel to a given straight line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.106",
+   "text": "In every triangle the exterior angle is equal to the two interior and opposite angles, and the three interior angles of the triangle are equal to two right angles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.107",
+   "text": "The straight lines which join equal and parallel straight lines at their ends on the same side are themselves also parallel and equal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.109",
+   "text": "In those areas which are contained by parallel sides, which are called parallelograms, both the opposite sides and the opposite angles are equal to one another, and the diameter also cuts them into two equal parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.111",
+   "text": "All parallelograms which are constructed on the same bases and between the same parallel lines are proved equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.113",
+   "text": "All parallelograms constructed on equal bases and between the same parallel lines must be equal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.115",
+   "text": "All triangles which are constructed on equal bases and between the same parallel lines are equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.116",
+   "text": "Equal triangles which are constructed on the same base and on the same side must be declared to be also between the same parallel lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.118",
+   "text": "Equal triangles constructed on equal bases lying in a straight line, and on the same side, must also be between the same parallel lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.119",
+   "text": "If a parallelogram and a triangle are constructed on the same base and between the same parallel lines, the parallelogram will be double the triangle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.121",
+   "text": "On a given straight line a parallelogram must be laid out equal to a given triangle, in a given rectilinear angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.123",
+   "text": "One must set up a parallelogram equal to a given rectilinear figure, in a given rectilinear angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.125",
+   "text": "In every parallelogram area, the complements of the parallelograms which are about the same diameter must be equal to one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.126",
+   "text": "A square must be described on a given bounded straight line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.128",
+   "text": "In those triangles in which one angle is right, which we call right-angled, the square which is described on the side subtending the right angle is equal to the squares which are described on the sides containing the right angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.130",
+   "text": "If the square which is described on one side of a triangle is equal to the squares which are described on the remaining two sides, the angle which is contained by the remaining two sides is right."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab13",
+   "text": "FROM THE SECOND BOOK OF EUCLID OF MEGARA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.132",
+   "text": "If there are two straight lines, of which one is undivided and the other cut into any number of divisions, the rectangle contained by the two straight lines will be equal to the rectangles which are contained by the undivided line and each of the divisions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.134",
+   "text": "If a straight line is cut, the rectangle contained by the whole and one segment is equal to the rectangle contained by the two segments together with the square which is described on the aforesaid segment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.135",
+   "text": "If a straight line is cut at random, the square which is described on the whole is equal to the squares which are described"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.136",
+   "text": "on each of the segments, together with twice the rectangle which is contained by the same segments."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.137",
+   "text": "If a straight line is cut into equal and into unequal [parts], the rectangle contained by the unequal segments of the whole, together with the square which is described on the line between the two points of section, is equal to the square which is described on the half."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.138",
+   "text": "If a straight line is cut into equal and into unequal [parts], the squares which are described on the unequal segments of the whole are double the squares which are made on the half and on the line between the two points of section."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.139",
+   "text": "If a straight line is bisected, and another straight line is joined to it in a straight line, the rectangle contained by the whole with the added line and the added line, together with the square described on the half, is equal to the square which is described on the line made up of the added line and the half."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.141",
+   "text": "If a straight line is bisected, and some straight line is joined to it in a straight line, the square which is described on the whole with the added line"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.143",
+   "text": "and [the square on the added line], both squares taken together, must be double the square which is described on the half and the square which is described on the line made up of the half and the added line, both squares taken together."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.145",
+   "text": "A given straight line must be cut so that the rectangle contained by the whole and one segment is equal to the square made on the remaining segment."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.147",
+   "text": "In a triangle figure which has an obtuse angle, the side subtending the obtuse angle is greater in square than the sides containing the obtuse angle by as much as is contained twice by one of the sides about the obtuse angle, the one on which, when produced, the perpendicular falls, and the line cut off outside by the perpendicular towards the obtuse angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.148",
+   "text": "One must set up a square equal to a given rectilinear figure."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab14",
+   "text": "FROM THE THIRD BOOK OF EUCLID OF MEGARA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.150",
+   "text": "If in a circle some line is drawn through the centre and cuts into two equal parts some straight line not drawn through the centre, it cuts it at right angles. And if it cuts it at right angles, it will divide it into two equal parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.152",
+   "text": "In equal circles, the angles which stand on equal circumferences are equal to one another, whether they are set at the centres or at the circumferences."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.153",
+   "text": "It is possible to divide a given circumference into two equal parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.154",
+   "text": "In a circle the angle which is in a semicircle is right; the angle which is in the greater segment is less than a right angle; and the angle which is in the lesser segment is greater than a right angle; and the angle of the greater segment is greater than a right angle, while the angle of the lesser [segment] is less than a right angle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.155",
+   "text": "If a straight line touches a circle, and from the point of contact a straight line is drawn cutting the circle, whatever angles it makes, the two angles which are in the alternate segments of the circle are equal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.156",
+   "text": "From this, then, it is clear that if two straight lines touch [a circle] from a point and are equal to one another, segments of a circle may be described on given straight lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab15",
+   "text": "FROM THE FOURTH BOOK OF EUCLID OF MEGARA."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.157",
+   "text": "Within a given circle one must fit a straight line equal to a given straight line which is not greater than the diameter."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.159",
+   "text": "Within a given circle one must set a triangle equiangular with a given triangle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.161",
+   "text": "About a given circle a triangle must be drawn equiangular with a given triangle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.162",
+   "text": "Within a given triangle one must draw a circle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.163",
+   "text": "Within a given circle it is useful to describe a square."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.165",
+   "text": "To draw a circle within a proposed square."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.167",
+   "text": "Geometers instruct us to draw an equilateral and equiangular pentagon about a given circle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.169",
+   "text": "It is not unfitting to draw within a given circle a pentagon which is equilateral and equiangular."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.171",
+   "text": "For all things whatsoever that exist consist by the principle of number. And they are formed proportionally one from another by equality of circumference, exceeding by their multiplications, and alternately making a limit by their proportions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab16",
+   "text": "On geometrical figures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.172",
+   "text": "Since, then, the theorems about the figures set out above were put forward by Euclid briefly and obscurely, and translated by us closely, rendering word for word, it seems that certain things should be gone over and repeated, so that the reader's mind may not be deterred by obscurity but may rather be delighted by the light of some example we pour in. For certain things must be inserted by us into this work, very necessary to this art, answering to what was said above and fitting what follows; and whoever approaches them, instructed in the theorems of our arithmeticians, is led to understanding them with readier understanding."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.173",
+   "text": "It was said above that one must construct an equilateral triangle on a given bounded straight line, but too obscurely; for this reason we have added the figure of this example. Let the given bounded straight line be A B; one must then construct on A B an equilateral triangle. With centre A and radius A B let the circle B C E D be drawn. And again with centre B and radius A B let the circle A C F D be drawn; and from the point C, where the circles cut each other, to the points A, B let the straight lines C A, C B be joined. Since, then, point A is the centre of circle B C E D, A B is equal to A C. Again, since point B is the centre of circle A C F D, B A is equal to B C. But A B was also shown equal to C A; therefore A C will also be equal to B C. Therefore the three, C A, A B, B C, are equal to one another; therefore the triangle C A B is equilateral. And it has been constructed on the given bounded straight line A B, which was what had to be done."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.174",
+   "text": "Above, it was stated that at a given point one must place a straight line equal to a given straight line, but obscurely and with difficulty for those without experience of this art. But we, delighting the reader's mind as if introducing it, lay open the explanation of the following figure by setting down marks of letters and lines. Let the given point be A, and the given straight line B C; one must then place at point A a straight line equal to the straight line B C. Let the straight line A B be joined from point A to point B, and let the equilateral triangle D A B be constructed on the straight line A B, and let the straight lines D A, D B be produced in a straight line to A G and B M. With centre B and radius B C let the circle C F E be described, and again with centre D and radius D F let the circle F K L be described. Since, then, point B is the centre of circle C F E, C B is equal to B F. Again, since point D is the centre of circle F L K, D L is equal to D F. Of these, D A is equal to D B, for the triangle D A B is equilateral. Therefore the remainder A L is equal to the remainder B F. But B F was also shown to be equal to B C. And B C will be equal to A L. Therefore at the given point A, A L has been placed equal to the given straight line B C, which was what had to be done, as the diagram below shows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.175",
+   "text": "In the third place, then, it was put forward above by Euclid that, when two unequal straight lines are proposed, one ought to cut off from the greater a straight line equal to the lesser, but too briefly, and for that reason confusedly and intricately. But we, so that the reader's mind may be led as if by certain steps to the approach of a clearer understanding, have added below the diagram of this figure. Let two straight lines be given,"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.176",
+   "text": "unequal, A B and C D, and let A B be the greater; one must then cut off from the greater, A B, a line equal to the lesser, C D. Let A E be placed at point A equal to C D. And with centre A and radius A E let the circle E G F be described. Since, then, point A is the centre of circle E G F, A E is equal to A G. But C D was also equal to A E, and so C D will be equal to A G. Therefore, two unequal straight lines A B, C D being given, from the greater, A B, A G has been cut off equal to the lesser, C D, which was what had to be done."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.178",
+   "text": "Initiated by these introductions, brief yet very necessary for beginners in this art, the reader, if he should waver and shrink back at some of the things proposed above, can by himself find and compose similar diagrams of figures without any hindrance raising objection."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.179",
+   "text": "But now it is necessary to come to the teaching of the geometrical table, adapted for Latin by Archytas, no mean authority in this discipline, if I first set out what the kinds of angles and of lines are, and say a few things about surfaces and boundaries."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.180",
+   "text": "Of rational angles, then, there are three kinds, that is, right, obtuse, and acute, and they have nine species: three of straight lines, three of straight and curved lines, and three of obtuse and curved."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.181",
+   "text": "A right angle is *orthygrammos*, that is, contained by straight lines, called in Latin *normalis* [square]. Whenever a straight line standing on a straight line makes equal angles, and a perpendicular line has been joined, it will produce a right-angled triangle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.182",
+   "text": "An obtuse angle is more than square, that is, exceeding the position of a right angle, because if a triangle is constructed according to this position, the perpendicular will fall outside the adjoining lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.183",
+   "text": "An acute angle is narrower than a right one; if, from a straight line which serves as the base, it sends out a straight line according to its inclination, and with a similar inclination receives a straight line to meet it, it will produce a triangle which will have its perpendicular within the three lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.185",
+   "text": "There are three kinds of lines: straight, curved, and winding."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.186",
+   "text": "A straight line, then, is one which lies evenly with respect to its points, and which, lying evenly in a plane, does not meet [itself]. A curved line is one whose points are bent on both sides and, being apart from each other, do not meet; if these points meet, it ought to be called a circle, not a curved line. A winding line is multiform, like those of trees or rivers and other marks, in whose likeness the boundary of *arcifinius* [naturally bounded] fields also ends, and of many things which are naturally formed similarly in an uneven line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.187",
+   "text": "There are, then, two kinds of surfaces: surface and plane surface. A surface, according to geometrical usage, is that which extends in length and breadth."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.188",
+   "text": "The limits of a surface are lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.189",
+   "text": "A plane surface is one which is bounded evenly on all sides by straight lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.190",
+   "text": "In bounding all surfaces there are two methods, *enormis* and *liquis*."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.191",
+   "text": "*Enormis* is that which is contained on every side by straight lines."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.192",
+   "text": "*Liquis* is that which, for the sake of lessening labour, and with the rule of right angles preserved, is stretched along the boundaries themselves."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.193",
+   "text": "There are two kinds of boundaries: one which is kept as a straight course, and the other which is kept as a winding one. A straight course is whatever is seen directed between two marks like a line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.194",
+   "text": "Winding is whatever is curved according to the nature of the places. For what is laid straight to the boundary in a field by a reaper for the sake of the work is called a straight course; whatever is drawn in a diagram in imitation of these is called a line."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.195",
+   "text": "Double straight courses are when they run with single spaces intervening, as roads very often go."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.196",
+   "text": "It is necessary that one who looks into this art should know, for the study of this figure which we are about to teach, what digits are, what articles, what composite and incomposite numbers, what multipliers, and what divisors. The ancients were accustomed to call digits all those below the first limit, that is, all that we count from one up to the sum of ten: 1 2 3 4 5 6 7 8 9."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.197",
+   "text": "Articles are all those placed in order by tens and proceeding to infinity. Composite numbers are all those from the first limit, that is from ten, up to the second limit, that is 20, and the rest following one another in order, excepting the limits. Incomposite are all the digits, with all the limits counted in as well."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.198",
+   "text": "Multiplier numbers turn about in mutual folding upon one another, that is, sometimes the greater is the multiplier of the lesser, sometimes the lesser of the greater. And sometimes a number, growing upon itself, receives the increase of multiplication. Divisors of greater numbers are always made the lesser numbers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab17",
+   "text": "On the method of the abacus"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.199",
+   "text": "Men of ancient wisdom, then, following the Pythagorean doctrine, and curious investigators and contemplators of Platonic authority, established the whole summit of philosophy in the power of numbers. For who, judging the melodies of musical harmonies apart from numbers, could know them thoroughly? Who, ignorant of the nature of numbers, could grasp the starry bodies of the firmament itself, fitted with stars, and reckon the risings and settings of the constellations?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.200",
+   "text": "And as for arithmetic and geometry, what need is there to speak, since if the power of numbers were to perish, it would not appear even in naming? Since enough has been said about this in the arithmetical and musical works, let us return to what is to be said."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.201",
+   "text": "The Pythagoreans, so as never to be deceived in multiplications and divisions and in measurements, as they were most ingenious and subtle in all things, drew up for themselves a certain table, which in honour of their teacher they called the Pythagorean table, because they had learned what they had drawn from the master's showing; by later men it was called the abacus, so that what they had conceived in deep thought they might better transmit into the knowledge of all if they showed it as if to the eye; and they formed it with the quite remarkable diagram given below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.203",
+   "text": "They used the table of the diagram set out above in this way. They had variously formed *apices* or characters. Some had written for themselves marks of such *apices* thus: this mark answers to one, 1; this to two, 2; the third to three, 3; the fourth to four, 4; this one was assigned to five, 5; this one to six, 6; the seventh corresponded to seven, 7; this to eight, 8; and this was joined to nine, 9. Some, in drawing this table, took for themselves as it were letters of the alphabet, in such a way that the first letter was for one, the second for two, the third for three, and the rest in natural order were allotted only to the numbers they marked and were written for. These *apices* they were accustomed to scatter variously, like dust, in multiplying and dividing, so that if, adding the said characters in the order of natural number, they placed them under the unit, nothing other than digits would arise. And the first number, that is two (for one, as was said in the arithmetical works, is not a number but the fount and origin of numbers), placing it in [the column] marked 10, [they made] 20, and three 30, and four 40, and the rest following one another in order they determined to assign according to their proper denominations. Placing the same *apices* under the line marked with the number hundred, [they made] two 200, three 300, four 400, and they decided that the rest corresponded to fixed denominations. Doing the same in the following columns, they are darkened by no cloud of error."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.204",
+   "text": "One must know, and examine with careful scrutiny, in multiplying and dividing, to which column the digits and to which the articles are to be added. For a single [i.e. units] multiplier of ten [will have] its digits in the tens and its articles in the hundreds. The same single multiplier of a hundred [will have] its digits in the hundreds and its articles in the thousands. And the multiplier of a thousand [will have] its digits in the thousands and its articles in the ten thousands, and the multiplier of a hundred thousand will have its digits in the hundred thousands but its articles in the thousand thousands. A ten, multiplier of itself, [will have] its digits in the column marked C, its articles in the thousands; and as multiplier of a hundred, its digits in the thousands and its articles in the tens [of thousands]; and as multiplier of a thousand, its digits in the tens [of thousands] and its articles in the hundreds [of thousands]; and as multiplier of a hundred thousand they will have thousands [of thousands]. A hundred, likewise multiplier of itself, [has] its digits in the tens [of thousands] and its articles in the hundreds and thousands. Multiplying [a thousand, it has] its digits in the hundreds [of thousands] and its articles in the ten hundreds [of thousands]; and multiplying a hundred thousand, [it will set] its digits in the tens of thousands [of thousands] and its articles in the hundreds of thousands [of thousands]; and multiplying ten thousand, they will set beneath their digits in the thousands [of thousands] and their articles in the tens of thousands [of thousands]. A thousand likewise, multiplying itself, [has] its digits in the tens [of thousands] and its articles in the hundreds. And as multiplier of a hundred thousand, [it has] its digits in the hundred thousands [of thousands] and its articles in the thousands [of thousands]; and making ten thousand grow, it is recognised to have its digits in ten times a thousand thousands and its articles in the hundred thousands [of thousands]. A ten thousand, multiplier of a hundred thousand, will be found to have its digits in a thousand times a thousand thousands, and its articles likewise in the tens of thousands [of thousands]; and increasing itself, its digits in the hundred thousands and its articles in the thousand thousands. A hundred thousand, multiplying itself, likewise places its digits in the tens of thousands [of thousands of thousands] and its articles in the hundreds of thousands [of thousands of thousands]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab18",
+   "text": "Rubric on divisions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.205",
+   "text": "As for divisions, then, the mind of the reader, already introduced and experienced to a degree, can easily come to know them; for since we are going to speak of them briefly and only in outline, if anything obscure arises we entrust it to the diligent practice of readers to investigate. If ten by itself, or a hundred by itself, or further [numbers] by themselves are put forward to be divided, the smaller are to be subtracted from the larger until they are divided; and a single divisor of ten and of a hundred, or of a thousand, or of further [numbers], or a ten-divisor of those following it, must divide them by taking the difference. A ten compounded with a unit [divides] by seconds or thirds. And thereafter, according to the denomination of the parts, it will divide a ten, either simple or compound. A hundred thousand, or further [numbers], the diligent investigator, if he applies himself, will recognise can be divided by a compound ten, by taking the difference and dividing by the first articles, or by placing the seconds beside, and dividing the increased [numbers] placed beneath. A hundred compounded with units is known to divide a hundred or a thousand in this way. Having taken one of the [numbers] to be divided, what remains is to be made equal to the divisor, and what is left over is to be kept aside among the reserved [numbers]. The single [divisor], or, as others will have it, the unit, is to be multiplied by equalisation with the greater, and for digits the perfect difference is to be placed beneath, while for articles the imperfect is to be placed before, and the whole joined to what was set aside earlier. And this difference, and anything perhaps set apart, indicates what is left over from the [numbers] to be divided. Having given a foretaste of these things in a brief introduction, if anything has been said obscurely, lest it be passed over out of weariness, we entrust it to the practice of the diligent reader, making this the end of this book, and turning as it were to further matters that follow."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab19",
+   "text": "BOOK TWO."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.206",
+   "text": "In the treatise of the preceding volume all the theorems of the geometrical art have been stated, though concisely. But this book, as a book of questions, will without hesitation resolve the knowledge of measurements and the fine points of all measuring questions by unravelling them. For the old land-surveyors were accustomed to make every square of measurement half as long again or half as broad again. And what was longer in breadth they chose to call *scamnum*, and what was longer in length [*striga*], as the diagram below shows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab20",
+   "text": "Rubric on measures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.207",
+   "text": "The ancient measurers, most careful examiners, established twelve kinds of measures, with which, when they wished, they measured out the areas of figures and of fields. Their names are these: mile, stadium, *actus*, decempeda (which is also the perch), pace, step, cubit, foot, half-foot, palm, inch, finger. The mile is laid down to have an extent of 5,000 feet. The stadium is agreed to have 25 [125] feet. The *actus* is divided in three ways: into the least, the square, and the double. The least *actus* extends only 4 feet in breadth and 120 feet in length. The square *actus* is enclosed by 120 feet on every side. The double *actus* spans 240 feet; the decempeda comprises ten feet; the pace 5; the step 2 and a half. The cubit is known to have 1 and a half feet. The foot has four palms, the half-foot 2, and the palm is completed by an extent of four fingers. Of the inch and finger measure we shall speak better when in what follows we have discussed the inch-signs and names, and we shall set it out more clearly when we have [treated] the subtleties of elements and minutes, as we have promised; now it is fitting for us to return to the account of the following treatise, once we have first shown what the extended foot is, what the contracted, and what the square. The foot is called extended where only the measure of a foot in length is recognised. That foot is judged contracted in which length and breadth are considered. The square foot is held [to be] where the consideration of a threefold dimension is assessed in [its] inequality; but now it is time to come to what we have undertaken."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab21",
+   "text": "Rubric on measure and the three dimensions."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.208",
+   "text": "Although at the beginning of the preceding book we indicated what measure is, it is nevertheless pleasing, to satisfy specially the students of this art, to define, following Julius"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.209",
+   "text": "Frontinus, a most far-seeing observer of the geometrical art, what measure is."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.210",
+   "text": "Measure, indeed, is the bounded length of several intervals equal among themselves; and the measuring study of the geometrical art is gathered from the consideration of a threefold dimension, that is, of length, breadth and thickness. And to set it out more plainly, it is distinguished by straight, plane and solid. Straight is what is assessed by measuring length alone, as the lines of a portico, stadia, miles, the widths of rivers, and very many other things drawn out in a long, direct extent, as the drawing of the line depicted below shows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab22",
+   "text": "Straight."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.211",
+   "text": "Plane is what the Greeks call *epipedon*, and we contracted feet, which is considered by length and breadth, as the flat surfaces of fields and the floor-areas of buildings without plasterwork, panelled ceilings, floorings and the like, as the diagram below shows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.212",
+   "text": "Solid, again, is what the Greeks call *stereon*, and we square feet, which is shown to have length, breadth and thickness, as with buildings, pillars and pyramids, and also walls of stone, and many other things, as the diagrams below show."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.213",
+   "text": "Solid."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab23",
+   "text": "Rubric on measurements."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.214",
+   "text": "But now it is time, as we promised, to touch in our account on the knowledge of measuring questions, and to speak forthwith about investigating the study of measurement by feet. And I judge that we must speak first of triangles, which, just as three naturally precedes four, are to be placed before quadrilaterals, pentagons and the rest."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab24",
+   "text": "Rubric on triangles."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.215",
+   "text": "There are six principal kinds of triangles: isopleurus [equilateral], isosceles, scalene, orthogonius [right-angled], amblygonius [obtuse-angled], oxygonius [acute-angled]; of all of which we shall explain the forms and measurements in what follows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab25",
+   "text": "Rubric on the isopleurus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.216",
+   "text": "The isopleurus triangle, then, which near the beginning of the preceding book was called the equilateral triangle, is shown to have equal sides. Let an isopleurus be set down having 30 feet on each side; its *embadum*, that is its area, is to be found in this way. The sum of one side multiplied by itself makes the number 900; if 510 are subtracted from this, 390 are left; so many feet does the *embadum* of this isopleurus triangle comprise. For the perpendicular is agreed to extend 26 feet. If these are multiplied by half of one side, that is by 15, they make up the *embadum*; or if a third part of one side is increased by three and ten [i.e. by 30], 300 will arise; and if they multiply the sum of one side by the same three, they will give ninety, which, joined to the 300 above, will make 390, that is the area of the aforesaid triangle. Let the drawing of the foregoing be made below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.218",
+   "text": "But so that the reader may not be hindered in investigations of this kind by any cloud of error and ignorance, we shall set out below an example demonstrating the same isopleurus triangle, that is, solid with equal sides. Come, let there be an isopleurus whose sides each comprise 28 feet. If one of them is increased by itself, the sum 784 will arise. If you add to this the number of one side, 812 will arise; by the half of these written above you will ascertain the area of the aforesaid isopleurus, as the diagram of the drawing below shows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.219",
+   "text": "And so that anyone, when asked, may be able to find and state the measure of each side of this triangle so often mentioned, we shall give a most evident test of the method. Let it be proposed, then, if they establish that the area extends to 406 feet, how many feet of plane measure each side is found to comprise. Let the area written above be multiplied eight times, and it rises to the number 3248; if one is added to this, it makes 3249; if I take the side [i.e. square root] of this sum, it will be fifty-seven. If one is subtracted from this, 56 are left. If I find the half of these, they are 28. So many feet, then, does each side of the isopleurus extend."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.220",
+   "text": "The isosceles, which was defined by Euclid, most skilled in geometry, as having only two sides equal, is placed second in the order of triangles. If its two sides extend by odd numbers, namely 25, the base is noted to have spaces of fourteen feet. It remains, then, for us to ask how many feet the area's perpendicular comprises. For if half the base, that is 7, is multiplied by itself, 49 will arise. And if you multiply the measure of one side by itself, that is 25, you will produce 625; if you set aside 49 from these, 576 are left. If you take the side [i.e. square root] of these, they will be 24; so many feet is the perpendicular of this triangle agreed to extend. And how many feet the area has is to be found in this way. Half the base is to be taken again, that is 7; if you multiply these 7 by the perpendicular, that is by 24, you will make 168; so many feet is the area of the aforesaid triangle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.221",
+   "text": "Base 14"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab26",
+   "text": "Rubric on the scalene."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.222",
+   "text": "The scalene, then, was defined by Euclid as having three unequal sides. But we shall give clear examples of its figure in number. Let there be proposed, then, a scalene triangle, which is called a wedge by the Latins, whose smaller side slopes 15 feet, while the base is noted to have lines of 25 feet. It remains to ask by how many feet the perpendicular and the *embadum* of this triangle extend. Let the sum of the smaller side, then, be multiplied into itself; it makes 225. Again, if the base is multiplied by itself, 625 grow; these put together into one make 850. Then, setting this aside, it is fitting that the sum of the larger side be multiplied into itself, which multiplication produces the number 400. If you take this number 400 from the sum set aside before, namely from 850, 450 are left. If you take the half of these, you will set out 225; if from these the sum of the base, or 25 feet, is taken away, it will be nine; by so many feet is the cut-off, or smaller segment, of this triangle contained. It remains to ask how many feet the perpendicular has. Let the smaller side, then, be multiplied by itself as above; 225 come out. And again the small sum of the smaller cut-off, increased by itself, produces 81; if you take these from the side multiplied into itself, 144 remain. Twelve is known to be the side of these; so many feet is the perpendicular of this triangle said to comprise. And the measurement of the area is found in this way. Let the perpendicular, then, measure the base, or 12 [times] 25; 300 will arise. By the half of these the *embadum* of the often-mentioned scalene triangle is measured, as is shown in the figure below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab27",
+   "text": "Rubric on the right-angled [triangle]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.223",
+   "text": "In fourth place, of course, the right-angled triangle is put in by Euclid, and is designated as having one right angle, containing unequal sides; we consider it, from the very hearing, more difficult and more obscure than the others. And so we shall dwell longer on its explanation. Let there now be a right-angled triangle whose perpendicular is marked by an even number, or extends measured at 8 feet. If its sides are not known, Archytas teaches that they are to be found in this way. Let half of the aforesaid perpendicular be taken, that is 4, and multiplied by itself, and 16 will grow. If one is subtracted from these, 15 appear. So many feet is the base of this triangle known to be. And if one is added to the aforesaid sum increased through the half of the perpendicular, the feet of the hypotenuse will be 17. Through the same sum, that is through 16, the *embadum* is to be found; let the half of this sum, then, be multiplied by the perpendicular, and 64 will arise, which make up the reckoning of the area, as is plainly shown in the figure below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab28",
+   "text": "Rubric on the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.224",
+   "text": "Let us try, then, to set up a clear and fixed drawing of this right-angled [triangle] through the quantity of both an even and an odd number. Let an even number, then, first be assigned to the perpendicular, that is 6; its half increased into itself gives 9. If one is taken from this, according to the little rule of our precept set out above, eight will be the base of this triangle; its half, namely four, multiplied by the perpendicular, as was said above, makes up the area. [How,] through the perpendicular and the base, anyone asked may state the measure of the hypotenuse without anyone's objection, we shall give a very easy and clear example on our authority: let the half of this triangle's perpendicular be multiplied by its own quantity, and to the sum that results from this multiplication let one be added; it will be the measure of the hypotenuse; and if one is taken from the same, it will be the base. And let this drawing of the matter be made."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.226",
+   "text": "Let us set up, then, a credible explanation of this right-angled triangle through an odd number. Let the perpendicular be marked with an odd number, that is 3; if you multiply it into itself, you will set out 9; when one is subtracted from these, eight remain; if the half of these is taken, it is shown to be the measure of the base of this right-angled [triangle]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.227",
+   "text": "And if you add one to this base or half, or 4, you will establish the hypotenuse of the triangle; let the *embadum* be found as was said above, that is, let the perpendicular grow by the half of this base, as the picture is seen below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.228",
+   "text": "But so that no obscurity may deceive the curious investigator of this discipline, it is no trouble to discuss this same right-angled [triangle] again. For there is another method of finding the perpendicular and the base and the hypotenuse. Let the perpendicular, then, be set down as extending 5 feet; if you multiply it by its own quantity, you will mark 25; and let the base be written as having 12 feet; if it grows into itself like the perpendicular, 144 will arise."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.229",
+   "text": "Those sums, that is 25 and 144, joined, will give 169. Their side is evidently 13, that is, the hypotenuse of the aforesaid triangle. Then, if you take the hypotenuse, increasing it by itself, you will give back [a sum] equal to the quantity joined above, that is 169. If from these you subtract the perpendicular multiplied into itself, 144 are left, whose side, that is 12, gives back the base. And if anyone subtracts from the hypotenuse multiplied by itself the base multiplied into itself, that is 144 from 169, no more than 25 remain. Their side, that is 5, makes up the perpendicular; and the half of the base and the perpendicular, multiplied together, measure the area."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.230",
+   "text": "Likewise in this triangle it is fitting to state the measure of the base through the perpendicular. Let the perpendicular be 5, as above; multiplied into itself it makes 25. If I take one unit from this, 24 will come forth, whose half makes the base. And again, if I add the same unit to the quantity of the base, I shall set out the hypotenuse; and if the base is multiplied by the perpendicular, the sum 60 comes forth. The half of these makes up the *embadon*."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab29",
+   "text": "Rubric, likewise on the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.231",
+   "text": "Furthermore, we take care to put forward from here, for one walking in [these] tracks, another rule for this triangle, so that the line of truth may without doubt lead those who search it out carefully to arrive most surely at what they desire. Let the drawing of the same right-angled [triangle] be proposed, then, with the same quantities with which it is marked around, namely perpendicular 8, hypotenuse 17, and the base marked with 15 feet. Now let us strive to show by what method, through the measurement of the hypotenuse, the sum of feet of the perpendicular and base can be found: let us multiply the sum of the hypotenuse by itself, and the number 289 results. If four times the quantity of the *embadum* is subtracted from this, 49 are left; if you seek the square side of these, you will find it to be 7; if you add this, namely 7, to the joined perpendicular and base, you will make 30, whose half makes up the extent of the base; and if from fifteen, the sum gathered, [...] you take away [7], you will without doubt prove that 8 remains as the perpendicular."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab30",
+   "text": "Rubric, likewise on the same."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.233",
+   "text": "Let us again draw the form of the right-angled [triangle] already mentioned from other quantities of numbers, so that when anyone tries to hand on the clear teaching of this triangle through larger or smaller numbers, he may not slip into any error. Come, let there be a right-angled triangle which one even and two odd numbers surround: let the even be assigned to the base, or 20, one odd to the perpendicular, that is 15, and the other to the hypotenuse, that is 25. The conclusion for the *embadum* is to be sought according to the rule of our precept above, that is, through the multiplication of half the base and the whole sum of the perpendicular; for the enclosure of the area contains 150 contracted feet. And the perpendicular and base are to be found by this method: let the sum of the hypotenuse be multiplied into itself, and it amounts to 625; if four *embada* are added to this, 1225 will arise; if you take their square side, that is 35, you will establish both sums, of base and perpendicular [together]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.234",
+   "text": "But one must know and find by what number the perpendicular and the base differ from each other. Let us show what this is. If, then, from the hypotenuse multiplied into itself I subtract the four *embada* which I added above, it goes back to the sum 25; the fifth part of these holds the difference, that is 5. If I [add] this again to the two sums joined, or 20 and 15, I shall note 40; the half of these makes up the base."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.235",
+   "text": "And if I take the same difference, that is 5, from the base, I shall establish the perpendicular, as can be seen in the figure below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab31",
+   "text": "Rubric on a circle inscribed in a right-angled [triangle]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.236",
+   "text": "Now also we have thought it worthwhile not to pass over what was approved by the judgement of Archytas in this same right-angled [triangle], and was first rationally discovered by the most careful investigation of Euclid. It often happens that a disputant in geometry asks, if a circle is inscribed in this right-angled [triangle], how many feet the diameter comprises; so that no one, overcome by ignorance, may refuse to state it, we briefly set out a matter of this kind: let a circle, then, be inscribed in the right-angled [triangle], touching all its lines; when this is done, let the perpendicular and the base be added into one; if from the joining of this sum you take out the quantity of the hypotenuse, you will produce the diameter; for 12 and 8 joined, that is the perpendicular and the base, give 20. If I take the hypotenuse from these, that is 15, I shall establish that the diameter holds 5, as the figure made below shows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab32",
+   "text": "Rubric on the obtuse-angled [triangle]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.238",
+   "text": "Fifth in the order of triangles set down by Euclid is the obtuse-angled, so called because it has an obtuse angle; we undertake to explain it concisely and plainly. For if the careful reader comes to it instructed by the precepts and formulas of our earlier teaching, he will not stumble at all in this. Let an obtuse-angled [triangle] now be set up whose base is 18 in number; of the hypotenuses I shall write the greater as 10 and the lesser as 9, and let the perpendicular be marked with the sum 4."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.239",
+   "text": "Let the base, then, be multiplied by half the perpendicular, that is 18 by 2, and 36 result; this sum fills the surface of the area's space. But Archytas, using reason in all things, determined that the area of this obtuse-angled [triangle] is found in another way, and we judge that not this sum taken is contained in this surface of the area, but a smaller one can be; for he asserted that the perpendicular must be multiplied by itself and by 2, or by itself and by 8, which exceed it twofold, and that the quantity which comes from this multiplication constitutes the area, so that that consideration of the area gathers into itself not 36 but 32. Whoever arranges to draw the forms of this triangle just described on a plane, let him enter upon a matter of this kind from the quantity of the base, on this principle: that the measure of the lesser and greater hypotenuse joined together exceeds the measure of the base by a little; that is, if the base is measured at 18 feet, let the greater hypotenuse be marked 11 and the lesser 10. But we shall show better what we have set out in numbers if we place below the form of some example."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab33",
+   "text": "Rubric on the acute-angled [triangle]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.241",
+   "text": "It remains for us to speak of the study of the acute-angled [triangle], which is placed sixth in the description of triangles by Euclid, no sluggish geometer, defined as having acute angles. Let there be, then, an acute-angled [triangle], whose lesser side's measure, that is the lesser hypotenuse, is bounded by 13 feet, the greater by 15, and the base is measured at 14; if the sum of its perpendicular and its *embadum* (area) is not known, it will be gathered by this method."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.242",
+   "text": "Let the quantity of the lesser side be multiplied by itself: 169 result; likewise if the measure of the base increases by itself, 196 will arise; if you join these sums, you will make 365. When this is done, let the hypotenuse's measure also be multiplied by itself, and the number 225 will arise; if I separate this from the sum joined above, 140 remain; half of these is known to be 70, which, divided by the base, holds it five times. The sum of this quotient the lesser segment obtains, which, increased by itself, makes 25. If you take these from the sum of the lesser side multiplied by itself, 144 remain, whose square side, which is 12, will fill out the sum of the perpendicular. Take care to search out the conclusion of the area in this way: multiply half the base by the perpendicular, that is 7 by 12, and 84 will result. Be aware that this sum fills out the floor of the area of this triangle; let a figure, then, be drawn of it in this manner."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.244",
+   "text": "But since we have explained above, for the inquiry of careful readers, the consideration of the measurement of triangles, it remains for us to make a concise passage to the study of quadrilaterals, intending to give a treatment of them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.245",
+   "text": "For the calculation of squares is easier than the rest, and let us begin first with the right-angled square in this way. Every quadrilateral, then, set up at right angles, with the width multiplying the length, constitutes the surface of the area and without doubt completes the measurement. Let a square now be set down marked with an even number, that is 8; multiplying these by themselves, width by length, I shall make 64, namely the *embadum* of the square drawn below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.247",
+   "text": "And if you do the same with an odd number, the same method will hold without obstacle; this right-angled square is named by Euclid equilateral and right-angled, and is likewise so called by Nicomachus in his arithmetic."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab34",
+   "text": "Rubric on the oblong."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.248",
+   "text": "The oblong quadrilateral is defined by Euclid as right-angled but not equilateral, and is called *heteromekes* by Nicomachus. Its length, multiplying the width, shows the measure of the sum of the area, whether the terms are even or odd. Let there now be an oblong quadrilateral whose length comprises 8 feet and width 4, or length 9 and width 6, or 5, or 4."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.249",
+   "text": "Let the width, then, multiply the length, that is 4 by 8: 32 will arise, that is, the area of the oblong quadrilateral will result; these are the drawings of the figures, marked with even and odd number."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab35",
+   "text": "Rubric on the rhombus."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.251",
+   "text": "To these parallelograms already mentioned we think the rhombuses and rhomboid quadrilaterals should be added; for although they differ from the parallelograms mentioned above either in angles or in sides, they are nevertheless to be counted among them. Come, let there be a four-sided rhombus, each side written with a measure of ten, and let the diagonal, that is the direction of the angular line, be counted at a quantity of twice six; if its 6 is increased by itself, 36 will arise; if you subtract these from the measure of the base multiplied by itself, 64 remain. The square side of these, that is 8, constitutes the perpendicular of this rhombus. And the diagonal multiplied by the perpendicular shows the space of the sum of the area. This is defined by Euclid as having equal sides, but angles neither equal nor right. Let the course of this form be as follows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab36",
+   "text": "Rubric on the rhomboid."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.253",
+   "text": "Euclid, in defining it, set forth the rhomboid as having neither equal angles nor equal sides; we too open it up by a plainer approach, by drawing it and adding numbers. Come, let there be a rhomboid of which one side is 8 feet, the second four, the third 6, and the fourth 2; if you join the greatest terms of these sums, which hold the length, you will make 14, half of which is seven. The smaller sums, brought into one, make up the quantity six, whose half three fills out; if these halves, 7 and 3, are multiplied together, they will rise to 21, that is the area in feet of this quadrilateral, as appears below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.255",
+   "text": "To these indeed we think it not unfitting to add a right-angled trapezium, marked on its sides with the double and sesquialter proportion of numbers. Let the sum fifteen be assigned to the top, thirty to the perpendicular, exceeding it twofold, and let a measure be given to the base keeping the sesquialter relation to this; by these sums, then, the area of this trapezium is to be established by this method. Let the top be joined to the base, that is 15 and 45, and the measure 60 results. If half of this is multiplied by the perpendicular, it reveals the extent of the area, as the figure drawn in the middle makes clear."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab37",
+   "text": "Rubric on finding the diagonal."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.257",
+   "text": "It often happens in the study of this art that it is asked how many feet the extension of the angular line of these quadrilaterals holds. So that this may not be unknown, we shall give a very easy and very clear example of this method. Let there be set down a right-angled parallelogram having 80 feet in length and 60 in height; the length increased by itself gives 6,400, and the 60 multiplied by itself makes 3,600; these, namely 6,400 and 3,600, brought into one sum, give 10,000; if I take the square side of these 10,000, I shall note 100, that is the diagonal of this right-angled parallelogram, as can be seen in the form drawn within."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab38",
+   "text": "Rubric on many-angled figures."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.259",
+   "text": "But since we have spoken sufficiently and briefly on the methods for quadrilaterals, it remains for us to discuss pentagons, hexagons and the rest. Every pentagon, then, having equal sides, when the sum of one [side] is increased by itself and multiplied three times, and the same [side] again subtracted, and half of this sum taken, reveals the surface of the area's space. Let there now be a pentagon having six feet on each side; if I multiply these 6 by themselves, I shall produce 36; multiplied three times, I shall bring this to the number 108; if I take from it the sum of one side, that is six, I shall produce 102; if I take half of these, I shall fill out the area of the pentagon drawn below."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab39",
+   "text": "Rubric on the hexagon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.261",
+   "text": "Let the hexagon be brought in next in order, to be discussed; let a hexagon be drawn marked 8 on each side; multiplying this eight by itself I shall make 64; this sum, namely 64 multiplied four times, comes to 256; if to these 256 the quantity of one side, that is 8 taken twice, is added, 272 appear. If you take half of these, you will produce the area of this hexagon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab40",
+   "text": "Rubric on the heptagon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.263",
+   "text": "After this we must set out the method for the heptagon that follows, which heptagon, the seven, is inserted here in the third place, just as among the odd numbers it naturally appears third in order; let it be placed so. For let a heptagon be bounded by the quantity six; if you multiply the sum of one side of it by itself, you will note 36; this quantity, that is 36, multiplied five times, brings 180. If you subtract from these the sum of the quantity six taken three times, 162 are left; half of these, taken, brings the *embadum* of this heptagon to 81 feet."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab41",
+   "text": "Rubric on the octagon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.265",
+   "text": "Let the octagon, set fourth in the natural order of even numbers, be taken up to be discussed in this place, naturally fourth. Come, let there be an octagon measured at 8 feet on each side. If you multiply this natural quantity, that is 8, by itself, you will make 64; if you multiply these by 6, you will produce 384. If from these you take away the sum of one side four times, no more than 352 remain. If half of these is taken, the area of this octagon is known."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab42",
+   "text": "Rubric on the enneagon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.267",
+   "text": "Let an enneagon be bounded by 6 on each side; if you multiply this six by itself, following the rule of our instruction stated above, you will make 36; these, taken seven times, will produce the sum of 252. If you subtract from these the quantity of one side five times, you will give 222; if half of these is taken, it shows that the *embadum* of this enneagon is contained in 111 feet."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab43",
+   "text": "Rubric on the decagon."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.268",
+   "text": "It remains for us to speak of the measurement of the area of the decagon. So let a decagon be drawn, bounded on its sides by the number ten. If the quantity of one side of it grows by multiplying itself, following the method of our teaching already often stated, it will make 100. These, taken eight times, bring 800. [If you subtract from these one side six times, 740 remain.] If you take the half of these, you will know beyond doubt that the area of this decagon is contained in 370 feet."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.270",
+   "text": "If you do the same with the hendecagon and the other drawings of many-sided figures, you will not stumble on any obstacle of error, provided that you proceed in natural order in multiplying the sum of one side, in increasing in natural order the quantity that arises from this multiplication of the side, and in subtracting the side likewise in natural order, and so find the *embadum* by this method, namely from the halves."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab44",
+   "text": "Rubric on the circle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.271",
+   "text": "But since we have discussed angular figures sufficiently for the studious reader, it remains for us to set out briefly the circumference of a sphere or circle. So let a circle be laid down, marked as 44 feet in circumference, and let its diameter be drawn with an extent of 14 feet. If its sum is multiplied by itself, 196 will arise; multiplying these by 11 you will make 2156, of which the fourteenth part, that is 154, shows the area of this circle, as can be seen below. There is another method of finding the area of this circle: take half of the quantity of the circumference, that is 22, which is the half, and multiply it by half of the diameter, that is by 7, and what results from this multiplication shows the *embadum*."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab45",
+   "text": "Rubric on the semicircle."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.273",
+   "text": "With these brief beginnings we judged that we should speak about theorems of circles, and we shall speak at once about the semicircle. Come, let a semicircle be drawn having 28 feet in the base and 14 in the radius; if the measurement of its area is unknown, it is to be found by this method. Let the sum of the base be multiplied by the sum of the radius, and 392 is reached; and this sum, [multiplied] by eleven, produces 4312; when the fourteenth part of these is taken, that is 308, the surface of the area is completed, as appears nearby."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.274",
+   "text": "Let these things said for the present about the measurements of plane figures suffice; it remains for us to treat somewhat more briefly of the method for mountains. Let a mountain be drawn measured at 300 feet in the circuit of its top, and extending 800 feet from the foot up to the summit, and let the foot of the same mountain be marked at a thousand feet in circuit. Now let it be proposed as the question how many *iugera* are contained in this mountain. This is to be begun by the following method: let the two circuits, of foot and summit, be joined, that is 1300; if the ascent, that is 800, is multiplied by half of these, by 650, the area of this mountain will be shown to have 520,000 feet. If then you divide this sum by 28,800, you will show that there are 18 [*iugera*] in this mountain, with only one thousand six hundred feet remaining."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.276",
+   "text": "But suppose a mountain has 2500 feet in the circuit of its foot, 1600 in the circuit at its middle, and a hundred in the circumference of its summit, and 500 feet in its ascent. The *iugera* are to be found in this way: let the sums of the three circuits named above be joined, and 4200 arise; with a third part of these, that is 1400, multiplying the ascent of the mountain, that is 500, 700,000 result; dividing these by *iugera*, you will make 24, with no more than two hundred feet remaining."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.277",
+   "text": "But if a mountain is uneven (*strabus*), that is unequal, having 1400 feet in the circumference of its foot, 200 in the slope of its top, 850 in the ascent on the right side and 750 in the rise on the left side, then the level extent of it in *iugera* is to be investigated in this way. Take half of the two circumferences gathered into one, that is 800, and the half of the ascents added together, that is 800, and these halves multiplied together produce 640,000, namely the measurement of the mountain mentioned above. From the measure in feet you will easily find the sum in *iugera*, according to what was said above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.278",
+   "text": "Since, then, we have discussed briefly and clearly enough the methods of all the investigations to be included in this art, it remains for us to speak, as we promised, of the measure in ounces and digits, and of points and minutes and the other small fractions, and to set out a figure that is wonderful and necessary to this art and to the other mathematical disciplines, which we learned through the showing of Archytas."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.279",
+   "text": "The ancient geometers, then, most subtle investigators, and above all the Pythagoreans, when, dividing all things by fixed methods of measures, they came as far as those things that nature refused to have divided and cut, divided by the guidance of their ingenuity the things that were by nature indivisible, by setting signs and giving names equally. For when they had divided fields by *actus*, by perches, that is by rods, by paces, by steps, by cubits, by feet, by half-feet and by palms, not having a palm by which to divide what was less than a palm but greater than a digit, they chose to call it an ounce; in the second place they wrote down the digit, in the third the *stater*, that is the half-ounce, in the fourth the *quadrans*, in the fifth the drachma, in the sixth the scruple, in the seventh the obol, in the eighth the half-obol, which the Greeks call *keras*, in the ninth the *siliqua*, in the 10th the point, in the 11th the minute, in the 12th the moment, and so they set them, naming them. When these small fractions had been devised and their names given, they assigned to them signs of many forms, which, because they were partly Greek and partly barbarian, did not seem to us fit to be joined to a Latin discourse. Therefore, not wishing to wrap an obscure matter in obscure and unknown signs, in place of those signs we set in order the signs of the Latin letters, so that A corresponds to the ounce, B to the digit, C to the *stater*, D to the *quadrans*, E to the drachma, F to the scruple, G to the obol, H to the half-obol, I to the *siliqua*, K is assigned to the point, L to the minute, M to the moment. So let the figure of ounces of which we spoke be drawn with these letters, in this way."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab46",
+   "text": "THE BOOK OF BOETHIUS ON GEOMETRY."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.282",
+   "text": "Geometry is the discipline of unmoving magnitude and the contemplative description of forms, by which the boundaries of each thing are usually made clear, and also a visible demonstration of the philosophers; in Latin it is called the measuring of the earth. For Egypt is said first to have been divided by the various forms of this discipline, because of the need for boundaries of the land that the river Nile flooded at the time of its inundation; the masters of this discipline were formerly called measurers. But Varro, the most learned of the Latins, records that the reason for this name arose thus, saying: first the measurements of lands, by the setting of boundaries, provided the benefits of peace to wandering and quarrelling peoples. Then the circle of the whole year was divided by a monthly number. Then also the months themselves were so called because they measure the year. Then he also reports that the measurement of the circle of the earth was gathered by a probable method; and so it came about that the discipline itself received the name of geometry, which has stood firm through long ages."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab47",
+   "text": "Rubric on the usefulness of geometry."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.283",
+   "text": "The usefulness of geometry is threefold: for skill, for health, for the soul. For skill, as with mechanics and architects. For health, as with physicians. For the soul, as with philosophers. If we search into this art closely, with diligent care and a measured mind, what is evident from the divisions mentioned illuminates our senses with great clarity, and [enables us] to enter with the mind into that which is above, of what sort the heaven is, and to examine that whole heavenly mechanism by searching reason, and by the lofty contemplation of the mind to gather in some part and recognise the maker of the world, who veiled such great and such hidden things. For the world itself is said to be gathered in spherical roundness, so that it might enclose the various forms of things within the circuit of its compass; whence Seneca composed a book, with a discussion agreeing with the philosophers, whose title is On the Form of the World. For in geometry we certainly acknowledge that a part is useful to be held and practised in actions, and we judge that it profits in all things; nor without reason have the greatest men also devoted effort to this science, since geometry is divided into numbers and the forms of numbers. Knowledge [of it] is necessary not only to the orator, but to anyone educated at least in the first letters, because it is agreed to be most fine in subtlety, most useful for knowledge and very pleasant for exercise. In lawsuits, indeed, it is very often inquired into, because order, first of all, is necessary to geometry. Is it not also [necessary] to eloquence? Geometry proves what follows from what goes before, and the uncertain from the certain; for which reason you will find many, dialecticians and rhetoricians alike, who enter upon this art. For it uses the dialectical syllogism if the matter requires, and those that are most powerful, which in Greek are called *apodeixeis* (demonstrations), prove the same; and certainly [it uses] the enthymeme, which is the rhetorical syllogism, which in Latin is rendered conception of the mind, and which writers on the arts usually call imperfect; and finally it proves of what form a circuit is, by how many straight lines it is contained. By what means it is bounded; what that line running round [is] if it makes a circle, which is the greatest perfect form among plane figures, in which it encloses so many spaces. And whether a square, in equal parts, makes squares again, a triangle triangles, [and whether] it [encloses] more with equal sides than with unequal ones, and other things perhaps more obscure, which the trial of the work must also follow. These things [apply] to plane figures. But in mountains and hills it is plain even to the unskilled, because it is grasped by the course of the sun alone and the movement of shadows, and is separated by the watersheds. Now let us come to the letter of Julius Caesar, since it concerns the origin of this art, so that neither the glory of its author may perish, and that the truth of the matter may come most fully to our knowledge; whoever, however, wishes to read this letter studiously, introduced by certain short guides, will in a short time grasp the sayings of the ancients more clearly."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab48",
+   "text": "Rubric."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.284",
+   "text": "The deified Julius Caesar, a most vigorous man and ruler of many nations, trained his soldiers by frequent war; for the sake of increasing the state by the works of greater wars he entered the cities of illustrious men, received the peoples of nations who petitioned [him], slew tyrants with the sword, and after he had taken hold of enemy land and destroyed the enemies' cities, he founded new cities afresh, and, giving [them] in turn the name of colony, he increased the citizens."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.285",
+   "text": "He made soldiers into colonists, some in Italy, some in certain provinces. These cities of the provinces, assigned to the army, the deified Augustus ordered, because of sudden battle-lines of wars, not only to gird those communities at last with walls, but also to bind in sufficiently the rough and broken places, so that it might be the greatest bulwark, both that and the nature of the place; and from the new dedication of the fields to cultivation he called [them] colonies; and these colonies were assigned to those victors who had taken up arms because of the times."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.286",
+   "text": "Therefore, so that we may not seem to have passed over anything, but rather follow their examples, it will often be necessary to look back at the map; and since the account showed that the heights of the mountains stood out, by an ascent to the ridge of a very lofty summit we laboriously left markers built of stones, and the extent of the places is fortified and divided, which remains separate through the watersheds, a division well known on each side; other places keep the course of the banks; so that even if an enemy had wished to attack us, we could break them by fighting from the nearest bank. For around the coastal region we determined straight limits of compacted stones; we shall show the course of the whole straight line of the limits, because all colonies which are placed by the sea are bounded by the seashore. The fields of the valleys we arranged by ordinary law, and we named them intercisive. But on the plain we laid out the limits straight by levelling."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.287",
+   "text": "For the most part there are a great many fields assigned, and although the measure of their limits is different, yet they are also distant from one another, one from another, by 100 feet, by 150 feet, by 240 feet, by 300 feet, by 360 feet, by 420 feet, by 480 feet, by 600 feet, by 700 feet, by 840 feet, by 960 feet, by 1020 feet, by 10200 feet, by 10340 feet, by 10600 feet, by 10700 feet, by 10800 feet, by 20000 feet, yet in the long sight-line by which we drive the limit with markers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.288",
+   "text": "If there is a thick narrow boundary-stone and on the other side a long, thick, doubled one, these two greatest limits are named the *decumanus* and the *cardo*. They run together for very many thousands of feet, and unless they end at the Alps, they divide the fields on the right and left of the straight lines that hold together with one another."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.289",
+   "text": "You must make every measure of this cultivation with the middle longer or wider: what is longer in width is a *scamnum*, but what is longer in length is a *striga*."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.290",
+   "text": "There are estates of the well-deserving, and they have been assigned narrower in proportion to the estimated fertility."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.291",
+   "text": "Lean and dry places are enclosed by a wider boundary. There are *subseciva* places, which do not belong to ordinary law, but if it is agreed among the possessors, let them possess [them]; if it is not agreed, [the land] remains in the power [of the authority]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.292",
+   "text": "Other more complete places are to belong to public law; just as many, if it is agreed by the possessors, they possess."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.293",
+   "text": "There are, moreover, these public places which are recorded as public woods and pastures of the Augustales, which can in no way be alienated, and they hold the guardianship either of public temples or of baths, which they call *locus collivus*."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.294",
+   "text": "Excluded land is that which lies between the boundary line and the centuries; it is called excluded because it is enclosed beyond the boundary limits."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab49",
+   "text": "Rubric on disputes."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.296",
+   "text": "The subject-matters of disputes are two, boundary and place; in the second of these is contained whatever is disputed concerning the land. But since the disputes marked in these parts also have various conditions, as far as I have been able to grasp, they must be named individually."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.297",
+   "text": "The kinds of disputes are 11: On the position of boundary-stones. On the region. On the boundary. On the place. On the ownership of a house. On possession. On alluvion. On the right of territory. On *subseciva* fields. On public places. On places left over and excluded. On sacred and religious places. On the inflow of rainwater, and on roads."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.298",
+   "text": "A dispute is between two or more neighbours. Between two, whether the boundary is in a straight course by reckoning of the rest; among several it makes a three-way boundary, in some places also a four-way boundary, according to the nearest possessions: while they do not know this, they do not agree, and the possessors themselves raise various disputes among themselves. Some litigate about the place, others about the boundary line, others attend to the estates. But first the origin of the case must be eagerly sought. By nature disputes of this kind arise through inheritances of this belief, wherefore there is litigation by ordinary law. First, however, let the question about possession be settled in court, and then let the land-surveyor be ordered to go to the places, so that, the truth having been made plain, a litigation of this kind may be ended."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.299",
+   "text": "The kinds of disputes arising from a river are these: not concerning fields that have been occupied, but what the force of the water has carried away will have no reclaiming; these are matters of the necessity of fortifying the bank, without another's loss, whoever it is who fortifies his own bank. But if the torrent of the river at some time runs down so violently that it changes its bed, it occupies the fields of many across the bank, and often also forms islands. But Cassius Longinus, a most learned authority on law and a judge, laid down this: that whatever the water carries away by lapping, the possessor must accept, since he ought, of course, to protect his own bank without another's loss. But if a greater force has rushed down, and changes its bed into another's boundaries, and an island is formed where it has run together, each must recognise the measure of the greater river, and he shall claim that island for himself whose land the storm seized, since it appears to have been snatched not by the possessor's negligence but by the violence of the storm."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.300",
+   "text": "*Subsecivum* land is registered according to its determinations; we enter it within its boundaries in the record-office of Caesar, and whatever has been granted as a benefaction or assigned to the colony, whether nearby or among other communities, we enter in the books of benefactions; and whatever else pertains to the surveyors' documents, not only for the soil of the colony, but also for the record-office of Caesar, must have [it] signed by the founder's hand."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.301",
+   "text": "Excluded and unassigned land is of a condition similar to *subsecivum*; if it has not been given to the commonwealth, to the Roman people, or to the colony itself by whose boundary it is surrounded, or does not belong to the Roman people, it remains in the power of him who was able to assign [it]."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.302",
+   "text": "The markers of the boundary limits in various regions, whether names, villages, or possessions, these are the field evidences to be divided between both possessors."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.303",
+   "text": "In mountains, in dry and broken places, we find marked rocks."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.304",
+   "text": "On the summits of mountains [we find] *augustei* boundary-stones, that is, round ones, in the shape of a column, some marked with a letter; boundary chests; in places *grumi*, that is, heaps of stones; trees left standing, untouched by iron; a heap of rubble-walling, that is, where stones collected from both sides make the limit; likewise rocks, sacrificial altars, in places where untouched trees are seen to stand, at which place the ancients, wandering, used to make sacrifice. In another place military roads make the boundary, which are secured with a boundary-stone. Others, the right-hand sides of mountains, that is along the side of the mountain, the streams running by make the boundary. Sometimes tombs make the boundary; therefore tombs are to be followed, which, at the furthest boundaries running together, look to several junctions of fields. For all monuments testify to their owners."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.305",
+   "text": "There are *cursorii* boundary-stones set up in the shape of an inscribed stone, fixed places of a stream, boundary *cunabula* or *noverca*, which is built with rules, *scorpiones* where two wedge-shaped boundaries join. If perhaps in open country, where fields are laid out on the plain, they are found assigned in *iugera*. Likewise among the gullies of a crag, with untouched trees left standing, sacrificial ones as I said above, mounds of earth set up in the shape of a limit, millstones, pits or cones, ponds and *legonati*, and *calaviones* constructed by craftsmen. For sometimes [we find] squared and inscribed stones, which show whose field it is, who the owner is, how much space they guard. For not every marker stone is furnished with inscriptions, since in some places the stones are not inscribed, but are set in the shape of boundary-stones, which we call *cursorii*. For the mountains themselves too wholly determine places, but boundary-stones do not keep one measure between them, by the order of Augustus Caesar, through Balbus the surveyor, who distinguished and declared the measurements of all the provinces; and let the boundaries of places be fixed by the evidences written above."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.306",
+   "text": "There are, however, boundary-stones in which trust is not to be placed; these are called *itinerarii*. For all limits that divide the private boundaries on right and left, with a public road in the middle, must serve the public road: these are not such in all places; certainly a sign ought to be found under all boundary-stones; therefore what is found should be observed in place of a boundary-stone and should be kept, so that [the line] may be directed from one to one, and, if [there is] a mark, from mark to mark."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.307",
+   "text": "For such are the customs and observances of a fixed law: a sign has always been placed in all boundary-stones; we find either some ashes, or charcoal, or a potsherd, or bones, or glass, or a lump of iron, or bronze, or lime, or gypsum, or an earthenware vessel, which they also trampled down with certain fragments of stones and made fast with diligent care, so that it might stand more firmly. Such, then, was the sign they made between the owners between whom the boundaries were fixed. But boundary-stones are not in all places, but there are countless many other evidences; read [them] happily and take care to understand [them]; whoever understands what he sees can remove the strife and contest over fields. These surveyors, however, who are to judge, and those whom they call in as guarantors, must have prudence. In judging, moreover, the surveyor must act as a good and just man, so that he is moved by no ambition or sordid gain, and must preserve his reputation in measures and in conduct. For truth must be guarded by every craftsman; those are excluded who put forward false things as true. Some err through imprudence, some through lack of skill. Changing, therefore, in the profession the things generally added as true, through a dispute the craftsmen are compelled to measure argumentatively and conjecturally, even superfluously; but it will be necessary for the man who judges to be a safe craftsman in this."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab50",
+   "text": "Names of the land-surveyors: rubric."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.308",
+   "text": "Of Hyginus [and] Marcus, by order of Nero Caesar. — Of Julius Frontinus [and] Junius, by order of Claudius Caesar. — Of Siculus. — Of Flaccus, Nipsus, Hyginus, Euclid, Cassius. — Of Agenius, [and] Balbus, by order of Tiberius Caesar. — Of Urbicus [and] Longinus the surveyor. — By order of the Emperors Severus and Antoninus. — By order of the Emperor Vespasian. — By order of the Emperor Hadrian. — By order of the Emperor Trajan. — By order of the Emperor Augustus Caesar. — Of the Emperor Nero. — By order of the Emperor Valentinian. — By order of the Emperor Theodosius. — By order of the Emperor Arcadius. — By order of the Emperor Honorius. — By order of the Emperor Constantine."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab51",
+   "text": "Names of boundary-stones and positions of boundary-chests: rubric."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.309",
+   "text": "A right-angled [stone] standing upright sends out a right angle. An isopleurus set upright underneath. — An isosceles. A lined boundary-stone."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.310",
+   "text": "— *Exculerms* or hexagonal. A *cursoria* spatula. — *Escuiteiatuslatenbus*. A boundary-stone set upside down."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.311",
+   "text": "— *Sumbus* or trapezoid. Likewise a *cursoria* spatula. — An isosceles. A four-way boundary. — A lone triangle throws out other [lines]. Likewise a four-way boundary. — A pentagonal parallelogram. A *gamatus* boundary-stone. A hexagon. A lined boundary-stone, that is, a four-way boundary. — A heptagon. Likewise a four-way boundary. — *Sinagonus*. *Noverca*. — A boundary-stone inscribed with a Greek letter. *Simmatus*. — A boundary-stone pointed at the top. *Centustatus*. — A circled pyramid, likewise like a pointed one. *Trivortinus*. — Likewise a pyramid like a cut-off vine. A semicircle. — A complete rhombus *amHygmeus*. *Varoberinus*. — A squared semicircle. *Trudens*. — An Augustan boundary-stone. An Augustan boundary-stone pointed at the top. — A *cursorius* boundary-stone. A millstone. — A boundary marker-stone. A monument. — A boundary burial with bones. A mausoleum. — A boundary-stone in bricks. A boundary-chest. — A four-way boundary-stone. *Lippus*. A round boundary-stone. *Kalasiones*. — A boundary-stone under which lies an angle. A four-way boundary-stone."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.312",
+   "text": "You who wish to be a perfect geometer, read all these things that are set out in chapters below. For first of all one must know the art of arithmetic, which contains the causes and divisions of numbers, that is: what is the definition and division concerning even and odd numbers; — what is a composite number, and what an incomposite; — what is a perfect number, and what an imperfect; — what is a divisible number, and what an indivisible; — what is a superparticular number, and what a superpartient; — what is a superabundant number, and what a deficient; — what is a multiple number, and what a submultiple; — what is a solid number, and what a spherical; — how geometry was discovered; — what geometry is; — what its utility is; — what the order of the prescription is; — what is the method of the proposition; — of the disposition; — of the distribution; — of the description; — of the demonstration; — of the conclusion; — what a straight line is; — what the surface of a line is; — what a dividing line is; — how many kinds of extremities there are; — how many kinds of surfaces; — how many kinds of angles; — what a plane angle is; — what an obtuse angle is; — what a blunt angle is; — what a right angle is; — what an acute angle is; — what a divided measure is; — how much a stadium extends; — what an *acus* is; — what *climata* are; — what a *centua* is; — what a league is; — what an *arepennis* is; — what a *iugerum* is; — what a century is; — what a point is; — what a diameter is; — what a parallelogram is; — what a figure is; — what a circle is; — into how many parts the division is."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.313",
+   "text": "If you know all these things fully, you know the separation of places. For those who do not know the rule of this art put forward many false things as true."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.314",
+   "text": "Pupil. How was geometry discovered?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.315",
+   "text": "Master. The Egyptians say that geometry was discovered because of the need [to restore] the boundaries of the land, which the Nile flooded at the time of the inundation."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.316",
+   "text": "Pupil. Whence is geometry named?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.317",
+   "text": "Master. Geometry is named from the measuring of the earth, by which the boundaries of each piece of land are usually declared."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.318",
+   "text": "Pupil. What is geometry?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.319",
+   "text": "Master. Geometry is the discipline of magnitude and of the figures that are contemplated according to magnitude."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.320",
+   "text": "Pupil. What is the intention?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.321",
+   "text": "Master. Euclid's intention is twofold, looking to the pupil and to the natures of things. Looking to the pupil, because he must begin with these introductory matters for ease, for brevity, and so that for this reason there may be no difficulty in the questions. For the nature of things, because many things of physical science, and of the doctrine of Timaeus or Plato, are known to be demonstrated geometrically."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.322",
+   "text": "Pupil. What is the utility?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.323",
+   "text": "Master. The utility of geometry (as we said before above) is threefold: for livelihood, for health, for the soul: for livelihood, as for mechanics; for [health], as for physicians; for the soul, as for philosophers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.324",
+   "text": "Pupil. What is the order of geometry among the disciplines?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.325",
+   "text": "Master. In one respect it is second after arithmetic, in another third."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.326",
+   "text": "Pupil. How is the inscription of the title to be understood?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.327",
+   "text": "Master. The prescription of the title is of the elements, which are the simpler figures, and from these others are composed which are also resolved into them."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.328",
+   "text": "Pupil. Is the book [Euclid's] own?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.329",
+   "text": "Master. This book is said to be Euclid's as to its arrangement; as to its demonstration or discovery it is said mostly to be of others."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.330",
+   "text": "Pupil. Into how many parts is it divided?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.331",
+   "text": "Master. This book is divided into four parts: on plane figures, on arithmetical matters, on rational and irrational lines, and on solids."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.332",
+   "text": "Pupil. What [parts] are there in a geometrical demonstration?"
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.333",
+   "text": "Master. Proposition, disposition, distribution, description, demonstration and conclusion."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.334",
+   "text": "It remains for us, however, to hand on a certain most profound discipline, which pertains most of all in reason to the integrity of the nature of all things. For great indeed is the fruit in this science, if one is not ignorant that goodness, defined and falling under knowledge and always imitable and perceptible by the mind, is the first nature, and perpetual in the beauty of its own substance, while the infinite disgrace of wickedness, resting on no principles of its own but by nature always wandering, is shaped by the principle of all definition as if impressed with some sign of the best figure, and is held back from that tide of error. For the mind, like a kind of ruler strengthened by pure intelligence, restrains excessive desire and the immoderate unbridledness of anger. We, however, have collected with moderate brevity what was discussed at greater length about numbers by Nicomachus, or set out about measures by Varro. And what, being passed over too quickly, offered too narrow an access to understanding, we have opened up by modest addition, so that at times, for the clarity of the matter, we have also used our own formulas and diagrams; how many vigils and how much sweat this cost us the sober reader easily recognises. And we have, as it were, collected these forms of inequality by labouring with tempered goodness; the reader himself will judge what we have drawn from the wealth of Greek letters into the treasury of Roman speech. If anything has shone forth from the teachings of wisdom, let it be approved through us by the judgement of the wisest. You see, then, reader, how the result of so great a labour awaits your examination alone, and does not venture to come before public ears unless it rests on the assent of a learned opinion; which should seem no wonder, since a work that pursues the discoveries of wisdom depends not on the author's judgement but on another's. For wisdom is the true knowledge and full comprehension of the causes and divisions of numbers; whoever spurns this, that is, the path of wisdom, I declare to him that he will not philosophise rightly. This, moreover, is arithmetic; for it is prior to all, not only because God, the founder of this worldly mass, had it as the first exemplar of his reasoning and established all things according to it, whatever things, fashioned by reason, found through number the concord of an assigned order, but arithmetic is declared prior also for this reason, that whatever things are prior by nature, when they are removed, the posterior things are removed together with them. But if the posterior things perish, nothing in the state of the prior substance is changed, as animal is prior to man. For if you remove animal, at once the nature of man too is destroyed. If you remove man, animal will not perish; yet properly the very nature of numbers preceded all things. All things whatever that were constructed by the primeval nature of things appear formed by the reason of numbers. For this was the principal exemplar in the mind of the founder; from this was derived the multitude of the four elements, from this the changes of the seasons, from this the motion of the stars and the turning of the heaven. Properly, moreover, by the very nature of numbers all the courses of the stars and the whole system of astronomy have been established. For thus we gather risings and settings, thus we keep track of the slownesses and speeds of the wandering stars, thus we recognise the eclipses and the manifold variations of the moon; since, as has become clear, the use of arithmetic is prior, let us take the beginning of the discussion from here; the same seems to occur in geometry or in arithmetic. For if you remove numbers, whence can we comprehend a triangle or a square, or whatever is treated in geometry, all of which are named from numbers? This will be plain if we understand that all inequalities have grown from [the] first beginnings [of equality], so that equality itself, holding as it were the force of mother and root, has itself founded all the species and orders of inequality. Let us take three twos, or three threes, or three fours, or as many beyond as one likes to set down. For what happens in these three terms happens likewise in the others. From these, then, according to the order of our rule, you will see first multiples born, and among these doubles first, then triples, then quadruples, and those following in the same order. Again, if the multiples are inverted, superparticulars will arise from them: from doubles the sesquialters, from triples the sesquitertians, from quadruples the sesquiquartans, and the rest in this way. From superparticulars inverted, superpartients must be born, so that from the sesquialter arises the superbipartient, the sesquitertian begets the supertripartient, and from the sesquiquartan the superquadripartient. When the former superparticulars are set upright and not inverted, multiple superparticulars arise. When superpartients are set upright, they produce multiple superpartients. These are the three rules: that you make the first number equal to the first, the second equal to the first and the second, the third equal to the first, two seconds, and the third. When you have done this with equal terms, those born from them will be doubles. If you do the same with these doubles, triples are produced, and from these quadruples, and so you will unfold to infinity all the forms of multiple number. Those whose parts have extended beyond what is enough are called superabundant, such as 12 or 24. For these, compared with their parts, obtain a greater sum of parts than the whole body: for the half of twelve is 6, the third part 4, the fourth 3, the sixth 2, the twelfth 1, and this whole heap overflows to 16 and surpasses the quantity of its whole body. Again, of the number 24 the half is 12, the third 8, the fourth 6, the sixth 4, the eighth 3, the twelfth 2, the twenty-fourth 1, which all return 36; in which it is clear that the sum of the parts is greater and overflows above its own body. And that [number is deficient] whose combined parts are surpassed by the quantity of the whole term, as 8 or 14; for eight has a half, that is 4, it has a quarter, which is 2, it has an eighth, 1, which all brought together collect seven, enclosing a sum smaller than the whole body. Again, fourteen has a half, that is 7, a seventh, that is 2, a fourteenth, that is 1, which, if collected together, grow to the sum of the number ten, smaller than the whole term. But those which are like the former, whose parts exceed it, seem like someone born with many hands beyond nature, or joined in a double body, or whatever monstrous thing nature has ever slipped in by multiplying parts."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.335",
+   "text": "But those [whose parts are] smaller [are like someone] who, as if some necessary part had been naturally taken away, was born lacking an eye, or cut short in some other limb, and so received a natural loss of the fullness of his whole. Between these, however, as between equal excesses, that number which is called perfect has obtained the moderation of the middle limit, an imitator of virtue, which is neither carried on by a superfluous advance nor, again, drawn back by a cramped diminution, but holds the mean; it neither runs riot with abundance in its equal parts nor lacks through poverty, as 6 or 28. For six has a half, that is 3, and a third, that is 2, and a sixth, that is 1, which, if they are brought into one sum, that is 3, 2, 1, the whole body of the number is found equal to its parts. And 28 has a half, 14, and a quarter, 7, and a seventh, 4, and a fourteenth, 2, [and] a twenty-eighth, 1, which, brought together, will equal the whole body with its parts; for the parts joined in one make 28. There is also in these a great likeness of virtue and vice: for you will find perfect numbers rarely, and they are easily counted, since they are few and produced in a very constant order. But superabundant ones you will find without limit, arranged in no orders, here and there and without order, and generated from no fixed end. The perfect numbers are, within ten, 6; within a hundred, 28; within a thousand, 416; within ten thousand, 800 and 128. And these numbers always end in two even [digits], 6 and 8, and the ends of the sums always come out alternately in these numbers. For first [comes] 6, then 28, after these 416, [ending in] the same six as the first; after that 800 and 128, [ending in] the same eight as the second."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.336",
+   "text": "There are five parts of number of greater inequality: one is called multiple, another superparticular, the third superpartient, the fourth multiple superparticular, the fifth multiple superpartient. To these five parts of the greater are opposed five other parts, which, one by one, are called by the same names in the species of the lesser, differing only by a prefix. For they are called submultiple, subsuperparticular, subsuperpartient, submultiple superparticular, submultiple superpartient. In the first part, if a number is multiplied, it is called multiple. In the second part it is called superparticular. In the third superpartient, then the fourth multiple superparticular. In the fifth multiple superpartient. But the lesser number, standing as one and the same in some part, is extended through the parts according to the rule and quantity of the greater."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.ab52",
+   "text": "Heading on even and odd numbers."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.337",
+   "text": "The table which is set below was made in this way: however many of the evenly even numbers in order the number three multiplied, whatever were produced from it were arranged in the first row. Again, those that were born when five was the multiplier were placed in the second place. Then those which seven produced by multiplying the rest we placed in the third place, and we do the same in the remaining part of the table. This, then, is the principle of the table set out above: if you look at the breadth, where there is one mean of two terms, and you join the terms themselves, you will find them double their own mean: 36 and 20 make 56, whose half is 28; and if you join 12 [and ...], they make 150, of which their middle term is found to be the half. But where they have two means, both extremes joined become equal to both means, as when you have joined 12 and 36 they make 48; if you add their means to each other, that is 20 and 28, they will make [the same]. And in the other part of the breadth the numbers which arise are noted in the same order, and in no respect did the principle of the two breadths differ. And you will observe the same in the same order in the other numbers, and this happens according to the form of the evenly odd number, in which, as was said above, this property lies. Again, if you look at the length, where two terms have one mean, what comes from multiplying the extremes, the same comes if the middle term takes the increase of its own quantity. For twelve times 48 make 576; and their middle term, that is 24, if it is multiplied [by itself], will produce the same 576 again. And again, if 24 is multiplied into 96, they make 2304, whose middle term, that is 48, if led into itself, the same 2304 are produced. But where two terms enclose two means, what comes from multiplying the extremes, this same is returned when the means are led into each other's sum. For twelve times 546 multiplied produce 'i5?, and their two means, that is 24 and 48, if multiplied into each other, will restore the same j 52; and this [is] in imitation of and in kinship with the evenly even number, from which, drawn by participation, this property is known to be engendered in it. And on the other side of the length the same principle and table is noted, from which it is clear that the whole number is produced from the two above, since it retains their properties. And since, naturally and according to the proper sequence of order, we placed the multiple species of inequality before all, and showed it to be the first species, although this will become clear to us in the order of a later work, here too, touching on it briefly, let us teach what we proposed most plainly and briefly. Let there be a table in which the natural order of continuous numbers up to ten is set in order, and in the second row the double order is woven, in the third the triple, in the fourth the quadruple, and so on up to the tenfold. For so we shall learn how the species of the multiple will be chief over the superparticular and the superpartient and all the others, and we shall at the same time look at certain other things, both most fine in subtlety, most useful for knowledge, and very delightful for exercise."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.338",
+   "text": "If, then, the first two sides of the table set out, which make an angle from one to ten and run on [to] ten, are looked at, and the rows beneath them are compared with them, which, beginning their angle from 4, set their end at twenty, the double, that is the first species of multiplicity, is shown, so that the first exceeds the first by unity alone, that is two [exceeds] one, the second passes the second by two, as four [does] two, the third the third by three, as six [does] three, the fourth surpasses the fourth by the amount of four, as eight [does] four, and in the same sequence all pass one another by the quantity of the lesser."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.339",
+   "text": "But if the third angle is examined, which, beginning from nine, extends the length and breadth on either side to thirty, and this is compared with the first breadth and length, the triple species of multiplicity appears, provided this comparison is made by the tenth letter, and these numbers will exceed one another according to the connection naturally made by parallelism: for the first exceeds the first by two, as three [does] one, the second the second by four, as six [does] two, the third the third by six, as nine [does] three, and the rest grow in the same manner of progression. This, indeed, natural wholeness itself put before us, with us contriving nothing outside, as appears in the very pattern of the table."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.340",
+   "text": "But if anyone wishes to compare with the ones above the term of the fourth angle, which is marked by the quantity of the number sixteen, and the length which ends at forty, setting the proportion side by side by the form of the letter *tO*, he will observe the quadruple quantity; and the progression over them is orderly, so that the first exceeds the first by three, as four [does] unity, the second beats the second by six, as eight [does] two, the third passes the third by nine, as twelve [does] three, and the following ones always pass over one another by an added amount of three. And if anyone looks at the angles beneath, the same will come about through all species of multiplicity up to the tenfold in a most well-arranged order."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.341",
+   "text": "But if anyone seeks superparticulars in this table, he will find them in this way. If he marks the second angle, whose beginning is four, and over which lies two, and fits the following row to it, the sesquialter proportion is shown. For the third [row] is sesquialter of the second, as three to two, or six to 4, or nine to six, or 12 to 8; and likewise, if such a pairing is made in the other numbers in the same series, no unlikeness of variation will slip in; yet the same exceeding of the sums is here too as was in the doubles. For the first exceeds the first, that is three [exceeds] two, by one, the second the second by two, the third the third by three, and so on. But if the fourth row is compared with the third, as 4 to 3, and you follow the rest in the same order, a sesquitertian comparison is gathered, as 4 to 3, or 8 to 6, or 12 to 9: do you see how in all these the sesquitertian is kept? Moreover, if, doing the same, you compare those beneath them with the following rows of the other, you will recognise all the superparticular species without any hindrance. And this is divine in this arrangement, that all the angular numbers are square. A square, to put it most briefly (it will also be explained more broadly), is called that which two equal numbers multiply, as is the case in this table too: for one once is one, and it is a square in potency. Likewise twice two are 4, three times three 9, which multiplications into themselves have made from their first elements. But those which are around them, that is around the angulars, are oblong numbers; and I call oblong those which numbers exceeding each other by one multiply: for around 4 are two and six, but two arises from one and two, when you have multiplied one by two. But unity is exceeded by two by a unit; and 6 [arises] from two and three, for twice three give six. And six and twelve enclose nine, and twelve arises from three and 4: for three times 4 make 12, and six from two and three, for twice three make 6; and all these are produced from sides greater by one. For since 6 arises from two and three, 3 exceeds the number two by one, and all others are of the same kind, so that they are produced from terms of the first and second row multiplied with each other, in such a way that what arises from the two oblongs placed on either side and twice the middle square is a square. And again, what arises from the two squares on either side and one middle oblong taken twice is itself also a square; and so that, of the angles of the whole table placed at the angular squares, of one angle the first is unity, of the other which is opposite, the third; while the angles on either side have the second unities; and the two angles of the angular squares make what is contained under them equal to that which comes from one of those angles which are on either side. For there are many other things which can be weighed in this table as useful and admirable, which for the present, for the sake of the restrained brevity of an introduction, we allow to remain unknown; but now let us turn our purpose to what follows."
+  },
+  {
+   "ref": "urn:cts:latinLit:tmp1019.tmp1019.opp-lat1.342",
+   "text": "The end of the book on Geometry of Anicius Manlius Severinus Boethius. In this work, if anything more seems to anyone to be wanting, let him take it in good part; for we have corrected very many places, while in some it seemed best to leave each reader his own judgement and to change nothing rashly. Certainly, as far as could be done by diligence, industry and expense, nothing has been omitted by us."
+  }
+ ]
+}

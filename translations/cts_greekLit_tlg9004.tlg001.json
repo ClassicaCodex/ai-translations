@@ -1,0 +1,1307 @@
+{
+ "work_urn": "urn:cts:greekLit:tlg9004.tlg001",
+ "edition_urn": "urn:cts:greekLit:tlg9004.tlg001.ai-claude",
+ "source_edition": "tlg9004.tlg001.opp-grc1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-20",
+ "updated": "2026-11-25",
+ "whole_work": true,
+ "header": {
+  "title": "Anonymi In Analyticorum Posteriorum Librum Alterum Commentarium: AI translation (Claude)",
+  "author": "Anonymi In Aristotelis Librum Alterum Analyticorum Posteriorum",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's tlg9004.tlg001.opp-grc1, from Open Greek and Latin's First1KGreek (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's First1KGreek and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.head": "In 11.2 the printed text repeats a phrase ('in both, both in \"whether it is\" and in ... the low being concordant') by dittography and then appears to have lost words; I have translated the evident sense and bracketed the supplied words ('that it is', we seek the middle term; but in the case). In 9.2 the sentence beginning 'By [this] he means the subject' lacks its opening word in the text; 'this' (τοδί) is supplied. In 12.2 the text reads 'what it is or what it is'; taken as 'what [the middle term] is'. Line 2.2: the commentator's list of the four questions is lightly punctuated in the edition; the order is whether, what, that, why. Several lemma page references are incomplete in the edition (9.1, 12.1); I have supplied the likely Bekker line in 12.1.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.13.2": "Text has many scanning errors and dittographies (e.g. 'ἆρα ἆρα', 'γωγῆς', 'ἔστι ἔστι', 'καὶ καὶ'), translated as single readings. In 20.2 'μὴ ἔΜ οὖ' read as 'μὴ ὅτι οὗ' or similar; 'ἀντιστέψας' as ἀντιστρέψας, 'ὠς οὐ καρόλου' as ὡς οὐ καθόλου. In 23.2 'ὅτι οὐ γὰρ ἐστιν' is awkward; rendered as a further clause. In 26.2 'διὰ]' and '<ἐστιν>' are edition marks; 'οὖ βούλεται δι’ τὸν ὁρισμὸν λαβεῖν' seems to lack a word (presumably δι' ἀποδείξεως), supplied in brackets. Lemma refs 'p. α 24/25' taken as 91a24/25.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.27.1": "Lemma refs: 'p. 911321' read as 91b21; lemma at 37.1 printed as 92b24 but the Aristotle passage is 92a24. In 31.3 'κατ' εἶκος' read as κατ' εἶδος ('according to form'); the lemma word for the last clause (ὑπερβῆναι, 'to skip') is implied, not printed. In 34.2 the phrase about the proper account composed of what is predicated in 'what it is' is printed twice, apparently by dittography; both are translated. In 36.2 'λαβὼν γὰρ' is doubled (dittography), and a ὅτι seems missing before 'τοῦ ἀγαθοῦ'. In 37.2 'ὃ οὐ κεχώρισται' ('which is not separated') is obscure and may be corrupt.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.39.1": "39.1: the lemma breaks off; 'that it is' is supplied from Aristotle's sentence. 41.1: τρης read as γεωμέτρης (geometer). 45.2: the edition marks a crux (†) before 'which he might have taken as evident'. 47.2: 'demonstrate a definition through a definition' is as printed; 'through deduction' may be intended (cf. 47.3). 47.3: the text is awkward ('Δύναται τῷ λόγος δὲ τούτου'); translated as 'He may have said \"the reason for this\"', with the editor's supplement <αἴτιον>. 48.2: συλχρῶν read as πολλάκις/συχνόν ('often'), which is uncertain. 49.1: the page number is missing from the lemma reference.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.50.1": "50.2: 'τοῦ ἐστι' in 52.2 and 'τὸ ἐστι' in 53.2 read as τοῦ/τὸ τί ἐστι. 53.2: 'γνῶσις]' with a stray bracket seems to mark a doubtful word; the phrase 'demonstration that it is ... comes about [as knowledge]' is uncertain. 54.2: '<ὂν>' is an editorial supplement. 55.2: 'εἰ γὰρ' rendered literally as 'if, for'. 58.4: 'τὰ ὧν]' appears corrupt; translated as 'the things in which they are'.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.59.2": "59.2: the clause 'to which is added second... another name-like account' is garbled in the text (ἐστὶ ἐστὶ, τὸ ἢ); rendered as referring to Aristotle's phrase at 93b31 'or another name-like account'. 'That [it is] what signifies three angles' is also somewhat obscure. 62.2 and 62.7: dittographies (ὅτι ὅτι, ἔχει ἔχει) ignored; the second sentence of 62.2 is unclear. 62.2–62.7 read as summary headings of the topics of the preceding chapters. 63.2: stray 'x003E;' ignored. 66.2: a parenthesis opening before 'for it makes no difference' is missing in the text; the closing bracket was placed accordingly.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.67.1": "75.2: the closing words ('and] that what is for the sake of something...') are fragmentary in the edition, apparently a misplaced or truncated clause; translated as printed. 77.2: the text is garbled by repeated letters ('σώζεἐσόμενον· τὸ ... εἶτιον εἶναι'); translated as 'σώζεται τὸ τῶν μὲν γεγονότων γεγονὸς καὶ τὸ αἴτιον εἶναι'. The edition's deletion [μὴ] ('and [not] that of which it is the cause') is followed. 79.2: a word is lost before 'δ' ὅτι' (perhaps 'he shows'); supplied in brackets. 'καθ' ἃς ... συμπλοκάς' read as governing 'combinations'; 'πάντας τοὺς χρόνους' rendered with it as 'combinations of times'.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.80.1": "80.2: the passage paraphrases Aristotle's three cases (95a27-29: having come to be, will be, coming to be); 'λαὶ' read as καί. The phrase 'just as the second... and the third' refers to these cases and the Greek is compressed. 81.2: <οὐ> is the editor's supplement; the sentence 'one must further join...' is obscure in the Greek and rendered tentatively. 82.2: γεγπμέμαο read as γεγενημένον; 'τὸ ὁ' read as τὸ δ'; the reference to 'Book 7 (Η) of the Physics' is as given (the cause of continuous generation is more usually located in Physics 8 or De Generatione). 85.2: 'ὃ ἦν πρότερον προτέρῳ' is unclear and rendered literally; the last sentence is syntactically loose (participles without main verb) and rendered by sense. 86.2: 'what will be [will have come to be] in something atomic' supplies an implied verb.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.87.1": "87.2: 'between' readings: the lemma 'if the middle term and the extremes follow one another' paraphrases Aristotle 95b40ff. 89.2–90.2: 'differing in arrangement (θέσει)' follows the glossary rendering of θέσις. 92.1: the edition's 'p. 98a32' must be 96a32 (sequence and Aristotle's text); corrected. 92.2: the text is disordered and seems corrupt (bracketed and repeated words); the reconstruction 'would be the [minor premiss], and the first premiss would be that universals are necessary' is conjectural. 93.2: 'δ;θμα,ομ' is a scanning error, read as κατὰ δύναμιν, 'in potentiality'; 'γέμξ' read as γένη.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.94.1": "In line 97.1 the lemma reference 'p. 96b32' is evidently meant (printed sequence 96b25, 96b34); I have kept 96b32 as printed: the 'p. 97b32' in my first draft is not intended. Correction: line 7 should read 'p. 96b32'. In 100.2 'ὑφ' αὑτά' is read as given ('under themselves'), though the lemma has 'ὑπ' αὐτό'. In 102.2 the opinion is ascribed to Speusippus on Eudemus' authority; the closing sentence breaks off and continues into the next lemma.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.105.1": "106.2: 'προ(??)ειμένῳ' read as προκειμένῳ; 'εἰ ἰαὶ' as εἰ καί. 107.1: 'τα εςης' read as τὰ ἑξῆς. 107.2: 'ἔΜ τι' read as ἐλλείπει (lacking); 'ἀποδεδομένοι μένοι' is a dittography. 109.2: the stray '25' is a line number. 116.2: 'ἐν τοῖς' seems to lack ὁρισμοῖς ('in definitions'), supplied in brackets. 118.2: the text around the obelus is corrupt; '[ἢ] δι' οὗ παραδίδωσι τρόπου' is translated as 'by the method he hands down' and the following clause tentatively. 112: μεγαλοψυχία rendered 'pride' (Aristotle's example: magnanimity, here not a genus but homonymous).",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.120.1": "120.2: ἀντιπερίστασις rendered 'counter-displacement' (the concentration of heat inward by surrounding cold). 122.2: text lacunose after τῇ; 'nature' supplied (φύσει). 122.3: the transmitted text says the cause converts 'of necessity' if several causes are possible, which contradicts the argument; translated with a negation (reading οὐκ ἐξ ἀνάγκης). The bracketed final sentence duplicates the opening of 124.2 and is likely an intrusion, as the edition's brackets suggest. 125.2: ἰατὰ read as κατὰ.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.126.1": "126.2: '>εἶναι>' read as <εἶναι>. 127.2: 'εἰπὼν σ'' read as εἰπὼν δ'; 'αἂν' as ἂν. 128.2: the passage is syntactically loose (an opening parenthesis appears to be missing before φθάνει); translated as structured. 129.2: 'ἐπὶ πλέν' read as ἐπὶ πλέον; the sentence seems to lack a contrasting clause ('but if we take all together...'), supplied in brackets. 135.2: 'ὦρ Δ' read as ὧν Δ, 'τᾷ Δ' as τῷ Δ, 'ὑπό τι ἔη' as ὑπό τι ἕν, 'παντίν' as παντί; the clause 'ἐπ' ἴσης ἔσται τὸ τοῖς ὧν κατηγορεῖται ὄντων ὑπὸ τὸ Β' appears corrupt and is rendered by sense.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.136.1": "136.2: 'ὁ αὐτιος' read as 'ὁ αὐτός' (or αἴτιος). 139.2: the citation 'τοῦ γὰρ τὸ πρῶτον' is partly garbled in the edition; lemma 'τούτῳ δὲ τὸ] αὐτό' read as 'to this [it belongs] in itself' (Aristotle: καθ' αὑτό). 142.2: 'υέν' read as μέν; '>δ᾿>' as δ'. 143.2: 'μένωηται' read as μέμνηται; 'ελειόνων' as πλειόνων; text of the clause 'ἔστι δ' ἃ καὶ ὡς ἕν τι...' is awkward and rendered approximately. 144.2: 'ὡς † ἐν τῇ καὶ τούτοις' is marked corrupt by the editor; translated only in outline. 144.4: the sentence on natural science lacks a main verb; supplied in brackets.",
+  "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.145.1": "145.2: 'ἀρχή' in Aristotle's army image (a14) means the original formation/rally; the commentator's sense here is compressed. The first alternative ('either...') lacks a clear construction. 147.2: 'καὶ]' and 149.2 'καὶ]' are editorial bracket remnants, left aside. 149.2: the sentence on the senses ('For the senses...') follows abruptly; text may be lacunose."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.head",
+   "text": "ANONYMOUS COMMENTARY ON THE SECOND BOOK OF THE POSTERIOR ANALYTICS"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.head2",
+   "text": "EXPOSITION OF THE SECOND [BOOK] OF THE POSTERIOR ANALYTICS."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.1.1",
+   "text": "p. 89b23 The things sought are equal in number to the things we know."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.1.2",
+   "text": "[He says] that 'whether it is' is by nature prior to 'that it is'. For one who seeks the 'that', [namely] that this belongs to this, seeks whether something belongs to it or not, treating the subject about which he is inquiring as already agreed to exist. 'The things we know' stands for 'the things of which we acquire knowledge'; for we do not seek what we [already] know, but what we wish to come to know."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.2.1",
+   "text": "p. 89b25 For when we seek whether [it is] this or this, positing [it] in a number, for example whether the sun is eclipsed or not, we are seeking the 'that'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.2.2",
+   "text": "[He says] that the things sought are four, and by finding them we come to know whether it is, what it is, that it is, [and] why it is. For either we seek the existence and the being of something simply, whether it is or not, and having learned [that it is], we seek what it is; or we seek what belongs to something and is predicated [of it], that is, whether [it is] this or this, for example whether the sun is eclipsed or not, and having learned the 'that', we then seek the 'why' and the cause. Of these four, then, we seek 'whether it is' and 'what it is' in simple and uncombined things, and 'that' and 'why' in combined things, that is, that something belongs to something or does not belong, and why it belongs or does not belong. And in all these inquiries what is sought is the middle term, that is, the cause. But in the [inquiry] 'whether it is' and 'that it is' what is sought is whether there is a middle term or not, while in 'what it is' and 'why' what is sought is what the middle term is. And dialectical problems too, since they are themselves things sought, fall under the division of things sought just stated; for all of them, those from genus, from property, from accident and from definition, are in the kind of things sought that is 'that it is'. For in all of them we take two things and seek whether the one belongs to the other; for about definitions too we seek whether this is the definition of that."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.3.1",
+   "text": "p. 89b31 But some things we seek in another way, for example whether a centaur or a god is or is not."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.3.2",
+   "text": "For one who seeks whether a centaur exists is seeking simply about the existence of the centaur, and this is the 'whether it is'; but one who seeks whether the centaur is white no longer makes his inquiry about the thing simply, but seeks the 'that', holding a certain number of the things sought."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.4.1",
+   "text": "p. 89b33 By 'whether it is or not' I mean simply."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.4.2",
+   "text": "Having said 'whether it is', he added 'simply', showing its difference from 'that it is', which he described as 'in a number', 'not simply'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.5.1",
+   "text": "p. 89b38 Whether there is a middle term for it or there is not."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.5.2",
+   "text": "[He says] that when we seek 'that it is' and 'whether it is' we seek whether there is a middle term, and when [we seek] 'why it is' and 'what it is' we seek what the middle term is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.6.1",
+   "text": "p. 89b38 But when, having come to know either the 'that' or 'whether it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.6.2",
+   "text": "Again he indicated the difference between 'that it is' and 'whether it is' by the addition of 'partially' or 'simply'. For one who inquires about the being of something, for example whether there is a void, makes his inquiry simply about a subject that is one; but one who seeks the 'that' has his inquiry divided into several [things]. So either by 'partially' he meant what is divided, which he expressed at the beginning as 'positing in a number', or he says 'partially' because one who seeks whether this belongs to that seeks whether this is something of that. For one who seeks whether man is an animal seeks whether animal is something of man; for the genus too is something of that of which it is the genus. And also one who seeks whether snow is white seeks whether white is something of snow; for the accident too belongs to that to which it is accidental. And also one who seeks whether the moon is eclipsed seeks whether eclipse is something of the moon, [that is,] whether it is an affection of it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.7.1",
+   "text": "p. 90a2 By 'that' or 'whether it is' I mean partially and simply."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.7.2",
+   "text": "[He says] that the 'that' or <'whether it is'> [is] either partially or simply; and the partial seeks 'that it is', while the simple [seeks] 'whether it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.8.1",
+   "text": "p. 90a5 It turns out, then, that in all the inquiries."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.8.2",
+   "text": "[He says] that in the four inquiries what is sought is the cause, which is the middle term; but in the case of 'that it is' and 'whether it is', what is sought is whether there is a cause, and in the case of 'what it is' and 'why it is', what the cause is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.9.1",
+   "text": "p. 90a9 For the cause of being not this or this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.9.2",
+   "text": "[He says] that both in the case of 'what it is', which he indicated by saying 'for the cause of being not this or this but simply the being', and again in the case of 'why it is', which he likewise indicated by saying 'or not simply but one of the things [belonging] in itself or accidentally', what is sought is what the cause is, either of the thing's being simply or of the one's belonging to the other. By ['this'] he means the subject, and by 'not simply' but 'something', the accidents and predicates."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.10.1",
+   "text": "p. 90a14 For in all these it is evident."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.10.2",
+   "text": "In all these, he says, which were not among things existing in themselves but among things belonging to others, it is evident that in their case 'what it is' and 'why it is' are the same. And he shows that this is so by applying to the definition of each of them now the 'what it is' and now the 'why it is', and showing that the 'why it is' also fits it. And if the 'why it is' fits the 'what it is', the inquiry into 'what it is' too would be an inquiry into a middle term when it is taken for the demonstration of 'why it is'; but when it is taken for its own sake, [it is an inquiry] only into a cause, not that through which one thing belongs to another, but that through which this thing is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.11.1",
+   "text": "p. 90a21 Is it possible for the high and the low to be concordant? Is their ratio in numbers?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.11.2",
+   "text": "Having shown that the 'what it is' of each of the things that belong in others is also the cause for it <of> belonging to something and, generally, of being, he next sets out an example of the question 'whether it is', showing that <one who> seeks whether something is seeks whether there is some middle term for it which is the cause of its being. And the same argument holds for 'that it is' too. For one who seeks whether it is possible for the high and the low to be concordant seeks whether there is a concord of high and low; but what he is seeking is whether the ratio is in number, which ratio is also the cause of the high and the low being concordant. So in both, both in 'whether it is' and in ['that it is', we seek the middle term; but in the case] of 'that it is' we seek whether there is a cause of the one's belonging to the other, while in the case of 'whether it is', whether this very thing which belongs as cause is itself also something among the things that are, and itself is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.12.1",
+   "text": "p. 90[a24] That the inquiry is of the middle term is made clear by those cases in which the middle term is perceptible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.12.2",
+   "text": "That the inquiry is for the middle term in all the things sought (for in some we seek whether there is some middle term, in others what [the middle term] is; for every inquiry falls under these, since the 'that' too [falls] under 'whether it is') he confirms from those cases in which the middle term is perceptible. For in these, when we do not perceive the middle term we seek both 'that it is' and 'why it is', and likewise 'what it is'; but when we perceive [it] we no longer seek anything. For from things often evident to perception the intellect gathers universals according to the likeness among them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.13.1",
+   "text": "p. 90a31 So, as we say, knowing what it is is the same."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.13.2",
+   "text": "That knowing 'what it is' and [knowing] 'why it is' are the same. Having mentioned the 'why', he speaks about it universally and in general, [saying] that the inquiry about the 'why' is twofold. For either it is sought simply and not in the belonging of another [thing], as in the inquiry into 'what it is', or the 'why' is sought of some of the things that belong, as in the examples he set out: why the angles of the triangle are equal to two right angles, and why the rainbow is not greater than a semicircle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.14.1",
+   "text": "p. 90a32 And this either simply and not [as] something of the things that belong."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.14.2",
+   "text": "He seems to say by this that in the case of things [taken] simply too, the 'what it is' is the cause of their being, for example what a triangle is; for this is the cause of being for the triangle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.15.1",
+   "text": "p. 90a38 Let the beginning of what is to come be the one that is most proper to the arguments that follow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.15.2",
+   "text": "For as he proceeds he is going to inquire whether the 'what it is', that is, the definition, is shown by syllogism. And what he now raises as a difficulty is proper to this, namely whether it is possible to know some same thing at the same time and in the same respect both through definition and through demonstration, so that everything known through one of them can also be known at the same time through the other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.16.1",
+   "text": "p. 90b1 For one might raise the difficulty whether it is possible [to know] the same thing in the same respect."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.16.2",
+   "text": "He added 'in the same respect' because it is a received opinion that we have knowledge about some same thing in one respect through definition and in another through demonstration: for of the triangle we have knowledge of what it is through definition, but that it has its angles equal to two right angles, through demonstration. But the inquiry is not about this, but whether it is possible to know each of these both through definition and through demonstration."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.17.1",
+   "text": "p. 90b3 For the definition seems to be of 'what it is', and every 'what it is' is universal and affirmative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.17.2",
+   "text": "That not everything shown by syllogism is also shown through definition: for definitions are universal affirmatives, whereas of syllogisms, those in the second figure are privative and those in the third partial."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.18.1",
+   "text": "p. 90b8 For example, that every triangle has [its angles] equal to two right angles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.18.2",
+   "text": "Every triangle has its three interior angles equal to the two adjacent [angles]; what has its angles equal to the two adjacent [angles] has [them] equal to two right angles; therefore every triangle has its three interior angles equal to two right angles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.19.1",
+   "text": "p. 90b9 The reason for this is that knowing [scientifically] is [having a demonstration]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.19.2",
+   "text": "That it is not possible to know the same thing in the same respect by both definition and demonstration, nor is there knowledge through definition of those things of which there is demonstration."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.20.1",
+   "text": "p. 90b18 That there is not a definition of everything of which there is also a demonstration, then, is clear. But what then: of everything of which there is a definition, is there a demonstration or not?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.20.2",
+   "text": "Having shown that it is not the case that of what there is demonstration there is also definition, he now converts and shows [the other direction], as though he had not shown universally that of what there is demonstration, of this there is no definition. And yet by saying 'induction too gives sufficient confirmation; for we have never come to know anything by defining, either of the things that belong in themselves or of the accidents' he seems to have made the argument universal. It is [this] which he converts, showing that it is not the case either that of everything of which there is definition there is also demonstration. And after these he will show that it is not possible at all to know something in the same respect both through demonstration and through definition: for definition shows nothing belonging to something else, neither of the things [belonging] in themselves nor of those [belonging] accidentally, which the syllogism is capable of showing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.21.1",
+   "text": "p. 90b21 So if knowing what is demonstrable is having the demonstration, something impossible will follow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.21.2",
+   "text": "That it is not possible to have knowledge of the same thing through both demonstration and definition. For if knowledge of the demonstrable is cognition through demonstration, then if everything knowable through definition were also [knowable] through demonstration, it would be demonstrable; but it would be possible to know it even without demonstration, if one had its definition, since cognition through definition is also scientific. Further, the principles of demonstrations are indemonstrable, and definitions are principles of demonstrations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.22.1",
+   "text": "p. 90b38 Further, showing 'what it is' and 'that it is' are different. Definition makes clear what it is, but demonstration that this either is or is not [said] of that."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.22.2",
+   "text": "First he showed that demonstration and cognition through definition are of different things. Now he demonstrates in addition that they are also different [in kind], demonstrating that the definitional [cognition] is not demonstrative at all; for, as far as what was laid down first goes, it could have been of different things and yet itself also be demonstrative."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.23.1",
+   "text": "p. 91a7 It is evident, then, that neither of what there is definition is there in every case demonstration, nor of what there is demonstration is there in every case definition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.23.2",
+   "text": "That it is impossible for there to be a demonstration of a definition seems somehow already to have been shown through what has been said. For he said earlier that the showing of nothing that is the same is through both definition and demonstration, [and] that there is no demonstration of that of which there is definition: for definition is of 'what it is' and of essence, but demonstration of 'that it is' and not of 'what it is'; and definition is a showing of the essence, but demonstrations do not show the essence; and definition is a principle of demonstration, but the principle of demonstration is not demonstrable. If these things are sound, there could not be a demonstration of a definition; for this follows from those too. But even if this seems somehow to have been shown through certain arguments, still this problem is other than those and we need another proof. For in those it was inquired whether cognition of the same thing can come about both through demonstration and through definition; but now whether it is possible to show through demonstration the definition of something as belonging to it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.24.1",
+   "text": "p. 91a14 For syllogism shows something of something through the middle term; but 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.24.2",
+   "text": "That there is no syllogism and demonstration of 'what it is', because the definition is a proprium predicated in [the category of] 'what it is'; for a proprium in another sense is an accident and is not predicated in 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.25.1",
+   "text": "p. [91]a24 And both of these will have 'what it is'; therefore B too will be [predicated] of C [as] 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.25.2",
+   "text": "Having shown that 'what it is', that is, the definition, must be in both premisses, he added 'and both of these will have what it is', using 'and' (de) in place of 'so' (dē). What is said, then, is: so both of these will have 'what it is', namely AB and BC; for not only the premiss AB but also BC will have 'what it is'. And having shown these things, he brings in the absurdity that follows, saying:"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.26.1",
+   "text": "p. [91]a25 If, then, both have 'what it is' and 'what it was to be', it will be [found] first on the middle term."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.26.2",
+   "text": "That he took 'what it is' in place of 'what it was to be' and of the definition, he made clear by adding 'what it was to be' to 'what it is'; for what is predicated in 'what it is' in the way 'what it is to be' is must be taken in both premisses. But if this is so, A will first be a definition of B, if through this it is shown to be a definition of C. And this, then, is absurd. For if B is other than C, A would be a definition of several things, which is impossible. But if B were the same as C, he will be assuming what was at issue: for wanting to show that A is a definition of C, he assumes that it is a definition of B, which is the same as C; or, as he will say still more clearly, wanting to show that there is demonstration of a definition, he assumed without demonstration that A is a definition of B. These things, then, also follow. But what he shows is that one who demonstrates in this way assumes without demonstration that there is some definition of that of which he wants to obtain the definition [through demonstration]. For if he assumes A of B as a definition and in 'what it is to be', and B likewise as a definition of C, it is clear that he will also assume B as a definition and account; for thus B will be the 'what it was to be' of C. But this is what he wanted to show: the 'what it was to be' of C being shown through demonstration. So what he wants to show, he has assumed: for he assumes that B is a definition of C."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.27.1",
+   "text": "p. 91a30 But there will be another account of this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.27.2",
+   "text": "Either 'of this', of A, there will be another account, that is, a definition, namely B; or 'of this', of CB, there will again be another account, a middle one, able to show that B is a definition of C; or 'but there will be another account of this', that is, of BA there will be another definition, which will also be a definition of C."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.28.1",
+   "text": "p. 91a33 One must examine [this] in the two premisses, and in the primary and immediate ones."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.28.2",
+   "text": "[He says] that one must set out and take two immediate premisses and examine what has been shown on the elements themselves; for in this way what is said would become most evident when tested on the premisses and the matter, namely that both premisses must be predicated in 'what it was to be'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.29.1",
+   "text": "p. 91b12 But neither does the route through divisions deduce, as was said in the analysis concerning the figures."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.29.2",
+   "text": "[He says] that the definition is not shown through deduction by the method of division either, because one who uses division does not deduce at all. For in a deduction, when certain things are posited, what is shown through them follows of necessity; but in division what is shown nowhere follows of necessity from the things posited and assumed. For just as one who shows something by induction assumes certain things through which he tries to show something, yet does not deduce, because what is shown does not follow of necessity from what was assumed, so it is also with division. For the conclusion shown through deduction must not be asked as a question and be posited by being conceded by someone; for the conclusion of a deduction must follow of necessity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.30.1",
+   "text": "p. 91b20 And that man is the whole, footed animal, is not necessary from what has been said, but he assumes this too."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.30.2",
+   "text": "For if each is true of man separately, it is not thereby also necessary [that both are true] together, as was shown in the case of the cobbler and the good man in On Interpretation; and he himself will also mention it as he proceeds."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.31.1",
+   "text": "p. 91b21 It makes no difference whether one does this with many [terms] or with few."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.31.2",
+   "text": "[He says] that not only do they not show the definition through deduction, which, as has been said before, cannot be shown through deduction in any other way either, but they do not even show through deduction that the things which can be shown through deduction to belong to man do belong, but assume them without deduction. For assuming without deduction the things of which the definition [consists], they use them for the composition of the definition, though they could be obtained through deduction; at any rate, each of the items in the defining account of man can be shown through deduction to belong to man. In addition [he says] that what is assumed and composed from the things given by the division is not shown to be a definition. For he says: what prevents this from being true as a whole, that is, what prevents these things, each of which was assumed separately as belonging to man, from also being true of man together, and yet their composition not being a definition of man?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.31.3",
+   "text": "To add: to take, in the division of animal, male and female, or some other contrariety that holds according to matter or according to some accident but not according to form. To leave out: if one should cut animal into footed and aquatic; for this one has left out the winged. [To skip:] if one should pass over footed [and divide] into two-footed and many-footed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.32.1",
+   "text": "p. 91b30 This is necessary, if everything falls into the division."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.32.2",
+   "text": "But it is possible for the genera not to fall into the whole division, the higher they are. But the indivisible species fall into the whole division, for example man."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.32.3",
+   "text": "p. 91b31 But nevertheless it is not a deduction, though, if at all, it makes [one] know in another way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.32.4",
+   "text": "[He says] that even if the method of division does not deduce, still it makes [one] know in another way, as induction too, even if it does not demonstrate, nevertheless makes something clear."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.33.1",
+   "text": "p. 91b34 But one who states the definition from division does not state a deduction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.33.2",
+   "text": "[He says] that one who composes and obtains the definition from division does not deduce but shows by juxtaposition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.34.1",
+   "text": "p. 92a6 But then, can one also demonstrate 'what it is' in respect of substance?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.34.2",
+   "text": "He inquires whether it is possible to deduce and show the definition from a hypothesis. By 'what it is in respect of substance' he meant the definition. For what, besides being predicated of something in 'what it is', also signifies its substance is a definition of that thing; for the definition is the substance and the being of each thing. By 'from a hypothesis' he meant not through a hypothetical deduction, but by hypothesising certain things and using them for the proof. What he assumes and hypothesises is that the proper account composed of what is predicated in 'what it is', that is, the proper account composed of what is predicated in 'what it is', is the definition of this thing. This he hypothesises to be the definition of 'what it is', but does not demonstrate. If to this were added 'this is the proper account of that, composed of what is predicated in 'what it is'', it would be concluded: 'therefore this is the definition of that'. But again he is begging what was at issue; for he takes the middle term as the same as the major; for it makes no difference to say 'this is proper to that, composed of what is predicated in 'what it is'' and to say 'this is the definition of that'. And he shows also another absurdity that follows on such a proof, namely that the hypothesis is not properly taken in the deduction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.35.1",
+   "text": "p. 92a8 And these alone are in 'what it is', and the whole is proper."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.35.2",
+   "text": "For the things sufficient to make the whole composed of the things predicated in themselves proper are adequate for a definition. And 'for this is the being for that' is equivalent to 'for in this lies the being of the thing whose definition we are showing, and this is its definition'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.36.1",
+   "text": "p. 92a20 And even if he proves from a hypothesis, for example if to be bad is to be divisible."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.36.2",
+   "text": "[He says] that not even one who tries to prove and deduce a definition hypothetically achieves what he wants; for here he calls 'hypothetically' what [he said] 'from a hypothesis'. For such a proof too will assume what was at issue. For someone wanting to show that a definition is shown through demonstration assumes, for the proof of this very point, a definition of something without demonstration; and if he wanted in turn to show this through deduction, he will show it no other way than by again postulating and assuming a definition of something, and indeed of that very thing whose definition he seems to have shown by means of it. For having assumed that the definition of the good is the indivisible, he will in turn show in this way that the account of the bad is the divisible: so [they are shown] through each other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.37.1",
+   "text": "p. 92a24 To take, in order to prove 'what it was to be', let it be something different."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.37.2",
+   "text": "That is, for the proof of 'what it was to be' and of the definition he takes something different, which is not separated; for the deduction [comes about] through some middle term taken that is other than the terms of which the conclusion consists, and from certain premisses. This he made clear by saying 'for in demonstrations too it is assumed that this holds of that', that is, a premiss, but not the very thing that must be proved, nor what is the same as what is being proved or converts with it. For one who takes something of that kind begs what was at issue, taking it in relation to another thing, especially since both equally need proof."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.38.1",
+   "text": "p. 92a34 How, then, will one who defines prove the substance or 'what it is'?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.38.2",
+   "text": "[He says] that it is not possible to prove the definition, either through demonstration and deduction, or through induction, or through perception. For one who demonstrates and deduces something makes clear, from certain agreed things, what is shown through them of necessity; but one who defines does not, by assuming certain things, show through them that the definition being proved is so of necessity. And besides, it has been shown that there is no demonstration of a definition. But neither [is it proved] through induction. For induction establishes the universal through particulars that are evident; but one who defines does not prove a definition in this way. And one who uses induction shows from what has been assumed that something is or is not; but one who defines sets out to show not that something is or is not, but what it is. That a definition cannot be proved through perception either is quite plain; for neither the definition nor the thing defined is perceptible at all, if indeed it is universal, so that one might point with a finger and say 'this is a definition', as [one says] 'this is sweet' or [names] something else among perceptibles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.39.1",
+   "text": "p. 92b4 Further, how will he prove 'what it is'? For one who knows what man, or anything else whatever, is must necessarily know [that it is]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.39.2",
+   "text": "In general he raises a further difficulty: how is it possible at all to prove 'what it is'? For if the proof of 'what it is' must be combined with that of 'that it is', and these are different from each other, and neither the definitional nor the demonstrative [proof] is one [proof] of several things, it would not be possible to prove 'what it is' and the definition. This he made clear by saying 'But if he will prove what it is and that it is, how will he prove [them] by the same account?' For having said that both must be known, he next inquires how both, being different, could be proved through one account."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.40.1",
+   "text": "p. 92b8 But if he will prove what it is and that it is, how, and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.40.2",
+   "text": "For one thing's belonging to another is proved through deduction. But since both the definition and the substance of each thing belong to that of which they are, and one can also understand 'that it is' in the case of the definition, for this reason he added 'unless it were substance', that is, unless it were a definition. For the definition alone, though it belongs in the sense that it belongs, is not proved through demonstration; for being something and belonging is not a definition of anything, nor does one who demonstrates that something is prove its definition; for being is the definition of nothing. For being and 'to be' is not a genus at all, nor one nature, so as to be able to be also a part of a definition; but the genus is of that kind, for the definition indicates one nature. So of something's being there will be demonstration. Therefore one who defines will not prove through the definition that this thing which he defines is; for it is demonstration that proves this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.41.1",
+   "text": "p. 92b15 For what 'triangle' signifies the geometer assumed, but that it is he proves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.41.2",
+   "text": "Having assumed that demonstration proves 'that it is', and having [established] of what each of them, the definition and the demonstration, is, upon this he says 'What then will one who defines prove? What it is? Or the triangle?', which is equivalent to 'What then does one who defines, and gives what something is, prove? Or [is it] what that thing is which he defines?' For one who defines the triangle says what the triangle is, but not that it is; for that is something else, proved through demonstration. And he brings in the absurd consequence: what someone knows by definition, he will not know that it is; for the [proof] that proves this is another. But this is impossible, that someone should know what a thing is when he does not know whether it is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.42.1",
+   "text": "p. 92b19 It is evident also from the present ways of [giving] definitions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.42.2",
+   "text": "That the definition does not prove that the definable is; for even if that of which the definition has been given is in existence, the definition at any rate does not prove its being. For the definition of the circle neither proves that the circle is (this is what 'why it is' signifies for him) — for no cause is indicated in the definition through which that thing is of which one has given the definition — nor [does it prove] why this is a circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.43.1",
+   "text": "p. 92b24 But one can always ask 'why'. If, then, one who defines proves either what it is or what the name signifies, and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.43.2",
+   "text": "Having shown that the definition does not prove or make known that the definable thing is, he takes as following from this that the definition does not indicate any thing, but [only] what what is said is taken to signify, so that it is an account signifying the same as a name. For if one who defines must either prove what the thing is or say what the name signifies, but does not prove what the thing is, because one cannot in the first place know through definition that it is, what remains is that it would be an account indicating what the name signifies, which he shows to be absurd."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.44.1",
+   "text": "p. 92b30 Further, all accounts would be definitions, and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.44.2",
+   "text": "If the definition is an account signifying the same as a name, but it is not possible to demonstrate that this name indicates this (for names are by imposition and convention, not by any necessity), then we would not have any assurance that this name signifies this either. Nor, then, do definitions indicate this in addition, that each of them indicates what is signified by this name."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.45.1",
+   "text": "p. 92b35 From these considerations, then, neither do definition and deduction appear to be the same, and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.45.2",
+   "text": "He sums up what has been shown: that deduction and definition are not the same (which he might have taken as evident, for the account of each of them is different), and that deduction and definition are not of the same thing, if indeed the one is of 'what it is' and the other of 'that it is'. These he proved first, through [showing] that what is proved through deduction is not proved through definition, nor is that of which there is a definition proved also by deduction. But also that the definition itself neither demonstrates anything nor proves at all; for it neither demonstrates that the thing is, nor proves that it belongs to that to which it is assigned. Hence it is not possible to know by definition that this is the definition of that (for the definition proves nothing), nor by demonstration, since there is no demonstration of 'what it is', as has been shown; for all [demonstration] is of 'that it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.46.1",
+   "text": "p. 93a1 Again we must consider which of these things is said well and which not well."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.46.2",
+   "text": "For neither is it said entirely well that the same thing cannot be known through definition and through demonstration, nor that there is no proof of a definition at all, as he will say."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.47.1",
+   "text": "p. 93a3 Since, as we said, knowing what it is is the same as knowing the cause of what it is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.47.2",
+   "text": "He tries first to show that it is possible to demonstrate a definition through a definition. In the demonstration he makes use of what he has proved earlier; for he showed a little before, through what he said: 'in all these it is evident that what it is and why it is are the same'. For through these words he showed that one who seeks 'what it is' and the definition seeks a cause; for the definition of each thing is also a cause. This, then, he makes use of. For if the definition is a cause, one who knows the definition of something also knows the cause. That one who knows the definition of something knows the cause of its being (this is what 'the cause of what it is' signifies for him) has been shown; for it was laid down that the search for 'what it is' and the search for a cause are the same."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.47.3",
+   "text": "He may have said 'the reason for this' [meaning] the cause of its being possible to be proved through deduction. And the [clause] before it would then be stated not completely but defectively: 'since, as we said, knowing what it is is the same as knowing the cause of what it is'; for there would be missing from it 'it is possible for the \"what it was to be\" to be proved through deduction'. Since, then, the definition is a cause, it will be either the same as that of which it is the cause or other than it. For of causes some are the same as those things of which they are causes, indicating their substance completely; for of man's being a two-footed terrestrial animal there is no cause other than this very thing, and in general [the cause is] the proper definition of each."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.48.1",
+   "text": "p. 93a5 The reason for this is that there is some cause; and this is either the same or other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.48.2",
+   "text": "He may have said 'and this is either the same or other' not as though it were often the case that the same thing is its own cause (for the cause and that of which it is the cause seem to be different in all cases), but so as to use a complete division. And 'if, then, it is other' would be added as indicating that the cause must be other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.49.1",
+   "text": "p. [93]a15 But there is a logical deduction of 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.49.2",
+   "text": "He is accustomed to call 'logical deduction' one that is not demonstrative but dialectical and draws its conclusion through reputable opinions. Having said that such a proof is logical but not demonstrative, he next proposes to inquire whether it is possible at all, and how and in what manner. And having reminded us of what was said at the beginning, he will demonstrate, in keeping with it, that a demonstration of a definition cannot come about, but that it is nevertheless possible in a way to find a definition through demonstration. This too had been raised as a difficulty, how it is possible for 'what it was to be' to be proved; for this seemed absurd. Being about to inquire and speak about this, he first reminds us of what was said at the beginning, which will be useful to him for the study of the matter at hand; that is why he also added 'saying again from the beginning'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.50.1",
+   "text": "p. 93a16 For just as we seek the 'why'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.50.2",
+   "text": "That just as 'that it is' is known before 'why it is', so too 'whether it is' [is known] before 'what it is'; and sometimes they also become clear at the same time, but not the other way round."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.51.1",
+   "text": "p. 93a21 'Whether it is' we sometimes grasp accidentally, and sometimes grasping something of the thing itself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.51.2",
+   "text": "Having taken it that knowledge of 'what it is' follows upon knowledge that the thing is, he next shows how knowledge of 'what it is' often follows upon knowledge that the thing is, just as knowledge of 'why it is' [follows] upon knowledge 'that it is'. For we grasp the existence of the thing about which the inquiry 'whether it is' was made, sometimes from accidents, and sometimes by taking something of its substance. And knowledge of the thing's existence from accidents contributes nothing to knowledge of what the thing is; but knowledge that it is from what belongs to the thing itself is a starting point and a road to knowledge of 'what it is'. And as we stand with respect to knowledge 'whether it is' from what belongs per se to the thing under inquiry and are its genera and parts, so we shall stand with respect also to [knowledge] of 'what it is'. For knowing 'that it is' from the more common [features], we shall be further from knowing 'what it is', because we do not know even 'that it is' precisely and proximately; but if [we have] knowledge that it is from what is proper and peculiar to it, we would either have knowledge of 'what it is' as well, or be close to it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.52.1",
+   "text": "p. 93a27 But in the cases where we have something, [it is] easier."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.52.2",
+   "text": "For things of which we have knowledge that they are by grasping something of what belongs to them in their substance, the inquiry into and discovery of 'what it is' is easier."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.53.1",
+   "text": "p. 93a29 Of things, then, where we have something of 'what it is', let it first be thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.53.2",
+   "text": "He wants to make what has been said familiar through examples and to show how demonstration that [a thing] is, through what is proper [to it], comes about [as knowledge], how 'what it is' is grasped in a demonstration, and how, if knowledge 'that it is' were from accidents, it contributes nothing to the discovery of 'what it is'. And first he takes examples of things whose knowledge that they are we gain from their substance and from what belongs to them per se, then he will also take [examples] of others not from their substance. And he will show when demonstration that [a thing] is becomes [demonstration] of knowledge of 'what it was to be', and how, knowing 'that it is', we at the same time know also 'what it is', and how we shall come to know 'that it is' through a deduction but shall not yet have 'what it is' made known. The particle 'men' seems to me to be superfluous, so that [the sense] is: of things, then, of which we have knowledge 'that it is' through something of what is in their 'what' and in their substance, let this first be shown. And let it run thus: of things, he says, in which we have 'what it is' contained in the knowledge that they are, let what he sets out be an example."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.54.1",
+   "text": "p. 93a35 But when we find [it], we know at the same time the 'that' and the 'why'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.54.2",
+   "text": "To 'but when we find [it], we know at the same time the 'that' and the 'why'' he added 'if it is through middle terms', which indicates 'if through what is proper and causal, not of the conclusion only but also of the thing'; for these are middle terms in the proper sense. For knowledge 'that it is' through such middle terms, which are also middle terms in the proper sense, is at the same time knowledge also of 'why it is'. But it is also knowledge of 'what it is', as he will say; for such [a middle] is a definition of one of the extremes. But if not through a middle term, that is, if we have knowledge that the one extreme belongs to the other not through a cause but through some accident, we shall know only 'that it is', and no longer 'why it is', nor shall we have the definition."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.55.1",
+   "text": "p. 93a39 If, then, B belongs to C."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.55.2",
+   "text": "It would be more consistent if the text had 'if, for, B belongs to C' instead of 'if, then'; for upon this follows 'but if not, the 'that' [is known], but not the 'why''."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.56.1",
+   "text": "p. 93b12 But if there is again another middle term of this, it will be from the remaining accounts."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.56.2",
+   "text": "Since often a deduction of 'why' seems to come about because the middle term is taken from what belongs per se, yet this is not indemonstrable because the middle term is not a definition of one of the extremes nor the proper cause, when, he says, the middle term taken is such that it too is still demonstrable, one must demonstrate the premise by taking a middle term from the remaining [items], which themselves also belong to it per se and are in a way parts of it. For when what has been taken is a definition of the major extreme, that premise is immediate and indemonstrable; for it is not possible for someone to find a middle term and demonstrate the definition, since it has been shown that there is no demonstration of a definition. But when the middle term is from the substance but is not yet a definition, he says one must prove by taking the middle term from the remaining and omitted [items], which themselves also belong per se to what is being proved and are more proximate to it, until the middle becomes a definition of the predicate; for then the premise is immediate and indemonstrable."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.57.1",
+   "text": "p. 93b16 So that there is neither a deduction nor a demonstration of 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.57.2",
+   "text": "That there is no demonstration of 'what it was to be', but it becomes known in the demonstration 'that it is' through the cause, which is also demonstration in the proper sense; for the proximate, first and proper cause of the proof of the 'that' is shown through the definition and the 'what it was to be'. That is why there is neither demonstration nor deduction of 'what it is', yet it becomes clear through demonstration; for in demonstrating 'that it is' we make the demonstration through the 'what it was to be' of the term predicated in the conclusion; and this happens in cases where the causes are other than what is caused and are demonstrable. But in cases where the causes are the same as what is caused, these are indemonstrable; that is why in these cases there is no longer inquiry into and discovery of 'why it is' and of 'what it was to be', because in these we do not inquire into 'why it is' in the first place. And the thing and its cause are the same in cases where the definition of the thing at hand is taken; for the cause of man, 'two-footed terrestrial animal', would be the same as it. That is why there is no other cause of this; but again there is no demonstration of 'what it is' either."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.58.1",
+   "text": "p. 93b19 As we also said in the puzzles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.58.2",
+   "text": "As was also said in the difficulties raised earlier, the 'what it was to be' of some things is found and made known through demonstration, namely those for whose existence something other is the cause; but of those for which there is no cause, not even the definition is known through demonstration."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.58.3",
+   "text": "p. 93b21 Of some things something other is the cause, of others it is not, and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.58.4",
+   "text": "Having shown that in the proof 'that it is' through the proximate cause there also comes about knowledge and discovery of 'what it is', and having said that this happens in a case where there is another cause (for in cases where 'that it is' is demonstrable, [the thing] also has some cause; for with some things being and 'that it is' are demonstrable and are proved through a causal middle, but with some they are indemonstrable; for of the first things it is not demonstrated that they are), he says there will be the same difference also among [accounts of] 'what it is' and among definitions. For some of them will not be grasped in demonstration, if the things in which they are are simply shown to be not through demonstration; but others will be grasped in demonstration, when it is demonstrated of the things whose definitions they are that they are; for the middle terms through which they are demonstrated will be their definitions."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.59.1",
+   "text": "p. 93b29 Since a definition is said to be an account of 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.59.2",
+   "text": "He shows and states in how many ways 'definition' is said, and about which [kind] what has been proved was said. This too was among the things he proposed to state: both what a definition is and of what things [there is one]. Since, then, a definition is said to be an account of 'what it is', it will be understood in several ways; for 'what it is' indicates both what [the name] signifies, and also what the substance of the thing is, and also [its] being. So definition would be among the things said in several ways. For an account of 'what it is' would also be the account that makes clear what the name signifies, to which is added second, differing from it only in wording, 'or another name-like account', that is, an account signifying the same as the name and different from the one that makes clear the substance. Even having this account, he says, the name-like one that makes clear what the name signifies, we still seek why it is. For someone who has the account of a triangle, that [it is] what signifies three angles, has a name-like account that makes clear what the name signifies; for in the case of such accounts it is still sought why the thing that signifies this is. He says it is hard to grasp the cause of the being of something one does not know to be; for it is difficult, indeed impossible, to grasp a definition together with a cause of something one does not know to be in the first place. And this is unclear in these cases because such knowledge 'that it is' comes about from an accident."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.60.1",
+   "text": "p. 93b35 An account is one in two ways, the one by conjunction, like the Iliad."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.60.2",
+   "text": "He said this in passing, indicating about definition that it must be one account, not by conjunction but by making clear one thing of one thing, not accidentally. For an account that has one subject and one predicate, both however accidents, is not one account; nor is an account predicating an accident of a substance strictly one account, even if it is one premise; for it does not signify one nature. And by this wording he would reject a definition of the kind that signifies the same as the name; for that can be one by conjunction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.61.1",
+   "text": "p. 94a3 For it makes a difference to say why it thunders and what thunder is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.61.2",
+   "text": "The one who says why states the cause of the conclusion; in this way demonstration comes about. But the one who says what thunder is, joining [them] as one account, states the conclusion together with the cause. This is the cause of its not being simply a demonstration; for it differs from demonstration in arrangement. For we state the same account in one way when defining and in another when demonstrating. When demonstrating [we say]: 'Thunder is extinction of fire in a cloud; extinction of fire in a cloud is noise in a cloud; therefore thunder is noise in a cloud', or, stringing it together thus: 'thunder is, because of extinction of fire, noise in a cloud'; but when defining we say that thunder is noise in a cloud because of extinction of fire. We say the same things by both accounts, but not in the same way: in the definition we put the cause and the middle term last, but in the demonstration [we put it] in the middle and before the conclusion. He called it a continuous demonstration either because it is in the first figure, for terms in this figure take a continuous order and sequence by the middle's lying not outside the extremes but between them; or 'continuous' because it is not divided into premises but expressed as one: for the account that says 'Because fire is extinguished in the clouds, the noise that arises in them is thunder' does not have the account divided into the premises, nor the middle taken twice, but has stated the terms continuously."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.62.1",
+   "text": "p. 94a13 The third [kind of definition] is a conclusion of the demonstration of 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.62.2",
+   "text": "How there is a demonstration of 'what it is': because it is grasped in demonstration; but there is not [one] in such a way that there is a demonstration of it. Or: that there is [demonstration] of definition as conclusion, but not of [definition] as demonstration."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.62.3",
+   "text": "And of which there is and of which there is not demonstration. For of those grasped from the cause, which differ from demonstration in arrangement, and of the indemonstrable positings, such as the definitions of immediates are, there cannot be demonstration, nor of those according to the form and the cause; but of definitions that are conclusions there is demonstration."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.62.4",
+   "text": "Further, in how many ways definition is said: that it is in four ways."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.62.5",
+   "text": "And how it proves 'what it is' and how not: as grasped in demonstration it proves [it], but as proved through demonstration it does not."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.62.6",
+   "text": "And of which things there is [definition] and of which not: that there is of simple things, but not of composite ones; for a definition is an account making clear one thing of one thing. Or: that there is not of the indemonstrable positings, but there is of the others."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.62.7",
+   "text": "Further, how it stands in relation to demonstration: that it differs from demonstration in arrangement, and that what is proved through demonstration is no longer [proved] through definition, and conversely, and that definition is the same as demonstration, differing in arrangement."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.63.1",
+   "text": "p. 94a20 Since we think we know scientifically."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.63.2",
+   "text": "That since cause is said in four ways, formal, material, efficient, final, the middle term can be taken from each of these four in the knowledge and demonstration of 'why', which is most of all scientific knowledge."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.64.1",
+   "text": "p. 94a23 All these are proved through the middle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.64.2",
+   "text": "He says all the causes are proved through the middle, that is, grasped through the middle; for the causes are not demonstrated through the middle, but are proved by being grasped through the middle and becoming middle terms in demonstrations, as was shown in the case of the cause according to 'what it was to be'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.64.3",
+   "text": "Through what being the case is [the angle] right? He has made clear the mode of the cause, that he seeks the cause as matter. Of the conclusion that the angle in a semicircle is right, the cause as matter taken as middle term is 'half of two right angles'; this is proved in the third book of Euclid's Elements. He does not say that being half of two right angles is the matter of the angle in a semicircle's being right, but that this, once taken, produced the two premises, which are the matter of the deduction. So [it is] matter as of the deduction, but not as of the angle in a semicircle's being right; for of this, being half of two right angles would rather be a cause as 'what it was to be', if one gave this as the account of the right angle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.65.1",
+   "text": "p. 94a32 So, B being half of two right angles, A belongs to C, and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.65.2",
+   "text": "That this middle term, which produces the two premises and is for this reason a cause as matter in the deduction, and is equal to A, since an account equal to some name seems to be its definition, would according to this meaning, he says, be a definition and 'what it was to be' of the predicate in the conclusion, stating what 'right angle' signifies, not what its substance is; for this too was one meaning of definition: for a definition saying that it is half of two right angles would state what the right angle signifies, not what it is. If then the middle term, inasmuch as it is the cause of the two premises, has the material cause, it is clear that in one respect it will be a cause as matter, and in another a cause as form or efficient or final. For if the middle is taken according to all the modes of cause, as he shows, and according to whichever it is taken, by being middle it is the cause of the two premises, then according to whichever mode of cause it is taken it would necessarily come to be a cause as matter. And not only such matter, which is the matter of the conclusion, being in a deduction, but also matter in the strict sense, which is the matter of the thing proved, is taken as middle term in a deduction."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.66.1",
+   "text": "p. 94b8 Of those things whose cause is that for the sake of which, for example, why does he walk? and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.66.2",
+   "text": "The deduction being of this sort, he next shows how being healthy, which is the end and that for the sake of which for having to walk after dinner, was taken as middle term. For in the deduction set out this seems to be predicated, while the food's not floating at the mouth of the stomach seems to have been taken as middle term. Showing this, then, he says: what then is the cause for C of A's belonging, that for the sake of which? which is equal to 'what then is the cause, as end and that for the sake of which, for C, walking after dinner, through which A also belongs to it?'. B, he says, which was the food's not floating at the mouth of the stomach, which has been taken as the account and definition of health. For he added [a phrase] indicating that B is like a definition and account of A, saying: for A will be rendered thus: for being healthy is not having the food floating at the mouth of the stomach. So the term of the cause 'that for the sake of which', placed as middle, showed the 'why'. Having said and this is like the account of that, the food's not floating [being the account] of being healthy (for this is not simply a definition of health), he made clear that the one proving through it takes it as being a definition of health, by saying: for A will be rendered thus: for the one proving through this that walking after dinner happens for the sake of health will render being healthy thus. So if the food's not floating is the account and definition of health, which is that for the sake of which, and walking after dinner is because the food must not float, the deduction that one must walk after dinner would have come about through the cause 'that for the sake of which' placed as middle (for it makes no difference whether a thing itself or its definition is taken), so that the deduction is: walking after dinner is followed by the food's not floating at the mouth of the stomach, which is equal to being healthy; being healthy and not having the food floating is fitting and needful; therefore walking after dinner is fitting. Or thus: one must be healthy, that is, not have the food floating at the mouth of the stomach; this comes about through walking after dinner; therefore one must walk after dinner."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.67.1",
+   "text": "p. 94b18 What then is the cause for C of A's belonging [to it]? and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.67.2",
+   "text": "Having taken what seems to be the definition of health, <which> he has taken as middle term, and having shown through this that the cause 'that for the sake of which' comes to be middle term in the demonstration, he indicated that it makes no difference whether one takes as middle the definition or that of which it is the definition, by saying: one must substitute the accounts; for in the substitution of the accounts for the names what is said becomes clearer. At any rate, in the present case, that walking after dinner happens for the sake of health is not known, because it is not clear how it is a cause of health; but when the food's not floating at the mouth of the stomach is substituted for health, it is known that the walk happens for the sake of this; and if this is the account of being healthy, it would at the same time become known also that walking after dinner happens for the sake of health. So he said one must substitute the accounts, showing us that we would demonstrate in this way, and make what is said known, if, taking the definition of that for the sake of which, we proved it through that. And the definition of that for the sake of which is nothing other than that for the sake of which; so that, whenever this is middle, the cause 'that for the sake of which' is taken as middle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.68.1",
+   "text": "p. 94b23 But the comings-to-be here are the reverse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.68.2",
+   "text": "That the comings-to-be are reversed in the case of final causes and of efficient causes: for efficient causes come to be first, before the thing, but final causes last."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.69.1",
+   "text": "p. 94b27 It is possible for the same thing to be both for the sake of something and of necessity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.69.2",
+   "text": "That it is possible for the same thing both to be of necessity and to be for the sake of something. And likewise it is possible for it also to come to be of necessity and for the sake of something. And the cause 'of necessity' is the material, while 'for the sake of something' is the final, so that the same thing has two causes of its being, like the light through the lantern, and of its coming to be, like thunder, namely the material and the final (in things that come to be by nature what comes to be of necessity is from the matter, and what is for the sake of something is from the form), and very many such things have both at once among things that come to be and are constituted by nature; for nature is twofold, one acting for the sake of something, that according to the form, the other of necessity, the material."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.70.1",
+   "text": "p. 94b34 Very many things are such, and especially among those constituted according to nature."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.70.2",
+   "text": "He said 'very many' among things according to nature. For [this holds] not only in these but also in things that come to be by art; for the lantern, which has come about by art, has both causes of its giving light."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.71.1",
+   "text": "p. 94b36 For one nature acts for the sake of something, the other of necessity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.71.2",
+   "text": "That the natures are two, one acting for the sake of something, that according to the form, the other of necessity, the material."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.72.1",
+   "text": "p. 94b37 Necessity is twofold."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.72.2",
+   "text": "That necessity too is twofold, one according to nature, the other by force."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.73.1",
+   "text": "p. 94b37 For one is according to nature and impulse, the other by force, contrary to impulse."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.73.2",
+   "text": "Everything necessary according to nature also has the [cause] for the sake of <something>; for the cause according to the form is such, unless some deformity has occurred or some other consequence of material residue. But forced necessity can also have that for the sake of which; for someone might throw the stone also for the sake of something; nevertheless it can also happen at random and in vain."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.74.1",
+   "text": "p. 95a3 Among things from thought, some never belong by chance."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.74.2",
+   "text": "And of things that come to be by nature, some come to be both of necessity and spontaneously; for the spontaneous is among things that come to be by nature. But of things from thought nothing comes to be of necessity; the spontaneous, that is, what is from luck, some of them admit, and some do not. And through these things he shows that acting for the sake of something is both in nature and in thought."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.75.1",
+   "text": "p. 95a5 But some also from luck, for example health and safety."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.75.2",
+   "text": "Having said that some of the things that come to be from thought do not come to be from luck while others do, he says which in general are those in which the same thing can come to be both from thought and from luck. For of things that come to be by art, those that can come to be both in this way and in that, that is, both according to the craftsman's wish and contrary to it, in these the same thing can come to be both from thought and from luck. Such among the arts are the conjectural ones; for these are occupied with such things that sometimes the opposite too may result, because what they use and what they do not are not determinate and evident. And luck too concerns what can be thus and not thus, whenever [something] comes about not according to the craftsman's wish, and] that what is for the sake of something is either by nature or by art, but not from luck."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.76.1",
+   "text": "p. 95a6 Especially in those cases where it is possible [to be] both thus and otherwise."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.76.2",
+   "text": "For in things that can be thus and not thus, not those that come to be from luck but those that are contingent and come to be by art, in these it is possible for the same things to come to be both from thought and by art and from luck, namely whenever something else befalls what comes to be by art, other than that for the sake of which it was coming to be. And in such cases, whenever what comes about does not come about from luck, then it comes to be for the sake of something and from thought."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.77.1",
+   "text": "p. 95a10 The same thing is the cause for things coming to be and for things that have come to be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.77.2",
+   "text": "The same thing in form, he says (for this is missing from the wording), must be the cause for things coming to be of their coming to be, for things that have come to be of their having come to be, for things that will be of their going to be, and for things that are of their being; but for things coming to be the same thing [is a cause] as coming to be, for things that have come to be as having come to be, for things that will be as going to be, just as for things that are as being. And 'just as for things that are' is not added idly; for what [holds] of things that are follows likewise for those others according to time. Having said that the cause is the same, he made clear how it is the same, namely not in number but in form, by saying: except that for things that are it is being, for things coming to be coming to be, for things that will be going to be; for the cause is simultaneous with what is caused; for it is not possible for the same thing in number both to be and to be going to be at once. And it is reasonable that causes in the strict sense are divided along with what is caused according to the times; for they are simultaneous by nature, as relatives, so that it is impossible that the cause should be and what is caused should not be. Or, if a cause and that of which it is the cause were taken in cases where they are not simultaneous, there would be preserved both that nothing comes about without a cause and that not all things are of necessity, which some laid down as following from nothing's coming about without a cause, if we take the sequence of necessity from below and from the later things. This he showed in the Physics too, saying that in coming to be the necessary is from a hypothesis; for if the later is, of necessity the earlier is. And now he says the same, that starting from the later things it is preserved that for things that have come to be the cause too has come to be, and for things that will be it will be; but no longer that, if the first is, the second is too, because it does not in every case follow on the first's being that it is also a cause."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.78.1",
+   "text": "p. 95a22 What is a cause in this way and that of which it is the cause come to be together."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.78.2",
+   "text": "All causes and things caused must necessarily coexist with one another, if the causes taken are those that are in actuality; for these are both causes in the strict sense and of necessity coexist with the things caused taken in the same way. For of causes some are in potentiality, some in actuality, and some by having made; and as the causes are, so too are the things caused."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.79.1",
+   "text": "p. 95a24 But in the case of things not simultaneous, is it in continuous time?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.79.2",
+   "text": "How is the sequence according to the times preserved in cases where the cause does not seem to coexist or be contemporaneous with what is caused, but one of them is first and the other second? For there seem to be some causes of this kind too; this is in cases where what came to be first seems to be <a cause> of what comes after it. [He shows] that what came to be first is not in every case a cause of something after it. He takes all the combinations of times according to which the first can be taken as a cause of what comes after it, inquiring how, when the sequence is taken, it can be true that the first is a cause of what comes after it, since cause and what is caused must in every case follow one another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.80.1",
+   "text": "p. 95a26 Of this having come to be, something else having come to be [first]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.80.2",
+   "text": "[This stands] instead of 'what came to be before it, [as cause] of what came to be later', so that both are in the case of things that have come to be, though not simultaneously; just as the second [case has] both in the case of things that will be, and the third both in the case of things coming to be. For such is [the phrase] 'and of its coming to be, if something came to be earlier'; and there is also the reading 'of its coming to be, this having come to be'. For through these [phrases] he has taken both, the cause and what is caused, sometimes in past time and sometimes in future time. And in these cases the sequence is preserved if it is made from the later things, that is, from what is caused."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.81.1",
+   "text": "p. 95a28 And the starting-point of these too is the things that have come to be, and so on."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.81.2",
+   "text": "[He shows] that in the case of things that have come to be, it is not necessary that the sequence should start from what came to be first and proceed to what came to be after it and because of it, so that, just as it is true of the cause that it has come to be, so it is in every case true of what is caused that it too has come to be; neither if we speak with the time determined nor if [we speak] indeterminately. For it is possible that, when what is first has come to be, for example the foundation, the house has not yet come to be. And in this way what is caused will not follow the cause, if indeed it is not true that, if the cause has come to be, what is caused has also come to be. For in the intermediate time, in which the one has come to be, for example the foundation, but the other has not, as the house, it is not true to say that, since a foundation has come to be, a house has also come to be; for to say of what has not yet come to be that it has come to be is not true. So the cause will <not> be contemporaneous with what is caused when the sequence is taken in this way. And one must further join the [words] 'so that since this is true' to what precedes them; for what he indicated by this is [that it will be so] neither when the time is indeterminate nor when it is determined. And as the sequence is false in the case of things that have come to be, so too in the case of things that will be; for in the case of things that will be it will not always be true that, if the first [will be], what comes after it will also be, nor that, since this has come to be, that will be. And he states the cause of this, which is also the cause of the earlier [cases]: that the middle term, that is, the cause, the cause in the strict sense, such that what is caused in every case coexists with it, must be of the same kind as what is caused, that is, of the same time, and must coexist and come to be together [with it]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.82.1",
+   "text": "p. 95a39 Further, it is not possible for the time to be indeterminate either."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.82.2",
+   "text": "He inquires: if second things do not of necessity follow first things, and what comes to be first is not also a cause of something that will be, for what cause do some things come to be after the first, and there is a continuity of them, so that after this particular thing has come to be, say summer, autumn comes to be and there is no interruption, if indeed summer is not the cause of autumn? Now in Book 7 of the Physics, inquiring into this, he gave its natural cause, namely that the eternal revolution of the fifth body is the cause of generation's being linked together. But here he speaks only so far as to resolve the difficulty. For he says that things coming to be are not continuous with things that have come to be at all; for it does not follow that, if the whole of time is continuous with itself, then the time of these things too, in which they come to be, is continuous. So if this were not [so], causes of it would not rightly be sought either. That things that have come to be are not adjacent to and continuous with things coming to be, he shows by first showing that not even things that have come to be are continuous with one another, if one has come to be first and the other after it. And that things that have come to be are not continuous with one another he establishes by [the fact] that everything that has come to be, when it first has come to be, has come to be not in time but in a limit of time. For everything coming to be comes to be in time, but what has come to be [has come to be] in a limit of time; and this is the now, which is indivisible. These things have been shown in the Physics. But if those things in time are continuous whose time is continuous, while those [instants] in which things that have come to be have come to be are neither times (for they are limits of times and not times) nor continuous (for nothing continuous is made of indivisibles), then neither would things that have come to be be continuous with one another; for as nothing continuous can come to be from points, so neither from the [instants] in which things that have come to be [have come to be]. Having shown that things that have come to be cannot be continuous with one another, he next shows that neither can something that has come to be be continuous with something coming to be. For what has come to be has come to be in something indivisible, namely in the now; but what is coming to be [comes to be] in something divisible, namely in time; and it is not possible for something divisible to be continuous with something indivisible. For those things are continuous whose limit is common; but the indivisible, having nothing in common, will not have <a common limit either> with anything."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.83.1",
+   "text": "p. 95b10 But these things must be discussed more clearly in the general [account] of motion."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.83.2",
+   "text": "In the last four books of the Physics; for in those it has been stated what things are continuous, what adjacent, what successive, what apart, what together; and in those he also gave the cause of generation's being linked together."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.84.1",
+   "text": "p. 95b13 So concerning how, when generation occurs successively, the middle term is the cause, let this much be taken."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.84.2",
+   "text": "He did not say 'how, when generation occurs continuously', but 'successively'; for he showed that it is not continuous. So he has stated how the middle term, which is also the cause of the joining of the extremes, stands in things that come to be successively, that is, how, when taken, it would be both a middle term and a cause both of the thing and of the conclusion: namely, if we take the sequence from the later things; that is, it is necessary in these cases too, if the sequence is taken in this way, with what is caused taken first, that the middle term be the cause of the later. And the proximate cause and that of which it is the cause are immediate; this is because the cause and what is caused coexist with one another. And that he called what came to be later 'first' (for it becomes first in the sequence) he made clear by saying 'and C is the starting-point'; for having supposed this to be what came to be later, he called it the starting-point because it is nearer to the now."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.85.1",
+   "text": "p. 95b22 And for one taking the middle term in this way."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.85.2",
+   "text": "He says that the sequence is taken in this way, from below, by one positing the middle term and cause as earlier in origin; for example, if again we take some other middle term of C and D, the conclusion will be CD, which was earlier [connected] with an earlier. And so, as we always take some middle term that came to be between the things taken earlier in the sequence, either the taking of the middle will at some point stop at an immediate sequence, or it will always and to infinity be possible to take again some thing that came to be between things that came to be. Now as far as time is concerned, there will always be some middle between any two things that have come to be; for because everything that has come to be has come to be in a now, and between any [two] nows there is time divisible to infinity, it will be possible to take something between any things that have come to be. But since it is not necessary that something has come to be or is coming to be in all time (for things coming to be are not continuous, as he showed), it will also be possible to take some immediate things that have come to be, between which there will be time, but not also something that has come to be between them, so that they are successive to one another, with nothing having come to be between them. In this way it will be possible to take immediate things that have come to be, which will be starting-points of demonstration according to the sequence described above, and the starting-point will be from what has come to be last, now. He himself does not affirm that some immediate things will be taken after what came to be last but is taken first; but he does say that there will in any case be something which will be taken first, which will be middle in this way, by the fact that nothing has yet come to be after it, which he was taking before this; for what is near the present now, after which nothing has come to be, is first and starting-point and immediate."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.86.1",
+   "text": "p. 95b25 And similarly too in the case of 'will be'; for if it is true to say."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.86.2",
+   "text": "As it was in the case of things that have come to be, in that things that have come to be are not continuous with one another, but there is time between all things that have come to be, which is divisible to infinity (for it is continuous), so too in the case of things that will be. For neither are things that will be continuous with one another; for what will be [will have come to be] in something atomic, just as what has come to be; for it has come to be in time, but it ceases coming to be and has come to be in something atomic. So between these too there <must> be time divisible to infinity. And in the case of things that will be, and of the deductions about them, one must take immediate premisses as the starting-point; for it does not follow that, if there is time between all things that will be, there is already something that will be between things that will be, just as neither [is there] something that has come to be between things that have come to be. Or he said 'immediate starting-point' instead of 'some last thing that bounds the things that will be, from which there is the ascent to the things that will be before it'. Or 'immediate starting-point' is to be taken instead of 'some premiss without a middle term, which is the starting-point of the deduction'. And he shows that the sequence described holds in this way also in the case of works and things, both those that have already come to be and those that will be."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.87.1",
+   "text": "p. 95b38 And since we see among things that come to be a certain coming to be in a circle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.87.2",
+   "text": "Having said what position the cause has among causes in the strict sense, which he also called 'of the same kind', and what position among things that come to be successively, and having shown that what has been shown is borne out in the case of works too, since among works and among things that come to be there are also some <which> convert, so that not only does what came to be before it follow on the later, but also what comes after it follows on the first (for the coming to be of some things is in a circle), he speaks about these: which things can convert so as to become causes of one another, and in which cases coming to be in a circle occurs. And he shows that the cause of this is their being equal [in extension] and converting; for the words 'if the middle term and the extremes follow one another' indicate their being equal [in extension] and converting. For in the case of the house and the stones it does not convert; for it does not follow that, if the preparation of the stones follows on the coming to be of the house, the coming to be of the house also follows on the preparation of the stones. Nor does it in the case of causes of the same kind, as he said; for it does not follow that, if the screening by the earth is the cause of the eclipse, the eclipse is also the cause of the screening by the earth. And he says that circular proof and the conversion of causes occur in cases where the three terms of the deduction follow one another, being equal [in extension], and a different one is set down as middle term and cause at different times."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.88.1",
+   "text": "p. 96a8 Some things come to be universally; for it is always and in every case that something either is so or comes to be so."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.88.2",
+   "text": "Having shown, among things that come to be, in which cases the sequence is sound when it starts from the later things, and in which also from the first, as with things that come to be in a circle, he seems by these words to state the cause of the different sequences. For since some things that come to be come to be universally, which he explained by saying 'for it is always and in every case that something either is so or comes to be so' (for such is the universal), and others not always but for the most part (for most things that come to be by nature are of this sort), among things that come to be necessarily what comes after it follows also on the first, but no longer among contingent things; in their case the sound sequence is the one from the later things, as also in the case of all things that come to be by art. And for contingent conclusions in demonstrations the middle term too must be contingent; for if both premisses were universal, that is, necessary, the conclusion too would <necessarily> be necessary in any case; but it is supposed to be contingent. And just as in the other cases there are some immediate starting-points (deductive premisses) (for it is not possible for the middle terms of anything to be taken to infinity), so also in the case of contingent things and those that hold for the most part there will be some immediate premisses having as their starting-point that something is or comes to be for the most part."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.89.1",
+   "text": "p. 96a20 How, then, the 'what it is' is rendered into the terms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.89.2",
+   "text": "That is, it is taken in the terms from which the deduction is made; for he has said that it is taken as the middle term in demonstrations. Or [it stands] instead of 'into the definitions'; for definitions that differ from demonstration in arrangement also take the 'what it is' of the thing, that is, the being of the thing, by taking the cause of its existence."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.90.1",
+   "text": "p. 96a21 And in what way there is or is not demonstration or definition of it, has been stated earlier."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.90.2",
+   "text": "Of the 'what it was to be', clearly, as he himself has said earlier. For it has been shown that there is no demonstration of the 'what it is' simply, but that it is taken in demonstration and made known through demonstration. Nor is there a definition of it of the sort that says 'an account which shows what the name signifies'. But of the other senses of definition, the most proper definition was 'an account differing from demonstration in arrangement'; for by taking the cause of the existence of the thing it also in a way showed the being of the thing. And so too [the definition] as starting-point of demonstration and [the definition] as conclusion; for these too are in a way definitions of the 'what it was to be'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.91.1",
+   "text": "p. 96a22 How one must hunt for the things predicated in the 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.91.2",
+   "text": "He hands down to us a method by which we shall be able to hunt for and find the definition of each thing being investigated, since it is not possible to show it by demonstration. And since a definition is made from the things predicated in the 'what it is', that is, those in the substance, he says how we shall be able to take what is useful for the definitions of each thing. Of the things that belong to some things, some belong to certain things only, as being a starting-point to the unit and being without magnitude to the point, while others extend both to these and to other things, and more widely. And of those that extend more widely, some do not go beyond the genus of that of which we wish to take the things predicated in the 'what it is', while others extend also to things of a different genus; for animal and white do not belong in the same way to man. So of the things predicated universally, those which, though said more widely than the subject, do not extend more widely than its genus are taken as showing its substance and its 'what it was to be'. For of the things predicated more widely of something in this way, yet not going outside the genus in which that is of which the more widely predicated thing has been taken, if those are taken each of which is wider than the thing defined but all of which together belong to the thing defined alone and to all of it, these will show its substance. And the definition would be what produces something proper out of universal and common things."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.92.1",
+   "text": "p. 96a32 Such things, then, must be taken up to the point where so many are first taken."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.92.2",
+   "text": "First he shows that an account composed from the things predicated in the 'what it is' necessarily belongs to the subject, and second that it is also its definition. Instead of 'and the universals [are] necessary' one should read 'for the universals [are] necessary'; for he set down the universals' being necessary as the cause of the things predicated in the 'what it is' being necessary. For that the things predicated in the 'what it is' are predicated universally, being evident from its having been shown in the book before this (which he himself indicated by 'since it has been made clear to us in the earlier parts'), would be the [minor premiss], and the first premiss would be that universals are necessary. <This> too has been said in the first [book], and a little before he also said it thus: 'for this is the universal, what holds in every case and always'. And the conclusion that the things predicated in the 'what it is' are necessary would be drawn in the first figure through the universal as middle term."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.93.1",
+   "text": "p. 96b6 And that it is the substance is clear from the following."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.93.2",
+   "text": "Since it is not yet sufficient for being a definition that something be predicated in the 'what it is' and of necessity, and that this be those things, he shows that the account described is both substance and definition. For if it is not a definition but is predicated in the 'what it is', it would be a genus; for the proprium is not in the 'what it is', since it is an accident. If some name were assigned to this account, the genus would be named; but if it were not indicated by a name, it would be nameless. For some genera are nameless and are indicated by an account, such as 'land animal' or 'winged animal'; for these are genera, but nameless. For in general, when a genus with differentiae is predicated of something and is not its definition, the account described becomes its genus, and is predicated of several species and not of the triad alone; for genera extend more widely than their proper species, if not always in actuality, at least always in potentiality. But the things described belong to nothing other than individual triads; so the things described are the substance of the triad. For what is predicated of nothing else than the individuals under the species, and of all of them in such a way as to be predicated in the 'what it is', being assembled from the things predicated more widely in the 'what it is' of the species under which the individuals fall, this is the definition of the species predicated of the individuals. He used 'let it be supposed' instead of 'let it be laid down and agreed'; for he does not dispute about it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.94.1",
+   "text": "p. 96b10 If, then, it belongs to nothing else."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.94.2",
+   "text": "Having sketched the method of defining for atomic species, and having shown that the definition of every atomic species is an account assembled from such things as are predicated in the 'what it is' of the individuals under the species alone, and having confirmed that the account described is the definition of the thing in question from its being predicated of the individuals under that [species] alone, he now shows that the definition of genera too is found from the species under the genus, in which the genus has its being. For since there are definitions not only of atomic species but also of genera, how shall we be able to find the definitions of genera as well, of the genera whose definitions they are? He used 'first species' and 'atomic' side by side for the same things."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.95.1",
+   "text": "p. 96b15 One should, when one is dealing with some whole."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.95.2",
+   "text": "[He says] that we find the definition of the genus through the definitions of the first and atomic species under the genus, first taking its genus (for it has a genus, if indeed it is definable), and then whatever belongs in common in the definitions of its atomic species. For the things which are common to all the species under the genus, and belong to nothing else, complete the definition of their genus; for just as what is <common> in the 'what it is' to the individuals under the species alone is the definition of the species, so too the things which belong to all the atomic species under the genus alone, being predicated in their 'what it is', complete the substance of their genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.96.1",
+   "text": "p. 96b25 Divisions according to the differentiae."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.96.2",
+   "text": "Having said what a definition is and how it is possible to define, he next speaks about the method of division, and shows its usefulness for finding the definition, namely for taking the things predicated universally and per se more widely, from which, when assembled and put together, the proper substance of the thing in question is made clear; for from the division according to the differentiae of the genus, a species of which we seek to define, we shall take the things predicated in the 'what it is' of the thing in question. Divisions are useful, even if they show nothing deductively, for assembling from them the 'what it is' and the definition; for this is what he called 'deducing'. They are useful also for the order of the things taken in definitions and for leaving nothing out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.97.1",
+   "text": "p. 96b32 For if everything is from two [things], and 'tame animal' is some one thing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.97.2",
+   "text": "That is, if in the division everything taken from the division and put together with what was divided becomes some one thing and the genus of what follows it, and the division is made from this thing that comes from the combination, it is clear that the second division will always be into fewer things, and what is narrower will not come first before what is wider in the combination of the things taken. And since the differentia taken by itself does not seem to be predicated in the 'what it is', for this reason he said that, put together with what is being divided, it becomes some one thing and is thus predicated as in the 'what it is', by this one thing becoming the genus of what follows it and being divided again. Therefore division is useful in showing this order; for what is divided will always be taken before what comes from the division."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.98.1",
+   "text": "p. 96b34 Or whatever the thing that becomes one is, one must postulate it having divided. Further, for leaving out nothing of what is in the 'what it is'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.98.2",
+   "text": "Instead of 'one must first, having divided, postulate and take from the division what is predicated in the 'what it is' of the thing in question'; for he calls taking [something] not through demonstration 'postulating'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.99.1",
+   "text": "p. 96b36 For when the first genus is taken."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.99.2",
+   "text": "Having shown that division is useful for the order of each of the things taken in the definition, he says that division is useful also for nothing being left out of what ought to be taken and set down in the definition. For <if> the division is made according to the differentiae proper and proximate to each genus, nothing will be left out; and the differentiae proper and proximate to the genus being divided are those into which everything under the genus being divided falls; for if the differentiae proximate to it were not taken, many things would be left out. He showed by the example which differentiae are proper and proximate and which are not proper, on account of which some things are also left out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.100.1",
+   "text": "p. 97a2 And likewise for each of the others, both of the genera outside and of those under it, such as of bird, into which every bird [falls], and of fish, into which every fish [falls]. Proceeding in this way, then, it is possible [to know] that nothing has been left out."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.100.2",
+   "text": "'Genera outside' are either those higher and more common than animal itself, which he mentioned, or 'outside' are those different from and separate from animal and from substance, among which would be the things under the other categories. Or 'of those outside and of those under themselves' instead of 'of those not subordinate to one another but separate'; for bird and fish are such."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.101.1",
+   "text": "p. 97a5 Otherwise one must both leave [something] out and not know."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.101.2",
+   "text": "Whether it has been left out or not. Or: 'he can neither define nor have the knowledge that comes by definition'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.102.1",
+   "text": "p. 97a6 There is no need for one who defines and divides."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.102.2",
+   "text": "Eudemus says that this opinion is Speusippus', namely that it is impossible to define any of the things that are without knowing all the things that are. And since it seems to bring some plausibility, he sets it out. For the argument that claims to show this is as follows: one who defines something must know its difference from all the things that differ from it; for what something does not differ from, it is the same as, and what it differs from, it is other than. So one who defines something as differing from the others must know its differences by which it differs from the others; for one who does not know this will think both the same to be other and the other the same. And thus he will not render the proper substance of anything either; for, as it may happen, nothing prevents the account rendered from being common to some other things too. But it is impossible to know the difference of something from some things without knowing also those things from which the thing in question differs. So one who defines something must know all things, both this thing which the definer defines (for how could he define it [otherwise]?) and all the other things from which he defines it as being other. That the argument is not sound"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.103.1",
+   "text": "p. 97a11 First, then, this is false."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.103.2",
+   "text": "If something differs from something, it is not straightaway other than it; for what is other than something is not other according to every difference (for many things, though of the same species as one another, differ from one another), and it is not sound simply [to say] that things differing from one another are other, but 'in substance' must be added. For things differing in substance and by a species-making differentia are other, not those differing by any difference whatever; since in accidents too there are countless differences among things of the same species, but they are not on that account other than one another <; for if they were other than one another>, their accounts and substance would also be other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.104.1",
+   "text": "p. 97a14 Next, when he takes the opposites and what follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.104.2",
+   "text": "[He shows] that one who defines something and divides, making use of the method of division, need not know all things. For when in the division he takes the opposites according to the differentiae, and takes the opposites in such a way that everything under the divided genus falls in one or other of the members opposed in the division, and it is known in which of the two the thing sought is, he will take this, even if he does not know how many and what are the things under the opposed differentiae; for it is not from knowing how many and what the <rational and the> irrational things are that it is known that man is rational, but from knowing in what being rational consists. In the same way also with the other differentiae; for if, proceeding thus according to the division made into opposites, he comes to those things of which there is no longer a differentia (and such are the atomic species), it is clear that he will have a definition from the combination of the differentiae in which he took the thing sought to be, without knowing what and how many are the things under the opposed differentiae."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.105.1",
+   "text": "p. 97a19 And that everything falls into the division, if they are opposites."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.105.2",
+   "text": "For it is not from knowing all the kinds of animals that 'every animal is either rational or irrational' becomes known, but from knowing that there is nothing between these."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.106.1",
+   "text": "p. 97a21 For everything must be in one or the other."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.106.2",
+   "text": "He did not add this idly; for a division can have been made immediate but not proper to the genus proposed; for winged-with-undivided-wing and winged-with-split-wing, even if they are immediate in the case of winged animal, will not, when combined with animal, take in all animals, because they are not proper to animal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.107.1",
+   "text": "p. 97a23 For establishing a definition through divisions, and what follows."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.107.2",
+   "text": "Having said that the method of division is useful for giving definitions, even if not for deduction, he now says what one who wishes to establish a definition through divisions must take up and observe. By 'establish a definition' he did not mean to demonstrate [it]; for it is not possible to demonstrate a definition; for not everything that is established is also demonstrated. So by 'establish' he meant to find, put together and give [it]. He added 'through divisions'; for there are some definitions given not from division, such as those of the first genera; for it is not possible to give their accounts from division, if indeed they too are definitions. He says that those who establish and give definitions through division must aim at three things: first, to take the things predicated in the 'what it is' (these are the genus and the differentiae); second, their order, what is first and what second; third, that all these, combined, are a definition of the thing proposed, and that nothing is lacking and nothing is superfluous."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.108.1",
+   "text": "p. 97a35 That [it is] all these, is evident."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.108.2",
+   "text": "That all these, taken in such a way as to be predicated in the 'what it is', and ordered in such a way that the first follow those after them, are a definition of the thing proposed."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.109.1",
+   "text": "p. 97a37 And that of the last there is no longer a differentia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.109.2",
+   "text": "The first thing said fits only the atomic species; for these are no longer divided by differentiae, since they are undifferentiated in species. The second thing said is more general; for it fits not only the atomic species but also the definable genera. For even if there should be, as much as you like, some dividing differentia of the things taken and combined with the first genus, still, if what we wish to define and the account given are the same in species, we divide no further."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.110.1",
+   "text": "p. 97b2 For it would be either a genus or a differentia."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.110.2",
+   "text": "That neither of these is lacking, because everything has been taken according to the continuity of the division of the genera. For there was some first genus, and this, taken together with the differentiae down to the last, produced genera; for what is divided must be divided as a genus; therefore a genus is not lacking. But neither is any differentia; for all have been taken in order, so that we have passed over none. Nor indeed has any later one that ought to be added been omitted; for the thing defined and the definition would no longer be the same in species, if some differentia were lacking, but the account given would be of some genus of the thing defined, not of this very thing which we are defining. And the genus is other than its proper species and differs in species; for things whose definitions differ are other in species; but it was laid down by us that the account given does not differ at all in species from what we are defining."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.111.1",
+   "text": "p. 97b7 One must inquire by looking at."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.111.2",
+   "text": "Having spoken in between about the method of division and shown its usefulness for definitions, he returns to what was said earlier; this was that one must take the definition of the genus from the definition of the atomic species under the genus; for he said: \"for to those who combine [them] from the atomic [species], what follows from the definitions will be clear\". He joins this to those [words] and shows how, by using the manner stated before, we shall be able to recognize the definitions of common things and things that have the appearance of genera but are not genera. For there are some things which, because they have received some common name, seem to be of the same genus while being homonymous, as 'being' is a common name, but no longer a common thing; and similarly 'the good'. The one defining must not take any of these as a genus. So how we shall be able to guard against this he teaches through these [words], and how we shall find the definition of genera from the species. This he has already said above too; for the finding of definitions begins from below, as he describes."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.112.1",
+   "text": "p. 97b24 But if none, there would be two species of pride."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.112.2",
+   "text": "He said this not taking [them] as species of a genus (for thus pride too would be a genus having two species), but because 'pride' is homonymous."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.113.1",
+   "text": "p. 97b26 Every definition is always universal."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.113.2",
+   "text": "Having determined what accompanies definitions, he also says what those who define must aim at."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.114.1",
+   "text": "p. 97b28 Therefore one must pass from the particulars to the universals."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.114.2",
+   "text": "By 'particulars' he means not the individual and the truly atomic (he would be saying things in conflict with what was said before), but the atomic species; for this is the particular among definable things; for it is particular as definable, not simply. He himself showed this too by saying 'or in undifferentiated things'; for things no longer divided into species are undifferentiated with respect to differentiae in the strict sense. It is easier to define the atomic species, because the things of which it is predicated are more evident than the species of which the genus is predicated. And it was shown that the definition of what is predicated is gathered from the commonness and sameness of the subjects. So if the definitions of species are better known than those of genera, one must pass from the species to the definition of the genera in the way stated, not dividing from above but combining from below."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.115.1",
+   "text": "p. 97b29 For homonymies also escape notice more."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.115.2",
+   "text": "For because the things underlying the atomic species are more evident, homonymy in them is easy to recognize. So if those defining must guard against homonymies, and these are more easily guarded against in the species, for this reason too one must make the start of definitions from the species."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.116.1",
+   "text": "p. 97b31 Just as in demonstrations."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.116.2",
+   "text": "That just as in demonstrations deducing certainly comes first (for a demonstration cannot be non-deductive), so also in [definitions] there must be clarity; for an unclear account is not a definition, if indeed a definition professes to make the thing sought known."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.117.1",
+   "text": "p. 97b35 And so to proceed to the common."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.117.2",
+   "text": "That one must not try to give a definition of something homonymous. Besides this he says that it also contributes to clarity to give definitions through proper names and not use metaphors or figurative words; for such things, being able to fit many things, are causes of unclarity. By 'converse' he means to discourse dialectically."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.118.1",
+   "text": "p. 98a1 With a view to having the problems."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.118.2",
+   "text": "Through these [words] he hands down to us a method by which we shall be able to be well supplied for stating problems. To state problems is both to be able to put them forward and to give their causes, and it is in this sense that he himself now uses 'state', namely for stating the causes of the things sought, as he will also show as he proceeds; for he calls problems those in which the 'why' is sought [by] the method he hands down. † Or both are shown at once, both the finding of problems and the finding of the cause. He has many books of such problems. So how we shall be well supplied for giving the cause in things put forward, he describes; for what he now says is not about definitions, as some thought."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.119.1",
+   "text": "p. 98a13 Now, then, [we have spoken] according to the common names handed down."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.119.2",
+   "text": "He says that the selection stated before is useful for giving the cause in problems not only in the case of things having a common and single name predicated [of them], but also in those where the common [feature] is not one and the same, but has its sameness by analogy. For when things that are different and are in different [subjects] have the same analogy, all the things in which they are also become in a way common, not simply but by analogy. For there is not one common [feature] in things having cuttlebone, bone and fish-spine, as in things having horns there was the one [feature] 'horned', but the one is taken in their case by analogy; for the ratio that bone has in footed animals, fish-spine has in fishes and cuttlebone in cuttlefish; for each of them is a kind of support in each of the things in which it is."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.120.1",
+   "text": "p. 98a24 Some problems are the same by having the same middle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.120.2",
+   "text": "What sort of problems are the same: either those of which the cause and middle is the same, and this is either the same in genus alone or the same both in genus and in species; or those of which the cause is under the other cause, that is, the cause of the one is under the cause of the other. Next he also sets down the [sameness] by analogy. Through these he teaches us how we shall recognise all the problems that, though they are the same as one another, do not seem so because they are asked about different matter, so that, having become well supplied with the cause for one of them, we are able to speak likewise about the others too. Theophrastus also worked on the collection of similar problems. But he in those [works] records which of the problems are similar to one another; whereas Aristotle now teaches by what we shall judge problems that are the same as one another. He says, then, that they are the same as one another in two ways: either by having the same middle, for example that all are counter-displacement. In such problems the common middle is the counter-displacement of the hot, for example: why do we digest better in winter? Why do we breathe densely when asleep? Why are springs warmer in winter? For of all these the cause is the same, the counter-displacement of the hot, which is also the middle term. And again, of these problems that are the same through having the same middle, he makes a certain subdivision before stating the second way, according to which problems also become the same as one another; for of those having the same cause and middle, some are the same in genus but not in species, while others are the same in species in addition to genus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.121.1",
+   "text": "p. 98a35 One might raise a difficulty about the cause and that of which it is the cause."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.121.2",
+   "text": "He has already spoken about causes coexisting with what is caused; for he showed that the causes of things that are, are; of things that have come to be, have come to be; of things that will be, will be; and of things coming to be, are coming to be. Now he raises a difficulty of this sort about this very point: it is laid down and has been shown that the cause is the middle term in a demonstration; moreover this too is agreed, that if the middle is, it is wholly necessary that the conclusion also is, so that if the cause is, what is caused, which is the conclusion, must also be. With this laid down, he asks whether it converts, so that if what is caused, which was the conclusion, is, the cause too, which was the middle, is of necessity. The solution is that, if the cause posited and taken for it does not coexist with what is caused when it is, something else and not that would be its cause; for when what is caused is, there must be the cause through which it is; but if it does coexist, the proof will be circular, and the same thing will be at one time cause and at another what is caused."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.122.1",
+   "text": "p. 98b16 But if it is not possible for things to be causes of one another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.122.2",
+   "text": "That if it is not possible for things to be causes of one another (for the cause is prior to that of which it is the cause, if not in time, then in [nature]), and it is agreed that the cause of the moon's being eclipsed is the earth's being in the middle, whereas the eclipse is not the cause of the earth's being in the middle, and if the demonstration through the cause is of the 'why', while that not through the cause is of the 'that', it is clear that the other proof, the one that concludes the cause, does not come about through the cause; for that the earth is in the middle one knows through the eclipse, but why, not. So they are not demonstrated through one another; for demonstration is through a cause."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.122.3",
+   "text": "Having said this and resolved the difficulty that seemed to follow once it was laid down that the cause coexists with what is caused, he showed that he had taken it readily to assume that what is caused follows the cause, [and] that if the cause did not also follow and coexist with what is caused, there would be another cause of it and not the one laid down, <because> what is caused and the conclusion is upon some middle and is in every case. So what could have been brought against that proof, he puts forward and tries to state: or is it possible for there to be several causes of one thing? For if this is possible, it is not of necessity that the cause, upon whose positing [what is caused] followed, converts with what is caused. For what is caused converts in every case with some cause, but not in every case with this one through which it was shown, if it is possible for there to be several causes of the same thing. For with each of the causes taken as middle the conclusion and what is caused will follow of necessity, but not, if the conclusion and what is caused is, will this cause too already be of necessity, because there can also be another cause of it, if indeed there are several causes of the same thing. [Having raised the difficulty whether it is perhaps possible for there to be several causes of the same thing, he next sets down how it is possible for the same thing to belong to several things according to different causes, thereby showing and establishing that it is possible to say there are several causes of the same thing.]"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.123.1",
+   "text": "p. 98b19 If then the demonstration through the cause is of the 'why'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.123.2",
+   "text": "If that through which the being and the substance is known is a cause, while what is not so is not a cause, and of these the one is known through the other, but no longer the reverse, they would not be convertible as causes of one another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.124.1",
+   "text": "p. 98b23 Or is it possible for there to be several causes of one thing?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.124.2",
+   "text": "Having raised the difficulty whether it is perhaps possible for there to be several causes of the same thing, namely according to the same mode of cause, he sets down how the same thing can belong to several things according to several causes, thereby showing and establishing that it is possible to say there are several causes of the same thing; for if there are several causes of the same thing's belonging to several things, it is also possible for there to be several causes of the same thing. And he shows that it is not possible for the same thing to belong to the same thing through several causes. For refuting this he takes [the point] that the problem is always universal; for in problems one seeks the cause not of something's belonging to this individual, but of its belonging universally to these things and being able to belong. For he who seeks the cause of animal, insofar as it is animal, belonging to certain things seeks some common cause, according to which it belongs to all to which it belongs; for the cause and that of which it is the cause, that is, what is caused, must both belong universally to something, to which it belongs and to which it is able to belong. And for this reason it belongs first and per se to the common [item] and to the genus, if there is some genus alike of each of them, and then through the same cause to all its species too, <if there are> species in which what is caused and the cause and middle convert. Having shown that in all the cases where what is caused [is], the cause too [is], he did away with its being possible for there to be several causes of the same thing in the stated way. For if there were one cause of A's belonging to D, for example B, as he took it, and another again of A's belonging to E, for example C, the cause will not be predicated universally of those things of which A, which is what is caused, is predicated. And in this way what has been given will not even be the cause of what is sought in the problem."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.125.1",
+   "text": "p. 99a1 But is it possible for the cause not to be the same?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.125.2",
+   "text": "Having shown that it is not possible for the same thing to belong to the same thing through several causes (for that to which the universal belongs first, it belongs to through one cause; and that through which [it belongs] to this, through this it also [belongs] to each of the things under this), he now asks, about the example he put forward for the same thing's being able to belong to several things through different causes, how it stands and whether this is possible. For example, if animal is shown to belong to man through one middle and to eagle through another; for there will seem to be several causes of animal's belonging to the things it belongs to: for some the winged, for others the footed, for others the aquatic. Resolving this, then, and pointing out that 'cause' is twofold (for the cause of the conclusion is not in every case also the cause of the thing), showing this he says that if it has been demonstrated per se, that is, if the proof comes about through the cause which is the cause of the thing, the same cause must be taken in all cases in which the same thing is shown to belong. He set out the reason for this, which he has already shown, saying 'for the cause through which it is shown is a definition of the extreme that is predicated and belongs to the several things, and this is the middle term'; for such a cause belongs to the several things according to something common and the same. But if it is demonstrated not through the cause but through a sign, or through an accident taken as middle, it is possible for the same thing to be shown to belong to one thing through one [middle] and to another through another."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.126.1",
+   "text": "p. 99a2 Or, if it has been demonstrated per se and not by way of a sign."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.126.2",
+   "text": "The sign always accompanies the thing; but the accident can also <be> external [to it]."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.127.1",
+   "text": "p. 99a6 Otherwise the middle will be alike: if [they are] homonymous."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.127.2",
+   "text": "But if it is not demonstrated per se, nor through things that belong per se, the middle will be alike, in the way that the thing whose cause is sought is too. He added this because he had shown that the cause, the thing of which it is the cause, and that to which [it belongs] can be taken not per se but by accident or as a sign. Having said that such things do not seem to be problems, he added 'otherwise', in place of 'but if these too were investigated as problems', the middle will be alike: if what is caused is homonymous, the cause too will be of that kind; if [it is] as in a genus, the cause too [will be] of that kind; likewise also if [it is] by analogy."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.128.1",
+   "text": "p. 99a16 The cause's following on one another is like this."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.128.2",
+   "text": "He said 'the following on is like this' in place of 'it is like this concerning the following on'. And he has used 'follow on' in place of 'convert'. The construction of the phrase is this: the cause, that of which it is the cause, and that to which it is the cause follow on one another in this way. That to which it is the cause is the subject, and that of which it is the cause is what belongs to this. He says this about the causes in demonstrations. Having said in what preceded that the cause of the thing, and not the cause of the conclusion, and that of which it is the cause follow on one another, because the cause is a definition of what is caused (for he had already said this earlier, and will say it now too; he has used this to show that the same thing cannot be shown demonstratively to belong to several things through different causes), and having used also the fact that both the cause and what is caused are predicated universally of something, he now says when that of which both what is caused and the cause are predicated per se converts with them, with the cause and with what is caused; for [he says] the terms convert, in the cases where circular proof also comes about."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.129.1",
+   "text": "p. 99a18 For one taking each individually, that of which [it is] the cause."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.129.2",
+   "text": "That the cause, that of which it is the cause, and that to which it is the cause, which is the subject term, follow on one another and convert, [holds] not always; but if we take the subject term, of which we seek the cause of something's belonging to it, species by species, that whose belonging we seek the cause of will be wider; [but taking] the things to which the predicate belongs [all together], both the subject term and the predicate term will be equal [in extension], and the middle and cause will be alike. For as the predicate is related to the subject, so too is the cause; for the cause has been shown to be a definition of the predicate. By 'first middle' he means the cause proximate to the predicate, of which there is no further middle, which he also called the first extreme itself."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.130.1",
+   "text": "p. 99a21 The first middle is an account of the first extreme."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.130.2",
+   "text": "For this reason all the sciences too come about through definition; for all demonstrate the things that fall under them; and demonstrations are through the cause; and the cause is an account and definition of the first extreme; for they use the definitions of the first things for the demonstrations of what comes after them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.131.1",
+   "text": "p. 99a23 For example, shedding leaves follows the vine at the same time."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.131.2",
+   "text": "He teaches how the first middle is a definition of the first extreme, and why he added 'first' to 'middle'. For shedding leaves is shown to belong to all leaf-shedding things through two middles, both through being broad-leaved and through the moisture's congealing. The middle proximate to the subject is being broad-leaved, which he called the first middle in one direction; and [the one proximate] to the predicate, to shedding leaves, is the congealing of the moisture, which is also a definition of the predicate and first middle as being nearer the predication and being its cause and definition. But for one starting from below, from the subject, the first middle is what is common to all such things; this is being broad-leaved; for this shows what sort of things the leaf-shedding things are. And again, the middle between this common [item] and shedding leaves is the moisture's congealing, which is the cause and definition of shedding leaves."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.132.1",
+   "text": "p. 99a30 In the case of the figures he will render it thus."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.132.2",
+   "text": "He has spoken about the sequence of terms in demonstrations and about universal terms, in which the cause prior to the thing is taken, which was also a definition of what is predicated in the problem. And having shown which of the subjects convert with both the cause and what is caused, and which do not, he shows this same thing with terms and deductions, making what has been shown more knowable and more credible by setting out the terms."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.133.1",
+   "text": "p. 99a35 But all together they convert and extend beyond."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.133.2",
+   "text": "That is: for this is what I now call universal. For of what is predicated universally, one kind is equal [in extension], which also converts; and he called it 'first universal', with which the individual [species] do not convert, but all together do convert; and this is what is predicated not through some middle but primarily; the other kind is not equal, per se indeed, but not primarily, rather through a middle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.134.1",
+   "text": "p. 99a36 So A must extend more widely than B."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.134.2",
+   "text": "That is: but if A is predicated more widely than B, this [B] would no longer be its cause; for why this rather than something else, through which [A] is predicated both of D itself and of certain others besides those of which B is predicated? And how this is so he shows next."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.135.1",
+   "text": "p. 99a37 If, then, A belongs to all the E's."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.135.2",
+   "text": "What he says is this: if A belongs not only to all the D's, to which it was shown to belong through B, but also to the E's, all the E's will be other than B, that is, not under B; for B is predicated only of the D's. For if the E's do not fall outside B, A would no longer be taken more widely than both the E's and the D's, if the E's were the same as the D's, all being under B. He showed this by saying 'for otherwise, how will it be possible to say that A [belongs] to everything to which E [belongs], but E not to everything to which A [belongs]?' For in this way A becomes wider than E, if A [belongs] to every E but does not also convert; and this will be so if it <is> belonging to more things than B. For if [it belongs] only to those of which E is predicated, it will be equal to the things of which it is predicated, they being under B, so that E too [belongs] to every A. Likewise also in the case of D. Having said this and shown that E will not be under B, he adds: 'for why will there not be some cause, as [B was] of A to D?' This is equivalent to 'for why is there not some cause of A's belonging also to the E's, just as there was a cause of its belonging to the D's, namely B?' He says this explaining what he said and giving the reason for 'otherwise, why will this be the cause rather than that?' For if A also belongs to the E's, which are other than the D's, it will belong to these too through some cause. For he said 'as A to D' in place of 'of the kind as when A was shown to belong to the D's'; for it was shown to belong through B as middle. To which he added 'so the E's too will at the same time be some one thing'. So likewise the E's too will be some one thing, that is, there will be one thing under which [they fall] and which is predicated of all of them, as the D's were under B. If, then, the E's are under some one thing, let us in turn examine this. And if we find whatever that is <which> again is the cause of A's belonging to the E's, let this be C, which belongs to all the E's, and A to all of it."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.136.1",
+   "text": "p. 99b4 It is possible, then, for there to be several causes of the same thing."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.136.2",
+   "text": "Having shown that, when the predicate is said more widely, it is not impossible in a deduction for the same thing to be concluded, through several causes and middles, as belonging to things that differ in species, he adds that it is possible for there to be several causes of the same thing, but not for things that are the same in species; for substance belongs to animal through one cause and to stone through another. This is possible in the case of the causes of the conclusion in a deduction, about which he is now speaking; for he said 'if the deduction comes about through accidents and signs'. But in the case of demonstrations and deductions through the cause it was shown to be impossible; for such a cause was the definition of the predicate, which is the same also for things differing in species as the cause of the genus belonging to them; for animal belongs both to horse and to man, demonstratively, through the perceptive."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.137.1",
+   "text": "p. 99b5 Quadrupeds by not having bile."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.137.2",
+   "text": "So long-lived will be said in several ways. For things of whose belonging there are several causes are said in several ways, if indeed the cause is the definition of what is caused; for of that which has several causes there are also several accounts, not as indicating the same thing; and that which has several accounts in this way is among the things said in several ways."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.138.1",
+   "text": "p. 99b7 But if they do not come at once to the atomic."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.138.2",
+   "text": "For the middles are causes as in a deduction. In this way there will also be several deductions, and the middles will have the same order towards one another as the middle had towards the predicate when the conclusion was shown through one middle; for the higher of the middles and causes have the order of things predicated and can be said more widely, for example substance, ensouled, perceptive, footed, rational, man."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.139.1",
+   "text": "p. 99b9 Which of the middles is the cause: the one first towards the universal?"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.139.2",
+   "text": "That, of conclusions that have several middles, the nearest to each is the cause of the universal's belonging to it. For having said that where the middles are several the causes too are several, as many as the middles, he next inquires, of conclusions that have several middles, which is more their cause: the one first towards the universal, that is, towards the first predicated term, of which the first predicate, when taken, makes the first universal premise; or the one towards the last and subject, which he called atomic, being either truly atomic or an atomic species. 'For the particulars' he would say in place of 'of the first universal's belonging to the particulars'. He says that the nearest to each is the cause of the universal's belonging to it, and adds the reason: 'for of the first' (calling first what he called atomic and last subject) of this being under the first and universal term the middle proximate to it is the cause. For C is the cause for D of B's belonging to it, on account of which A too belongs to it. Hence C is the cause of A's belonging to D, for this is proximate to it; and again B of A's belonging to C, for again B is proximate to C. But A belongs to B no longer through another middle, if it should be a middle. For he said this by 'and to this [it belongs] in itself'; for if it is its definition, it would no longer belong to it through another middle."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.140.1",
+   "text": "p. 99b15 About deduction and demonstration, then."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.140.2",
+   "text": "He added 'demonstrative' to 'knowledge', since knowledge is more common and is predicated of other things too. He did not further mention separately the treatment of definition, about which too he has spoken in this [book], since it also contributes to the generation and constitution of demonstrations. For he speaks of definitions principally in Book Z of the Metaphysics; for the most authoritative demonstration, the one through the reason why, has been shown to come about through the definition of the predicated extreme."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.141.1",
+   "text": "p. 99b17 About the principles, how they become known."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.141.2",
+   "text": "He inquires about the demonstrative principles (these are the immediate and first premises), how they become known, since not through demonstration and deduction, and what state or capacity of the soul it is that knows them."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.142.1",
+   "text": "p. 99b32 It is necessary, then, to have some capacity."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.142.2",
+   "text": "Resolving the difficulty, he does <not> concede, as absurd, that we have knowledge of the principles from birth, and tries to say how we acquire it later. And since it is impossible for any learning to come about without some pre-existing knowledge, and it is also absurd that there should always be some principles of the principles more known than those after them, he says how, with some knowledge present in us, the knowledge of the principles arises later and this does not proceed to infinity. For it is necessary that we have some capacity pre-existing the knowledge of the principles, from which the knowledge of these comes about (for otherwise it is impossible), but that this is not such as will be more honourable than these by being more precise, as the knowledge of the principles of knowledge is more honourable than [the knowledge of the things] after it, the knowledge of which comes about through them. For a principle of that kind, through which something is shown, is more authoritative for knowledge and more precise than what becomes known through it; but a principle that is such as a kind of underlying capacity, having the role of matter towards what is constituted from it and upon it, is not more precise than what comes about and is constituted upon it, nor in this respect more honourable; for the incomplete is not more precise than the complete, since neither is matter [more precise] than form."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.143.1",
+   "text": "p. 99b39 In those in which it is possible, when they perceive, still to have [something] in the soul."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.143.2",
+   "text": "That <there are> those in which there is a capacity to preserve the percept and to have something in the soul after perceiving, after the perception; and there are those that are able also to preserve as some one thing in the soul what comes from the many, and that are likewise active in perception and rational. For in those in which there is greater cognition of the affection from perception, some acquire an account from the memory and persistence of several perceptibles, others do not. For according to the difference of the soul receiving the percept a proper structure arises from the memories derived from perceptibles. For from the percept and the persistence of what was actually perceived [come] memory and imagination. For imagination is a certain motion of the soul produced by what remains from perception; for the imaginative soul, attending to this residue, which is also called the object of imagination, as to a perceptible that is within, is somehow altered, as perception is by the perceptible that is outside. When it attends to it as to something previously seen and as to something like it, it remembers; and the state and the apprehension of it that comes about as of an image and likeness of it is memory. But if [it attends] not as to such a thing, and does not bring along with it that it is an image and likeness of what it previously perceived, such a thing is imagination, but no longer memory."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.144.1",
+   "text": "p. 100a6 And from experience, the universal having come to rest."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.144.2",
+   "text": "'The universal having come to rest' in place of 'it having remained the same and in the same way and been thought, and not having its transition as to many things but having remained as one thing in the soul'. What the universal is we shall explain: the one over all the particulars and many things, taken in the soul according to the likeness and sameness in them, this is the universal. This universal becomes the principle of art and knowledge. For experience is still unfixed; but the universal premise is fixed and stays the same, and from the likeness of the things that have come under perception and memory, and from the experience of these, it makes a like comprehension also of things similar to these that have not come into perception, as † [...] all of these too having [it] by the transition from like to like."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.144.3",
+   "text": "'Being about coming-to-be', that is, being about what is generated and made. What is made, not simply but made by us, is the principle of art."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.144.4",
+   "text": "'But if about what is'. Either he means knowledge about what is ungenerated and eternal and not in coming-to-be; for it was shown that knowledge and demonstrations are about eternal things. Or rather he would call 'what is' that of which the apprehension came about as of something that is, not as of something coming about through us; for the persistence of the universal from such a thing, out of memory and experience, is the principle of knowledge. For natural science too [is knowledge], although it is about moving things and about coming-to-be; for simply, art is about what comes about through us, which is why the principle of its being is in us, while knowledge is about things that do not come about through us but are."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.145.1",
+   "text": "p. 100a13 'And the soul is such as to be able to undergo this.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.145.2",
+   "text": "So too in the soul, which has the rational power, there occurs such a halt within it. For out of perceptibles flowing past and coming to be different at different times, memory arises, and experience from memory, and upon this a halt of the universal that rests upon this experience, then of another similar one, and so the advance from such halts and comprehensions [proceeds] to the universal and the principle. As for 'until it came to a principle', he said it either of the things thought and gathered together in the soul; for the joint perception and formation <of the> universal upon perceptibles, and the grasp of universals upon the first ones, is a grasp of the principle and of the first common thing. Or by 'principle' he meant, in the army too, the rallying and the order and the gathering and the drawing up in line of the whole army. And he says that the soul has a fitness and power for being able to preserve the affections from perceptibles."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.146.1",
+   "text": "p. 100a14 'What was said long ago.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.146.2",
+   "text": "When he said 'from experience, the universal having come to rest in the soul'."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.147.1",
+   "text": "p. 100a16 'For one perceives the particular.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.147.2",
+   "text": "He says that perception perceives what it perceives in the case of particulars; for perception is perceptive of things in particulars and atomic things; but the apprehension itself comes to be of the universal. Wishing to show how this comes about, he used as example man and Callias, not as though man qua man or Callias qua Callias were perceptible, but through these he makes known what he means. For as one who has a notion of man has the notion not as of Callias the man or of some one of the particulars, but of that which is predicated in common of all particular men, being in all of them, so sight, perceiving the white in snow, does not perceive it as white snow but as white; and this white is common to the snow and to all white things; for it sees the white in it, but not qua snow."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.148.1",
+   "text": "p. 100b2 'For example, such-and-such an animal.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.148.2",
+   "text": "What is said with some addition is divided, for example 'such-and-such an animal'; what is said without addition is partless, that is, not divided."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.149.1",
+   "text": "p. 100b5 'Since of the states concerned with thought.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.149.2",
+   "text": "[He shows] that the knowledge of principles is not the same as knowledge through demonstration, and that intellect is what knows the principles of knowledge; and that, the intellect in us being twofold, one theoretical and the other practical, and the practical being about things contingent and able to be otherwise, while the theoretical is about eternal things that are always alike, the powers of the practical intellect are the opinative and the calculative, and of the theoretical the intellective and the scientific; of which those of the practical are not always true, but those of the theoretical always. And [he shows] that opinion is supposition without demonstration, which is why it is also unstable, and calculation is often deceived because the matter it is about does not admit of exact knowledge; for it is about contingent things, which are also the objects of wishing. For the senses are true in another way, not by some combination; for this is proper to the rational soul."
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.150.1",
+   "text": "p. 100b15 'And the principle would be of the principle.'"
+  },
+  {
+   "ref": "urn:cts:greekLit:tlg9004.tlg001.opp-grc1.150.2",
+   "text": "Having said that intellect is the principle of knowledge, and that the objects of knowledge also have principles, the immediate premises, he now says that the principle of knowledge would be the cognition of the principle of the objects of knowledge, while knowledge as a whole [is cognition] of the whole object of knowledge; for as the principle is to the principle, so the whole, of which it is the principle, is to the whole matter whose principle the principle of knowledge was cognitive and contemplative of."
+  }
+ ]
+}

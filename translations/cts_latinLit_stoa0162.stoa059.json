@@ -1,0 +1,811 @@
+{
+ "work_urn": "urn:cts:latinLit:stoa0162.stoa059",
+ "edition_urn": "urn:cts:latinLit:stoa0162.stoa059.ai-claude",
+ "source_edition": "stoa0162.stoa059.opp-lat1",
+ "language": "eng",
+ "translator": "Claude (AI-generated)",
+ "model": "claude-opus-5-5",
+ "made": "2026-11-13",
+ "updated": "2026-11-25",
+ "whole_work": true,
+ "header": {
+  "title": "Regula Monachorum [Altera Editio]: AI translation (Claude)",
+  "author": "Jerome, Saint",
+  "publisher": "Classica Codex AI translations",
+  "date": "2026",
+  "source": "Translated by Claude (claude-opus-5-5, Anthropic) from the library's stoa0162.stoa059.opp-lat1, from Open Greek and Latin's Patrologia Latina (CC BY-SA 4.0), one English line for each line of the original. The whole work is translated. It was chosen because no English translation of it could be found.",
+  "statement": "An AI-generated translation of the whole work, checked against the original by a second AI only in samples. No specialist has reviewed it.",
+  "availability": "CC BY-SA 4.0, as its source requires: credit Open Greek and Latin's Patrologia Latina and this AI translation, and share adaptations under the same licence."
+ },
+ "notes": {
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.head": "The opening sentence of the Prologue is grammatically loose (accusatives 'corpus... senem' with no clear governing verb); rendered as an absolute description of the writer. 'Matth. v, 43' is the edition's reference; the quoted command corresponds to Matt. 22:37–39. 'Psal. CXXXII, 4' is given as 132:1, where the verse stands. 'scaLis' read as 'saeculi'. In 'si imus desit charitas' 'imus' read as 'vobis'. 'Ohrisiiatio' read as 'Christiano'. In 'quod primitus minando spoponderat' the sense (what he had first threatened) is kept literally.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab7": "Ch. 4 title reads 'Humanitate'; the chapter's content suggests 'Humilitate' (humility), translated so. In ch. 4 'nihil est clausum, quod est deditum' rendered causally ('because'). In ch. 5 'quam communi pravitate diaboli' is awkward; possibly 'communi' should go with 'diaboli suasione' or similar. 'Hiezi' is Gehazi (2 Kings 5). 'de majori praecipitio montis' (ch. 4) is obscure; rendered literally. In ch. 5 'sicut et Ule' read as 'sicut et illae/illa' ('as the other [rich] did').",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab13": "24: the long sentence is syntactically broken in the Latin (accusative and genitive constructions not resolved); rendered as nearly as the grammar allows. 25: 'si cujus voluntati pareretur, deesset' is obscure; taken as 'if there were lacking one whose will was obeyed'. 26: the Petrine quotations are 1 Pet. 2:17-19. 30: the reference 'Isai. XL, 9' should be Isa. 40:6. 35: 'stipulata' read as 'stimulata' (spurred); 'tumore' taken as pride (could be a misreading of 'timore', fear); 'ne- Ilexcrit' read as 'neglexerit'; 'anae' read as 'quae'.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.36": "Ch. X (ref 37): 'cernens' is singular but 'putarent' plural; probably read 'putarem' ('I thought'), rendered so. Ref 39: 'lucrem' read as 'lucrarer'; 'holy blows' presumably alludes to Jerome's dream of being scourged before Christ's tribunal. 'Dene' read as 'fere' ('almost'); the reading is uncertain. Ref 40: 'vi, detur' read as 'videtur', 'iidem' as 'fidem'. Ref 41: the sentence beginning 'Sed si forte quaerebatur' is incomplete in the text as transmitted. Ref 46: 'narratum tius' read as 'tutius' ('more securely'); 'benefici a- Mantur' read as 'benefici vocantur'.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab31": "48: 'quin multo gravius non descendat' has a redundant negative; translated in the evident sense. 50: 'Cum tempus exitii correptionem' is read as 'cum tempus exigit correptionem'. 'Praeposita' is rendered 'prioress' in 53 because it is distinguished from the abbess; it may simply mean the abbess as superior. 52: 'Huc' is read as 'Hoc'.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab39": "In 57 'hOe mo est' read as 'homo est', 'diverso...rum' as 'diversorum'. In 59 'Quod si memor conditionis humanae' is syntactically loose; rendered literally. In 60 the sentence 'Labia viri venena praebent... cum ardore libidinis' is ungrammatical as printed ('quam potens diabolus' perhaps for 'qua'); rendered approximately. In 61 'ex ruga' read as 'ex fuga' (flight). In 69 'loqui non doceat' read as 'non deceat'; 'ter aut pluries in hebdomada' (three or more days a week of total silence) is odd but rendered as printed. Psalm quotation in 60 is Ps. 119(120):2-4 in the Vulgate.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab47": "Several scanning errors read as evident (e.g. 'comortio marium' = consortio marium; 'servitrictim' = servitricum; 'contemplationi' = contemplationis; 'SUA. ostia' = sunt ostia; 'Alite' = filiae; 'pancta' taken as sancta). Line 80, last clause 'exire limites monasterii elle necesse potius mori' is corrupt; read roughly as 'esse necesse potius mori' (going out reckoned as equivalent to death); exact construction uncertain. Line 70: 'with it we bless and curse God' follows the text, though James 3:9 has 'bless God and curse men'.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.81": "Line 89: 'implorandorum' is odd; rendered as if 'implendorum' (of [offices] to be carried out). Line 86: 'gutta' taken as stacte (Ps. 44:9 Vulgate). Line 84: 'negotio perambulante in tenebris' follows Ps. 90:6 Vulgate.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab63": "Ch. 33: 'ne digeratur' is obscure (perhaps for 'ne dispergatur' or 'ne differatur'); rendered 'scattered'. 'Non ignoretur an fuerit ob soporem' is elliptical; sense supplied in brackets. 'sancta clausa' at the end of ch. 33 is unclear, possibly corrupt for 'sancta concio' or similar. Ch. 34: 'ebrient populo' read as 'poculo'. Ch. 31: 'stadium' kept as 'course'; may be a misreading of 'studium' ('zeal').",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab73": "Many scanning errors corrected silently (e.g. 'tentationem diaboii ,.it' read as 'tentationem diaboli vicit'; '.dalla' and 'in ulla' read as 'ancilla'; 'indiscretas' as 'indiscretionis'; 'iHeeebrisvatare' as 'illecebris vacare'). 104 'in quo est luxuria' echoes Eph 5:18. 108 'incisonibus inutilibus' is uncertain (perhaps 'useless gestures/cuttings at table'). 111 'Serpens morum' is obscure and possibly corrupt (perhaps for 'serpens mortis' or similar); translated literally. 112 'potiusquam ad delectationem paratam': 'for need' supplied. 113 'cedatque ignaviae et sopori velox excubitus' literally 'let swift watchfulness yield to sloth and sleep', which contradicts the sense; rendered by the evident meaning.",
+  "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.115": "In line 115 'inliciat' is read as 'inficiat' (taint). In line 116 'Hoc speculum aeternum, per hoc aenigmate' seems corrupt (compare 1 Cor. 13:12, 'per speculum in aenigmate'). It is rendered loosely, taking 'aeternum' with 'felicitatis'. 'legi' (to be read) may be corrupt. 'Haec omnia juvenum intersunt' is obscure."
+ },
+ "nodes": [
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.head",
+   "text": "RULE FOR NUNS."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab1",
+   "text": "Learned and upright men have judged it wholly unworthy to be attached to Jerome. Indeed there is nothing in it for which you could praise the diligence of the one who patched it together."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab2",
+   "text": "PROLOGUE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.1",
+   "text": "A body growing cool in its limbs, bending towards the earth from which it came, and an old man now with a wrinkled brow and almost a prodigy of nature: [this] your loving devotion, in the affection of charity, presses too hard, beloved daughters in the Lord and most holy ladies, virgins of Christ, Eustochium and the rest, united for the new marriage of the Lamb under the resolve of obedience, chastity, poverty and religion in the house of the Lord, that, forgetting for a little the trembling weakness of his old age, he should teach, in the present little book, by the office of the pen, a norm and rule for living to God, not to the world; to the spirit, not to the flesh; and, what is hard, not to oneself; a rule gathered from the life of Christ and of the apostles, and also from that of the holy fathers, the anchorites, whom I found, not without wonder and instruction, as I went round the caves of the deserts for seven years; a rule to be commended with praise worthy of observance and imitation; [teaching] minds ready for good, as his tongue long used to do with a voice not yet dead. O happy affection, O desire to be commended in the Lord: that, when the teacher's tongue fails through old age and the common end of the world, you fear a fall, which is ready for those who walk presumptuously and not fearfully in the way of God, in which as many adversities lie hidden as there are moments of time! Your piety asks that the rational and animal soul, always prone to evil from the beginning of youth, seeing the dangers painted out for it and the soothing remedies, may walk through safe places. O prudent counsel, that he should exchange voice for writing, and what passes easily for what will long remain! O just and holy exhortation, and most worthy of the favour of being granted!"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.2",
+   "text": "But, beloved daughters, even if what you ask of your father is just and holy, the father's age refuses it, insufficiency forbids it, though charity urges it. The eyes, flickering in darkness, are dazed; the hand, unsteady from nature's frenzy, shrinks from performing the tasks of youth. Yet the ardour of charity always urges that no labour be spared from which so great a fruit is gathered: a fruit which I would not think to pluck in you, who have been better taught by the Scriptures concerning the will of the Lord (to confess something of flattery, though it is true), were not this great labour drawn on for the instruction of other women who succeed you through the ages. Let charity therefore win this duel: charity which overcame the Invincible himself, so that the Immortal died for us. But this victory is hoped for in vain, in so great an impossibility of nature, unless the devout prayers of daughters are at hand: prayers which God has obeyed so much from of old that he even repented of what he had first promised in threatening, although he cannot repent."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab3",
+   "text": "CHAPTER ONE."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab4",
+   "text": "On keeping charity and unity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.3",
+   "text": "What the first manner and rule of living to God to be taken up by sisters established in a monastery should be, Christ alone, the founder and teacher of this way of life, instructs all in his answer to one man: 'If you will enter into life,' says that same master to the one asking this, 'keep the commandments.' And if perhaps it is asked what they are, he at once explained to the one inquiring: 'You shall love the Lord your God with all your heart, mind and strength, and more than yourself; and your neighbour as yourself' (Matt. 5:43). On these two precepts hangs whatever belongs to the law, and whatever the prophets and holy men have searched out."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.4",
+   "text": "And attend carefully, I beg, dearest ones, who not only long with all your affections to enter into life, the life which is truly life (for to those living in the world there is not life but death), but have already by God's help entered on the road; for without the precepts of charity no one enters on it to live to God. For this reason the apostle Paul does not glory in the tongues of angels and men, nor in knowledge of the mysteries of God, nor in the spirit of prophecy, nor in severities of the flesh, nor even in works of almsgiving, although piety avails for all things, provided charity is not lacking."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.5",
+   "text": "This alone, then, makes a person live to God; this makes religious, this makes monks. Without it monasteries are Tartarus and their inhabitants are demons. But with it they are a paradise on earth, and those dwelling in them are angels. And so, my beloved daughters, though long fasts waste you, a mean black garment disfigures you, and a long series of offices and works is woven: if charity is lacking in you, the lowest step of religion has not yet been reached. Therefore, dearest ones, here the road must begin towards the summit of apostolic perfection."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.6",
+   "text": "But since charity is relative, and love towards one person cannot properly be called fraternal love, it is therefore necessary that there be several who love one another mutually out of charity, so that it may be said, according to the prophet: 'It is good and pleasant for brothers to dwell in unity' (Ps. 132:1). Wisdom fully confirms this, saying: 'A brother who is helped by a brother is like a strong city' (Prov. 18:19). And again: 'If two are together, they will warm one another; but if one walks and falls, woe to him alone, for he has no one to lift him up' (Eccles. 4:10). Therefore the life of solitaries, which I have thoroughly experienced, is most dangerous and hard; and though good and very often near to God, it is not as secure as that of those living together in the bond of love and the affection of charity, who help one another when they fail through temptations, and render one another the services of piety and charity. But surely, if brothers or sisters do not dwell together in unity, it is no longer good but evil. Nothing divided is good."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.7",
+   "text": "Moreover, according to the philosophers, everything has as much goodness as it has of the unity belonging to its nature. And if each single thing in the whole fabric of the world was created good by itself, yet it is not best unless joined to the others. Therefore at the beginning of the world God saw that all that he had made was very good. So, dearest ones, in the apostolic life, as you are gathered in body out of the world, let there be one heart and one soul in the Lord, as we read of the apostles and of apostolic men themselves in their Acts: 'For the multitude of believers had one heart and one soul in the Lord.' Certainly no life is worse than to live together in body and not in mind. And truly unhappy are those in whom there is not one will but differing wills."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.8",
+   "text": "Let there always be among you, then, one affection, one will, one fellowship, one proportion of conduct, one joy, one sorrow: so that what pleases one does not displease another, and what one rejoices in does not grieve another. And so you will be able to hold to the resolve of religion, if you dwell of one mind in the house of God. This is truly the life of God, not of the devil; truly a monastery, not hell; truly the religious life, not a diabolical one."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab5",
+   "text": "CHAPTER II."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab6",
+   "text": "On not having anything of one's own."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.9",
+   "text": "Let there always appear before the eyes of your mind that example in the Gospel of that most foolish man, who lost his whole building, which he had made with the greatest effort, in its collapse, when the floods rushed in, the winds blew, and the rains poured down in deluge, because it was built on sand. Nor is this surprising, dearest ones; for nothing firm or stable can long remain on what moves. That fool builds on sand who, in the apostolic life and the resolve of religion, desires temporal riches. Here pay careful attention, daughters: here is all the danger, here destruction, here eternal death."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.10",
+   "text": "Those who have already renounced all they possess; who, leaving everything they had in the world, running together by vow to imitate the poor Christ, who had nowhere to lay his head, promised under the pledge of an oath not only to possess nothing temporal, nothing earthly except Christ alone, but not even to desire it, must not keep or seek what they have already given up. Hence Christ commands the apostles to carry neither purse, nor bag, nor money in their belts, so that the followers of their life may understand from this that it is not lawful to have anything of one's own in monasteries: certainly not a tunic, except what is worn of necessity; not a shoe, nor any other least thing."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.11",
+   "text": "Indeed, even if Christ and the apostles kept some things that were given to them, because of necessity, none of them individually was allowed to touch any of these as his own; but that worst of traitors and thief, carrying the money-box, bore everything in it as common to the whole company, and as common steward provided for the needs of each. And taught by this, the apostles and the faithful after Christ's ascension said that nothing at all was their own, but they had all things in common, and it was distributed to each as each had need. So you too, dearest daughters, even if it is lawful to have something temporal, such as food and clothing, which two things are fully sufficient for a Christian, let none of these belong to any one of you, but let whatever is common be distributed, as is fitting, even to each of the youngest little girls."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab7",
+   "text": "CHAPTER III."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab8",
+   "text": "On choosing sisters to receive and administer the goods of the monastery."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.12",
+   "text": "Therefore I adjure you all, each and every one, before God and Christ Jesus, who is to judge all, that gold and silver, and money that quickly passes away, may by no means lead your heart astray, so that any of you should attempt, with Ananias and Sapphira, to lie to the Holy Spirit, from whom nothing is hidden, by keeping back for herself anything temporal, however small, beyond what is worn of necessity; and not even this, except with the permission of the abbess."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.13",
+   "text": "May the terrible judgement of their death always strike fear into you. For we read that from their death great fear came upon the whole Church, and all who heard of it were afraid. The naked Jesus seeks naked friends and brides. If you should perhaps wish to follow him while craving or desiring something temporal, weighed down by the burden you will not be able to follow the naked one. Hence the poor in spirit are called blessed, so that from this it may be known that it is not enough to come to the poverty of the monastery by leaving all temporal things in the world, if the wretched mind craves what it has left. For the eyes of the Lord look more at the disposition than at the wealth. For it is better to pursue riches in the world along with the other rich, than as a poor woman in the monastery to crave them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.14",
+   "text": "For this reason I wish, urge and warn you, dearest ones, that this observance should remain perpetually in your monastery: namely, that no one at all should dare to touch, or in any way keep even for an hour, any money, or a penny, or anything however small, even if it is sent by a mother or a sister. Rather, let there be chosen, after the custom of the apostles, by the common vote of the abbess and the others, every year, or, if it seems fitting and useful, let there be confirmed, two or more of the sisters, of good report, full of the Holy Spirit and wisdom, on whom this task is to be laid: that they receive whatever revenues come, both of the house and of the individual sisters, and from these faithfully administer to the sisters what is necessary."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.15",
+   "text": "Let them also take care that neither grumbling from stinginess nor swelling pride from abundance find a place among the sisters; but, after the life of the apostles, let no more or less be given to anyone: let it be given according to what need requires, not desire, so that one is no longer in want and another in abundance, but each, from a fitting provision, is moved to the praise of God. Let those to whom this labour of piety has been entrusted make provision, moreover, that each month, or week, or day, they are ready to render account, item by item, both of what comes in and of what is spent, in chapter, before the abbess and the community of the sisters. Let this be done at least once a month, so that they themselves may not be suspected of theft among the sisters, and that no occasion of carrying out their charge badly may be given them through negligence."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab9",
+   "text": "CHAPTER IV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab10",
+   "text": "On keeping community and humility."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.16",
+   "text": "So, so, brides of God, bind fast Jesus the bridegroom with minds clean from the contagion of earthly things, since he suffers nothing earthly to be with him in his dwelling. So, so, apostolic women, throw away bags and purses, so that neither pouches hang from your side nor is there need of keys, so that it may be shown by these outward signs themselves that nothing is held within except Jesus; that nothing is locked up, because it is given over to the use of all. Double garments are forbidden you by the Gospel, so that you may learn to have only those things which merely relieve nature, and not those which feed moths. But if any are left over, let them be shut up in one place, so that from them any sister in need may be clothed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.17",
+   "text": "Let no costliness in clothing, no superiority, ever display one as mistress and another as servant; but let there be equality in all things among those who, wedded to one bridegroom, have professed by a common vow. Let not the king's daughter, I beg, seek to stand above the knight's daughter by earthly pomp in the fellowship of Christ and the apostles. For the noble Bartholomew is not set by Christ before Peter, a fisherman; rather, to the fisherman the primacy of the monarchy of the whole world is handed over. The spiritual life does not need dignities of the flesh, and Christ does not seek pledges of the flesh in his marriage. In the world let kings' daughters marry their equals, let knights' daughters seek pre-eminence and honours. But in the monastery, forgetting their people and their father's house, let them seek glory in the Lord alone, and let them rejoice in this, that they have been taken from the greater precipice of the mountain to the apostolic life."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.18",
+   "text": "For this reason I admonish you, daughters, that whatever duties of the house are laid on you by the mother of the monastery, you fulfil with a willing mind: for God loves a cheerful giver (2 Cor. 9:7). Nor let the noble be ashamed of lowly [tasks], nor refuse them, but let them hear the wise man: The greater you are, humble yourself in all things. Let them hear also what Christ laid down to the apostles at the Last Supper, when with human mind they were disputing about such pomp: The kings of the nations lord it over them, and those who have power over them are called benefactors. But not so with you: but let whoever is greater among you become as the lesser, and whoever leads, as one who serves (Luke 22:25). But so that the teaching of the teacher might not be cheapened by contrary practice, he at once adds, concluding with a comparison and a question: For who is greater, the one who reclines at table, or the one who serves? Is it not the one who reclines? But I am in your midst as one who serves (ibid., 27). Let most vile dung, then, and a vapour appearing for a little while, blush to exalt itself with human mind, and, refusing the duties of the house, to wish to be served by the other sisters. For Christ, whose generation who can declare, came not to be served but to serve. And at the Last Supper, washing the disciples' feet, he left to his own this example of humility."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab11",
+   "text": "CHAPTER V."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab12",
+   "text": "On avoiding simony in receiving sisters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.19",
+   "text": "Let your community shudder even to hear of the detestable heresy of simony, which nuns, by the common depravity of the devil, are accustomed to commit. Let the punishment of Gehazi and the depravity of Simon terrify you. Let the word of Peter, the vicar of Christ, to Simon never leave your ears: May your money perish with you. For you think the gift of God is obtained with money. The gift of God is the Holy Spirit (Acts 8:20). It is the common practice of merchants that a sale is exchanged for something better. So the simoniac asserts that money is worth more than the gift of God, since he exchanges the one for it. Receive the sisters who come to you to the holy marriage of Christ freely; let holiness be put before money; let goodness of life be sought, not nobility of flesh, not worldly advantage. Let no agreement at all, no expectation that troubles purity of mind, come beforehand. Wisdom proclaims blessed the one who shakes his hand free of every gift, and who has not gone after gold, nor hopes in money, which subverts judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.20",
+   "text": "If any [woman] wishes to supply the sisters' want from her abundance, let her, after the apostolic custom, lay everything she has in the world at the sisters' feet; and, renouncing all that she had in the world when about to enter, let her become as one of the least; and, ownership being taken away together with attachment, let everything brought be handed to the chosen administrators of the house, so that from it they may distribute as each has need. Nor indeed let her who gave her own goods to the monastery grumble if she is not provided for at greater expense than the others who came from poverty. Nor let her be puffed up and, with neck raised in womanly fashion, reproach the others that she brought so much from her own means; for the poor little sister brought more, if on entering she gave up the desire to possess, than she who, bringing many gifts, brought pride. Let her rather glory that riches, which are wont to hurl their possessors into death, did not prevail against her, and that things which in common use are evil have become good for her through the relief of the sisters. Otherwise it would have been better for her to be damned with a small punishment, remaining in the world with her riches, than, leaving them to the monastery, with pride arising, to be led down to hell with a greater punishment."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.21",
+   "text": "Let the poor also be humbled, who because of their poverty could contribute nothing to the support of the house, as the other did. And let them render thanks to God in humility that they, who before could not live in the world, have from the labours of others what suffices them, just as the rich do. It is indeed a wonder, the unhappy condition of many people. For there are some, vile and abject in the world, who, straining themselves beyond their strength with daily labours to get the meanest food, are barely filled with beans and turnips and coarse barley bread. But when they come to Christ's table and take up the warfare of Christ, forgetting their need, they seek finer fare than knights who are accustomed to splendid things."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.22",
+   "text": "Let all these things, then, have no place in the life of Christ and the apostles. Let all be content with what is provided, lest they perish through grumbling. If the administrators give to them abundantly, let them indeed receive what nature needs; let them not exceed the limits of necessity. But if [they give] little, let her learn with the Apostle to serve the Lord in hunger and in thirst, and in want of clothing and in cold, so that, taking up the cross, she may walk after Christ, denying herself."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab13",
+   "text": "CHAPTER VI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab14",
+   "text": "On the obedience to be shown to superiors."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.24",
+   "text": "I want you, dead to the world, to vices and to desires, to crucify the flesh with Christ; and [I want] those who have already begun to castrate themselves by their own vow under the resolve of perpetual virginity and chastity to be buried with Christ in the monastery as in the hardness of stone; and, according to the decree of Peter, the highest pontiff after Christ, who holds from the Lord the primacy of binding and loosing, [you who are] to be raised in glory with Christ, let your resolve be so strengthened by devotion that faith and hope may be wholly in God. Let them chasten their souls in the obedience of charity and of sisterhood, loving one another more attentively with simple love and heart."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.25",
+   "text": "Nothing, I think, is more foolish, nothing more intolerable, than for pilgrims and strangers to give orders to citizens, and in an unfamiliar place to set themselves up as guide of the journey, and to want to teach, as their whim pleases, about the paths, the safety of the journey and the shortness of the track. Indeed a monster would be shown to sailors, and certainly the harbour would never be reached, if every oarsman ordered the steering and governing of the ship as he wished. No city, no kingdom, not the smallest little house in the countryside would last long if there were lacking one whose will was obeyed."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.26",
+   "text": "For this reason Pope Peter himself, who wished to instruct the life of apostolic religion as he had learned from his Master, sets it out more plainly, so that it may be better understood how the soul is chastened in the obedience of charity and in love of the brotherhood: Honour all, he says, love the brotherhood, fear God, honour the king (1 Peter 2:17). And lest the shield of excuse be snatched up under the particular name of a pre-eminent dignity, he adds generally for all: Servants, he says, be subject to your masters in all fear (ibid., 18). And lest the wickedness of the superior be brought forward, which often gives subjects the occasion of a great fall: Not only, he says, to the good and gentle, but also to the froward. But lest it perhaps seem hard to the human will to deny itself and take up the cross, he sets forth the merit of obedience, by which all labour, even heavy, grows sweet. This, he says, is grace. O happy and abundant grace! In obedience the sum of the virtues is enclosed. For with a simple step it leads a person to Christ; and not only is the mind excused from rendering account to God for subjects, but it is not even bound to render [account] for itself. O highest freedom, which once obtained, a person can scarcely sin!"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab15",
+   "text": "CHAPTER VII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab16",
+   "text": "On the governance of the abbess."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.27",
+   "text": "Consider carefully, my dearest lady Eustochium, how heavy a burden is laid on your shoulders, you who are bound to render account before the divine judgement for the souls of your subjects, for their bodies, their words, their conduct. Beware, I beg, lest even a slight suspicion of evil arise about you, lest you scatter those whom you strive to lead out. Set before the sisters commands so ordered, so conformed to reason, that even depraved and proud minds may be encouraged onto the paths of obedience. Let your speech be so sweet, so gentle, that it does not stir up the fury of harshness but breaks it once it has arisen. Towards the disobedient let your spirit be so manly and steadfast that all womanly softness departs from the midst."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.28",
+   "text": "Let thorns be cut out at the very beginning of their growth, lest, growing too large, they choke the sprouts of the seeds. For nothing is more dangerous in a ruler than empty humility in correcting proud and insolent subjects. When a difficult matter is to be handled, always listen eagerly to the wishes of each sister; yet do not rely on anyone's wish. But if anything useful is put forward, let no regard be paid to the person who put it forward. For God has chosen the weak things of the world to confound all the strong (1 Cor. 1:27). In managing common affairs, do not seek out and hold to your own will alone, unless the greater part of your discerning daughters approve it by common consent. It belongs to proud and senseless minds to use only their own counsel. Let no one's will be heard in murmured words and in a hidden place, but let it be permitted to speak and to hear openly, with all present, in all charity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.29",
+   "text": "If the greater part of the sisters disagrees with your own idea, do not wish to oppose everyone alone. In the things to be carried out, let fury, hatred, envy or mockery depart so completely that nothing but peace, charity, love and mutual forbearance is known, so that the Holy Spirit alone, the author of what is to be done, may inspire better things. Among you whom charity unites, let there be no womanish misbehaviour, so that the air resounds on every side with cackling and voices and the ears of the hearers are frightened by the din; but standing with all modesty, while one speaks let the rest be silent. Nor let one interrupt another out of eagerness to speak and put obstacles in the way of the speaker."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab17",
+   "text": "CHAPTER VIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab18",
+   "text": "On reverence and submission towards the abbess."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.30",
+   "text": "For this reason I exhort, admonish and beg you, dearest and most beloved daughters, who are now dead and buried with Christ, who, having now despised the flesh with its glory, knowing that all flesh is grass and its glory the flower of grass (Isa. 40:9), have been reborn to newness of life of the spirit, not of corruptible seed but of incorruptible, through the word of God who lives and abides for ever: that as pilgrims and strangers you abstain from all carnal desires, which war against the soul, submitting yourselves in all obedience, fear and reverence to the mother set over you, so that no one may now will or refuse anything at all except what the abbess of the house has commanded to be done. Let nothing seem heavy, nothing unbearable, if it does not agree with one's own will by command. One who is truly obedient, and who for Christ is without all choice of will, knows nothing difficult, nothing unjust."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.31",
+   "text": "Remember, dearest ones, that on entering your religion you gave up to Christ all licence of willing and refusing, except what those who act in his place should ordain concerning you. For you obey Christ most firmly when you are eager to obey the mother set over you. For then you are more pleasing to Christ the bridegroom, to whom, betrothed, you vowed all your faith, besides whom you swore in the betrothal to admit no other lover thereafter, and you sooner deserve to be led to the bridal chamber, to be bound in sweet embraces with all delight, when you have been eager to obey his commands in his vicar. For the honour of the vicar redounds to God. So the law of marriage commands, that the bride be under the law of the bridegroom. Always emulate one another with this godly emulation: let one strive in rivalry to surpass another in obedience. There is therefore no monastery, no religious, no monks, where subjects lack obedience towards the superior. The body is exposed to destruction when the members are at odds with the head."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab19",
+   "text": "CHAPTER IX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab20",
+   "text": "On correction to be made and the general accusation of faults on Friday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.33",
+   "text": "The stubborn, presumptuous and proud woman in your holy company, who disdains to be subject, and by her quarrels and wrangling gives scandal to the peace of the sisters and shows them an example of disobedience, is to be chastened with hard and frequent fasts when she resists the commands laid on her. If fasts do not chasten her pride, let her be tamed with beatings, rebukes and heavy disciplines, so that she may now learn with Peter that unless she obeys the superior, or rather Christ in her, she will have no part with Christ in the kingdom of Christ and of God, even if the things imposed seem strange and not consonant with reason. But if, with untamed pride, she will not be eager to obey, let her be expelled with the apostate angels, since she will have no part in the kingdom."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.34",
+   "text": "O unhappy pride of life, that to fulfil the pleasures of the flesh she should renounce the inheritance of heaven, which she would have attained through Christ! She does not yet live to God, she has not yet reached the path of religion and the marriage of Christ, who is not made so simple and pure that whatever is commanded her through the mother set over her she thinks sent from an angel's mouth. Then let each think herself more blessed than the others, when she is put before the rest in labours."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.35",
+   "text": "Let no sister be ashamed, every week on Friday, the day on which the Saviour bore reproaches and death for man at the hands of man, to examine her life before the whole assembly of the sisters, and to accuse herself with her own mouth of what she has committed against the precepts and the rule, and to undergo discipline, so that the mind, spurred by the goad of accusation and words, may beware of committing what deserves accusation and shame. Yet on this account let not the hidden thoughts of hearts be disclosed, nor hidden sins, which ought to be confessed to priests alone, but only those which go against public precepts and give the sisters examples of sinning. But if, through pride or shame, she neglects to accuse herself, let anyone be permitted to make known such a fault of another, so that disobedience and pride may in no way take roots in your holy little garden not easily pulled up. But if anyone, after the manner of women, who know how to keep nothing hidden but rather blurt it out in chatter before they know it, has revealed anything of these matters outside the bounds of the convent, let her undergo a most severe penalty, so that the lesson of silence may be taught by the penalty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab21",
+   "text": "CHAPTER X."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab22",
+   "text": "On the wonderful life of the holy Fathers whom he found in the desert."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.36",
+   "text": "I will tell you certain things about some most holy men, things no less to be imitated in deeds than to be heard, so that the examples of good men may teach your minds the humility of obedience (without which, in the building of the spiritual edifice, whatever is built on the foundation of the virtues is vain), and so that frequent remembrance of the deeds of the saints may instruct you in the religion and virtue of life. While, then, for seven years I travelled and visited the holy Fathers dwelling in the caves of the deserts, who stood there on earth like angels in heaven, with unceasing labour of journeying, with hard discomforts of living, and with countless other calamities, I put together a little book about their life and wonderful ways, which I myself plainly saw, to be for you like a lamp on a lampstand for meditation on religion and life. Nothing was sought by the monks so dearly or so eagerly as that whoever gave a command might find [obedience] in them."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.37",
+   "text": "Truly I will not keep silent about the great charity and the great humility which those holy minds had, so that, seeing this, forgetting all the labour and heaviness of the journey, [I] thought the deserts, so hateful and unwelcome to human nature, almost turned into paradises. Wonderful to hear, but blessed to obtain: charity had so transformed the hearts of these holy men into godlike creatures that the flesh almost did not know the flesh, although it is said through John that whatever is in the world is either the lust of the eyes, or the lust of the flesh, or the pride of life. For these simple and humble hearts so leaned upon the footsteps of obedience and humility that the opinion of certain philosophers, who posit a single soul in all men, seemed to be made true in them. For the abbots and fathers knew how to will nothing at all except what their subjects [willed]; and the subjects tried to fulfil commands before they were given, [and] by certain signs strove in a way to prophesy the will of the one commanding."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab23",
+   "text": "CHAPTER XI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab24",
+   "text": "On the vanity of worldly knowledge."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.39",
+   "text": "O holy folly, which merits to carry men born to labours in the world, snatched from punishments, across to glory! This most learned folly Plato did not learn at Athens, nor Aristotle, nor Anaxagoras, nor did the crowd of the other foolish wise men of the world grasp it. Nor indeed did I, wretched Jerome, imitator of the foolish wise, before I gained the holy blows. And yet, to uncover my miseries, before I reached the twentieth year of my age the city of Rome had chosen me as the highest master in almost all the liberal arts. I had not yet entered the schools of the Holy Spirit; being still half-blind, I could not yet attain to the teaching of holy truth. Neither the Academy nor indeed the schools of Rome resounded with this learned folly which the holy desert holds."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.40",
+   "text": "But not without labour, Plato, did you learn your foolish wisdom, you whom the world could not hold as you pursued the wisdom of the world, travelling through the regions of diverse nations and peoples and lands with endless hardships and countless labours. Yet you could not find in the whole world the end of your most foolish wisdom, which is the highest good, toward which the bent of nature moved you; which these holy rustics, fleeing that [wisdom], found hiding in the deserts. Pay attention you too, Aristotle, prince of the foolish wise: even though you were, without doubt, a prodigy and a great wonder in all nature, into whom seems to have been poured almost whatever the human race is naturally capable of; for the wisdom of the world is foolishness with God (1 Cor. 3), if charity does not form it, if the intellect is not taken captive to faith, if the heart is not bent to the service of Christ, who is to the Jews a stumbling block, to pagans foolishness, but to us who believe honour and glory; in whom alone the Apostle glories, saying: Let him who glories, glory in the Lord (1 Cor. 1)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab25",
+   "text": "CHAPTER XII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab26",
+   "text": "On readiness in fulfilling commands."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.41",
+   "text": "Nothing is more honourable, nothing more glorious, dearest ones, than the service of Christ. This surely is to be preferred to the summit of emperors, to royal dignity, to any glory of the world. In this service of Christ one of the monks I saw in the desert, learned among the rest, at the command of the elder father, desiring to increase the fruit of his charity and humility and to hand on to other young men a rule of obeying, carried on his shoulders twice every day for three miles a very large stone, without doubt heavy for men's shoulders, compelled by no other necessity; and this he had already done for eight years. But if perhaps it was asked what was turning in his mind, since this perhaps seems to our proud mind, which has not yet come to the perfection of this holy folly, strange, a children's game, and a work of idleness—"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.42",
+   "text": "I call God to witness that, when I questioned him carefully, such simplicity and humility was found in him that from then on I began to lead the monastic life. For he performed so unusual a work on successive days so devoutly, so eagerly, so cheerfully, that after finishing it he seemed to himself to have won all glory. Indeed, far from content with the fatigue of this work, he almost pestered the father to impose new labours in the meantime, works to be accomplished by him. Why do I wander through particulars? There is no need to set out whatever is constantly practised by the monks in similar things. This one point of observance is foremost among them all, and celebrated throughout Egypt: that they accept no one except one obedient and humble for performing all labours and works, so that the flesh, tamed by heaviness, may not through idleness give itself to vain thoughts and pleasures. Hold most firmly that idleness is the mother of all lust, impurity and sin."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab27",
+   "text": "CHAPTER XIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab28",
+   "text": "On the works the sisters are to do."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.44",
+   "text": "Learn daily in the monasteries, daughters, this holy stupidity and stupid wisdom which the holy rustics in the desert teach you. Do not seek to know subtle and lofty things, but leave them to the proud and puffed-up of the world, so that after [life] is over they may begin to know that the letter kills, the spirit gives life, and that God has chosen the despised and the weak. Enter this school often; on every day and every night learn a new lesson from these things. Let not idleness, nor torpor and sloth, make you lukewarm and cold toward the service of God. Let the body, always wearied by the offices, or prayers, or holy works of the hands, and other labours, seek rest and refreshment, not pleasure. But beware above all that no work of vanity be handled in your hands: he is reckoned unclean who has touched anything unclean, or a carcass. No gilded purses, no girdles, not even gloves, all of which wanton and proud minds long for. Let a heart dedicated to God shudder to know such things; but let either sacred books, in reading or writing, weigh on your knees, or let the tending of gardens be practised, or some other holy and useful work, so that the spirit, refreshed by a certain relaxation, may be kindled more strongly to divine ardour."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.45",
+   "text": "Imitate those deeds of the saints that you read which are suited to your resolve: be willing to imitate what you praise, and to follow what you desire. Keep your conduct good among the gentiles, so that by the fragrance of the fame of your holiness even the hearts of the wicked may be moved to holy desires; and that, wherein depraved gentiles disparage you as evildoers, they may glorify God from your good works. For this is the will of God, that you make the ignorance of foolish men fall silent."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab29",
+   "text": "CHAPTER XIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab30",
+   "text": "On the office and power of the abbess."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.46",
+   "text": "Beware, I beg, whoever you are who are set above, lest through the office of ruling you be lifted on high so as to command unlawful things, and things burdensome or unbearable and disquieting to your subjects, lest that prophetic word fit you: What is it, Israel, that you are in the land of your enemies? You have grown old in a foreign land; you are defiled with the dead; you are counted with those who are in hell! You have forsaken the fountain of wisdom; for if you had walked in the way of God, you would surely have dwelt in peace upon the earth (Bar. 3). For they do not walk in the way of God who in the administration of rule seek honours and advantages for themselves. Turn over often in the secret of your mind, and write with a pen of iron on the flint of your heart, what the Lord, whose place you hold toward your subjects, taught the apostles when they disputed which of them was greater, on the day before he was to depart from them; and though it was said above, yet let it, told again, be held more securely in your heart: The kings of the gentiles lord it over them, and those who have power over them are called benefactors. But you not so; rather let him who is greater among you become as the lesser, and let the leader be as one who serves (Luke 22)."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.47",
+   "text": "Learn, therefore, from the master the office enjoined on you, lest in your vicarship you exceed the limits of the power handed to you. You will certainly not be made a mistress, but a servant: for there is one Lord. And if the other sisters obey you as Christ's administrator and vicar, power has not therefore been given to you to raise up this one among the sisters and daughters and press down that one as you please. But search diligently what is enjoined on you by the founder of the rule. For the care of all the monastery's affairs and of the sisters is handed to you in administration and providence, so that, while the others are asleep, it may teach you to spend many nights sleepless, and, though old, to take on the spirit of a younger woman in providing useful and necessary things for the house. Thus not so much honour as a burden is laid on you. And if you do as is fitting, you will obtain a much greater reward."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab31",
+   "text": "CHAPTER XV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab32",
+   "text": "On the danger of pre-eminence and dignity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.48",
+   "text": "Do not, I beg you, flatter yourself on the mercy of the Lord, who so long and so mercifully bears with sinners in their sins. For even if the waiting is long, the punishment is no less to be feared; it is all the harsher the longer the time that went before in bearing with them. Therefore, if you act otherwise than you ought, dread the danger, and no less so if you do not at once incur divine judgement. For your Lord, who made you administrator over his sheep and set you in his vineyard, means to demand of you an account of every single thing, even hidden things. And if you have cheated him in anything, he then orders you to be sold to the devil and put in the prison of outer hell, where there is weeping in turn and gnashing of teeth, so that whatever pain and punishment can be devised is inflicted in these, until you have repaid the whole debt. But if perhaps you trust that you can repay the debt, how foolish you are! For even for the least fault all men together have nothing with which to make repayment, unless the very one to whom repayment is owed is willing to remit it. Thus those who are under others are happier and safer than those who are over them, and those who are served rather than those who serve. And yet the proud mind of men, blind to the danger, always seeks to ascend to greater dignities, and is not frightened by the descent until after the fact; for the higher the ascent, the harder the descent. But perhaps you think the descent is rare. Yet, taught most surely by experiences, and not a few, I will say it: rarely does a man ascend the steps of dignity without descending far more heavily. But even if I digress from my purpose, I do not wish this little work to pass over a certain example, which I learned as true from a holy old man who told it to me in the desert."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.49",
+   "text": "When a certain young man, holy in resolve and way of life, had been elected to the height of the episcopate, than which nothing graver or more dangerous can be conceived, he went, not without caution, to his uncle, a truly holy man and full of prophecy, in a cell in the desert, to consult him about this. Having heard his nephew's account, the holy man answered his questioner not in words but rather in signs, so that he would neither go against the Apostle, who praises one who desires the episcopate as desiring a good work, by dissuading him, nor expose the young man to danger by persuading him. So the old man ordered the young man to climb onto a square board raised high off the ground on legs, and to roll himself over on his back four times along the four sides of the board, up to the point of falling; and so, when a fall was imminent if another roll followed, he ordered him to roll himself once more off the top of the board. When the nephew answered that he could not, for fear of falling, he at once made him come down and roll for a long while across a wide flat place. And when both had grown weary of the many rollings, the old man said: Get up, and go where you will; do what seems safer to you. The young man went away indignant, and, thinking it his uncle's madness, told what had happened to another holy old man; taught by him about the danger of pre-eminence, he renounced the election, so as to keep to what is safe. Not long after, departing from the world by a happy death, he appeared to his uncle cheerful and joyful. I give you thanks, father, he said, for dissuading me from the episcopate. For know that I would now be of the number of the damned if I had been of the number of the bishops."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab33",
+   "text": "CHAPTER XVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab34",
+   "text": "On the order in the works of the abbess."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.50",
+   "text": "I have said these things, my lady Eustochium, so that you may notice how great a danger you are exposed to, and with how much prudence you must walk in the way of God, lest, having left the paths of justice, you be captured by enemies, of whom all things are full, and, led into a foreign land, defiled with the dead, you be wretchedly counted with those who are in hell. I want you to learn where wisdom is, where strength, where prudence is, where length of life and sustenance is, where the light of the eyes and peace are, so that you may understand the way of discipline, and lead those subject to you along the way of peace and discipline. Let your daughters mourn you when you die, not rejoice; let all rejoice to obey you calmly when you command just and holy things. Let not kinswomen nor relatives by marriage be so exalted that the others are envious. Carnal love, harmful in many things, is not to be held in holy minds. So love all with equal charity and spiritual love as daughters. When the time requires correction, correct all alike, as if strangers to you, in their omissions."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.51",
+   "text": "But always in anger remember mercy, so that you are moved by no reason to cruelty out of fury or hatred. Yet do not have slack hands for punishing crimes, lest through impunity licence to sin be granted to the sisters. In handling the weighty affairs of the monastery and of the sisters, do not be headlong at your own pleasure, but let the will of the more numerous and better sisters always be added, lest you be accused as guilty and a squanderer of the goods of the community. Do not be easy in believing all who speak. For lightness in believing marks a light mind. Never be found unbridled of tongue, not shameless of eye, not gluttonous, not drunken. So adorn yourself with virtues, so fortify yourself with good conduct, that you may be ready to teach all by the work and example of holiness and life, so that you may now be held by all as an example of virtues, and so that, secure in the stewardship of the ministry entrusted to you, you may be able to go to meet the Lord and render him an account of every single thing."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab35",
+   "text": "CHAPTER XVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab36",
+   "text": "On the jurisdiction of the bishop over the sisters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.52",
+   "text": "The sex you bear is exceedingly weak, and frail, and changeable, if it is left to its own judgement; and even if the mind is virtuous, still, unless it is ruled, unless it is continually directed, it is quickly thrown down from holy resolve. This you know from experience in Eve: how easily she gave assent to the devil's suggestion against the divine command, the sorrow of childbirth and the very baseness of her condition bear witness. Surely nothing of virtue in you would be lasting, nothing without grave danger, if you yourselves had the care of yourselves."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.53",
+   "text": "Therefore let your bishop, to whom the rule of the Church is committed, whom God has set as watchman in his vineyard, shepherd of the sheep, director of the flock, and leader of the commons and people of the city and parish in which you live, cherish you with singular guardianship and nourish you with the food of holy doctrine; and let him, to whom the whole city is committed, bear before God a special care for your souls. Let all obey him calmly and devoutly as God; let both the prioress and the subjects revere him as father and as zealous promoter of virtues. Let the very law be kept which he has laid down for you in the way of God. If any of the sisters is unbridled, a transgressor of discipline, and incorrigible by the prioress, let her be amended, chastised and punished by him."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.54",
+   "text": "Let even the abbess herself, along with the others, acknowledge him as the staff of direction and the rod of discipline when she strays from the paths of justice. Let an open account be rendered to him twice or more each year of the goods of the monastery, of the state of the sisters, of their life and conduct, so that he may not be ignorant of the sheep he has undertaken to rule. Let nothing weighty be permitted in the community, of selling, buying or doing, without his will. When the abbess of the house dies, let him, blessing her whom the common will of the sisters has chosen as mother and abbess of the monastery, pledge her with a ring in Christ's place in true marriage, if she is found fit for the office. As for the sisters to be received, the manner, entry and conditions must in no way at all bypass him. If anything doubtful in faith, anything obscure, anything dangerous arises in the way of God, let him explain it; let him instruct you in all chastity and in the power of the Holy Spirit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab37",
+   "text": "CHAPTER XVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab38",
+   "text": "On the order to be kept between the bishop and the sisters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.55",
+   "text": "Let there be no too close familiarity, no suspect conversations: for even if a spiritual father, though a holy bishop, is still a man, a weak animal. What is held dear and useful is lost so quickly unless it is strongly guarded. Let the devil find nothing at all in holy dealings, lest from the source of rule and guidance ruin be felt. Let all be treated equally; let no carnal but spiritual love come between, and let it not be too close. For the beginning of a spiritual work, unless there is mature foresight, is usually followed by something carnal. Truly I will not keep silent, as it is wont to happen in many cases, about the unhappy misery of woman's condition: under fervour of spirit, under too close a charity, unless a guard of gravity is set on the mouth so that no one sins with the tongue, if there is free use of speaking and living together, at once lust, most shameful in act, most unhappy to speak of, is born from spirit and charity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.56",
+   "text": "Therefore, dearest ones, this I urge, this I warn, this I command you: you who are betrothed in marriage to Christ, to whom you have vowed all the faith of your chastity, and to whom you have promised under oath to know no lover but him, seek to flee the face of any man whatever, even if holiness adorns him, even if he were equal to the Baptist in merits; and let it not be permitted to be bound to him by fervent love through the day. Believe one who has experienced it: nothing is more dangerous to a man than a woman, and to a woman than a man. Each is straw, each is fire. I will say it boldly, alas! Temples of God, vessels of the Holy Spirit, and buildings dedicated to God become brothels unless they are kept with diligent guard. And so noble a deposit, so precious a treasure, the irrecoverable glory of chastity, is carried off, if the devil, ever lying in wait, can fix his gaze through the slender crack of any foolish love whatever. Therefore let the heart be kept with all watchfulness. Let watchmen be set on the walls of Jerusalem all day, and let them not sleep at night, lest the thief enter, lest he carry off spoils that can never be recovered."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab39",
+   "text": "CHAPTER XIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab40",
+   "text": "On the provost priest to be had by the sisters after the bishop."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.57",
+   "text": "A mind spread over many things cannot attend to each one. The bishop bears the care of all: he is a man, and cannot be present in every single place, nor have knowledge of different things at once. So, lest absence give security in vice, you should have after the bishop, as provost, a holy priest, one whom holiness commends, whom knowledge furnishes, whom age and life render such that even among the wicked and the loose no bad opinion of him can be held. Let him hold the bishop's place among you, let him preach, let him correct you all, to him alone let the hidden things of the house lie open, on his counsel let all rely. Let the opinions of different [men] not set up different sects in the community of sisters, nor different rites, so that whatever one blames, another advises: for thus peace, quiet and charity itself depart from a divided house."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.58",
+   "text": "Believe me, a crowd of priests and religious men going about [them] drives all holiness out of the company of women. Let the bishop, who, divided among many things, cannot continually be present to one alone in all things, be informed of whatever must be done for [your] benefit, whatever holy matter arises to be ordered. Let each sister confess her hidden sins every month, twice or more, either to the bishop, or to the provost priest alone, or to whomever he has entrusted [this]; and, fortified by the holy communion of the Lord's body, let them enter the camp of the demons to fight manfully. In this life nothing is stronger for mortals, nothing more wholesome, than that, as soon as a sin is committed, the remedy of confession is not put off. Physicians too testify that the diseases of every sickness are removed from the body if help is given at the beginning, as they arise."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.59",
+   "text": "But if, mindful of the human condition, even the priest himself should seem, even by slight report, to be bound to any of the sisters by foolish familiarity, let that not be allowed to arise which, once it has arisen, cannot be removed without harm and without scandal. Let him be corrected, if need be, by the bishop; but if, once corrected, he will not put an end to what he has begun, let him be removed, even if he were most useful, even if necessary to the place. Let no usefulness prevail from which danger to souls is feared. And let a holy successor be appointed, whom long chastity and [a good] life commend."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab41",
+   "text": "CHAPTER XX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab42",
+   "text": "On the order to be kept by the sisters towards men, and especially in speaking."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.60",
+   "text": "Let the shameless feet of anyone never tread the threshold of the monastery; let your ears never be soiled by the voice of impurity, the messenger of a disordered mind. Every voice of a woman is a fiery arrow of the devil, and the reverse. Therefore the Psalmist, groaning, prays that his soul be delivered from wicked lips and from a deceitful tongue. For adding afterwards why he so earnestly asks to be delivered, he says: The sharp arrows of the mighty, with desolating coals. The lips of a man offer poison to a woman: if she is not shrewd against the deceits of the lying tongue, with which the mighty devil wounds the wretched heart with the arrows of temptation along with the heat of lust. These are the windows of death: unless they are closed, dread death at once enters in."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.61",
+   "text": "A man, of whatever condition he may be, should either never appear, or, when seen, should frighten your sight like a horrid monster. Therefore I wish, dearest ones, that if it is necessary to speak with a man, a veil drawn across the little window should cover the face of each, lest it be permitted to see what it is not permitted to desire. Let holiness seize on no excuse for itself. Holy David is caught by seeing. Dinah, going out to see, is seen and corrupted. So there would be countless examples, which I leave you to ponder often. Why do I wander through many things? Almost every syllable of holy Scripture cries out; we are taught by almost every movement of our own body, that victory in this contest is not to be hoped for except by flight. Let no one dare from strength to resist [its] powers: for unless she flees, she will soon succumb. For in the common life let there not be even a private word: secret little words are not without suspicion."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.62",
+   "text": "And therefore I command that no sister dare speak to any outsider except in the presence of several holy sisters and of the abbess, or especially of another prioress of the house: excepting only those things that are said to the priest in confession. Such words are certainly apt to bring forth many evil seeds. Among yourselves let there be no mention at all, if it can be done, of a man. Beyond belief the devil exults when the memory of men thrives in a virgin heart. No poison is more harmful to a woman than affection towards a man, for whatever cause it proceeds. Alas, the unhappy condition of your sex! A woman holier than can be told, if she clings to a man, however spiritual, is at last inclined by natural instinct to wickedness, if virtue fails in the man. It grieves me to tell all I know. Even sonships and motherhoods, the names which men and women use among themselves under the veil of the spirit, are devices of the devil and tokens of eternal death."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.63",
+   "text": "All little gifts and suspect little letters, all these messengers of lust, I forbid you under anathema and the penalty of eternal death. Let the greatest diligence be used that no letter of any kind go out beyond the bounds of the convent unless the assent of the abbess and the sisters has been given. And if need be, and the gravity of the matter so requires, let there be the bishop's licence or the priest's counsel. Let whoever is found guilty of this be subject to the heaviest penalty."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab43",
+   "text": "CHAPTER XXI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab44",
+   "text": "On avoiding feigned and harmful talk."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.64",
+   "text": "All the holy Fathers proclaim that, among other things, the throng of people is supremely harmful to the servants of God. In much speaking sin can never be lacking. The tongue of men, headlong to judgement, mostly never ceases to gnaw away here and there at the life of the absent. There is a most wicked kind of certain spiritual men who, not heeding that God has given all judgement to his Son, think it lawful for themselves to judge the life and morals of all men, and, what is more, the conscience, whose hidden things it belongs to divine knowledge alone to know, putting forward that the spiritual man judges all things. Alas, you who are full of an unclean spirit, why do you try to pull the mote from your brother's eye, who continually carry a beam in your own? Gloomy hypocrites disfigure their faces so as to appear to men to be fasting; and with long beard, hair sprinkled with ash, in a garment torn all over, coarse and unsightly, with smooth conversation and feigned words, they show themselves holy; and, whitewashed walls, they sow sects of errors among silly women."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.65",
+   "text": "Then, as they speak, they blacken anyone's life together with his reputation: all these are instruments of the devil. The most unfortunate kind of women are caught with a hook like fish; they are led to the shambles like beasts. Women too forward always crave fictions, always demand embellished words; they seek out lies, never tire of new tales, delight in auguries, sorceries and the incantations of demons. If any bring forth such things, these are the favourite sons, these the spiritual fathers and brothers; these indeed, to speak more truly, the concubine-keepers and corrupters of mind and belly, are fed: with exquisite dishes and delicate foods, and precious wines are not lacking. Often out of the stolen labours of men, and amid gluttony and drunkenness, with belching throats they preach the sweetness of the spirit. Again and again that saying of the Apostle is put forward: That all things are clean to the clean. It is wicked to speak of such things, and, oh shame! But I wish to uncover to the handmaids of God all the arts of the devil, so that nothing be lacking that can be guarded against."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab45",
+   "text": "CHAPTER XXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab46",
+   "text": "On silence, and on keeping the due days and hours."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.67",
+   "text": "So drive all these things far away, beloved brides of God: recognise the devil ruling in them. Among you let there never be dispute about another's life. Let all judgement remain for God's examination. Know your sins; weep for your faults. Let the life of all appear to you an example of holiness. Reckon yourselves worse than all: let purity so cling to your minds that it is unseemly to think, and wicked to believe, that anyone could sin on your account."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.68",
+   "text": "If you hear anyone disparaging another, flee far away and leave him like a serpent, so that, overcome by shame, he may learn to be silent about the deeds of others. It is the custom of certain silly women, mostly or always chattering, to keep nothing secret that they hear; rather they often tell what they do not know, and they cannot keep silent any seed-bed of scandal: here and there either uttering harmful words, or sowing discord, or, listening, they incite others to disparagement, or confirm slanders, so that they are held guilty of a double offence. In this community of the handmaids of God let all womanly weakness be expelled. Let that word of James be repeated many times a day in your heart: If anyone thinks himself to be religious, not bridling his tongue but deceiving his heart, this man's religion is vain. Holy religion, therefore, cannot be in the talkative, who can at no time be silent nor abstain from useless words. For, taught by this, the holy fathers in the desert keep holy silence with the greatest diligence, as the cause of holy contemplation."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.69",
+   "text": "I do not doubt that I have found many who for seven years had uttered no word at all to another man, knowing that the Lord cannot be held in commotion. Therefore I wish, dearest ones, that in your community, three or more times a week, festivals excepted, it be in no way permitted to speak at all, unless a most useful and necessary cause presses, neither together nor with others outside. But on all the days on which speaking is granted both for relief and for well-being, one should not give every hour to words, which can scarcely be uttered without sin; but let this inviolable observance prevail: that every night, after the hour of Compline is finished, until after Mass, and from Terce until None, holy silence be kept, so that the tongue may be granted the opportunity of praising God, and useless words be wholly cut off. But in the choir of the church, made ready for the divine praises, in the dormitory, refectory, cloister and chapter, it is not fitting to speak at any time, except those things for which the places are ordained in the praises of God: so that time and place may now proclaim the holiness of your religion, bring compunction to the talkative, stir holy desires to enter your fellowship, and move affections towards heavenly things."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab47",
+   "text": "CHAPTER XXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab48",
+   "text": "On bridling the tongue in speaking."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.70",
+   "text": "By no means, dearest ones, would the apostle James have placed the proof of religion in bridling the tongue, unless he knew by sure evidence that death and life are in the hands of the tongue. For, as he indicates, with it we bless and curse God. Therefore, after the many things he had declared about the tongue, he draws from all that was said a kind of general conclusion: Whoever, he says, bridles his tongue, this man will be blessed in his deed. See how blessedness is placed in bridling the tongue: so that it may be understood that in much speaking God, who is our blessedness, cannot be possessed and contemplated. Bridling the tongue is when the tongue, which by its own fault is always prone to lies (whence men are also called liars, and the sons of men vain), either has silence imposed on it, so that it does not dare to break out into what displeases God, or is exercised in good, so that it pays the divine praises."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.71",
+   "text": "So then, dearest and most beloved daughters, at the times when the opportunity is offered, so that you may be blessed, tame your tongues, so that they are not turned to quarrels, so that they do not resound with disputes, contentions, brawls and scandals; so that they do not utter oaths, blasphemies, insults, and what displeases others. But if, at the prompting of the devil, who always sows discord, even a slight dissension should arise among the sisters, let the wickedness at once be wholly crushed in the seed by the abbess, or by the bishop or the provost of the house, so that the setting of the sun does not find anger in the house of God, and anger be turned into hatred, and the house of peace become a tavern of drunkards. Drive out lies as you would hell. And let the divine offices, or the words of the sacred books, always be brought forward, both among the sisters and among those who come to visit."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.72",
+   "text": "If ever silly women chatter on about their own husbands, their children, their clothes, the vanities of the world, as is their custom, let their words at once be broken off, let the idle and harmful word at once give way to divine discourse. If the divine cannot be brought into such a conversation, let the window be closed in their face in detestation of the offence, and let swift flight bear witness to the holiness within. So let nothing entering through the outward [senses] of the body trouble the mind with thoughts when it is laid open to divine contemplation. Rarely is a thing thought of in the mind which the outward senses do not send in. These are the windows, these are the doors, which, if they are not closed, the entrance lies open to death; and it enters only to deadly effect."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab49",
+   "text": "CHAPTER XXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab50",
+   "text": "On fleeing the company of males."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.74",
+   "text": "Believe, dearest ones, believe an old man who has tried almost everything: your outward senses cannot be closed amid the tumults of men. If a colour is set before the eye, the eye cannot fail to see; so too the ear cannot fail to hear sounds. Therefore in silence and quiet perverse thoughts are avoided, which separate us from God. For this reason I urge and admonish you to wish to hear no words but those of holy minds, and to be allowed to look on no faces but chaste and honourable ones, which holy fasts wear thin. Let a man appear so rarely, let mention of a man be made so rarely, that your little girls hardly know the male sex. Certainly let no male animal cross the bounds of the convent, so that every occasion of speaking about males may cease. Let holy mouths sound such modest, such chaste words in every conversation that the manner of generation and the origin [of things] remain hidden from the hearts of the young girls. This indeed is the devil's chain; and if you remove it from your midst, not stretching out a finger to inquire into everything out of curiosity, and if you cease to speak what does not profit, and through long silences no wish is found in you to speak useless words, then your light will rise in darkness, and the darkness will be as midday; and you will have from the Lord a rest such as this world has not known. And your soul will be filled with splendours which minds darkened by the gloom of the world cannot grasp."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.75",
+   "text": "Happy, then, the soul which, scorning the whirlwind of the world and passing through the enclosure of the body, can be illumined by some ray of that supreme and incomprehensible light. So sweet, so delightful is the consolation that at once it looks down on all earthly things. Death, dreadful to all living creatures of the earth, is desired as glory, so that it may be allowed to gaze more clearly on that which, seen for a brief hour, is felt to be so delightful and pleasant. So act thus, dearest ones, fulfil what you have professed; rejoice, because you can. No care of husband, of children, of household goods, and no other burden of marriage troubles you. Flee the company of men in such a way, drive out all worldly things in such a way, that nothing at all that is done in the world reaches you. Let Christ your bridegroom alone enjoy your close embraces. Alone with the bridegroom alone, converse with him either in sacred readings or in holy meditations, and he with you."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab51",
+   "text": "CHAPTER XXV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab52",
+   "text": "On the services of the serving women who seek food and necessities for the sisters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.76",
+   "text": "Your bridegroom is exceedingly jealous, dearest ones; he in no way allows his brides to be brought out in public, lest they be desired by lovers of the world. He always wants to play alone; he always desires to stay alone with his brides alone; he wants to admit no one to the comfort; he suspects everyone; he trusts no one. The bridegroom is so haughty, so proud, that if you seek another lover he at once withdraws; so headstrong that he at once dissolves the whole marriage. Therefore, my ladies, since you are brides of my Lord, keep yourselves for him with all watchfulness, so that so sweet a Bridegroom may not be separated from you. Let Dinah, who went out to see the daughters of that region, always make you wary of her danger. Remain in your monastery as in a bridal chamber with the bridegroom."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.77",
+   "text": "Let it be wholly unlawful for any of you to pass beyond the bounds of the monastery. This is the law, this the rule, this the sum of the profession for all of you: that any of the sisters who has once entered be never, if it can be done, allowed to go out. Nor should even those women who wear the habit of religion and are known to be bound by vow to the convent seek food and necessities through the city and villages. These, staying outside in some part of the little place, should with all holiness and modesty supply what you need, to receive with Martha a share of the reward. I wish these serving women to be such that by their manner of life and dress the inner holiness of the monastery may be proclaimed. And if they go out to obtain the necessities of the house, let them not go round the villages in gossip, nor the houses of matrons for drinks, but let them practise every good work, so that their ministry may not be blamed. Let it not be permitted to the sisters living within to talk with these in secret conversations, so that nothing may enter from outside that could do harm. Let the abbess of the house take constant care of all these, lest they too do what does not befit holiness. Let them be bound by the laws of the observances and fasts, and let transgressors be subject to the rod of discipline. If they scorn to be corrected of their wickedness, let wickedness have no place in the fellowship of holiness, and let the rotten limb be cut off from the holy body."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab53",
+   "text": "CHAPTER XXVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab54",
+   "text": "On the sweetness of contemplation of divine things."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.78",
+   "text": "Therefore, my daughters and ladies, brides of my Lord, remaining within, let them feel nothing but the loving Jesus; let them alone possess this paradise, where in sweet and pleasant quiet they may gaze on the ineffable Trinity in the sacred writings, be present among the angelic choirs, mingle with their sweet melodies, singing together the divine mysteries in the church. Let the obedience of the holy patriarchs and ancient fathers shape the mind. Let the oracles of the prophets, in sweet meditation, kindle the heart towards the happy promises. Let the apostolic teachings disclose all the mysteries of the faith."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.79",
+   "text": "And let the book of the Gospels always be held in the hands as a mirror. Let the holy martyrs teach [you] to trample on all the adversities of the world and the storms of this tempestuous sea, with all the devil's cunning, and the assaults of demons. Let the precious devotion of the confessors bind the affections to constant contemplation of divine things. Let the wonderful way of life of the holy monks instruct the regular life. Let the most precious Virgin of virgins, with the other holy virgins, always teach [you] to break all the softness of [your] sex and to keep the resolve of holy virginity."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.80",
+   "text": "O happy fellowship! O happy you, if you are not ungrateful for so great and such a gift! Most happy indeed, if you yourselves know your dignity: you who, joined in marriage as beautiful queens to the King and Lord of all, are worthy to have him, if only you will, whom the angelic spirits long to see. O ineffable glory! For in a fragile body you can gaze on God. Here, I beg, let your mind be strong. Let day utter this word to day, and let night show this knowledge to night. Strive here to be present among the angelic choirs and the companies of the saints, so that afterwards, at the body's departure, they may run to meet you rejoicing and glad, as acquaintances. If you do so, nothing will be sweeter to you, nothing more delightful, than to be present at these banquets, to be filled with these foods, which once tasted make all earthly things seem bitter. Truly then the enclosure of the convent, which wearies wandering and straying minds, will be counted by you as the highest glory; and to go beyond the bounds of the monastery will be reckoned as necessarily dying."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.81",
+   "text": "Therefore believe, daughters, an experienced old man who counsels [you] devoutly. If once you have tasted how sweet the Lord is, approaching him you will be able to hear from him this: Come, and I will show you every good; and then he will show you such things as minds not accustomed to them have not known. I know what I am saying, dearest ones. For, to speak my foolishness, I, a little man so abject, so vile in the house of the Lord, while still living in the body have often been present among the choirs of the angels: perceiving nothing of bodily things for weeks, through the gaze of divine vision; after the space perhaps of many days, foreknowing things to come, I wept when I was returned to the body. What happiness did I have remaining there? What unspeakable delight did I feel? The Trinity itself, which I beheld by I know not what gaze, is witness. Witnesses too are the blessed spirits themselves, who were present. For my conscience is witness: I myself enjoyed such great goods, how many and of what kind the weakness of my body does not know how to express."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab55",
+   "text": "CHAPTER XXVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab56",
+   "text": "On the enclosure of the house"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.82",
+   "text": "One who is full of worldly business cannot aspire to the sweetness of such great contemplation; but he must die to the world, and cling to God alone above through such meditations and desires. One grain of wheat falling into the earth, unless it has died, always remains alone, just as it fell; but if it dies, it brings much fruit. So also, dearest ones, to leave the paternal home and secular clothes, and to take the name of monk, profits a person little, if the mind itself longs in its affections for the wretched things that are had in the world, and seeks again in its desires what it had left. For as Lot went out of Sodom with his daughters and wife, he was commanded by the angels that they should not look back at what they had already left behind as they walked. His wife, in the manner of women, who always seek the contrary, going against the command, was immediately turned into a statue of salt."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.83",
+   "text": "So let this teach you with what penalty those are to be punished who covet the vanities of the world in monasteries. For they are made insensible statues of salt, so that they can no longer feel anything of the sweetness of heavenly contemplation, but remain in the bitterness of the world, those who live for the world. Therefore, dearest ones, choose your monastery as your tomb, where, dead with Christ, you may remain buried there until, rising with him, you will appear in his glory. Finally, it is greatly to be feared that someone may enter by night to steal the precious treasure which lies hidden in the tomb. On this side and that thieves dig, so that with endless cunning they may steal what is held within. Let the tomb therefore be guarded by the bishop, whom God has set over his vineyard as its first guardian. Let it be guarded also by the provost priest, who holds his place in that location, so that no one may enter carelessly, no one may go in to diminish [it]."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.84",
+   "text": "Let the little place be so girded round on every side with the defences of walls that entry is scarcely granted to birds. Let the walls be raised so high that it is permitted not only to feet but not even to eyes to know what is done within. Let the doors be firmly barred with keys. And let the bishop dispose of the keys, so that no one, unless having wedding garments, may enter or go out without his consent. Let there be one or more little windows according to the bishop's disposition, so closed in on every side with iron bars that scarcely a finger can pass through. Through these, at the due hours, whether for the sake of necessity, or of edification, or of recreation, let the sisters be permitted to speak together in holy conversation with holy widows and other women whom the dress of their clothing and their slender and modest faces make venerable. At forbidden and suspect hours let the little windows remain closed. And let the abbess of the house, or another holy sister, keep the keys, so that the raven may not go out through the window from the ark. Believe me, here the treasure is to be feared for from the terror of the night, from the arrow flying by day, from the business that walks in darkness, from the attack and the noonday demon. Let these hours always be suspect to chaste minds."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab57",
+   "text": "CHAPTER XXVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab58",
+   "text": "On the detestation of precious garments."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.85",
+   "text": "Let that prophetic saying never be uttered of you: Their daughters adorned, decked round about like the likeness of a temple, and whitened outside like tombs, which shine outwardly with gold but inside are most foul and unclean, full of the corpses of the dead. Such are daughters not of Christ the king, but of Tyre. These, always about gifts, these by the shamelessness of their faces, are captured by the rich of the people and capture them. Most imperfect is the disposition of women. Always in clothes, always in gold, precious stones and outward ornaments do they place their glory. The lust innate in nature is not enough for them, but they seek occasions to satisfy lust. Without doubt they aim that the eyes of men, contemplating the gold and gems, may at last be fixed on the face, so that with the nods of their eyes they may more easily incite them to the fire of lust. Why, common harlot, do you glory in pearls and gems? What do silver and gold have to do with you? Why are you exalted in the beauty of cloth? Is not all flesh ash and hay, and to speak more truly, a mass of rottenness, food of worms and most stinking dung? What in you is to be admired, what to be praised, spectacle for boys? Even if the preciousness of the gems and metals, which nature gave them, is praised, yet you are always known as ash, hay, and unclean dung produced from unclean seed. O if you would look at yourself, most vile of women, how ashamed you would be of the body which you cultivate with such care! For you are either equal to the beast of burden and the beasts of the earth, or worse: within is that in which you should glory, not without. In this so foul vessel you hold a treasure which you ought to cultivate with the greatest diligence and keep with the greatest watchfulness. It matters nothing to you about the earthen vessel, if its form outside is foul, so long as what lies hidden within is noble, within is beautiful, what is kept within is intact."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab59",
+   "text": "CHAPTER XXIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab60",
+   "text": "On the danger of ambition for garments."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.86",
+   "text": "Therefore you, dearest ones, who are brides and daughters of the eternal king, whose kingdom will not be corrupted nor taken from him, let all your glory be from within. Sit at the right hand of the bridegroom in clothing not outer but inner, gilded with the gold of charity in golden fringes, that is, the precepts of charity; let the garment be surrounded on every side with varieties, so that nothing of the virtues may be lacking in the ornaments. Let there be myrrh, stacte and cassia from the garments, so that in the odour of virtues and of life the other young maidens may run from the world to your holiness. Delight in this honour of yours, daughters of the eternal king. This beauty of yours your king and bridegroom will desire. So you will remain with him in the bridal chamber in gladness and exultation. Then sons will be born of you who will fill not the earth but heaven, whom the Father will make princes over all the earth."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.87",
+   "text": "But if ambition for outer garments delighted you, if, having gone out from the pomp of the world, from the house of the devil, and from the congregation of the wicked, you had not totally forgotten your people and your father's house, exalting yourselves either in the dignities of your parents, or in the lineage of the flesh, or in such most perishable vanities, vapours of the earth, as is customary for the inhabitants of the earth, at once the most mighty king, rising, girt upon his thigh with a two-edged sword, will drive you out from his tabernacle with his right hand, wounded on every side. Then his most sharp arrows will pierce your hearts in bitterness, since the rod of his kingdom is a rod of uprightness. And afterwards, when you are cast out of the house of your Lord, all will mock you and will say of each of you: Wretched daughter of Babylon, who did not make God your helper but hoped in your vanity: sit now by the rivers of Babylon; lament, and hang your instruments on the willows, while you remember whence you were expelled. For you who used to sing the song of praise and gladness now weep, led away into a foreign land."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab61",
+   "text": "CHAPTER XXX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab62",
+   "text": "On the consideration of the last day of judgement."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.88",
+   "text": "Therefore, dearest ladies, with the Apostle consider yourselves in this world as dung and the refuse of the world, so that you may please your bridegroom. Nothing of the pomps of the world pertains to you, who renounced in baptism the world, the devil and their pomps; which you also afterwards confirmed under the promise of an oath at your entry into religion. Let no talk ever be held among you of nobility of family or lineage of the flesh. Let the daughter of a king or of a peasant be equal in the service of God. All together you have one nobility and dignity from the bridegroom. Go out continually outside the camp with Christ, so that with Christ you may be crucified to the world and to vices, bearing reproaches with him; and for love of him let the labour of the duties of the house seem sweet."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.89",
+   "text": "Let there be no dispute about the greater importance of offices, but about devotion and eagerness in carrying them out. Let no murmuring, no sound of foul words, no sound of quarrels ever be heard among those dead to the world. Buried corpses never carry on quarrels among themselves in their tombs, never blaspheme, never contend: so also you, dearest ones, lulled in the sleep of quiet and peace, should await your bridegroom and judge; should await the great and terrible day of judgement, that is, the day of wrath, the day of calamity, when heaven together with earth will tremble, all the powers of the heavens will be moved, the angels will be trembling together with all the saints; then the perils of each one's life will be examined, and merits will appear. Let that terrible trumpet always resound in your ears: Rise, you dead, come to judgement. Behold, the king comes with a mighty hand; he wishes to demand an account from all, surely of the smallest thoughts, surely of light and idle words. If you are not ready to render an account of each thing, you will be cast into the outer prison; you will hear from the judge: Go, you accursed, into the eternal fire prepared for the devil and his angels."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab63",
+   "text": "CHAPTER XXXI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab64",
+   "text": "On seeking out lowliness in clothing."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.90",
+   "text": "Alas, most unhappy heart, most unfortunate mind, which does not meditate daily on so dreadful a day of judgement; and if it does meditate on it, it is most foolish if it desires anything of the world and its pomps. Let all these things pass you by on no day, at no hour. Let every wall of the house, every corner, be shown before your eyes painted with that day. If this lesson is not neglected, then the lowliness of clothing, which wearies foolish little women, will delight you. Then rustic and lowly cloth will be preferred to purple and fine linen. Then coarse and rough head-veils will be valued as if [they were] of silk. Surely there will be such ugliness in the sheepskins, such coarseness in the cowls, hoods prepared with such rough workmanship, that if such were the garments of people in the world, all the industry of the cloth-makers would perish in a short time."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.91",
+   "text": "These things, dearest ones, befit nuns: not, with tight sleeves, precious and elaborate cloths, and brows veiled with fine veiling, to have the heart of harlots even more than to display it. I do not consider such women nuns, but the worst harlots and the vilest whores. For the corpses of the dead have no need of precious and elaborate ornaments in their tombs. Tombs do not need such things; the stones of the monastery do not seek the glory of clothes, which can by no means be had without great sin. Soft things are to be left to the actors and entertainers of the kings and princes of the world. It is John's part to be clothed with camels' hair. Let one be ashamed, then, to have the name of religion and to show oneself an actor by the adornment of clothes. And therefore, dearest ones, I wish you, dead to the world, who have wholly trampled on the world, to go about in such ugly and unkempt clothing that, if shameless eyes were permitted to look upon you, laughter rather than evil thought would be provoked. I declare indeed that those lie who boast that they keep chastity and yet pursue wantonness in their clothes. So let your cloth, even if white and bright, nevertheless be coarse and cheap, so that the colour may display the inward brightness of chastity, and the uniformity the contempt of earthly things. This is the glory of nuns; this the course of religious minds; this the mark of the brides of the eternal God; this the sign of those dead to the world and buried with Christ."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab65",
+   "text": "CHAPTER XXXII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab66",
+   "text": "On seeking out austerity in bedding."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.92",
+   "text": "Let married women and widows who remain in the world be anxious about many things, about laborious things; occupied daily with frequent service, let them be saved with Martha through works of piety, ministering to Jesus in the poor; let them break their bread for the hungry; let them bring the needy and wanderers into their house; let them clothe the naked, let them persevere in works of mercy, works without doubt so fruitful and good that it is impossible that they should not appease God when angered. Let them loose the bonds of wickedness, undoing the bundles, and break every burden."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.93",
+   "text": "But you, dearest ones, who with Mary have chosen the better, indeed the best, part, sit continually at the feet of Jesus, turning over the volumes of the sacred Scriptures in sacred readings. Wash his feet with constant tears of compunction and joy, of charity and devotion, intent on the sweetness of contemplation. Wipe them with your hair, expelling through it from your heart the superfluity of all earthly things. Hear from the mouth of Jesus the word that passes through hearts like a two-edged sword, cutting the joints of the limbs even to the division of the spirit. This word will be sweet to your throats beyond honey and the honeycomb. [This is] the word through which all things were made; this the word which the devotion of the centurion asked for, that his servant might be healed. Only those who hear it know the sweetness of this word. Those who are sleepy and given to sloth cannot hear this word."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.94",
+   "text": "Therefore, dearest ones, I wish you each night to lie in your little cells on a short and hard bed: not on feathers and soft things, but either on chaff or straw, or rather in wooden boxes than in beds, so that the tamed limbs may shrink from the bed rather than long for it; so that necessity rather than desire may compel the rest of approaching sleep. Thus, because of the hardness, let a short and light sleep take hold, so that the sleeping mind may not be tormented by the usual illusions of the night."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab67",
+   "text": "CHAPTER XXXIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab68",
+   "text": "On Matins and the manner of saying the divine office."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.96",
+   "text": "Let midnight prepare you for the vigils of Matins. Let the summons of the bell find none of you asleep. Let it not be unknown whether [a delay] was from sleep, but rather [let it be] from the ecstasy of contemplation. Having first prayed in your little cells, let each of the sisters come to the church in the deepest quiet of midnight and rouse the beloved bridegroom with the praises of Matins, so that he may rise to their help. Let the psalms and sacred readings be delivered so distinctly and alternately that the angelic spirits are not provoked to laughter by clashing sounds, gaps and barbarisms. Let the sound of the voices always be so moderate, attentive, quiet and sweet that no pomp and no carnal delight has place in the divine praises: let the highest devotion pour out frequent sighs and tears."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.97",
+   "text": "Let such slowness and such speed be kept in the manner that neither weariness nor stumbling of the tongue can arise. Let no words, however very useful, ever be uttered among those chanting the psalms; but let that which is treated outwardly be ruminated inwardly in the secret of the mind with the greatest diligence. It is of no merit to pray the divine offices with wordiness, and with a wretched mind to wander around the things that press from outside. When the morning praises are finished, let sleep not seize you even then, lest it be scattered what the bridegroom answers to the petitions of his brides. Soon, in chapter, to the attentive and devout sisters let a devout reading of the holy books reveal from the will of their Lord whatever is to be done. And thus let the illusions and phantoms of demons, which would mock them as they slept, give way. Immediately let another very short reading follow the reading, on the things which pertain to instruction in the apostolic life, treated in whatever style in the present little work, so that thus each day the pious mind, fed as if by a morsel, may desire sweetness, and not be held back by weariness, and may think of excellent things from small ones. After the readings let there follow confessions of faults in the regular disciplines before the abbess of the house and the other sisters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.98",
+   "text": "Let whatever has been done against the regular observances and obediences be brought out in public, so that nothing at all may now pass uncorrected and unpunished, and the condition of each may not be hidden from the mother and the sisters; so that, both through shame and through the discipline which the mother imposes, each may be made wary for the time to come. But to utter anything of these things outside the chapter, by any word or nod, let it be anathema. With this end let the holy enclosed [assembly] depart."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab69",
+   "text": "CHAPTER XXXIV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab70",
+   "text": "On the order of saying the hours of Prime, Terce, Sext and None."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.99",
+   "text": "Let the saving day begin with the praises of Prime; when these are finished, let the mysteries of the sacred Mass, because of the bridegroom's presence, gladden the hearts of the brides, inebriate them with the drink of charity, and satisfy them with the food of devotion and faith at the saving banquet. Afterwards let each one have opportunity either to pray, or to read the sacred volumes, or otherwise to do holy works. Then let the learned instruct the little novice girls on the evangelical life, holy conduct, the duties of the house and the regular disciplines, until the hour of the meal. Meanwhile let the food also be prepared, by which bodies may be refreshed for the yoke of penance."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.100",
+   "text": "Let the mind never be given to idleness, lest at any time thoughts and impulses tickle minds with illicit things; and if in any way they begin to rise up, let them be crushed at once in the seed, lest tares grow with the wheat: let whatever is wrongly conceived vanish through labours or works of the hands. Let [the sister] go to a holy sister, so that what is unclean may be cast out by holy conversation. It is very safe to have a faithful and just friend, to whom whatever lies hidden in the secret bosom of the heart may be laid open at once. For a person often cannot have right judgement in his own affairs."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.101",
+   "text": "When the hour of the meal comes, at which nature compels one to pay the body its due, on ordinary days let the praises of the hours of Terce and Sext first be devoutly rendered to God. Afterwards, with all modesty, the blessing having first been given by the abbess, let them take food, and let a part serve. After the others have eaten, let those who had served also eat, and be served by others. But when a time of fasting has made the meal later, let the sacred mysteries of the Mass, Terce, Sext and None come first; on other days let None be said after the meal at the appointed hour, when the sun in the middle of its circuit shows midday."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab71",
+   "text": "CHAPTER XXXV."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab72",
+   "text": "On food and the order of eating."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.102",
+   "text": "For when the due hour has gathered you for the meal, let the industry of cooks by no means shine in your food. Let not the nobility of the dishes move the appetite, but hunger; let not incitements to lust be served, but things that can quench hunger: let either pulses or vegetables be seasoned with oil. Let meat be granted only by licence of the abbess to the weak and sick; otherwise let the community not know what it tastes like. Let eggs and milk foods be permitted as a favour to sisters weakened after fasts and on principal feasts."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.103",
+   "text": "Let the things that arise and live in the waters be known rarely, except little fishes. Let the horrid crime of gluttony, mother of lust and executioner of chastity, have no share with the handmaids of God. Therefore let there be such sobriety in eating, such fitting frugality, that the belly is constrained rather than gratified. Let the stomach not need medicines for digestion: let emptiness rather than excessive fullness bring on belching. Nor let there be need to let out the belt, so that the mind may not be held back from meditations on God by surfeit, and the body may not need medicines. Let eating always be ordered and composed in its manner. Let there not be such speed of the throat in taking a dish, and such quick chewing of the morsel, that some suspicion of greed might rightly arise. In eating, it is not so much the food as an unseemly manner that is to be blamed. For often, over beans and barley bread, excessive greed causes great sin. Let the greedy and wandering eyes by no means roam here and there over those reclining at table and note this one or that one eating more or less. Let the number of those dining not occupy the mind of anyone."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab73",
+   "text": "CHAPTER XXXVI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab74",
+   "text": "On sobriety and fasting."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.104",
+   "text": "Wine too, in which there is wantonness, should be suspect to the brides of Christ as a poison. Let weakness of the stomach and the debility of an afflicted nature decide its use, rather than pleasure or greed. But if necessity itself all but compels it to be taken, then let the wine be served for drinking either so weak or so mixed with water that the head is by no means filled with fumes and pours out ridiculous or childish words. Drunkenness is reckoned a sacrilege, in a woman especially, but infinitely more in a bride of the Lord. Let the uncovering of Noah's private parts, and Lot's incest, brought about by drunkenness, make you cautious, and render you always fearful and always wary. Believe truly that whoever constantly uses wine carries fire in her lap."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.105",
+   "text": "I beg you, among women dead to the body, who have renounced all pleasures for Christ, let not even the slightest word be spoken of the horrid crime of gluttony and the filth of drunkenness. Gluttony of the belly and drunkenness furnish the cause and matter of infirmity of the soul as much as of the body. Therefore let medicinal fasting take away all languor and bestow all virtue and grace. Let the lawgiver teach you this, to whom the law is not given before the forty days' fast is completed. Elijah, in the strength of bread baked in the ashes, went fasting for forty days to Horeb, the Mountain of God. What virtue holy fasting contains, learn from your bridegroom, who, having completed a fast of forty days, overcame the temptation of the devil. Let the men of Nineveh not be passed over in silence, who by fasting escaped the common destruction and changed the irrevocable sentence of God. Imitate these, dearest ones, but follow them wisely, lest it be said by the Lord: This is not the fast that I have chosen."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.106",
+   "text": "Chastise your members, but do not kill them. Let fasting not cause shame, so as to be a scandal to others; let the sacred readings not be omitted through headache and weakness of body, nor prayers fail, lest it be necessary to abandon contemplation. Let each apply to herself through fasting the medicine for her own health. Let the body be broken by fasts; let the handmaid be chastised with blows. If it desires anything unlawful, let abstinences be multiplied and the heaviest disciplines applied, until it becomes so humble, so kindly, that it claims nothing harmful for itself and demands nothing you do not want. Let the mistress be raised up and rule in all things; let the handmaid be made subject, put underfoot and trampled. But if again and again she raises herself against the mistress, let the handmaid be cast out, stripped, wearied and humbled as you wish. But if you choose to harass a quiet body beyond its strength and beyond what is fitting, it will grow indignant and throw you into the pit of indiscretion. For nothing that indiscretion does, that imprudence imposes, and that lack of foresight teaches can have any virtue."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab75",
+   "text": "CHAPTER XXXVII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab76",
+   "text": "On readings at table."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.107",
+   "text": "So sweet are the words of the Lord to a healthy palate that, once tasted, they never cloy. Through their sweetness and pleasantness they always generate new appetites. It befits you always to taste them. At no time ever are you to cease from prayer. The Apostle instructs you to pray always, you who are not bound, like married women, to be free for a time [from prayer] for the allurements of the flesh. Therefore pray always as far as you can, and while the body is fed with food, let the soul be filled with reading. It is not right even for people of the world to take food and at the same time belch out empty words."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.108",
+   "text": "Let the sister appointed for each week read to those eating a holy reading from the Old Testament and from the New, and from the deeds and sayings of the saints. Then let each one's sober mind be intent on the sweetness of the word of God; let it sigh anxiously when the prophetic or historical word shows God's severity toward the wicked. Let it be filled with immense joy when God's kindness toward the good is announced. Let hope revive when it is shown by promise or by deed that indulgence can be granted to penitents. Let faith be raised up when God is shown faithful in his promises. Let charity be kindled when our humanity is endowed with so many privileges and gifts from the birth of Christ, from his life and passion and resurrection, and our lowliness is exalted. Let not words resound, but sighs; not laughter and guffaws, but tears. Let hands not be occupied with useless cuttings, but let breasts be beaten at the remembrance of sins. For, driven by these reins, the savage rapacity of the gullet does not exceed the limits of sobriety; surfeit will not be at the doors of the belly; and finally, burning lust will do no harm."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab77",
+   "text": "CHAPTER XXXVIII."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab78",
+   "text": "On the work of the sisters after the midday meal"
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.109",
+   "text": "When the food has been taken, let not even then gossip be resorted to, but, after the example of Christ, let them rise with the praises of God to give thanks, and render hymns to God in the church. Then, in all silence, so that the holy reading that was read may profit and what was recounted may be written on the mind, let each one individually go over it again and fix it, or meditate in the church on what she has learned, until on ordinary days, after the midday meal, they have celebrated together the fitting praises of the hour of None in the church; or if perhaps on fast days the hour of None comes before the meal, until the little bell is rung in the cloister. Meanwhile, if the shortness of the nights, the condition of the season and the need of nature require it, after some short hour in which there is to be reading or prayer after the meal, let those who wish be allowed for a little while to refresh the body with rest rather than sleep, so that it may be restored strong for labours."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.110",
+   "text": "After the rest, when the hour of None is over or the little bell has been rung, so that the devil may find nothing idle and the entrance of the heart may not lie open to vain desires, let one of the sisters copy books, so that both the hand may be filled with labour and the mind with divine food. Let another sew the sisters' cowls, tunics and sheepskins. Let another plant vegetable seedlings in the little garden, so that as they grow they may provide you with food. Let another sow seeds. Let the beds be watered, so that they become fit for the seeds. Let fruit-bearing trees be grafted onto barren ones, so that art may overcome the force of nature. From these things let the mind rise, through looking at these visible things, to meditate on the invisible things of God; let wonder arise at the divine power in the seed, that from something so small and so dry a creature of such size, greenness and beauty is formed. From wonder let devotion grow, from devotion the lifting up of the mind, so that the little garden itself becomes an oratory, and insensible creatures proclaim the greatness of the Creator. But above all care must be taken that your hands dare not touch anything that could be fitted to vain uses."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab79",
+   "text": "CHAPTER XXXIX."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab80",
+   "text": "On the evening hours, and Compline."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.111",
+   "text": "Serpent of morals, let all idle talk be expelled from your midst. Let laughter never, guffaws never proclaim a vain heart. Let all the actions of the body be so holy, so modest, that they display the holiness of the mind. For the outer man is the index of the inner. Let the evening hour find you warring down the devil in holy labour, in holy work; at which hour let God be praised in the church with holy offices."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.112",
+   "text": "If the solemnity of a feast, or excessive weakness, has granted a common little supper and a brief refreshment of the body prepared rather [for need] than for pleasure, let the evening praises be rendered to God earlier than on other fast days, so that the praises due in the last hour of the day are not omitted or in any way cut short because of the supper. When the supper is finished, or, if it is omitted, after some short hour according to the needs of the season, let the little bell call the sisters to the church, where a devout reading is to be given either from the deeds of the saints or from other wonders of God. Let the praises of Compline follow it, so that minds strengthened by this divine food may not dread to meet the phantoms of the night and the hidden deceits of the devil, nor fear to fight; and thus the day that began with divine services may end in divine praises."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.113",
+   "text": "After Compline let nothing be heard but silence, so that the sisters, at rest and wholly withdrawn from the bodily senses, may ruminate in their minds and hold fast in their hearts what they heard earlier in the divine readings. Meditating on these things, let each go to her little cell, having received the mother's blessing, and wearing the habit of religion, so that, if nature requires, she may lay herself on her bed to rest. But if the demon, who had feared her awake, begins to pursue her asleep, if he sends illusions, if he sets foul things before her thought, as soon as the bride of God perceives it, let her rise, and let sloth and sleep give way to swift watchfulness. Then at once let her set against the devil the sign of the cross, horrible and terrifying to him, let her call on the help of her beloved bridegroom, and the jealous bridegroom, who guards his bride with great zeal, will at once rise up to the help of his bride. He will surround her with a shield, so that she will no longer fear the terror of the night. And at once a thousand will fall at her side, and ten thousand at her right hand, and they will not come near her. Lastly, he will command his angels to guard her in all her ways, lest perhaps she strike her foot against a stone."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab81",
+   "text": "CHAPTER XL."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab82",
+   "text": "On keeping charity toward sick sisters."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.114",
+   "text": "Let the flesh of a bride of God not take up the softness of baths. Their use does not suit chaste bodies. We ourselves, from daily experience, feel well enough how great a fire of lust burns in our members, even if the fuel of the fire is removed as far as possible. Too mad and foolish is he who, preparing material for fire to burn, does not want it to burn. These things befit wretched little women when they are endangered by the shipwreck of childbirth. Yet if extreme necessity has counselled it for a sick woman, let it be done with all modesty, the honour of all chastity being preserved. Otherwise let it be unlawful for the servants of God to think of such things. Let it be kept with the greatest care among you that toward sick sisters, with all solicitude, every care of hospitality is shown, and services of complete and entire kindness are provided. If danger requires it, let them at once consult a physician who is sober and chaste and free from all suspicion; and whatever he prescribes as suited to health, let it be done kindly, setting aside every need of the house. But if necessities are lacking, let the things of the monastery be sold, so that nothing temporal may hinder works of mercy."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.115",
+   "text": "Let no law of food, drink or bedding bind a sick or weak sister. Yet care must be taken that the craving of gluttony does not seek its own comfort under the veil of sickness, and that sickness, under the appearance of holiness, does not wear down the body with abstinences beyond its strength, lest the body, broken by a double goad and failing before the just Judge, accuse the community of impiety and of murder. Let discreet and holy sisters be appointed as keepers for the sick, who will carefully guard against the dangers that can threaten the sick, so that nothing adverse may happen in any way. Let the serving women not, I beg, find their burdens heavy. Let them always think of Christ hidden in the sick sister; let them always think that they may come to need such things in the future. Let that law of nature always be held bound in the bosom of the mind, that a person ought to show to others what he would himself ask of them. Let murmuring not, I beg, taint the works of hospitality, but let what ought to be done be done with all gentleness, according to the Apostle, who says: Pursuing hospitality, [bearing with] one another in charity without murmuring."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab83",
+   "text": "CHAPTER XLI."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.ab84",
+   "text": "On the authority of the bishop and the provost concerning the observances of the order."
+  },
+  {
+   "ref": "urn:cts:latinLit:stoa0162.stoa059.opp-lat1.116",
+   "text": "See, my lady Eustochium, and the rest of you most beloved daughters of Christ: an old father, already near to death, being a hundred years in age, has sent you with devoted affection the apostolic life, written on these little pages in a rough and coarse style. In this mirror, as in a riddle in the present life, let each one of the daughters discern by constant meditation the way of eternal happiness. Let the coarseness of the bark not cause contempt for seeking out the pith. Let unskilled and rustic speech not breed disgust. Such things befit poetic fables. A work of piety and of all truth has no need to be read with the pomp of rhetoricians. All these things belong to the young. From this, each day, as from a delightful dish, take for yourselves a morsel of each. Do not swallow it down, but chewing it with great slowness, move it this way and that in your mouth, so that you may be able to taste its sweetness. For I confess to you that from the things written here, if meditation is diligent, such things will rise up for you as human tongue has not known, although this too is an imperfect work. For no constitution is so holy, so just and so long considered that it will not suffer very many defects in the future, or will not at some time need correction. Therefore, if anything in this little rule of the apostolic life and of religion needs dispensation, correction or change, I commit it to your bishop or to your holy provost priest, that he may dispense, change and correct according to the fullness of the Holy Spirit. So then, dearest daughters, live holy days. So [live], joined to Christ by the marriage covenant, that when the bridegroom comes in the middle of the night to call you to the wedding, he may find you always ready, not with an empty lamp, and not seeking oil for yourselves outside, lest, as with the foolish [virgins], entry to the bridal chamber be denied you because of your lateness. Help the old age of your devoted Jerome with your holy prayers."
+  }
+ ]
+}
