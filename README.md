@@ -1,6 +1,6 @@
 # Classica Codex AI translations
 
-English translations of ancient and medieval texts that have no published English, made by AI and labelled as such: passages that other projects cite, and whole works.
+English translations of ancient and medieval texts that had no published English we could find, made by AI and labelled as such: passages that other projects cite, and whole works.
 
 > **AI translation.** Every translation here was made by Claude (Anthropic) from the original text and checked against the original by a second AI, Codex (OpenAI). Objections that held up were corrected. Codex read every cited passage in `translations/`, but only a sample of the whole works and of the `testimonia/` folder: see below. **No specialist has reviewed any of it.** Use these as plain working versions, not authoritative translations, and keep this label with them wherever you use them.
 
@@ -9,7 +9,7 @@ The `translations/` folder has 670 files.
   - the [Atlas of Ancient Myth](https://skirnirstudios.com/atlas-of-ancient-myth/);
   - [Magic in the Ancient Texts](https://skirnirstudios.com/magic-in-the-ancient-texts/);
   - a study of demons and angels.
-- **226 are whole works** in Latin and Greek for which no English translation could be found: about 2,515,400 English words on 29,798 lines. See [Whole works](#whole-works).
+- **226 are whole works** in Latin and Greek for which we could find no complete English translation by a person: about 2,515,400 English words on 29,798 lines. See [Whole works](#whole-works).
 
 You can read the cited passages beside their originals at [skirnirstudios.com/translations](https://skirnirstudios.com/translations/), and import everything in `translations/` into a [Classica Codex](https://github.com/ClassicaCodex/ClassicaCodex) library from its setup screens.
 
@@ -70,11 +70,16 @@ The major-error rates before correction were:
 - **What they are.** 161 are Latin and 65 Greek: about 1,807,700 words of original and 2,515,400 of English, on 29,798 lines. 144 come from Migne's Patrologia Latina, 62 from First1KGreek, 16 from CSEL and 4 from Perseus.
   - Most are short: theology, sermons, letters, monastic rules, canons and lives of saints, with 24 of Libanius's orations and declamations, two orations of Aelius Aristides, Galen and other Greek medical writers, Hero of Alexandria, Euclid's *Optics* in Theon's recension, and Philodemus's *On Music*. The third batch, of longer works, adds the Latin Euclid that goes under Boethius's name, Boethius's treatise on hypothetical syllogisms, Sedulius's *Opus Paschale*, Aelius Aristides' *Ars Rhetorica*, two medical works under Galen's name, and Greek commentaries on Aristotle. The longest is Rufinus's Latin version of Gregory of Nazianzus's orations, about 23,900 words.
   - Authors and titles are the library's, which follow Migne and the other editions. Many attributions there are doubtful, and works marked *incertus* are not by the author named.
-- **Why these works.** They are the first 226 finished of 314 Latin and Greek works in the library for which no English translation could be found. The run goes shortest first, but Philodemus's *On Music* was brought forward.
+- **Why these works.** They are the first 226 finished of 314 Latin and Greek works in the library for which we could find no complete English translation by a person. The run goes shortest first, but Philodemus's *On Music* was brought forward.
   - An AI searched the web for each work's English: translation series, journals, theses and open projects. Claude did most of the searching and Codex some.
   - Machine-made English did not count.
   - Against an earlier, separate search, the list agreed on 72 of 82 works, and it missed one recent translation, since corrected.
   - A search is not proof. If you know an English translation of one of these works, please open an issue.
+- **What a second search found.** In November 2026 a closer search, made for a documentary about these works, looked again at 17 of them and at Libanius's declamations. It showed that the claim has to stay narrow: no complete English translation by a person that we could find.
+  - **Seven of Libanius's declamations have published English after all,** and our list was wrong about them. Declamations 22, 25, 39 and 42 are in D. A. Russell's *Libanius: Imaginary Speeches* (1996); 41 is in Daniel Ogden's *Magic, Witchcraft, and Ghosts in the Greek and Roman Worlds* (2002); 36 and 44 are in Malcolm Heath's *Hermogenes: On Issues* (1995). Their files stay here, and their headers now say so.
+  - **Other websites carry complete English of several works,** made by AI or with no translator named. Sophia Scriptura, which credits Claude, and Updated Works have Lucifer of Cagliari's *De non parcendo* and *De regibus apostaticis*, his letters, and Pseudo-Cyprian's *De singularitate clericorum*. Updated Works also has Pseudo-Cyprian's *De duplici martyrio*, Sophia Scriptura has Commodian's *Carmen apologeticum*, and Bibliothecarius Modernus has an AI-assisted English of Hilarianus's *De mundi duratione* (2025).
+  - **People have translated parts of others:** Commodian's *Carmen apologeticum*, lines 785–1053 (Darius Matthias Klein, 2008), with a complete translation by Mateusz Kusio announced; extracts of the Uzalis miracles of St Stephen (Robert Bartlett, 2013, and Oxford's *Cult of Saints* database); chapter 6 of Philumenus on venomous animals (Sean Coughlin, 2019); one paragraph of Libanius's Oration 29 (Pierre-Louis Malosse, 2014); the list of people freed in Bertram of Le Mans's will (Hannah Probert, 2016); part of book 4 of Philodemus's *On Music* (Bychkov and Sheppard, 2010); a few lines of Maximus's *Peri katarchon* (Zito, 2021); clauses of the *Constitutum Silvestri* (Moore, 2012); and excerpts of Pseudo-Galen's *Introductio sive medicus* (Petit, 2014) and Cassius's *Quaestiones medicae* (Tecusan, 2004).
+  - The other works have not had this closer look, so more cases like these are likely.
 - **Translation.** Claude (claude-opus-5-5) translated each work straight through, in stretches of about 1,200 words.
   - With each stretch it saw the lines it had just translated, the next lines of the original, and a running glossary of the names and terms used so far, so that a work reads as one translation.
   - As with the passages, it gave one English line for each line of the original, did not consult a published translation, and put doubtful readings in notes.
